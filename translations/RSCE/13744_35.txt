@@ -1,19 +1,19 @@
-××××××空開始××××××
+××××××공 시작××××××
 
 [ENDBLOCK]
-××××××空終了××××××
+××××××공 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+◆◆◆◆◆◆외막 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
-◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+◆◆◆◆◆◆외막 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
-●●●●●●雲開始●●●●●●
+●●●●●●구름 시작●●●●●●
 
 [ENDBLOCK]
-●●●●●●雲終了●●●●●●
+●●●●●●구름 종료●●●●●●
 
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
@@ -21,719 +21,717 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんだこれ？
+이게 뭐지？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-世界の異変と、オベロン社総帥が
-繋がっている事に、気付いた連中よ。
+세계의 이상과, 오베론 사 총수와
+연결되어 있는 것에, 눈치챈 사람들よ.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-だから、こうして
-押し寄せているんだわ。
+그래서, 이렇게
+몰려오고 있는 거야.
 [ENDBLOCK]
-オベロン社員
+오베론 직원
 [ENDBLOCK]
-現在、総帥はご病気のために
-療養中です。
+현재, 총수는 병으로 인해
+요양 중입니다.
 [ENDBLOCK]
-オベロン社員
+오베론 직원
 [ENDBLOCK]
-世間に流れている
-噂は、真実ではありません。
+세상에 퍼져 있는
+소문은, 진실이 아닙니다.
 [ENDBLOCK]
-そんなの嘘に決まってらぁ。
+그런 건 거짓말에 결정되어 있어.
 [ENDBLOCK]
-だったら<Hugo>をここに
-連れてこいよ！
+그렇다면<Hugo>를 여기로
+데려와！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まずいわね。このままだと、
-ハンターたちが暴動を起こすわ。
+먼저 안 좋은 상황이야. 이렇게 되면,
+헌터들이 폭동을 일으킬 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-分かるの？
+알겠어？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-レンズの需要と供給の
-バランスが、崩れるのよ。
+렌즈의 수요와 공급의
+균형이, 무너지는 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どういう事？
+무슨 뜻이야？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-レンズハンターたちの
-稼ぎがなくなるって事。
+렌즈 헌터들의
+수익이 없어지는 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それは確かに問題だな。
-生活ができなくなったら。
+그건 확실히 문제야.
+생활을 할 수 없게 되면.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも、どうすれば？
+그런데, 어떻게 해야 해？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-問題は大量にレンズを売ろうと
-する人たちに、オベロン社の買い上げ
-資金が追いつかない事にあるわ。
+문제는 대량으로 렌즈를 팔려는
+사람들에게, 오베론 사의 구매 자금이
+따라가지 못하는 데 있어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-レンズを売る側の
-気持ちに焦りがなくなれば……
+렌즈를 파는 쪽의
+마음에 초조함이 없어진다면…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そうすれば、オベロン社も
-少しずつレンズを買い取れるわ。
+그렇게 되면, 오베론 사도
+조금씩 렌즈를 사들일 수 있어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-この人たちを落ち着かせれば、
-良いって事？
+이 사람들을 진정시키면,
+좋다는 거야？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まあ、そういう事。
+응, 그런 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし！
+좋아！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-え？	何するのよ!?
+에？	뭐 하는 거야!? 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-みなさん、聞いてください。
+여러분, 들어주세요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺、昨日<Hugo>さんに会いました。
+나는 어제 <Hugo>씨를 만났어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ちょっと体調崩していましたけど、
-すぐに治るって、言ってました。
+조금 몸이 안 좋았지만,
+금방 나을 거라고 말했어.
 [ENDBLOCK]
-本当だろうな！
+정말일까?!
 [ENDBLOCK]
-信じられないぞ！
+믿을 수가 없어!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしも一緒だったわよ。
+나도 함께 있었어.
 [ENDBLOCK]
-ふたりも言うなら本当か？
+둘이서 말하면 진짜야?
 [ENDBLOCK]
-だとしたら、本当にただの
-噂だったのかよ。
+그렇다면, 진짜 그냥
+소문이었던 건가?
 [ENDBLOCK]
-なんか、俺たちの
-勘違いだったようだな。
+뭔가, 우리들의
+착각이었던 것 같네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうにか上手くいったけど……
-やっぱり嘘はなあ。
+어떻게든 잘 됐지만…
+역시 거짓말은 안 돼.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-仕方ないわ。
-今は嘘でも許される状況よ。
+어쩔 수 없지.
+지금은 거짓말이라도 용서되는 상황이야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-他の街も心配だわ。
-行ってみましょ。
+다른 도시도 걱정이야.
+가보자.
 [ENDBLOCK]
-女性
+여성
 [ENDBLOCK]
-あなた屋敷に出入りしているようだけど、
-まさか、この屋敷の人かい？
+당신이 저택에 드나들고 있는 것 같은데,
+설마, 이 저택의 사람인가요?
 [ENDBLOCK]
-女性
+여성
 [ENDBLOCK]
-このところオベロン社総帥や、
-屋敷の執事さんを見ないねえ。
+최근에 오베론 사 총수나,
+저택의 집사님을 보지 못했어요.
 [ENDBLOCK]
-女性
+여성
 [ENDBLOCK]
-ここがオベロン社総帥様のお屋敷さ。
-立派なもんだろ？
+여기가 오베론 사 총수님의 저택이야.
+훌륭하지 않아?
 [ENDBLOCK]
-女性
+여성
 [ENDBLOCK]
-このところオベロン社総帥や、
-屋敷の執事の姿を見ないねえ。
+최근에 오베론 사 총수나,
+저택의 집사의 모습을 보지 못했어요.
 [ENDBLOCK]
-女性
+여성
 [ENDBLOCK]
-あああ……山が……山が……
-なくなって……！
+아아아… 산이… 산이…
+없어져 버렸어…!
 [ENDBLOCK]
-女性
+여성
 [ENDBLOCK]
-黒幕はオベロン社総帥なんだって？
-冗談じゃないよ！
+흑막은 오베론 사 총수라고?
+농담하지 마!
 [ENDBLOCK]
-女性
+여성
 [ENDBLOCK]
-こんな事になるなら、オベロン社を
-さっさと潰しとけばよかったんだよ。
+이런 일이 벌어질 줄 알았다면, 오베론 사를
+빨리 부숴버렸어야 했어.
 [ENDBLOCK]
-女性
+여성
 [ENDBLOCK]
-お城で作ってる秘密兵器って、
-レンズを大量に使うんだろ？
+성에서 만들고 있는 비밀 병기는,
+렌즈를 대량으로 사용하겠지?
 [ENDBLOCK]
-女性
+여성
 [ENDBLOCK]
-レンズと聞くとオベロン社を
-想像しちまうねえ。
+렌즈 하면 오베론 사를
+떠올리게 되네.
 [ENDBLOCK]
-女性
+여성
 [ENDBLOCK]
-レンズを使う秘密兵器ってのは、
-オベロン社とは関係ないんだね？
+렌즈를 사용하는 비밀 병기는,
+오베론 사와는 관계가 없겠지?
 [ENDBLOCK]
-女性
+여성
 [ENDBLOCK]
-あんたたち、頼んだよ！
+당신들, 부탁할게요!
 [ENDBLOCK]
-警備兵
+경비병
 [ENDBLOCK]
-<Lion>様がここのご子息である
-事は公表されていません。
+<Lion>님이 여기의 자제라는
+것은 공개되지 않았습니다.
 [ENDBLOCK]
-警備兵
+경비병
 [ENDBLOCK]
-怪しい人物には
-お気をつけ下さい。
+수상한 인물에게는
+조심해 주세요.
 
 [ENDBLOCK]
-警備兵
+경비병
 [ENDBLOCK]
-<Lion>様の活躍を聞く度に
-誰かに自慢したくなりますよ。
+<Lion>님의 활약을 들을 때마다
+누군가에게 자랑하고 싶어져요.
 [ENDBLOCK]
-警備兵
+경비병
 [ENDBLOCK]
-<Hugo>氏は今や我が国の重要人物。
-こうして厳重にお守りしております。
+<Hugo>씨는 이제 우리나라의 중요한 인물.
+이렇게 철저히 지키고 있습니다.
 [ENDBLOCK]
-警備兵
+경비병
 [ENDBLOCK]
-俺は<Hugo>邸警備の任を解かれた。
-上からもういいといわれたのさ。
+나는 <Hugo> 저택 경비의 임무를 해제당했어.
+위에서 그만하라고 하더군.
 [ENDBLOCK]
-警備兵
+경비병
 [ENDBLOCK]
-それでもつい習慣で、
-ここにいてしまうんだがね。
+그래도 습관적으로,
+여기 있게 되네.
 [ENDBLOCK]
-警備兵
+경비병
 [ENDBLOCK]
-あの放送を流していたのは<Hugo>氏だ。
-声を聞けばすぐにわかる。
+저 방송을 틀었던 건 <Hugo> 씨다.
+목소리를 들으면 바로 알 수 있어.
 [ENDBLOCK]
-警備兵
+경비병
 [ENDBLOCK]
-我が国を裏切った罪は重い。
-<Hugo>は絶対に許せん。
+우리 나라를 배신한 죄는 무겁다.
+<Hugo>는 절대 용서할 수 없다.
 [ENDBLOCK]
-警備兵
+경비병
 [ENDBLOCK]
-屋敷を見張るよう命令されたんで、
-今もこうしてここに立ってるのさ。
+저택을 감시하라는 명령을 받아서,
+지금도 이렇게 여기 서 있는 거야.
 [ENDBLOCK]
-警備兵
+경비병
 [ENDBLOCK]
-屋敷で働いている<Marian>って女は、
-誰かの帰りを待っているらしい。
+저택에서 일하는 <Marian>이라는 여자는,
+누군가의 귀환을 기다리고 있는 것 같아.
 [ENDBLOCK]
-警備兵
+경비병
 [ENDBLOCK]
-今さらこの屋敷に、
-戻ってくる奴がいるとは思えんがな。
+지금 와서 이 저택에,
+돌아오는 놈이 있을 거라고는 생각하지 않지만.
 [ENDBLOCK]
-警備兵
+경비병
 [ENDBLOCK]
-屋敷で働いている<Marian>って女は、
-誰かの帰りを待っているらしい。
+저택에서 일하는 <Marian>이라는 여자는,
+누군가의 귀환을 기다리고 있는 것 같아.
 [ENDBLOCK]
-男
+남자
 [ENDBLOCK]
-今じゃレンズ製品のない生活など、
-考えられません。
+이제 렌즈 제품 없는 생활은,
+생각할 수 없어.
 [ENDBLOCK]
-男
+남자
 [ENDBLOCK]
-<Hugo>総帥の功績は、
-あまりにも偉大です。
+<Hugo> 총수의 공적은,
+너무나도 위대해.
 [ENDBLOCK]
-男
+남자
 [ENDBLOCK]
-私も昔はレンズハンターだったのですが、
-<Rembrandt>様に拾われたのです。
+나도 예전에는 렌즈 헌터였지만,
+<Rembrandt>님께拾われ었어.
 [ENDBLOCK]
-男
+남자
 [ENDBLOCK]
-今じゃレンズ製品のない生活など、
-考えられないだろう？
+이제 렌즈 제품 없는 생활은,
+상상할 수 없겠지?
 [ENDBLOCK]
-男
+남자
 [ENDBLOCK]
-<Hugo>総帥の功績は、
-あまりにも偉大だよ。
+<Hugo> 총수의 공적은,
+너무나도 위대해.
 [ENDBLOCK]
-男
+남자
 [ENDBLOCK]
-俺も昔はレンズハンターだったんだが、
-<Rembrandt>様に拾われたのさ。
+나도 예전에는 렌즈 헌터였는데,
+<Rembrandt>님께拾われ었어.
 [ENDBLOCK]
-男
+남자
 [ENDBLOCK]
-選ばれし者による新たな世界、か。
-俺も連れて行ってもらいたいぜ。
+선택받은 자에 의한 새로운 세계,인가.
+나도 데려가 줬으면 좋겠어.
 [ENDBLOCK]
-男
+남자
 [ENDBLOCK]
-結局空から迎えはこなかった。
-俺は選ばれなかったらしいな。
+결국 하늘에서 구하러 오지 않았어.
+나는 선택받지 못한 것 같아.
 [ENDBLOCK]
-男
+남자
 [ENDBLOCK]
-レンズハンター時代は常に危険と
-隣りあわせだった。
+렌즈 헌터 시절은 항상 위험과
+나란히 있었지.
 [ENDBLOCK]
-男
+남자
 [ENDBLOCK]
-今さら空が外殻に覆われたくらいで、
-びびったりはしねえよ。
+지금 와서 하늘이 외각에 덮여졌다고 해서,
+겁먹지는 않아.
 [ENDBLOCK]
-男
+남자
 [ENDBLOCK]
-頼んだぜ、強欲の魔女！
+부탁할게, 탐욕의 마녀!
 [ENDBLOCK]
-男
+남자
 [ENDBLOCK]
-頼んだぜ、あんたたち！
+부탁할게, 너희들!
 [ENDBLOCK]
-見習使用人
+견습 하인
 [ENDBLOCK]
-おはようございます！
+안녕하세요!
 
 [ENDBLOCK]
-見習使用人
+견습 하인
 [ENDBLOCK]
-今はまだ見習いですけど、
-よろしくお願いします。
+지금은 아직 견습생이지만,
+잘 부탁드립니다.
 [ENDBLOCK]
-見習使用人
+견습 하인
 [ENDBLOCK]
-うぅ。わたしまだ
-見習いのままです……
+우웅. 나 아직
+견습생인 상태야…
 [ENDBLOCK]
-見習使用人
+견습 하인
 [ENDBLOCK]
-知ってる？	今噂の<Lion>様って、
-実はこの屋敷の……
+알고 있어? 지금 소문이 자자한 <Lion>님은,
+사실 이 저택의…
 [ENDBLOCK]
-見習使用人
+견습 하인
 [ENDBLOCK]
-す、すみません！
-なんでもありません！
+죄, 죄송합니다!
+아무것도 아니에요!
 [ENDBLOCK]
-見習使用人
+견습 하인
 [ENDBLOCK]
-屋敷の中は私語厳禁なの。
-毎日、息が詰まりそう。
+저택 안에서는 사적인 대화 금지야.
+매일 숨이 막힐 것 같아.
 [ENDBLOCK]
-見習使用人
+견습 하인
 [ENDBLOCK]
-空のずっと高いところから、
-光がどばーって降ってきたの。
+하늘의 아주 높은 곳에서,
+빛이 쏟아져 내렸어.
 [ENDBLOCK]
-見習使用人
+견습 하인
 [ENDBLOCK]
-あんなすごい光、
-今まで見た事がないわ。
+저런 멋진 빛은,
+지금까지 본 적이 없어요.
 [ENDBLOCK]
-見習使用人
+견습 하인
 [ENDBLOCK]
-旦那様も執事もいなくなって、
-この屋敷はもうダメね。
+주인님도 집사도 없어지고,
+이 저택은 이제 끝이네요.
 [ENDBLOCK]
-見習使用人
+견습 하인
 [ENDBLOCK]
-今まで働いた分のお給料も、
-きっともらえないでしょうね……
+지금까지 일한 만큼의 급여도,
+분명 받을 수 없겠죠…
 [ENDBLOCK]
-見習使用人
+견습 하인
 [ENDBLOCK]
-<Marian>さんが戻ってきたわ。
-あの人、雰囲気変わったわね。
+<Marian>님이 돌아왔어요.
+그 사람, 분위기가 바뀌었네요.
 [ENDBLOCK]
-見習使用人
+견습 하인
 [ENDBLOCK]
-<Marian>さんにいわれて、
-あたしもお城へレンズを運んだわよ。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-<Rutee>……
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-あら、偶然ね。
-寝てたんじゃなかったの？
+<Marian>님에게 말 듣고,
+저도 성으로 렌즈를 운반했어요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ここへ来れば、会えると思った。
+<Rutee>…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-へえ。あんたにしては、
-随分頑張ったセリフね。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-まあ、ぎりぎり合格……かな？
+어머, 우연이네.
+자고 있었던 거 아니었어?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-何がだ？
+여기 오면 만날 수 있을 거라 생각했어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたの甲性に関してよ。
+헤에. 당신치고는,
+상당히 노력한 대사네.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたさ、この戦い終わったら、
-どうするつもり？
+음, 간신히 합격…인가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-また旅に出ようかと思ってる。
+무슨 말이야?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+당신의 각성에 관해서야.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+당신, 이 전투가 끝나면,
+어떻게 할 생각이야?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺にはまだまだ、
-勉強が足りないからな。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-ふーん、そっか。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-……あたしたちもつくづく、
-妙な因縁で結ばれてるわよね。
+다시 여행을 떠나려 생각하고 있어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうかもしれないな……
+나는 아직 많이,
+배워야 하니까.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたさ、飛行竜の密航がばれて、
-処刑されかかった事あったじゃない。
+흐음, 그렇구나.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+…우리도 진짜로,
+묘한 인연으로 엮여 있네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-古い話を持ち出すなあ。
+그럴지도 모르지…
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+당신, 비행룡의 밀항이 발각되어,
+처형당할 뻔한 적 있었잖아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あの時は不意に何かが飛んできて、
-助かったんだ。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-あれ、やったのあたし。
+옛날 이야기를 꺼내지 마.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そ、そうだったのか？
+그때는 불시에 무언가가 날아와서,
+구해줬거든.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたがあんまり間抜けなもんで、
-つい、手助けしちゃったってわけ。
+그건, 내가 한 일이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-じゃあ<Rutee>は、
-俺の命の恩人でもあるわけだ……
+그, 그런 거였어?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-思えばあの時から始まって、
-今まで色々な事があったわよね。
+당신이 너무 멍청해서,
+그냥 도와주게 된 거지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうだな……
+그럼<Rutee>는,
+내 생명의 은인이라는 거네…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-本当に……色々な事が……
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-でも、それも明日まで。
-あんたとの因縁も、今度こそ最後。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-やっとせいせいするってものよ。
+생각해보면 그때부터 시작됐고,
+지금까지 여러 가지 일이 있었지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>、あのさ。
+그렇다…
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+정말로… 여러 가지 일이…
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+하지만, 그것도 내일까지야.
+너와의 인연도, 이번이 마지막이야.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+드디어 시원해질 것 같아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-この戦いが終わったら、
-俺とふたりで、旅をしないか？
+<Rutee>야, 그거 말인데.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうだ？
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-あんた……あたしの事口説いてる？
+이 전투가 끝나면,
+나와 둘이서 여행하지 않을래?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-えっ？
+어떻게 생각해?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+너… 나한테 구애하는 거야?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-これって……
-そういう事になるのか？
+엥?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺はただ、<Rutee>にこれからも、
-そばにいて欲しいと思っただけで。
+이게… 그렇게 되는 건가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-同じ所に立って、同じ方向を見て、
-同じように歩いていけたらいいなって。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-だからそういうのを、
-世間じゃ口説くって言うのよ。
+나는 그냥, <Rutee>가 앞으로도,
+곁에 있어주길 바랐을 뿐이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そ、そうなんだ……
-知らなかった……
+같은 곳에 서서, 같은 방향을 보고,
+같이 걸어갈 수 있으면 좋겠다고 생각했어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-言った後でオタオタしないでよ。
-しまらないわね。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-……だけどそれが、
-あんたらしさでもあるのかな。
+그래서 그런 걸,
+세상에서는 구애한다고 하는 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それで、返事は……？
+그, 그런가…
+몰랐어…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……聞きたい？
+말하고 나서 우물쭈물하지 마.
+재미없잖아.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+…하지만 그게,
+너다움이기도 한 것 같아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-もちろん。
+그래서, 대답은…?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしの答えはね……
+…듣고 싶어?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…………
+물론이지.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……内緒。
+내 대답은…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんだそれ！	ずるいぞ！
+…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしに答える義務はないもの。
-どうしようと勝手でしょ？
+…비밀이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それはそうだけど……
+뭐야 그게!  너무하잖아!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ま、保留って事にしとくわ。
-無事に帰ってきたら言うから。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-すねた？
+내가 대답할 의무는 없잖아.
+어떻게 하든 내 마음이지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-すねてないよ。
+그건 그렇지만…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……ったく、仕方ないわね。
+음, 보류라는 걸로 해둘게.
+무사히 돌아오면 말할게.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-いい？	明日は勝つだけじゃダメなの。
-そんなのは当然の事だから。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-勝って、生きて帰ってくるの。
-みんな一緒に。わかった？
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-あたしの返事、聞きたいんでしょ？
-だったら何がなんでも、生き抜くのよ！
+삐졌어?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>こそ、
-そこまで言ったからには絶対だぞ。
+삐지지 않았어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-当たり前でしょ。このあたしよ？
-殺されたって死ぬもんですか。
+…정말, 어쩔 수 없네.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+알겠어? 내일은 이기는 것만으로는 안 돼.
+그건 당연한 일이니까.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+이기고, 살아서 돌아오는 거야.
+모두 함께. 알겠어?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+내 대답 듣고 싶지? 그럼 무슨 일이 있어도, 살아남아야 해!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-約束しよう。
+<Rutee> 너야말로,
+그렇게까지 말했으니 반드시 지켜야 해.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ええ、約束よ。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-……今のところはこんな感じかな？
+당연하지. 이 나잖아?
+죽어도 죽을 수는 없어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうだな……
+약속할게.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-後の楽しみもできたって事で、
-みんなのところ、戻ろうか？
+응, 약속이야.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+…지금은 대충 이런 느낌인가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-みんなって？
+그렇네…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-きっと酒場にでも集まってるわ。
-こういう時って、眠れないもんだしね。
+나중에 즐길 것도 생겼으니,
+모두 있는 곳으로 돌아갈까?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+모두라고?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+분명 술집에 모여 있을 거야.
+이럴 땐 잠을 잘 수가 없으니까.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>현재 소지하고 있는 갈드:<TAG_033>갈드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+예
+아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>가
 [ENDBLOCK]
-パーティに加わりました。
+파티에 합류했습니다.
 [ENDBLOCK]
-仲間になりました。
+동료가 되었습니다.
 [ENDBLOCK]
-戦闘に参加できます。
+전투에 참가할 수 있습니다.
 [ENDBLOCK]
-同行します。
+동행합니다.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x58><xA8><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>가
+[ENDBLOCK]
+파티에서 빠졌습니다.
+[ENDBLOCK]
+<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA8><x00><x80></color>를 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-<turquoise>交易称号
+<turquoise>거래 칭호
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-<turquoise>温泉称号
+<turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-<turquoise>自由称号
+<turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+칭호：<turquoise>내추럴 레인저
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+칭호：<turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-<turquoise>最強の称号
+<turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-<turquoise>クイズ称号
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>は
+<x19><x69><x48><x9C><x80>는
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -745,72 +743,72 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+<x1A><x20><x72><x0C><x98><x80>는
+이미 가지고 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
+이 ID와 비밀번호를 연동 웹사이트에
+입력하면, 데스티니의 세계가
+더욱 확장됩니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>詳しくは下記のURLでご確認ください。
+<TAG_007>자세한 내용은 아래 URL에서 확인하세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>です。
+<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>입니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>게임 중의 이벤트나 미니게임을
+클리어하면 연동 ID와 게임 비밀번호가
+발급될 수 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>이 연동 ID와 게임 비밀번호를
+웹사이트에 입력하면 데스티니
+의 세계가 더욱 확장됩니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>웹사이트에 입력할
+연동 ID와 게임 비밀번호를 잊어버렸다면
+피츠갈드에 있는 여행자의 오두막에서
+확인할 수 있습니다.
 [ENDBLOCK]
-外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+외관 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+1단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+2단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+3단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-設定がなされません！（tod=<TAG_059>）
+설정이 이루어지지 않았습니다！（tod=<TAG_059>）
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+장치는 작동하지 않고 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+워프 장치가 작동했습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -818,76 +816,76 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><x88><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x48><x88><x80>의 소디언 장치가
+사용 가능해졌습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>「칭호 설명」
+칭호란 캐릭터에 설정할 수 있는,
+캐릭터 파라미터의 하나입니다.
+구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>메인 메뉴를 열고 나면, 캐릭터의
+상태를 표시합니다.
+그 화면 그대로<Square_ani>를 누르면, 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>상태의 가장 위에는, 「칭호」라고 적힌
+페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
+획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는…
+「칭호를 설정하고, 마을 사람에게 이야기하자」
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
+당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 여러 번
+이야기했을 때, 이상한 행동을 할 수 있습니다.
+그럴 때는, 가지고 있는 칭호를 다시 설정한 후,
+한 번 더 이야기해보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
+머리 위에「？」가 나타날 수 있습니다.
+그럴 때는, 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 이야기해보세요.
+무언가 기쁜 일이 일어날지도 모릅니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>사용법의 두 번째는…
+「상태 화면을 멋지게 꾸미자」
+모은 칭호 중에서, 만약 마음에 드는 것이 있다면,
+설정하여 상태 화면을 멋지게 연출해보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>「돌 차기 놀이」란,
+필드에 있는 돌을 차서,
+특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
+1: 마을 바깥에 있는 특정 돌을 차면,
+		게임이 시작됩니다.
+2: 전투는, 돌 차기 놀이의 클리어 조건에
+		영향을 미치지 않습니다.
+3: 마을이나 던전을 드나들면,
+		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

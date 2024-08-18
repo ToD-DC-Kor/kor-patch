@@ -1,6 +1,6 @@
 <King>
 [ENDBLOCK]
-<Lion>よ<x99>
+<Lion>야<x99>
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -22,442 +22,442 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<xA5>ストレイライズ神殿の調査、
-しかと頼んだぞ。
+<xA5>스트레이라이즈 신전의 조사를,
+꼭 부탁하네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-早急にストレイライズ神殿へ
-向かうのだ。
+신속히 스트레이라이즈 신전으로
+향하라.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-なんとしても神の眼を取り戻すのだ。
-頼んだぞ。
+어떤 수를 써서라도 신의 눈을 되찾아라.
+부탁하네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-ご苦労であったな。
-次も頼んだぞ。
+수고했네.
+다음도 부탁하네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-頼んだぞ、<Lion>。
+부탁하네, <Lion>.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-<Lion>よ、ストレイライズ神殿の調査、
-しかと頼んだぞ。
+<Lion>야, 스트레이라이즈 신전의 조사를,
+꼭 부탁하네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-早急にストレイライズ神殿へ
-向かうのだ。
+신속히 스트레이라이즈 신전으로
+향하라.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-なんとしても神の眼を取り戻すのだ。
-頼んだぞ。
+어떤 수를 써서라도 신의 눈을 되찾아라.
+부탁하네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-神の眼を取り戻す事が第一だ。
-それだけは、忘れてくれるな。
+신의 눈을 되찾는 것이 첫 번째다.
+그것만은 잊지 말고.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-<Hugo>め……今まで余の事を、
-ずっとだましていたのか。
+<Hugo>뭐… 지금까지 나를,
+계속 속이고 있었던 거냐.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-ソーディアンマスターの諸君、
-クレスタを救ってくれ。
+소디언 마스터 여러분, 
+크레스타를 구해주게.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-諸君、疲れているところ済まないが、
-<Reynolds>の下へ行ってくれ。
+여러분, 피곤한 중에 미안하지만,
+<Reynolds>에게 가주게.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-我が国は総力を挙げ、
-諸君の行動を支援する。
+우리 나라는 총력을 기울여,
+여러분의 행동을 지원할 것이다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-街の宿に部屋を取らせた。
-どうか体を休めて欲しい。
+도시의 여관에 방을 잡아두었다.
+제발 몸을 쉬게 해주길 바라네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-我々にできる事は全てやった。
-後は頼むぞ、諸君。
+우리가 할 수 있는 것은 모두 했다.
+이제는 부탁하네, 여러분.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-陛下のご期待に背くような事、
-万が一にもあってはならぬぞ。
+전하의 기대에 어긋나는 일은,
+결코 있어서는 안 되네.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-クレスタは王都から東へ行った街だ。
+크레스타는 왕도에서 동쪽으로 간 도시다.
 
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-街に着いたら、我が軍の
-駐在兵を探すのだ。
+도시에 도착하면, 우리 군의
+주둔 병사를 찾아야 하네.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-陛下のご期待に背くような事、
-万が一にもあってはならぬぞ。
+전하의 기대에 어긋나는 일은,
+결코 있어서는 안 되네.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-せめて七将軍が城にそろっていれば、
-こんな事にはならなかったものを。
+적어도 일곱 장군들이 성에 모여 있었다면,
+이런 일은 일어나지 않았을 텐데.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-各地に七将軍が分散したのも、
-今思えば<Hugo>の策の内だったか……
+각지에 일곱 장군들이 흩어져 있었던 것도,
+지금 생각해보면 <Hugo>의 계략이었을까…
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-<Hugo>め、我が国を敵にまわした事、
-後悔させてくれる。
+<Hugo>여, 우리 나라를 적으로 돌린 일,
+후회하게 해주마.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-軍の救援もすぐに差し向ける。
-それまで、持ちこたえて欲しい。
+군의 구원도 곧 보내겠다.
+그때까지, 버텨주길 바란다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-<Reynolds>が諸君に話があるそうだ。
+<Reynolds>가 여러분에게 이야기하고 싶어 한다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-城の中庭に研究室の入り口がある。
-間違えるなよ。
+성의 중정에 연구실의 입구가 있다.
+잘못 들어가지 마라.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-国内全ての市町村に指令を飛ばし、
-レンズを集めている。
+국내 모든 시군에 지령을 보내,
+렌즈를 모으고 있다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-次から次へ用事を押し付けてしまい、
-誠に申し訳ない。
+계속해서 일들을 떠넘쳐서,
+정말 죄송하다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-作戦の決行は明朝を予定している。
+작전의 실행은 내일 아침으로 예정하고 있다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-ソーディアンチーム諸君の勝利を、
-信じているぞ。
+소디언 팀 여러분의 승리를,
+믿고 있다.
 [ENDBLOCK]
-セインガルド兵
+세인가르드 병사
 [ENDBLOCK]
-ここは謁見の間となっております。
+여기는 알현의 방입니다.
 [ENDBLOCK]
-セインガルド兵
+세인가르드 병사
 [ENDBLOCK]
-さあ、皆様も早く中庭へ。
+자, 여러분도 빨리 중정으로 가세요.
 [ENDBLOCK]
-セインガルド兵
+세인가르드 병사
 [ENDBLOCK]
-どうぞ、陛下の御前へお進みください。
+부디, 폐하의 앞에 나아가십시오.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-手配した船はダリルシェイド港に
-入港する予定だ。
+배편은 다릴쉐이드 항에
+입항할 예정입니다.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-気をつけて行くんだよ、<Mary>。
+조심해서 가렴, <Mary>.
 
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Mary>の事、よろしく頼むぞ
-<Woodrow>。
+<Mary>를 잘 부탁할게,
+<Woodrow>.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Mary>をよろしく頼む。
-ファンダリアの事は、任せてほしい。
+<Mary>를 잘 부탁해.
+판달리아의 일은, 맡겨줘.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-天上王<Miktran>とな……
+천상왕 <Miktran>이라…
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-はい。かつて天上界を統べていた人物で、
-今回の騒動の張本人でもあります。
+네. 한때 천상계를 지배했던 인물로,
+이번 소동의 장본인입니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-<Lion>が神の眼を奪ったのも……
-<Hugo>が地上を攻撃したのも……
+<Lion>이 신의 눈을 빼앗은 것도…
+<Hugo>가 지상을 공격한 것도…
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-空が外殻で覆われたのも……
-そもそもは<Greybum>の乱すらも……
+하늘이 외피로 덮인 것도…
+원래는 <Greybum>의 혼란조차도…
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-全て<Miktran>の、
-策の内だったと言うのか……
+모두 <Miktran>의,
+계획 속이었다고 하는 건가…
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-いにしえの天上王……
-どのような人物だったのだ？
+고대의 천상왕…
+어떤 인물이었단 말인가？
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ひとことで表すなら、圧倒的。
+한마디로 표현하자면, 압도적이다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-全身から吹きだす暴風のような威圧感。
-<Belserius>を軽々と操る実力。
+전신에서 불어오는 폭풍 같은 위압감.
+<Belserius>를 가볍게 조종하는 실력.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-何もかも、桁外れでした。
+모든 것이, 상상을 초월했습니다.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-逃げ出すのが精一杯だった。
-あれは、相手が悪すぎる……
+도망치는 것만으로도 힘에 겨웠습니다.
+상대가 너무 강력했어요…
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-せめて神の眼を奪還できていれば……
-己の無力さを痛感しております。
+차라리 신의 눈을 되찾을 수 있었다면…
+자신의 무력함을 절실히 느끼고 있습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-いや、責任を問われるのは、
-むしろ我が国の方です。
+아니, 책임을 물어야 할 것은,
+오히려 우리 나라 쪽입니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-我が国が<Hugo>の正体を見抜けず、
-重用したせいで、こんな事態に。
+우리 나라가 <Hugo>의 정체를 간파하지 못하고,
+중용한 탓에, 이렇게 된 것입니다.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-過ぎた事を悔いるより、
-これからの事を考えましょう。
+지난 일을 후회하기보다는,
+앞으로의 일을 생각합시다.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-偶然ではありますが、今この場には、
-三カ国の首脳がそろっています。
+우연히도 지금 이 자리에,
+세 나라의 수뇌가 모여 있습니다.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-早急に国家間の連携態勢を整え、
-対抗策を打ち出すべきでしょう。
+신속히 국가 간의 연계 체제를 정비하고,
+대응책을 마련해야 할 것입니다.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-地上連合軍対天上軍。
-まさに天地戦争だな。
+지상 연합군 대 천상 군.
+정말로 천지전쟁이군.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-ソーディアンマスターの諸君も、
-何か考えがあれば聞かせてほしい。
+소디언 마스터 여러분도,
+무언가 생각이 있다면 말씀해 주시기 바랍니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺たちはもう一度、上へあがります。
+우리는 다시 한 번, 위로 올라갑니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いや、一度と言わず、何度でも。
-<Miktran>を倒すまで、あきらめません。
+아니, 한 번이라고 말하지 말고, 몇 번이라도.
+<Miktran>을 쓰러뜨릴 때까지, 포기하지 않겠습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうだろう、<Dymlos>？
+그렇지, <Dymlos>? 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-あ、ああ……
-それはもちろんだが……
+아, 아아…
+물론 그렇지만…
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-み、皆さん……
+여, 여러분…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Reynolds>さん!?
+<Reynolds> 씨!? 
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-傷だらけじゃねえか。
-どうしたってんだ!?
+상처투성이じゃねえか.
+어떻게 된 거야!? 
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-すみません、皆さん……
-ラディスロウが陥落しました……！
+죄송합니다, 여러분…
+라디스로우가 함락되었습니다…! 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-なんだと？
+뭐라고? 
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-私たちも必死で防戦したのですが、
-天上方の猛攻に耐えられず……
+저희도 필사적으로 방어했지만,
+천상 쪽의 맹공에 견디지 못했습니다…
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-もう……無重量エレベーターも、
-使用できません……
+이제… 무중량 엘리베이터도,
+사용할 수 없습니다…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Ritora>はどうなったんですか？
+<Ritora>는 어떻게 되었나요?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-司令は……
+사령은…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-早く手当てを！
+빨리 치료를 해 주세요!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ラディスロウが失われたとなると、
-私たちが上にあがる術はないぞ。
+라디스로우를 잃었다면,
+우리가 위로 올라갈 방법은 없겠군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんな……！
+그런…！
 [ENDBLOCK]
-セインガルド兵
+세인가르드 병사
 [ENDBLOCK]
-もっ、申し上げます！
+모, 말씀드립니다！
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-今度は何事だ!?
+이번에는 무슨 일이냐!?
 [ENDBLOCK]
-クレスタ駐在部隊から支援要請です！
+클레스타 주둔 부대에서 지원 요청입니다！
 [ENDBLOCK]
-空から降ってきたモンスターの大群に、
-街が攻撃を受けていると！
+하늘에서 떨어진 몬스터의 대군에,
+도시가 공격을 받고 있다고！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-クレスタですって!?
+클레스타라고!? 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Miktran>め……！
+<Miktran>가…！
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-地上を闇に閉ざすだけでは飽き足らず、
-我らをなぶり殺しにする気だな。
+지상을 어둠으로 가리기만 해서도 모자라,
+우리들을 갖고 놀아 죽일 셈이냐.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-おのれ、わざと我が軍の防備が、
-手薄なところを狙ってきたか？
+이놈, 일부러 우리 군의 방비가,
+허술한 곳을 노리고 온 것이냐？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どうしてよ……！
-やめてよ、冗談じゃないわ！
+왜 이러는 거야…！
+그만해, 농담이 아니야！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-こうしちゃいられない。
-すぐに戻らなくちゃ！
+이렇게 있을 수는 없어.
+곧바로 돌아가야 해！
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-それには及ばん。
-すぐに我が軍の救援部隊を送るゆえ。
+그럴 필요는 없다.
+곧바로 우리 군의 구조대를 보낼 것이다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そんなの信用できるわけないでしょ！
+그런 건 신뢰할 수 없잖아！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-待つんだ<Rutee>！	俺も行く！
+기다려<Rutee>！	나도 간다！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>……
+<Stahn>…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いや……俺たちも、だな。
+아니…우리도, 그렇다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-状況は切迫しているようです。
+상황은 긴박해 보인다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-すぐに動ける私たちが、
-向かったほうがいいですわ。
+즉시 움직일 수 있는 우리가,
+가서야 할 것 같아요.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-……わかった。諸君に任せる。
-救援部隊も、準備ができ次第派遣する。
+…알겠다. 여러분에게 맡기겠다.
+구조대도, 준비가 되는 대로 파견하겠다.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-俺も一緒に行くぜ。
+나도 함께 간다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>さん……？
+<Johnny>씨…？
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-今は少しでも手が必要なはずだ。
-こんな俺でも、戦力の足しにはなるぜ。
+지금은 조금이라도 도움이 필요할 거야.
+이런 나라도, 전력에 보탬이 될 수 있어.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-それにアクアヴェイルの代表選手が、
-チームにいないのも変だろ？
+게다가 아쿠아베일의 대표 선수가,
+팀에 없는 것도 이상하지 않아？
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-私たちの間ではすでに話がついています。
-どうか遠慮なくこき使ってください。
+우리 사이에서는 이미 이야기가 되어 있습니다.
+부디 멀리하지 말고 사용해 주세요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ありがとうございます、助かります。
+감사합니다, 도움이 됩니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし、すぐにクレスタへ向かおう。
+좋아, 곧바로 클레스타로 가자.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -465,409 +465,408 @@
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-無事でよかった。心配したぞ。
+무사해서 다행이다. 걱정했어.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Mary>も元気そうだな。
+<Mary>도 건강해 보이네.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Dalis>、君が来るとは思わなかった。
-国許で何かあったのか？
+<Dalis>군이 올 줄은 몰랐다.
+국내에서 무슨 일이 있었던 건가?
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-国内各地に襲来したモンスターは、
-今のところすべて食い止めている。
+국내 여러 지역에 침입한 몬스터는,
+지금까지 모두 막고 있어.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-そうか……
-それを聞いて安心した。
+그렇구나…
+그 소식을 듣고 안심했어.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-私がここを訪れたのは、
-<Darzen>殿に届け物を頼まれたからだ。
+내가 여기 온 이유는,
+<Darzen>님에게 전달할 물건을 부탁받아서야.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-先の<Greybum>の乱で、
-城を襲ったドラゴンを覚えているな？
+최근의 <Greybum>의 난리로,
+성에 침입한 드래곤을 기억하고 있겠지?
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-あのドラゴンを改造して、
-乗用可能にした。それが届け物だ。
+그 드래곤을 개조해서,
+탑승 가능하게 만들었어. 그게 전달할 물건이야.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-なんと……！
-いつの間にそんな……
+정말…！
+언제 그런 일이 있었던 거야…
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-あれは構造的には、飛行竜と同じらしい。
-高度はあまり上げられないそうだが。
+그것은 구조적으로는, 비행룡과 같다고 해.
+고도는 많이 높일 수 없는 것 같지만.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-「どうかご活用ください。
-陛下のご活躍を信じております。」
+「부디 잘 활용해 주십시오.
+폐하의 활약을 믿고 있습니다.」
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-……と、
-これは<Darzen>殿からの伝言だ。
+…라고, 이것은 <Darzen>님으로부터의 전언이야.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-今は街の外に止めてある。
-行ってその目で確かめるといい。
+지금은 도시 밖에 세워두고 있어.
+가서 그 눈으로 확인해 보게.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-……わかった。
-ありがたく使わせてもらおう。
+…알겠어.
+고맙게 잘 쓰도록 할게.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-あのドラゴンで移動できるなら、
-こんな効率のいい事はないの。
+그 드래곤으로 이동할 수 있다면,
+이렇게 효율적인 일은 없어.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-ソーディアン研究所へも、
-そのまま乗り込めそうだ。
+소디언 연구소에도,
+그대로 들어갈 수 있을 것 같아.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-なんだか風向きが、
-変わりつつある気がしますね。
+왠지 바람의 방향이,
+변하고 있는 것 같네요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ツキが巡ってくる時ってのは、
-大体そんなものよ。
+운이 돌아오는 때는,
+대체로 그런 법이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dalis>さん、ありがとうございます！
+<Dalis>님, 감사합니다！
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Mary>をよろしく頼む。
-ファンダリアの事は、任せてほしい。
+<Mary>를 잘 부탁해.
+판달리아의 일은, 맡겨 줘.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Woodrow>。私はおまえに言われた事を、
-忘れていない。
+<Woodrow>.나는 네가 말한 것을,
+잊지 않고 있어.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-だから……無事に帰ってこい。
-私たちの祖国、ファンダリアへ。
+그러니까… 무사히 돌아와.
+우리의 조국, 판달리아로.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-……約束しよう。
+…약속할게.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-それで、ソーディアンチームの諸君。
-今後の作戦は決まったのか？
+그래서, 소디언 팀 여러분.
+앞으로의 작전은 정해졌나요？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-まずはソーディアン研究所へ行き、
-戦力を強化します。
+우선 소디언 연구소로 가서,
+전력을 강화하겠습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-その後でジャンクランドへ行き、
-ベルセリウムを取ってきます。
+그 후에 잔크랜드로 가서,
+벨세리움을 가져오겠습니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-私はその間に、城の中庭にて、
-集積レンズ砲の製作を進めます。
+나는 그 동안 성의 중정에서,
+집적 렌즈포의 제작을 진행하겠습니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-<Dryden>閣下にもご協力いただき、
-レンズの調達も同時に行う予定です。
+<Dryden>각하께서도 협력해 주셔서,
+렌즈의 조달도 동시에 진행할 예정입니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-既に国内全ての街や村に、
-レンズの供出を呼びかけております。
+이미 국내 모든 도시와 마을에,
+렌즈의 제공을 호소하고 있습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-わかった。我が国は総力を挙げ、
-諸君の行動を支援する。
+알겠다. 우리 나라는 총력을 다해,
+여러분의 행동을 지원하겠다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-余自身が何もできないのは歯がゆいが、
-その分、協力は惜しまぬつもりだ。
+내가 직접 아무것도 할 수 없는 것은 안타깝지만,
+그 대신 협력은 아끼지 않겠다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-頼んだぞ、諸君。
+부탁한다, 여러분.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-よし。それじゃ俺たちは、
-ソーディアン研究所へ向かおう！
+좋아. 그럼 우리는,
+소디언 연구소로 가자!
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-ソーディアンチームの諸君、
-今までご苦労だった。
+소디언 팀 여러분,
+지금까지 수고 많았다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-集積レンズ砲も完成し、
-いよいよすべての準備が整ったようだ。
+집적 렌즈포도 완성되었고,
+이제 모든 준비가 끝난 것 같다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-明朝、作戦を決行する。
+내일 아침, 작전을 실행한다.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-明日……
+내일…
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-明日か……！
+내일인가…!
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-ついては諸君には、今夜一晩、
-ゆっくり休息を取ってほしい。
+따라서 여러분은, 오늘 밤 하루,
+편히 휴식을 취해 주길 바란다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-諸君のために街の宿を借り切ってある。
-好きに使ってくれ。
+여러분을 위해 도시의 숙소를 빌려두었다.
+마음껏 사용하라.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-本当は祖国へ戻りたいだろうが……
-そこまでの時間はない。すまぬ。
+사실은 조국으로 돌아가고 싶겠지만…
+그럴 시간이 없다. 미안하다.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-いいえ。お心遣いをいただき、
-ありがとうございます。
+아니오. 마음 써 주셔서,
+감사합니다.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-さて、ひとまず街に移動しようぜ。
-玉座の前で立ち話ってのも恐れ多い。
+자, 일단 도시로 이동하자.
+왕좌 앞에서 서서 이야기하는 것도 두렵다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-おお、<Lion>か。おまえにしては
-時間が掛かったようだな。
+오, <Lion>인가. 너에게는
+시간이 걸린 것 같다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-王は既に就寝された。
-それで、調査はどうだった？
+왕은 이미 주무셨다.
+그래서, 조사 결과는 어땠나?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-はい。確かに正体不明の、しかも
-強力なモンスターを発見しました。
+네. 확실히 정체불명의, 게다가
+강력한 괴물을 발견했습니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-そうか。では急遽、部隊を
-送り込もう。
+그렇군. 그럼 급히 부대를
+보내야겠다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-いえ、その必要はありません。
+아니요, 그럴 필요는 없습니다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-付近にいたモンスターは全て
-掃討したと思います。
+근처에 있던 괴물은 모두
+소탕한 것 같습니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-ほう、たったひとりでとは。
+호오, 혼자서라니.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-いえ、<Chaltier>が
-いてくれたからこそです。
+아니요, <Chaltier>가
+있어주었기 때문에입니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-うむ。そうだったな。
-さすがはソーディアンだ。
+음. 그렇구나.
+역시 소디언이구나.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-その見事な働き、必ずや、
-陛下へも報告をしよう。
+그 멋진 활약, 반드시
+폐하에게도 보고하겠다.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-なんだかこの人に
-誉められるとすごく照れますね。
+왠지 이분에게
+칭찬받으니 정말 쑥스럽네요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Chaltier>も喜んでおります。
+<Chaltier>도 기뻐하고 있습니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-して、<Lion>。なぜその様な
-モンスターが現れたか分かるか？
+하여, <Lion>여. 왜 그런
+몬스터가 나타났는지 알겠는가?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……モンスターは全て、
-海から現れました。
+…몬스터는 모두,
+바다에서 나타났습니다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-もしかしたら、海底で
-何かあったのかもしれません。
+어쩌면, 해저에서
+무언가 있었던 것일지도 모릅니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-そうか。追って調査をさせねばな。
-ご苦労だった、<Lion>。
+그렇구나. 추후 조사해야겠다.
+수고했다, <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-では、私はこれで。
+그럼, 저는 이만.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-ちょっと、待ってくれ<Lion>。
+잠깐, 기다려줘 <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何でしょうか？
+무엇인가요?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-近々、七将軍の集まる席が
-あるのだが……どうだ？
+가까운 시일 내에, 칠장군의 모임이
+있는데… 어떻게 생각하나?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-どうだ、とは？
+어떻게 생각하라는 건가요?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-おまえは客員剣士、内部の
-人間との関わりは薄いだろう。
+너는 객원 검사이니, 내부의
+사람들과의 관계는 얕겠지.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-改めて、皆に紹介したいのだ。
+다시 말해, 모두에게 소개하고 싶다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……私などが同席して
-よろしいのですか？
+…저 같은 사람이 동석해도
+괜찮은 건가요?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-その返事は了承と
-受け取ってよいのか？
+그 대답은 승낙으로
+받아들여도 되는가?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-はい、もちろんです。
+네, 물론입니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-そうか。今日はもう遅いからな。
-その話は明日にでもしよう。
+그렇구나. 오늘은 이미 늦었으니
+그 이야기는 내일 하자.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-では、失礼します。
+그럼, 실례하겠습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+네
+아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>이
 [ENDBLOCK]
-パーティに加わりました。
+파티에 합류했습니다.
 [ENDBLOCK]
-仲間になりました。
+동료가 되었습니다.
 [ENDBLOCK]
-戦闘に参加できます。
+전투에 참가할 수 있습니다.
 [ENDBLOCK]
-同行します。
+동행합니다.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x58><x74><x00><x80><x18><x65><x58><x78><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x58><x74><x00><x80><x18><x65><x58><x78><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x58><xA4><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>가
+[ENDBLOCK]
+파티에서 빠졌습니다.
+[ENDBLOCK]
+<x18><x65><x58><x74><x00><x80><x18><x65><x58><x78><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA4><x00><x80></color>를 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-<turquoise>交易称号
+<turquoise>거래칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-<turquoise>温泉称号
+<turquoise>온천칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-<turquoise>自由称号
+<turquoise>자유칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+칭호：<turquoise>내추럴레인저
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+칭호：<turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-<turquoise>最強の称号
+<turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-<turquoise>クイズ称号
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>は
+<x19><x69><x48><x98><x80>는
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -879,72 +878,72 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+<x1A><x20><x72><x0C><x98><x80>는
+이미 가지고 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에서
+입력함으로써, 데스티니의 세계가
+더욱 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>詳しくは下記のURLでご確認ください。
+<TAG_007>자세한 사항은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>です。
+<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>입니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>게임 중의 이벤트나 미니게임을
+클리어하면 연동 ID와 게임 패스워드가
+발행될 수 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>이 연동 ID와 게임 패스워드를
+웹사이트에 입력함으로써 데스티니
+의 세계가 더욱 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>웹사이트에 입력할
+연동 ID와 게임 패스워드를 잊어버렸다면
+피츠갈드에 있는 여행자의 소굴에서
+확인할 수 있습니다.
 [ENDBLOCK]
-外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+1단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+2단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+3단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-設定がなされません！（tod=<TAG_059>）
+설정이 이루어지지 않았습니다！（tod=<TAG_059>）
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+장치는 작동하지 않습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+워프 장치가 작동했습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -952,76 +951,76 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><x84><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x48><x84><x80>의 소디언 장치가
+사용 가능해졌습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>「칭호의 설명」
+칭호란 캐릭터에 설정할 수 있는,
+캐릭터 파라미터 중 하나입니다.
+구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>메인 메뉴를 연 후, 캐릭터의
+스탯을 표시합니다.
+그 화면에서 <Square_ani>를 누르면, 캐릭터의
+스탯 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>스탯의 가장 위에, 「칭호」라고 적힌
+페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면,
+획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>칭호의 용도는 두 가지가 있습니다.
+첫 번째는…
+「칭호를 설정하고, 마을 사람에게 이야기하자」
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
+당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 몇 번
+이야기했을 때, 신기한 행동을 할 수 있습니다.
+그때는, 가지고 있는 칭호를 다시 설정하고 나서,
+다시 이야기해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
+머리 위에 「？」가 나올 수 있습니다.
+그때는, 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 이야기해 보세요.
+무언가 기쁜 일이 일어날지도 모릅니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>용도의 두 번째는…
+「스탯 화면을 멋지게 꾸미자」
+모은 칭호 중에서, 만약 마음에 드는 것이 있다면,
+설정하여 스탯 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>「돌 차기 놀이」란,
+필드에 있는 돌을 차서,
+특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
+1: 마을 밖에 있는 특정 돌을 차면,
+		게임이 시작됩니다.
+2: 전투는, 돌 차기 놀이의 클리어 조건에
+		영향을 미치지 않습니다.
+3: 마을이나 던전을 드나들면,
+		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
@@ -1036,334 +1035,331 @@ notice
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-陛下、七将軍ここに、
-そろいました。
+폐하, 일곱 장군 여기 모였습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-うむ。何ヶ月ぶりであろうな。
-こうして皆が揃ったのは。
+응. 몇 개월 만일까.
+이렇게 모두가 모인 것은.
 [ENDBLOCK]
-リーン
+리인
 [ENDBLOCK]
-で、陛下？
-今回はなんの用だったんだ？
+그래서, 폐하?
+이번에는 무슨 용건이었습니까?
 [ENDBLOCK]
-ルウェイン
+루웨인
 [ENDBLOCK]
-リーンよ、陛下に
-なんという口ぶりです。
+리인, 폐하에게
+무슨 말을 하는 것이냐.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-はっはっは。気にせずともよい。
-リーンよ、相変わらずだな。
+하하하. 신경 쓰지 않아도 좋다.
+리인, 여전히 변함없구나.
 [ENDBLOCK]
 <Melina>
 [ENDBLOCK]
-陛下。そうやってリーンを
-甘やかすのは、どうかと思いますが。
+폐하. 그렇게 리인을
+응석부리게 하는 것은, 어떻게 생각하십니까?
 [ENDBLOCK]
-リーン
+리인
 [ENDBLOCK]
-お～、<Melina>ちゃん。
-陛下に意見とは、おまえもやるねえ。
+오～, <Melina> 양.
+폐하에게 의견을 내다니, 너도 대단하구나.
 [ENDBLOCK]
 <Melina>
 [ENDBLOCK]
-バカな！	そのようなものでは……！
+바보 같은 소리! 그런 것이 아니다…!
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-ほらほら、止めようよ。
-きっとリーンは<Melina>の事が、
-好きなんだよ。
+자, 자, 그만하자.
+분명 리인은 <Melina>를,
+좋아하는 거야.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-だから、そうやって
-つっかかるんだよ。
+그래서, 그렇게
+끼어드는 거지.
 [ENDBLOCK]
 <Melina>
 [ENDBLOCK]
-止めてくれ。
-こいつに愛されるなど、ゾッとする。
+그만해 줘.
+이 녀석에게 사랑받는다는 건, 소름 끼쳐.
 [ENDBLOCK]
 <Ascus>
 [ENDBLOCK]
-だが、世間の女たちは、
-こいつに愛されたいのだろ？
+하지만, 세상의 여자들은,
+이 녀석에게 사랑받고 싶어 하지 않나?
 [ENDBLOCK]
-リーン
+리인
 [ENDBLOCK]
-よく言った<Ascus>君。
-ん～～、偉い！
+잘 말했어, <Ascus>군.
+음~~, 대단해!
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-これ、おまえたち陛下の御前だぞ。
-いいかげんにしないか。
+이건, 너희들 폐하의 앞이다.
+제발 진지하게 좀 해라.
 [ENDBLOCK]
-ルウェイン
+루웨인
 [ENDBLOCK]
-して、陛下。リーンもお聞きしましたが、
-なぜ、我らを招集したのでございますか？
+그래서, 폐하. 리인도 들었지만,
+왜 우리를 소집하신 건가요?
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-特に理由がないとまずいか？
+특별한 이유가 없으면 곤란하나?
 [ENDBLOCK]
-ルウェイン
+루웨인
 [ENDBLOCK]
-いえ、そのような……
+아니요, 그런…
 [ENDBLOCK]
-リーン
+리인
 [ENDBLOCK]
-ダメェ～。
+안 돼~.
 [ENDBLOCK]
 <Melina>
 [ENDBLOCK]
-こら、リーン！
-ほら、<Ascus>も何か言ってよ。
+이봐, 리인! 
+봐, <Ascus>도 뭔가 말해 봐.
 [ENDBLOCK]
 <Ascus>
 [ENDBLOCK]
-俺も、そんなに暇では
-ないのですが。
+나도, 그렇게 한가한 건
+아니다만.
 [ENDBLOCK]
 <Melina>
 [ENDBLOCK]
-んもう、<Ascus>まで！
+아이고, <Ascus>까지!
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-まあまあ、<Melina>も
-落ち着いて。
+자, 자, <Melina>도
+진정해.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-はっはっは！	そうだったな。
-君たちの立場も考えるべきだな。
+하하하! 그랬군.
+너희들의 입장도 고려해야겠다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-それでは、次も諸君らが、
-急がしい時に召集するとしよう。
+그럼, 다음에도 너희들이,
+바쁠 때 소집하겠다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-陛下まで……
+폐하까지…
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-すまなかったな、
-解散してくれ。
+미안하구나,
+해산해 주게.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-このような世界に
-なってしまうとは……
+이런 세상이
+될 줄은 몰랐는데…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-絶対に、俺たちが
-なんとかしてみせます。
+절대, 우리가
+어떻게든 해내고 말겠어.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-いや、違うのだ……
+아니, 그게 아니고…
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-余に、世継がおらん事を、
-憂いておるのだ。
+내게, 후계자가 없다는 걸,
+걱정하고 있는 거다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-世継……？
+후계자…？
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-後を継ぐ人の事、
-つまり陛下の後継者だよ。
+계승할 사람의 일,
+즉 폐하의 후계자란 말이야.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-諸君らが、元の世界を
-取り戻してくれる事は信じておる……
+너희들이, 원래의 세계를
+되찾아줄 것이라고 믿고 있다…
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-しかし、再び、余自身の目で、
-平和なこの国を見られるかは、分からぬ。
+하지만, 다시 한 번, 나 자신의 눈으로,
+평화로운 이 나라를 볼 수 있을지는, 모르겠다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-やはり、彼に……
+역시, 그에게…
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-誰か！	<Queen>と<Ashley>を、
-ここに呼んでまいれ。
+누군가! 	<Queen>와 <Ashley>를,
+여기로 불러와라.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-<Ashley>、ただ今参上しました。
+<Ashley>, 지금 막 도착했습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-うむ、呼び出して
-すまなかったな。
+음, 불러서
+미안했구나.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-<Ashley>。ここに来てもらったのは、
-他でもない。
+<Ashley>야. 너를 여기 불러온 이유는,
+다름이 아니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-<Queen>とは、前々より、
-話しておったのだが……
+<Queen>과는, 예전부터,
+이야기하고 있었는데…
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-単刀直入に申す。余たちの
-息子になってはくれぬか？
+단도직입적으로 말하겠다. 우리
+아들이 되어주지 않겠느냐?
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-それはいったい……
+그게 도대체…
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-私たち夫婦には子供がおりません。
-ですから……
+우리 부부에게는 자식이 없습니다.
+그래서…
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-本当に……私などで良いのですか？
+정말로… 저 같은 사람으로 괜찮은 건가요?
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-もちろんじゃ、元々は
-<Finlay>に話しておった事じゃからな。
+물론이다, 원래는
+<Finlay>에게 이야기하고 있었던 것이라서.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-<Finlay>の弟であれば、
-申し分ない。
+<Finlay>의 동생이라면,
+더할 나위 없다.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-<S12>……また兄さんか……
+<S12>…또 형인가…
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-何か申したか？
+무슨 말을 했느냐?
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-どうじゃ、<Ashley>よ？
+어떻냐, <Ashley>? 
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-<S12>……僕は……代わりじゃない……
+<S12>…나는… 대체가 아니다…
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-さあ、返事を聞かせてくれ。
+자, 대답을 들려줘.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-申し訳ありません、陛下。
-このお話、お断りさせて頂きます。
+죄송합니다, 전하.
+이 이야기는, 사양하겠습니다.
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-どうしてなの、<Ashley>！
+왜 그런 거야, <Ashley>! 
 
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-……失礼します。
+…실례하겠습니다.
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-<Ashley>……
+<Ashley>…
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-このような世界に
-なってしまうとは。
-あやつの兄がいてくれれば……
+이런 세상이
+되다니.
+그 아이의 형이 있었다면…
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-あやつの冷めた内にある、
-炎のような強い意志に期待して
-おったのだがな……
+그 아이의 차가운 내면에 있는,
+불꽃 같은 강한 의지에 기대하고 있었는데…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dryden>さん、一体、
-誰の事なんですか？
+<Dryden>님, 도대체,
+누구의 이야기인가요?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-<Lion>の事だ。
+<Lion>의 이야기다.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-<Lion>さんって、
-お兄ちゃんのお友達でしょ？
+<Lion>님은,
+형의 친구잖아요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ああ、うん……
+아아, 응…
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-<Hugo>は食えん男だったが……
+<Hugo>는 먹지 못할 남자였지만…
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-私は、<Lion>は買っておったのだ。
+나는 <Lion>을 사두었었다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-それが、こんな事をしおって！
+그런데, 이런 짓을 하다니! 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺はてっきり、<Dryden>さんは
-<Lion>を嫌っていると思ってました。
+나는 <Dryden> 씨가
+<Lion>을 싫어한다고 생각했어요.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-そんな事はない。
+그런 일은 없다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-あやつが、もう少し成長した時、
-それは、私が引退する時だと思っておった。
+그가 조금 더 성장했을 때,
+그것은 내가 은퇴할 때라고 생각하고 있었다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-<Lion>には、新たな七将軍を
-務めてもらうつもりでいたのだ。
+<Lion>에게는 새로운 일곱 장군을
+맡길 생각이었다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>がですか!?
+<Lion>이요!?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-ああ。しかし、それも今では
-夢と消えてしまった……
+아아. 하지만, 이제는
+꿈과 함께 사라져버렸다…
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-あやつの冷めた内にある、
-炎のような強い意志に期待して
-おったのだがな……
+그의 차가운 내면에 있는,
+불처럼 강한 의지에 기대하고 있었는데…
 [ENDBLOCK]

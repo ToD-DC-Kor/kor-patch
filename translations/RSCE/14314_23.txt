@@ -1,569 +1,563 @@
 <Stahn>
 [ENDBLOCK]
-それじゃ、お腹も一杯になったし、
-帰ろうか。
+그럼, 배도 부르고 했으니,
+돌아가자.
 [ENDBLOCK]
-ギャンブラー
+갬블러
 [ENDBLOCK]
-みなさん、おくつろぎですか？
-夜の余興に、私と一勝負しませんか？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-あなたは？
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-これは申し遅れました。
-私は街から街へ旅を続けるさすらいの
-ギャンブラーでございます。
+여러분, 편안히 쉬고 계신가요?
+밤의 오락으로, 저와 한 판 승부해보지 않으실래요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-へー、そんな人もいるんだ。
-それで、余興っていうのは？
+당신은요?
 [ENDBLOCK]
-ギャンブラー
+갬블러
 [ENDBLOCK]
-簡単なゲームです。三つのサイコロを
-振って、その出目を当てるんです。
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-もし的中したら、その数に応じた
-倍率のガルドを払い戻しますよ。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-ふーん。……それで、
-倍率はどうなってんの？
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-例えば出目が「１０」でしたら７倍、
-「１８」でしたら２００倍となります。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-ちょっと待った！
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-……サイコロを三つ振った時、
-「１０」が出る確率はおよそ１２％！
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-「１８」が出る確率は……０．０４６％？
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-ねえ、ちょっと！	掛け率が
-あたしたちに不利なんじゃない？
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-まあ……私は余興を
-提供する者。
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-そのお代と解釈して頂ければ、
-幸いですが……
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-しかし勝負にならない
-レートでもないと思いますが？
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-くだらないわ。そんな事に
-使うお金は無いわよ。
+이건 미처 말씀드리지 못했군요.
+저는 도시에서 도시로 여행을 계속하는 방랑하는
+갬블러입니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>、せっかくだし
-一回だけやってみないか？
+아하, 그런 사람도 있구나.
+그럼, 오락이라는 건?
+[ENDBLOCK]
+갬블러
+[ENDBLOCK]
+간단한 게임입니다. 세 개의 주사위를
+굴려서, 그 눈을 맞추는 겁니다.
+[ENDBLOCK]
+갬블러
+[ENDBLOCK]
+만약 맞추면, 그 수에 맞는
+배율의 갈드를 지급합니다よ.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-んもう、仕方ないわね。
-はい、これ……
+흠.…그럼,
+배율은 어떻게 되나요?
+[ENDBLOCK]
+갬블러
+[ENDBLOCK]
+예를 들어 눈이「１０」이라면 7배,
+「１８」이라면 200배가 됩니다.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+잠깐만! 
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+…주사위를 세 개 굴렸을 때,
+「１０」이 나올 확률은 대략 12%!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+「１８」이 나올 확률은…0.046%?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+이봐, 잠깐만! 	배당률이
+우리에게 불리한 거 아냐?
+[ENDBLOCK]
+갬블러
+[ENDBLOCK]
+뭐… 저는 오락을
+제공하는 사람입니다.
+[ENDBLOCK]
+갬블러
+[ENDBLOCK]
+그 비용으로 해석해 주신다면,
+다행인데…
+[ENDBLOCK]
+갬블러
+[ENDBLOCK]
+하지만 승부가 안 되는
+레이트는 아니라고 생각하는데요?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+어이없어. 그런 데에
+쓸 돈은 없어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-１ガルド!?
+<Rutee>야, 그럼
+한 번만 해보지 않을래?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-無駄遣いするんじゃないわよ。
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-では、どの出目に賭けますか？
+이런, 어쩔 수 없네.
+좋아, 이거…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それじゃ「１８」に１ガルド！
+1 갈드!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと<Stahn>。「１８」なんて
-二百回振って一回出るか出ないかよ？
+낭비하지 마.
+[ENDBLOCK]
+갬블러
+[ENDBLOCK]
+그럼, 어떤 눈에 걸겠습니까?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-運試しさ。運試し！
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-では、振りますよ？
+그럼「１８」에 1 갈드!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ウソ……
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-おめでとうございます。
-２００ガルドをお支払いいたします。
+잠깐, <Stahn>.「１８」은
+200번 굴려서 한 번 나올까 말까야?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やったー！
+운을 시험하는 거야. 운을 시험해!
+[ENDBLOCK]
+도박사
+[ENDBLOCK]
+그럼, 던질까요?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんで１ガルドしか
-賭けなかったのよ！
+거짓말…
+[ENDBLOCK]
+도박사
+[ENDBLOCK]
+축하합니다.
+200 갈드를 지급하겠습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんな！
-だって<Rutee>が……
+야호!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-言い訳しないの！
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-では続けますよ？
-どの出目に賭けますか？
+왜 1 갈드밖에
+걸지 않은 거야!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-全額「１８」に！
+그런! 
+왜냐하면 <Rutee>가…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-もう勘弁してよ、<Stahn>。
-「１８」なんて続けて出ないわ！
+변명하지 마!
+[ENDBLOCK]
+도박사
+[ENDBLOCK]
+그럼 계속할까요?
+어느 숫자에 걸겠습니까?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-だってラッキーナンバーだし……
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-では、振りますよ？
+전액 '18'에!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ウソ……
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-おめでとうございます。
-見事的中しましたので４万ガルドを
-お支払いいたします。
+이제 그만해줘, <Stahn>.
+'18' 같은 숫자가 계속 나올 리가 없어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やったー！
+왜냐하면 행운의 숫자니까…
+[ENDBLOCK]
+도박사
+[ENDBLOCK]
+그럼, 던질까요?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-夢……じゃない！
+거짓말…
 [ENDBLOCK]
-ギャンブラー
+도박사
 [ENDBLOCK]
-では続けますよ？
-どの出目に賭けますか？
+축하합니다.
+정확히 맞추셨기에 4만 갈드를
+지급하겠습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-全額「１８」に！
+야호!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>、あんたの
-強運は分かったから……
+꿈…이 아니야!
 [ENDBLOCK]
-<Rutee>
+도박사
 [ENDBLOCK]
-ここはやめておきなさい。
-「１８」が三連続で出るなんて事、
-ありえないわ。
+그럼 계속할까요?
+어느 숫자에 걸겠습니까?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも、二度ある事は
-三度あるって言うし……
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-では、振りますよ？
+전액 '18'에!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ウソ……
+<Stahn>, 당신의
+행운은 알겠으니…
 [ENDBLOCK]
-ギャンブラー
+<Rutee>
 [ENDBLOCK]
-おめでとうございます。
-見事的中しましたので……
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-８００万ガルドを
-お支払いいたします。
+여기서 그만두는 게 좋겠어.
+'18'이 세 번 연속으로 나올 리가 없어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やったー！
+하지만, 두 번 일어나는 일은
+세 번도 일어난다고 하잖아…
+[ENDBLOCK]
+도박사
+[ENDBLOCK]
+그럼, 던질까요?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ありえない……
+거짓말…
+[ENDBLOCK]
+도박사
+[ENDBLOCK]
+축하합니다.
+정확히 맞추셨기에…
+[ENDBLOCK]
+도박사
+[ENDBLOCK]
+800만 갈드를
+지급하겠습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-今日はラッキーだな。
-そろそろ止めて……
+잘했어!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+말도 안 돼…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-もー、痛いよ。
-<Rutee>！
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-続行よ！	全額「１８」に!!
+오늘은 운이 좋네.
+이제 그만두고…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>、もう十分勝ったし、
-そろそろ止めようよ？
+아, 아프잖아.
+<Rutee>!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-バカね、ラッキーデイなのよ？
-そういう時は続行なの。
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-よろしいですか？
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-ええ、もちろん！
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-では、振りますよ？
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-お、おめでとうございます。
-見事的中しましたので……
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-１６億ガルドを
-お支払いいたします……
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-続行よ！
-もちろん、全額「１８」に!!
+계속해! 전액「１８」으로!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>、
-ホントにそろそろ止めないか？
+<Rutee>야, 이미 충분히 이겼으니,
+이제 그만두자고?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-うるさいわね！
+바보야, 오늘은 행운의 날이야?
+그런 날에는 계속하는 거야.
 [ENDBLOCK]
-ギャンブラー
+딜러
 [ENDBLOCK]
-……で、では、
-振りますよ？
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-お、おめでとうございます……
-見事的中しましたので……
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-３２００億ガルドを
-お支払いいたします……
+괜찮으신가요?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-続行よ！
-全額「１８」に!!
+응, 물론이지!
+[ENDBLOCK]
+딜러
+[ENDBLOCK]
+그럼, 굴릴게요?
+[ENDBLOCK]
+딜러
+[ENDBLOCK]
+축하합니다.
+정확하게 맞추셨습니다…
+[ENDBLOCK]
+딜러
+[ENDBLOCK]
+１６억 갈드
+지불하겠습니다…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-さぁ、早く振ってよ！
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-では振ります……
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-ウソ……
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-ああ、残念でしたね。「１７」です。
-賭け金は没収となります。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-イカサマだわ！
-イカサマでしょ！
-[ENDBLOCK]
-ギャンブラー
-[ENDBLOCK]
-そ、そんな……
-あなた方も勝っているうちに
-止める事はできたのですよ？
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-やだやだー！
+계속해! 물론 전액「１８」으로!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>、あきらめよう。
-残念だったね。
+<Rutee>야,
+정말로 이제 그만두지 않을래?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+시끄럽네!
+[ENDBLOCK]
+딜러
+[ENDBLOCK]
+…그, 그럼,
+굴리겠습니다?
+[ENDBLOCK]
+딜러
+[ENDBLOCK]
+축하합니다…
+정확하게 맞추셨습니다…
+[ENDBLOCK]
+딜러
+[ENDBLOCK]
+３２００억 갈드를
+지불하겠습니다…
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+계속해! 전액「１８」으로!!
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+자, 빨리 굴려!
+[ENDBLOCK]
+딜러
+[ENDBLOCK]
+그럼 굴리겠습니다…
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+거짓말…
+[ENDBLOCK]
+딜러
+[ENDBLOCK]
+아, 안타깝네요.「１７」입니다.
+베팅 금액은 몰수됩니다.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+사기야! 사기잖아!
+[ENDBLOCK]
+딜러
+[ENDBLOCK]
+그, 그런…
+여러분도 이길 때 그만둘 수 있었잖아요?
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+싫어, 싫어ー！
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Rutee>, 포기하자.
+안타깝네.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あら、みなさん
-盛り上がってるようですわね。
+아, 여러분
+신나고 있는 것 같네요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-いつまで経っても、戻って
-いらっしゃらないので……
+언제까지 돌아오지 않으실 건가요…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-どうかされたのですか？
+무슨 일이 있으신가요?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-大損さ。
-１ガルドも負けたんだからね。
+엄청난 손해야.
+1 갈드도 잃었으니까.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-１ガルド失いました。
+1 갈드를 잃었습니다.
 [ENDBLOCK]
-マスター
+마스터
 [ENDBLOCK]
-ここも反乱軍の連中がよく来ます。
-滅多な事は口にしませんよう。
+여기도 반란군들이 자주 옵니다.
+무슨 말이든 조심하세요.
 [ENDBLOCK]
-マスター
+마스터
 [ENDBLOCK]
-いらっしゃいませ。
+환영합니다.
 [ENDBLOCK]
-マスター
+마스터
 [ENDBLOCK]
-陛下……！	このような店に、
-お越しいただけるとは光栄です。
+폐하…！	이런 가게에,
+와 주시다니 영광입니다.
 [ENDBLOCK]
-マスター
+마스터
 [ENDBLOCK]
-いらっしゃいませ。
+환영합니다.
 [ENDBLOCK]
-マスター
+마스터
 [ENDBLOCK]
-私たちは大丈夫です。
-頑張ってください、陛下！
+우리는 괜찮습니다.
+힘내세요, 폐하！
 [ENDBLOCK]
-マスター
+마스터
 [ENDBLOCK]
-<Greybum>の乱を乗り切った私たちです。
-今さら大抵の事では驚きませんよ。
+<Greybum>의 난을 이겨낸 우리입니다.
+이제는 대충의 일로는 놀라지 않아요.
 [ENDBLOCK]
-マスター
+마스터
 [ENDBLOCK]
-ここも反乱軍の連中がよく来ます。
-滅多な事は口にしませんよう。
+여기도 반란군들이 자주 옵니다.
+무슨 말이든 조심하세요.
 [ENDBLOCK]
-マスター
+마스터
 [ENDBLOCK]
-いらっしゃいませ。
+환영합니다.
 [ENDBLOCK]
-マスター
+마스터
 [ENDBLOCK]
-陛下……！	このような店に、
-お越しいただけるとは光栄です。
+폐하…！	이런 가게에,
+와 주시다니 영광입니다.
 [ENDBLOCK]
-マスター
+마스터
 [ENDBLOCK]
-いらっしゃいませ。
+환영합니다.
 [ENDBLOCK]
-マスター
+마스터
 [ENDBLOCK]
-私たちは大丈夫です。
-頑張ってください、陛下！
+우리는 괜찮습니다.
+힘내세요, 폐하！
 [ENDBLOCK]
-マスター
+마스터
 [ENDBLOCK]
-<Greybum>の乱を乗り切った私たちです。
-今さら大抵の事では驚きませんよ。
+<Greybum>의 난을 이겨낸 우리입니다.
+이제는 대충의 일로는 놀라지 않아요.
 [ENDBLOCK]
-従業員
+직원
 [ENDBLOCK]
-支払いをきちんとしてくれるなら、
-反乱軍だって立派なお客さんよ。
+지불을 제대로 해 준다면,
+반란군도 훌륭한 손님이지.
 [ENDBLOCK]
-従業員
+직원
 [ENDBLOCK]
-サイリルの人たちに恨みはないわ。
-支払いも良かったしね。
+사이릴 사람들에게 원한은 없어.
+지불도 좋았으니까.
 [ENDBLOCK]
-従業員
+직원
 [ENDBLOCK]
-あら。あなた、陛下に似てるわね。
+아, 당신은 폐하를 닮았네요.
 [ENDBLOCK]
-従業員
+직원
 [ENDBLOCK]
-あら、あなたのお連れの人、
-陛下に似てるわね。
+아, 당신의 동행인도,
+폐하를 닮았네요.
 [ENDBLOCK]
-従業員
+직원
 [ENDBLOCK]
-セインガルドが攻撃されたんでしょ？
-この国もいつ狙われるか……
+세인가르드가 공격받았죠?
+이 나라도 언제 표적이 될지…
 [ENDBLOCK]
-従業員
+직원
 [ENDBLOCK]
-またあの雷が落ちてきたらと思うと、
-怖くてたまらないの……
+또 그 번개가 떨어진다면 생각하니,
+무서워서 못 참겠어요…
 [ENDBLOCK]
-従業員
+직원
 [ENDBLOCK]
-へ、へ、陛下！
-そっくりさんじゃなかったんですね！
+에, 에, 폐하!
+그와 똑같은 사람이 아니었군요!
 [ENDBLOCK]
-従業員
+직원
 [ENDBLOCK]
-すみません、本当にすみません！
+죄송합니다, 정말 죄송합니다!
 [ENDBLOCK]
-従業員
+직원
 [ENDBLOCK]
-みなさん、頑張ってください。
+여러분, 힘내세요.
 [ENDBLOCK]
-客
+손님
 [ENDBLOCK]
-<Greybum>め……許さんぞお……
-……ヒック。
+<Greybum>그… 용서하지 않겠다…
+…헉.
 [ENDBLOCK]
-客
+손님
 [ENDBLOCK]
-<Woodrow>陛下、ご即位ばんざい……
-……ヒック。
+<Woodrow>폐하, 즉위 만세…
+…헉.
 [ENDBLOCK]
-客
+손님
 [ENDBLOCK]
-ベルクラ……なんだあ？
-そんなもんは知らねえ……ヒック。
+벨클라… 그게 뭐야?
+그런 건 몰라… 헉.
 [ENDBLOCK]
-客
+손님
 [ENDBLOCK]
-なんだ……どうして外が、
-ずっと夜のままなんだ……ヒック。
+뭐지… 왜 밖이,
+계속 밤인 거지… 헉.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>현재 소지하고 있는 갈드:<TAG_033>갈드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+네
+아니오
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>가
 [ENDBLOCK]
-パーティに加わりました。
+파티에 합류했습니다.
 [ENDBLOCK]
-仲間になりました。
+동료가 되었습니다.
 [ENDBLOCK]
-戦闘に参加できます。
+전투에 참여할 수 있습니다.
 [ENDBLOCK]
-同行します。
+동행합니다.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x57><xB4><x00><x80><x18><x65><x57><xB8><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x57><xB4><x00><x80><x18><x65><x57><xB8><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x57><xE4><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>가
+[ENDBLOCK]
+파티에서 빠졌습니다.
+[ENDBLOCK]
+<x18><x65><x57><xB4><x00><x80><x18><x65><x57><xB8><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x57><xE4><x00><x80></color>를 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x47><xD8><x80>たちは
+<x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-<turquoise>交易称号
+<turquoise>거래 칭호
 [ENDBLOCK]
-<x19><x69><x47><xD8><x80>たちは
+<x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-<turquoise>温泉称号
+<turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x47><xD8><x80>たちは
+<x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-<turquoise>自由称号
+<turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x47><xD8><x80>たちは
+<x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+칭호：<turquoise>내추럴 레인저
 [ENDBLOCK]
-<x19><x69><x47><xD8><x80>たちは
+<x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+칭호：<turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x47><xD8><x80>たちは
+<x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-<turquoise>最強の称号
+<turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x47><xD8><x80>たちは
+<x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-<turquoise>クイズ称号
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x47><xD8><x80>は
+<x19><x69><x47><xD8><x80>는
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -575,72 +569,72 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+<x1A><x20><x72><x0C><x98><x80>는
+이미 가지고 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
+이 ID와 비밀번호를 연동 웹사이트에
+입력함으로써, 데스티니의 세계가
+더욱 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>詳しくは下記のURLでご確認ください。
+<TAG_007>자세한 사항은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>です。
+<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>입니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>게임 중의 이벤트나 미니게임을
+클리어하면 연동 ID와 게임 비밀번호가
+발급될 수 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>이 연동 ID와 게임 비밀번호를
+웹사이트에 입력함으로써 데스티니
+의 세계가 더욱 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>웹사이트에 입력할
+연동 ID와 게임 비밀번호를 잊어버린 경우는
+피츠가르드에 있는 여행자의 오두막에서
+확인할 수 있습니다.
 [ENDBLOCK]
-外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+외곽 없음의 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-設定がなされません！（tod=<TAG_059>）
+설정이 이루어지지 않았습니다!(tod=<TAG_059>)
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+장치는 작동하지 않습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+워프 장치가 작동했습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -648,83 +642,83 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x47><xC4><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x47><xC4><x80>의 소디언 장치가
+사용 가능해졌습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>「칭호 설명」
+칭호란 캐릭터에 장착할 수 있는,
+캐릭터 파라미터 중 하나입니다.
+구체적인 장착 방법은 다음과 같습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>메인 메뉴를 연 후, 캐릭터의
+상태를 표시합니다.
+그 화면에서<Square_ani>를 누르면, 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
+페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면,
+획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>칭호의 사용 방법에는 두 가지가 있습니다.
+첫 번째는…
+「칭호를 설정하고, 마을 사람에게 이야기해 보세요」
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
+당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 몇 번
+이야기했을 때, 신기한 행동을 할 때가 있습니다.
+그때는, 가지고 있는 칭호를 다시 설정한 후,
+다시 이야기해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
+머리 위에 「？」가 나타날 수 있습니다.
+그때는, 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 이야기해 보세요.
+무언가 기쁜 일이 일어날지도 모릅니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>사용 방법의 두 번째는…
+「상태 화면을 멋지게 꾸미자」
+모은 칭호 중에서, 만약 마음에 드는 것이 있다면,
+설정하여 상태 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>「돌 차기 놀이는」
+필드에 있는 돌을 차서,
+특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
+1: 마을 밖에 있는 특정 돌을 차면,
+		게임이 시작됩니다.
+2: 전투는, 돌 차기 놀이의 클리어 조건에
+		영향을 미치지 않습니다.
+3: 마을이나 던전을 출입하면,
+		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>Now Loading...
+<TAG_008><S06>로딩 중...
 [ENDBLOCK]
 
 [ENDBLOCK]

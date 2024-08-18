@@ -1,403 +1,403 @@
 <Fayte>
 [ENDBLOCK]
-それ<x99>
+그 사건의 진상을 알았나?<x99>
 [ENDBLOCK]
-<xCE>事件の真相がわかったのか？
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-ああ、<Stahn>に任せておけば
-大丈夫だ。
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-よ、よろしくお願いします。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-はい。この事件のポイントはふたつです。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-<TAG_007>まずは……
-この子が大声で猫と話せる事です。
-この子は魚が大好きという事です。
-秘密の通路という疑わしい存在です。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-<TAG_007>そして……
-襲われた人には必ずふたつのキズがあった事です。
-この子がシデンの民という事です。
-この子がまだ幼いという事です。
-[ENDBLOCK]
-<Fayte>
-[ENDBLOCK]
-そんな事が本当に
-事件の真相と結びつくのですか？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-……すみません。
-もう一度考えさせてください。
+<xCE>이 사건의 진상이 밝혀졌나?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-あせらなくていい、
-じっくりと考えるんだ。
+아, <Stahn>에게 맡겨두면
+괜찮아.
 [ENDBLOCK]
-<Fayte>
+여자아이
 [ENDBLOCK]
-それで事件の犯人は？
+잘 부탁합니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<TAG_007>ずばり犯人は……！
-<Fayte>さん、あなたです！
-<Johnny>さん、あなたです！
-兵士さん、あなたです！
-女の子さん、あなたです！
-<Rutee>、あなたです！
-<Tiberius>の亡霊のしわざです！
+네. 이 사건의 포인트는 두 가지입니다.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<TAG_007>우선…
+이 아이가 큰 소리로 고양이와 이야기할 수 있다는 것입니다.
+이 아이는 물고기를 매우 좋아한다는 것입니다.
+비밀 통로라는 의심스러운 존재입니다.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<TAG_007>그리고…
+공격당한 사람에게는 반드시 두 개의 상처가 있었다는 것입니다.
+이 아이가 시덴의 민족이라는 것입니다.
+이 아이가 아직 어리다는 것입니다.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-何だって!?
+그런 일이 정말로
+사건의 진상과 연결될 수 있나요?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+…죄송합니다.
+다시 한 번 생각해 보게 해주세요.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-おい、<Stahn>ふざけているのか？
+서두르지 마, 
+천천히 생각해.
+[ENDBLOCK]
+<Fayte>
+[ENDBLOCK]
+그럼 사건의 범인은?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<TAG_007>단도직입적으로 범인은…!
+<Fayte>씨, 당신입니다!
+<Johnny>씨, 당신입니다!
+병사님, 당신입니다!
+여자아이님, 당신입니다!
+<Rutee>, 당신입니다!
+<Tiberius>의 유령의 짓입니다!
+[ENDBLOCK]
+<Fayte>
+[ENDBLOCK]
+뭐라고!?
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+이봐, <Stahn> 농담하는 거냐?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-根拠はあるの？
+근거가 있는 거야?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-まさか!?
+설마!?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ずっと一緒にいた俺が犯人だって？
+항상 함께 있던 내가 범인이라고?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……という事だけはありませんね。
+…그런 일은 절대 없겠네요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-しっかり頼むわよ、<Stahn>。
+제발 확실히 해줘, <Stahn>.
 [ENDBLOCK]
-兵士
+병사
 [ENDBLOCK]
-わ、私ですか?
+저, 저인가요?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-そんなバカな！
+말도 안 돼!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どうして味方を?
+어떻게 아군을?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…………
-アハ、アハハハハ……
+…
+아하, 아하하하하…
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-何だって!?
+뭐라고!?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-本当なのか!?
+진짜야!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ねえ、<Stahn>。
-一度、本気で怒ろうか？
+이봐, <Stahn>.
+한 번, 진짜로 화내볼까？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……ごめん。
+…미안해.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-何だって!?
+뭐라고!? 
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-おい、<Stahn>ふざけているのか？
+이봐, <Stahn> 장난치는 거야?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……怨みを持っている人を考えた結果です。
+…원한을 품고 있는 사람을 생각한 결과야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-こんな時にふざけないで！
+이런 때에 장난치지 마! 
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-何だって!?
+뭐라고!? 
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-…………
+…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-根拠はあるの？
+근거가 있어? 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ええ、この子は恐らく……
+응, 이 아이는 아마…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-双子です!!
+쌍둥이야!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そしてもうひとりはまだこの家の
-どこかにいるはずです。
+그리고 또 한 명은 아직 이 집의
+어딘가에 있을 거야.
 [ENDBLOCK]
-女の子
+소녀
 [ENDBLOCK]
-どうして分ったの？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-襲われた兵士にキズはふたつあったと
-いう事は犯人はふたりの可能性があった。
+어떻게 알았어? 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そして、秘密の通路があるのかと勘違い
-していた証言から、双子だと分かったのです。
+공격받은 병사에게 상처가 두 개 있었다는
+건 범인이 두 명일 가능성이 있었던 거야.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+그리고, 비밀 통로가 있다고 오해했던
+증언으로부터, 쌍둥이라는 걸 알게 된 거야.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-なるほどな。でもこの子が
-猫と話していたという証言は？
+그렇구나. 그런데 이 아이가
+고양이와 이야기했다는 증언은? 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あれはひとりが猫と話をする事で、
-周囲に印象づけ、もうひとりがその間に
-犯行を行う。
+그건 한 명이 고양이와 이야기함으로써,
+주변에 인상을 남기고, 다른 한 명이 그 사이에
+범행을 저지른 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうする事で、完璧なアリバイを
-作っていた。
+그렇게 함으로써, 완벽한 알리바이를
+만들 수 있었던 거야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-だったらおかしいわ。襲われた人の
-キズは、ふたつだったんでしょ？
+그렇다면 이상해. 공격받은 사람의
+상처는 두 개였잖아? 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あれは単純に、ふたり分の思いを
-込めていたからなんだ。
+그건 단순히, 두 사람의 마음을
+담고 있었기 때문이야.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-でもどうして、こんな小さな子供たちが
-兵士を襲ったりしたのだろう。
+그런데 왜 이렇게 작은 아이들이
+병사를 공격했을까.
 [ENDBLOCK]
-女の子
+소녀
 [ENDBLOCK]
-それは……
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-ひょっとして君たちは
-トウケイ家の……？
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-はい。かなり遠縁でしたが……
-<Tiberius>さんが死んでから
-私たちはずいぶんとひどい目にあいました。
+그건…
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-そうだよな……これだけの事を
-させる程の。
+혹시 너희는
+토우케이 가의…？
+[ENDBLOCK]
+소녀
+[ENDBLOCK]
+네. 꽤 먼 친척이었지만…
+<Tiberius>님이 돌아가신 후
+우리는 정말 힘든 시간을 보냈어.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+그렇구나…이 정도의 일을
+하게 할 만큼.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-私たちが、この子たちの犯罪を
-生み出したとも言えるな……
+우리가 이 아이들의 범죄를
+만들었다고도 할 수 있겠군…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Fayte>さん、この子たちは
-これからどうなるんですか？
+<Fayte>님, 이 아이들은
+앞으로 어떻게 되는 건가요？
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-そうだな……幸い、うちの兵士も
-軽い怪我をしただけだ。
+그렇군… 다행히 우리 병사들도
+가벼운 부상만 입었어.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-子供という点や境遇を考えても、
-軽い処分ですむだろう。
+아이들이라는 점과 상황을 고려해도,
+가벼운 처분으로 끝날 것이다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-これから悪い事したら
-ダメだからね。わかった？
+앞으로 나쁜 짓을 하면
+안 돼, 알겠지？
 [ENDBLOCK]
-女の子
+여자 아이
 [ENDBLOCK]
-はい、ごめんなさい。
+네, 죄송합니다.
 [ENDBLOCK]
-女の子
+여자 아이
 [ENDBLOCK]
-はい、ごめんなさい。
+네, 죄송합니다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それにしてもすごかったわ。
+그런데 정말 대단했어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いやー、偶然、前に読んだ本と
-同じトリックだったんだ。
+하하, 우연히 전에 읽었던 책과
+같은 트릭이었어.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-それでも立派だったさ。
-礼を言わせてくれ、<Stahn>。
+그럼에도 불구하고 훌륭했어.
+고맙다고 말하고 싶어, <Stahn>.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>何も入っていない。
+<TAG_005>아무것도 들어있지 않다.
 [ENDBLOCK]
-男の人
+남자
 [ENDBLOCK]
-あなたたちは……！
-……いえ、なんでもありません。
+당신들은…！
+…아니, 아무것도 아닙니다.
 [ENDBLOCK]
-男の人
+남자
 [ENDBLOCK]
-皆さん、どうか若を……！
+여러분, 제발 젊은이를…！
 [ENDBLOCK]
-男の人
+남자
 [ENDBLOCK]
-若、トウケイ領へ行かれるのですか？
-どうかお気をつけて。
+젊은이, 도우케이 영지로 가시는 건가요？
+부디 조심하세요.
 [ENDBLOCK]
-男の人
+남자
 [ENDBLOCK]
-トウケイ領へ行かれるのですか？
-どうかお気をつけて。
+도우케이 영지로 가시는 건가요？
+부디 조심하세요.
 [ENDBLOCK]
-男の人
+남자
 [ENDBLOCK]
-今は堂々と、シデン領の関係者として、
-モリュウ領との交遊を深めています。
+지금은 당당히, 시덴 영지의 관계자로서,
+모리유 영지와의 교류를 깊게 하고 있습니다.
 [ENDBLOCK]
-男の人
+남자
 [ENDBLOCK]
-こんな時こそ、アクアヴェイルの
-総力を結集しなければ……
+이럴 때일수록, 아쿠아베일의
+총력을 결집해야…
 [ENDBLOCK]
-男の人
+남자
 [ENDBLOCK]
-若！	私にできる事はありませんか？
-なんでもおっしゃってください！
+젊은이！	제가 할 수 있는 일이 없습니까？
+뭐든지 말씀해 주세요！
 [ENDBLOCK]
-男の人
+남자
 [ENDBLOCK]
-若のためならなんだってする
-覚悟が、私にはあります。
+젊은이를 위해서라면 뭐든지 할
+각오가, 저에게는 있습니다.
 [ENDBLOCK]
-男の人
+남자
 [ENDBLOCK]
-若、勝利の暁には、例の放送で、
-世界中に若の歌を流しましょう！
+젊은이, 승리의 여명에는, 그 방송으로,
+전 세계에 젊은이의 노래를 흘리자고요！
 [ENDBLOCK]
-男の人
+남자
 [ENDBLOCK]
-勝利の暁には、例の放送で、
-世界中に若の歌を流しますよ！
+승리의 여명에는, 그 방송으로,
+전 세계에 젊은이의 노래를 흘릴 것입니다！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+네
+아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>가
 [ENDBLOCK]
-パーティに加わりました。
+파티에 합류했습니다.
 [ENDBLOCK]
-仲間になりました。
+동료가 되었습니다.
 [ENDBLOCK]
-戦闘に参加できます。
+전투에 참여할 수 있습니다.
 [ENDBLOCK]
-同行します。
+동행합니다.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
+알림
 [ENDBLOCK]
-<x18><x65><x57><xE8><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>이
+[ENDBLOCK]
+파티에서 빠졌습니다.
+[ENDBLOCK]
+<x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
+[ENDBLOCK]
+알림
+[ENDBLOCK]
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x57><xE8><x00><x80></color>를 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>들은
 [ENDBLOCK]
-<turquoise>交易称号
+<turquoise>거래칭호
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>들은
 [ENDBLOCK]
-<turquoise>温泉称号
+<turquoise>온천칭호
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>들은
 [ENDBLOCK]
-<turquoise>自由称号
+<turquoise>자유칭호
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+칭호：<turquoise>나츄레인저
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+칭호：<turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>들은
 [ENDBLOCK]
-<turquoise>最強の称号
+<turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>たちは
+<x19><x69><x47><xDC><x80>들은
 [ENDBLOCK]
-<turquoise>クイズ称号
+<turquoise>퀴즈칭호
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>は
+<x19><x69><x47><xDC><x80>는
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x57><xE0><x00><x80>
 <x18><x65><x57><xE4><x00><x80>
@@ -405,74 +405,74 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+<x1A><x20><x72><x0C><x98><x80>는
+이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>연동 ID와 게임 비밀번호를 발행합니다.
+이 ID와 비밀번호를 연동 웹사이트에서
+입력하면, 데스티니의 세계가
+더욱 확장됩니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>詳しくは下記のURLでご確認ください。
+<TAG_007>자세한 사항은 아래의 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>です。
+<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>게임 중의 이벤트나 미니게임을
+클리어하면 연동 ID와 게임 비밀번호가
+발행될 수 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>이 연동 ID와 게임 비밀번호를
+웹사이트에 입력하면 데스티니
+의 세계가 더욱 확장됩니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>웹사이트에 입력할
+연동 ID와 게임 비밀번호를 잊어버린 경우는
+피츠가르드에 있는 여행자의 오두막에서
+확인할 수 있습니다.
 [ENDBLOCK]
-外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+1단계 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+2단계 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+3단계 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+최종 단계 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-設定がなされません！（tod=<TAG_059>）
+설정이 이루어지지 않았습니다！（tod=<TAG_059>）
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-装置は起動していない。
+장치는 작동하지 않고 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-ワープ装置が起動しました。
+워프 장치가 기동되었습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -480,76 +480,76 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x47><xC8><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x47><xC8><x80>의 소디언 장치가
+사용 가능해졌습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>「칭호의 설명」
+칭호란 캐릭터에 세팅할 수 있는,
+캐릭터 파라미터 중 하나입니다.
+구체적인 세팅 방법은 다음과 같습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>메인 메뉴를 연 후, 캐릭터의
+상태를 표시합니다.
+그 화면에서<Square_ani>를 누르면, 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
+페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
+획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>칭호의 용도에는 두 가지가 있습니다.
+첫 번째는…
+「칭호를 세팅하고, 마을 사람에게 이야기하자」
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>마을 사람 중에는, 칭호를 세팅하고 이야기함으로써,
+당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 몇 번
+이야기했을 때, 신비로운 행동을 할 수 있습니다.
+그때는, 가지고 있는 칭호를 다시 세팅한 후,
+다시 이야기해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
+머리 위에 「？」가 나올 수 있습니다.
+그때는, 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 세팅하고, 다시 이야기해 보세요.
+뭔가 기쁜 일이 일어날지도 모릅니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>두 번째 용도는…
+「상태 화면을 멋지게 하자」
+모은 칭호 중에서, 만약 마음에 드는 것이 있다면,
+세팅하여 상태 화면을 멋지게 연출합시다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>「돌차기 놀이」란,
+필드에 있는 돌을 차서,
+특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
+1: 마을 밖에 있는 특정 돌을 차면,
+		게임이 시작됩니다.
+2: 전투는, 돌차기 놀이의 클리어 조건에
+		영향을 미치지 않습니다.
+3: 마을이나 던전을 출입하면,
+		돌은 원래 장소로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
@@ -562,84 +562,84 @@ notice
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-まじめな少年
+진지한 소년
 [ENDBLOCK]
-ねえ、危ないからやめようよ。
+이봐, 위험하니까 그만하자.
 [ENDBLOCK]
-リーダー格の少年
+리더격 소년
 [ENDBLOCK]
-おまえ、パパに怒られるのが
-恐いんだろ。白状しろよ。
+너, 아빠한테 혼나는 게
+무섭잖아. 고백해봐.
 [ENDBLOCK]
-まじめな少年
+진지한 소년
 [ENDBLOCK]
-ち、違うよ。
-だって女の子がいるんだよ。
+그, 그게 아니야.
+여자애가 있는데.
 [ENDBLOCK]
-かわいい少女
+귀여운 소녀
 [ENDBLOCK]
-あら、私は平気よ。
+어, 나는 괜찮아.
 [ENDBLOCK]
-リーダー格の少年
+리더격 소년
 [ENDBLOCK]
-なあ、この鎧すっげーぞ。
+이봐, 이 갑옷 진짜 대단해.
 [ENDBLOCK]
-まじめな少年
+진지한 소년
 [ENDBLOCK]
-なんだか……恐いよ。
+뭔가… 무서워.
 [ENDBLOCK]
-かわいい少女
+귀여운 소녀
 [ENDBLOCK]
-ふふふ、ただの鎧を恐がる
-なんてカワイイんだ。
+헤헤, 그냥 갑옷을 무서워하다니
+너무 귀엽다.
 [ENDBLOCK]
-まじめな少年
+진지한 소년
 [ENDBLOCK]
-な！	違うよ。家にある鎧の方が
-もっと恐いもん！
+아니야! 집에 있는 갑옷이
+더 무서운걸!
 [ENDBLOCK]
-まじめな少年
+진지한 소년
 [ENDBLOCK]
-こ、こんなのいくらだって、
-平気さ……
+이, 이건 얼마든지,
+괜찮아…
 [ENDBLOCK]
-リーダー格の少年
+리더격 소년
 [ENDBLOCK]
-そんな事より、
-ここを、俺たちの秘密基地にしようぜ。
+그런 것보다,
+여기를 우리 비밀 기지로 하자.
 [ENDBLOCK]
-かわいい少女
+귀여운 소녀
 [ENDBLOCK]
-うん、それいい！
-そうしよう！
+응, 그거 좋다!
+그래 하자!
 [ENDBLOCK]
-かわいい少女
+귀여운 소녀
 [ENDBLOCK]
-ね、そうしようよ。
+이봐, 그렇게 하자.
 [ENDBLOCK]
-まじめな少年
+진지한 소년
 [ENDBLOCK]
-だめだよ……お父さんに
-しかられちゃうよ。
+안 돼… 아빠한테
+혼나게 될 거야.
 [ENDBLOCK]
-リーダー格の少年
+리더격 소년
 [ENDBLOCK]
-じゃあ、おまえは抜きな。
+그럼, 너는 빠져.
 [ENDBLOCK]
-かわいい少女
+귀여운 소녀
 [ENDBLOCK]
-ねえねえ、それじゃ私たちは、
-あの鎧に宝モノを隠しましょ。
+이봐이봐, 그럼 우리는
+그 갑옷에 보물을 숨기자.
 [ENDBLOCK]
-まじめな少年
+진지한 소년
 [ENDBLOCK]
-ま、待ってよ。僕も！
+잠깐, 기다려. 나도!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうしました？
+무슨 일이죠?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-いや、ちょっと昔の事をな……
+아니, 좀 옛날 일을...
 [ENDBLOCK]

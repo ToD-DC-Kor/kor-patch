@@ -1,622 +1,622 @@
-セインガルド兵
+세인가르드 병사
 [ENDBLOCK]
-庭を見ていると心が和む。
-警備にも身が入るというものだ。
+정원을 바라보면 마음이 편안해진다.
+경비에도 신경을 쓰게 된다.
 [ENDBLOCK]
-セインガルド兵
+세인가르드 병사
 [ENDBLOCK]
-飛行竜が戻ってきたのも、
-全て<Lion>様のおかげです。
+비행룡이 돌아온 것도,
+전부 <Lion> 님 덕분입니다.
 [ENDBLOCK]
-セインガルド兵
+세인가르드 병사
 [ENDBLOCK]
-庭を見ていると心が和む。
-警備にも身が入るというものだ。
+정원을 바라보면 마음이 편안해진다.
+경비에도 신경을 쓰게 된다.
 [ENDBLOCK]
-セインガルド兵
+세인가르드 병사
 [ENDBLOCK]
-…………
+…
 [ENDBLOCK]
-セインガルド兵
+세인가르드 병사
 [ENDBLOCK]
-我々は<Lion>や<Hugo>に、
-だまされていたのだろうか？
+우리는 <Lion>이나 <Hugo>에게,
+속아왔던 걸까?
 [ENDBLOCK]
-セインガルド兵
+세인가르드 병사
 [ENDBLOCK]
-天上王<Miktran>……
-それが黒幕の名か……
+천상왕 <Miktran>…
+그게 흑막의 이름인가…
 [ENDBLOCK]
-セインガルド兵
+세인가르드 병사
 [ENDBLOCK]
-この集積レンズ砲は人類の切り札。
-なんとしても守らなければ。
+이 집적 렌즈포는 인류의 카드.
+무슨 일이 있어도 지켜야 한다.
 [ENDBLOCK]
-セインガルド兵
+세인가르드 병사
 [ENDBLOCK]
-日の光とは、美しいものだな……
+햇빛은 아름다운 것이구나…
 [ENDBLOCK]
-軍人
+군인
 [ENDBLOCK]
-この城は構えは立派だが、
-防御面では不安がない事もない。
+이 성은 구조가 훌륭하지만,
+방어 면에서는 불안한 점이 없지 않다.
 [ENDBLOCK]
-軍人
+군인
 [ENDBLOCK]
-まあ、ここが落とされる事など、
-万が一にもないだろうが……
+뭐, 여기서 함락될 일은,
+만에 하나도 없겠지만…
 [ENDBLOCK]
-軍人
+군인
 [ENDBLOCK]
-近頃、お后様が姿を見せられない。
-お体の御加減がよろしくないようだ。
+요즘, 후궁님이 모습을 보이지 않으신다.
+몸 상태가 좋지 않은 것 같다.
 [ENDBLOCK]
-軍人
+군인
 [ENDBLOCK]
-この城は構えは立派だが、
-防御面では不安がない事もない。
+이 성은 구조가 훌륭하지만,
+방어 면에서는 불안한 점이 없지 않다.
 [ENDBLOCK]
-軍人
+군인
 [ENDBLOCK]
-まあ、ここが落とされる事など、
-万が一にもないだろうが……
+뭐, 여기서 함락될 일은,
+만에 하나도 없겠지만…
 [ENDBLOCK]
-軍人
+군인
 [ENDBLOCK]
-……すまない。
-我らが不甲ないばかりに。
+…미안하다.
+우리가 무능한 탓에.
 [ENDBLOCK]
-軍人
+군인
 [ENDBLOCK]
-<Lion>に飛行竜を奪われたのは、
-我らが安全を過信していたからだ。
+<Lion>에게 비행룡을 빼앗긴 것은,
+우리가 안전을 과신했기 때문이다.
 [ENDBLOCK]
-軍人
+군인
 [ENDBLOCK]
-我らの責任はあまりにも大きい。
-どうすればいいのか……
+우리의 책임은 너무나 크다.
+어떻게 해야 할지…
 [ENDBLOCK]
-軍人
+군인
 [ENDBLOCK]
-オベロン社の<Hugo>が、
-あの放送を流したというのか？
+오베론 사의 <Hugo>가,
+그 방송을 흘렸다는 건가?
 [ENDBLOCK]
-軍人
+군인
 [ENDBLOCK]
-<Reynolds>さんの研究室へ行くなら、
-左側の入り口へ行きな。
+<Reynolds> 씨의 연구실로 가려면,
+왼쪽 입구로 가세요.
 [ENDBLOCK]
-軍人
+군인
 [ENDBLOCK]
-ベルクラントの砲身が、
-海に落下したというのは本当か？
+벨클란트의 포신이,
+바다에 떨어졌다는 것은 사실인가?
 [ENDBLOCK]
-軍人
+군인
 [ENDBLOCK]
-集積レンズ砲が完成するまで、
-ここはなんとしても守ってみせる。
+집적 렌즈포가 완성될 때까지,
+여기는 무슨 일이 있어도 지켜보이겠다.
 [ENDBLOCK]
-軍人
+군인
 [ENDBLOCK]
-世界をよろしく頼んだぞ。
+세상을 잘 부탁한다.
 [ENDBLOCK]
-男の子
+남자아이
 [ENDBLOCK]
-この庭、きれいでしょう？
-ぼくのお父さんが整備したんだよ。
+이 정원, 예쁘지요?
+우리 아빠가 관리했어요.
 [ENDBLOCK]
-男の子
+남자아이
 [ENDBLOCK]
-この前、ドライデンのおじちゃんが
-遊んでくれたんだよ。
+이전에 드라이덴 아저씨가
+놀아주셨거든요.
 [ENDBLOCK]
-男の子
+남자아이
 [ENDBLOCK]
-この庭、きれいでしょう？
-ぼくのお父さんが整備したんだよ。
+이 정원, 예쁘지요?
+우리 아빠가 관리했어요.
 [ENDBLOCK]
-男の子
+남자아이
 [ENDBLOCK]
-このところ、お城の人たちが、
-みんなピリピリしてるんだ。
+요즘, 성의 사람들이,
+모두 긴장하고 있답니다.
 [ENDBLOCK]
-男の子
+소년
 [ENDBLOCK]
-どうして戦争が始まっちゃったの？
-どうしたら終わるの？
+왜 전쟁이 시작됐던 걸까?
+어떻게 끝낼 수 있을까?
 [ENDBLOCK]
-男の子
+소년
 [ENDBLOCK]
-お城の外は危ないから、
-出ちゃダメなんだって。
+성 밖은 위험하니까,
+나가서는 안 된다고 해.
 [ENDBLOCK]
-男の子
+소년
 [ENDBLOCK]
-世界中のレンズを、
-ここの庭に集めるんだって。
+전 세계의 렌즈를,
+여기 정원에 모은다고 해.
 [ENDBLOCK]
-男の子
+소년
 [ENDBLOCK]
-うわあ、お空に穴が開いた！
-穴が開いたよ！
-[ENDBLOCK]
-<Reynolds>
-[ENDBLOCK]
-集積レンズ砲は、
-この場所に建造する予定です。
+우와, 하늘에 구멍이 뚫렸어!
+구멍이 뚫렸다고!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-集積レンズ砲はもうすぐ完成します。
-レンズの調達をお願いします。
+집합 렌즈포는,
+이곳에 건설할 예정입니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-集積レンズ砲は一応完成しました。
-後は作戦を実行するだけです。
+집합 렌즈포는 곧 완성됩니다.
+렌즈 조달을 부탁드립니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-司令、あなたに教わった事を、
-ぼくは一生忘れません。
+집합 렌즈포는 일단 완성되었습니다.
+이제 작전을 실행하기만 하면 됩니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-……みんな、頼む。司令のためにも、
-必ず<Miktran>を倒してくれ！
+사령관, 당신에게 배운 것을,
+나는 평생 잊지 않겠습니다.
 [ENDBLOCK]
-セインガルド兵
+<Reynolds>
 [ENDBLOCK]
-<Reynolds>さんは現在、
-面会謝絶となっております。
+…모두, 부탁해. 사령관을 위해서,
+반드시<Miktran>을 쓰러뜨려 줘!
 [ENDBLOCK]
-セインガルド兵
+세인가르드 병사
 [ENDBLOCK]
-ですが、我が国精鋭の医師たちが
-ついておりますので、ご安心下さい。
+<Reynolds>님은 현재,
+면회 불가 상태입니다.
+[ENDBLOCK]
+세인가르드 병사
+[ENDBLOCK]
+하지만, 우리나라 정예 의사들이
+대기하고 있으니, 안심하세요.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-ソーディアンチーム諸君の勝利を、
-信じているぞ。
+소디언 팀 여러분의 승리를,
+믿고 있습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-我々にできる事は全てやった。
-後は頼むぞ、諸君。
+우리가 할 수 있는 일은 모두 했다.
+이제는 부탁하네, 여러분.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ここまでか……
+여기까지인가…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Reynolds>さん、
-レンズを回収してきましたよ。
+<Reynolds>님,
+렌즈를 회수해왔습니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-お疲れさま！
-わざわざすまなかったね。
+수고했어!
+일부러 와줘서 고마워.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ふむ、集積レンズ砲の製作も、
-だいぶ進んだようだな。
+흠, 집합 렌즈포 제작도,
+상당히 진행된 것 같군.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ええ、一応完成しました。
+그래, 일단 완성되었어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-本当ですか？	やった！
+정말인가요? 대단해요!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-本当はエネルギーの変換効率を、
-もっと高めたいんだけどね。
+사실 에너지 변환 효율을,
+더 높이고 싶지만 말이야.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-そうすれば出力を上げられるから。
+그렇게 하면 출력을 높일 수 있으니까.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-今のままでは、不十分なんですか？
+현재 상태로는, 부족한 건가요?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-それは大丈夫。
-皆がレンズを集めてくれたからね。
+그건 괜찮아.
+모두가 렌즈를 모아줬으니까.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-きっと外殻を撃ち抜いてみせるよ。
+분명 외피를 관통하게 될 거야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そういえば撃ち抜くのって、
-外殻のどこでもいいの？
+그런데 관통하는 건,
+외피의 어디든 괜찮은 건가요?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-いや……どこを狙うかは、
-既に決まっている。
+아니…어디를 조준할지는,
+이미 정해져 있어.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-作戦実行の時に教えるよ。
+작전 실행할 때 알려줄게.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうですか、楽しみだな！
+그렇군요, 기대돼요!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-それでは私たちは、
-陛下にいったんご報告にあがろうか。
+그럼 우리는, 
+폐하에게 잠시 보고하러 가죠.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうですね。
+그렇네요.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-楽しみ、か……
+기대돼, 라…
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-来ましたね。集積レンズ砲の準備も、
-順調に進んでますよ。
+왔군요. 집합 렌즈포의 준비도,
+순조롭게 진행되고 있어요.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-飛行竜の修復も完了したと、
-今しがた報告が入った。
+비행룡의 수리도 완료되었다고,
+방금 보고가 들어왔어.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-これでいつでも飛びたてる。
+이제 언제든지 날 수 있어.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-それでは発射に向けての、
-最終シーケンスに突入します。
+그럼 발사에向けて의,
+최종 시퀀스에 돌입합니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-集積レンズ砲照準セット。
-目標・ラディスロウ。
+집합 렌즈포 조준 세팅.
+목표・라디스로우.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-わざわざラディスロウを狙う必要が？
+굳이 라디스로우를 조준할 필요가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なぜそんな事をするんです、
-<Reynolds>さん！
+왜 그런 일을 하는 거죠,
+<Reynolds> 씨!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-外殻をよく見てください。
+외곽을 잘 봐주세요.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-所々に、青い半球のような物が
-見えるでしょう？
+곳곳에, 파란 반구 같은 것이
+보이죠?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-うむ。あれはなんなのだ？
+흠. 저것은 뭔가?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-エネルギーアブソーバです。
+에너지 흡수기입니다.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-なんじゃと。と言う事は……
+뭔 소리야. 즉…
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-あれの影響で、レンズ砲が外殻に当たると、
-エネルギーが吸収されてしまうんです。
+저것의 영향으로, 렌즈포가 외곽에 닿으면,
+에너지가 흡수되어 버린단 말이야.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-そんな……！
+그런…!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ただし……
+하지만…
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ラディスロウが見えている部分だけは、
-アブソーバの影響を受けません。
+라디스로우가 보이는 부분만은,
+흡수기의 영향을 받지 않아.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-だからそこを狙って撃ち抜くのが、
-一番確実なんです。
+그러니까 그곳을 조준해 쏘는 것이,
+가장 확실한 방법이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-もし<Ritora>が、まだ生きていたら？
+만약<Ritora>가, 아직 살아 있다면?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ラディスロウはまだ残っているんだし、
-可能性はあるんじゃないですか？
+라디스로우는 아직 남아 있으니까,
+가능성은 있지 않나요?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-無論その場合、司令もただでは済まない。
-コアクリスタルごと吹っ飛ぶだろう。
+어떤 경우라도, 지휘관도 그냥 넘어가지는 않을 거야.
+코어 크리스탈이 통째로 날아가겠지.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-それは<Ritora>にとって、
-間違いなく死を意味するわ。
+그건<Ritora>에게,
+확실히 죽음을 의미해.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんな！
-他に方法はないんですか!?
+그럴 수는 없어!
+다른 방법은 없나요!?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-あったらそっちを選ぶに決まっている。
-ぼくだって本当は嫌なんだ！
+있다면 그쪽을 선택할 거야.
+나도 사실 싫어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Reynolds>さん……
+<Reynolds>님…
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-だから出力をあげたかったんだ。
-どこを狙っても大丈夫なように。
+그래서 출력을 높이고 싶었어.
+어디를 겨냥해도 괜찮도록.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-でも、レンズ砲の耐久力を考えると、
-限界だったんだ……
+하지만, 렌즈 포의 내구성을 고려하면,
+한계였어…
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-自分を責めるな、<Reynolds>。
-おまえはよくやった。
+자신을 탓하지 마, <Reynolds>.
+너는 정말 잘했어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ritora>……？
+<Ritora>…？
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-まだ無事じゃったか！
+아직 무사했구나!
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-なんとか通信機能を回復させた。
-もっとも、風前のともし火だが。
+간신히 통신 기능을 회복했어.
+그렇지만, 바람 앞의 등불이야.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-ソーディアンチームの諸君、
-ためらってはならん。
+소디언 팀 여러분,
+주저해서는 안 돼.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-これは私が持てる情報すべてを分析し、
-はじき出した解答だ。
+이건 내가 가진 모든 정보를 분석해,
+도출한 답이야.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Ritora>……！
+<Ritora>…！
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-地上の未来は諸君の手にかかっている。
-躊躇せずにやるがいい。
+지상의 미래는 여러분의 손에 달려 있어.
+주저하지 말고 해보도록 해.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-…………
+…
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>、<Ritora>の志を、
-汲んでやってほしい。
+<Stahn>은<Ritora>의 뜻을,
+汲んでやってほしい.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……わかった。
-<Reynolds>さん、頼みます。
+…알겠어.
+<Reynolds>님, 부탁해.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-<King>陛下、作戦開始の宣言を。
+<King>폐하, 작전 시작 선언을.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-世界の存亡をかけ、ただ今より、
-最終作戦を発動する。
+세계의 존망을 걸고, 지금부터,
+최종 작전을 발동한다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-集積レンズ砲、発射準備！
+집합 렌즈 포, 발사 준비!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-エネルギー充てん率80パーセント。
-集積レンズ回路接続。
+에너지 충전률 80퍼센트.
+집합 렌즈 회로 연결.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-ジェネレーター内圧力上昇。
+제너레이터 내 압력 상승.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-集積レンズ砲発射準備完了。
-総員、対ショック、対閃光防御。
+집합 렌즈 포 발사 준비 완료.
+모두, 대충격, 대섬광 방어.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-<TAG_007>最終カウントダウン開始。	
+<TAG_007>최종 카운트다운 시작.	
 	
 
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-集積レンズ砲、発射！
+집속 렌즈포, 발사!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あれが……私たちの希望の光。
+저게… 우리의 희망의 빛이야.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ああ。<Ritora>が導いてくれた、
-かけがえのない光だ。
+아아. <Ritora>가 인도해준,
+소중한 빛이야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あの光をあたしたちの手で、
-もっと大きく、永久の物にするのよ。
+그 빛을 우리 손으로,
+더 크게, 영원한 것으로 만들어야 해.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-みんな、ダイクロフトに乗り込むぞ。
-最終決戦だ！
+모두, 다이크로프트에 탑승하자.
+최종 결전이다!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-おおーっ！
+오오ーっ！
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-おおーっ！
+오오ーっ！
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-おおーっ！
+오오ーっ！
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-おおーっ！
+오오ーっ！
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-おおーっ！
+오오ーっ！
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-おおーっ！
+오오ーっ！
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-おおーっ！
+오오ーっ！
 [ENDBLOCK]
-<TAG_007>最終カウントダウン開始。
-九、
+<TAG_007>최종 카운트다운 시작.
+아홉,
 [ENDBLOCK]
-<TAG_007>最終カウントダウン開始。
-九、八、
+<TAG_007>최종 카운트다운 시작.
+아홉, 여덟,
 [ENDBLOCK]
-<TAG_007>最終カウントダウン開始。
-九、八、七、
+<TAG_007>최종 카운트다운 시작.
+아홉, 여덟, 일곱,
 [ENDBLOCK]
-<TAG_007>最終カウントダウン開始。
-九、八、七、六、
+<TAG_007>최종 카운트다운 시작.
+아홉, 여덟, 일곱, 여섯,
 [ENDBLOCK]
-<TAG_007>最終カウントダウン開始。
-九、八、七、六、五、
+<TAG_007>최종 카운트다운 시작.
+아홉, 여덟, 일곱, 여섯, 다섯,
 [ENDBLOCK]
-<TAG_007>最終カウントダウン開始。
-九、八、七、六、五、四、
+<TAG_007>최종 카운트다운 시작.
+아홉, 여덟, 일곱, 여섯, 다섯, 넷,
 [ENDBLOCK]
-<TAG_007>最終カウントダウン開始。
-九、八、七、六、五、四、三、
+<TAG_007>최종 카운트다운 시작.
+아홉, 여덟, 일곱, 여섯, 다섯, 넷, 셋,
 [ENDBLOCK]
-<TAG_007>最終カウントダウン開始。
-九、八、七、六、五、四、三、二、
+<TAG_007>최종 카운트다운 시작.
+아홉, 여덟, 일곱, 여섯, 다섯, 넷, 셋, 둘,
 [ENDBLOCK]
-<TAG_007>最終カウントダウン開始。
-九、八、七、六、五、四、三、二、一。
+<TAG_007>최종 카운트다운 시작.
+아홉, 여덟, 일곱, 여섯, 다섯, 넷, 셋, 둘, 하나.
 [ENDBLOCK]
 <x18><x65><x58><x74><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>현재 소지하고 있는 갈드:<TAG_033>갈드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+예
+아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x90><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x90><x80></color>가
 [ENDBLOCK]
-パーティに加わりました。
+파티에 합류했습니다.
 [ENDBLOCK]
-仲間になりました。
+동료가 되었습니다.
 [ENDBLOCK]
-戦闘に参加できます。
+전투에 참가할 수 있습니다.
 [ENDBLOCK]
-同行します。
+동행합니다.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x58><x80><x00><x80><x18><x65><x58><x84><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x90><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x58><x80><x00><x80><x18><x65><x58><x84><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xB4><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x58><xB0><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x48><x90><x80></color>가
+[ENDBLOCK]
+파티에서 빠졌습니다.
+[ENDBLOCK]
+<x18><x65><x58><x80><x00><x80><x18><x65><x58><x84><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xB4><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xB0><x00><x80></color>를 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x48><xA4><x80>たちは
+<x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
-<turquoise>交易称号
+<turquoise>거래칭호
 [ENDBLOCK]
-<x19><x69><x48><xA4><x80>たちは
+<x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
-<turquoise>温泉称号
+<turquoise>온천칭호
 [ENDBLOCK]
-<x19><x69><x48><xA4><x80>たちは
+<x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
-<turquoise>自由称号
+<turquoise>자유칭호
 [ENDBLOCK]
-<x19><x69><x48><xA4><x80>たちは
+<x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+칭호：<turquoise>내추럴레인저
 [ENDBLOCK]
-<x19><x69><x48><xA4><x80>たちは
+<x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+칭호：<turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x48><xA4><x80>たちは
+<x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
-<turquoise>最強の称号
+<turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x48><xA4><x80>たちは
+<x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
-<turquoise>クイズ称号
+<turquoise>퀴즈칭호
 [ENDBLOCK]
-<x19><x69><x48><xA4><x80>は
+<x19><x69><x48><xA4><x80>는
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -628,72 +628,72 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+<x1A><x20><x72><x0C><x98><x80>는
+이미 가지고 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에서
+입력함으로써, Destiny의 세계가
+더욱 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>詳しくは下記のURLでご確認ください。
+<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>です。
+<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>입니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>게임 중의 이벤트나 미니게임을
+클리어하면 연동 ID와 게임 패스워드가
+발행될 수 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>이 연동 ID와 게임 패스워드를
+웹사이트에서 입력하면 Destiny
+의 세계가 더욱 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>웹사이트에서 입력할
+연동 ID와 게임 패스워드를 잊어버린 경우는
+피츠갈드에 있는 여행자의 오두막에서
+확인할 수 있습니다.
 [ENDBLOCK]
-外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+겉껍질 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+1단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+2단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+3단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-設定がなされません！（tod=<TAG_059>）
+설정이 이루어지지 않았습니다！（tod=<TAG_059>）
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+장치는 작동하지 않고 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+워프 장치가 작동했습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -701,76 +701,76 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><x90><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x48><x90><x80>의 소디언 장치가
+사용 가능해졌습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>「칭호 설명」
+칭호란 캐릭터에 세팅할 수 있는,
+캐릭터 파라미터 중 하나입니다.
+구체적인 세팅 방법은 다음과 같습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>메인 메뉴를 열면, 캐릭터의
+상태를 표시합니다.
+그 화면에서<Square_ani>를 누르면, 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>상태의 가장 위에는, 「칭호」라고 적힌
+페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
+획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>칭호의 용도에는 두 가지가 있습니다.
+첫 번째는…
+「칭호를 세팅하고, 마을 사람에게 이야기하자」
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>마을 사람 중에는, 칭호를 세팅하고 이야기하면,
+당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 여러 번
+이야기했을 때, 이상한 행동을 할 수 있습니다.
+그때는, 가지고 있는 칭호를 다시 세팅한 후,
+다시 이야기해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
+머리 위에「？」가 나올 수 있습니다.
+그때는, 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 세팅하고, 다시 이야기해 보세요.
+무언가 기쁜 일이 일어날지도 모릅니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>두 번째 용도는…
+「상태 화면을 멋지게 꾸미자」
+모은 칭호 중에서 마음에 드는 것이 있다면,
+세팅하여 상태 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>「돌차기 놀이」란,
+필드에 있는 돌을 차서,
+특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
+1: 마을 밖에 있는 특정 돌을 차면,
+		게임이 시작됩니다.
+2: 전투는, 돌차기 놀이의 클리어 조건에
+		영향을 미치지 않습니다.
+3: 마을이나 던전을 드나들면,
+		돌은 원래 장소로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

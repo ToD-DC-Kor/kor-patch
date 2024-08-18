@@ -1,19 +1,19 @@
-××××××空開始××××××
+××××××공간 시작××××××
 
 [ENDBLOCK]
-××××××空終了××××××
+××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
-◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+◆◆◆◆◆◆ 외殻 종료 ◆◆◆◆◆◆
 
 [ENDBLOCK]
-●●●●●●雲開始●●●●●●
+●●●●●● 구름 시작 ●●●●●●
 
 [ENDBLOCK]
-●●●●●●雲終了●●●●●●
+●●●●●●구름 종료●●●●●●
 
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
@@ -21,998 +21,994 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あれ、シスター？
-どうしたの？
+어, 수녀님？
+무슨 일인가요？
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
 <Rutee>!?
-もう、驚かせないでよ。
+이런, 놀라게 하지 마세요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-どうしてそんなに驚くのよ。
+왜 그렇게 놀라세요？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-町長に会いに来たの？
+시장님을 만나러 온 건가요？
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-ここではなく、孤児院の方で
-話しましょ。
+여기가 아니라, 고아원 쪽에서
+얘기합시다.
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-ささ、あなたも来てください。
+어서, 당신도 와주세요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺もですか？
+저도요？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-一体、どうしたんですか？
+도대체 무슨 일인가요？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちゃんと事情を説明してよ。
+제대로 상황을 설명해줘요.
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-実はね。今度、孤児院の
-発表会で劇をやる事になったの。
+사실은요. 이번에 고아원에서
+발표회로 연극을 하게 되었어요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それが町長とどう関係あるの？
+그게 시장님과 무슨 관계가 있죠？
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-まあ、最後まで話を聞いて。
+음, 끝까지 이야기 들어주세요.
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-<Rutee>は分かっていたと思うけど、
-私たちは町長夫妻と上手くいっていないでしょ。
+<Rutee>는 알고 있었겠지만,
+우리는 시장 부부와 잘 지내고 있지 않죠.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺、全然知らなかったよ。
+나는 전혀 몰랐어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-街のみんなが知ってるわ。
+거리의 모든 사람들이 알고 있어요.
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-それで発表会に町長夫妻が
-見える事になっているわ。
+그래서 발표회에 시장 부부가
+보러 오게 되었어요.
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-だから、そこで子供たちを見てもらって
-町長夫妻との関係を修復したいのよ。
+그래서, 그곳에서 아이들을 보여주고
+시장 부부와의 관계를 회복하고 싶어요.
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-でも、どうやら町長の奥さんが
-私たちの邪魔をしようとしているようなの。
+하지만, 마치 시장 아내가
+우리를 방해하려는 것 같아요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それで、町長さんの家に行こうと？
+그래서, 시장 집에 가려고？
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-そうなんです。でもなんて聞けば
-いいか分からなくて……
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-確かにね。奥さんに向かって、
-「邪魔しようとしてますか？」
-なんて聞けないものね。
-[ENDBLOCK]
-シスター
-[ENDBLOCK]
-それで<Rutee>。
-御願いがあるの。
-[ENDBLOCK]
-シスター
-[ENDBLOCK]
-町長の奥さんが何を考えているか、
-調べてくれない？
-[ENDBLOCK]
-シスター
-[ENDBLOCK]
-何をやっているのですか？
-<Rutee>まで一緒に。
-[ENDBLOCK]
-シスター
-[ENDBLOCK]
-いえ、なんでもありません。
-[ENDBLOCK]
-シスター
-[ENDBLOCK]
-シスター、ちょっと御願いしたい事が
-あるのですがよろしいですか？
-[ENDBLOCK]
-シスター
-[ENDBLOCK]
-ええ、今参ります。
-[ENDBLOCK]
-シスター
-[ENDBLOCK]
-この事は私たちだけの秘密よ。
-[ENDBLOCK]
-シスター
-[ENDBLOCK]
-それじゃ。
-後はよろしくね、<Rutee>。
+맞아요. 그런데 어떻게 물어봐야 할지
+모르겠어요…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと待って……
+그렇죠. 아내에게,
+「방해하려고 하시나요？」
+라고 물어볼 수는 없겠네요.
+[ENDBLOCK]
+수녀님
+[ENDBLOCK]
+그래서<Rutee>.
+부탁이 있어요.
+[ENDBLOCK]
+수녀님
+[ENDBLOCK]
+시장 아내가 무엇을 생각하고 있는지,
+조사해줄 수 없나요？
+[ENDBLOCK]
+수녀님
+[ENDBLOCK]
+무슨 일을 하고 있는 건가요？
+<Rutee>와 함께요.
+[ENDBLOCK]
+수녀님
+[ENDBLOCK]
+아니요, 아무것도 아닙니다.
+[ENDBLOCK]
+수녀님
+[ENDBLOCK]
+수녀님, 부탁하고 싶은 일이
+있는데 괜찮으신가요?
+[ENDBLOCK]
+수녀님
+[ENDBLOCK]
+네, 지금 가겠습니다.
+[ENDBLOCK]
+수녀님
+[ENDBLOCK]
+이 일은 우리만의 비밀이에요.
+[ENDBLOCK]
+수녀님
+[ENDBLOCK]
+그럼, 나머지는 잘 부탁해요, <Rutee>.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+잠깐만…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうしよっか……
+어떻게 하지…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-とりあえず、町長の家に……
+우선, 시장 집에…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-行くしかないよな……
+갈 수밖에 없겠네…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうしたの、<Rutee>？
+어떻게 된 거야, <Rutee>? 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと待って！
-家の中から話し声が聞こえない？
+잠깐만! 
+집 안에서 이야기 소리가 들리지 않아?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ホントだ！
-何か聞こえる……
+정말이야! 
+무언가 들려…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-けど、何を言ってるかまでは
-さすがに聞き取れないわね。
+하지만, 뭘 말하는지는
+듣기 힘들겠네.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんた、なんで楽しそうに
-してんの？
+너, 왜 그렇게 즐거워하고
+있어?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんかスパイっぽいかなと思ってさ。
+뭔가 스파이 같다고 생각했거든.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-バカ言ってないで……
+바보 같은 소리 하지 말고…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……でも確かに、スパイだったら
-聞こえたりするのかしら？
+…하지만 확실히, 스파이라면
+들릴 수도 있지 않을까?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうしたの<Philia>？
+어떻게 된 거야, <Philia>? 
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-何か聞こえませんか？
+무언가 들리지 않나요?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-家の中から、話し声が聞こえるわ。
+집 안에서, 이야기 소리가 들려.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも、何を言ってるかまでは
-分からないよ。
+하지만, 뭘 말하는지는
+모르겠어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-これが聞こえれば……
+이게 들린다면…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-少し静かにしてもらえますか？
+조금 조용히 해줄 수 있어요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ひょっとして<Philia>……
+혹시 <Philia>…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと<Stahn>。
-静かにしなさいよ！
+잠깐 <Stahn>. 
+조용히 해!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>さんが静かにお願いします！
+<Rutee>님이 조용히 부탁합니다!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-女性の声が聞こえますわ。
+여성의 목소리가 들립니다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-きっと町長の奥さんだ。
+분명 마을 장관의 아내겠죠.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-発表会……準備は出来……
-これで……孤児院……
+발표회…준비는 다…
+이로써…고아원…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-……つぶせる。
+…없앨 수 있어요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-それで、町長の奥さんたちは
-具体的に何を企んでるの？
+그래서, 마을 장관의 아내들은
+구체적으로 무엇을 꾸미고 있는 거죠?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-すみません、そこまでは
-分かりませんでした。
+죄송합니다, 그 부분까지는
+알지 못했습니다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたたちには悪いけど、
-少しの間付き合ってもらうわよ。
+너희들에게 미안하지만,
+잠시만 같이 있어줘야 해.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんとしても孤児院を守らなきゃ。
-町長の奥さんの好きにはさせないわ。
+무슨 일이 있어도 고아원을 지켜야 해.
+마을 장관의 아내가 마음대로 하게 둘 수는 없어.
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-なるほどね。
-やっぱり何か企んでいたのね。
+그렇군요.
+역시 뭔가 꾸미고 있었군요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でも、何をしてくるかは
-分からないわ。
+하지만, 그들이 무엇을 할지는
+모르겠어요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-すみません。私が……
+죄송합니다. 제가…
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-なあに、気にしないで。
+뭐, 신경 쓰지 마세요.
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-発表会本番は、お客さんも沢山
-来るから、向こうもそうそう
-ヘタはできないでしょ。
+발표회 본방은 손님도 많이
+오니까, 저쪽도 그렇게
+서투르지는 않을 거예요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺たちも一緒にいようよ。
+우리도 같이 있자.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そうね。何かあればあたしたちが
-すぐに動けるからね。
+그래요. 무슨 일이 생기면 우리가
+즉시 움직일 수 있으니까요.
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-それじゃ、明日が発表会だから、
-今夜はみなさんもここに泊まって
-下さい。
+그럼, 내일이 발표회니까,
+오늘 밤은 여러분도 여기에서
+자야 해요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なかなか始まらないわ……
+아직 시작되지 않네요…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-大丈夫だよ、<Rutee>。
+괜찮아, <Rutee>.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-そうですわ。子供たちの仕度に
-時間が掛かっているのでしょう。
+그렇습니다. 아이들의 준비에
+시간이 걸리는 것 같아요.
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-大変！
-子供たちがいないの！
+큰일이에요!
+아이들이 없어요!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんですって！
+뭐라고요?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-でも一体どこに!?
+근데 도대체 어디에?!
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-分からないの。でも、私が最後に
-子供たちを見かけた時間を考えると……
+모르겠어요. 하지만, 제가 마지막으로
+아이들을 본 시간을 생각해보면…
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-そう遠くへは
-行っていないと思うわ。
+그리 멀리 가지는 않았을 거예요.
 [ENDBLOCK]
-町長の奥さん
+마을 장관의 아내
 [ENDBLOCK]
-何かあったのかしら？
+무슨 일이 있었던 걸까요?
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-実は子供たちが
-いなくなってしまって……
+사실 아이들이
+사라져버렸어요…
 [ENDBLOCK]
-町長の奥さん
+시장 부인
 [ENDBLOCK]
-あら、大変。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-って、わざとらしい態度ね。
-あんたが誘拐でもしたんでしょ！
-[ENDBLOCK]
-町長の奥さん
-[ENDBLOCK]
-まあ、人聞きの悪い事を。
-町長の夫人たるわたくしが誘拐？
-[ENDBLOCK]
-町長の奥さん
-[ENDBLOCK]
-失礼な子ね、まったく。
-どんな仕付けをしたらこうなるのかしら。
-[ENDBLOCK]
-町長の奥さん
-[ENDBLOCK]
-そうそう、わたくしお伝えし忘れて
-いた事が御座いましたわ。
-[ENDBLOCK]
-町長の奥さん
-[ENDBLOCK]
-もし本日の発表会が成功しなければ、
-町の補助金をカットさせて頂く事に
-なりました。
+아이고, 큰일이네요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんですって!!
+정말로, 일부러 그런 태도를 보이는군요.
+당신이 유괴라도 했던 거죠!
 [ENDBLOCK]
-シスター
+시장 부인
 [ENDBLOCK]
-聞いていません！
+아, 그런 안 좋은 소문을.
+시장의 부인인 제가 유괴를? 
+[ENDBLOCK]
+시장 부인
+[ENDBLOCK]
+무례한 아이네요, 정말.
+어떤 교육을 받으면 이렇게 될까요?
+[ENDBLOCK]
+시장 부인
+[ENDBLOCK]
+그렇죠, 제가 말씀드리기 잊었던
+일이 있었어요.
+[ENDBLOCK]
+시장 부인
+[ENDBLOCK]
+오늘 발표회가 성공하지 않으면,
+시의 보조금을 삭감하겠다고 했어요.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+뭐라고요!!
+[ENDBLOCK]
+수녀님
+[ENDBLOCK]
+전혀 듣지 못했어요!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんな。酷いじゃないですか！
+그럴 수가. 너무한 거 아니에요?!
 [ENDBLOCK]
-町長の奥さん
+시장 부인
 [ENDBLOCK]
-ですから、忘れていたと。
+그러니까, 잊고 있었다고요.
 [ENDBLOCK]
-町長の奥さん
+시장 부인
 [ENDBLOCK]
-では、発表会を楽しみに
-していますわ。ホホホ。
+그럼, 발표회를 기대하고
+있겠습니다. 호호호.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あからさまですね。
+너무 노골적이네요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そんな事より、
-劇の開演まで時間がないわ。
+그런 것보다,
+연극 시작까지 시간이 없어요.
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-子供たちの劇の衣装が
-無くなっているの。
+아이들의 연극 의상이
+사라져버렸어요.
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-衣装を着たまま、子供たちは
-町のどこかにいるはずよ。
+의상을 입은 채로, 아이들은
+마을 어딘가에 있을 거예요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-分かりました！
+알겠어요!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-チビたちは全員で四人よ。
-それじゃ、急いで探しましょ！
+꼬마들은 모두 네 명이에요.
+그럼, 서둘러서 찾아보죠!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……うそ……
+…거짓말…
 [ENDBLOCK]
-シスター
+수녀님
 [ENDBLOCK]
-間に合わなかったの……
+간발에 닿지 못했어요…
 [ENDBLOCK]
-町長の奥さん
+시장 부인
 [ENDBLOCK]
-本当に残念でした事。
-オホホホホ。
+정말로 아쉬운 일이었어요.
+오호호호호.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-しかし、この孤児院が
-無くなってしまったら……
+하지만, 이 고아원이
+사라져버린다면…
 [ENDBLOCK]
-町長の奥さん
+시장 부인
 [ENDBLOCK]
-安心してちょうだい。
-ここを潰したら、立派な美術館にする
-予定ですのよ。
+안심하세요.
+여기를 없애면, 훌륭한 미술관으로
+만들 계획이에요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんな事言ってるんじゃない！
+그런 소리 하는 게 아니에요!
 [ENDBLOCK]
-町長の奥さん
+시장 부인
 [ENDBLOCK]
-もう何を言ってもムダですわ。
-あなたたちの居場所なんてないの！
+아무리 뭐라고 해도 소용없어요.
+당신들 자리 같은 건 없어요!
 [ENDBLOCK]
-女の子
+여자아이
 [ENDBLOCK]
-やっぱりダメなんだ……
-私たちがかくれんぼで
-見つかったから……
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-違うの。あなたたちのせいじゃない。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-<Rutee>姉ちゃん。
-僕たちの家、無くなっちゃうの？
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-そんなの嫌！
-みんなと一緒にいたいよ！
+역시 안 돼…
+우리들이 숨바꼭질에서
+발견됐으니까…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何言ってんの。大丈夫よ！
+아니야. 당신들 잘못이 아니야.
+[ENDBLOCK]
+남자아이
+[ENDBLOCK]
+<Rutee> 언니.
+우리 집, 없어져 버리는 거야?
+[ENDBLOCK]
+여자아이
+[ENDBLOCK]
+그런 건 싫어! 
+모두와 함께 있고 싶어!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-例え、居場所が無くなったって
-みんな一緒にいればなんとかなるわよ。
-[ENDBLOCK]
-シスター
-[ENDBLOCK]
-そうそう、一人だったら出来ない事も
-みんな一緒なら安心よ。
-[ENDBLOCK]
-シスター
-[ENDBLOCK]
-そうですね。
-私たちは家族なんですものね。
+뭐라고 하는 거야. 괜찮아!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-シスターの言う事でも
-信じられない？
+설령, 자리가 없어져도
+모두 함께 있으면 괜찮을 거야.
 [ENDBLOCK]
-女の子
+수녀
 [ENDBLOCK]
-んーんー。
-わたしもみんながいればいい！
+그래, 혼자서는 할 수 없는 것들도
+모두 함께라면 안심이야.
 [ENDBLOCK]
-男の子
+수녀
 [ENDBLOCK]
-僕も！
+맞아요.
+우리는 가족이니까요.
 [ENDBLOCK]
-町長の奥さん
+<Rutee>
 [ENDBLOCK]
-いつまでそんな
-家族ごっこをしてるの！
+수녀의 말도
+믿을 수 없어?
 [ENDBLOCK]
-町長の奥さん
+여자아이
 [ENDBLOCK]
-さあ、さっさと出て行く準備を
-した方がいいわよ！
+응응.
+나도 모두가 있으면 좋겠어!
 [ENDBLOCK]
-町長
+남자아이
 [ENDBLOCK]
-もう止めよう。
+나도!
 [ENDBLOCK]
-町長の奥さん
+마을 장의 아내
 [ENDBLOCK]
-何を言い出すのあなた！
+언제까지 그렇게
+가족 놀이를 하고 있는 거야!
 [ENDBLOCK]
-町長
+마을 장의 아내
 [ENDBLOCK]
-おまえの考えている事など
-分かっているんだ。
+자, 빨리 나갈 준비를
+하는 게 좋을 거야!
 [ENDBLOCK]
-町長
+마을 장
 [ENDBLOCK]
-私たち夫婦には、
-君たちを見るのは辛すぎるんだ。
+이제 그만하자.
+[ENDBLOCK]
+마을 장의 아내
+[ENDBLOCK]
+무슨 말을 하는 거야 당신!
+[ENDBLOCK]
+마을 장
+[ENDBLOCK]
+너가 생각하는 건
+다 알고 있어.
+[ENDBLOCK]
+마을 장
+[ENDBLOCK]
+우리 부부에게는,
+너희들을 보는 게 너무 힘들어.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-どういう事ですか？
+무슨 말인가요?
 [ENDBLOCK]
-町長
+마을 장
 [ENDBLOCK]
-私たちは子供が大好きだ。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-嘘言わないでよ！
-[ENDBLOCK]
-町長
-[ENDBLOCK]
-嘘じゃない。
-本当に私たちは子供を望んだ……
-[ENDBLOCK]
-町長
-[ENDBLOCK]
-しかし神は私たち夫婦に、
-子を授けては下さらなかった。
-[ENDBLOCK]
-町長
-[ENDBLOCK]
-君たちのような
-捨てられた子を見ると……
-[ENDBLOCK]
-町長
-[ENDBLOCK]
-どうして私たちは、君たちを
-捨てた親よりも劣るというのか！
-[ENDBLOCK]
-町長
-[ENDBLOCK]
-私たちには家族を
-作る権利すらないのか！
-[ENDBLOCK]
-町長
-[ENDBLOCK]
-……そうやって、自分自身を
-責めずにはいられないんだ。
-[ENDBLOCK]
-町長の奥さん
-[ENDBLOCK]
-あなた……
-[ENDBLOCK]
-町長
-[ENDBLOCK]
-すまなかったね……
-[ENDBLOCK]
-町長
-[ENDBLOCK]
-もうここには来ないよ。
-君たちはここにいていい。
-[ENDBLOCK]
-町長
-[ENDBLOCK]
-さあ、家に戻ろう。
+우리는 아이들을 너무 좋아해.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-待ってよ、町長さん……
+거짓말 하지 마!
+[ENDBLOCK]
+마을 장
+[ENDBLOCK]
+거짓말이 아니야.
+정말로 우리는 아이를 원했어…
+[ENDBLOCK]
+마을 장
+[ENDBLOCK]
+하지만 신은 우리 부부에게,
+아이를 주지 않았어.
+[ENDBLOCK]
+마을 장
+[ENDBLOCK]
+너희 같은
+버려진 아이를 보면…
+[ENDBLOCK]
+마을 장
+[ENDBLOCK]
+왜 우리는, 너희를
+버린 부모보다 열등하다는 거야!
+[ENDBLOCK]
+마을 장
+[ENDBLOCK]
+우리는 가족을
+만들 권리조차 없단 말인가！
+[ENDBLOCK]
+마을 장관
+[ENDBLOCK]
+…그렇게, 스스로를
+책임지지 않을 수 없구나.
+[ENDBLOCK]
+장관의 아내
+[ENDBLOCK]
+당신…
+[ENDBLOCK]
+마을 장관
+[ENDBLOCK]
+미안했네…
+[ENDBLOCK]
+마을 장관
+[ENDBLOCK]
+이제는 여기 오지 않을 거야.
+너희는 여기 있어도 좋아.
+[ENDBLOCK]
+마을 장관
+[ENDBLOCK]
+자, 집으로 돌아가자.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ひとつ教えたげる。
-家族を作るのに権利なんてないわ！
+기다려, 장관님…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-もしそんなものがあったなら、
-あたしたちだってそんな権利を
-持っていないかもしれない。
+하나 가르쳐줄게.
+가족을 만드는 데 권리는 필요 없어！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でも、それでも……
-あたしたちは家族になった。
-[ENDBLOCK]
-町長
-[ENDBLOCK]
-何が言いたいんだ？
+만약 그런 것이 있다면,
+우리도 그런 권리가
+없을지도 몰라.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-いつでも来て頂戴って
-言ってるの。
+하지만, 그래도…
+우리는 가족이 되었어.
 [ENDBLOCK]
-町長の奥さん
+마을 장관
 [ENDBLOCK]
-わたくしたちの子供の代わりに
-なってくれると言うの？
-こんなに酷い事したのに？
-[ENDBLOCK]
-シスター
-[ENDBLOCK]
-もちろん許しますとも、
-ただ、ひとつ条件がありますけど。
-[ENDBLOCK]
-町長
-[ENDBLOCK]
-……条件？
-[ENDBLOCK]
-シスター
-[ENDBLOCK]
-それは、心から私たちと
-家族になる事。
+무슨 말이 하고 싶은 거지？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-だってさ。無条件に相手を
-許せるから家族なんじゃない。
+언제든지 와달라고
+말하는 거야.
+[ENDBLOCK]
+장관의 아내
+[ENDBLOCK]
+우리 아이의 대신이
+되어준다고？
+이렇게 끔찍한 일을 했는데？
+[ENDBLOCK]
+수녀
+[ENDBLOCK]
+물론 용서하겠지만,
+단 하나의 조건이 있어.
+[ENDBLOCK]
+마을 장관
+[ENDBLOCK]
+…조건？
+[ENDBLOCK]
+수녀
+[ENDBLOCK]
+그건, 진심으로 우리와
+가족이 되는 거야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-子供の代わりじゃなくて、
-本当の子供になるのよ。分かった？
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-新しいお母さんだぁ！
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-ねえねえ、お母さん
-一緒に遊ぼうよ！
-[ENDBLOCK]
-町長の奥さん
-[ENDBLOCK]
-……ありがとう。
-みんな、ありがとう。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-シスターならお家にいるよ。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-うわあ、また来てくれたんだ！
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-<Rutee>姉ちゃん、おかえり！
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-おかえりなさい！
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-<Rutee>姉ちゃん、行ってらっしゃい！
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-行ってらっしゃい！
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-<Rutee>姉ちゃん、おかえり！
-戻ってきてくれたんだね！
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-<Rutee>姉ちゃんが
-いないとさみしいよー。
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-おれ、もう泣かないよ。
-<Rutee>姉ちゃん、がんばれー！
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-おれ、もう泣かないよ。
-姉ちゃんだってがんばってるんだ。
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-姉ちゃん、お帰りなさい！
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-ねえねえ、遊ぼ！
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-行ってらっしゃい、気をつけてね。
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-<Rutee>姉ちゃん！
-どうして空が変になってるの？
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-ねえ、お空が変だよ？
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-あたしたちなら、だいじょうぶ。
-心配しなくていいからね！
-[ENDBLOCK]
-女の子
-[ENDBLOCK]
-たっ、助けて……
+그렇잖아. 무조건 상대를
+용서할 수 있으니까 가족이 되는 거야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……！
+아이의 대신이 아니라,
+진짜 아이가 되는 거야. 알겠어？
+[ENDBLOCK]
+남자아이
+[ENDBLOCK]
+새로운 엄마다ぁ！
+[ENDBLOCK]
+여자아이
+[ENDBLOCK]
+이야, 엄마
+같이 놀자！
+[ENDBLOCK]
+장관의 아내
+[ENDBLOCK]
+…고마워.
+모두, 고마워.
+[ENDBLOCK]
+남자아이
+[ENDBLOCK]
+수녀님은 집에 있어.
+[ENDBLOCK]
+남자아이
+[ENDBLOCK]
+와아, 또 와주셨구나！
+[ENDBLOCK]
+남자아이
+[ENDBLOCK]
+<Rutee>언니, 돌아왔어！
+[ENDBLOCK]
+남자아이
+[ENDBLOCK]
+환영합니다！
+[ENDBLOCK]
+남자아이
+[ENDBLOCK]
+<Rutee>언니, 잘 다녀와!
+[ENDBLOCK]
+남자아이
+[ENDBLOCK]
+잘 다녀와!
+[ENDBLOCK]
+남자아이
+[ENDBLOCK]
+<Rutee>언니, 돌아왔구나!
+다시 돌아와 줬구나!
+[ENDBLOCK]
+남자아이
+[ENDBLOCK]
+<Rutee>언니가
+없으니까 외롭다.
+[ENDBLOCK]
+남자아이
+[ENDBLOCK]
+나는, 이제 울지 않을 거야.
+<Rutee>언니, 힘내!
+[ENDBLOCK]
+남자아이
+[ENDBLOCK]
+나는, 이제 울지 않을 거야.
+언니도 힘내고 있잖아.
+[ENDBLOCK]
+여자아이
+[ENDBLOCK]
+언니, 어서 돌아와요!
+[ENDBLOCK]
+여자아이
+[ENDBLOCK]
+이봐, 놀자!
+[ENDBLOCK]
+여자아이
+[ENDBLOCK]
+잘 다녀와, 조심해!
+[ENDBLOCK]
+여자아이
+[ENDBLOCK]
+<Rutee>언니! 
+왜 하늘이 이상해져 있어?
+[ENDBLOCK]
+여자아이
+[ENDBLOCK]
+이봐, 하늘이 이상해!
+[ENDBLOCK]
+여자아이
+[ENDBLOCK]
+우리는 괜찮아.
+걱정하지 않아도 돼!
+[ENDBLOCK]
+여자아이
+[ENDBLOCK]
+도와줘…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと！	あたしの家族に、
-手出すんじゃないわよ！
+…!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-大丈夫だった、みんな？
-[ENDBLOCK]
-うん。<Rutee>姉ちゃん、
-来てくれてありがとう！
-[ENDBLOCK]
-男の子
-[ENDBLOCK]
-でも……でも……
-[ENDBLOCK]
-ぐすっ……怖かったよー……！
-[ENDBLOCK]
-あー、約束やぶりー！
-[ENDBLOCK]
-<Rutee>姉ちゃんが心配するから、
-絶対泣かないって約束したのに。
-[ENDBLOCK]
-ひっく……ひっく……
+잠깐! 내 가족에게,
+손대지 마!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-みんな、本当に悪かったわね。
-怖い思いさせて。
+다들 괜찮았어?
+[ENDBLOCK]
+응. <Rutee>언니,
+와줘서 고마워!
+[ENDBLOCK]
+남자아이
+[ENDBLOCK]
+하지만… 하지만…
+[ENDBLOCK]
+흑흑… 무서웠어…!
+[ENDBLOCK]
+아, 약속을 어겼어!
+[ENDBLOCK]
+<Rutee>언니가 걱정할까 봐,
+절대 울지 않겠다고 약속했는데.
+[ENDBLOCK]
+흑흑… 흑흑…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でももう平気。あたしがいる限り、
-あんたたちには指一本触れさせない。
-[ENDBLOCK]
-<Rutee>姉ちゃん、どうしたの？
+모두, 정말 미안해.
+무서운 생각을 하게 해서.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何が？
+하지만 이제 괜찮아. 내가 있는 한,
+너희에게 손끝 하나도 대지 않게 할 거야.
 [ENDBLOCK]
-なんだか、すごく悲しそうな顔してる。
-[ENDBLOCK]
-ねえ、何があったの？
-誰が姉ちゃんを悲しませたの？
-[ENDBLOCK]
-誰かにいじめられたの？
-痛い事されてない？
-[ENDBLOCK]
-あたしがついてるよ。
-だから元気を出して。
+<Rutee>언니, 무슨 일이야?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ごめん……
-ごめんねみんな……！
+무슨 일이?
 [ENDBLOCK]
-<Rutee>姉ちゃん……？
+왠지, 정말 슬픈 얼굴 하고 있어.
 [ENDBLOCK]
-<Rutee>
+이봐, 무슨 일이 있었던 거야?
+누가 언니를 슬프게 했어?
 [ENDBLOCK]
-<Lion>って人と、<Hugo>って人のせいで、
-世界はこんなになっちゃったの。
+누군가 괴롭혔어?
+아프게 한 건 아니야?
 [ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-でも、そのふたりがいたから、
-お姉ちゃんはここへ来られたのよ……
-[ENDBLOCK]
-じゃああたしたちが助かったのは、
-その人たちのお陰でもあるんだね。
-[ENDBLOCK]
-あー、ずるいぞ。
-おれが今言おうと思ったのに。
-[ENDBLOCK]
-だったらお礼を言わなくちゃ。
-ふたりとも、どうもありがとう。
-[ENDBLOCK]
-ありがとう。
-[ENDBLOCK]
-ありがとう。
+내가 곁에 있어.
+그러니까 힘내.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-うん、そうだね……
-そうだね……
+미안…
+미안해, 모두…!
+[ENDBLOCK]
+<Rutee>언니…？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-今の言葉を聞いて、
-ふたりとも喜んでると思うよ……
+<Lion>라는 사람과, <Hugo>라는 사람 때문에,
+세상은 이렇게 되어버렸어.
 [ENDBLOCK]
-セインガルド兵
+<Rutee>
 [ENDBLOCK]
-伝令です！
+하지만, 그 두 사람이 있었기에,
+언니는 여기 올 수 있었던 거야…
 [ENDBLOCK]
-ダリルシェイドに、
-多数のモンスターが襲来！
+그럼 우리가 구원받은 것은,
+그 사람들 덕분이기도 하네.
 [ENDBLOCK]
-守備隊が交戦中なるも、劣勢との事！
+아, 얍삽하네.
+내가 지금 말하려고 했던 건데.
+[ENDBLOCK]
+그렇다면 감사 인사를 해야겠네.
+두 사람 모두, 고마워.
+[ENDBLOCK]
+고마워.
+[ENDBLOCK]
+고마워.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+응, 맞아…
+맞아…
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+지금의 말을 듣고,
+두 사람 모두 기뻐하고 있을 거야…
+[ENDBLOCK]
+세인가르드 병
+[ENDBLOCK]
+전령입니다!
+[ENDBLOCK]
+다릴쉐이드에,
+다수의 몬스터가 침공 중입니다!
+[ENDBLOCK]
+수비대가 교전 중이나, 열세라고 합니다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Miktran>め……！
+<Miktran> 뭐…!
 [ENDBLOCK]
-お願いします、どうか救援を！
+부탁합니다, 꼭 구조를!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ダリルシェイドに戻ろう。
-あの街を落とされるわけにはいかない。
+다릴쉐이드로 돌아가자.
+그 도시가 함락되어서는 안 돼.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-でも……クレスタを、
-このままにしておくわけには。
+하지만… 클레스타를,
+이대로 방치할 수는 없어.
 [ENDBLOCK]
-ファンダリア国境に展開していた部隊を、
-こちらに向かわせています。
+판달리아 국경에 전개했던 부대를,
+여기로 향하게 하고 있어.
 [ENDBLOCK]
-じきに到着すると思いますが……
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-じゃあその部隊が来るまで、
-あたしが残って持ちこたえるわ。
+곧 도착할 것 같지만…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-みんなは悪いけど、先に行っててくれる？
-[ENDBLOCK]
-大丈夫だよ、<Rutee>姉ちゃん。
-[ENDBLOCK]
-うん。ここはいいから、
-ダリルシェイドに戻って。
+그럼 그 부대가 오기 전까지,
+내가 남아서 버틸게.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-え……？
+미안하지만, 모두 먼저 가줘?
 [ENDBLOCK]
-今の<Rutee>姉ちゃんは、
-あたしたちだけの姉ちゃんじゃないから。
+괜찮아, <Rutee>언니.
 [ENDBLOCK]
-あたしたちを助けてくれたみたいに、
-ダリルシェイドの人たちも助けてあげて。
-[ENDBLOCK]
-それができるのは、
-<Rutee>姉ちゃんだけだもんな。
+응. 여기는 괜찮으니까,
+다릴쉐이드로 돌아가.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたたち……！
+어…？
+[ENDBLOCK]
+지금의 <Rutee>언니는,
+우리만의 언니가 아니야.
+[ENDBLOCK]
+우리를 도와줬던 것처럼,
+다릴쉐이드 사람들도 도와줘.
+[ENDBLOCK]
+그걸 할 수 있는 건,
+<Rutee>언니뿐이니까.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ありがとう。今の言葉で、
-お姉ちゃん、すっごく元気出た。
-[ENDBLOCK]
-<Rutee>姉ちゃん、がんばれー。
-[ENDBLOCK]
-がんばれー。
+너희들…!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたたちって最高！
-あたしに無限の力をくれる、天使ね！
+고마워. 지금의 말로,
+언니는 정말 힘이 났어.
+[ENDBLOCK]
+<Rutee>언니, 힘내!
+[ENDBLOCK]
+힘내!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……というわけだから。
-やっぱりあたしも一緒に行くわ。
+너희들은 최고야! 내가 무한의 힘을 주는, 천사들 같아!
 [ENDBLOCK]
-部隊が到着するまで、
-街は我々が、なんとしても死守します！
+<Rutee>
+[ENDBLOCK]
+…라는わけだから.
+역시 나도 함께 갈게.
+[ENDBLOCK]
+부대가 도착할 때까지,
+도시는 우리가, 반드시 사수할 거야!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-わかりました。よろしくお願いします！
+알겠습니다. 잘 부탁드립니다!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>현재 소지한 갈드:<TAG_033>갈드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+네
+아니오
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><xC0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xC0><x80></color>가
 [ENDBLOCK]
-パーティに加わりました。
+파티에 합류했습니다.
 [ENDBLOCK]
-仲間になりました。
+동료가 되었습니다.
 [ENDBLOCK]
-戦闘に参加できます。
+전투에 참여할 수 있습니다.
 [ENDBLOCK]
-同行します。
+동행합니다.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x58><xB0><x00><x80><x18><x65><x58><xB4><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><xC0><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x58><xB0><x00><x80><x18><x65><x58><xB4><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xE4><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x58><xE0><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x48><xC0><x80></color>가
+[ENDBLOCK]
+파티에서 빠졌습니다.
+[ENDBLOCK]
+<x18><x65><x58><xB0><x00><x80><x18><x65><x58><xB4><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xE4><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xE0><x00><x80></color>를 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x48><xD4><x80>たちは
+<x19><x69><x48><xD4><x80>들은
 [ENDBLOCK]
-<turquoise>交易称号
+<turquoise>거래 칭호
 [ENDBLOCK]
-<x19><x69><x48><xD4><x80>たちは
+<x19><x69><x48><xD4><x80>들은
 [ENDBLOCK]
-<turquoise>温泉称号
+<turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x48><xD4><x80>たちは
+<x19><x69><x48><xD4><x80>들은
 [ENDBLOCK]
-<turquoise>自由称号
+<turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x48><xD4><x80>たちは
+<x19><x69><x48><xD4><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+칭호：<turquoise>내추럴 레인저
 [ENDBLOCK]
-<x19><x69><x48><xD4><x80>たちは
+<x19><x69><x48><xD4><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+칭호：<turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x48><xD4><x80>たちは
+<x19><x69><x48><xD4><x80>들은
 [ENDBLOCK]
-<turquoise>最強の称号
+<turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x48><xD4><x80>たちは
+<x19><x69><x48><xD4><x80>들은
 [ENDBLOCK]
-<turquoise>クイズ称号
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x48><xD4><x80>は
+<x19><x69><x48><xD4><x80>는
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1024,72 +1020,72 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+<x1A><x20><x72><x0C><x98><x80>는
+이미 가지고 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
+이 ID와 비밀번호를 연동 웹사이트에
+입력함으로써, 데스티니의 세계가
+더욱 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>詳しくは下記のURLでご確認ください。
+<TAG_007>자세한 사항은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>です。
+<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>입니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>게임 중의 이벤트나 미니게임을
+클리어하면 연동 ID와 게임 비밀번호가
+발급될 수 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>이 연동 ID와 게임 비밀번호를
+웹사이트에 입력함으로써 데스티니
+의 세계가 더욱 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>웹사이트에 입력할
+연동 ID와 게임 비밀번호를 잊어버린 경우는
+피츠가르드에 있는 여행자의 오두막에서
+확인할 수 있습니다.
 [ENDBLOCK]
-外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+외곽 없음의 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-設定がなされません！（tod=<TAG_059>）
+설정이 이루어지지 않았습니다!(tod=<TAG_059>)
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+장치가 작동하지 않고 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+워프 장치가 작동했습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1097,83 +1093,83 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><xC0><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x48><xC0><x80>의 소디언 장치가
+사용 가능해졌습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>「칭호 설명」
+칭호란 캐릭터에 세팅할 수 있는,
+캐릭터 파라미터 중 하나입니다.
+구체적인 세팅 방법은 다음과 같습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>메인 메뉴를 연 후, 캐릭터의
+상태를 표시합니다.
+그 화면에서 <Square_ani>를 누르면, 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
+페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면,
+획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>칭호의 사용 방법에는 두 가지가 있습니다.
+첫 번째는…
+「칭호를 설정하고, 마을 사람에게 이야기해 보세요」
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
+당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 몇 번
+이야기했을 때, 신기한 행동을 할 때가 있습니다.
+그때는, 가지고 있는 칭호를 다시 설정한 후,
+다시 이야기해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
+머리 위에 「？」가 나타날 수 있습니다.
+그때는, 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 이야기해 보세요.
+무언가 기쁜 일이 일어날지도 모릅니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>사용 방법의 두 번째는…
+「상태 화면을 멋지게 꾸미자」
+모은 칭호 중에서, 만약 마음에 드는 것이 있다면,
+설정하여 상태 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>「돌 차기 놀이는」
+필드에 있는 돌을 차서,
+특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
+1: 마을 밖에 있는 특정 돌을 차면,
+		게임이 시작됩니다.
+2: 전투는, 돌 차기 놀이의 클리어 조건에
+		영향을 미치지 않습니다.
+3: 마을이나 던전을 출입하면,
+		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>Now Loading...
+<TAG_008><S06>로딩 중...
 [ENDBLOCK]
 
 [ENDBLOCK]

@@ -3,403 +3,402 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-強欲な女だなんて……
+욕심 많은 여자라なんて…
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-さきほど、屋敷に居続けている事を、
-オベロン社の人に咎められました。
+방금 전에, 저택에 계속 있는 것에 대해,
+오베론 사의 사람에게 꾸중을 들었어요.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-財産目当ての強欲な女と……
+재산을 노리는 욕심 많은 여자와…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-何て酷い事を言うんだ！
+뭐라고 끔찍한 소리를 하는 거야!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ねえ、<Marian>さん、
-ここを出たら？
+이봐, <Marian> 씨,
+여기를 나가면 어때?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-そんな……！
+그런…!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>！
+<Rutee>!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-だって<Marian>さんが、
-傷つく事ないじゃない！
+왜냐하면 <Marian> 씨가,
+상처 받을 필요 없잖아!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-それは……
+그건…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そんな事望んでなかった……
+그런 걸 원하지 않았어…
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-え？
+어? 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-やっぱり出て行きましょ、
-<Marian>さん。
+역시 나가자, 
+<Marian> 씨.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-……いえ、
-私はここにいます!!
+…아니, 
+나는 여기 있을 거예요!!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あなたそこまで……
+당신이 그 정도까지…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Marian>さん……
+<Marian> 씨…
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-<Rutee>……さん？
+<Rutee>…씨?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ねえ、<Marian>さん……
-それならお願いがあるの。
+이봐, <Marian> 씨…
+그렇다면 부탁이 있어.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-はい……？
+네…?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-今後、あなたの中で
-全てがきちんと思い出になったら……
+앞으로, 당신 안에서
+모든 것이 제대로 추억이 된다면…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-そうしたら必ずここから
-出て行って……
+그렇게 되면 반드시 여기서
+나가줘…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>……
+<Rutee>…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-お願い……いない人間のために
-苦しむのはやめてね。
+부탁이야…없는 사람 때문에
+고통받는 건 그만둬줘.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-<Rutee>さん……
+<Rutee> 씨…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あなたが幸せじゃないと、
-あいつきっと悔しいと思うから。
+당신이 행복하지 않으면,
+그 사람은 분명 후회할 거니까.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-……ありがとう、<Rutee>さん。
+…고마워요, <Rutee>님.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-お帰りなさいませ、<Lion>様。
+환영합니다, <Lion>님.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-いらっしゃいませ。
-旦那様にご面会でしょうか？
+어서 오세요.
+남편님과 면회하시려는 건가요？
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-あら、エミリオ？
-お仕事はもう終わったの？
+어머, 에밀리오？
+일은 다 끝났나요？
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-エミリオ、あまり無理をしては
-だめよ。
-[ENDBLOCK]
-<Marian>
-[ENDBLOCK]
-いらっしゃいませ。
-旦那様にご面会でしょうか？
-[ENDBLOCK]
-<Marian>
-[ENDBLOCK]
-エミリオ、頑張りなさい。
-弱音は吐いても諦めないでね。
-[ENDBLOCK]
-<Marian>
-[ENDBLOCK]
-いらっしゃいませ。
-旦那様にご面会でしょうか？
-[ENDBLOCK]
-<Marian>
-[ENDBLOCK]
-いってらっしゃい、エミリオ。
+에밀리오, 너무 무리하지 마세요.
 
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-あら、エミリオ？
-お仕事はもう終わったの？
+어서 오세요.
+남편님과 면회하시려는 건가요？
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-いってらっしゃいませ<Lion>様。
+에밀리오, 힘내세요.
+약한 소리 하지 말고 포기하지 마세요.
+[ENDBLOCK]
+<Marian>
+[ENDBLOCK]
+어서 오세요.
+남편님과 면회하시려는 건가요？
+[ENDBLOCK]
+<Marian>
+[ENDBLOCK]
+다녀오세요, 에밀리오.
 
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-お帰りなさいませ、<Lion>様。
+어머, 에밀리오？
+일은 다 끝났나요？
+[ENDBLOCK]
+<Marian>
+[ENDBLOCK]
+다녀오세요, <Lion>님.
 
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-いらっしゃいませ。
-旦那様にご面会でしょうか？
+환영합니다, <Lion>님.
+
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-エミリオ、あまり無理をしては
-だめよ。
+어서 오세요.
+남편님과 면회하시려는 건가요？
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-いらっしゃいませ。
-旦那様にご面会でしょうか？
+에밀리오, 너무 무리하지 마세요.
+
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-皆さん、その節はお世話になりました。
+어서 오세요.
+남편님과 면회하시려는 건가요？
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-<Lion>様がお戻りになられるまで、
-お屋敷の事は私が取り仕切ります。
+여러분, 그동안 신세 많이 졌습니다.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-いらっしゃいませ、<Stahn>さん。
+<Lion>님이 돌아오실 때까지,
+저가 저택의 일을 맡겠습니다.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-いらっしゃいませ。
+어서 오세요, <Stahn>님.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-今日はおふたりなんですか？
+어서 오세요.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-いらっしゃいませ、皆さん。
+오늘은 두 분이신가요？
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-皆さん、どうか……
+어서 오세요, 여러분.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-……どうか、よろしくお願いいたします。
+여러분, 제발…
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-お料理いかがですか？
+…부디 잘 부탁드립니다.
+[ENDBLOCK]
+<Marian>
+[ENDBLOCK]
+요리는 어떤가요？
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-とてもおいしいよ。
+아주 맛있어요.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-そうですか。それは
-今日のコックも喜びます。
+그렇군요. 오늘의 요리사도 기뻐하겠네요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-今日のコック？	いつもの
-料理長じゃないのかい？
+오늘의 요리사? 평소의
+주방장이 아니잖아?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-ええ。料理長が体調を崩されたので、
-今日の料理、私が作ったのよ。
+응. 주방장이 몸이 안 좋아서,
+오늘 요리는 내가 만들었어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-すごいじゃないか、<Marian>。
-料理長に引けを取らないよ。
+대단하네, <Marian>.
+주방장에게 뒤지지 않아.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-まあ、そんな事言ってくれるのは
-エミリオだけよ。
+글쎄, 그렇게 말해주는 건
+에미리오뿐이야.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-そんな事ない。事実だよ。
+그런 말 아니야. 사실이야.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-ありがとう。では明日の買出しも
-しっかりやらなくてはね。
+고마워. 그럼 내일 장보기도
+잘 해야겠네.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-買出し？
+장보기?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-料理長がお休みの間、
-私が買出しとお料理をさせて頂くの。
+주방장이 쉬는 동안,
+내가 장보고 요리할 거야.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-買出しか……僕も付き合おうか？
+장보기라… 나도 같이 갈까?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-いえ、いいですよ。
-街を一回りするだけですから。
+아니, 괜찮아.
+그냥 도시를 한 바퀴 도는 거니까.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-いや……そういう事なら、
-なおさら付き合うよ。
+아니… 그런 거라면,
+더욱더 같이 갈게.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Marian>がしっかり仕事をしているか、
-僕は見なきゃならないからね。
+<Marian>이 제대로 일을 하고 있는지,
+나는 지켜봐야 하니까.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-まあ。それでは
-お断りできないわね。
+음, 그럼
+거절할 수 없겠네.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ああ、よかった。
-どこに行ったかと思ったよ。
+아, 다행이다.
+어디 간 줄 알았어.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-…………
+…
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-このような立派なお屋敷で、
-あなたのような立派な人をお世話して……
+이런 훌륭한 저택에서,
+당신 같은 훌륭한 사람을 모시게 되다니…
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-え……
+어…
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-私、本当に幸せでした。
-ありがとうエミリオ……
+나는 정말 행복했어.
+고마워 에미리오…
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何を言いだすんだ、<Marian>。
+무슨 소리를 하는 거야, <Marian>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-どこへ行くんだ。
+어디 가는 거야.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-さようなら。
+안녕.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-待ってくれ<Marian>！
-くっ、体が動かない。
+기다려줘 <Marian>! 
+으, 몸이 움직이지 않아.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-待ってくれ！
+기다려줘!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+네
+아니오
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>이
 [ENDBLOCK]
-パーティに加わりました。
+파티에 참여했습니다.
 [ENDBLOCK]
-仲間になりました。
+동료가 되었습니다.
 [ENDBLOCK]
-戦闘に参加できます。
+전투에 참여할 수 있습니다.
 [ENDBLOCK]
-同行します。
+함께 가겠습니다.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x58><xA8><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color>이
+[ENDBLOCK]
+파티에서 빠졌습니다.
+[ENDBLOCK]
+<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA8><x00><x80></color>를 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-<turquoise>交易称号
+<turquoise>거래 칭호
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-<turquoise>温泉称号
+<turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-<turquoise>自由称号
+<turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+칭호：<turquoise>내추럴 레인저
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+칭호：<turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-<turquoise>最強の称号
+<turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>たちは
+<x19><x69><x48><x9C><x80>들은
 [ENDBLOCK]
-<turquoise>クイズ称号
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80>は
+<x19><x69><x48><x9C><x80>는
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -411,72 +410,72 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+<x1A><x20><x72><x0C><x98><x80>는
+이미 가지고 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에
+입력하면, 데스티니의 세계가
+더욱 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>詳しくは下記のURLでご確認ください。
+<TAG_007>자세한 내용은 아래 URL에서 확인하세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>です。
+<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>입니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>게임 중의 이벤트나 미니게임을
+클리어하면 연동 ID와 게임 패스워드가
+발행될 수 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>이 연동 ID와 게임 패스워드를
+웹사이트에 입력하면 데스티니
+의 세계가 더 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>웹사이트에 입력하는
+연동 ID와 게임 패스워드를 잊어버린 경우는
+피츠가르드에 있는 여행자의 오두막에서
+확인할 수 있습니다.
 [ENDBLOCK]
-外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-設定がなされません！（tod=<TAG_059>）
+설정이 이루어지지 않았습니다！（tod=<TAG_059>）
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+장치는 작동하지 않습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+워프 장치가 작동하였습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -484,76 +483,76 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><x88><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x48><x88><x80>의 소디언 장치가
+사용 가능해졌습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>「칭호의 설명」
+칭호란 캐릭터에 세팅할 수 있는, 
+캐릭터 파라미터 중 하나입니다.
+구체적인 세팅 방법은 다음과 같습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>메인 메뉴를 연 후, 캐릭터의
+스탯을 표시합니다.
+그 화면에서<Square_ani>를 누르면, 캐릭터의
+스탯 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>스탯의 가장 위에, 「칭호」라고 적힌
+페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
+얻은 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>칭호의 용도는 두 가지가 있습니다.
+첫 번째는…
+「칭호를 세팅하고, 마을 사람에게 이야기하자」
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>마을 사람 중에는, 칭호를 세팅하고 이야기하면,
+당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 몇 번
+이야기했을 때, 신기한 행동을 할 때가 있습니다.
+그때는, 가지고 있는 칭호를 재세팅한 후,
+다시 한 번 이야기해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
+머리 위에 「？」가 나올 수 있습니다.
+그때는, 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 세팅하고, 다시 이야기해 보세요.
+뭔가 기쁜 일이 일어날지도 모릅니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>두 번째 용도는…
+「스탯 화면을 멋지게 만들자」
+모은 칭호 중에서 마음에 드는 것이 있다면,
+세팅하여 스탯 화면을 멋지게 연출해 봅시다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>「돌차기 놀이」란,
+필드에 있는 돌을 차서,
+특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
+1: 마을 외부에 있는 특정 돌을 차면,
+		게임이 시작됩니다.
+2: 전투는, 돌차기 놀이의 클리어 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 출입하면,
+		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

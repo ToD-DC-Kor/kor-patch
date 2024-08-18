@@ -11,139 +11,139 @@
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-扉は閉ざされている。
+문이 닫혀 있습니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-私はここで、マートン大司教様や、
-その他の方々のご冥福を祈ります。
+저는 여기서 마르톤 대주교님과,
+다른 분들의 명복을 기원합니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-お久しぶりです。
-お元気のようですね。
+오랜만입니다.
+잘 지내신 것 같네요.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-<Philia>でしたら、
-神殿の外にいると思いますよ。
+<Philia>라면,
+신전 밖에 있을 것 같아요.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-あなたのご活躍の噂、
-ここまで届いていますよ。
+당신의 활약 소문이,
+여기까지 전해졌습니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-<Philia>も信者からあなたのことを
-聞かれると、嬉しそうに話しておりました。
+<Philia>도 신자들에게 당신에 대해
+얘기할 때, 기뻐하던 모습이었습니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-私はここで、マートン大司教様や、
-その他の方々のご冥福を祈ります。
+저는 여기서 마르톤 대주교님과,
+다른 분들의 명복을 기원합니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-<Philia>、<King>陛下のお役目、
-大変でしょうが頼みましたよ。
+<Philia>님, <King>폐하의 임무,
+힘들겠지만 부탁드립니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-皆様、お役目ご苦労さまです。
+여러분, 임무 수고하셨습니다.
 
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-今回の騒ぎの原因となっているのも、
-神の眼なのですね……
+이번 소동의 원인이 되는 것도,
+신의 눈이군요…
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-人の身で神にも等しい力を持つのは、
-ごう慢としかいいようがないですね。
+사람의 몸으로 신에 버금가는 힘을 가진 것은,
+오만하다고밖에 말할 수 없네요.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-神の眼は人の手に委ねては、
-いけない物なのでしょうね。
+신의 눈은 사람의 손에 맡겨서는,
+안 되는 물건인 것 같네요.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-できれば神の御許に、
-返すべきなのでしょうが……
+가능하다면 신의 곁에,
+돌려줘야 할 것 같습니다만…
 [ENDBLOCK]
 event_happen -> <TAG_031>, talk <x17><x69><x48><x8C><x80>, cond<TAG_032>
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+예
+아니오
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><xA0><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><xA0><x80></color>가
 [ENDBLOCK]
-パーティに加わりました。
+파티에 합류했습니다.
 [ENDBLOCK]
-仲間になりました。
+동료가 되었습니다.
 [ENDBLOCK]
-戦闘に参加できます。
+전투에 참가할 수 있습니다.
 [ENDBLOCK]
-同行します。
+동행합니다.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x58><x90><x00><x80><x18><x65><x58><x94><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><xA0><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x58><x90><x00><x80><x18><x65><x58><x94><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xC4><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x58><xC0><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x48><xA0><x80></color>가
+[ENDBLOCK]
+파티에서 빠졌습니다.
+[ENDBLOCK]
+<x18><x65><x58><x90><x00><x80><x18><x65><x58><x94><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xC4><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xC0><x00><x80></color>를 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x48><xB4><x80>たちは
+<x19><x69><x48><xB4><x80>들은
 [ENDBLOCK]
-<turquoise>交易称号
+<turquoise>거래 칭호
 [ENDBLOCK]
-<x19><x69><x48><xB4><x80>たちは
+<x19><x69><x48><xB4><x80>들은
 [ENDBLOCK]
-<turquoise>温泉称号
+<turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x48><xB4><x80>たちは
+<x19><x69><x48><xB4><x80>들은
 [ENDBLOCK]
-<turquoise>自由称号
+<turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x48><xB4><x80>たちは
+<x19><x69><x48><xB4><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+칭호：<turquoise>내츄레인저
 [ENDBLOCK]
-<x19><x69><x48><xB4><x80>たちは
+<x19><x69><x48><xB4><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+칭호：<turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x48><xB4><x80>たちは
+<x19><x69><x48><xB4><x80>들은
 [ENDBLOCK]
-<turquoise>最強の称号
+<turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x48><xB4><x80>たちは
+<x19><x69><x48><xB4><x80>들은
 [ENDBLOCK]
-<turquoise>クイズ称号
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x48><xB4><x80>は
+<x19><x69><x48><xB4><x80>는
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -155,72 +155,72 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+<x1A><x20><x72><x0C><x98><x80>는
+이미 가지고 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>연동 ID와 게임 패스워드를 발급합니다.
+이 ID와 패스워드를 연동 웹사이트에
+입력하면, 데스티니의 세계가
+더욱 확장됩니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>詳しくは下記のURLでご確認ください。
+<TAG_007>자세한 내용은 아래의 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>です。
+<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>입니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>게임 중의 이벤트나 미니게임을
+클리어하면 연동 ID와 게임 패스워드가
+발급될 수 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>이 연동 ID와 게임 패스워드를
+웹사이트에 입력하면 데스티니
+의 세계가 더욱 확장됩니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>웹사이트에 입력할
+연동 ID와 게임 패스워드를 잊어버린 경우는
+피츠가르드에 있는 여행자의 오두막에서
+확인할 수 있습니다.
 [ENDBLOCK]
-外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-設定がなされません！（tod=<TAG_059>）
+설정이 이루어지지 않았습니다！（tod=<TAG_059>）
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+장치는 작동하지 않고 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+워프 장치가 작동했습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -228,76 +228,76 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><xA0><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x48><xA0><x80>의 소디언 장치가
+사용 가능해졌습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>「칭호의 설명」
+칭호란 캐릭터에 세팅할 수 있는,
+캐릭터 파라미터의 하나입니다.
+구체적인 세팅 방법은 다음과 같습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>메인 메뉴를 연 후, 캐릭터의
+상태를 표시합니다.
+그 화면의 상태에서<Square_ani>를 누르면, 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
+페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
+획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는…
+「칭호를 설정하고, 마을 사람에게 이야기해 보세요」
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
+당신에게 흥미를 갖는 사람이 있습니다. 마을 사람에게 몇 번
+이야기했을 때, 신비로운 행동을 할 때가 있습니다.
+그때는, 가지고 있는 칭호를 다시 설정한 후,
+한번 더 이야기해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
+머리 위에 「？」가 나타날 수 있습니다.
+그때는, 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 이야기해 보세요.
+어떤 기쁜 일이 일어날 수도 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>두 번째 사용법은…
+「스탯 화면을 멋지게 꾸미자」
+모은 칭호 중에서 마음에 드는 것이 있다면,
+설정하여 스탯 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>「돌차기 놀이」란,
+필드에 있는 돌을 차서,
+특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+1: 마을 밖에 있는 특정 돌을 차면,
+		게임이 시작됩니다.
+2: 전투는, 돌차기 놀이의 클리어 조건에
+		영향을 미치지 않습니다.
+3: 마을이나 던전을 드나들면,
+		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
@@ -312,479 +312,477 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Ayles>司教様。
-ただ今、戻りました。
+<Ayles>주교님.
+지금 막 돌아왔습니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-よく戻りました。
-王の使命は果たせそうですか？
+잘 돌아왔습니다.
+왕의 임무는 잘 수행할 수 있을까요?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-はい、現在も王の任にあります。
+네, 현재도 왕의 임무를 맡고 있습니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-そうですか。
-頑張ってください。
+그렇습니까.
+힘내세요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-お久しぶりです。
-<Ayles>さん。
+오랜만입니다.
+<Ayles>님.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-おお、<Stahn>様でしたね。
-いつぞやは、大変お世話になりました。
+아, <Stahn>님이셨군요.
+예전에는 정말로 신세를 많이 졌습니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-あなたも……おや、
-どちら様でしたかな？
+당신도… 어라,
+어느 분이신가요?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-あなたが、<Philia>さんの
-上司にあたる方ですね。
+당신이, <Philia>님의
+상사에 해당하는 분이네요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-この度は、俺様と<Philia>さんの
-仲人を……
+이번에는, 나와 <Philia>님의
+중매를…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-な、何を言うんですか!?
-<Kongman>さん!!
+무, 무슨 소리예요!? 
+<Kongman>님!!
 [ENDBLOCK]
-神官
+신관
 [ENDBLOCK]
-<Philia>司祭。お帰りになったばかりで
-申し訳ありません。
+<Philia> 사제님. 방금 돌아오신 것 같은데
+죄송합니다.
 [ENDBLOCK]
-神官
+신관
 [ENDBLOCK]
-少々見て頂きたいものが
-あるのですが、よろしいでしょうか？
+조금 봐주셨으면 하는 것이
+있는데, 괜찮으신가요?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-はい、構いませんよ。
+네, 괜찮습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺たちはここで待ってるよ。
+우리는 여기서 기다리고 있을게요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-はい。すぐに終わると思いますから。
+네. 금방 끝날 것 같아요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-で、先程の続きになりますが、
-<Philia>さんとの……
+그래서, 아까의 이야기를 이어서,
+<Philia>님과의…
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-率直に申し上げると、
-<Philia>は結婚できませんよ。
+솔직히 말씀드리면,
+<Philia>는 결혼할 수 없습니다.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-……ぬ？
+…뭐라고?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうなんですか？
+그래요?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-どうしてだ、こらぁ!?
+왜 그거야, 이 자식아!? 
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-そう、暴れないでください。なぜなら、
-<Philia>はすでに結婚をしています。
+그래, 난폭하게 굴지 마세요. 왜냐하면,
+<Philia>는 이미 결혼했으니까요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-すでに……けっ……こん？
+이미…결…혼?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-うそだぁぁぁぁ。
+거짓말이야아아아아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あっ！	<Kongman>がショックで、
-燃え尽きた！
+아! <Kongman>이 충격으로,
+타버렸어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ところで、<Philia>の旦那さんって、
-誰なんですか？
+그런데, <Philia>의 남편은,
+누구인가요?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-神です。
+신입니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-神？
+신?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-そうです。
+맞습니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-お待たせしました。
-それでは……
+기다리게 해서 죄송합니다.
+그럼…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あの、<Kongman>さんは
-どうされ……？
+그런데, <Kongman>님은
+어떻게…?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-いえ、我々の事をお教えした
-だけですよ。
+아니요, 우리는 당신에게
+이야기해 주었을 뿐이에요.
 [ENDBLOCK]
-神官
+신관
 [ENDBLOCK]
-お取り込み中失礼します。
+방해해서 죄송합니다.
 [ENDBLOCK]
-神官
+신관
 [ENDBLOCK]
-妻が迎えにきているもので、
-私はこれで……
+아내가 나를 마중 나오고 있으니,
+나는 이만…
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-つぅ～ま～だとぉ!?
+아직도냐!? 
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-早く逃げるのです！
-決して、振り返らずに!!
+빨리 도망가세요! 절대,
+뒤돌아보지 마세요!!
 [ENDBLOCK]
-神官
+신관
 [ENDBLOCK]
-は、はい～!!
+예, 예~!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-てめぇ、俺様が
-悪魔だとでも言うのかよっ！
+이 자식, 내가
+악마라고 생각하나!? 
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-それにしても、今のは
-一体どういうこった！
+그나저나, 지금 상황은
+도대체 뭐란 말이야! 
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-先程申し上げた習慣が
-あった事は、事実です。
+아까 말씀드린 관습이
+있었던 것은 사실입니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-しかし、最近では
-その習慣も絶対ではありません。
+하지만, 최근에는
+그 관습도 절대적인 것은 아닙니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-私の立場上、積極的に
-部下には勧めませんがね。
+내 입장상, 부하들에게는
+적극적으로 권장하지 않지만요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-うぉぉ、神よ！
-俺様は必ず勝ち取るぞぉ！
+우와, 신이여!
+나는 반드시 이겨내겠다! 
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あの、先程から
-話が見えないのですが……
+그, 방금부터
+이야기가 이해가 안 되는데요…
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-いえいえ、悪魔が神に
-挑もうとしているだけですよ。
+아니요, 악마가 신에게
+도전하려고 하는 것뿐입니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-一体、誰に頼めば……それほどの
-覚悟のあるものがいるだろうか……
+도대체, 누구에게 부탁해야…그 정도의
+각오가 있는 사람이 있을까요…
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-おお、<Philia>。
-お願いがあるのですが……
+오, <Philia>.
+부탁이 있는데요…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-なんでしょう？
+무슨 부탁인가요?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-実は、王にお願いして、神の眼を再び
-この神殿に奉納できるよう、取り計らって
-頂きたいのです。
+사실, 왕에게 부탁해서, 신의 눈을 다시
+이 신전에 봉납할 수 있도록
+조정해 주셨으면 합니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あ、あのそれは……
+아, 그거는…
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-王も<Philia>の言う事であれば、
-真剣に取りあってくれるはずです。
+왕도 <Philia>의 말이라면,
+진지하게 받아들여 줄 것입니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-実はその事で、お伝えしなければ
-ならない事があります。
+사실 그 일로, 전해 드려야 할
+말씀이 있습니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-大変申し上げにくいのですが……
-神の眼が再び盗まれました……
+대단히 말씀드리기 어려운데…
+신의 눈이 다시 도난당했습니다…
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-そんな……！
-ああ、何という事でしょう。
+그런…! 아, 무슨 일이란 말입니까.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-でも、なぜあのような危険なものを
-この神殿に戻す必要があるのですか？
+그런데, 왜 그렇게 위험한 것을
+이 신전으로 되돌릴 필요가 있나요?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-もう必要のないものでは……？
+더 이상 필요 없는 것 아닌가요…?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-<Philia>……
-よく聞いてください。
+<Philia>…
+잘 들어주세요.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-この神殿は、神の眼を覆い隠す
-ようにして作られた神殿なのです。
+이 신전은, 신의 눈을 가리기 위해
+만들어진 신전입니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-それではまさか……!!
+그렇다면 설마…!!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-いえ、これに関しては、
-一説に過ぎません。
+아니요, 이와 관련해서는,
+하나의 설에 불과합니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-しかし、このような話が残っているほど、
-神の眼は我々には重要なものなのです。
+하지만, 이런 이야기가 남아 있을 만큼,
+신의 눈은 우리에게 중요한 것입니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-それほどとは……
+그렇게 중요하다니…
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-もしそれが本当で我々の真理が
-神の眼にあるとしたら……
+만약 그게 사실이고 우리의 진리가
+신의 눈에 있다면…
 
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ありえません！
-そんな事は絶対にありません！
+있을 수 없습니다!
+그런 일은 절대 없습니다!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-<Philia>……
+<Philia>…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-女神アタモニが仮に……
-たとえそうだとしても！
+여신 아타모니가 가령…
+설령 그렇다 하더라도!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-大切なのは、ひとりひとりの心に
-神がおわす事です。
+중요한 것은, 한 사람 한 사람의 마음에
+신이 존재하는 것입니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-……その通りかもしれませんね。
+…그 말이 맞을지도 모르겠네요.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-我々は、人々が幸せになれる事を
-第一に望むべきなのです。
+우리는 사람들이 행복해질 수 있기를
+최우선으로 바래야 합니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-では、<Philia>・フィリスよ。
+그렇다면, <Philia>・필리스여.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-あなたは人々の幸せを祈り、
-その為に尽力なさい。
+너는 사람들의 행복을 기원하고,
+그를 위해 힘쓰도록 해.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-はい！
+네! 
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-先日、この神殿を訪れたのは
-あなた方ですね？
+최근에 이 신전을 방문한 것은
+너희들 맞지?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-「妙な事に剣と話をする」という
-話を聞いて、すぐに分かりました。
+「이상하게도 검과 대화한다」는
+이야기를 듣고 바로 알았습니다.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-先日、この神殿を訪れたのは
-あなた方ですね？
+최근에 이 신전을 방문한 것은
+너희들 맞지?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-剣と話をするという事で
-すぐに気づきました。
+검과 대화한다는 말에
+바로 눈치챘습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺たち、特にここに来る
-用事はありませんでしたよ？
+우리는, 특히 여기 올
+일이 없었습니다만?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-え、しかし……神官たちは
-集めたレンズをその方々に
-お渡ししたと……
+어, 하지만… 신관들이
+모은 렌즈를 너희에게
+전해주었다고…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あたしたちのふりをしたやつに
-レンズを騙し取られたのよ。
+우리의 흉내를 낸 자에게
+렌즈를 속아 빼앗겼어.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-ああ、なんて事でしょう。
+아, 어쩌면 좋습니까.
 [ENDBLOCK]
-神官
+신관
 [ENDBLOCK]
-<Ayles>様！	先日の剣士たちが
-レンズをよこせと！
+<Ayles>님!  지난번 검객들이
+렌즈를 달라고 합니다!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-やっぱりね。
-いいカモだと思われたんだわ。
+역시나. 좋은 먹잇감으로
+여겨졌던 모양이네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>、俺たちが
-止めさせよう！
+<Rutee>야, 우리가
+막아야 해!
 [ENDBLOCK]
-ならず者
+악당
 [ENDBLOCK]
-おうおう、世界を守る剣士様たちに
-レンズが出せねえってのか？
+어이 어이, 세계를 지키는 검객님들에게
+렌즈를 줄 수 없다는 건가?
 [ENDBLOCK]
-ならず者
+악당
 [ENDBLOCK]
-まったくどうするよ、
-俺のソーディアン。
+도대체 어떻게 할 거야,
+내 소디언.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんだがっかり。漆黒の連中かと
-思ってたのに。
+뭐야 실망이야. 흑의 자들인 줄 알았는데.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-あなたたちに渡すレンズなど
-ありません。帰りなさい！
+너희에게 줄 렌즈는
+없다. 돌아가!
 [ENDBLOCK]
-ならず者
+악당
 [ENDBLOCK]
-俺たちはソーディアンマスターだぞ！
-逆らうってのか！
+우리는 소디언 마스터다! 
+거역할 건가!
 [ENDBLOCK]
-ならず者
+악당
 [ENDBLOCK]
-懲らしめてやろうか、
-この俺のソーディアンで！
+내 소디언으로
+처벌해 주겠어!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あら、そう？
-<Stahn>さっさとやるわよ。
+그래, 그렇구나?
+<Stahn> 빨리 해버려.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ああ！
+알겠어!
 [ENDBLOCK]
-ならず者
+악당
 [ENDBLOCK]
-ど、どうなってもいいのか？
-俺は……
+어, 어떻게 되든 상관없는 거냐?
+나는…
 [ENDBLOCK]
-ならず者
+악당
 [ENDBLOCK]
-お、おまえら何者だ？
+너희는 대체 누구냐?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-俺はソーディアン<Dymlos>の
-マスター、<Stahn>だ。
+나는 소디언<Dymlos>의
+마스터, <Stahn>이다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-同じく<Atwight>の
-マスター、<Rutee>よ。
+나 역시 <Atwight>의
+마스터, <Rutee>야.
 [ENDBLOCK]
-ならず者
+불량배
 [ENDBLOCK]
-ほ、本物!?
+하, 진짜!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-さあ、前に持っていった
-レンズを返しなさいよ！
+자, 앞서 가져간
+렌즈를 돌려줘!
 [ENDBLOCK]
-ならず者
+불량배
 [ENDBLOCK]
-す、すまねえ。
-もう使っちまったんだ。
+죄, 죄송합니다.
+벌써 사용해버렸습니다.
 [ENDBLOCK]
-ならず者
+불량배
 [ENDBLOCK]
-これで勘弁してくれ。
+이걸로 용서해줘.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-相手を傷つける事なく、
-全てを決着させるとはな。
+상대를 다치게 하지 않고,
+모든 것을 결착짓다니.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-本当に成長したわね。
+정말 성장했구나.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-当たり前だよ、
-俺は<Dymlos>のパートナーだからな。
+당연하지,
+나는 <Dymlos>의 파트너니까.
 [ENDBLOCK]

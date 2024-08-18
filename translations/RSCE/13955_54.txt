@@ -7,462 +7,461 @@ reset_camera_homing!!!   <x17><x75><x48><x54><x75><x48><x58><x8C><x80>
 init_camera_homing!!!
 
 [ENDBLOCK]
-市長
+시장
 [ENDBLOCK]
-なんじゃ、おまえさんたち？
+뭐냐, 너희들은?
 [ENDBLOCK]
-エレナ
+엘레나
 [ENDBLOCK]
-あら、あなたたち
-カルバレイス人じゃないわね？
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-はい、わかりますか？
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-それは、すぐに分かるわよ。
-[ENDBLOCK]
-市長
-[ENDBLOCK]
-帰れ！	よそものは
-いますぐ出て行け！
-[ENDBLOCK]
-市長
-[ENDBLOCK]
-今度は、エレナを
-奪うつもりじゃな！
-[ENDBLOCK]
-<Philia>
-[ENDBLOCK]
-え、何を……？
-[ENDBLOCK]
-市長夫人
-[ENDBLOCK]
-気分悪くさせてごめんなさいね。
-でも、今日のところは……
-[ENDBLOCK]
-市長
-[ENDBLOCK]
-おまえが謝ってどうする！
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-おじいちゃんも
-おばあちゃんもやめて！
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-もし、この人たちが
-ここにいちゃいけないなら……！
-[ENDBLOCK]
-市長
-[ENDBLOCK]
-もう、知らん！
-勝手にせい！
-[ENDBLOCK]
-<Philia>
-[ENDBLOCK]
-あの、失礼ですが
-これは一体……？
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-私の血の半分は、
-あなたたちと一緒だからね。
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-母はカルビオラ人で、
-父はセインガルド人なの。
+아, 당신들은
+칼바레이스 사람이 아니네?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そういう事だったんですか。
-それでご両親は？
+네, 알겠습니까?
 [ENDBLOCK]
-エレナ
+엘레나
 [ENDBLOCK]
-母はだいぶ前に病で
-亡くなったわ。父は……
+그건, 금방 알 수 있을 거야.
 [ENDBLOCK]
-エレナ
+시장
 [ENDBLOCK]
-そうだ！	突然だけど、
-あなたたちにお願いがあるの。
+떠나거라! 외부인은
+즉시 나가라!
 [ENDBLOCK]
-エレナ
+시장
 [ENDBLOCK]
-私の父はまだ生きていて、
-多分、セインガルドにいると思うの。
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-もし、会う事があったら
-伝えて欲しいの。
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-娘のエレナがあなたと
-暮らしたがっている、と。
+이번에는, 엘레나를
+빼앗을 작정인가!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-ええ、もちろんかまいませんわ。
+어, 뭐라고…?
 [ENDBLOCK]
-エレナ
+시장 부인
 [ENDBLOCK]
-私もう、嫌なのよ。
-あの祖父と祖母には。
+기분 나쁘게 해서 미안해요.
+하지만, 오늘은…
 [ENDBLOCK]
-エレナ
+시장
 [ENDBLOCK]
-カルバレイス人以外は
-敵だ、としか言わない。
+너가 사과해서 뭐하냐!
 [ENDBLOCK]
-エレナ
+엘레나
 [ENDBLOCK]
-セインガルド人を見れば、
-父と重ねあわせて、罵倒する。
+할아버지랑 할머니 그만해요!
 [ENDBLOCK]
-エレナ
+엘레나
 [ENDBLOCK]
-母が亡くなった事も、父の
-せいに……	父は悪くないのに……
+만약, 이 사람들이
+여기 있어서는 안 된다면…!
 [ENDBLOCK]
-エレナ
+시장
 [ENDBLOCK]
-あのふたりと血の繋がった
-家族というだけで、本当に嫌になる！
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-そこまで言わなくても……
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-ごめんなさい。
-あなたたちに関係ないわよね。
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-もし父と会う事があったら、
-その時はよろしくね。
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-父の名前はナッシュよ。
-[ENDBLOCK]
-市長
-[ENDBLOCK]
-ナッシュ……！
-おまえ……なぜ現れた!!
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-お父さん!!
-[ENDBLOCK]
-ナッシュ
-[ENDBLOCK]
-エレナ……
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-ねえ、私セインガルドの
-お父さんの家で一緒に……
-[ENDBLOCK]
-ナッシュ
-[ENDBLOCK]
-エレナ……それは出来ない。
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-……え？
-[ENDBLOCK]
-ナッシュ
-[ENDBLOCK]
-エレナ。私と一緒では、
-おまえは不幸になる。
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-何それ？	お父さんも、
-お母さんが死んだ理由は自分に
-あると思ってるの……？
-[ENDBLOCK]
-ナッシュ
-[ENDBLOCK]
-事実そうだ。
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-違うじゃない。
-お母さんが死んだのは……
-[ENDBLOCK]
-ナッシュ
-[ENDBLOCK]
-セインガルド人の妻となった
-事で、あいつの周囲の風当たりが
-強くなった……
-[ENDBLOCK]
-ナッシュ
-[ENDBLOCK]
-おまえもセインガルド人の私と
-一緒にいれば、必ず辛い目に
-あう事になる。
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-だから、私もセインガルドへ
-行けば……
-[ENDBLOCK]
-市長
-[ENDBLOCK]
-我々、カルビオラ人が行けば、
-ここよりも辛い結果になるぞ。
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-おじいちゃん……？
-[ENDBLOCK]
-ナッシュ
-[ENDBLOCK]
-すみません、お義父さん。
-お義父さんにばかり、ひどい役を
-押し付けてしまって。
-[ENDBLOCK]
-市長
-[ENDBLOCK]
-気にするな。
-この子のためだ……
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-どういう……事？
-[ENDBLOCK]
-ナッシュ
-[ENDBLOCK]
-おまえが幸せになる為には……
-おまえは、セインガルド人を
-嫌いになる必要があったんだ。
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-だから、今までこんな事を……
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-……それじゃあ、その計画は
-失敗だったね。
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-その為に血の繋がった家族を、
-嫌いになったら、無意味じゃない。
-[ENDBLOCK]
-ナッシュ
-[ENDBLOCK]
-エレナ……
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-それに私は、カルビオラ人も
-セインガルド人も大好き。
-[ENDBLOCK]
-ナッシュ
-[ENDBLOCK]
-……私はおまえを置いて、
-この国を離れられなかった。
-[ENDBLOCK]
-ナッシュ
-[ENDBLOCK]
-どうにか、今はオベロン社で
-働かせてもらっている。
-[ENDBLOCK]
-ナッシュ
-[ENDBLOCK]
-まだ一緒には暮らせないが、
-たまには会いに来てもいいかな。
-[ENDBLOCK]
-市長夫人
-[ENDBLOCK]
-それは、もちろんよ。
-ねえ、あなた。
-[ENDBLOCK]
-市長
-[ENDBLOCK]
-あたり前だ。……義理とは言え
-おまえはわしの息子だからな。
-[ENDBLOCK]
-ナッシュ
-[ENDBLOCK]
-……ありがとう……ございます。
-[ENDBLOCK]
-エレナ
-[ENDBLOCK]
-私の方からも遊びに行くよ。
-おじいちゃんとおばあちゃんと一緒に。
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-俺たちは外に出てようか。
+이제, 상관없다!
+마음대로 해라!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-そうですわね。
+저기, 실례지만
+이건 도대체…?
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+내 혈액의 절반은,
+당신들과 함께하니까.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+어머니는 칼비올라 사람이었고,
+아버지는 세인가르드 사람이야.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+그런 일이었군요.
+그럼 부모님은 어떻게 되셨나요?
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+어머니는 꽤 전에 병으로
+돌아가셨어. 아버지는…
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+맞아! 갑자기 말인데,
+당신들에게 부탁이 있어.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+내 아버지는 아직 살아계시고,
+아마도 세인가르드에 계실 거야.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+만약, 만날 일이 있다면
+전해줬으면 좋겠어.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+딸 엘레나가 당신과
+함께 살고 싶어 한다고.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+네, 물론 괜찮아요.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+나도, 이제 싫어.
+저 할아버지와 할머니가.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+칼바레이스 사람 이외에는
+적이라고밖에 말하지 않아.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+세인가르드 사람을 보면,
+아버지와 겹쳐서, 욕을 해.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+어머니가 돌아가신 것도, 아버지의
+탓으로… 아버지는 나쁜 사람이 아닌데…
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+그 두 사람과 혈연관계인
+가족이라는 것만으로도, 정말 싫어져!
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+그까짓 것까지 말하지 않아도…
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+미안해.
+너희에게는 관계없는 일이겠지.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+만약 아버지를 만날 일이 있다면,
+그때는 잘 부탁해.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+아버지의 이름은 낫슈야.
+[ENDBLOCK]
+시장
+[ENDBLOCK]
+낫슈…!
+너…왜 나타났어!!
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+아빠!!
+[ENDBLOCK]
+낫슈
+[ENDBLOCK]
+엘레나…
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+저기, 나는 세인가르드의
+아버지 집에서 함께…
+[ENDBLOCK]
+낫슈
+[ENDBLOCK]
+엘레나…그건 할 수 없어.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+…어? 
+[ENDBLOCK]
+낫슈
+[ENDBLOCK]
+엘레나. 나와 함께하면,
+너는 불행해질 거야.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+그게 뭐야? 아버지도,
+어머니가 죽은 이유는 자신에게
+있다고 생각하고 있어…?
+[ENDBLOCK]
+낫슈
+[ENDBLOCK]
+사실 그렇다.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+다르잖아.
+어머니가 죽은 것은…
+[ENDBLOCK]
+낫슈
+[ENDBLOCK]
+세인가르드의 아내가 된
+때문에, 그 주위의 바람이
+강해졌어…
+[ENDBLOCK]
+낫슈
+[ENDBLOCK]
+너도 세인가르드 사람인 나와
+함께 있으면, 반드시 힘든 일을
+겪게 될 거야.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+그러니까, 나도 세인가르드에
+가면…
+[ENDBLOCK]
+시장
+[ENDBLOCK]
+우리가, 칼비올라 사람들이 가면,
+여기보다도 힘든 결과가 될 거야.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+할아버지…?
+[ENDBLOCK]
+낫슈
+[ENDBLOCK]
+죄송합니다, 장인어른.
+장인어른에게만, 끔찍한 역할을
+떠넘겨버려서.
+[ENDBLOCK]
+시장
+[ENDBLOCK]
+신경 쓰지 마.
+이 아이를 위해서…
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+어떻게… 된 거야？
+[ENDBLOCK]
+나쉬
+[ENDBLOCK]
+네가 행복해지기 위해서는…
+너는, 세인가르드인을
+싫어해야 했단다.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+그래서 지금까지 이런 일을…
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+…그럼, 그 계획은
+실패였네.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+그 때문에 혈연으로 이어진 가족을,
+싫어하게 된다면, 의미가 없잖아.
+[ENDBLOCK]
+나쉬
+[ENDBLOCK]
+엘레나…
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+그리고 나는, 칼비오라인도
+세인가르드인도 정말 좋아해.
+[ENDBLOCK]
+나쉬
+[ENDBLOCK]
+…나는 너를 두고, 
+이 나라를 떠날 수 없었어.
+[ENDBLOCK]
+나쉬
+[ENDBLOCK]
+어떻게든, 지금은 오베론 사에서
+일하게 되어 있어.
+[ENDBLOCK]
+나쉬
+[ENDBLOCK]
+아직 함께 살 수는 없지만,
+가끔은 만나러 와도 좋겠지.
+[ENDBLOCK]
+시장 부인
+[ENDBLOCK]
+그건, 물론이지.
+자, 당신.
+[ENDBLOCK]
+시장
+[ENDBLOCK]
+당연하지.… 의리라 해도
+너는 내 아들이니까.
+[ENDBLOCK]
+나쉬
+[ENDBLOCK]
+…고마워…ございます.
+[ENDBLOCK]
+엘레나
+[ENDBLOCK]
+내 쪽에서도 놀러 갈게.
+할아버지와 할머니와 함께.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+우리 밖으로 나가볼까.
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+그렇군요.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>民族衣装や祭具で溢れている。
+<TAG_005>민속 의상과 제물로 가득 차 있다.
 [ENDBLOCK]
-市長
+시장
 [ENDBLOCK]
-わしはこの街の市長を務めておる。
+나는 이 도시의 시장을 맡고 있다.
 [ENDBLOCK]
-市長
+시장
 [ENDBLOCK]
-街からよそ者を一掃するのが、
-わしの使命じゃ！
+도시에서 외부인을 일소하는 것이,
+나의 사명이다！
 [ENDBLOCK]
-市長
+시장
 [ENDBLOCK]
-こんな夜更けに人の家に進入するとは
-さすがはセインガルド人じゃ！
+이런 깊은 밤에 사람의 집에 침입하다니
+역시 세인가르드인이구나！
 [ENDBLOCK]
-市長
+시장
 [ENDBLOCK]
-用はないじゃろ。
-さっさと出て行け！
+용건은 없을 것이다.
+어서 나가라！
 [ENDBLOCK]
-市長
+시장
 [ENDBLOCK]
-その格好……ぬしらよそ者じゃな！
-わしの屋敷に入ってくるでないわ！
+그 복장… 너희들은 외부인이구나！
+내 저택에 들어오지 마라！
 [ENDBLOCK]
-市長
+시장
 [ENDBLOCK]
-真に優秀な、選ばれし者というのは、
-まさにわしらカルバレイス人の事じゃ！
+진정으로 뛰어난, 선택받은 자는,
+바로 우리 칼바레이스인들이다！
 [ENDBLOCK]
-市長
+시장
 [ENDBLOCK]
-苦節千年、わしらの時代が、
-ついに到来したのじゃ！
+고난의 천 년, 우리의 시대가,
+드디어 도래한 것이다！
 [ENDBLOCK]
-市長
+시장
 [ENDBLOCK]
-わしらは新たな世界の住人に、
-なれないというのか……？
+우리는 새로운 세계의 주민이,
+될 수 없는 것인가…？
 [ENDBLOCK]
-市長
+시장
 [ENDBLOCK]
-念のため断っておくが、
-よそ者を認めたわけではないぞ。
+혹시 모르니 미리 말해두지만,
+타인에게 마음을 열었다고는 생각하지 마라.
 [ENDBLOCK]
-市長
+시장
 [ENDBLOCK]
-レンズはくれてやる。
-用が済んだらさっさと出て行け。
+렌즈는 줄게.
+일이 끝나면 빨리 나가라.
 [ENDBLOCK]
-市長夫人
+시장의 아내
 [ENDBLOCK]
-この国の人間は貧しいですけど、
-皆で助け合ってなんとかやってます。
+이 나라 사람들은 가난하지만,
+모두가 서로 도와가며 어떻게든 살아가고 있어요.
 [ENDBLOCK]
-市長夫人
+시장의 아내
 [ENDBLOCK]
-仲間思いである事が、
-カルバレイス人の美徳なんです。
+동료를 생각하는 것이,
+칼바레이스 사람들의 미덕입니다.
 [ENDBLOCK]
-市長夫人
+시장의 아내
 [ENDBLOCK]
-ささ、早く出て行った方が
-いいわよ。
+어서, 빨리 나간 편이
+좋을 거예요.
 [ENDBLOCK]
-市長夫人
+시장의 아내
 [ENDBLOCK]
-セインガルドに何があったのでしょう。
-ベルクラント……？
+세인가르드에 무슨 일이 있었던 걸까요.
+벨클란트…?
 [ENDBLOCK]
-市長夫人
+시장의 아내
 [ENDBLOCK]
-ジャンクランドが消滅したという噂は、
-本当なんですか？
+잭랜드가 사라졌다는 소문은,
+진짜인가요?
 [ENDBLOCK]
-市長夫人
+시장의 아내
 [ENDBLOCK]
-レンズ集めに一番熱心だったのは、
-実はうちの主人だったんですよ。
+렌즈 모으기에 가장 열심이었던 건,
+사실 우리 남편이었어요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+예
+아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>가
 [ENDBLOCK]
-パーティに加わりました。
+파티에 합류했습니다.
 [ENDBLOCK]
-仲間になりました。
+동료가 되었습니다.
 [ENDBLOCK]
-戦闘に参加できます。
+전투에 참여할 수 있습니다.
 [ENDBLOCK]
-同行します。
+동행합니다.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x58><x74><x00><x80><x18><x65><x58><x78><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x58><x74><x00><x80><x18><x65><x58><x78><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x58><xA4><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>가
+[ENDBLOCK]
+파티에서 빠졌습니다.
+[ENDBLOCK]
+<x18><x65><x58><x74><x00><x80><x18><x65><x58><x78><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA4><x00><x80></color>를 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-<turquoise>交易称号
+<turquoise>거래 칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-<turquoise>温泉称号
+<turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-<turquoise>自由称号
+<turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+칭호：<turquoise>내추럴 레인저
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+칭호：<turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-<turquoise>最強の称号
+<turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>たちは
+<x19><x69><x48><x98><x80>들은
 [ENDBLOCK]
-<turquoise>クイズ称号
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>は
+<x19><x69><x48><x98><x80>는
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -474,72 +473,72 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+<x1A><x20><x72><x0C><x98><x80>는
+이미 가지고 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>연동 ID와 게임 패스워드를 발급합니다.
+이 ID와 패스워드를 연동 웹사이트에
+입력함으로써, 데스티니의 세계가
+더욱 확장됩니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>詳しくは下記のURLでご確認ください。
+<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>です。
+<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>입니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>게임 중의 이벤트나 미니게임을
+클리어하면 연동 ID와 게임 패스워드가
+발급될 수 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>이 연동 ID와 게임 패스워드를
+웹사이트에 입력함으로써 데스티니
+의 세계가 더욱 확장됩니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>웹사이트에 입력할
+연동 ID와 게임 패스워드를 잊어버린 경우는
+피츠갈드에 있는 여행자의 오두막에서
+확인할 수 있습니다.
 [ENDBLOCK]
-外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+껍질 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+1단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+2단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+3단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-設定がなされません！（tod=<TAG_059>）
+설정이 이루어지지 않았습니다！（tod=<TAG_059>）
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+장치는 작동하고 있지 않습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+워프 장치가 작동하였습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -547,76 +546,76 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><x84><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x48><x84><x80>의 소디언 장치가
+사용 가능해졌습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>「칭호의 설명」
+칭호란 캐릭터에 설정할 수 있는,
+캐릭터 파라미터의 하나입니다.
+구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>메인 메뉴를 연 후, 캐릭터의
+상태를 표시합니다.
+그 화면에서<Square_ani>를 누르면, 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
+페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
+얻은 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>칭호의 용도에는 두 가지가 있습니다.
+첫 번째는…
+「칭호를 설정하고, 마을 사람에게 이야기를 걸어보자」
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기 걸면,
+당신에게 관심을 갖는 사람이 있습니다. 마을 사람에게 여러 번
+이야기를 걸었을 때, 신기한 행동을 할 수 있습니다.
+그때는, 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 이야기 걸어 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>힌트：마을 사람에게 이야기 걸었을 때, 플레이어의
+머리 위에 「？」가 나올 수 있습니다.
+그때는, 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 한 번 이야기 걸어 보세요.
+무언가 기쁜 일이 일어날지도 모릅니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>두 번째 용도는…
+「상태 화면을 멋지게 꾸미자」
+모은 칭호 중에서, 마음에 드는 것이 있다면,
+설정하여 상태 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>「돌차기 놀이」란,
+필드에 있는 돌을 차서,
+특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
+1：마을 밖에 있는 특정 돌을 차면,
+		게임이 시작됩니다.
+2：전투는, 돌차기 놀이의 클리어 조건에
+		영향을 미치지 않습니다.
+3：마을이나 던전을 드나들면,
+		돌은 원래 장소로 돌아옵니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
@@ -627,5 +626,5 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>Now Loading...
+<TAG_008><S06>지금 로딩 중...
 [ENDBLOCK]

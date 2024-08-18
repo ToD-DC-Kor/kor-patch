@@ -1,161 +1,161 @@
 <Hugo>
 [ENDBLOCK]
-何の為に？
-無論、天上世界の栄光を、
-再びこの世にもたらすためだ！
+무엇을 위해서인가?
+물론, 천상 세계의 영광을,
+다시 이 세상에 가져오기 위해서다!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-新たなる天地戦争が、
-たった今幕を開けたのだ！
+새로운 천지전쟁이,
+방금 막을 열었다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-あんな所に神の眼が!?
+저런 곳에 신의 눈이!?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-いや、あれは立体映像に過ぎん。
-今の神の眼の状態を表しているのだろう。
+아니다, 저건 입체 영상에 불과하다.
+현재 신의 눈 상태를 나타내고 있는 것일 것이다.
 [ENDBLOCK]
 ？？？？
 [ENDBLOCK]
-ここまでだ、地上軍よ。
+여기까지다, 지상군이여.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Hugo>！
+<Hugo>!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-ここで出てきおったか……
+여기서 나타났구나…
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-まさかベルクラントに乗り込んでくるとはな。
-君たちの悪あがきには感服した。
+설마 벨클란트에 침투해 올 줄은 몰랐네.
+너희들의 헛된 노력에 감복했다.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Hugo>、おまえの野望もここまでだ。
-これ以上、好きにはさせん。
+<Hugo>, 너의 야망도 여기까지다.
+더 이상 마음대로 하게 두지 않겠다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-あなたが頼りにしていた側近も、
-もういません。残るはあなただけです。
+당신이 의지하던 측근도,
+이제는 없다. 남은 건 당신뿐입니다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-覚悟はいい？
+각오가 되었나?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おまえに勝ち目はない。
-天地戦争はこれで終わりだ！
+너에게 승산은 없다.
+천지전쟁은 이걸로 끝이다!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-ふふふ……
+후후후…
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-ははははは！
-勝ち目がないと来たか！
+하하하하하!
+승산이 없다니, 그렇다고?!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-何がおかしいのよ!?
+뭐가 웃긴 거야!?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-君たちの無邪気さがだよ。
-<Lion>から聞かなかったのかね？
+너희들의 순진함이지.
+<Lion>에게 듣지 않았나?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>から……？	何を……？
+<Lion>에게…? 무엇을…?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-私がどれほどの力を持つかだよ。
-まったく聞かなかったのかね？
+내가 얼마나 강한지를 말이다.
+전혀 듣지 않았나?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-あの少年剣士が床にはいつくばり、
-泣いて私に許しをこうたありさまを！
+그 소년 검사가 바닥에 무릎 꿇고,
+내게 용서를 구했던 모습이! 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>を侮辱するな！
-あいつは、そんな事しない！
+<Lion>을 모욕하지 마라!
+그는 그런 짓을 하지 않아!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-ふふふ……せっかく会ったのだ。
-ひとつ、相手をしてやろう。
+후후후… 이렇게 만났으니.
+하나, 상대를 해주겠다.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Lion>の時は歯ごたえがなさすぎて、
-わざわざ出すまでもなかったがな……
+<Lion>의 경우는 너무 쉽게 끝나서,
+굳이 내보낼 필요가 없었지…
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-ソーディアンどもよ。
-この剣に見覚えがあるだろう！
+소디언들아.
+이 검을 기억하고 있겠지!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-あれは……！
+저건…!
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-そんな、まさか……
+설마, 그런…
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-……<Belserius>！
+…<Belserius>！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Belserius>だって……？
+<Belserius>라고…？
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-先の天地戦争の際、失われた……
-六本目のソーディアンよ……
+지난 천지전쟁 동안, 잃어버린…
+여섯 번째 소디언이야…
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-どうしてあそこにあるのじゃ、
-あれが……！
+왜 거기에 있는 거냐,
+저것이…！
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Belserius>は天上軍の残党の手で、
-密かに地上へ運ばれていたのだよ。
+<Belserius>는 천상군의 잔당의 손에,
+몰래 지상으로 운반되었단다.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-カルバレイスで保管されていた物を、
-私が手に入れたというわけだ！
+칼바레이스에서 보관되었던 것을,
+내가 손에 넣은 거지！
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-でも<Belserius>は、
-あの時の戦いで破損したはずよ。
+하지만 <Belserius>는,
+그때의 전투에서 파손되었을 거야.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-壊れているかどうかは、
-手合わせしてみればわかるだろう。
+부서져 있는지 아닌지는,
+붙어 보아야 알 수 있을 거야.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Belserius>、本当におまえなのか？
-聞こえているなら返事をしろ！
+<Belserius>, 정말 너냐？
+듣고 있다면 대답해라！
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -163,109 +163,109 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-覚悟はいいか、虫けらどもよ。
+각오가 되었느냐, 벌레들아.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Belserius>の刃にかかり、
-果てるがよい！
+<Belserius>의 칼에 맞아,
+끝나도록 하거라！
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-ぐはっ……
+으아…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-これで……終わった……
+이로써… 끝났…
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-まさか<Belserius>と、
-渡り合うとは思わなかったぞ……
+설마 <Belserius>와,
+겨룰 줄은 몰랐어…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちょっと、神の眼の様子、
-変じゃない？
+잠깐, 신의 눈의 상태,
+이상하지 않아？
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-ああ。輝きがますます強まっている！
+아아. 빛이 점점 더 강해지고 있어！
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-みなさん、見てください！
-<Belserius>からも光が！
+여러분, 보세요！
+<Belserius>에게서도 빛이！
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Belserius>に一体何が!?
+<Belserius>에게 도대체 무슨 일이!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-まだ立つ気なの!?
+아직 일어설 생각이냐!?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-ふふふ……これしきの攻撃で、
-私を倒せるなどと思うな。
+후후후… 이 정도의 공격으로,
+나를 쓰러뜨릴 수 있다고 생각하지 마라.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-下賎な地上の民がいくらあがこうと、
-至高の存在たる私にかなうものか！
+천박한 지상의 민들이 아무리 발버둥 쳐도,
+최고의 존재인 나에게는 적수가 없다！
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-この<Belserius>がある限り！
-私は無敵だ！
+이 <Belserius>가 있는 한！
+나는 무적이다！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おまえ……誰だ？
+너… 누구냐？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-え？
+응？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-さっきから……何か変だ。
+방금부터…뭔가 이상해.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おまえは本当に、<Hugo>なのか？
-……実は別の誰かなんじゃないのか？
+너 정말로, <Hugo> 맞아? 
+…사실 다른 누군가가 아닐까?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>、あんた何言ってるの？
+<Stahn> 너 뭐라고 말하는 거야?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-どうなんだ、答えろ！
+어떻게 된 거야, 대답해줘!
 [ENDBLOCK]
 ？？？？？
 [ENDBLOCK]
-ふふふ……下賎な地上の民にしては、
-なかなかいい勘をしている。
+흐흐흐…천한 지상의 민족치고는,
+꽤나 좋은 감각을 가지고 있군.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-こっ、この声は！
+저, 저 목소리는!
 [ENDBLOCK]
 ？？？？？
 [ENDBLOCK]
-そこまで気付いたからには、
-我が真の姿、見せてやろう！
+거기까지 눈치챘다면,
+내 진정한 모습을 보여주겠다!
 [ENDBLOCK]
 ？？？？？
 [ENDBLOCK]
-がああああっ！
+가아아아악!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Hugo>！
+<Hugo>!
 [ENDBLOCK]
 ----1------
 
@@ -281,189 +281,189 @@
 [ENDBLOCK]
 ？？？？？
 [ENDBLOCK]
-ふふふ……
+흐흐흐…
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-バカな、あれは……！
+바보 같은, 저것은…!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-誰だ？
+누구지?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Miktran>！
+<Miktran>!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-はははははははははは！	降臨だ！
-天上王たる私が、再び現世に降臨したぞ！
+하하하하하하하하하하! 	강림이다! 
+천상왕인 내가, 다시 현세에 강림했다!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-なぜじゃ……なぜじゃあっ！
+왜 이러는 거지… 왜 이러는 거야?!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-そんな……<Miktran>が……
-どうして実体化できるの？
+그럴 수가…<Miktran>가…
+어떻게 실체화할 수 있는 거지?
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-我々天上軍の技術力は、
-地上軍の上を行っていたという事だ。
+우리가 천상군의 기술력은,
+지상군을 초월하고 있었다는 것이다.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-素材となる肉体と神の眼の力があれば、
-死して後の復活も可能なのだよ！
+재료가 되는 육체와 신의 눈의 힘이 있다면,
+죽은 후에도 부활이 가능하다는 거야!
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-これも神の眼の力だというのか？
+이것도 신의 눈의 힘이라는 건가?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-人の体を素材呼ばわりするなんて……
+사람의 몸을 재료로 부르는 거라니…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Miktran>！
+<Miktran>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-全部、おまえがやった事なんだな。
-何もかも、おまえの仕業だったんだな！
+모두, 네가 한 일이구나.
+모든 것이, 네 짓이었구나!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-そうだとしたらどうする。
+그렇다면 어쩔 건가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やっぱり……！
+역시…!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-ソーディアンどもよ！
+소디언들아!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-おまえたちはかつての戦いで、私が、
-相打ちになったと思っていたのだろう？
+너희는 예전 싸움에서, 내가,
+서로 맞부딪혔다고 생각했겠지?
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-甘いわ！	あのとき私は己の人格を、
-<Belserius>に照射していた！
+너무 순진하군! 	그때 나는 내 인격을,
+<Belserius>에 비추고 있었던 거야!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-そして<Belserius>を我が物とし、
-その中に潜んでいたのだ！
+그리고 <Belserius>를 내 것으로 삼아,
+그 안에 숨어 있었던 거야!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-なんじゃとお……
+뭐라고…
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-壊れたふりをするのは屈辱だったが、
-お陰で面白い知識も手に入った。
+부서진 척하는 것은 굴욕적이었지만,
+덕분에 재미있는 지식도 손에 넣었다.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-<Belserius>の元人格は、
-なかなかの頭脳の持ち主だな？
+<Belserius>의 원래 인격은,
+상당한 두뇌의 소유자네?
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-カーレルの事ね……
+카렐의 일이지…
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-カーレルだと？
-……ふん、まあいい。
+카렐이라고? 
+…흥, 알겠어.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-それでおまえは、鏡面バリアーを、
-開発したりできたのだな……！
+그래서 너는, 거울면 장벽을,
+개발할 수 있었던 거구나…！
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-<Hugo>が私を手に入れた際、
-私は奴の意識を乗っ取った。
+<Hugo>가 나를 손에 넣었을 때,
+나는 그의 의식을 장악했다.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-そして今まで、私の操り人形に
-していたというわけだ。
+그리고 지금까지, 나의 조종인형으로
+사용하고 있었다는 거지.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-<Hugo>も所詮は下賎な地上の民。
-そうでなければここまでできぬわ！
+<Hugo>도 결국은 천박한 지상의 민족.
+그렇지 않다면 여기까지 할 수 없었을 거야！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんた、許さないわよ！
+당신, 용서하지 않을 거야！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Hugo>の肩を持つわけじゃないけど……
-あんたのやった事は、絶対に許せない！
+<Hugo>의 편을 들자는 건 아니지만…
+당신이 한 일은, 절대 용서할 수 없어！
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-ふふふ……ベルクラントの発射準備が、
-整ったようだ。
+후후후… 벨클란트의 발사 준비가,
+완료된 것 같다.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-これで外殻は完成する。
-汚らわしい地上が闇に閉ざされるのだ！
+이로써 외피는 완성된다.
+더럽고 추한 지상이 어둠에 가려질 것이다！
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-この後は、王たる私の支配の下、
-選ばれし者の楽園が天上に築かれる！
+이후에는, 왕인 나의 지배 아래,
+선택된 자들의 낙원이 천상에 세워질 것이다！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんな事させるか！
+그런 일은 절대 시키지 않을 거야！
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-ふん、無駄な悪あがきを。
-……ならばこれを見るがいい！
+흥, 헛된 악어짓을.
+…그렇다면 이것을 보아라！
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-はああああっ！
+하아아아앗！
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Belserius>から光が！
+<Belserius>에서 빛이！
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-とてつもない圧力じゃ。
-こんな<Belserius>は、知らん……！
+엄청난 압력이야.
+이런 <Belserius>는, 본 적이 없어…！
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-肩慣らしがてら、遊んでやろう。
+어깨 풀 겸, 놀아주겠다.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-えせソーディアンマスターが何人いようと、
-私の敵ではない！
+가짜 소디언 마스터가 몇이나 되든,
+내 적이 될 수 없다！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんだと！
+뭐라고！
 [ENDBLOCK]
 ----1------
 
@@ -479,357 +479,357 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ぐ……っ！
+으…! 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-バカな……こんなはず……
+바보 같은… 이런 일은…
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-おまえたちと私とでは、格が違うのだ。
-思い知ったか！
+너희들과 나와는, 격이 다르다.
+깨달았느냐!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-神の眼が……！
+신의 눈이…!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-地上が永劫の闇に閉ざされるさま、
-しかと見届けるがいい！
+지상이 영원한 어둠에 가로막히는 모습을,
+확실히 지켜보아라!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やめろ……！
+그만두어…!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-ベルクラント、発射だ！
+벨클란트, 발사하라!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やめろーーーっ！
+그만두라고ーーーっ!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-外殻が……
+외껍질이…
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-ふふふ……
+후후후…
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-完成してしまったのか……
+완성되어 버린 건가…
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-ふふふふ……
+후후후후…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ここまで来たってのに……
+여기까지 왔는데…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ちくしょおおっ！
+젠장하네! 
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-あーっはははは！
-これで我が天上軍の、完全勝利だ！
+아하하하하! 
+이로써 나의 천상군의, 완전 승리다!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-このまま貴様たちにとどめを刺してやる。
-ありがたく思うがいい。
+이대로 너희들에게 마지막 일격을 날려주겠다.
+감사하게 생각해라.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-天上王たる私が、
-直に手をくだすのだからな！
+천상왕인 내가,
+직접 손을 쓰는 것이니!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-最初はおまえだ。
+첫 번째는 너다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>……！
+<Rutee>…!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-特別扱いしてくれるの？
-ありがたくて涙が出るわね。
+특별 대우해 줄 건가요?
+감사해서 눈물이 나올 것 같아.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-<Hugo>はおまえの事を、
-いつも気にしていたぞ。
+<Hugo>는 너를,
+항상 걱정하고 있었단다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんですって……？
+뭐라고…?
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-私に肉体を乗っ取られた後も、
-<Hugo>の意識はある程度残っていた。
+내가 육체를 탈취한 후에도,
+<Hugo>의 의식은 어느 정도 남아 있었다.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-ゆえにわかったのだ。
-あの男は、絶えず悩み続けていた。
+그러므로 알게 된 것이다.
+그 남자는, 끊임없이 고민하고 있었다.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-自分が父親である事を、
-なんとかして伝える事はできないかとな。
+자신이 아버지라는 것을,
+어떻게든 전달할 수는 없을까?
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-下賎な輩の考えそうな事だ！
-私はいつもあざ笑っていたものよ！
+천박한 자들의 생각이겠지！
+나는 항상 비웃었어！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたねえ……
+너는…
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-そう聞いたところで、何もできまい？
-残念だったな。ははははは！
+그렇게 들었다고 해서, 아무것도 할 수 없겠지?
+안타깝군. 하하하하하！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-あんたねえっ！
+너는 정말！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ふざけるな……！
+장난치지 마…！
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-なんだと？
+뭐라고？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-天上人は地上の人間と違わないって
-聞いたけど、おまえは別だ。
+천상인은 지상의 인간과 다르지 않다고
+들었지만, 너는 달라.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おまえには人の心がない！
+너에게는 인간의 마음이 없어！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-家族がお互いを大切に思う気持ちを、
-笑うなんて最低だ！
+가족이 서로를 소중히 여기는 마음을,
+비웃다니 최악이야！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-おまえが地上の人間より、
-優れているなんて事、あるものか！
+너가 지상의 인간보다,
+우월하다는 것, 있을 수 없다！
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-黙れ。
+닥쳐.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ぐわっ！
+으아！
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-生意気な虫けらめ。
-次は貴様を始末してやろう。
+무례한 벌레 같은 놈이군.
+다음에는 너를 처리해주겠다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-う……う……
+으…으…
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>、しっかりしろ！
+<Stahn>，정신 차려！
 <Stahn>！
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-さて、覚悟はいいか？
-<Rutee>・カトレット。
+자, 각오가 되어 있나？
+<Rutee>・카틀릿.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-<Hugo>・ジルクリストの、
-愛しい娘よ！
+<Hugo>・질크리스트의,
+사랑하는 딸이여！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-お……
+어…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-お父さん……！
+아버지…！
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-む……？
+흠…？
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-どうした事だ……？
-体が……動か……
+어째서…？
+몸이… 움직…
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Rutee>……聞こえるか……
+<Rutee>… 들리냐…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Hugo>の声!?
+<Hugo>의 목소리!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-え……？
+응…？
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-な、何が起こっているのだ……？
+무, 무슨 일이 일어나고 있는 거지…？
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-時間がない。この場は脱出しろ。
+시간이 없다. 이곳을 탈출하라.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-今からベルクラントを切り離す。
-そのまま……地上へ……
+지금부터 벨클란트를 분리한다.
+그대로… 지상으로…
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-おのれ！	<Hugo>の意識が、
-肉体に残留していたか！	こしゃくな！
+이 녀석！	<Hugo>의 의식이,
+육체에 잔존하고 있었나！	교활한 놈！
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-<Hugo>……貴様……！
+<Hugo>…너…！
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-私の思念はもうすぐ消える……
-その前に……急げ……
+내 생각은 곧 사라질 것이다…
+그 전에… 서둘러…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-待って！
+기다려！
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-こんな私を……父と呼んでくれて……
-嬉しかったぞ……
+이런 나를… 아버지라고 불러줘서…
+고맙게 생각했어…
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-おまえには何ひとつ……
-してやれ……なかったのに……
+너에게는 아무것도…
+해줄 수 없었는데…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>、
-<Hugo>さんの言う通りにしよう。
+<Rutee>，
+<Hugo>님의 말씀대로 하자.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でも！
+하지만！
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-ありが……とう……
+고마…워…
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Rutee>……無事で……
+<Rutee>…무사히…
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-よさんかあああっ！
+그만두어라아아악！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-お父さん……お父さん！
+아버지… 아버지！
 [ENDBLOCK]
 radx, rady -- <x1D><x76><x00><x80>, <x1D><x76><x04><x80>
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+네
+아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x34><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><x34><x80></color>가
 [ENDBLOCK]
-パーティに加わりました。
+파티에 합류했습니다.
 [ENDBLOCK]
-仲間になりました。
+동료가 되었습니다.
 [ENDBLOCK]
-戦闘に参加できます。
+전투에 참가할 수 있습니다.
 [ENDBLOCK]
-同行します。
+동행합니다.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x59><x24><x00><x80><x18><x65><x59><x28><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x34><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x59><x24><x00><x80><x18><x65><x59><x28><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x58><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x59><x54><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x49><x34><x80></color>가
+[ENDBLOCK]
+파티에서 빠졌습니다.
+[ENDBLOCK]
+<x18><x65><x59><x24><x00><x80><x18><x65><x59><x28><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x58><x98><x80>
+[ENDBLOCK]
+<x18><x65><x59><x54><x00><x80></color>를 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x49><x48><x80>たちは
+<x19><x69><x49><x48><x80>들은
 [ENDBLOCK]
-<turquoise>交易称号
+<turquoise>거래 칭호
 [ENDBLOCK]
-<x19><x69><x49><x48><x80>たちは
+<x19><x69><x49><x48><x80>들은
 [ENDBLOCK]
-<turquoise>温泉称号
+<turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x49><x48><x80>たちは
+<x19><x69><x49><x48><x80>들은
 [ENDBLOCK]
-<turquoise>自由称号
+<turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x49><x48><x80>たちは
+<x19><x69><x49><x48><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+칭호：<turquoise>내추럴 레인저
 [ENDBLOCK]
-<x19><x69><x49><x48><x80>たちは
+<x19><x69><x49><x48><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+칭호：<turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x49><x48><x80>たちは
+<x19><x69><x49><x48><x80>들은
 [ENDBLOCK]
-<turquoise>最強の称号
+<turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x49><x48><x80>たちは
+<x19><x69><x49><x48><x80>들은
 [ENDBLOCK]
-<turquoise>クイズ称号
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x49><x48><x80>は
+<x19><x69><x49><x48><x80>는
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -841,72 +841,72 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+<x1A><x20><x72><x0C><x98><x80>는
+이미 가지고 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
+이 ID와 비밀번호를 연동 웹사이트에
+입력함으로써, 데스티니의 세계가
+더욱 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>詳しくは下記のURLでご確認ください。
+<TAG_007>자세한 사항은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>です。
+<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>입니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>게임 중의 이벤트나 미니게임을
+클리어하면 연동 ID와 게임 비밀번호가
+발급될 수 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>이 연동 ID와 게임 비밀번호를
+웹사이트에 입력함으로써 데스티니
+의 세계가 더욱 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>웹사이트에 입력할
+연동 ID와 게임 비밀번호를 잊어버린 경우는
+피츠가르드에 있는 여행자의 오두막에서
+확인할 수 있습니다.
 [ENDBLOCK]
-外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+외곽 없음의 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-設定がなされません！（tod=<TAG_059>）
+설정이 이루어지지 않았습니다!(tod=<TAG_059>)
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+장치는 가동하지 않고 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+워프 장치가 가동되었습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -914,83 +914,83 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x49><x34><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x49><x34><x80>의 소디언 장치가
+사용 가능해졌습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>「칭호 설명」
+칭호란 캐릭터에 설정할 수 있는,
+캐릭터 파라미터 중 하나입니다.
+구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>메인 메뉴를 연 후, 캐릭터의
+상태를 표시합니다.
+그 화면 그대로 <Square_ani>를 누르면, 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
+페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면,
+획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>칭호의 사용 방법에는 두 가지가 있습니다.
+첫 번째는…
+「칭호를 설정하고, 마을 사람에게 이야기해 보세요」
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
+당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 몇 번
+이야기했을 때, 신기한 행동을 할 때가 있습니다.
+그때는, 가지고 있는 칭호를 다시 설정한 후,
+다시 이야기해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
+머리 위에 「？」가 나타날 수 있습니다.
+그때는, 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 이야기해 보세요.
+무언가 기쁜 일이 일어날지도 모릅니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>사용 방법의 두 번째는…
+「상태 화면을 멋지게 꾸미자」
+모은 칭호 중에서, 만약 마음에 드는 것이 있다면,
+설정하여 상태 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>「돌 차기 놀이는」
+필드에 있는 돌을 차서,
+특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
+1: 마을 밖에 있는 특정 돌을 차면,
+		게임이 시작됩니다.
+2: 전투는, 돌 차기 놀이의 클리어 조건에
+		영향을 미치지 않습니다.
+3: 마을이나 던전을 출입하면,
+		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>Now Loading...
+<TAG_008><S06>로딩 중...
 [ENDBLOCK]
 
 [ENDBLOCK]

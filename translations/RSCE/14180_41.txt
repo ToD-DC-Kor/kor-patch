@@ -1,197 +1,197 @@
-××××××空開始××××××
+××××××공간 시작××××××
 
 [ENDBLOCK]
-段階なし：D1R_EPI001START 	～	D1R_032_030_000
+단계 없음：D1R_EPI001START 	～	D1R_032_030_000
 
 [ENDBLOCK]
-第一段階：D1R_032_040_000	～	D1R_034_020_000
+첫 번째 단계：D1R_032_040_000	～	D1R_034_020_000
 
 [ENDBLOCK]
-第二段階：D1R_034_030_000	～	D1R_038_080_000
+두 번째 단계：D1R_034_030_000	～	D1R_038_080_000
 
 [ENDBLOCK]
-第三段階：D1R_038_090_000	～	D1R_040_040_000
+세 번째 단계：D1R_038_090_000	～	D1R_040_040_000
 
 [ENDBLOCK]
-最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+최종 단계：D1R_EPI040_END	～	D1R_EPI052_END
 
 [ENDBLOCK]
-全時系列：D1R_EPI001START	～	D1R_EPI052_END
+전체 시리즈：D1R_EPI001START	～	D1R_EPI052_END
 
 [ENDBLOCK]
-時間は昼です。
+시간은 낮입니다.
 
 [ENDBLOCK]
-通常：no_bg_sora
+보통：no_bg_sora
 
 [ENDBLOCK]
-空の作成失敗（戻り値：<TAG_062>）
+공간 생성 실패（반환 값：<TAG_062>）
 
 [ENDBLOCK]
-××××××空終了××××××
+××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
-段階なし：D1R_EPI001START 	～	D1R_032_030_000
+단계 없음：D1R_EPI001START 	～	D1R_032_030_000
 
 [ENDBLOCK]
-第一段階：D1R_032_040_000	～	D1R_034_020_000
+첫 번째 단계：D1R_032_040_000	～	D1R_034_020_000
 
 [ENDBLOCK]
-第二段階：D1R_034_030_000	～	D1R_038_080_000
+두 번째 단계：D1R_034_030_000	～	D1R_038_080_000
 
 [ENDBLOCK]
-第三段階：D1R_038_090_000	～	D1R_040_040_000
+세 번째 단계：D1R_038_090_000	～	D1R_040_040_000
 
 [ENDBLOCK]
-最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+최종 단계：D1R_EPI040_END	～	D1R_EPI052_END
 
 [ENDBLOCK]
-全段階：D1R_032_040_000	～	D1R_EPI052_END
+전체 단계：D1R_032_040_000	～	D1R_EPI052_END
 
 [ENDBLOCK]
-時間は昼です。<TAG_062>>=<TAG_059>>=<TAG_061>
+시간은 낮입니다.<TAG_062>>=<TAG_059>>=<TAG_061>
 
 [ENDBLOCK]
-通常第一：no_bg_gaikaku1 <x09><xAC><x01><x00><x00>
+보통 첫 번째：no_bg_gaikaku1 <x09><xAC><x01><x00><x00>
 
 [ENDBLOCK]
-通常第二：no_bg_gaikaku1 <x09><xAC><x01><x00><x00>
+보통 두 번째：no_bg_gaikaku1 <x09><xAC><x01><x00><x00>
 
 [ENDBLOCK]
 = <TAG_060>
 
 [ENDBLOCK]
-外殻の作成失敗（戻り値：<TAG_063>）
+외각 생성 실패（반환 값：<TAG_063>）
 
 [ENDBLOCK]
-◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
-●●●●●●雲開始●●●●●●
+●●●●●●구름 시작●●●●●●
 
 [ENDBLOCK]
-段階なし：D1R_EPI001START 	～	D1R_032_030_000
+단계 없음：D1R_EPI001START 	～	D1R_032_030_000
 
 [ENDBLOCK]
-第一段階：D1R_032_040_000	～	D1R_034_020_000
+첫 번째 단계：D1R_032_040_000	～	D1R_034_020_000
 
 [ENDBLOCK]
-第二段階：D1R_034_030_000	～	D1R_038_080_000
+두 번째 단계：D1R_034_030_000	～	D1R_038_080_000
 
 [ENDBLOCK]
-第三段階：D1R_038_090_000	～	D1R_040_040_000
+세 번째 단계：D1R_038_090_000	～	D1R_040_040_000
 
 [ENDBLOCK]
-最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+최종 단계：D1R_EPI040_END	～	D1R_EPI052_END
 
 [ENDBLOCK]
-全時系列：D1R_EPI001START	～	D1R_EPI052_END
+전체 시리즈：D1R_EPI001START	～	D1R_EPI052_END
 
 [ENDBLOCK]
-時間は昼です。
+시간은 낮입니다.
 
 [ENDBLOCK]
-通常：no_bg_kumo01
+보통：no_bg_kumo01
 
 [ENDBLOCK]
-雲の作成失敗（戻り値：<TAG_063>）
+구름 생성 실패（반환 값：<TAG_063>）
 
 [ENDBLOCK]
-●●●●●●雲終了●●●●●●
+●●●●●●구름 종료●●●●●●
 
 [ENDBLOCK]
-オブジェクト操作モード開始
+객체 조작 모드 시작
 Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 
 [ENDBLOCK]
-オブジェクト操作開始
+객체 조작 시작
 
 [ENDBLOCK]
-引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+인수로 주어진 매개변수→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
-引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+인수로 주어진 매개변수→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
-引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+인수로 주어진 매개변수→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
-オブジェクト操作モード終了
+객체 조작 모드 종료
 [ENDBLOCK]
-オブジェクト操作終了
+객체 조작 종료
 
 [ENDBLOCK]
-オブジェクト再選択
+객체 재선택
 
 [ENDBLOCK]
-ステータス選択
+상태 선택
 
 [ENDBLOCK]
-フォグステータス
+안개 상태
 [ENDBLOCK]
-<TAG_007>フォグ始点距離：<D_FOG_START>
-フォグ終点距離：<D_FOG_END>
-始点のフォグ率：<D_FOG_RATE_START>
-終点のフォグ率：<D_FOG_RATE_END>
-フォグカラー赤：<D_FOG_COLOR_R>
-フォグカラー緑：<D_FOG_COLOR_G>
-フォグカラー青：<D_FOG_COLOR_B>
+<TAG_007>안개 시작 거리：<D_FOG_START>
+안개 종료 거리：<D_FOG_END>
+시작의 안개 비율：<D_FOG_RATE_START>
+종료의 안개 비율：<D_FOG_RATE_END>
+안개 컬러 빨강：<D_FOG_COLOR_R>
+안개 컬러 초록：<D_FOG_COLOR_G>
+안개 컬러 파랑：<D_FOG_COLOR_B>
 
 [ENDBLOCK]
-<TAG_069>のステータス
+<TAG_069>의 상태
 [ENDBLOCK]
-座標(x) = <D_COORD_X>
-座標(y) = <D_COORD_Y>
-座標(z) = <D_COORD_Z>
-色値(赤) = <D_COLOR_R>
-色値(緑) = <D_COLOR_G>
-色値(青) = <D_COLOR_B>
-色値(α) = <D_COLOR_A>
-拡大率(x) = <D_ZOOM_X>
-拡大率(y) = <D_ZOOM_Y>
-拡大率(z) = <D_ZOOM_Z>
-拡大率(a) = <D_ZOOM_A>
-角度(x) = <D_ANGLE_X>
-角度(y) = <D_ANGLE_Y>
-角度(z) = <D_ANGLE_Z>
+좌표(x) = <D_COORD_X>
+좌표(y) = <D_COORD_Y>
+좌표(z) = <D_COORD_Z>
+색 값(빨강) = <D_COLOR_R>
+색 값(초록) = <D_COLOR_G>
+색 값(파랑) = <D_COLOR_B>
+색 값(α) = <D_COLOR_A>
+확대 비율(x) = <D_ZOOM_X>
+확대 비율(y) = <D_ZOOM_Y>
+확대 비율(z) = <D_ZOOM_Z>
+확대 비율(a) = <D_ZOOM_A>
+각도(x) = <D_ANGLE_X>
+각도(y) = <D_ANGLE_Y>
+각도(z) = <D_ANGLE_Z>
 
 [ENDBLOCK]
-座標(x) = <D_COORD_X>
-座標(y) = <D_COORD_Y>
-座標(z) = <D_COORD_Z>
-色値(赤) = <D_COLOR_R>
-色値(緑) = <D_COLOR_G>
-色値(青) = <D_COLOR_B>
-色値(α) = <D_COLOR_A>
-拡大率(x) = <D_ZOOM_X>
-拡大率(y) = <D_ZOOM_Y>
-拡大率(z) = <D_ZOOM_Z>
-拡大率(a) = <D_ZOOM_A>
-角度(x) = <D_ANGLE_X>
-角度(y) = <D_ANGLE_Y>
-角度(z) = <D_ANGLE_Z>
+좌표(x) = <D_COORD_X>
+좌표(y) = <D_COORD_Y>
+좌표(z) = <D_COORD_Z>
+색 값(빨강) = <D_COLOR_R>
+색 값(초록) = <D_COLOR_G>
+색 값(파랑) = <D_COLOR_B>
+색 값(α) = <D_COLOR_A>
+확대 비율(x) = <D_ZOOM_X>
+확대 비율(y) = <D_ZOOM_Y>
+확대 비율(z) = <D_ZOOM_Z>
+확대 비율(a) = <D_ZOOM_A>
+각도(x) = <D_ANGLE_X>
+각도(y) = <D_ANGLE_Y>
+각도(z) = <D_ANGLE_Z>
 
 [ENDBLOCK]
-空
+공간
 [ENDBLOCK]
-<grey1>空（存在しません）</color>
+<grey1>비어 있음（존재하지 않음）</color>
 [ENDBLOCK]
-外殻
+외피
 [ENDBLOCK]
-<grey1>外殻（存在しません）</color>
+<grey1>외피（존재하지 않음）</color>
 [ENDBLOCK]
-雲１
+구름 1
 [ENDBLOCK]
-<grey1>雲１（存在しません）</color>
+<grey1>구름 1（존재하지 않음）</color>
 [ENDBLOCK]
-雲２
+구름 2
 [ENDBLOCK]
-<grey1>雲２（存在しません）</color>
+<grey1>구름 2（존재하지 않음）</color>
 [ENDBLOCK]
-オブジェクト選択
+객체 선택
 [ENDBLOCK]
 <x18><x66><x1C><x00><x80>（<x17><x66><x10><x1B><x70><x08><xAB><x20><x8B><x80>）
 <TAG_052>（<x17><x66><x10><x1B><x70><x08><xAB><x21><x8B><x80>）
@@ -202,766 +202,766 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <TAG_070>(<TAG_071>, <TAG_072> x <TAG_074> + <TAG_033>)
 
 [ENDBLOCK]
-ステータス選択
+상태 선택
 [ENDBLOCK]
-座標
-色値
-拡大率
-角度
+좌표
+색 값
+확대율
+각도
 
 [ENDBLOCK]
 <TAG_073>, <TAG_072>
 
 [ENDBLOCK]
-空
+비어 있음
 [ENDBLOCK]
-外殻
+외피
 [ENDBLOCK]
-雲１
+구름 1
 [ENDBLOCK]
-雲２
+구름 2
 [ENDBLOCK]
-不正なオブジェクト
+잘못된 객체
 [ENDBLOCK]
-過去の座標(x)→<TAG_078>
+과거 좌표(x)→<TAG_078>
 
 [ENDBLOCK]
-現在の座標(x)→<TAG_078>
+현재 좌표(x)→<TAG_078>
 
 [ENDBLOCK]
-過去の座標(x)→<TAG_078>
+과거 좌표(x)→<TAG_078>
 
 [ENDBLOCK]
-現在の座標(x)→<TAG_078>
+현재 좌표(x)→<TAG_078>
 
 [ENDBLOCK]
-過去の座標(z)→<TAG_080>
+과거 좌표(z)→<TAG_080>
 
 [ENDBLOCK]
-現在の座標(z)→<TAG_080>
+현재 좌표(z)→<TAG_080>
 
 [ENDBLOCK]
-過去の座標(z)→<TAG_080>
+과거 좌표(z)→<TAG_080>
 
 [ENDBLOCK]
-現在の座標(z)→<TAG_080>
+현재 좌표(z)→<TAG_080>
 
 [ENDBLOCK]
-過去の座標(y)→<TAG_079>
+과거 좌표(y)→<TAG_079>
 
 [ENDBLOCK]
-現在の座標(y)→<TAG_079>
+현재 좌표(y)→<TAG_079>
 
 [ENDBLOCK]
-過去の座標(y)→<TAG_079>
+과거 좌표(y)→<TAG_079>
 
 [ENDBLOCK]
-現在の座標(y)→<TAG_079>
+현재 좌표(y)→<TAG_079>
 
 [ENDBLOCK]
-<TAG_054>の座標
+<TAG_054>의 좌표
 [ENDBLOCK]
-番号（<TAG_033>）、人番号（<TAG_034>）
-座標(x) = <TAG_078>
-座標(y) = <TAG_079>
-座標(z) = <TAG_080>
-加算 = <TAG_051>
+번호（<TAG_033>）,인간 번호（<TAG_034>）
+좌표(x) = <TAG_078>
+좌표(y) = <TAG_079>
+좌표(z) = <TAG_080>
+덧셈 = <TAG_051>
 
 [ENDBLOCK]
-番号（<TAG_033>）：座標(x) = <TAG_078>
-座標(y) = <TAG_079>
-座標(z) = <TAG_080>
+번호（<TAG_033>）：좌표(x) = <TAG_078>
+좌표(y) = <TAG_079>
+좌표(z) = <TAG_080>
 
 [ENDBLOCK]
-加算変更→<TAG_050>
+덧셈 변경→<TAG_050>
 
 [ENDBLOCK]
-加算変更→<TAG_050>
+덧셈 변경→<TAG_050>
 
 [ENDBLOCK]
-過去の色値(赤)→<TAG_036>
+과거 색 값(빨강)→<TAG_036>
 
 [ENDBLOCK]
-現在の色値(赤)→<TAG_036>
+현재 색 값(빨강)→<TAG_036>
 
 [ENDBLOCK]
-過去の色値(赤)→<TAG_036>
+과거 색 값(빨강)→<TAG_036>
 
 [ENDBLOCK]
-現在の色値(赤)→<TAG_036>
+현재 색 값(빨강)→<TAG_036>
 
 [ENDBLOCK]
-過去の色値(緑)→<TAG_037>
+과거 색 값(초록)→<TAG_037>
 
 [ENDBLOCK]
-現在の色値(緑)→<TAG_037>
+현재 색 값(초록)→<TAG_037>
 
 [ENDBLOCK]
-過去の色値(緑)→<TAG_037>
+과거 색 값(초록)→<TAG_037>
 
 [ENDBLOCK]
-現在の色値(緑)→<TAG_037>
+현재 색 값(초록)→<TAG_037>
 
 [ENDBLOCK]
-過去の色値(青)→<TAG_038>
+과거 색 값(파랑)→<TAG_038>
 
 [ENDBLOCK]
-現在の色値(青)→<TAG_038>
+현재 색 값(파랑)→<TAG_038>
 
 [ENDBLOCK]
-過去の色値(青)→<TAG_038>
+과거 색 값(파랑)→<TAG_038>
 
 [ENDBLOCK]
-現在の色値(青)→<TAG_038>
+현재 색 값(파랑)→<TAG_038>
 
 [ENDBLOCK]
-過去の色値(α)→<TAG_039>
+과거 색 값(α)→<TAG_039>
 
 [ENDBLOCK]
-現在の色値(α)→<TAG_039>
+현재 색 값(α)→<TAG_039>
 
 [ENDBLOCK]
-過去の色値(α)→<TAG_039>
+과거 색 값(α)→<TAG_039>
 
 [ENDBLOCK]
-現在の色値(α)→<TAG_039>
+현재의 색값(α)→<TAG_039>
 
 [ENDBLOCK]
-<TAG_054>の色値
+<TAG_054>의 색값
 [ENDBLOCK]
-※128が標準の色値です
-番号（<TAG_033>）、人番号（<TAG_034>）
-色値(赤) = <TAG_036>
-色値(緑) = <TAG_037>
-色値(青) = <TAG_038>
-色値(α) = <TAG_039>
+※128이 표준 색값입니다
+번호（<TAG_033>）,인물번호（<TAG_034>）
+색값(빨강) = <TAG_036>
+색값(초록) = <TAG_037>
+색값(파랑) = <TAG_038>
+색값(α) = <TAG_039>
 
 [ENDBLOCK]
-番号（<TAG_033>）、人番号（<TAG_034>）
-色値(赤) = <TAG_036>
-色値(緑) = <TAG_037>
-色値(青) = <TAG_038>
-色値(α) = <TAG_039>
+번호（<TAG_033>）,인물번호（<TAG_034>）
+색값(빨강) = <TAG_036>
+색값(초록) = <TAG_037>
+색값(파랑) = <TAG_038>
+색값(α) = <TAG_039>
 
 [ENDBLOCK]
-過去の拡大率(x)→<TAG_040>
+과거의 확대률(x)→<TAG_040>
 
 [ENDBLOCK]
-現在の拡大率(x)→<TAG_040>
+현재의 확대률(x)→<TAG_040>
 
 [ENDBLOCK]
-過去の拡大率(x)→<TAG_040>
+과거의 확대률(x)→<TAG_040>
 
 [ENDBLOCK]
-現在の拡大率(x)→<TAG_040>
+현재의 확대률(x)→<TAG_040>
 
 [ENDBLOCK]
-過去の拡大率(y)→<TAG_041>
+과거의 확대률(y)→<TAG_041>
 
 [ENDBLOCK]
-現在の拡大率(y)→<TAG_041>
+현재의 확대률(y)→<TAG_041>
 
 [ENDBLOCK]
-過去の拡大率(y)→<TAG_041>
+과거의 확대률(y)→<TAG_041>
 
 [ENDBLOCK]
-現在の拡大率(y)→<TAG_041>
+현재의 확대률(y)→<TAG_041>
 
 [ENDBLOCK]
-過去の拡大率(z)→<TAG_042>
+과거의 확대률(z)→<TAG_042>
 
 [ENDBLOCK]
-現在の拡大率(z)→<TAG_042>
+현재의 확대률(z)→<TAG_042>
 
 [ENDBLOCK]
-過去の拡大率(z)→<TAG_042>
+과거의 확대률(z)→<TAG_042>
 
 [ENDBLOCK]
-現在の拡大率(z)→<TAG_042>
+현재의 확대률(z)→<TAG_042>
 
 [ENDBLOCK]
-過去の拡大率(a)→<TAG_043>
+과거의 확대률(a)→<TAG_043>
 
 [ENDBLOCK]
-現在の拡大率(a)→<TAG_043>
+현재의 확대률(a)→<TAG_043>
 
 [ENDBLOCK]
-過去の拡大率(a)→<TAG_043>
+과거의 확대률(a)→<TAG_043>
 
 [ENDBLOCK]
-現在の拡大率(a)→<TAG_043>
+현재의 확대률(a)→<TAG_043>
 
 [ENDBLOCK]
-<TAG_054>の拡大率
+<TAG_054>의 확대률
 [ENDBLOCK]
-※4096が標準のサイズです
-番号（<TAG_033>）、人番号（<TAG_034>）
-拡大率(x) = <TAG_040>
-拡大率(y) = <TAG_041>
-拡大率(z) = <TAG_042>
-拡大率(a) = <TAG_043>
+※4096이 표준 크기입니다
+번호（<TAG_033>）,인물번호（<TAG_034>）
+확대률(x) = <TAG_040>
+확대률(y) = <TAG_041>
+확대률(z) = <TAG_042>
+확대률(a) = <TAG_043>
 
 [ENDBLOCK]
-番号（<TAG_033>）、人番号（<TAG_034>）
-拡大率(x) = <TAG_040>
-拡大率(y) = <TAG_041>
-拡大率(z) = <TAG_042>
-拡大率(a) = <TAG_043>
+번호（<TAG_033>）,인물번호（<TAG_034>）
+확대률(x) = <TAG_040>
+확대률(y) = <TAG_041>
+확대률(z) = <TAG_042>
+확대률(a) = <TAG_043>
 
 [ENDBLOCK]
-過去の角度(x)→<TAG_044>
+과거의 각도(x)→<TAG_044>
 
 [ENDBLOCK]
-現在の角度(x)→<TAG_044>
+현재의 각도(x)→<TAG_044>
 
 [ENDBLOCK]
-過去の角度(x)→<TAG_044>
+과거의 각도(x)→<TAG_044>
 
 [ENDBLOCK]
-現在の角度(x)→<TAG_044>
+현재의 각도(x)→<TAG_044>
 
 [ENDBLOCK]
-過去の角度(y)→<TAG_045>
+과거의 각도(y)→<TAG_045>
 
 [ENDBLOCK]
-現在の角度(y)→<TAG_045>
+현재의 각도(y)→<TAG_045>
 
 [ENDBLOCK]
-過去の角度(y)→<TAG_045>
+과거의 각도(y)→<TAG_045>
 
 [ENDBLOCK]
-現在の角度(y)→<TAG_045>
+현재의 각도(y)→<TAG_045>
 
 [ENDBLOCK]
-過去の角度(z)→<TAG_046>
+과거의 각도(z)→<TAG_046>
 
 [ENDBLOCK]
-現在の角度(z)→<TAG_046>
+현재의 각도(z)→<TAG_046>
 
 [ENDBLOCK]
-過去の角度(z)→<TAG_046>
+과거의 각도(z)→<TAG_046>
 
 [ENDBLOCK]
-現在の角度(z)→<TAG_046>
+현재의 각도(z)→<TAG_046>
 
 [ENDBLOCK]
-<TAG_054>の回転角度
+<TAG_054>의 회전 각도
 [ENDBLOCK]
-※360度＝4096です
-番号（<TAG_033>）、人番号（<TAG_034>）
-角度(x) = <TAG_044>
-角度(y) = <TAG_045>
-角度(z) = <TAG_046>
+※360도＝4096입니다
+번호（<TAG_033>）,인물번호（<TAG_034>）
+각도(x) = <TAG_044>
+각도(y) = <TAG_045>
+각도(z) = <TAG_046>
 
 [ENDBLOCK]
-番号（<TAG_033>）、人番号（<TAG_034>）
-角度(x) = <TAG_044>
-角度(y) = <TAG_045>
-角度(z) = <TAG_046>
+번호（<TAG_033>）,인물번호（<TAG_034>）
+각도(x) = <TAG_044>
+각도(y) = <TAG_045>
+각도(z) = <TAG_046>
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>トウケイ海軍備品庫。
-関係者以外立ち入り禁止。
+<TAG_005> 도케이 해군 비품 창고.
+관계자 외 출입 금지.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>トウケイ海軍備品庫。
-関係者以外立ち入り禁止。
+<TAG_005> 도케이 해군 비품 창고.
+관계자 외 출입 금지.
 [ENDBLOCK]
-モリュウ兵
+모리유 병
 [ENDBLOCK]
-トウケイのモンスターは
-瀕死になると信じられない力を出します。
+도케이의 몬스터는
+중상을 입으면 믿을 수 없는 힘을 발휘합니다.
 [ENDBLOCK]
-モリュウ兵
+모리유 병
 [ENDBLOCK]
-止めを刺すまで
-決して油断しないで下さい。
+끝을 내기 전까지
+절대 방심하지 마세요.
 [ENDBLOCK]
-モリュウ兵
+모리유 병
 [ENDBLOCK]
-なんて静かなんだ。
-逆に嫌な感じがしますね。
+정말 조용하군요.
+오히려 불길한 느낌이 드네요.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-気をつけてな、<Johnny>。
+조심해, <Johnny>.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-みなさん、お気をつけて。
+여러분, 조심하세요.
 [ENDBLOCK]
-おじいさん
+할아버지
 [ENDBLOCK]
-おっかない大王がいなくなって、
-これで存分に釣りができるぜ！
+무서운 대왕이 사라져서,
+이제 마음껏 낚시를 할 수 있게 됐어!
 [ENDBLOCK]
-おじいさん
+할아버지
 [ENDBLOCK]
-セインガルドと張り合う必要はない。
-俺たちは俺たちでやろうぜ。
+세인가르드와 경쟁할 필요는 없어.
+우리는 우리 방식대로 하자고.
 [ENDBLOCK]
-おじいさん
+할아버지
 [ENDBLOCK]
-あの空、何なんだろうなあ。
+저 하늘, 도대체 뭐지?
 [ENDBLOCK]
-おじいさん
+할아버지
 [ENDBLOCK]
-世界中あちこちに、
-でかい穴が開けられたって本当か？
+전 세계 곳곳에,
+큰 구멍이 뚫렸다는 게 사실인가?
 [ENDBLOCK]
-少女
+소녀
 [ENDBLOCK]
-大王の位を奪い、権力を極めた大王も、
-今は亡き人に……はかないですね。
+대왕의 자리를 빼앗고, 권력을 극대화한 대왕도,
+이제는 고인이 되셨으니… 덧없네요.
 [ENDBLOCK]
-少女
+소녀
 [ENDBLOCK]
-トウケイ領はやがてシデン領か
-モリュウ領に、編入されるでしょう。
+토우케이 영토는 곧 시덴 영토나
+모류 영토에 편입될 거예요.
 [ENDBLOCK]
-少女
+소녀
 [ENDBLOCK]
-どうにかしたいと思っても、
-一介の市民にできる事なんてないですよ。
+어떻게든 하고 싶다고 해도,
+한 시민이 할 수 있는 일은 없어요.
 [ENDBLOCK]
-少女
+소녀
 [ENDBLOCK]
-レンズをお渡しするくらいは
-できますけど……
+렌즈를 드리는 정도는
+할 수 있지만…
 [ENDBLOCK]
-少女
+소녀
 [ENDBLOCK]
-あの……どうか、ご無事で。
+그… 부디, 무사하시길.
 [ENDBLOCK]
-トウケイ兵
+토우케이 병사
 [ENDBLOCK]
-…………
+…
 [ENDBLOCK]
-トウケイ兵
+토우케이 병사
 [ENDBLOCK]
-大王が死んで、スカッとしたよ。
-あんな奴はいなくなって当然さ。
+대왕이 죽고, 시원하게 됐어.
+저런 놈은 없어지는 게 당연해.
 [ENDBLOCK]
-トウケイ兵
+토우케이 병사
 [ENDBLOCK]
-せっかくいい時代になったと
-思っていたんだがな。
+드디어 좋은 시대가 왔다고
+생각했는데 말이지.
 [ENDBLOCK]
-トウケイ兵
+토우케이 병사
 [ENDBLOCK]
-空が完全に塞がれて、次は……？
+하늘이 완전히 막혀버리고, 다음은…?
 [ENDBLOCK]
-トウケイ兵
+토우케이 병사
 [ENDBLOCK]
-絶対勝ってくれよ。
+꼭 이겨줘.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-ファンダリアへ向かうのでしたね。
+판달리아로 향하는 거죠?
 
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-それでしたら、港町の
-スノーフリアという街へ向かいます。
+그렇다면, 항구 도시
+스노우플리아라는 곳으로 향합니다.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>スノーフリアへ行きますか？
-はい
-いいえ
+<TAG_007>스노우플리아에 가시겠습니까?
+네
+아니오
 
 [ENDBLOCK]
-船員
+선원
 [ENDBLOCK]
-栄光の黒十字艦隊が
-<Batista>に牛耳られてたなんて……
+영광의 검은십자 함대가
+<Batista>에 의해 지배당하고 있었다니…
 [ENDBLOCK]
-船員
+선원
 [ENDBLOCK]
-……絶対言えないな。
-黙っておかないと。
+…절대 말할 수 없겠어.
+입을 다물어야 해.
 [ENDBLOCK]
-船員
+선원
 [ENDBLOCK]
-戦艦ってのは国を攻めるためでなく、
-守るためにあるのさ。
+전함은 나라를 공격하기 위한 게 아니라,
+지키기 위해 있는 거야.
 [ENDBLOCK]
-船員
+선원
 [ENDBLOCK]
-最近海が荒れてて、遭難者が
-続出してるんだよ。
+최근에 바다가 거칠어져서, 조난자가
+계속 발생하고 있어.
 [ENDBLOCK]
-船員
+선원
 [ENDBLOCK]
-けど、あなたたちが乗るのなら
-命を掛けさせてもらいますぜ。
+하지만, 여러분이 탄다면
+목숨을 걸게 해드리겠습니다.
 [ENDBLOCK]
-船員
+선원
 [ENDBLOCK]
-トウケイ兵
+토우케이 병사
 [ENDBLOCK]
-…………
+…
 [ENDBLOCK]
-トウケイ兵
+토우케이 병사
 [ENDBLOCK]
-今までは大王の権威を守るため、
-働いてきました。
+지금까지 대왕의 권위를 지키기 위해,
+일해왔습니다.
 [ENDBLOCK]
-トウケイ兵
+도케이 병
 [ENDBLOCK]
-これからはトウケイの民を守るため、
-働こうと思います。
+이제부터는 도케이의 민을 지키기 위해,
+일하려고 생각합니다.
 [ENDBLOCK]
-トウケイ兵
+도케이 병
 [ENDBLOCK]
-<Eleanor>様というのは、元大王陛下の
-奥方様の事です。
+<Eleanor>님이라는 것은, 전 대왕 폐하의
+부인님에 관한 것입니다.
 [ENDBLOCK]
-トウケイ兵
+도케이 병
 [ENDBLOCK]
-とはいえ、<Eleanor>様のお心が、
-大王陛下に向く事はなかったとか。
+그렇다고 해도, <Eleanor>님의 마음이,
+대왕 폐하에게 향한 적은 없었다고 하네요.
 [ENDBLOCK]
-トウケイ兵
+도케이 병
 [ENDBLOCK]
-<Eleanor>様がご存命なら、
-今回の事をどう思ったでしょうね。
+<Eleanor>님이 살아 계셨다면,
+이번 일을 어떻게 생각하셨을까요.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-よし。トウケイ領に到着したぜ。
+좋아. 도케이 영토에 도착했어.
 [ENDBLOCK]
-船員
+선원
 [ENDBLOCK]
-若、よくご無事で！
+젊은님, 무사하셨군요!
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-シデン領の者か？
-<Johnny>、いつの間に準備を……
+시덴 영토의 사람인가?
+<Johnny>, 언제 준비를…
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-俺じゃない。国許の連中が、
-勝手に気を利かせているだけさ。
+내가 아니야. 고향의 사람们이,
+저절로 신경 써준 것뿐이야.
 [ENDBLOCK]
-お越しになるとは聞いていませんでした。
-一体、どういう事ですか？
-[ENDBLOCK]
-<Johnny>
-[ENDBLOCK]
-事情を説明するのは後だ。
-城へ入りたいんだが、どうすればいい？
-[ENDBLOCK]
-城門は固く閉ざされていて、
-正面からの進入は不可能です。
-[ENDBLOCK]
-船で裏口へ回るしかありません。
-我々がご案内します。
+오시기로 한 건 듣지 못했습니다.
+도대체 무슨 일입니까?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-モリュウ城の時と一緒だな。
-俺たちは裏口に縁があるらしい。
+사정을 설명하는 건 나중에 할게.
+성에 들어가고 싶은데, 어떻게 해야 하지?
+[ENDBLOCK]
+성문은 단단히 닫혀 있어서,
+정면에서의 진입은 불가능합니다.
+[ENDBLOCK]
+배로 뒷문으로 돌아갈 수밖에 없습니다.
+우리가 안내해 드리겠습니다.
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+모리유 성 때와 똑같군.
+우리는 뒷문과 인연이 있는 모양이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そうですね。
+맞아요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-なんだか聞こえが悪いけど、
-この際仕方ないわね。
+뭔가 듣기 싫은 소리인데,
+이 경우 어쩔 수 없지.
 [ENDBLOCK]
-では私は、街の中央にある、
-船着場でお待ちしております。
+그럼 저는, 도시 중앙에 있는,
+선착장에서 기다리고 있겠습니다.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>、すぐにここを離れろ。
-<Tiberius>の兵が、押し寄せてくる。
+<Fayte>, 곧 여기에서 떠나거라.
+<Tiberius>의 병사가, 밀려오고 있어.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-おまえたちだけ、残していけるものか。
-ここで帰りを待つ。
+너희들만 남겨두고 갈 수는 없어.
+여기서 돌아오기를 기다릴게.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-おいおい……
+이런…
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-私は私で、好きにさせてもらうだけだ。
-おまえに文句を言われる筋合いはない。
+나는 나대로, 하고 싶은 대로 할 뿐이야.
+너에게 불만을 들을 이유는 없어.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-わかったよ、好きにしな。
+알았어, 마음대로 해.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Fayte>さん……大丈夫ですか？
+<Fayte>님… 괜찮으세요?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-ご安心ください。黒十字艦隊の面々は、
-船に乗るだけが能じゃありません。
+걱정 마세요. 검은 십자가 함대의 사람들은,
+배에 타는 것만이 능력이 아니에요.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-陸戦だってお手の物です。
-<Tiberius>に見せ付けてやりますよ。
+육전도 능숙합니다.
+<Tiberius>에게 보여주겠어요.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-それじゃ俺たちは、
-城へ乗り込むとするか。
+그럼 우리는,
+성으로 돌입하자.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-はい！
+예! 
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-面倒事も終わって、ようやくこれで、
-元の浮き草生活に戻れるぜ。
+귀찮은 일도 끝나고, 드디어 이렇게,
+원래의 떠돌이 생활로 돌아갈 수 있게 됐어.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-そうはいかない。おまえは私と一緒に、
-アクアヴェイル復興を手伝ってもらう。
+그렇게는 안 돼. 너는 나와 함께,
+아쿠아베일 복구를 도와야 해.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-シデン家の了解も取ってある。
-きりきり働いてもらうからな。
+시덴 가의 동의도 받았어.
+열심히 일해줘야 해.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-怖いお兄さんに捕まっちまった。
-こりゃ、逃げられそうにないか。
+무서운 형한테 잡혀버렸어.
+이건, 도망칠 수 없겠네.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-わかるか？	実は一番怖いのは、
-この<Fayte>だったってわけさ。
+알겠어? 사실 가장 무서운 건,
+이 <Fayte>였다는 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>さんの活躍を、
-楽しみにしてますよ。
+<Johnny>님의 활약을,
+기대하고 있습니다.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-おまえさんまで、俺を追いつめる気か？
-性格悪いぜ。
+너까지 나를 몰아세울 생각이냐?
+성격 나쁘네.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-じゃあ俺からは、人生のアドバイスだ。
-最後くらいは、年長者らしい事を言おう。
+그럼 나에게서 인생의 조언이야.
+마지막쯤은, 연장자답게 말해보자.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-なんですか？
+뭔데요?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ひたむきに目的地を目指すのもいいが、
-たまには立ち止まるのも悪くないぜ。
+목표지를 향해 열심히 나아가는 것도 좋지만,
+가끔은 멈추는 것도 나쁘지 않아.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ゆっくりまわりを見回す事で、
-新たな可能性が、見つかるかもしれない。
+천천히 주변을 둘러보는 것으로,
+새로운 가능성을 발견할 수도 있어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……わかりました。覚えておきます。
+…알겠어요. 기억해둘게요.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-人生余計に生きてる奴の、戯言だけどな。
-……それじゃ、いったんお別れだ。
+인생을 더 살고 있는 자의, 잡담이지만.
+…그럼, 일단 안녕이다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-お世話になりました。
-またお会いしましょう、<Johnny>さん。
+신세를 졌습니다.
+또 만나요, <Johnny>님.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-ああ。おまえさんたちに困った事があったら、
-さっそうと助けに現れてやるからな！
+응. 너희에게 문제가 생기면,
+신속하게 도와주러 나타날 테니!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん、ちょっといいですか。
+꼬마, 잠깐 괜찮아?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-突然どうした、シャル？
+갑자기 무슨 일이야, 샤르?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-さっきはありがとうございます。
+아까는 고마웠어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-さっき？
+아까? 
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-僕を<Johnny>さんに
-貸してくれた事です。
+나를 <Johnny>님에게
+빌려준 거야.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃんは僕に、<Johnny>さんへ
-恩返しするチャンスをくれました。
+꼬마는 나에게, <Johnny>님에게
+보답할 기회를 줬어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-僕はただ……シャルの気持ちを
-無視したくなかっただけだ。
+나는 그냥… 샤르의 마음을
+무시하고 싶지 않았을 뿐이야.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん。
+꼬마야.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-別に大した事じゃない。
-さっさと忘れろ……
+별로 대단한 일이 아니야.
+빨리 잊어버려…
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-坊ちゃん、僕が<Johnny>さんに
-恩返ししたかったのはですね。
+꼬마야, 내가 <Johnny>님에게
+보답하고 싶었던 건 말이지.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-別に理由なんてどうでもいい。
+딱히 이유는 중요하지 않아.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-いえ、聞いて欲しいんです。
+아니요, 듣고 싶어요.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-僕が<Johnny>さんに恩返ししたかったのは
-坊ちゃんとの事があったからなんです。
+제가 <Johnny>님께 보답하고 싶었던 건
+아가씨와의 일이 있었기 때문입니다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-何？
+뭐라고?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-今後も坊ちゃんと、マスターと
-ソーディアンの関係でい続けるためです。
+앞으로도 아가씨와, 마스터와
+소디언의 관계로 남기 위해서입니다.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-いつまでも他の人の事を
-考えていちゃいけないと思ったんです。
+언제까지고 다른 사람의 일만
+생각하고 있을 수는 없다고 생각했어요.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-……僕は、坊ちゃんの
-剣でいたいから。
+…저는, 아가씨의
+검이 되고 싶으니까요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-シャル……
+샤르…
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-だから、坊ちゃん。
-これからも一緒にいましょうね。
+그래서, 아가씨.
+앞으로도 함께해요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-ふん……僕がシャルを
-嫌にならなければな。
+흐음… 내가 샤르를
+싫어하지 않는다면 말이지.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-はい。
+네.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>現在の所持ガルド:<TAG_033>ガルド
+<TAG_007>현재 보유 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-はい
-いいえ
+네
+아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x24><x80></color>が
+<TAG_007><S03><turquoise><x19><x71><x49><x24><x80></color>가
 [ENDBLOCK]
-パーティに加わりました。
+파티에 합류했습니다.
 [ENDBLOCK]
-仲間になりました。
+동료가 되었습니다.
 [ENDBLOCK]
-戦闘に参加できます。
+전투에 참가할 수 있습니다.
 [ENDBLOCK]
-同行します。
+동행합니다.
 [ENDBLOCK]
-パーティに復帰しました。
-[ENDBLOCK]
-<x18><x65><x59><x14><x00><x80><x18><x65><x59><x18><x00><x80>
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x24><x80></color>が
-[ENDBLOCK]
-パーティから抜けました。
+파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x59><x14><x00><x80><x18><x65><x59><x18><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-称号：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x48><x98><x80>
+notice
 [ENDBLOCK]
-<x18><x65><x59><x44><x00><x80></color>を取得しました。
+<TAG_007><S03><turquoise><x19><x71><x49><x24><x80></color>가
+[ENDBLOCK]
+파티에서 빠졌습니다.
+[ENDBLOCK]
+<x18><x65><x59><x14><x00><x80><x18><x65><x59><x18><x00><x80>
+[ENDBLOCK]
+notice
+[ENDBLOCK]
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x48><x98><x80>
+[ENDBLOCK]
+<x18><x65><x59><x44><x00><x80></color>를 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>들은
 [ENDBLOCK]
-<turquoise>交易称号
+<turquoise>거래 칭호
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>들은
 [ENDBLOCK]
-<turquoise>温泉称号
+<turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>들은
 [ENDBLOCK]
-<turquoise>自由称号
+<turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ナチュレンジャー
+칭호：<turquoise>내추럴레인저
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>들은
 [ENDBLOCK]
-称号：<turquoise>ダッシュシリーズ
+칭호：<turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>들은
 [ENDBLOCK]
-<turquoise>最強の称号
+<turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>たちは
+<x19><x69><x49><x38><x80>들은
 [ENDBLOCK]
-<turquoise>クイズ称号
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x49><x38><x80>は
+<x19><x69><x49><x38><x80>는
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -973,72 +973,72 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>は
-すでに持っています。
+<x1A><x20><x72><x0C><x98><x80>는
+이미 가지고 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDとゲームパスワードを発行します。
-このIDとパスワードを連動ウェブサイトで
-入力する事で、デスティニーの世界が
-さらに広がります。
+<TAG_007>연동 ID와 게임 패스워드를 발급합니다.
+이 ID와 패스워드를 연동 웹사이트에
+입력하면, 데스티니의 세계가
+더욱 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>詳しくは下記のURLでご確認ください。
+<TAG_007>자세한 내용은 아래의 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>です。
+<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>입니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ゲーム中のイベントやミニゲームを
-クリアすると連動IDとゲームパスワードが
-発行される事があります。
+<TAG_007>게임 중의 이벤트나 미니게임을
+클리어하면 연동 ID와 게임 패스워드가
+발급될 수 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>この連動IDとゲームパスワードを
-ウェブサイトで入力する事でデスティニー
-の世界がさらに広がります。
+<TAG_007>이 연동 ID와 게임 패스워드를
+웹사이트에 입력하면 데스티니
+의 세계가 더욱 넓어집니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ウェブサイトで入力する
-連動IDとゲームパスワードを忘れてしまった場合は
-フィッツガルドにある旅人の小屋で
-確認する事ができます。
+<TAG_007>웹사이트에 입력할
+연동 ID와 게임 패스워드를 잊어버린 경우는
+피츠가르드에 있는 여행자의 작은 집에서
+확인할 수 있습니다.
 [ENDBLOCK]
-外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-設定がなされません！（tod=<TAG_059>）
+설정이 되어 있지 않습니다！（tod=<TAG_059>）
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-装置は起動していない。
+장치는 작동하지 않고 있습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-ワープ装置が起動しました。
+워프 장치가 작동했습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1046,76 +1046,76 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x49><x24><x80>のソーディアンデバイスが
-使用可能になりました。
+<TAG_007><x19><x71><x49><x24><x80>의 소디언 장치가
+사용 가능해졌습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「称号の説明」
-称号とはキャラクターにセットする事の出来る、
-キャラクターパラメータのひとつです。
-具体的なセット方法は次の通りです。
+<TAG_007>「칭호의 설명」
+칭호란 캐릭터에 설정할 수 있는,
+캐릭터 파라미터 중 하나입니다.
+구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>メインメニューを開いた後、キャラクターの
-ステータスを表示します。
-その画面のまま<Square_ani>を押すと、キャラクターの
-ステータス表示を切り替える事が出来ます。
+<TAG_007>메인 메뉴를 연 후, 캐릭터의
+상태를 표시합니다.
+그 화면에서<Square_ani>를 누르면, 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ステータスの一番上に、「称号」と書かれた
-ページがあります。その画面で<Triangle_ani>を押すと、
-取得した称号を切り替える事が出来ます。
+<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
+페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
+획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>称号の使い道には、二通りあります。
-ひとつ目は……
-「称号をセットして、街人に話し掛けよう」
+<TAG_007>칭호의 사용법에는, 두 가지가 있습니다.
+첫 번째는…
+「칭호를 설정하고, 마을 사람에게 이야기하자」
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>街人の中には、称号をセットして話し掛ける事で、
-あなたに興味を持つ人がいます。街人に何度か
-話し掛けた際、不思議な言動をする事があります。
-その時は、持っている称号をセットし直してから、
-もう一度話し掛けてみましょう。
+<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기하면,
+당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 여러 번
+이야기했을 때, 신비로운 행동을 할 수 있습니다.
+그때는, 가지고 있는 칭호를 다시 설정한 후,
+다시 이야기해 보세요.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>ヒント：街人に話し掛けた際、プレイヤーの
-頭の上に「？」が出る事があります。
-その時は、街人のセリフと関連しそうな
-称号をセットして、再度、話し掛けてみましょう。
-何か嬉しい事が起こるかもしれません。
+<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
+머리 위에 「？」가 나올 수 있습니다.
+그때는, 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 이야기해 보세요.
+뭔가 기쁜 일이 일어날지도 모릅니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>使い道のふたつ目は……
-「ステータス画面をかっこ良くしよう」
-集めた称号の中で、もし気に入ったものがあれば、
-セットしてステータス画面をかっこ良く演出しましょう。
+<TAG_007>두 번째 사용법은…
+「상태 화면을 멋지게 꾸미자」
+모은 칭호 중에서, 혹시 마음에 드는 것이 있다면,
+설정하여 상태 화면을 멋지게 연출합시다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「石蹴り遊び」とは、
-フィールドにある石を蹴って、
-特定の条件をクリアする遊びです。
+<TAG_007>「돌 차기 놀이」란,
+필드에 있는 돌을 차서,
+특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>基本的なルールを説明します。
-１：街の外にある特定の石を蹴ると、
-		ゲームスタートになります。
-２：戦闘は、石蹴り遊びのクリア条件に
-		影響しません。
-３：街やダンジョンを出入りすると、
-		石は元の場所に戻ります。
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 룰을 설명합니다.
+1：마을 밖에 있는 특정 돌을 차면,
+		게임이 시작됩니다.
+2：전투는 돌 차기 놀이의 클리어 조건에
+		영향을 미치지 않습니다.
+3：마을이나 던전을 출입하면,
+		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
@@ -1130,36 +1130,36 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-定期船に乗りますか？
+정기선에 탑니다か？
 [ENDBLOCK]
-黒十字艦隊でお送りしましょうか？
+검은 십자 함대에서 모시겠습니다か？
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x4C><x00><x80>
-はい
-いいえ
+네
+아니요
 [ENDBLOCK]
-ダリルシェイド港
+다릴쉐이드 항구
 
 [ENDBLOCK]
-チェリク港
+체리크 항구
 
 [ENDBLOCK]
-ノイシュタット港
+노이슈타트 항구
 
 [ENDBLOCK]
-シデン港
+시덴 항구
 
 [ENDBLOCK]
-モリュウ港
+모리유 항구
 
 [ENDBLOCK]
-トウケイ港
+토우케이 항구
 
 [ENDBLOCK]
-スノーフリア港
+스노우플리아 항구
 
 [ENDBLOCK]
-<TAG_007>どちらに行きますか？
+<TAG_007>어디로 가시겠습니까？
 <x18><x66><x50><x2C><x00><x80><x18><x66><x50><x30><x00><x80><x18><x66><x50><x34><x00><x80><x18><x66><x50><x38><x00><x80><x18><x66><x50><x3C><x00><x80><x18><x66><x50><x40><x00><x80>
 [ENDBLOCK]
 
