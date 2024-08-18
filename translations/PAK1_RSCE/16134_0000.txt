@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-先へ進もう。早くヒューゴを止めないと。
+앞으로 나아가자. 빨리 휴고를 막지 않으면.
 [ENDBLOCK]

@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-集積レンズ砲の所へ行こう。
+집속 렌즈포로 가자.
 [ENDBLOCK]

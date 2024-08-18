@@ -1,5 +1,5 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -7,18 +7,17 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 …………
 [ENDBLOCK]
-<Johnny>さん、しっかりしてください。
+<Johnny>씨, 정신 차리세요.
 [ENDBLOCK]
-ライフボトルを使いましょう。
+라이프 보틀을 사용합시다.
 [ENDBLOCK]
-そうだ、励ましの歌を歌おう。
+맞아, 격려의 노래를 부르자.
 [ENDBLOCK]
-がんばれ～♪	がんばれ～♪
+힘내세요～♪	힘내세요～♪
 [ENDBLOCK]
-<Johnny>さん～♪
+<Johnny>씨～♪
 [ENDBLOCK]
-誰を励ますってのよ、もう！
-<Johnny>に聞こえるわけないでしょ。
+누구를 격려하자는 거야, 정말로! <Johnny>에게 들릴 리가 없잖아.
 [ENDBLOCK]
-治療の邪魔だからそこどきなさい！
+치료를 방해하니까 거기 비켜주세요!
 [ENDBLOCK]

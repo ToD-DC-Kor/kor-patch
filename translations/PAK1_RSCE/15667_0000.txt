@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-目指すのは北の門よ。ここじゃないわ。
+목표는 북쪽 문이야. 여기서는 안 돼.
 [ENDBLOCK]

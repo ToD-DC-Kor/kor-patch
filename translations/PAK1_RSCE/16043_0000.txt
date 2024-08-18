@@ -1,26 +1,25 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-あの、皆さんは好きな人がいますか？
+저, 여러분은 좋아하는 사람이 있나요？
 [ENDBLOCK]
-私にはダリスがいるからな。
-<Chelsea>は<Woodrow>だろう？
+나는 다리스가 있으니까. <Chelsea>는 <Woodrow>겠지？
 [ENDBLOCK]
-もちろんです♪
+물론입니다♪
 [ENDBLOCK]
-<Philia>さんと<Rutee>さんは？
+<Philia> 씨와 <Rutee> 씨는요？
 [ENDBLOCK]
-わ、私はそのような方は……
+우, 저는 그런 분은……
 [ENDBLOCK]
-そ、そうよ、何よいきなり。
+그, 그렇죠, 갑자기 뭐야.
 [ENDBLOCK]
-おふたりはまだお子さまみたいですね。
+두 분은 아직 어린애 같네요.
 [ENDBLOCK]
-いわれてるわよ。お子様。
+말하고 있잖아요. 어린애.
 [ENDBLOCK]
-うるさいわね！
+시끄럽네요！
 [ENDBLOCK]

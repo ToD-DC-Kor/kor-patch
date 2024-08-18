@@ -1,21 +1,21 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-ううっ。
+으으.
 [ENDBLOCK]
-どうしたんですか？	<Woodrow>さん。
+무슨 일이에요? 	<Woodrow>씨.
 [ENDBLOCK]
-今、急に寒気を感じたような……
-たぶん気のせいだろうが。
+방금 갑자기 소름이 돋는 것 같은……
+아마 기분 탓일 거야.
 [ENDBLOCK]
-残念。勘付かれたわ。
+안타깝군요. 눈치채였네요.
 [ENDBLOCK]
-<Chelsea>！	どうして弓を構えて、
-<Woodrow>さんの背後に立ってるんだ？
+<Chelsea>! 	왜 활을 겨누고,
+<Woodrow>씨의 뒤에 서 있는 거야?
 [ENDBLOCK]
-だからやめさせろと言っている。
+그러니 그만하라고 말하고 있는 거야.
 [ENDBLOCK]

@@ -1,11 +1,11 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-あれ？	まだ開かない。
+어라？	아직 열리지 않네.
 [ENDBLOCK]
-もっとエネルギーを充てんするのだ。
+좀 더 에너지를 주입해야 해.
 [ENDBLOCK]

@@ -1,10 +1,10 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-レイノルズの研究室は、
-城の中だ。
+레이놀즈의 연구실은,
+성 안에 있다.
 [ENDBLOCK]

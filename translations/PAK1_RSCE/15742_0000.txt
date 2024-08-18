@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-宿屋へ向かえ。そこで夜を待つのだ。
+여관으로 가라. 거기서 밤을 기다리는 것이다.
 [ENDBLOCK]

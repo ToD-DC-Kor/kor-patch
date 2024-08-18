@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-まずはモリュウ領の街へ行かないとな。
+우선 모리유 영지의 마을로 가야겠다.
 [ENDBLOCK]

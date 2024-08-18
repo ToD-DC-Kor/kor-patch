@@ -1,10 +1,10 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-洞窟を抜けたら
-モリュウ領を探すぞ。
+동굴을 지나면
+모리유 영지를 찾아야지.
 [ENDBLOCK]

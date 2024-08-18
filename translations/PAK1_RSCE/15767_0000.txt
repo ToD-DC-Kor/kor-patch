@@ -1,12 +1,12 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-街の大通りを北へ行った
-突き当りが闘技場の入り口だ。
+도시의 대로를 북쪽으로 갔다
+막다른 곳이 투기장의 입구다.
 [ENDBLOCK]
-そこに<Kongman>がいるはずだ。
+거기에 <Kongman>이 있을 것이다.
 [ENDBLOCK]

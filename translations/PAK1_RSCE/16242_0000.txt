@@ -1,13 +1,13 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-喉渇いたわね。
+목이 마르네요.
 [ENDBLOCK]
-おまえは、よく喋るからな。
+너는, 잘 말하니까.
 [ENDBLOCK]
-これでもお飲みになりますか？
+이것이라도 드시겠습니까？
 [ENDBLOCK]

@@ -1,5 +1,5 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -7,14 +7,14 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 …………
 [ENDBLOCK]
-<Chelsea>を回復させなければ。
-ライフボトルを使おう。
+<Chelsea>를 회복시켜야 해.
+라이프 보틀을 사용하자.
 [ENDBLOCK]
-そうですね。
+그렇군요.
 [ENDBLOCK]
-私がついていながら……
-こんなことになってすまない。
+내가 함께하고 있는데……
+이런 일이 생겨서 미안해.
 [ENDBLOCK]
-<Woodrow>が悪いわけではない。
-自分を責めるな。
+<Woodrow>가 나쁜 게 아니야.
+너 자신을 탓하지 마.
 [ENDBLOCK]

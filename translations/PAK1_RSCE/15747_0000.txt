@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-通路の先へ進むんだ。
+통로의 끝으로 나아가라.
 [ENDBLOCK]

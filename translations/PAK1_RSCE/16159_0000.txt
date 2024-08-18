@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-次の目的地はここから西だな。
+다음 목적지는 여기에서 서쪽이다.
 [ENDBLOCK]

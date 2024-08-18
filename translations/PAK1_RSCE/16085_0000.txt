@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-ミクトランに神速の一矢を見舞います！
+믹트란에게 신속한 일격을 가합니다！
 [ENDBLOCK]

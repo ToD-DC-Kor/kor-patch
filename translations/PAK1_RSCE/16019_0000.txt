@@ -1,11 +1,11 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-ダリルシェイドはクレスタの西だったな。
+다릴쉐이드는 크레스타의 서쪽이었지.
 [ENDBLOCK]
-急いで戻ろう。
+서둘러 돌아가자.
 [ENDBLOCK]

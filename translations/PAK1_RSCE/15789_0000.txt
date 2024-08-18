@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-まずは街へ行くぞ。そこで情報を集める。
+우선 도시에 가겠다. 거기서 정보를 모으자.
 [ENDBLOCK]

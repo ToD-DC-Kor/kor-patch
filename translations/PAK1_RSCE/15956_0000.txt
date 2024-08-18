@@ -1,22 +1,22 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-よおし、また勝ったぞ！
+좋아, 또 이겼다!
 [ENDBLOCK]
-いい感じじゃない、<Stahn>。
-その調子で次も頼むわね。
+괜찮은데, <Stahn>.
+그대로 다음도 부탁해.
 [ENDBLOCK]
-ああ、任せろ！
+응, 맡겨!
 [ENDBLOCK]
 …………
 [ENDBLOCK]
-<Philia>君、どうかしたのか？
+<Philia>군, 무슨 일 있어?
 [ENDBLOCK]
-いえ、なんでもありません。
+아니, 아무것도 아니야.
 [ENDBLOCK]
 ……？
 [ENDBLOCK]

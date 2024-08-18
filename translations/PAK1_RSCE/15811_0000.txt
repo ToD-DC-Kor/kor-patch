@@ -1,12 +1,12 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-私たちが今頼れるのは
-あの<Johnny>さんという方だけです。
+우리가 지금 의지할 수 있는 건
+그 <Johnny>라는 분뿐입니다.
 [ENDBLOCK]
-詳しく話を聞いてみましょう。
+자세히 이야기를 들어봅시다.
 [ENDBLOCK]

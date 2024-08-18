@@ -1,36 +1,36 @@
 
-おまけ
+추가
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-寒い……寒すぎる……
+춥다……너무 춥다……
 [ENDBLOCK]
-ははは……フィッツガルドで育った<Stahn>君には、
-ファンダリアの気候は厳しいかな？
+하하하……피츠갈드에서 자란 <Stahn>군에게는,
+판다리아의 기후가 혹독할까?
 [ENDBLOCK]
-<Woodrow>さん、
-よくけろっとしてられますね。
+<Woodrow>님,
+잘 지내고 계시네요.
 [ENDBLOCK]
-この国で暮らせば、自然と寒さに強くなる。
-今日は暖かいくらいだよ。
+이 나라에서 살면, 자연스럽게 추위에 강해진다.
+오늘은 따뜻한 편이다.
 [ENDBLOCK]
-……信じられない……
+……믿을 수가 없어……
 [ENDBLOCK]
-い
+이
 [ENDBLOCK]
-ろ
+로
 [ENDBLOCK]
-<S13>へ……
+<S13>로……
 [ENDBLOCK]
-は
+하
 [ENDBLOCK]
-に
+니
 [ENDBLOCK]
-ほ
+호
 [ENDBLOCK]
-<S11>へっくしょ！<S15>
+<S11>헉!<S15>
 [ENDBLOCK]
-へ
+에
 [ENDBLOCK]

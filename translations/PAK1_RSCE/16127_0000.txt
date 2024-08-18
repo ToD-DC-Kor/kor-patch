@@ -1,24 +1,24 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-た～ねを植えて～♪
+씨앗을 심고～♪
 [ENDBLOCK]
-み～ずをまいたら～♪
+물도 주면～♪
 [ENDBLOCK]
-め～が出て実がなった～♪
+싹이 나고 열매가 열렸네～♪
 [ENDBLOCK]
-ご魁嫌だね、<Chelsea>。
+고마워, <Chelsea>.
 [ENDBLOCK]
-種を育てるのって、結構面白いですね。
-役に立つ物も収穫できるし、一石二鳥です。
+씨앗을 기르는 건 꽤 재미있네요.
+유용한 것들도 수확할 수 있고, 일석이조입니다.
 [ENDBLOCK]
-<Chelsea>が楽しそうで良かった。
+<Chelsea>가 즐거워 보여서 다행이야.
 [ENDBLOCK]
-これからもその調子で頼むよ。
+앞으로도 그 기세로 부탁해.
 [ENDBLOCK]
-はい！
+네! 
 [ENDBLOCK]

@@ -1,21 +1,21 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Stahn>、あんた<Philia>が石のとき、
-変な事しなかったでしょうね？
+<Stahn> 너가 <Philia>가 돌이 되었을 때,
+이상한 짓을 하지 않았겠지?
 [ENDBLOCK]
-ん？	変な事ってなんだ？
+응？	이상한 짓이 뭐야？
 [ENDBLOCK]
-あ、いや……それはその……あ、ほら……
+아, 아니…… 그건 그…… 아, 봐……
 [ENDBLOCK]
-もう……何言わせる気よ！
+이제…… 뭘 말하게 하려는 거야！
 [ENDBLOCK]
-おい、待てよ<Rutee>！
-変なことって何だ？
+야, 잠깐만<Rutee>！
+이상한 일이라는 게 뭐야？
 [ENDBLOCK]
-神よ……
+신이여……
 [ENDBLOCK]

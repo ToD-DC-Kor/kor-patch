@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-今、俺がやるべきなのは……
+지금 내가 해야 할 것은……
 [ENDBLOCK]

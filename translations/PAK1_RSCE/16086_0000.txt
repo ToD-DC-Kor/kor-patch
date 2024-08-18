@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-ミクトランをぶっ倒すのは、俺様だぜ！
+믹트란을 때려잡는 건, 나다! 
 [ENDBLOCK]

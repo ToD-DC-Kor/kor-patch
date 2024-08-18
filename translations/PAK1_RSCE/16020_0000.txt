@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-街をモンスターから守るんだ！
+마을을 몬스터로부터 지켜야 해!
 [ENDBLOCK]

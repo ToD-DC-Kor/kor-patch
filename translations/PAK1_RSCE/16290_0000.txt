@@ -1,10 +1,10 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-新しい任務だ。
-陛下のもとに向かおう。
+새로운 임무다.
+폐하에게로 향하자.
 [ENDBLOCK]

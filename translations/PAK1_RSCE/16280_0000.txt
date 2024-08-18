@@ -1,13 +1,13 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Stahn>と<Rutee>を
-あのままにはしておけませんね。
+<Stahn>과<Rutee>를
+그대로 두고 볼 수는 없군요.
 [ENDBLOCK]
-シデン領に戻って、ロープを
-手に入れるぞ。
+시덴 영지로 돌아가서, 로프를
+손에 넣겠습니다.
 [ENDBLOCK]

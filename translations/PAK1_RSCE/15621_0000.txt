@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-早く家の中に入ろう。
+빨리 집 안으로 들어가자.
 [ENDBLOCK]

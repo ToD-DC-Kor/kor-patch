@@ -1,25 +1,25 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Philia>の夢ってなんだ？
+<Philia>의 꿈은 뭐지?
 [ENDBLOCK]
-その話、俺様も混ぜてもらうぜえ。
+그 이야기, 나도 섞어줘.
 [ENDBLOCK]
-そうですね……私の場合は……
+그렇군요…… 제 경우는……
 [ENDBLOCK]
-なんだなんだ？
+뭐야 뭐야?
 [ENDBLOCK]
-<Philia>さんの夢とは？
+<Philia> 씨의 꿈은?
 [ENDBLOCK]
-うう……
-か、神の下で世界を平和に……
+으으……
+신의 아래에서 세계를 평화롭게……
 [ENDBLOCK]
-ちょっと、あんたたち、
-な～に、<Philia>をいじめてんのよ。
+잠깐, 당신들,
+뭐야, <Philia>를 괴롭히고 있잖아.
 [ENDBLOCK]
-怖がってるじゃない。
+무서워하고 있잖아.
 [ENDBLOCK]

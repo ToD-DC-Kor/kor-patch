@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-とにかく飛行竜に乗ろう！
+어쨌든 비행룡에 타자!
 [ENDBLOCK]

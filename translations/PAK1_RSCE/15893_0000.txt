@@ -1,19 +1,19 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Woodrow>、これからよろしくな！
-俺様は<Kongman>だ！
+<우드로우>、앞으로 잘 부탁해！
+나는 <마이티 콩맨>이다！
 [ENDBLOCK]
-こちらこそ。
+저야말로.
 [ENDBLOCK]
-<Woodrow>が王様なら、
-俺様はチャンピオンだ！
+<우드로우>가 왕이라면,
+나는 챔피언이다！
 [ENDBLOCK]
-似たようなもんだな、ガハハハハ！
+비슷한 거네, 하하하하！
 [ENDBLOCK]
-似てません！
+비슷하지 않아요！
 [ENDBLOCK]

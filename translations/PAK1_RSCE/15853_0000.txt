@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-街の様子を見に行くぞ。
+거리를 살펴보러 가자.
 [ENDBLOCK]

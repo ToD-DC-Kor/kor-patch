@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-街の外に用はなかったな。
+거리에 외출할 필요는 없었군.
 [ENDBLOCK]
