@@ -45,11 +45,18 @@
 
 다운로드는 [Releases 페이지](https://github.com/ToD-DC-Kor/kor-patch/releases)에서 확인. XDelta를 이용하여 원본 ISO에 패치.
 
-## 번역 기여
+## 기여
 
-GitHub Issue나 Pull Request를 통해 기여할 수 있습니다. [GitHub Pull Request 도움말](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), [GitHub Desktop 설치 도움말](https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/setting-up-github-desktop)
+모든 번역 파일을 공개하고 있기 때문에, GitHub Issue나 Pull Request를 통해 기여할 수 있습니다. [GitHub Pull Request 도움말](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), [GitHub Desktop 설치 도움말](https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/setting-up-github-desktop).
 
-번역 작업에 대한 것은 [CONTRIBUTING.md](./CONTRIBUTING.md)을 참고하세요.
+상세한 것은 [CONTRIBUTING.md](./CONTRIBUTING.md)을 참고하세요.
+
+다음과 같은 방법으로 프로젝트에 기여할 수 있습니다.
+
+- 게임 플레이 후 화면에 잘못 표기되는 번역 문자열 [이슈](https://github.com/ToD-DC-Kor/kor-patch/issues/new/choose) 제보
+- 번역 오류/교정 Pull Request(PR) 작성
+- 그 외 기여
+  - 이슈에서 [🐤 good first issue](https://github.com/ToD-DC-Kor/kor-patch/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%A4+good+first+issue%22) Label이 달린 항목을 클릭하여 도움이 필요한 이슈를 확인하고 기여해보세요.
 
 ## 제보
 
