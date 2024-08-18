@@ -41,7 +41,7 @@
 
 패치는 갱신이 있을 때마다 수시로 배포.
 
-다운로드는 Releases 페이지에서 확인. XDelta를 이용하여 원본 ISO에 패치.
+다운로드는 [Releases 페이지](https://github.com/ToD-DC-Kor/kor-patch/releases)에서 확인. XDelta를 이용하여 원본 ISO에 패치.
 
 ## 번역 기여
 
