@@ -1,5 +1,13 @@
 # 번역 기여
 
+## RSCE 번역 수정에 대해 Pull Request(PR) 작성하기
+
+1. GitHub Desktop 등을 사용하여 저장소를 로컬에 내려 받습니다.
+[GitHub Desktop 설치 도움말](https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/setting-up-github-desktop)
+2. [VS Code](https://code.visualstudio.com/download) 등의 도구를 사용하여 RSCE 파일을 수정합니다. (메모장을 사용하지 마세요.)
+3. 수정이 완료되면 GitHub Desktop 등을 사용하여 변경사항을 Commit으로 만들고 Push합니다.
+4. GitHub 웹에서 Pull Request(PR)를 생성합니다. [GitHub Pull Request 도움말](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), 
+
 ## RSCE 원문과 번역 비교하기
 
 ### Git에 익숙하지 않은 경우
@@ -22,11 +30,3 @@
 ### Git에 익숙한 경우
 
 `./translations/RSCE/` 디렉토리의 최초 커밋에 원본 파일이 포함되어 있습니다. 최초 커밋을 참조하여 원문과 번역을 비교하고 수정하면 됩니다.
-
-## RSCE 번역 수정에 대해 Pull Request(PR) 작성하기
-
-1. GitHub Desktop 등을 사용하여 저장소를 로컬에 내려 받습니다.
-[GitHub Desktop 설치 도움말](https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/setting-up-github-desktop)
-2. [VS Code](https://code.visualstudio.com/download) 등의 도구를 사용하여 RSCE 파일을 수정합니다. (메모장을 사용하지 마세요.)
-3. 수정이 완료되면 GitHub Desktop 등을 사용하여 변경사항을 Commit으로 만들고 Push합니다.
-4. GitHub 웹에서 Pull Request(PR)를 생성합니다. [GitHub Pull Request 도움말](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), 
