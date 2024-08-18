@@ -43,12 +43,17 @@
 
 다운로드는 Releases 페이지에서 확인. XDelta를 이용하여 원본 ISO에 패치.
 
-## 기여
+## 번역 기여
 
 GitHub Issue나 Pull Request를 통해 기여할 수 있습니다. [GitHub Pull Request 도움말](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), [GitHub Desktop 설치 도움말](https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/setting-up-github-desktop)
 
-- 문제 제보
-- 번역 교정/검수
+번역 작업에 대한 것은 [CONTRIBUTING.md](./CONTRIBUTING.md)을 참고하세요.
+
+## 제보
+
+제보는 이슈를 이용하세요.
+
+- 버그 제보, 번역 오류 제보: <https://github.com/ToD-DC-Kor/kor-patch/issues/new/choose>
 
 ## Tools
 
