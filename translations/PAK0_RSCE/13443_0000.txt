@@ -2,55 +2,55 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><S06><yellow>Lock-On !!
+<TAG_007><S06><yellow>록온 !!
 [ENDBLOCK]
-<S03><yellow>ロックオン数：<x17><x71><x46><xDC><x80>羽
+<S03><yellow>록온 수：<x17><x71><x46><xDC><x80>羽
 [ENDBLOCK]
-<S06>小石をスタート地点へ戻します。
-[ENDBLOCK]
-notice
-[ENDBLOCK]
-この大陸でのレンズレートが
-一段階アップしました。
+<S06>작은 돌을 시작地点으로 되돌립니다。
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-おめでとうございます。
-この大陸でのレンズレートが
-最大回数アップしました。
+이 대륙에서의 렌즈레이트가
+단계가 올라갔습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-この大陸でのレンズレートが
-三段階分アップしました。
+축하합니다。
+이 대륙에서의 렌즈레이트가
+최대 횟수로 올라갔습니다。
 [ENDBLOCK]
-<S03><yellow>『石蹴り』スタート!!
+notice
 [ENDBLOCK]
-<S03><yellow>『石蹴り』スタート!!
+이 대륙에서의 렌즈레이트가
+세 단계 올라갔습니다。
 [ENDBLOCK]
-<S03><yellow>『石蹴り』スタート!!
+<S03><yellow>『돌차기』 스타트!!
 [ENDBLOCK]
-<S03><yellow>『石蹴り』スタート!!
+<S03><yellow>『돌차기』 스타트!!
 [ENDBLOCK]
-<S03><yellow>ゴール!!(レンズレート最大値)
+<S03><yellow>『돌차기』 스타트!!
 [ENDBLOCK]
-<S03><yellow>レンズレートがＵＰしました!!
+<S03><yellow>『돌차기』 스타트!!
 [ENDBLOCK]
-<S03><yellow>『石蹴り』ゴール!!
+<S03><yellow>골!!(렌즈레이트 최대치)
 [ENDBLOCK]
-<S03><yellow>ゴール!!(レンズレート最大値)
+<S03><yellow>렌즈레이트가 UP했습니다!!
 [ENDBLOCK]
-<S03><yellow>レンズレートがＵＰしました!!
+<S03><yellow>『돌차기』 골!!
 [ENDBLOCK]
-<S03><yellow>『石蹴り』ゴール!!
+<S03><yellow>골!!(렌즈레이트 최대치)
 [ENDBLOCK]
-<S03><yellow>ゴール!!(レンズレート最大値)
+<S03><yellow>렌즈레이트가 UP했습니다!!
 [ENDBLOCK]
-<S03><yellow>レンズレートがＵＰしました!!
+<S03><yellow>『돌차기』 골!!
 [ENDBLOCK]
-<S03><yellow>ゴール!!(レンズレート最大値)
+<S03><yellow>골!!(렌즈레이트 최대치)
 [ENDBLOCK]
-<S03><yellow>レンズレートがＵＰしました!!
+<S03><yellow>렌즈레이트가 UP했습니다!!
+[ENDBLOCK]
+<S03><yellow>골!!(렌즈레이트 최대치)
+[ENDBLOCK]
+<S03><yellow>렌즈레이트가 UP했습니다!!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -58,158 +58,158 @@ notice
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>ダリルシェイドへ戻る
-中に入る
+<TAG_007>다릴쉐이드로 돌아가기
+안으로 들어가기
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>入りますか？
-はい
-いいえ
+<TAG_007>들어가시겠습니까？
+네
+아니요
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>入りますか？
-はい
-いいえ
+<TAG_007>들어가시겠습니까？
+네
+아니요
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>外殻へ行きますか？
-はい
-いいえ
+<TAG_007>외껍질로 가시겠습니까？
+네
+아니요
 [ENDBLOCK]
 道標
 [ENDBLOCK]
-南西：ハーメンツ
- 東 ：アルメイダ方面
- 南 ：ジェノス方面
+남서：하멘츠
+ 동 ：알메이다 방면
+ 남 ：제노스 방면
 [ENDBLOCK]
 道標
 [ENDBLOCK]
- 北 ：アルメイダ方面
-南西：ハーメンツ方面
-南東：ダリルシェイド方面
+ 북 ：알메이다 방면
+남서：하멘츠 방면
+남동：다릴쉐이드 방면
 [ENDBLOCK]
 道標
 [ENDBLOCK]
- 北 ：アルメイダ
- 南 ：ハーメンツ方面
-南東：ダリルシェイド方面
+ 북 ：알메이다
+ 남 ：하멘츠 방면
+남동：다릴쉐이드 방면
 [ENDBLOCK]
 道標
 [ENDBLOCK]
- 東 ：ダリルシェイド
- 西 ：ハーメンツ方面
- 南 ：クレスタ方面
- 北 ：アルメイダ方面
+ 동 ：다릴쉐이드
+ 서 ：하멘츠 방면
+ 남 ：클레스타 방면
+ 북 ：알메이다 방면
 [ENDBLOCK]
 道標
 [ENDBLOCK]
-北東：ダリルシェイド方面
-北西：アルメイダ・ハーメンツ方面
- 南 ：クレスタ方面
+북동：다릴쉐이드 방면
+북서：알메이다・하멘츠 방면
+ 남 ：클레스타 방면
 [ENDBLOCK]
 道標
 [ENDBLOCK]
- 東 ：クレスタ方面
- 西 ：ダリルシェイド方面
+ 동 ：클레스타 방면
+ 서 ：다릴쉐이드 방면
 [ENDBLOCK]
 道標
 [ENDBLOCK]
- 北 ：リーネ方面
- 南 ：ノイシュタット方面
+ 북 ：리네 방면
+ 남 ：노이슈타트 방면
 [ENDBLOCK]
 道標
 [ENDBLOCK]
- 西 ：旅人の小屋
+ 서쪽 ：여행자의 오두막
 [ENDBLOCK]
-道標
+길잡이
 [ENDBLOCK]
- 北 ：リーネ方面
-南東：ノイシュタット方面
+ 북쪽 ：리네 방향
+남동쪽：노이슈타트 방향
 [ENDBLOCK]
-道標
+길잡이
 [ENDBLOCK]
- 北 ：リーネ方面
-南東：ノイシュタット方面
+ 북쪽 ：리네 방향
+남동쪽：노이슈타트 방향
 [ENDBLOCK]
-道標
+길잡이
 [ENDBLOCK]
- 北 ：リーネ方面
- 南 ：ノイシュタット方面
- 西 ：フィッツガルド西海岸
+ 북쪽 ：리네 방향
+ 남쪽 ：노이슈타트 방향
+ 서쪽 ：피츠가르드 서해안
 [ENDBLOCK]
-道標
+길잡이
 [ENDBLOCK]
- 北 ：海底洞窟方面
- 南 ：モリュウ領方面
+ 북쪽 ：해저 동굴 방향
+ 남쪽 ：모리유 영역 방향
 [ENDBLOCK]
-道標
+길잡이
 [ENDBLOCK]
- 北 ：シデン領方面
- 南 ：海底洞窟方面
+ 북쪽 ：시덴 영역 방향
+ 남쪽 ：해저 동굴 방향
 [ENDBLOCK]
-道標
+길잡이
 [ENDBLOCK]
- 北 ：カルビオラ方面
- 南 ：チェリク方面
+ 북쪽 ：칼비올라 방향
+ 남쪽 ：체리크 방향
 [ENDBLOCK]
-道標
+길잡이
 [ENDBLOCK]
-北東：カルビオラ方面
- 南 ：ジャンクランド方面
+북동쪽：칼비올라 방향
+ 남쪽 ：잭랜드 방향
 [ENDBLOCK]
-道標
+길잡이
 [ENDBLOCK]
-北西：ジャンクランド方面
- 東 ：カルビオラ方面
+북서쪽：잭랜드 방향
+ 동쪽 ：칼비올라 방향
 [ENDBLOCK]
-道標
+길잡이
 [ENDBLOCK]
-北東：ハイデルベルグ方面
-北西：ジェノス方面
-南東：サイリル方面
+북동쪽：하이델베르그 방향
+북서쪽：제노스 방향
+남동쪽：사이릴 방향
 [ENDBLOCK]
-道標
+길잡이
 [ENDBLOCK]
- 北 ：サイリル
-北西：ハイデルベルグ・ジェノス方面
+ 북쪽 ：사이릴
+북서쪽：하이델베르그・제노스 방향
 [ENDBLOCK]
-道標
+길잡이
 [ENDBLOCK]
- 北 ：ハイデルベルグ・ジェノス方面
-北東：サイリル方面
+ 북쪽 ：하이델베르그・제노스 방향
+북동쪽：사이릴 방향
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Stahn>	「左から一隻来るぞ！」
+<TAG_009><Stahn>	「왼쪽에서 한 척 온다！」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009>船長	「了解、回避します！」
+<TAG_009>선장	「알겠습니다, 회피하겠습니다！」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Lion>	「右舷に注意しろ、二隻いる！」
+<TAG_009><Lion>	「오른쪽에 주의해, 두 척 있다！」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009>船長	「任せてください！」
+<TAG_009>선장	「맡겨 주세요！」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xD0><x00><x00><x40><TAG_009><Kongman>	「前方にでかい船がいるぞ！あれが旗艦だ。間違いねえ！」
+<x06><xD0><x00><x00><x40><TAG_009><Kongman>	「앞쪽에 큰 배가 있다! 저게 기함이다. 틀림없어！」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Stahn>	「よし、乗り込もう！」
+<TAG_009><Stahn>	「좋아, 타고 들어가자！」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xC0><x00><x00><x40><TAG_009><Dymlos>	「もたもたしていると増援が来る。目指すは敵将ただひとりだ。」
+<x06><xC0><x00><x00><x40><TAG_009><Dymlos>	「지체하고 있으면 증원이 온다. 목표는 적장 단 한 명이다。」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<Stahn><TAG_009>	「待ってろ、<Greybum>！」
+<Stahn><TAG_009>	「기다려, <Greybum>！」
 [ENDBLOCK]

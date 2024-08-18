@@ -4,7 +4,7 @@
 [ENDBLOCK]
 <TAG_007><S06><yellow>Lock-On !!
 [ENDBLOCK]
-<S03><yellow>ロックオン数：<x17><x71><x46><xDC><x80>羽
+<S03><yellow>로크온 수：<x17><x71><x46><xDC><x80>羽
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -12,15 +12,15 @@
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>入りますか？
-はい
-いいえ
+<TAG_007>들어가시겠습니까？
+네
+아니요
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>地上に降りますか？
-はい
-いいえ
+<TAG_007>지상에 내려가시겠습니까？
+네
+아니요
 [ENDBLOCK]
 Hole Select
 [ENDBLOCK]
@@ -55,7 +55,7 @@ Hole 05 (Par <x17><x71><x48><x48><x80>)
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><TAG_001><yellow>Start !!
+<TAG_007><TAG_001><yellow>시작 !!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -63,31 +63,31 @@ Hole 05 (Par <x17><x71><x48><x48><x80>)
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><x06><x80><x02><x00><x00><yellow>Under par!!
+<TAG_007><x06><x80><x02><x00><x00><yellow>언더 파!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>ホール１の賞品ＧＥＴ!!
+<TAG_007>홀 1의 상품 GET!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>ホール２の賞品ＧＥＴ!!
+<TAG_007>홀 2의 상품 GET!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>ホール３の賞品ＧＥＴ!!
+<TAG_007>홀 3의 상품 GET!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>ホール４の賞品ＧＥＴ!!
+<TAG_007>홀 4의 상품 GET!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>ホール５の賞品ＧＥＴ!!
+<TAG_007>홀 5의 상품 GET!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>選択できるホールが追加されました!!
+<TAG_007>선택할 수 있는 홀가 추가되었습니다!!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -99,15 +99,15 @@ notice
 [ENDBLOCK]
 Main Menu
 [ENDBLOCK]
-<TAG_007>プレイヤー選択
-立ち位置を変更する
-第１打からやり直す
-ホール選択に戻る
-ゲームを終了する
+<TAG_007>플레이어 선택
+위치를 변경하다
+1타부터 다시 시작하다
+홀 선택으로 돌아가다
+게임을 종료하다
 [ENDBLOCK]
 Select
 [ENDBLOCK]
-<TAG_007><x06><xC0><x00><x00><x40>Yard Player     
+<TAG_007><x06><xC0><x00><x00><x40>야드 플레이어     
 150 <Lilith>
 120 <Kongman>
  90 <Stahn>
@@ -120,18 +120,18 @@ Select
 [ENDBLOCK]
 Re-try
 [ENDBLOCK]
-<TAG_007>現在プレイしているホールを
-第１打からやり直しますか？
-はい
-いいえ
+<TAG_007>현재 플레이 중인 홀을
+1타부터 다시 시작하시겠습니까？
+네
+아니요
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>他に選択できるホールがありません。
+<TAG_007>다른 선택할 수 있는 홀이 없습니다.
 [ENDBLOCK]
-Exit
+종료
 [ENDBLOCK]
-<TAG_007>ミニゲームを終了しますか？
-はい
-いいえ
+<TAG_007>미니게임을 종료하시겠습니까?
+예
+아니오
 [ENDBLOCK]
