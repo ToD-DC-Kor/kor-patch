@@ -16,16 +16,20 @@
 ![item](./screenshots/item.png)
 ![weapon](./screenshots/weapon.png)
 ![skill](./screenshots/skill.png)
+![skit_subtitle](./screenshots/skit_subtitle.png)
 
 ### 상세
 
 추출된 모든 문자열에 대해서는 AI 기계 번역 완료
 
 - 시나리오 대사
-  - 추출: RSCE 100%, SLPS 90%+?, PAK 0%
+  - 추출: RSCE 100%, SLPS 90%+?
   - 검수: 0%
 - 전투 튜토리얼: 0%
-- 스킷: 0%
+- 스킷 자막: 99%
+  - 추출: PAK0 100%, PAK1 99%
+  - 검수: 0%
+- 스킷 제목: 0%
 - 영상 자막:
   - 추출: 99%? (불확실)
   - 검수: 0%
