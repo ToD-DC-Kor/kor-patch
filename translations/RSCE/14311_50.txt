@@ -518,7 +518,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 소년
 [ENDBLOCK]
 역시 <Woodrow> 폐하라면,
-뭔가 해 주실 거라고 생각했어![ENDBLOCK]소녀
+뭔가 해 주실 거라고 생각했어!
+[ENDBLOCK]
+소녀
 [ENDBLOCK]
 <Woodrow> 폐하, 
 멋있어서 정말 좋아!
@@ -577,7 +579,9 @@ notice
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
-전투에 참가할 수 있습니다.[ENDBLOCK]동행합니다.
+전투에 참가할 수 있습니다.
+[ENDBLOCK]
+동행합니다.
 [ENDBLOCK]
 파티에 복귀했습니다.
 [ENDBLOCK]
@@ -789,7 +793,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

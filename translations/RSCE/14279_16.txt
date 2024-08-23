@@ -57,7 +57,9 @@ y( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21>
 [ENDBLOCK]
 사이릴 병사
 [ENDBLOCK]
-<Dalis>대장 만세…구…[ENDBLOCK]사이릴 병사
+<Dalis>대장 만세…구…
+[ENDBLOCK]
+사이릴 병사
 [ENDBLOCK]
 으음…으음…
 [ENDBLOCK]
@@ -293,7 +295,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

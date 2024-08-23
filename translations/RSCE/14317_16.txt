@@ -60,7 +60,9 @@ n_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><
 오베론 직원
 [ENDBLOCK]
 여기는 오베론사의,
-판달리아 지부입니다.[ENDBLOCK]오베론 직원
+판달리아 지부입니다.
+[ENDBLOCK]
+오베론 직원
 [ENDBLOCK]
 설마 반란이 일어날 줄이야…
 세인가르드로 돌아가고 싶습니다.
@@ -117,7 +119,9 @@ notice
 [ENDBLOCK]
 동행합니다.
 [ENDBLOCK]
-파티에 복귀했습니다.[ENDBLOCK]<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
+파티에 복귀했습니다.
+[ENDBLOCK]
+<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -325,7 +329,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

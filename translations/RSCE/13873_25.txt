@@ -177,19 +177,24 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 각도(z) = <D_ANGLE_Z>
 
 [ENDBLOCK]
-빈[ENDBLOCK]
+빈
+[ENDBLOCK]
 <grey1>빈（존재하지 않습니다）</color>
 [ENDBLOCK]
-외피[ENDBLOCK]
+외피
+[ENDBLOCK]
 <grey1>외피（존재하지 않습니다）</color>
 [ENDBLOCK]
-구름 1[ENDBLOCK]
+구름 1
+[ENDBLOCK]
 <grey1>구름 1（존재하지 않습니다）</color>
 [ENDBLOCK]
-구름 2[ENDBLOCK]
+구름 2
+[ENDBLOCK]
 <grey1>구름 2（존재하지 않습니다）</color>
 [ENDBLOCK]
-객체 선택[ENDBLOCK]
+객체 선택
+[ENDBLOCK]
 <x18><x66><x1C><x00><x80>（<x17><x66><x10><x1B><x70><x08><xAB><x20><x8B><x80>）
 <TAG_052>（<x17><x66><x10><x1B><x70><x08><xAB><x21><x8B><x80>）
 <TAG_053>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x02><x8B><x80>）
@@ -199,7 +204,8 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <TAG_070>(<TAG_071>, <TAG_072> x <TAG_074> + <TAG_033>)
 
 [ENDBLOCK]
-상태 선택[ENDBLOCK]
+상태 선택
+[ENDBLOCK]
 좌표
 색 값
 확대율
@@ -209,11 +215,16 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <TAG_073>, <TAG_072>
 
 [ENDBLOCK]
-빈[ENDBLOCK]
-외피[ENDBLOCK]
-구름 1[ENDBLOCK]
-구름 2[ENDBLOCK]
-유효하지 않은 객체[ENDBLOCK]
+빈
+[ENDBLOCK]
+외피
+[ENDBLOCK]
+구름 1
+[ENDBLOCK]
+구름 2
+[ENDBLOCK]
+유효하지 않은 객체
+[ENDBLOCK]
 과거 좌표(x)→<TAG_078>
 
 [ENDBLOCK]

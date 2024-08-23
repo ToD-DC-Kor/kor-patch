@@ -315,10 +315,12 @@ notice
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]
-<Mary>양, 
-또 남편과 떨어져있네.[ENDBLOCK]아줌마
+<Mary>양,
+또 남편과 떨어져있네.
 [ENDBLOCK]
-<Mary>양의 경우, 
+아줌마
+[ENDBLOCK]
+<Mary>씨네,
 또 남편과 떨어져있네.
 [ENDBLOCK]
 아줌마
@@ -375,7 +377,9 @@ notice
 <Greybum>은 이 나라를 정복할 생각으로,
 우리를 이용한 거야.
 [ENDBLOCK]
-아저씨[ENDBLOCK]왕가와 화해했는데, 
+아저씨
+[ENDBLOCK]
+왕가와 화해했는데, 
 앞으로 어떻게 될 거야?
 [ENDBLOCK]
 아저씨
@@ -616,7 +620,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

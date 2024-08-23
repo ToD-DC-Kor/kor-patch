@@ -261,7 +261,9 @@ notice
 노인
 [ENDBLOCK]
 전하의 마음을, 이해합니다.
-굳이 아무것도 묻지는 않겠습니다.[ENDBLOCK]노인
+굳이 아무것도 묻지는 않겠습니다.
+[ENDBLOCK]
+노인
 [ENDBLOCK]
 왕은 나라의 버팀목. 백성에게는, 
 필수불가결한 존재란다.
@@ -320,7 +322,9 @@ notice
 [ENDBLOCK]
 역시 밖에서 노는 게 제일이야.
 [ENDBLOCK]
-아이[ENDBLOCK]밖에서 놀고 있어도 재미없어.
+아이
+[ENDBLOCK]
+밖에서 놀고 있어도 재미없어.
 집에 돌아갈까?
 [ENDBLOCK]
 아이
@@ -381,7 +385,9 @@ notice
 남자
 [ENDBLOCK]
 가족에게도 눈 풍경을 보여주고 싶어.
-분명 놀랄 거야…[ENDBLOCK]남자
+분명 놀랄 거야…
+[ENDBLOCK]
+남자
 [ENDBLOCK]
 가능하다면 고향으로 돌아가고 싶습니다.
 [ENDBLOCK]
@@ -667,7 +673,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

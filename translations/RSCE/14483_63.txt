@@ -187,7 +187,9 @@ R키는 손에 넣은 것 같군.
 <Philia>
 [ENDBLOCK]
 수고하셨습니다, <Stahn>씨.
-<Kongman>씨.[ENDBLOCK]<Kongman>
+<Kongman>씨.
+[ENDBLOCK]
+<Kongman>
 [ENDBLOCK]
 이 정도야! 내게 맡기면,
 이런 건 아무것도 아니야!
@@ -448,7 +450,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

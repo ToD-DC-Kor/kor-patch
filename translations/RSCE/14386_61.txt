@@ -113,7 +113,9 @@ select
 촌장의 딸
 [ENDBLOCK]
 나도 언제까지나
-여자아이 기분으로는 안 되겠네.[ENDBLOCK]촌장의 딸
+여자아이 기분으로는 안 되겠네.
+[ENDBLOCK]
+촌장의 딸
 [ENDBLOCK]
 그럼 <Stahn> 너, 
 조심해서 다녀와.
@@ -173,7 +175,9 @@ select
 [ENDBLOCK]
 그럼, 아저씨는…
 [ENDBLOCK]
-마기 아줌마[ENDBLOCK]괜찮아, 나는 알아.
+마기 아줌마
+[ENDBLOCK]
+괜찮아, 나는 알아.
 그 사람은 살아있어.
 [ENDBLOCK]
 마기 아줌마
@@ -207,7 +211,8 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-음, 곧 만날 수 있을 것 같기도 하고.
+음, 곧 만날 수 있을 것
+같기도 하고.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -288,7 +293,9 @@ select
 젊은 남자
 [ENDBLOCK]
 소문은 들었어.
-대활약이래![ENDBLOCK]육고기를 파는 상인
+대활약이래!
+[ENDBLOCK]
+육고기를 파는 상인
 [ENDBLOCK]
 …<Lilith>양?
 
@@ -347,7 +354,9 @@ select
 [ENDBLOCK]
 육고기를 파는 상인
 [ENDBLOCK]
-다음은, 네 번째다.[ENDBLOCK]육고기를 파는 상인
+다음은, 네 번째다.
+[ENDBLOCK]
+육고기를 파는 상인
 [ENDBLOCK]
 다음은, 다섯 번째다.
 [ENDBLOCK]
@@ -620,7 +629,9 @@ select
 소년
 [ENDBLOCK]
 이봐, 이봐,
-술래잡기 하자![ENDBLOCK]소년
+술래잡기 하자!
+[ENDBLOCK]
+소년
 [ENDBLOCK]
 <Stahn> 형, 놀자!
 술래잡기 하자!
@@ -677,7 +688,9 @@ select
 <Lilith> 같은 걸
 데리고 있구나.
 [ENDBLOCK]
-과일을 파는 상인[ENDBLOCK]음, <Lilith>가,
+과일을 파는 상인
+[ENDBLOCK]
+음, <Lilith>가,
 남자친구를 데리고 있네!?
 [ENDBLOCK]
 과일을 파는 상인
@@ -737,7 +750,9 @@ select
 마기 아줌마
 [ENDBLOCK]
 자, … 좋고… 
-응? <Stahn> 아닌가.[ENDBLOCK]마기 아줌마
+응? <Stahn> 아닌가.
+[ENDBLOCK]
+마기 아줌마
 [ENDBLOCK]
 열심히 하라고? 
 이 정도는, 쉬운 일이야!
@@ -905,7 +920,9 @@ select
 <Bacchus>
 [ENDBLOCK]
 너가 있다면, <Lilith>ちゃん도,
-조금은 안심할 수 있을 거라 생각하는데.[ENDBLOCK]<Bacchus>
+조금은 안심할 수 있을 거라 생각하는데.
+[ENDBLOCK]
+<Bacchus>
 [ENDBLOCK]
 <Lilith>ちゃん도,
 너와 함께라면 안심이야.
@@ -957,7 +974,8 @@ event_happen -> <TAG_031>, talk <x17><x69><x48><xE0><x80>, cond<TAG_032>
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Lilith>짱, 정말 요리를 잘하거든.
+<Lilith>짱,
+정말 요리를 잘하거든.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -993,7 +1011,8 @@ event_happen -> <TAG_031>, talk <x17><x69><x48><xE0><x80>, cond<TAG_032>
 [ENDBLOCK]
 촌장 딸
 [ENDBLOCK]
-킥킥. <Stahn>군, 재밌어 보이네.
+킥킥. <Stahn>군,
+재밌어 보이네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

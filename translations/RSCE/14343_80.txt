@@ -67,7 +67,9 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 <Darzen>
 [ENDBLOCK]
 그리고, 어머니는 그보다 먼저
-세상을 떠나셨습니다.[ENDBLOCK]<Darzen>
+세상을 떠나셨습니다.
+[ENDBLOCK]
+<Darzen>
 [ENDBLOCK]
 어머니를 잃었을 당시, 전하도 아직 어리셔서,
 방에 며칠 동안 틀어박혀 있었어요.
@@ -443,7 +445,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

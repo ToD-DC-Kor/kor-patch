@@ -73,7 +73,9 @@ select
 <Chelsea>
 [ENDBLOCK]
 이 복장이 애 같다고 말한다면,
-너도 애가 아니냐![ENDBLOCK]소년
+너도 애가 아니냐!
+[ENDBLOCK]
+소년
 [ENDBLOCK]
 나는 어른이라고
 한 마디도 안 했어.
@@ -129,7 +131,9 @@ select
 내게 더 힘이 있다면,
 팬다리아를 지켜낼 수 있을 텐데.
 [ENDBLOCK]
-소년[ENDBLOCK]안녕하세요!
+소년
+[ENDBLOCK]
+안녕하세요!
 렌즈는 이미 모아두었습니다!
 [ENDBLOCK]
 소년
@@ -182,9 +186,11 @@ select
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-붐![ENDBLOCK]남자
+쾅!
 [ENDBLOCK]
-…어이! 이리 와, 
+남자
+[ENDBLOCK]
+…으와! 이봐 이봐,
 장난치면 안 돼.
 [ENDBLOCK]
 소녀
@@ -194,11 +200,11 @@ select
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-붐!
+쾅!
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-…어이! 이리 와, 
+…으와! 이봐 이봐,
 장난치면 안 돼.
 [ENDBLOCK]
 소녀
@@ -238,7 +244,9 @@ select
 <Greybum>에게도 굴복하지 않았던 우리다.
 이번에도 절대 지지 않을 것이다.
 [ENDBLOCK]
-여성[ENDBLOCK]하, 전하! 제 같은 자에게, 
+여성
+[ENDBLOCK]
+하, 전하! 제 같은 자에게, 
 목소리를 걸어주실 줄이야…
 [ENDBLOCK]
 여성
@@ -299,7 +307,9 @@ select
 할아버지
 [ENDBLOCK]
 아, 저기… 이것은 도대체, 
-무슨 일입니까?[ENDBLOCK]할아버지
+무슨 일입니까?
+[ENDBLOCK]
+할아버지
 [ENDBLOCK]
 다음은 저 번개가,
 마을을 직격할지도 모릅니다…
@@ -595,7 +605,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

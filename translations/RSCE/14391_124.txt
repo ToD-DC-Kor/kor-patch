@@ -1029,7 +1029,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -1103,7 +1103,9 @@ notice
 [ENDBLOCK]
 나도!?
 [ENDBLOCK]
-청년[ENDBLOCK]나는 상관없어. <Bacchus>겠지?
+청년
+[ENDBLOCK]
+나는 상관없어. <Bacchus>겠지?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1154,7 +1156,9 @@ notice
 남자아이
 [ENDBLOCK]
 그럼, 도대체 누가 
-목욕탕을 엿본 거야?[ENDBLOCK]<Bacchus>
+목욕탕을 엿본 거야?
+[ENDBLOCK]
+<Bacchus>
 [ENDBLOCK]
 목욕탕을…
 [ENDBLOCK]
@@ -1208,7 +1212,9 @@ notice
 [ENDBLOCK]
 정말이야?
 [ENDBLOCK]
-남자아이[ENDBLOCK]…내가 언니의
+남자아이
+[ENDBLOCK]
+…내가 언니의
 목욕탕을 엿본…
 [ENDBLOCK]
 남자아이
@@ -1263,7 +1269,9 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 일이야?[ENDBLOCK]<Lilith>
+무슨 일이야?
+[ENDBLOCK]
+<Lilith>
 [ENDBLOCK]
 하늘에 나타난 저것과, 형이
 관련이 있을지도 모른다고.
@@ -1317,7 +1325,9 @@ notice
 [ENDBLOCK]
 형을 배웅했을 때, 결심했었는데.
 [ENDBLOCK]
-<Lilith>[ENDBLOCK]ごめんね,お兄ちゃん.
+<Lilith>
+[ENDBLOCK]
+미안해, 오빠.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1368,7 +1378,9 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 <Lilith>에게 맹세할게.[ENDBLOCK]<Stahn>
+나는 <Lilith>에게 맹세할게.
+[ENDBLOCK]
+<Stahn>
 [ENDBLOCK]
 다시 한번,
 평화로운 하늘을 되찾아 보이겠어!
@@ -1430,7 +1442,9 @@ notice
 피츠갈드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-커뮤니爺[ENDBLOCK]이것도 뭔가의 인연이구나.
+커뮤니티 할아버지
+[ENDBLOCK]
+이것도 뭔가의 인연이구나.
 쉬고 갈래?
 [ENDBLOCK]
 select
@@ -1439,12 +1453,12 @@ select
 네
 아니요
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 언제든지 와주게.
 
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 메뉴 해방이야！！！！ 
 [ENDBLOCK]
@@ -1454,12 +1468,12 @@ notice
 새로운 항목「페이스 그림」이 해방
 되었습니다.
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 <Triangle_ani>를 누르고,
 계속해서<Select_ani>를 누르는 거야.
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 캔버스 해방이야！！！！ 
 [ENDBLOCK]
@@ -1469,11 +1483,11 @@ notice
 당신이 원한다면, 그 하얀 캔버스에
 동료들이 다양한 표정을 보여줄 거야.
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 차기석 변화의 술이야！！！！ 
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 이 방을 여러 가지로 조사해보는 게 좋겠어.
 [ENDBLOCK]
@@ -1483,14 +1497,14 @@ notice
 그 새로운 가능성으로서
 그들이 열심히 해줄 거야.
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 여기보다 동쪽의 땅, 백은의 세계에 있어.
 그리운 남편에게로, 가라！！！！ 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-커뮤니爺의 말에 따라
+커뮤니티 할아버지의 말에 따라
 <Dalis>의 곳으로 가보자.
 무언가 있을지도 몰라.
 [ENDBLOCK]
@@ -1510,7 +1524,7 @@ notice
 [ENDBLOCK]
 웹 비밀번호를 수락했습니다.
 이 세계에 새로운 가능성이 열렸습니다.
-커뮤니爺의 이야기를 잘 들어주세요.
+커뮤니티 할아버지의 이야기를 잘 들어주세요.
 
 [ENDBLOCK]
 notice
@@ -1588,7 +1602,7 @@ notice
 notice
 [ENDBLOCK]
 웹사이트에서 입력할 연동 ID와
-게임 비밀번호를 잊어버렸다면 커뮤니爺에게
+게임 비밀번호를 잊어버렸다면 커뮤니티 할아버지에게
 말 걸어서, 연동 ID·게임 비밀번호의
 확인 항목을 선택해 주세요.
 [ENDBLOCK]
@@ -1681,7 +1695,9 @@ select
 <Chelsea>
 [ENDBLOCK]
 활에 관해서라면,
-이<Chelsea>에게 맡겨 주세요.[ENDBLOCK]토마스
+이<Chelsea>에게 맡겨 주세요.
+[ENDBLOCK]
+토마스
 [ENDBLOCK]
 이 아가씨가?
 [ENDBLOCK]

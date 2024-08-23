@@ -2,12 +2,12 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아～, 바다는 크고, 
+아～, 바다는 크고,
 기분이 좋네～.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 배 여행은 처음이라, 
+나는 배 여행은 처음이라,
 신나!
 [ENDBLOCK]
 <Dymlos>
@@ -54,7 +54,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-천지… 하늘과 땅에서, 전쟁? 
+천지… 하늘과 땅에서, 전쟁?
 어떻게?
 [ENDBLOCK]
 <Philia>
@@ -64,12 +64,12 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그 천지전쟁의 원인이 된 것이, 
+그 천지전쟁의 원인이 된 것이,
 신의 눈이라고 문헌에 적혀 있습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-「세계를 엄청난 재앙에, 
+「세계를 엄청난 재앙에,
 끌어들인 원흉」인가…
 [ENDBLOCK]
 <Philia>
@@ -242,7 +242,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Batista>라고? 
+<Batista>라고?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -261,7 +261,7 @@
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Philia>? 
+<Philia>?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -270,7 +270,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 일이야, <Lion>? 
+무슨 일이야, <Lion>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -283,12 +283,12 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-항상 그런 건 아니잖아? 
+항상 그런 건 아니잖아?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 …앞으로 갈 아쿠아베일은,
-어떤 나라야? 
+어떤 나라야?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -335,7 +335,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 일이야, <Lion>? 
+무슨 일이야, <Lion>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

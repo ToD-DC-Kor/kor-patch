@@ -520,7 +520,9 @@ set_drgn
 은거 고양이
 [ENDBLOCK]
 그렇다고 해도, 불편함 속에서야말로
-자유의 의미를 알게 되는 법이니냥.[ENDBLOCK]은거 고양이
+자유의 의미를 알게 되는 법이니냥.
+[ENDBLOCK]
+은거 고양이
 [ENDBLOCK]
 자유를 찾는 여행을 해보는 것도
 중요한 일이라고 생각하니냥.
@@ -579,7 +581,9 @@ set_drgn
 아하, 자유로운 몸으로 여러 나라를
 떠돌아다니는 것은 정말 즐거워!
 [ENDBLOCK]
-고은치[ENDBLOCK]봐서는 너희는
+고은치
+[ENDBLOCK]
+봐서는 너희는
 자유로운 몸이 아닌 것 같구나.
 [ENDBLOCK]
 고은치
@@ -639,7 +643,9 @@ set_drgn
 고은치
 [ENDBLOCK]
 인간은 누구나 한 번은 자유를 찾아
-여행하고 싶어지는 법이니까요…[ENDBLOCK]고은치
+여행하고 싶어지는 법이니까요…
+[ENDBLOCK]
+고은치
 [ENDBLOCK]
 봐서는 너희는
 자유로운 몸이 아닌 것 같구나.
@@ -698,7 +704,9 @@ set_drgn
 [ENDBLOCK]
 자유로운 신분은 좋은 것이지요.
 [ENDBLOCK]
-고은치[ENDBLOCK]오오!! …드디어, 드디어
+고은치
+[ENDBLOCK]
+오오!! …드디어, 드디어
 이 세상의 원리를 모두 보고 온
 모양이군요!
 [ENDBLOCK]
@@ -759,7 +767,9 @@ set_drgn
 [ENDBLOCK]
 리네 마을 주변의 해안에서는,
 풍부한 자연이 연주하는 귀여운 음악을
-들을 수 있는 곳이 있습니다.[ENDBLOCK]고은치
+들을 수 있는 곳이 있습니다.
+[ENDBLOCK]
+고은치
 [ENDBLOCK]
 리네 마을 근처에서, 반짝반짝
 깜박이는 것을 본 사람이 있다고 해요,
@@ -819,7 +829,9 @@ notice
 <Stahn>에 대해 알게 되면
 딸이 외로워할 거야.
 [ENDBLOCK]
-촌장 아내[ENDBLOCK]아이구…
+촌장 아내
+[ENDBLOCK]
+아이구…
 마을은 어떻게 되어버릴까?
 [ENDBLOCK]
 촌장 아내
@@ -879,7 +891,9 @@ notice
 남자
 [ENDBLOCK]
 진정으로 우수한, 선택된 자들에 의한 세계…
-그게, 하늘 위에 있는 걸까요?[ENDBLOCK]남자
+그게, 하늘 위에 있는 걸까요?
+[ENDBLOCK]
+남자
 [ENDBLOCK]
 고향도 걱정되지만, 지금은 여기서,
 마을을 지키는 일에 전력을 다하겠습니다.
@@ -1117,7 +1131,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

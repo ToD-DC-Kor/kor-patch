@@ -74,7 +74,9 @@ ly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21
 청년
 [ENDBLOCK]
 사실, 우리 칼바레이스인 중에는,
-다른 대륙에 숨어서 생활하고 있는 사람도 있다.[ENDBLOCK]청년
+다른 대륙에 숨어서 생활하고 있는 사람도 있다.
+[ENDBLOCK]
+청년
 [ENDBLOCK]
 그 사람들은,
 너희에게 협력해줄지도 모른다.
@@ -140,7 +142,9 @@ notice
 피츠갈드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-커뮤니爺[ENDBLOCK]이것도 어떤 인연이구나.
+커뮤니티 할아버지
+[ENDBLOCK]
+이것도 어떤 인연이구나.
 쉬고 갈래?
 [ENDBLOCK]
 select
@@ -149,12 +153,12 @@ select
 네
 아니오
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 언제든지 와주게.
 
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 메뉴 해방이야！！！！
 [ENDBLOCK]
@@ -164,12 +168,12 @@ notice
 새로운 항목 「페이스 그림」이 해방
 되었습니다.
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 <Triangle_ani>를 누르고,
 계속해서<Select_ani>를 누르는 것이야.
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 캔버스 해방이야！！！！
 [ENDBLOCK]
@@ -179,11 +183,11 @@ notice
 당신이 원한다면, 그 하얀 캔버스에
 동료들이 다양한 표정을 보여줄 거야.
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 차기 돌 변화의 기술이야！！！！
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 이 방을 여러 가지로 조사해보렴.
 [ENDBLOCK]
@@ -193,14 +197,14 @@ notice
 그들의 새로운 가능성으로
 열심히 해줄 거야.
 [ENDBLOCK]
-커뮤니爺
+커뮤니티 할아버지
 [ENDBLOCK]
 여기서 동쪽의 땅, 백은의 세계에 있어.
 그리운 남편에게, 향하렴！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-커뮤니爺의 말을 따라
+커뮤니티 할아버지의 말을 따라
 <Dalis>의 쪽으로 가보자.
 무언가 있을지도 몰라.
 [ENDBLOCK]
@@ -220,7 +224,7 @@ notice
 [ENDBLOCK]
 웹 비밀번호를 수락했습니다.
 이 세계에 새로운 가능성이 열렸습니다.
-커뮤니爺의 이야기를 잘 들어주세요.
+커뮤니티 할아버지의 이야기를 잘 들어주세요.
 
 [ENDBLOCK]
 notice
@@ -298,7 +302,7 @@ notice
 notice
 [ENDBLOCK]
 웹사이트에서 입력할 연동 ID와
-게임 비밀번호를 잊어버렸다면 커뮤니爺에게
+게임 비밀번호를 잊어버렸다면 커뮤니티 할아버지에게
 말 걸어서, 연동 ID·게임 비밀번호의
 확인 항목을 선택해 주세요.
 [ENDBLOCK]
@@ -390,7 +394,9 @@ notice
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-저 파란 돌이, 도움이 되는 날이 오다니.[ENDBLOCK]상점
+저 파란 돌이, 도움이 되는 날이 오다니.
+[ENDBLOCK]
+상점
 [ENDBLOCK]
 …무언가 살 건가?
 [ENDBLOCK]

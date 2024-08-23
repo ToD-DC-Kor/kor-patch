@@ -521,7 +521,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 젊은 여자
 [ENDBLOCK]
 이 나라에 신전은 필요 없어요.
-폐하께서 계시니까요.[ENDBLOCK]젊은 여자
+폐하께서 계시니까요.
+[ENDBLOCK]
+젊은 여자
 [ENDBLOCK]
 폐하라면 반드시…!
 저는 그렇게 믿고 있습니다.
@@ -764,7 +766,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

@@ -59,7 +59,9 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 <Stahn>
 [ENDBLOCK]
 아, 그렇구나…
-미안, 신경 쓰지 못했어.[ENDBLOCK]<Rutee>
+미안, 신경 쓰지 못했어.
+[ENDBLOCK]
+<Rutee>
 [ENDBLOCK]
 별로 사과할 필요 없어.
 신경 쓰지 않으니까.
@@ -164,7 +166,9 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 여러분, <Rutee>를
 잘 부탁드립니다.
 [ENDBLOCK]
-자매[ENDBLOCK]<Rutee> 여러 가지로 힘들겠지만,
+자매
+[ENDBLOCK]
+<Rutee> 여러 가지로 힘들겠지만,
 무리하지 말아 줘.
 [ENDBLOCK]
 자매
@@ -410,7 +414,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

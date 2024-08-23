@@ -516,7 +516,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Dalis>
 [ENDBLOCK]
 그렇다. <Mary>가
-집에 있을 것이다.[ENDBLOCK]<Dalis>
+집에 있을 것이다.
+[ENDBLOCK]
+<Dalis>
 [ENDBLOCK]
 꼭, 만나줘.
 [ENDBLOCK]
@@ -583,7 +585,9 @@ CYRI_CAMERA_SIGHT = OFF
 우리도 우리가 할 수 있는 노력을,
 최선을 다해 하려고 합니다.
 [ENDBLOCK]
-청년[ENDBLOCK]みんな 무죄기 있게 기뻐하고 있지만,
+청년
+[ENDBLOCK]
+みんな 무죄기 있게 기뻐하고 있지만,
 문제는 이 후다… 
 [ENDBLOCK]
 청년
@@ -642,7 +646,9 @@ CYRI_CAMERA_SIGHT = OFF
 [ENDBLOCK]
 사이릴 병사
 [ENDBLOCK]
-보통 경비로 돌아가서, 한시름 놓았어요.[ENDBLOCK]사이릴 병사
+보통 경비로 돌아가서, 한시름 놓았어요.
+[ENDBLOCK]
+사이릴 병사
 [ENDBLOCK]
 젠장, 하늘 위에서의 공격에,
 어떻게 대비하라는 거냐.
@@ -753,7 +759,9 @@ notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x4A><x30><x80></color>가
 [ENDBLOCK]
-파티에서 빠졌습니다.[ENDBLOCK]<x18><x65><x5A><x20><x00><x80><x18><x65><x5A><x24><x00><x80>
+파티에서 빠졌습니다.
+[ENDBLOCK]
+<x18><x65><x5A><x20><x00><x80><x18><x65><x5A><x24><x00><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
