@@ -2,7 +2,7 @@ notice
 [ENDBLOCK]
 <TAG_007>현<xE1>
 [ENDBLOCK]
-<xAD>의 소지 갈드:<TAG_033>갈드
+<xAD>의 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 예

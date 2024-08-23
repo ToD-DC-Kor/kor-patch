@@ -742,7 +742,7 @@ select
 [ENDBLOCK]
 <TAG_007>요청: <x18><x66><x50><x2C><x00><x80>의 <x18><x66><x50><x28><x00><x80>에
 			<x1A><x71><x44><x34><x80>를 <TAG_035>개 조달하는.
-보상: <TAG_032>갈드
+보상: <TAG_032>가르드
 일을 맡겠습니까?
 하겠다
 그만두겠다
@@ -754,7 +754,7 @@ select
 notice
 [ENDBLOCK]
 <TAG_007>전달금으로
-<TAG_032>갈드 받았습니다.
+<TAG_032>가르드 받았습니다.
 
 [ENDBLOCK]
 잘 부탁해요!
@@ -802,7 +802,7 @@ notice
 notice
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x2C><x00><x80>로서
-<TAG_077>갈드 받았습니다.
+<TAG_077>가르드 받았습니다.
 
 [ENDBLOCK]
 지정된 물품 수가 부족하네…
@@ -834,7 +834,7 @@ notice
 notice
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x28><x00><x80>로서
-<TAG_076>갈드 지불했습니다.
+<TAG_076>가르드 지불했습니다.
 
 [ENDBLOCK]
 위약금을 내지 않으면
@@ -846,7 +846,7 @@ notice
 notice
 [ENDBLOCK]
 <TAG_007>위약금으로서
-<TAG_075>갈드 지불했습니다.
+<TAG_075>가르드 지불했습니다.
 
 [ENDBLOCK]
 돈이 부족해.
@@ -868,7 +868,7 @@ notice
 notice
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x28><x00><x80>로서
-<TAG_076>갈드 지불했습니다.
+<TAG_076>가르드 지불했습니다.
 
 [ENDBLOCK]
 위약금을 내지 않으면
@@ -880,7 +880,7 @@ notice
 notice
 [ENDBLOCK]
 <TAG_007>위약금으로서
-<TAG_075>갈드 지불했습니다.
+<TAG_075>가르드 지불했습니다.
 
 [ENDBLOCK]
 돈을 준비하고 나서,

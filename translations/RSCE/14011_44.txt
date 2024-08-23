@@ -1035,7 +1035,7 @@ select
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>현재 소지 갈드:<TAG_031>갈드
+<TAG_007>현재 소지 가르드:<TAG_031>가르드
 [ENDBLOCK]
 <TAG_007>구매
 필요없음

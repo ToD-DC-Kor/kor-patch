@@ -761,7 +761,7 @@ notice
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-그 엄마가 나한테 100 갈드 주면서
+그 엄마가 나한테 100 가르드 주면서
 낭비하지 말라고 하더군.
 [ENDBLOCK]
 <Johnny>

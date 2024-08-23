@@ -163,7 +163,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-일만 갈드.
+일만 가르드.
 
 [ENDBLOCK]
 <Walt>
