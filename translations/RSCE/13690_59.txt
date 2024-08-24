@@ -697,11 +697,11 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -728,7 +728,7 @@ notice
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-그들이 말했던, 
+그들이 말했던,
 연락이 닿지 않는 상대…
 [ENDBLOCK]
 <Woodrow>
@@ -737,7 +737,7 @@ notice
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-설마, 신의 눈을 강탈할 때, 
+설마, 신의 눈을 강탈할 때,
 성내의 주의를 끌기 위한…？
 [ENDBLOCK]
 세인가르드 병사

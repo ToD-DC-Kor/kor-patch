@@ -54,7 +54,7 @@
 [ENDBLOCK]
 여행자
 [ENDBLOCK]
-분명 모두, 
+분명 모두,
 그와 착각할 거야.
 [ENDBLOCK]
 젊은이
@@ -356,9 +356,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

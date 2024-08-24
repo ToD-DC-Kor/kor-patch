@@ -242,7 +242,7 @@ notice
 <TAG_007>마을 사람 중에는, 칭호를 세팅하고 이야기하면,
 당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 여러 번
 이야기했을 때, 신비로운 행동을 할 수 있습니다.
-그때는, 가지고 있는 칭호를 다시 세팅하고, 
+그때는, 가지고 있는 칭호를 다시 세팅하고,
 다시 이야기해 보세요.
 [ENDBLOCK]
 notice
@@ -597,7 +597,7 @@ notice
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-어떻게 된 거지? 
+어떻게 된 거지?
 모두가 이상한 눈으로 나를 보네?
 [ENDBLOCK]
 <Stahn>
@@ -700,7 +700,7 @@ notice
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-어, 어머!? 
+어, 어머!?
 [ENDBLOCK]
 여성
 [ENDBLOCK]
@@ -741,6 +741,6 @@ notice
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-왜 이런 일로, 
+왜 이런 일로,
 내가 남자라는 게 들키지 않는 거야!
 [ENDBLOCK]

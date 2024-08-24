@@ -375,7 +375,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-안녕하세요, <Stahn>! 
+안녕하세요, <Stahn>!
 잘 지내고 있네!
 [ENDBLOCK]
 <Stahn>
@@ -389,7 +389,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어? <Woodrow> 씨, 
+어? <Woodrow> 씨,
 수염을 기르기 시작했나요?
 [ENDBLOCK]
 <Woodrow>
@@ -404,7 +404,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-맞아요, 맞아요! 
+맞아요, 맞아요!
 <Woodrow> 님은 역시 최고예요.
 [ENDBLOCK]
 <Stahn>
@@ -599,7 +599,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇게 사라지면, 
+그렇게 사라지면,
 누구나 그렇게 생각하지…
 [ENDBLOCK]
 <Rutee>
@@ -622,12 +622,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-저<Rutee>・카틀릿과, 
+저<Rutee>・카틀릿과,
 옆에 있는<Stahn>・엘론은！
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-오늘부터 함께, 
+오늘부터 함께,
 여행을 떠나게 되었습니다！
 [ENDBLOCK]
 <Stahn>
@@ -660,7 +660,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-앞으로 어떻게 될지 모르지만, 
+앞으로 어떻게 될지 모르지만,
 잘 부탁드립니다！
 [ENDBLOCK]
 <Rutee>
@@ -673,7 +673,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-힘내 주세요, 
+힘내 주세요,
 <Stahn>님, <Rutee>님.
 [ENDBLOCK]
 <Woodrow>
@@ -827,7 +827,7 @@ sdiff -><x1D><x76><x40><x10><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-가족을 행복하게 하고 싶어서, 
+가족을 행복하게 하고 싶어서,
 가족을 울리게 하는 건 모순이지만.
 [ENDBLOCK]
 <Stahn>
@@ -1112,7 +1112,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

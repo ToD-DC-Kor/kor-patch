@@ -379,17 +379,17 @@ notice
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-왕가와 화해했는데, 
+왕가와 화해했는데,
 앞으로 어떻게 될 거야?
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-아무리 눈을 치워도, 
+아무리 눈을 치워도,
 도시가 멸망하면 의미가 없지…
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-나도 모두를 위해 
+나도 모두를 위해
 할 수 있는 일을 계속할 거야.
 [ENDBLOCK]
 notice

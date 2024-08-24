@@ -4,7 +4,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-밥 아저씨!? 
+밥 아저씨!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -74,7 +74,7 @@
 <Stahn>
 [ENDBLOCK]
 <Rutee>는 여기서 기다려.
-내가 비행 용으로 태워줄게.
+내가 비행룡으로 태워줄게.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -163,7 +163,7 @@
 [ENDBLOCK]
 고양이 사람
 [ENDBLOCK]
-안, 안 돼 고양이! 
+안, 안 돼 고양이!
 우리, 이미 성인 고양이야.
 [ENDBLOCK]
 <Mary>
@@ -172,7 +172,7 @@
 [ENDBLOCK]
 고양이 사람
 [ENDBLOCK]
-그, 그렇다고 고양이야! 
+그, 그렇다고 고양이야!
 그러니까 안아주는 건…
 [ENDBLOCK]
 <Mary>
@@ -874,7 +874,7 @@ page10
 은거 고양이
 [ENDBLOCK]
 티아의 꽃을 발견한 고양이.
-아름답지만, 위험하다는… 
+아름답지만, 위험하다는…
 [ENDBLOCK]
 은거 고양이
 [ENDBLOCK]
@@ -982,7 +982,7 @@ page10
 고은퇴
 [ENDBLOCK]
 그럼, 여기서 들은
-유익한 이야기를… 
+유익한 이야기를…
 [ENDBLOCK]
 은퇴 고양이 닌자
 [ENDBLOCK]
@@ -1003,7 +1003,7 @@ page10
 [ENDBLOCK]
 은퇴 고양이 닌자
 [ENDBLOCK]
-가볍게 입에 하는 것은 그만두는게 
+가볍게 입에 하는 것은 그만두는게
 너를 위해 좋을 고양이.
 [ENDBLOCK]
 은퇴 고양이 닌자
@@ -1329,7 +1329,7 @@ notice
 [ENDBLOCK]
 고양이인
 [ENDBLOCK]
-냐옹! 
+냐옹!
 		냐옹!
 [ENDBLOCK]
 고양이인
@@ -1352,7 +1352,7 @@ notice
 바다 용을 타고 배로
 
 [ENDBLOCK]
-비행 용 발진
+비행룡 발진
 
 [ENDBLOCK]
 신의 눈의 위협
@@ -1361,7 +1361,7 @@ notice
 리온의 마지막
 
 [ENDBLOCK]
-해저 동굴에서 비행 용 발진
+해저 동굴에서 비행룡 발진
 
 [ENDBLOCK]
 다이크로프트 부활
@@ -1370,7 +1370,7 @@ notice
 외갑 완성~ 첫 단계
 
 [ENDBLOCK]
-비행 용 추락
+비행룡 추락
 
 [ENDBLOCK]
 외갑 완성~ 두 번째 단계
@@ -1641,7 +1641,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -1650,7 +1650,7 @@ notice
 나는 <TAG_054>에서 거래를 하고 있는
 <TAG_053>라는 사람이다.
 [ENDBLOCK]
-아직 끝나지 않았나? 
+아직 끝나지 않았나?
 그만둔다고 말하지 마라.
 [ENDBLOCK]
 혹시 시간이 있다면,

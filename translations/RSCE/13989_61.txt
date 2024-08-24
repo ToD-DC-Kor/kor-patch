@@ -383,7 +383,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>무슨 일이야? 
+<TAG_007>무슨 일이야?
 아이에게는 필요 없어
 [ENDBLOCK]
 소년
@@ -543,7 +543,7 @@ reset---------
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>님까지, 
+<Philia>님까지,
 너무하잖아요.
 [ENDBLOCK]
 <Kongman>
@@ -575,7 +575,7 @@ reset---------
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-대단한걸, 
+대단한걸,
 <Kongman>.
 [ENDBLOCK]
 <Kongman>
@@ -821,17 +821,17 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 아이스캔디 가게
 [ENDBLOCK]
-노이슈타트 명물, 
+노이슈타트 명물,
 아이스캔디는 어떠세요?
 [ENDBLOCK]
 아이스캔디 가게
 [ENDBLOCK]
-최근의 습격으로, 
+최근의 습격으로,
 가게는 큰 피해를 입었어요.
 [ENDBLOCK]
 아이스캔디 가게
 [ENDBLOCK]
-하지만, 이런 일로 도시의 명물을 
+하지만, 이런 일로 도시의 명물을
 잃을 수는 없으니까요.
 [ENDBLOCK]
 아이스캔디 가게
@@ -845,7 +845,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 아이스캔디 가게
 [ENDBLOCK]
-이제 아이스크림을 
+이제 아이스크림을
 팔 수 있는 상황이 아닐까…
 [ENDBLOCK]
 아이스캔디 가게
@@ -855,7 +855,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 아이스캔디 가게
 [ENDBLOCK]
-노이슈타트 명물, 
+노이슈타트 명물,
 아이스캔디는 어떠세요?
 [ENDBLOCK]
 여행자
@@ -878,7 +878,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 여행자
 [ENDBLOCK]
-항구에서 낚시를 하고 있으면, 
+항구에서 낚시를 하고 있으면,
 어부들에게 눈총을 받으니까.
 [ENDBLOCK]
 여행자
@@ -888,7 +888,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 여행자
 [ENDBLOCK]
-언제 몬스터가 공격해올지 
+언제 몬스터가 공격해올지
 모르니까, 낚시도 목숨 걸고 해야 해.
 [ENDBLOCK]
 여행자
@@ -903,12 +903,12 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-하층가의 그 사람이 이번 소동으로, 
+하층가의 그 사람이 이번 소동으로,
 다치지 않았으면 좋겠어…
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-이전에 여동생과 함께 있는 모습을, 
+이전에 여동생과 함께 있는 모습을,
 하층가의 그 사람에게 보였어.
 [ENDBLOCK]
 남자
@@ -922,7 +922,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-나 같은 사람이 하층가에 가면, 
+나 같은 사람이 하층가에 가면,
 무사히 돌아오지 못할 거라고 들었어…
 [ENDBLOCK]
 남자
@@ -1179,24 +1179,24 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 ？？？？
 [ENDBLOCK]
-아저씨, 여기 있는 아이들 것도, 
+아저씨, 여기 있는 아이들 것도,
 주세요. 전부요.
 [ENDBLOCK]
 괜찮으신가요, 아가씨.
 [ENDBLOCK]
 ？？？？
 [ENDBLOCK]
-물론이지. 모두 함께 먹는 게, 
+물론이지. 모두 함께 먹는 게,
 더 맛있을 테니까.
 [ENDBLOCK]
 ？？？？
 [ENDBLOCK]
-모두, 어서 와. 
+모두, 어서 와.
 아이스캔디를 대접할게.
 [ENDBLOCK]
 ？？？？
 [ENDBLOCK]
-자, 자, 밀지 마. 
+자, 자, 밀지 마.
 모두의 분량은 충분하니까.
 [ENDBLOCK]
 <Philia>
@@ -1213,7 +1213,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-부유한 아가씨가, 
+부유한 아가씨가,
 우월감을 느끼고 싶어 하는 것뿐이지?
 [ENDBLOCK]
 <Stahn>
@@ -1222,12 +1222,12 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-서둘러 돌아가자. 
+서둘러 돌아가자.
 아이스캔디가 녹아버리니까.
 [ENDBLOCK]
 주변 남자
 [ENDBLOCK]
-챔피언님의 등장이다! 
+챔피언님의 등장이다!
 모두, 주목하라!
 [ENDBLOCK]
 남자아이
@@ -1246,12 +1246,12 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-안녕, 애들. 
+안녕, 애들.
 오늘도 끈질기게 살고 있냐?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-가난한 이들에게 자선을 베푸는 건, 
+가난한 이들에게 자선을 베푸는 건,
 정말 기분이 좋겠지.
 [ENDBLOCK]
 ？？？？
@@ -1260,22 +1260,22 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-돈으로 모든 게 살 수 있다고 생각하지 마, 
-<Ilene>・<Rembrandt>! 
+돈으로 모든 게 살 수 있다고 생각하지 마,
+<Ilene>・<Rembrandt>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-피츠갈드인의 영혼까지는, 
+피츠갈드인의 영혼까지는,
 절대 팔아넘기지 않아!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Ilene>・<Rembrandt>? 
+<Ilene>・<Rembrandt>?
 <Stahn>, 그 이름은 확실히…
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-오베론 사의 이념은, 
+오베론 사의 이념은,
 몇 번이나 설명했었지.
 [ENDBLOCK]
 <Ilene>
@@ -1407,7 +1407,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-뭐라고, 이 무례한 놈이! 
+뭐라고, 이 무례한 놈이!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1520,7 +1520,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-무슨 일이야! 
+무슨 일이야!
 [ENDBLOCK]
 아이스크림 가게
 [ENDBLOCK]

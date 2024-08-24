@@ -253,7 +253,7 @@
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-검은막 뒤에는 오베론 사의 총수라는 거야? 
+검은막 뒤에는 오베론 사의 총수라는 거야?
 농담도 아니야!
 [ENDBLOCK]
 여성
@@ -687,9 +687,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

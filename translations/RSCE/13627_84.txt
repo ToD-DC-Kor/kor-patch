@@ -561,7 +561,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 남자
 [ENDBLOCK]
 오오!
-정말로, 용기를 주는 말이군! 
+정말로, 용기를 주는 말이군!
 [ENDBLOCK]
 남자
 [ENDBLOCK]
@@ -1047,7 +1047,7 @@ debug
 할아버지
 [ENDBLOCK]
 요즘 젊은이들은 너무 추위를 타서 안 되겠군.
-나와 함께 마찰 운동을 하자! 
+나와 함께 마찰 운동을 하자!
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
@@ -1305,7 +1305,7 @@ debug
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그게 리라이지? 
+그게 리라이지?
 
 [ENDBLOCK]
 <Atwight>
@@ -1327,7 +1327,7 @@ debug
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-이야기는 끝났어? 
+이야기는 끝났어?
 그럼, 가자.
 
 [ENDBLOCK]
@@ -1345,7 +1345,7 @@ debug
 [ENDBLOCK]
 ？？？？
 [ENDBLOCK]
-그렇다면 얼굴로 통과는 어때? 
+그렇다면 얼굴로 통과는 어때?
 내가 이 정도면, 그걸로 충분하지 않을까!
 
 [ENDBLOCK]
@@ -1695,9 +1695,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

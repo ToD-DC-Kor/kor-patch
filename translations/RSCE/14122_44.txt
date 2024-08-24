@@ -48,10 +48,10 @@ set_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x
 한계<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80> 
+xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 
 [ENDBLOCK]
 한계<D_FOG_COLOR_B>
@@ -63,10 +63,10 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 한계<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END> 
+xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 
 [ENDBLOCK]
 광장
@@ -644,7 +644,7 @@ camtgt -><TAG_075>/<x09><x10>'<x00><x00>
 <TAG_007>마을 사람 중에는, 칭호를 세팅하고 이야기함으로써,
 당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 여러 번
 이야기했을 때, 신기한 행동을 할 수도 있습니다.
-그때는, 가지고 있는 칭호를 다시 세팅하고, 
+그때는, 가지고 있는 칭호를 다시 세팅하고,
 다시 한 번 이야기해 보세요.
 [ENDBLOCK]
 알림

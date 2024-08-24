@@ -109,7 +109,7 @@ select
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-죄, 죄송해… 
+죄, 죄송해…
 [ENDBLOCK]
 소년
 [ENDBLOCK]
@@ -119,7 +119,7 @@ select
 소년
 [ENDBLOCK]
 공중 도시… 하늘에 떠 있는 거리…
-이렇게 들으면 로맨틱하지만… 
+이렇게 들으면 로맨틱하지만…
 [ENDBLOCK]
 소년
 [ENDBLOCK]
@@ -195,7 +195,7 @@ select
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-하하하! 
+하하하!
 …어, 무슨 일 있어?
 [ENDBLOCK]
 소녀
@@ -246,7 +246,7 @@ select
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-하, 전하! 제 같은 자에게, 
+하, 전하! 제 같은 자에게,
 목소리를 걸어주실 줄이야…
 [ENDBLOCK]
 여성
@@ -281,12 +281,12 @@ select
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-우리의 미래를 지켜주세요… 
+우리의 미래를 지켜주세요…
 부탁합니다…!
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
-<Woodrow> 전하께서는 아버지처럼, 
+<Woodrow> 전하께서는 아버지처럼,
 위대한 왕이 되시길 바랍니다.
 [ENDBLOCK]
 할아버지
@@ -301,12 +301,12 @@ select
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
-전하… 이것은 도대체, 
+전하… 이것은 도대체,
 무슨 일입니까?
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
-아, 저기… 이것은 도대체, 
+아, 저기… 이것은 도대체,
 무슨 일입니까?
 [ENDBLOCK]
 할아버지

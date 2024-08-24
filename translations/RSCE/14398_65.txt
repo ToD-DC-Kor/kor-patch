@@ -120,22 +120,22 @@
 [ENDBLOCK]
 촌장
 [ENDBLOCK]
-흐릿해지고 있다는가, 
+흐릿해지고 있다는가,
 뭐라고 해야 할까… 좋지 않은 경향이다.
 [ENDBLOCK]
 촌장
 [ENDBLOCK]
-하늘이 천장으로 덮인 이후로, 
+하늘이 천장으로 덮인 이후로,
 눈에 띄게 외부의 기온이 떨어지고 있군.
 [ENDBLOCK]
 촌장
 [ENDBLOCK]
-이대로는, 이 마을이, 
+이대로는, 이 마을이,
 판달리아처럼 되어버릴 것이다…
 [ENDBLOCK]
 촌장
 [ENDBLOCK]
-렌즈라면 <Bacchus>에게 말해, 
+렌즈라면 <Bacchus>에게 말해,
 노이슈타트로 옮기게 했다.
 [ENDBLOCK]
 notice
@@ -367,7 +367,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

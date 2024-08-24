@@ -380,7 +380,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-무, 무슨 소리 하시는 거예요!? 
+무, 무슨 소리 하시는 거예요!?
 <Kongman>님!!
 [ENDBLOCK]
 신관
@@ -417,7 +417,7 @@ notice
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-…뭐? 
+…뭐?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -434,7 +434,7 @@ notice
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-이미…결…혼? 
+이미…결…혼?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -488,7 +488,7 @@ notice
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-아직도 그럴 거냐!? 
+아직도 그럴 거냐!?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -663,7 +663,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-네! 
+네!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -742,12 +742,12 @@ notice
 [ENDBLOCK]
 악당
 [ENDBLOCK]
-우리는 소디언 마스터다! 
+우리는 소디언 마스터다!
 거역하겠다는 거냐!
 [ENDBLOCK]
 무법자
 [ENDBLOCK]
-처벌해 줄까, 
+처벌해 줄까,
 이 내 소디언으로!
 [ENDBLOCK]
 <Rutee>
@@ -780,7 +780,7 @@ notice
 [ENDBLOCK]
 무법자
 [ENDBLOCK]
-진짜!? 
+진짜!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

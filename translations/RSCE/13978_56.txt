@@ -173,7 +173,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-자, 이걸로… 응? 
+자, 이걸로… 응?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

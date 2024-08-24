@@ -45,7 +45,7 @@
 [ENDBLOCK]
 ？？？？
 [ENDBLOCK]
-…조금 더, 
+…조금 더,
 아픈 경험을 해야 알겠군.
 [ENDBLOCK]
 ？？？？？
@@ -90,7 +90,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Hugo>님!? 
+<Hugo>님!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -117,12 +117,12 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-비행룡을 훔친다고? 
+비행룡을 훔친다고?
 무슨 소리 하는 거야…
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-오늘 밤 중으로 실행해. 
+오늘 밤 중으로 실행해.
 우리에게도 시간이 없어. 서둘러.
 [ENDBLOCK]
 <Lion>
@@ -180,7 +180,7 @@
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-<Lion>? 
+<Lion>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -233,7 +233,7 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-…조금 더, 
+…조금 더,
 아픈 경험을 하지 않으면 알 수 없겠군.
 [ENDBLOCK]
 <Rembrandt>

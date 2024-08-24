@@ -109,7 +109,7 @@
 <Lion>
 [ENDBLOCK]
 너 같은 힘으로,
-내가 될 수 있다고? 
+내가 될 수 있다고?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -564,9 +564,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

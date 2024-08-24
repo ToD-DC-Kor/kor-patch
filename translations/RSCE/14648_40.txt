@@ -2,7 +2,7 @@ notice
 [ENDBLOCK]
 신비한 힘으로 봉인되어 있다.
 [ENDBLOCK]
-무언가의 장치일까? 
+무언가의 장치일까?
 하지만 여기서 손이 닿지 않겠어.
 [ENDBLOCK]
 무언가의 장치인지 모르겠네?
@@ -284,7 +284,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

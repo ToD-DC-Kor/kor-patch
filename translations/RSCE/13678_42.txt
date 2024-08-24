@@ -490,7 +490,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-받을 거야? 
+받을 거야?
 그럼, 가자!
 [ENDBLOCK]
 소년
@@ -852,7 +852,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 클라토스
 [ENDBLOCK]
-꽤 잘하네! 
+꽤 잘하네!
 하지만 승부는 이제부터다.
 [ENDBLOCK]
 클라토스
@@ -870,7 +870,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 클라토스
 [ENDBLOCK]
-역시 대단하군! 
+역시 대단하군!
 그럼, 이건 어떨까?
 [ENDBLOCK]
 클라토스
@@ -929,7 +929,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 클라토스
 [ENDBLOCK]
-어떻게 된 거지. 
+어떻게 된 거지.
 항복할 건가?
 [ENDBLOCK]
 클라토스
@@ -1013,7 +1013,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 클라토스
 [ENDBLOCK]
-다시 도전할 거냐? 
+다시 도전할 거냐?
 네
 아니오
 
@@ -1099,7 +1099,7 @@ bat_no++가 올라갔습니다
 결과 발표
 
 [ENDBLOCK]
-현재 횟수：<x17><x71><x49><xB8><x80>      최대 수：<x17><x71><x49><xB4><x80> 
+현재 횟수：<x17><x71><x49><xB8><x80>      최대 수：<x17><x71><x49><xB4><x80>
 
 [ENDBLOCK]
 가장 아래↓
@@ -1265,7 +1265,7 @@ B. 죽은 자의 눈을 뜨게 하다
 C. 바보의 각성을 하다
 D. 죽은 자의 각성을 하다
 [ENDBLOCK]
-Q. 스탄이 비행 용과 만난 사람은 마리와 누구인가요?
+Q. 스탄이 비행룡과 만난 사람은 마리와 누구인가요?
 
 [ENDBLOCK]
 A. 첼시
@@ -1405,7 +1405,7 @@ C. 알메이다
 D. 다릴쉐이드
 E. 노이슈타트
 [ENDBLOCK]
-Q. 비행 용의 주방에서 조리되는 것은?
+Q. 비행룡의 주방에서 조리되는 것은?
 
 [ENDBLOCK]
 A. 크림 죽
@@ -1867,9 +1867,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

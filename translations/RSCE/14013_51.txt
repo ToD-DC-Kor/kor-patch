@@ -31,7 +31,7 @@
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-내가, 뭔가!? 
+내가, 뭔가!?
 [ENDBLOCK]
 선원
 [ENDBLOCK]
@@ -268,7 +268,7 @@
 [ENDBLOCK]
 아가씨
 [ENDBLOCK]
-힘내!  <Kongman>!  
+힘내!  <Kongman>! 
 마이티!  마이티!
 [ENDBLOCK]
 수녀
@@ -692,7 +692,7 @@ notice
 [ENDBLOCK]
 세인가르드인
 [ENDBLOCK]
-야, 너! 
+야, 너!
 불만이 있어?!
 [ENDBLOCK]
 거리의 사람

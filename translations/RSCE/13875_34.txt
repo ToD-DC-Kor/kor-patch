@@ -51,7 +51,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-결국 우리, 
+결국 우리,
 거의 세계 일주를 해버린 셈이네.
 [ENDBLOCK]
 <Stahn>

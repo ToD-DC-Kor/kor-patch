@@ -37,11 +37,11 @@ y( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21>
 [ENDBLOCK]
 사이릴 병사
 [ENDBLOCK]
-사이릴 만세…구… 
+사이릴 만세…구…
 [ENDBLOCK]
 사이릴 병사
 [ENDBLOCK]
-<Dalis>대장 만세…구… 
+<Dalis>대장 만세…구…
 [ENDBLOCK]
 사이릴 병사
 [ENDBLOCK]

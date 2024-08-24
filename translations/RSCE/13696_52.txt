@@ -179,7 +179,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-너, 한 번 더 말해봐! 
+너, 한 번 더 말해봐!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -224,7 +224,7 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-티아라의 상태는 어때? 
+티아라의 상태는 어때?
 보고를 기다리고 있어.
 [ENDBLOCK]
 <Reynolds>
@@ -234,7 +234,7 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-티아라의 상태는 어때? 
+티아라의 상태는 어때?
 보고를 기다리고 있어.
 [ENDBLOCK]
 <Reynolds>
@@ -469,9 +469,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

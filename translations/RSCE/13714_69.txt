@@ -28,7 +28,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-바, 바보 같은 놈들! 
+바, 바보 같은 놈들!
 극비 사항이야!
 [ENDBLOCK]
 세인가르드 병사
@@ -47,7 +47,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-파, …!? 
+파, …!?
 정말로 죄송합니다!
 [ENDBLOCK]
 <Woodrow>

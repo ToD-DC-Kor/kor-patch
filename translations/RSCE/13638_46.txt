@@ -597,7 +597,7 @@ notice
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-꼭 이기세요! 
+꼭 이기세요!
 [ENDBLOCK]
 여인
 [ENDBLOCK]
@@ -858,9 +858,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>지금 로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>지금 로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

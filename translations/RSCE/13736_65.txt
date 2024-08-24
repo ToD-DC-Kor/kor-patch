@@ -46,16 +46,16 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-어? 
+어?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-역시 나가자, 
+역시 나가자,
 <Marian>씨.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-…아니, 
+…아니,
 나는 여기 있어요!!
 [ENDBLOCK]
 <Rutee>
@@ -277,7 +277,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-상관없지 않아! 
+상관없지 않아!
 남의 목표에 참견하지 마!
 [ENDBLOCK]
 <Rutee>
@@ -367,12 +367,12 @@ notice
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-하지만 당신, 
+하지만 당신,
 나가신 건 아니었나요？
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-마리안과 다시 한동안, 
+마리안과 다시 한동안,
 만나지 못할 것 같아서 말이야.
 [ENDBLOCK]
 <Lion>
@@ -389,7 +389,7 @@ notice
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-어쩔 수 없는 아이구나. 그런다면, 
+어쩔 수 없는 아이구나. 그런다면,
 휴고님께 혼날 거야.
 [ENDBLOCK]
 <Lion>
@@ -659,7 +659,7 @@ notice
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-신비한 검…? 
+신비한 검…?
 알겠다, 그런 일이구나.
 [ENDBLOCK]
 <Lion>
@@ -685,7 +685,7 @@ notice
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-네, 잘 들었어요, 
+네, 잘 들었어요,
 소년.
 [ENDBLOCK]
 <Chaltier>

@@ -197,7 +197,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그분의 어머니… 크리스 님과, 
+그분의 어머니… 크리스 님과,
 저는 닮았다고 하니.
 [ENDBLOCK]
 <Stahn>
@@ -587,7 +587,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

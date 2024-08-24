@@ -509,7 +509,7 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-왜 당신이 그 이름을!? 
+왜 당신이 그 이름을!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1118,7 +1118,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
-그렇죠! 내 연구는 틀리지 않았어요! 
+그렇죠! 내 연구는 틀리지 않았어요!
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
@@ -1151,7 +1151,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 프란츠
 [ENDBLOCK]
 그렇지～.
-하지만 이번 이야기는 더～욱, 
+하지만 이번 이야기는 더～욱,
 무서운 거야～.
 [ENDBLOCK]
 프란츠

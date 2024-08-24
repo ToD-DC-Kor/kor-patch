@@ -84,7 +84,7 @@
 <Hugo>
 [ENDBLOCK]
 그 소년 검사가 바닥에 무릎 꿇고,
-내게 용서를 구했던 모습이! 
+내게 용서를 구했던 모습이!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -234,7 +234,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-너 정말로, <Hugo> 맞아? 
+너 정말로, <Hugo> 맞아?
 …사실 다른 누군가가 아닐까?
 [ENDBLOCK]
 <Rutee>
@@ -297,7 +297,7 @@
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-하하하하하하하하하하! 	강림이다! 
+하하하하하하하하하하! 	강림이다!
 천상왕인 내가, 다시 현세에 강림했다!
 [ENDBLOCK]
 <Clemente>
@@ -383,7 +383,7 @@
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-카렐이라고? 
+카렐이라고?
 …흥, 알겠어.
 [ENDBLOCK]
 <Igtenos>
@@ -479,7 +479,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-으…! 
+으…!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -533,11 +533,11 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-젠장하네! 
+젠장하네!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-아하하하하! 
+아하하하하!
 이로써 나의 천상군의, 완전 승리다!
 [ENDBLOCK]
 <Miktran>
@@ -991,7 +991,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

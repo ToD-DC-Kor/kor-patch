@@ -724,7 +724,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-예! 
+예!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -813,7 +813,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-아까? 
+아까?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]

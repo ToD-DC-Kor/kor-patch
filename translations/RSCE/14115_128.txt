@@ -285,10 +285,10 @@
 한계<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80> 
+xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 
 [ENDBLOCK]
 한계<D_FOG_COLOR_B>
@@ -300,10 +300,10 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 한계<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END> 
+xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 
 [ENDBLOCK]
 ××××××공간 시작××××××
@@ -419,7 +419,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-무슨 일이야? 
+무슨 일이야?
 그렇게 우울한 얼굴을 하고.
 [ENDBLOCK]
 <Johnny>
@@ -428,8 +428,8 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-설마<Fayte>님, 
-이 아이가 병사를 공격한 건가요!? 
+설마<Fayte>님,
+이 아이가 병사를 공격한 건가요!?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
@@ -437,7 +437,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 여자 아이
 [ENDBLOCK]
-<Fayte>님! 
+<Fayte>님!
 저는 범인이 아니에요!
 [ENDBLOCK]
 여자 아이
@@ -446,7 +446,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-확실히 이렇게 작은 아이가 
+확실히 이렇게 작은 아이가
 병사를 공격했다고는 생각할 수 없어요.
 [ENDBLOCK]
 <Fayte>
@@ -455,12 +455,12 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-저도 믿을 수 없습니다. 
+저도 믿을 수 없습니다.
 이런 아이가…
 [ENDBLOCK]
 여자 아이
 [ENDBLOCK]
-<Johnny>님, 
+<Johnny>님,
 제발 저를 도와주세요!
 [ENDBLOCK]
 <Johnny>
@@ -469,22 +469,22 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>님, 이 아이의 처우에 대해 
+<Fayte>님, 이 아이의 처우에 대해
 조금 기다려줄 수 있나요?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-알겠어. 이 아이를 
+알겠어. 이 아이를
 구금하는 일이 될 테니 용서해줘.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-그리고, 모리유 영내에서 
+그리고, 모리유 영내에서
 조사를 해보는 게 어떨까.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-사건에 대해 아는 사람이 
+사건에 대해 아는 사람이
 아직 있을지도 몰라.
 [ENDBLOCK]
 병사
@@ -494,47 +494,47 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-사실 여기 몇 일 사이에, 
+사실 여기 몇 일 사이에,
 동일한 사건이 다발적으로 발생했습니다.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-공격당한 병사에게는 반드시 두 개의 
+공격당한 병사에게는 반드시 두 개의
 상처가 남아 있었습니다.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-공격당한 병사의 증언과 목격자의 이야기를 
-종합한 결과, 그 여자 아이에게 
+공격당한 병사의 증언과 목격자의 이야기를
+종합한 결과, 그 여자 아이에게
 우리가 도달한 것입니다.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-하지만, 사건이 일어난 시간에 
-그 아이를 보았다는 알리바이 증언도 
+하지만, 사건이 일어난 시간에
+그 아이를 보았다는 알리바이 증언도
 사실 존재합니다.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-그래서<Fayte>님은 여러분에게 
+그래서<Fayte>님은 여러분에게
 시간을 주신 거라고 생각합니다.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-긴 이야기가 됩니다만, 
+긴 이야기가 됩니다만,
 사건의 개요를 들으시겠습니까? 예 아니요
 
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-아, 범인에 대해 들었어. 
-하지만 사건이 있었던 시간에 그 아이는 
+아, 범인에 대해 들었어.
+하지만 사건이 있었던 시간에 그 아이는
 이 집 아래에서 고양이와 놀고 있었어.
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-여기서 시덴의 복장을 하고 있는 녀석은 
-눈에 띄니까 틀림없어. 게다가 
+여기서 시덴의 복장을 하고 있는 녀석은
+눈에 띄니까 틀림없어. 게다가
 큰 소리로 고양이에게 이야기하고 있었으니까.
 [ENDBLOCK]
 젊은이
@@ -627,7 +627,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-여기는 모리유 영지야. 당신들, 
+여기는 모리유 영지야. 당신들,
 나쁜 때에 왔네.
 [ENDBLOCK]
 여자아이
@@ -1298,12 +1298,12 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 나는 <TAG_054>에서 거래를 하고 있는
 <TAG_053>라는 자다.
 [ENDBLOCK]
-아직 끝나지 않았나? 
+아직 끝나지 않았나?
 그만둔다고 말하지 마.
 [ENDBLOCK]
 혹시 시간이 있다면,
@@ -1407,7 +1407,7 @@ notice
 [ENDBLOCK]
 그럼 힘내.
 [ENDBLOCK]
-진심으로 말하는 거야? 
+진심으로 말하는 거야?
 생각을 바꿀 시간이 지금이야?
 [ENDBLOCK]
 조금 실망이야…
@@ -1441,7 +1441,7 @@ notice
 잘 부탁해
 
 [ENDBLOCK]
-야, 진짜야? 
+야, 진짜야?
 지금 생각을 바꿀 수 있어?
 [ENDBLOCK]
 골치 아픈 녀석이네…
@@ -1675,7 +1675,7 @@ select
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-하지만, 봐. 
+하지만, 봐.
 아름다움은 수명이 짧다고 하잖아.
 [ENDBLOCK]
 <Rihanna>

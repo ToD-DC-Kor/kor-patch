@@ -19,10 +19,10 @@
 부르고 있어
 
 [ENDBLOCK]
-aa 
+aa
 
 [ENDBLOCK]
-bb 
+bb
 
 [ENDBLOCK]
 맞았어
@@ -260,7 +260,7 @@ notice
 notice
 [ENDBLOCK]
 <TAG_007>「칭호 설명」
-칭호란 캐릭터에 설정할 수 있는, 
+칭호란 캐릭터에 설정할 수 있는,
 캐릭터 파라미터 중 하나입니다.
 구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
@@ -331,7 +331,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

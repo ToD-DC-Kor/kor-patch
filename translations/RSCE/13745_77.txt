@@ -457,7 +457,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-나는 일곱 장군 중 한 명, 
+나는 일곱 장군 중 한 명,
 여명의 <Isard>다.
 [ENDBLOCK]
 <Stahn>
@@ -886,7 +886,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 선원
 [ENDBLOCK]
-역시 내가 말한 대로였지? 
+역시 내가 말한 대로였지?
 오베론 사는 악의 집단이었어.
 [ENDBLOCK]
 선원
@@ -1005,7 +1005,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-…리, <Lion>님! 
+…리, <Lion>님!
 지금 그건 다르다고요! 죄송합니다!
 [ENDBLOCK]
 메이드
@@ -1035,7 +1035,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-…리, <Lion>님! 
+…리, <Lion>님!
 지금 그건 다르다고요! 죄송합니다!
 [ENDBLOCK]
 메이드

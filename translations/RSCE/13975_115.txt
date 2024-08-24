@@ -389,7 +389,7 @@ select
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-이런 곳, 
+이런 곳,
 빨리 철수하면 좋을텐데.
 [ENDBLOCK]
 여성

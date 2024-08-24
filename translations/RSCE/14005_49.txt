@@ -396,7 +396,7 @@ select
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-어떻게 할래? 
+어떻게 할래?
 몇 번이고 상대해줄게.
 [ENDBLOCK]
 소년
@@ -409,7 +409,7 @@ select
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-어떻게 할래? 
+어떻게 할래?
 몇 번이고 상대해줄게.
 [ENDBLOCK]
 ----- 패배 -----

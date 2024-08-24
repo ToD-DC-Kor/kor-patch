@@ -254,7 +254,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-그럼 우리는, 
+그럼 우리는,
 폐하에게 잠시 보고하러 가죠.
 [ENDBLOCK]
 <Stahn>

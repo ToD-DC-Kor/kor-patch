@@ -519,7 +519,7 @@ select
 [ENDBLOCK]
 코뮤니 할아버지
 [ENDBLOCK]
-메뉴 해방이야！！！！ 
+메뉴 해방이야！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -534,7 +534,7 @@ notice
 [ENDBLOCK]
 코뮤니 할아버지
 [ENDBLOCK]
-캔버스 해방이야！！！！ 
+캔버스 해방이야！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -544,7 +544,7 @@ notice
 [ENDBLOCK]
 코뮤니 할아버지
 [ENDBLOCK]
-차기 돌 변화의 기술이야！！！！ 
+차기 돌 변화의 기술이야！！！！
 [ENDBLOCK]
 코뮤니 할아버지
 [ENDBLOCK]
@@ -559,7 +559,7 @@ notice
 코뮤니 할아버지
 [ENDBLOCK]
 여기보다 동쪽의 땅, 백은의 세계에 있어.
-그리운 남편에게, 향하라！！！！ 
+그리운 남편에게, 향하라！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]

@@ -93,7 +93,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그런가요? 
+그런가요?
 저는 잘 모르겠어요.
 [ENDBLOCK]
 <Stahn>
@@ -257,7 +257,7 @@
 [ENDBLOCK]
 간호사
 [ENDBLOCK]
-길거리 사람들은 부탁해! 
+길거리 사람들은 부탁해!
 나는 여기서 수용 준비를 하고 있어.
 [ENDBLOCK]
 간호사
@@ -272,7 +272,7 @@
 [ENDBLOCK]
 간호사
 [ENDBLOCK]
-저 침대에 누워 있는 사람, 
+저 침대에 누워 있는 사람,
 벌써 나아졌는데 부상자인 척하고 있어.
 [ENDBLOCK]
 간호사
@@ -291,7 +291,7 @@
 [ENDBLOCK]
 간호사
 [ENDBLOCK]
-이봐 챔피언, 
+이봐 챔피언,
 그 녀석을 어떻게 좀 해줘.
 [ENDBLOCK]
 notice

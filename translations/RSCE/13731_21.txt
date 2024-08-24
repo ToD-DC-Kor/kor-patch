@@ -37,7 +37,7 @@
 <Stahn>
 [ENDBLOCK]
 좋아, 그럼
-형은 신형 비행룡이다! 
+형은 신형 비행룡이다!
 [ENDBLOCK]
 외아들
 [ENDBLOCK]
@@ -196,12 +196,12 @@
 [ENDBLOCK]
 젊은 엄마
 [ENDBLOCK]
-여러분, 
+여러분,
 부디 힘내세요.
 [ENDBLOCK]
 젊은 엄마
 [ENDBLOCK]
-여러분, 
+여러분,
 부디 힘내세요.
 [ENDBLOCK]
 한 명의 아들

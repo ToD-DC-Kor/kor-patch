@@ -574,7 +574,7 @@ CYRI_CAMERA_SIGHT = OFF
 [ENDBLOCK]
 젊은 여성
 [ENDBLOCK]
-대지에 큰 구멍을 뚫다니… 
+대지에 큰 구멍을 뚫다니…
 [ENDBLOCK]
 젊은 여성
 [ENDBLOCK]
@@ -588,7 +588,7 @@ CYRI_CAMERA_SIGHT = OFF
 청년
 [ENDBLOCK]
 みんな 무죄기 있게 기뻐하고 있지만,
-문제는 이 후다… 
+문제는 이 후다…
 [ENDBLOCK]
 청년
 [ENDBLOCK]
@@ -603,11 +603,11 @@ CYRI_CAMERA_SIGHT = OFF
 청년
 [ENDBLOCK]
 일시적이지만, 어떻게 저런 남자를,
-구세주라고 생각했을까… 
+구세주라고 생각했을까…
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-하늘의 상태가 이상해지고 있어… 
+하늘의 상태가 이상해지고 있어…
 [ENDBLOCK]
 청년
 [ENDBLOCK]
@@ -627,12 +627,12 @@ CYRI_CAMERA_SIGHT = OFF
 소녀
 [ENDBLOCK]
 세인가르드는 나쁜 나라였으니까,
-저주를 받은 건가요? 
+저주를 받은 건가요?
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
 판달리아도 저주를 받은 건가요?
-나쁜 짓을 해서? 
+나쁜 짓을 해서?
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
@@ -660,7 +660,7 @@ CYRI_CAMERA_SIGHT = OFF
 [ENDBLOCK]
 사이릴 병사
 [ENDBLOCK]
-뭐야, 저 어마어마한 건… 
+뭐야, 저 어마어마한 건…
 저런 상대에게 이길 수가 없어!
 [ENDBLOCK]
 사이릴 병사
@@ -960,7 +960,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -969,7 +969,7 @@ notice
 나는 <TAG_054>에서 거래를 하고 있는
 <TAG_053>라는 사람이다.
 [ENDBLOCK]
-아직 끝나지 않았나? 
+아직 끝나지 않았나?
 그만둔다고 말하지 마라.
 [ENDBLOCK]
 혹시 시간이 있다면,

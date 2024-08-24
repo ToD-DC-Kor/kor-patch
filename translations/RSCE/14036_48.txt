@@ -116,7 +116,7 @@
 [ENDBLOCK]
 자, 경기 시작이다!
 [ENDBLOCK]
-arena_result ---<x17><x71><x47><xAC><x80> >>> 승리(<x09><x00><x00><x00><x00>).패배(<x09><x02><x00><x00><x00>) 
+arena_result ---<x17><x71><x47><xAC><x80> >>> 승리(<x09><x00><x00><x00><x00>).패배(<x09><x02><x00><x00><x00>)
 
 [ENDBLOCK]
 사회자
@@ -174,7 +174,7 @@ arena_result ---<x17><x71><x47><xAC><x80> >>> 승리(<x09><x00><x00><x00><x00>).
 [ENDBLOCK]
 꽃팔이 소녀
 [ENDBLOCK]
-아! 
+아!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]

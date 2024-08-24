@@ -12,7 +12,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-또 너희들인가! 
+또 너희들인가!
 제발 그만해라!
 [ENDBLOCK]
 악랄한 병사
@@ -35,7 +35,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 악랄한 병사
 [ENDBLOCK]
-기뻐해라. 오늘은, 
+기뻐해라. 오늘은,
 내 여자가 되어줄 것이다.
 [ENDBLOCK]
 <Rutee>
@@ -112,7 +112,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그런 옛날 일, 
+그런 옛날 일,
 어떻게든 상관없잖아요.
 [ENDBLOCK]
 점장
@@ -151,7 +151,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-갑옷을 벗으니까, 
+갑옷을 벗으니까,
 완전히 달라 보이네.
 [ENDBLOCK]
 남자
@@ -196,11 +196,11 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-거절하는 거, 빠르네! 
+거절하는 거, 빠르네!
 [ENDBLOCK]
 점장
 [ENDBLOCK]
-거절하는 거, 빠르네! 
+거절하는 거, 빠르네!
 [ENDBLOCK]
 남자
 [ENDBLOCK]
@@ -334,17 +334,17 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 점원
 [ENDBLOCK]
-성에서 렌즈를 사준다고, 
+성에서 렌즈를 사준다고,
 정말이야?
 [ENDBLOCK]
 점원
 [ENDBLOCK]
-내 새로운 의상을 보고 싶다면, 
+내 새로운 의상을 보고 싶다면,
 반드시 이기고 돌아와야 해!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-위로 가는 방법인가… 
+위로 가는 방법인가…
 어떻게 해야 할까.
 [ENDBLOCK]
 <Dymlos>
@@ -369,7 +369,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-너, 지상에 돌아온 이후로, 
+너, 지상에 돌아온 이후로,
 모습이 이상하지 않아?
 [ENDBLOCK]
 <Stahn>
@@ -406,12 +406,12 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Woodrow>도 말했듯이, 
+<Woodrow>도 말했듯이,
 원래 우리에게는, 위로 올라갈 방법이 없어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런 건… 어쩌면, 
+그런 건… 어쩌면,
 좋은 방법이 있을지도 몰라.
 [ENDBLOCK]
 <Dymlos>
@@ -430,7 +430,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-알겠어! 우리는, 
+알겠어! 우리는,
 도무지 그 녀석에게는 이길 수 없어.
 [ENDBLOCK]
 <Dymlos>
@@ -605,7 +605,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-너에게 어떤 계획이 있냐!? 
+너에게 어떤 계획이 있냐!?
 근성만으로는 어쩔 수 없다고!
 [ENDBLOCK]
 <Stahn>

@@ -46,7 +46,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-하지만 뭐, 
+하지만 뭐,
 <Rutee>가 아무렇지 않아서 다행이야.
 [ENDBLOCK]
 <Rutee>
@@ -81,7 +81,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-농담도 아니야. 왜 너한테, 
+농담도 아니야. 왜 너한테,
 그런 말을 들어야 해.
 [ENDBLOCK]
 <Stahn>
@@ -100,7 +100,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그래서 그렇게 순진하게, 
+그래서 그렇게 순진하게,
 동료니 뭐니, 입에 담을 수 있는 거야.
 [ENDBLOCK]
 <Stahn>
@@ -264,7 +264,7 @@
 <Rutee>
 [ENDBLOCK]
 혼자만 아프고,
-게다가 지금까지 얼렁뚱땅 넘어갔다는 거야? 
+게다가 지금까지 얼렁뚱땅 넘어갔다는 거야?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

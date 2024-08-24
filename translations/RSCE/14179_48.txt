@@ -106,7 +106,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-이봐, 
+이봐,
 너가 울면 어떻게 해.
 [ENDBLOCK]
 남자
@@ -116,7 +116,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 여자
 [ENDBLOCK]
-힘들었던 날들은 이제 끝났어! 
+힘들었던 날들은 이제 끝났어!
 도케이에 영광이여!
 [ENDBLOCK]
 <Johnny>
@@ -141,7 +141,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-그 자가 <Tiberius>와 싸운, 
+그 자가 <Tiberius>와 싸운,
 진짜 이유…
 [ENDBLOCK]
 <Fayte>

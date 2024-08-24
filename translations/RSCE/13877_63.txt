@@ -714,7 +714,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-아가씨, 
+아가씨,
 화나셨죠?
 [ENDBLOCK]
 <Lion>

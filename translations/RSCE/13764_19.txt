@@ -12,7 +12,7 @@
 [ENDBLOCK]
 식자재 가게
 [ENDBLOCK]
-또 저 사람! 
+또 저 사람!
 재료를 사지 않고 놀고 있었네요.
 [ENDBLOCK]
 <Mary>

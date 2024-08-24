@@ -26,7 +26,7 @@ g
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-너야, 
+너야,
 <Rutee>・카틀릿.
 [ENDBLOCK]
 <Rutee>
@@ -78,7 +78,7 @@ g
 [ENDBLOCK]
 보디가드
 [ENDBLOCK]
-<Walt>씨에게, 
+<Walt>씨에게,
 렌즈 모으기를 도와달라고 하셨지.
 [ENDBLOCK]
 보디가드
@@ -107,7 +107,7 @@ g
 [ENDBLOCK]
 보디가드
 [ENDBLOCK]
-왜 아는 줄 아냐고? 
+왜 아는 줄 아냐고?
 헤헤, 뭐 여러 가지가 있지.
 [ENDBLOCK]
 보디가드
@@ -402,9 +402,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

@@ -42,7 +42,7 @@
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Fayte>님! 
+<Fayte>님!
 저는 범인이 아니에요!
 [ENDBLOCK]
 여자아이
@@ -65,7 +65,7 @@
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Johnny>님, 
+<Johnny>님,
 제발 저를 도와주세요!
 [ENDBLOCK]
 <Johnny>
@@ -128,7 +128,7 @@
 병사
 [ENDBLOCK]
 긴 이야기가 될 것인데,
-사건의 개요를 듣고 싶으신가요? 
+사건의 개요를 듣고 싶으신가요?
 네
 아니요
 
@@ -189,7 +189,7 @@
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-범인을 알게 된 건가요!? 
+범인을 알게 된 건가요!?
 네
 아니요
 [ENDBLOCK]
@@ -205,7 +205,7 @@
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-그럼 사건의 개요를 듣고 싶으신가요? 
+그럼 사건의 개요를 듣고 싶으신가요?
 네
 아니요
 [ENDBLOCK]
@@ -226,7 +226,7 @@
 [ENDBLOCK]
 무사
 [ENDBLOCK]
-…내가 차분한 것이 신기한가? 
+…내가 차분한 것이 신기한가?
 끊임없는 정신 수련의 결과란다.
 [ENDBLOCK]
 무사

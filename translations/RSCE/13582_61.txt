@@ -53,7 +53,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-맞아, 이 목소리… 어? 
+맞아, 이 목소리… 어?
 
 [ENDBLOCK]
 <Dymlos>
@@ -69,7 +69,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어? 
+어?
 
 [ENDBLOCK]
 <Stahn>
@@ -80,7 +80,7 @@
 <Stahn>
 [ENDBLOCK]
 맞아! 나는 분명,
-비행 용에서 탈출했어! 
+비행룡에서 탈출했어!
 
 [ENDBLOCK]
 <Stahn>
@@ -182,7 +182,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…아! 
+…아!
 
 [ENDBLOCK]
 <Stahn>
@@ -619,9 +619,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

@@ -24,7 +24,7 @@ reset---------
 [ENDBLOCK]
 아가씨
 [ENDBLOCK]
-이봐 금발, 
+이봐 금발,
 네가 가지고 있는 검…
 [ENDBLOCK]
 <Stahn>
@@ -33,12 +33,12 @@ reset---------
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>무,무슨 일이야!? 
+<TAG_007>무,무슨 일이야!?
 소디언을 알고 있는 거야!?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-하하, 내가 누군지 아는구나? 
+하하, 내가 누군지 아는구나?
 꽤 괜찮지 않냐.
 [ENDBLOCK]
 아가씨
@@ -59,7 +59,7 @@ select
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-바보야! 
+바보야!
 자신을 드러내는 자가 있냐!
 [ENDBLOCK]
 아가씨
@@ -80,12 +80,12 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-이건 검처럼 보이지만, 
+이건 검처럼 보이지만,
 실은 청소를 하기 위한 검이야.
 [ENDBLOCK]
 아가씨
 [ENDBLOCK]
-오호. 뭔가 수상하지만, 
+오호. 뭔가 수상하지만,
 너 같은 초라한 놈에게는 딱 맞네.
 [ENDBLOCK]
 할아버지
@@ -98,7 +98,7 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>나는 <Kongman>이다! 
+<TAG_007>나는 <Kongman>이다!
 그럼 할아버지인가
 [ENDBLOCK]
 할아버지
@@ -111,7 +111,7 @@ select
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
-<Kongman>, 나는 죽기 전에 
+<Kongman>, 나는 죽기 전에
 너에게 부탁할 게 있단다.
 [ENDBLOCK]
 <Kongman>
@@ -236,7 +236,7 @@ select
 <Rutee>
 [ENDBLOCK]
 헤헤.
-어려웠지? 
+어려웠지?
 [ENDBLOCK]
 언니
 [ENDBLOCK]
@@ -244,12 +244,12 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭐, 지금은 고민하라는 거야! 
+뭐, 지금은 고민하라는 거야!
 [ENDBLOCK]
 언니
 [ENDBLOCK]
 언니의 심술이야!
-나 진짜로 고민하고 있는데! 
+나 진짜로 고민하고 있는데!
 [ENDBLOCK]
 언니
 [ENDBLOCK]
@@ -258,7 +258,7 @@ select
 <Rutee>
 [ENDBLOCK]
 괜찮았어?
-다치진 않았어? 
+다치진 않았어?
 [ENDBLOCK]
 언니
 [ENDBLOCK]
@@ -980,7 +980,7 @@ select
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-왜 <Stahn>군가 여기 있는 거야!? 
+왜 <Stahn>군가 여기 있는 거야!?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1046,7 +1046,7 @@ select
 <Stahn>
 [ENDBLOCK]
 그렇구나. 그럼,
-나도 신경 써도 되는 거구나! 
+나도 신경 써도 되는 거구나!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1184,7 +1184,7 @@ select
 [ENDBLOCK]
 마을의 여성
 [ENDBLOCK]
-이게 도대체 무슨 소동인가요!? 
+이게 도대체 무슨 소동인가요!?
 [ENDBLOCK]
 마을의 여성
 [ENDBLOCK]
@@ -1308,7 +1308,7 @@ select
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
-히익, 도와줘! 
+히익, 도와줘!
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
@@ -1317,7 +1317,7 @@ select
 할아버지
 [ENDBLOCK]
 야만인 놈들을,
-처벌해 주세요! 
+처벌해 주세요!
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
@@ -1374,7 +1374,7 @@ select
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-아이스캔디 알아? 
+아이스캔디 알아?
 이 도시의 명물이에요.
 [ENDBLOCK]
 아이
@@ -1398,7 +1398,7 @@ select
 아이
 [ENDBLOCK]
 밖이 계속 밤이라면,
-햇볕에 타지 않을 수 있을까? 
+햇볕에 타지 않을 수 있을까?
 [ENDBLOCK]
 아이
 [ENDBLOCK]
@@ -1406,7 +1406,7 @@ select
 [ENDBLOCK]
 장식가
 [ENDBLOCK]
-보석은 어떠신가요? 
+보석은 어떠신가요?
 품목에는 자신이 있어요.
 [ENDBLOCK]
 장식가
@@ -1416,7 +1416,7 @@ select
 [ENDBLOCK]
 장식가
 [ENDBLOCK]
-저희 가게는 언제든지 영업 중입니다! 
+저희 가게는 언제든지 영업 중입니다!
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
@@ -1560,12 +1560,12 @@ notice
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-모두, 투기장으로 대피해! 
+모두, 투기장으로 대피해!
 거기면 안전해!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Ilene>? 
+<Ilene>?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1573,19 +1573,19 @@ notice
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-여러분, 제발! 
+여러분, 제발!
 시민들을 유도해 주세요!
 [ENDBLOCK]
 여자
 [ENDBLOCK]
 살려줘! 	살려줘 제발!
 [ENDBLOCK]
-비켜! 
+비켜!
 가난한 주제에 방해하지 마!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-생명의 무게에 빈부의 차이는 없어! 
+생명의 무게에 빈부의 차이는 없어!
 비열한 생각은 그만둬!
 [ENDBLOCK]
 죄송합니다…
@@ -1668,7 +1668,7 @@ notice
 [ENDBLOCK]
 ？？？？
 [ENDBLOCK]
-<Stahn>!? 
+<Stahn>!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

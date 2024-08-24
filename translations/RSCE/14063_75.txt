@@ -401,7 +401,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-고마워? 
+고마워?
 [ENDBLOCK]
 아이
 [ENDBLOCK]
@@ -919,7 +919,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-하? 
+하?
 [ENDBLOCK]
 바로 모리우 영토로 향해 주세요.
 젊은이에게도 연락은 갔습니다.
@@ -974,7 +974,7 @@ notice
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그럼, 젊은이라는 사람 알아? 
+그럼, 젊은이라는 사람 알아?
 이 사람이 지금, 모리우 영토에.
 [ENDBLOCK]
 <Philia>
@@ -1244,5 +1244,5 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

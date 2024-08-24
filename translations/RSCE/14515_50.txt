@@ -56,7 +56,7 @@ ice
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<TAG_034>       ++++    
+<TAG_034>       ++++   
 
 [ENDBLOCK]
 traenow_light<x17><x71><x47><xE4><x80>
@@ -331,7 +331,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

@@ -645,7 +645,7 @@ notice
 기술자
 [ENDBLOCK]
 위어드 샷으로
-놀고 싶어? 
+놀고 싶어?
 네
 아니요
 [ENDBLOCK]
@@ -725,7 +725,7 @@ notice
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-어느 쪽으로 놀래? 
+어느 쪽으로 놀래?
 위어드 샷
 폐하의 북
 지금은 괜찮아
@@ -1139,7 +1139,7 @@ select
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-<Kongman>과 싸웠다고? 
+<Kongman>과 싸웠다고?
 너 같은 애는 이길 수 없어.
 [ENDBLOCK]
 도전자

@@ -569,7 +569,7 @@ reset---------
 소년
 [ENDBLOCK]
 하늘의 천장에 구멍을 뚫고,
-위로 올라가!? 
+위로 올라가!?
 [ENDBLOCK]
 소년
 [ENDBLOCK]
@@ -989,7 +989,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 일이야, <Kongman>? 
+무슨 일이야, <Kongman>?
 너답지 않잖아.
 [ENDBLOCK]
 <Kongman>

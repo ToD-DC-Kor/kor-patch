@@ -13,7 +13,7 @@
 잠깐만. 더 이상,
 너희들이 마음대로 하게는 두지 않겠다.
 [ENDBLOCK]
-<마리 에이젠트>
+<Mary>
 [ENDBLOCK]
 너는…
 [ENDBLOCK]
@@ -31,14 +31,14 @@
 [ENDBLOCK]
 잘 기억하고 있었군.
 [ENDBLOCK]
-<루티 카틀릿>
+<Rutee>
 [ENDBLOCK]
 너…
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
 역시 오베론 사의 간부가,
-<휴고 질크리스트>의 악행에 가담하고 있었군.
+<Hugo>의 악행에 가담하고 있었군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -78,7 +78,7 @@
 하늘을 외각으로 덮어, 지상의 사람을
 괴롭히는 것이, 신념인가?
 [ENDBLOCK]
-<필리아 필리스>
+<Philia>
 [ENDBLOCK]
 그로 인해 당신들은,
 무엇을 얻을 생각인가요?
@@ -409,7 +409,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

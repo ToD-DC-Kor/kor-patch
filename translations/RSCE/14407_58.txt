@@ -513,7 +513,7 @@ select
 [ENDBLOCK]
 커뮤니 할아버지
 [ENDBLOCK]
-메뉴 해방이야！！！！ 
+메뉴 해방이야！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -527,7 +527,7 @@ notice
 [ENDBLOCK]
 커뮤니 할아버지
 [ENDBLOCK]
-캔버스 해방이야！！！！ 
+캔버스 해방이야！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -537,7 +537,7 @@ notice
 [ENDBLOCK]
 커뮤니 할아버지
 [ENDBLOCK]
-차기 돌 변화의 기술이야！！！！ 
+차기 돌 변화의 기술이야！！！！
 [ENDBLOCK]
 커뮤니 할아버지
 [ENDBLOCK]
@@ -552,7 +552,7 @@ notice
 커뮤니 할아버지
 [ENDBLOCK]
 여기보다 동쪽의 땅, 백은의 세계에 있어.
-그리운 남편에게, 나아가거라！！！！ 
+그리운 남편에게, 나아가거라！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1077,7 +1077,7 @@ select
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-하늘 위의 녀석들, 
+하늘 위의 녀석들,
 우리들을 근절할 생각인가?
 [ENDBLOCK]
 청년
@@ -1392,7 +1392,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

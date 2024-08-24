@@ -874,11 +874,11 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 남자
 [ENDBLOCK]
@@ -910,7 +910,7 @@ select
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-그럼, 
+그럼,
 도시에서 살아남을 수 없겠군.
 [ENDBLOCK]
 남자
@@ -938,7 +938,7 @@ select
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-제발, 
+제발,
 사줘!
 [ENDBLOCK]
 <Stahn>
@@ -951,7 +951,7 @@ select
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-돈이 없나… 아하, 
+돈이 없나… 아하,
 그럼 그냥 가도 돼.
 [ENDBLOCK]
 남자
@@ -966,6 +966,6 @@ select
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-그 놈의 이름? 
+그 놈의 이름?
 그건, <Ashley>라는 녀석이야.
 [ENDBLOCK]

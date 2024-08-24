@@ -42,7 +42,7 @@
 [ENDBLOCK]
 연구자
 [ENDBLOCK]
-그렇지. 어때, 
+그렇지. 어때,
 맡아줄 수 없겠니?
 <TAG_007>네
 아니오
@@ -565,7 +565,7 @@ notice
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-부서진 비행 용은,
+부서진 비행룡은,
 수리할 수 있다고 합니다.
 [ENDBLOCK]
 <Stahn>
@@ -806,12 +806,12 @@ notice
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn> 네가 방금, 
+<Stahn> 네가 방금,
 나에게 이렇게 말했지.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-「내가 믿음직하지 않다면, 
+「내가 믿음직하지 않다면,
 더욱 단련해달라」고.
 [ENDBLOCK]
 <Dymlos>
@@ -832,7 +832,7 @@ notice
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-다른 세 명의 마스터들도, 
+다른 세 명의 마스터들도,
 같은 생각이라고 해도 괜찮겠냐?
 [ENDBLOCK]
 <Rutee>
@@ -862,32 +862,32 @@ notice
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-오지 않을 수 있다면, 
+오지 않을 수 있다면,
 그게 더 좋았을지도 모르지만…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dymlos> 너 방금부터, 
+<Dymlos> 너 방금부터,
 뭘 주저하고 있는 거냐?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-「진정한 의미의 강화」란, 
+「진정한 의미의 강화」란,
 우리들만의 문제가 아니다.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-그렇다. 검은 사용자가, 
+그렇다. 검은 사용자가,
 가질 수 있는 힘을 발휘하는 것이다.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-즉 강화란, 마스터에게도, 
+즉 강화란, 마스터에게도,
 동시에 이루어져야 의미가 없다…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-즉, 우리에게 수련하라는 거냐? 
+즉, 우리에게 수련하라는 거냐?
 원하는 대로다. 뭐든 하겠다!
 [ENDBLOCK]
 <Dymlos>
@@ -901,12 +901,12 @@ notice
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-앞으로 갈 연구소에서, 너희는, 
+앞으로 갈 연구소에서, 너희는,
 전례 없는 벽에 직면할 것이다.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-진정한 소디언 마스터가 되기 위한, 
+진정한 소디언 마스터가 되기 위한,
 최종 시험이라는 벽에.
 [ENDBLOCK]
 <Stahn>

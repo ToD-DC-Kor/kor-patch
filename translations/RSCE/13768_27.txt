@@ -47,7 +47,7 @@
 [ENDBLOCK]
 여행자
 [ENDBLOCK]
-정말 다른 사람인 건가? 
+정말 다른 사람인 건가?
 
 [ENDBLOCK]
 여행자
@@ -126,127 +126,127 @@
 <Ashley>
 [ENDBLOCK]
 마을 사람들이ね,
-내 이름을 불러주고 있어! 
+내 이름을 불러주고 있어!
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 다른 누구도 아닌,
-「마을을 구한 장군<Ashley>」이라고! 
+「마을을 구한 장군<Ashley>」이라고!
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 나는 더 이상 가면을
-쓸 필요가 없어! 
+쓸 필요가 없어!
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 마을 사람들이ね,
-내 이름을 불러주고 있어! 
+내 이름을 불러주고 있어!
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 다른 누구도 아닌,
-「마을을 구한 장군<Ashley>」이라고! 
+「마을을 구한 장군<Ashley>」이라고!
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 나는 더 이상 형의 대체가
-아니야! 
+아니야!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-무슨 말인가요? 
+무슨 말인가요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 그렇다면, 이전에,
 왕님께서도, 형에 대해
-말씀하셨죠. 
+말씀하셨죠.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 내 형은<Finlay>라는
-일곱 장군의 결성자야. 
+일곱 장군의 결성자야.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 어쨌든 형은 대단한 사람이었어.
-검 실력도, 사람으로서의 매력도. 
+검 실력도, 사람으로서의 매력도.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 그런데 왜, 재능 있는 사람은
-이렇게 단명하는 걸까? 
+이렇게 단명하는 걸까?
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 덕분에, 주변 사람들은 내가
 <Finlay>의 동생이 아닌,
-<Finlay>가 되기를 기대하기 시작했어. 
+<Finlay>가 되기를 기대하기 시작했어.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
 아, 형이
-싫은 건가요? 
+싫은 건가요?
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 아니, 지금도 정말 좋아해.
-그래서 나도 노력했어… 
+그래서 나도 노력했어…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 …하지만, 형이 될 수는
-없었어… 
+없었어…
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 그런 건 당연한 거야.
-상당히 시간을 낭비했네. 
+상당히 시간을 낭비했네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 정말 그렇습니다.
-당신은, 당신이니까요. 
+당신은, 당신이니까요.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 그 말이 기쁘네.
-고마워. 
+고마워.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 잠시 동안은, 이대로
-이 마을 일대의 경비를 맡을 거야. 
+이 마을 일대의 경비를 맡을 거야.
 [ENDBLOCK]
 
 [ENDBLOCK]
 <TAG_005>알메이다에 오신 것을 환영합니다.
-참배 전에 꼭 숙박하세요! 
+참배 전에 꼭 숙박하세요!
 [ENDBLOCK]
 여성
 [ENDBLOCK]
 여기는 스트레이라이즈 신전의
-영역, 알메이다 마을이에요. 
+영역, 알메이다 마을이에요.
 [ENDBLOCK]
 여성
 [ENDBLOCK]
 무슨 끔찍한 일이 벌어졌을까요.
-오 신님, 도와주세요… 
+오 신님, 도와주세요…
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-여러분에게 신의 가호가 있기를. 
+여러분에게 신의 가호가 있기를.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
 항상 신전에서, 아타모니 신이,
-우리의 삶을 지켜보고 계신단다. 
+우리의 삶을 지켜보고 계신단다.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
 신전에서 무슨 일이 일어났다는 소문인데,
-정말일까. 
+정말일까.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]

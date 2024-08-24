@@ -699,7 +699,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 술집의 여주인
 [ENDBLOCK]
-…왜 아는 거냐고? 
+…왜 아는 거냐고?
 이 장사를 하다 보면 귀가 밝아지거든.
 [ENDBLOCK]
 술집의 여주인
@@ -724,7 +724,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 술집의 여주인
 [ENDBLOCK]
-…왜 아는 거냐고? 
+…왜 아는 거냐고?
 이 장사를 하다 보면 귀가 밝아지거든.
 [ENDBLOCK]
 술집의 여주인
@@ -1243,9 +1243,9 @@ notice
 <TAG_032>갈드를 받았습니다.
 
 [ENDBLOCK]
-잘 부탁해! 
+잘 부탁해!
 [ENDBLOCK]
-아쉽네. 
+아쉽네.
 다시 부탁할게.
 [ENDBLOCK]
 그럼, 한가할 때 부탁해.
@@ -1307,7 +1307,7 @@ notice
 [ENDBLOCK]
 그럼 힘내.
 [ENDBLOCK]
-진짜로 말하는 거야? 
+진짜로 말하는 거야?
 다시 생각할 시간은 지금뿐이야?
 [ENDBLOCK]
 조금 실망이네…
@@ -1341,7 +1341,7 @@ notice
 잘 부탁해
 
 [ENDBLOCK]
-야, 진짜야? 
+야, 진짜야?
 지금 생각을 바꿀 수 있어?
 [ENDBLOCK]
 문제가 있는 녀석이네…

@@ -519,7 +519,7 @@ select
 [ENDBLOCK]
 코뮤니 할아버지
 [ENDBLOCK]
-메뉴 해방이야！！！！ 
+메뉴 해방이야！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -534,7 +534,7 @@ notice
 [ENDBLOCK]
 코뮤니 할아버지
 [ENDBLOCK]
-캔버스 해방이야！！！！ 
+캔버스 해방이야！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -544,7 +544,7 @@ notice
 [ENDBLOCK]
 코뮤니 할아버지
 [ENDBLOCK]
-차기 돌 변화의 기술이야！！！！ 
+차기 돌 변화의 기술이야！！！！
 [ENDBLOCK]
 코뮤니 할아버지
 [ENDBLOCK]
@@ -559,7 +559,7 @@ notice
 코뮤니 할아버지
 [ENDBLOCK]
 여기보다 동쪽의 땅, 백은의 세계에 있어.
-그리운 남편에게, 향하라！！！！ 
+그리운 남편에게, 향하라！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -927,7 +927,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-이것이 우리의 힘이다. 압도적인, 
+이것이 우리의 힘이다. 압도적인,
 정말 신이라고 부를 수밖에 없는 궁극의 힘!
 [ENDBLOCK]
 <Lilith>
@@ -940,17 +940,17 @@ notice
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-다녀온 게 아니야! 
+다녀온 게 아니야!
 도대체 어디에 간 거야!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-편지 하나 없이, 
+편지 하나 없이,
 내가 얼마나 걱정했는지…！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-미안해. 이제 조용히 할게, 
+미안해. 이제 조용히 할게,
 나가버리지 않을 거니까.
 [ENDBLOCK]
 <Lilith>
@@ -988,12 +988,12 @@ notice
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-항상 멍하니 있다가, 
+항상 멍하니 있다가,
 결정적인 순간에 믿음직하더라고.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-어려운 일이 있으면, 
+어려운 일이 있으면,
 즉시 달려와서 도와주고.
 [ENDBLOCK]
 <Stahn>
@@ -1002,7 +1002,7 @@ notice
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-분명 그 <Philia> 씨도, 
+분명 그 <Philia> 씨도,
 같은 생각을 하고 있을 거야…
 [ENDBLOCK]
 <Stahn>
@@ -1019,12 +1019,12 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-왕님께 부탁받은 것도 있지만, 
+왕님께 부탁받은 것도 있지만,
 그것만이 이유는 아니야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-가장 중요한 것은, 내가 스스로, 
+가장 중요한 것은, 내가 스스로,
 그렇게 하고 싶다고 생각하고 있다는 거야.
 [ENDBLOCK]
 <Lilith>
@@ -1033,7 +1033,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-가족을 행복하게 하고 싶으면서도, 
+가족을 행복하게 하고 싶으면서도,
 가족을 울리는 건 모순이지만.
 [ENDBLOCK]
 <Stahn>

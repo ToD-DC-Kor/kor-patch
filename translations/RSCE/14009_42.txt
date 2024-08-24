@@ -494,7 +494,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Rutee>
 [ENDBLOCK]
 아~, 불쌍해.
-길을 잃어버렸구나, 나? 
+길을 잃어버렸구나, 나?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

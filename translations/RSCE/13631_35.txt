@@ -322,7 +322,7 @@ notice
 [ENDBLOCK]
 고수님
 [ENDBLOCK]
-멈추는 것도 자유, 
+멈추는 것도 자유,
 앞으로 나아가는 것도 자유.
 [ENDBLOCK]
 고수님
@@ -349,7 +349,7 @@ notice
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-이리 와! 
+이리 와!
 빨리 일어나!
 
 [ENDBLOCK]
@@ -360,7 +360,7 @@ notice
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-안녕이 아니야! 
+안녕이 아니야!
 빨리 준비해!
 
 [ENDBLOCK]
@@ -619,9 +619,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

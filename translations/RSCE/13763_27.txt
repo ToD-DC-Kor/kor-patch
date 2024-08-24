@@ -181,7 +181,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어? 당신들은, 
+어? 당신들은,
 렌즈…
 [ENDBLOCK]
 <Grid>
@@ -302,11 +302,11 @@
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-나도! 
+나도!
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-나도! 
+나도!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -765,7 +765,7 @@ notice
 <TAG_032>갈드를 받았습니다.
 
 [ENDBLOCK]
-잘 부탁해! 
+잘 부탁해!
 [ENDBLOCK]
 아, 아쉽네.
 다시 부탁할게.

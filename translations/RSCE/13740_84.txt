@@ -367,7 +367,7 @@ debug
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-형아들, 
+형아들,
 힘내줘!!
 [ENDBLOCK]
 아이
@@ -464,7 +464,7 @@ debug
 젊은 남자
 [ENDBLOCK]
 그 방송은 분명 <Hugo> 씨의 목소리…
-왜 이런 일이!? 
+왜 이런 일이!?
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
@@ -1034,7 +1034,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…어이없지? 
+…어이없지?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1123,12 +1123,12 @@ notice
 <Dymlos>
 [ENDBLOCK]
 …말할 필요도 없겠지.
-어떻게든 하고 싶어! 
+어떻게든 하고 싶어!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 천 년 전, 고생해서 되찾은 대지를,
-그냥 빼앗기게 두지 않겠어! 
+그냥 빼앗기게 두지 않겠어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

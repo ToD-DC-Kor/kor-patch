@@ -4,26 +4,26 @@
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-이곳은 도대체 어떤 투기장인가! 
-이렇게 도전하러 왔는데, 
-챔피언이 없다니! 
+이곳은 도대체 어떤 투기장인가!
+이렇게 도전하러 왔는데,
+챔피언이 없다니!
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-무전승이야, 무전승! 
+무전승이야, 무전승!
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-즉, 우리야말로 새로운! 
+즉, 우리야말로 새로운!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-새로운! 
+새로운!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-우리는 칠흑, 칠흑의 날개♪ 
-새로운 챔피언, 예이! 
+우리는 칠흑, 칠흑의 날개♪
+새로운 챔피언, 예이!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -31,22 +31,22 @@
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-안녕, 너희들. 사인이 필요해? 
+안녕, 너희들. 사인이 필요해?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-필요 없어요. 그보다 너희들, 
-영웅 놀이 그만두지 않았어? 
+필요 없어요. 그보다 너희들,
+영웅 놀이 그만두지 않았어?
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-우리 같은 큰 그릇을 가진 인간은, 
-하나의 장소에 계속 있을 수 없어. 
+우리 같은 큰 그릇을 가진 인간은,
+하나의 장소에 계속 있을 수 없어.
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-투기장에서 활약하면 이름이 알려질 줄 알고, 
-이 도시로 왔어. 
+투기장에서 활약하면 이름이 알려질 줄 알고,
+이 도시로 왔어.
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
@@ -55,17 +55,17 @@
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-아마도, 우리를 두려워해서, 
-도망쳤겠지. 하하하! 
+아마도, 우리를 두려워해서,
+도망쳤겠지. 하하하!
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-어, 어른님! 
+어, 어른님!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-콩맨, 죽이면 안 돼. 
-적당히 해줘. 
+콩맨, 죽이면 안 돼.
+적당히 해줘.
 [ENDBLOCK]
 간호사
 [ENDBLOCK]
@@ -73,7 +73,7 @@
 [ENDBLOCK]
 간호사
 [ENDBLOCK]
-하하, 광대처럼 
+하하, 광대처럼
 볼이 빨갛잖아, 하하…
 [ENDBLOCK]
 간호사
@@ -82,31 +82,31 @@
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-무슨 일이야? 
+무슨 일이야?
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-저기, <Kongman> 씨. 
-매니저님이 부르고 있어요. 
+저기, <Kongman> 씨.
+매니저님이 부르고 있어요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-오, 알겠어. 
+오, 알겠어.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-그럼, <Philia> 씨, 
-잠시 안녕이야. 
+그럼, <Philia> 씨,
+잠시 안녕이야.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-내가 그리워서, 
-잠 못 이루는 밤이 계속된다면… 
+내가 그리워서,
+잠 못 이루는 밤이 계속된다면…
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-마음속으로 내 이름을, 
-조용히 중얼거려 줘. 
+마음속으로 내 이름을,
+조용히 중얼거려 줘.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -160,7 +160,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그렇나요? 
+그렇나요?
 자신은 잘 모르겠어요.
 [ENDBLOCK]
 <Stahn>
@@ -360,7 +360,7 @@
 [ENDBLOCK]
 간호사
 [ENDBLOCK]
-이봐 챔피언, 
+이봐 챔피언,
 그 녀석을 어떻게 좀 해줘.
 [ENDBLOCK]
 관객
@@ -375,7 +375,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-저<Kongman>은 
+저<Kongman>은
 상당한 인기인 것 같아.
 [ENDBLOCK]
 <Ilene>
@@ -395,7 +395,7 @@
 <Dymlos>
 [ENDBLOCK]
 해보겠다면, 패배는 허용되지 않아.
-알겠지, <Stahn>? 
+알겠지, <Stahn>?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -680,7 +680,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-맹세? 
+맹세?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]

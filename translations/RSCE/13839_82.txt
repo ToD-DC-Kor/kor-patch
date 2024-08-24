@@ -357,7 +357,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-무, 무슨 소리예요!? 
+무, 무슨 소리예요!?
 <Kongman>님!!
 [ENDBLOCK]
 신관
@@ -402,7 +402,7 @@ notice
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-왜 그거야, 이 자식아!? 
+왜 그거야, 이 자식아!?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -465,7 +465,7 @@ notice
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-아직도냐!? 
+아직도냐!?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -479,12 +479,12 @@ notice
 <Kongman>
 [ENDBLOCK]
 이 자식, 내가
-악마라고 생각하나!? 
+악마라고 생각하나!?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
 그나저나, 지금 상황은
-도대체 뭐란 말이야! 
+도대체 뭐란 말이야!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -504,7 +504,7 @@ notice
 <Kongman>
 [ENDBLOCK]
 우와, 신이여!
-나는 반드시 이겨내겠다! 
+나는 반드시 이겨내겠다!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -641,7 +641,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-네! 
+네!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -719,7 +719,7 @@ notice
 [ENDBLOCK]
 악당
 [ENDBLOCK]
-우리는 소디언 마스터다! 
+우리는 소디언 마스터다!
 거역할 건가!
 [ENDBLOCK]
 악당

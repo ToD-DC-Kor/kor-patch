@@ -283,7 +283,7 @@ reset---------
 [ENDBLOCK]
 아가씨
 [ENDBLOCK]
-힘내! <Kongman>! 
+힘내! <Kongman>!
 마이티! 마이티!
 [ENDBLOCK]
 수녀
@@ -606,12 +606,12 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-잊지 않을 거야. 누가 먼저, 
+잊지 않을 거야. 누가 먼저,
 이상을 실현하는지, 그렇지?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-다음에 만날 때까지, 
+다음에 만날 때까지,
 결과가 나왔으면 좋겠네.
 [ENDBLOCK]
 <Rutee>
@@ -645,22 +645,22 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Kongman>네가 아니냐! 
+<Kongman>네가 아니냐!
 잘 지냈어?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-당연하지! 챔피언인 나가, 
+당연하지! 챔피언인 나가,
 아프지 않을 리가 없어!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-판달리아로 가는 거지? 
+판달리아로 가는 거지?
 나도 같이 갈 거야!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-챔피언인 네가, 
+챔피언인 네가,
 도시를 떠나도 괜찮은 거냐?
 [ENDBLOCK]
 <Kongman>
@@ -669,12 +669,12 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그 마음은 고맙지만, 
+그 마음은 고맙지만,
 무리하지는 마세요…
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-부디 사양하지 마세요. 
+부디 사양하지 마세요.
 당신과 나는 친구가 아닙니까.
 [ENDBLOCK]
 <Philia>
@@ -683,17 +683,17 @@ notice
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-어쨌든, 나도 간다! 
+어쨌든, 나도 간다!
 이미 결정했으니까!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-알겠어. 그런 거라면 잘 부탁해, 
+알겠어. 그런 거라면 잘 부탁해,
 <Kongman>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-모든 걸 나에게 맡겨! 
+모든 걸 나에게 맡겨!
 하하하하!
 [ENDBLOCK]
 notice

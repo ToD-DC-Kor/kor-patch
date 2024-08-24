@@ -107,7 +107,7 @@ s  <x17><x69><x46><x7D><x80>
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-자꾸 가져다 줘! 
+자꾸 가져다 줘!
 돈은 걱정하지 마!
 [ENDBLOCK]
 <Millie>
@@ -121,7 +121,7 @@ s  <x17><x69><x46><x7D><x80>
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-우리가 있으면, 승리는 의심할 여지가 없다! 
+우리가 있으면, 승리는 의심할 여지가 없다!
 왜냐하면 바로 우리가, 그들이다!
 [ENDBLOCK]
 <Millie>
@@ -160,7 +160,7 @@ s  <x17><x69><x46><x7D><x80>
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-눈을 치우라고? 
+눈을 치우라고?
 왜 우리가 그런 잡일을 해야 하지!
 [ENDBLOCK]
 <Alba>

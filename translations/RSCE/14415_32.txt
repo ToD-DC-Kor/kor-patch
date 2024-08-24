@@ -314,7 +314,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -434,11 +434,11 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-내…? 그런 게 있었나? 
+내…? 그런 게 있었나?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-내용을 읽어보면, 
+내용을 읽어보면,
 뭔가 알 수 있을 거야?
 [ENDBLOCK]
 <Rutee>
@@ -474,12 +474,12 @@ select
 [ENDBLOCK]
 ○월×일
 [ENDBLOCK]
-오늘은 모은 돈으로, 
+오늘은 모은 돈으로,
 젤리를 많이 샀어.
 [ENDBLOCK]
 ○월×일
 [ENDBLOCK]
-여행자에게 젤리를 팔았더니, 
+여행자에게 젤리를 팔았더니,
 모두 합쳐서 50갈드 이익이 생겼어.
 [ENDBLOCK]
 <Rutee>

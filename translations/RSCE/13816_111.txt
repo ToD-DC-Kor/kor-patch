@@ -73,7 +73,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-찾아주도록 하죠, 
+찾아주도록 하죠,
 젊은이.
 [ENDBLOCK]
 <Lion>
@@ -144,7 +144,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-그만해, 그만 해줘! 
+그만해, 그만 해줘!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -165,12 +165,12 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-알겠냐, 다시는 안 돼! 
+알겠냐, 다시는 안 돼!
 [ENDBLOCK]
 신관
 [ENDBLOCK]
 왜, 왜 그렇게
-화가 나신 건가요!? 
+화가 나신 건가요!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -193,7 +193,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-이 자가… 무슨 의미인가요? 
+이 자가… 무슨 의미인가요?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -206,7 +206,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-하, 네. 아직 뭔가요? 
+하, 네. 아직 뭔가요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -216,7 +216,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 신관
 [ENDBLOCK]
 아, 그랬군요.
-도대체 어떤 창고였죠? 
+도대체 어떤 창고였죠?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -225,7 +225,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-내가 밤중에…? 
+내가 밤중에…?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -233,7 +233,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-다음부터는 조심해라! 
+다음부터는 조심해라!
 [ENDBLOCK]
 신관
 [ENDBLOCK]

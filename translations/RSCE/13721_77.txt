@@ -121,17 +121,17 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-잠깐, 이러면 우리, 
+잠깐, 이러면 우리,
 갈드가 바닥나버릴 거야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>.거짓말이라도, 
+<Stahn>.거짓말이라도,
 이유를 물어봐야 해!
 [ENDBLOCK]
 렌즈 상점
 [ENDBLOCK]
-고객님, 말씀드리기 어려운데, 
+고객님, 말씀드리기 어려운데,
 현재 렌즈 환전은 하고 있지 않습니다.
 [ENDBLOCK]
 <Rutee>
@@ -159,7 +159,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그렇지 않으면, 
+그렇지 않으면,
 우린 내일이 없을 거야… 아마도.
 [ENDBLOCK]
 렌즈 상점
@@ -268,7 +268,7 @@ debug
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-저기, 형아들, 
+저기, 형아들,
 성의 병사들에게 잡히지 않았어?
 [ENDBLOCK]
 아이
@@ -278,32 +278,32 @@ debug
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-저기, 언니들, 
+저기, 언니들,
 성의 병사들에게 잡히지 않았어?
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-우와아아아! 
+우와아아아!
 검사님이다!
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-우와아아아! 
+우와아아아!
 검사님이다!
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-우와아아아! 
+우와아아아!
 렌즈 헌터다!
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-우와아아아! 
+우와아아아!
 전사님이다!
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-우와아아아! 
+우와아아아!
 사제님이다!
 [ENDBLOCK]
 아이
@@ -420,7 +420,7 @@ debug
 젊은 남자
 [ENDBLOCK]
 그 방송은 확실히 <Hugo> 씨의 목소리…
-왜 이런 일이!? 
+왜 이런 일이!?
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
@@ -608,7 +608,7 @@ debug
 [ENDBLOCK]
 여인
 [ENDBLOCK]
-그 끔찍한 외殻에, 
+그 끔찍한 외殻에,
 구멍을 뚫어줘!
 [ENDBLOCK]
 여인
@@ -641,22 +641,22 @@ debug
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-어쩐지 성의 움직임이, 
+어쩐지 성의 움직임이,
 바쁘게 돌아가는 것 같아.
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-하늘에서 들려온 목소리, 
+하늘에서 들려온 목소리,
 어딘가에서 들어본 것 같아.
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-하늘에서 방송을 하고 있었던 건, 
+하늘에서 방송을 하고 있었던 건,
 오베론 사의 총수였던 것 같아.
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-세인가르드는 앞으로, 
+세인가르드는 앞으로,
 어떻게 되어버릴까…
 [ENDBLOCK]
 어머니
@@ -665,12 +665,12 @@ debug
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-소문에 의하면, 군의 비행룡이라는 탈것이 
+소문에 의하면, 군의 비행룡이라는 탈것이
 몬스터에게 습격당한 모양이야.
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-그게 엄청 중요한 기밀을 
+그게 엄청 중요한 기밀을
 운반하고 있는 중이었다고 해!
 [ENDBLOCK]
 남자
@@ -680,17 +680,17 @@ debug
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-세인가르드와 판달리아의 국경 근처에, 
+세인가르드와 판달리아의 국경 근처에,
 양국이 공동으로 무언가를 묻었다는 소문이 있어.
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-요즘은 거리 어디를 가든, 
+요즘은 거리 어디를 가든,
 <Lion>・매그너스의 이야기가 끊이지 않아.
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-정체불명의 미소년에, 실력도 뛰어난다면, 
+정체불명의 미소년에, 실력도 뛰어난다면,
 소문이 나지 않는 게 이상하지.
 [ENDBLOCK]
 남자
@@ -710,12 +710,12 @@ debug
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-햇빛이 비추지 않게 되면, 
+햇빛이 비추지 않게 되면,
 지상은 순식간에 얼어버릴 거야…
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-성에서, 외殻을 뚫기 위한 
+성에서, 외殻을 뚫기 위한
 비밀 병기를 만들고 있다고?
 [ENDBLOCK]
 남자
@@ -855,13 +855,13 @@ notice
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-그리고 그 강렬한 빛! 
-어떤 엄청난 기술력인가! 
+그리고 그 강렬한 빛!
+어떤 엄청난 기술력인가!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-너, 네 나라가 무너졌는데, 
-왜 그렇게 신나하냐? 
+너, 네 나라가 무너졌는데,
+왜 그렇게 신나하냐?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -869,17 +869,17 @@ notice
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-그것이 다이크로프트에서 방출된, 
+그것이 다이크로프트에서 방출된,
 빛의 정체야.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-이름 그대로, 
+이름 그대로,
 지상의 파괴를 목적으로 한다.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-저 공중 도시가 천지전쟁에서 사용되었다고, 
+저 공중 도시가 천지전쟁에서 사용되었다고,
 말했던 것 같은데…
 [ENDBLOCK]
 <Stahn>
@@ -888,32 +888,32 @@ notice
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-…너희에게는, 
+…너희에게는,
 진실을 이야기할 수밖에 없겠군.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-지금으로부터 천 년 전, 
+지금으로부터 천 년 전,
 인류 모두를 휘말리게 하는 대전쟁이 있었다.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-싸운 것은 우리가 속한 지상군과, 
+싸운 것은 우리가 속한 지상군과,
 공중 도시를 보유한 천상군이었다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그래서 천지전쟁…! 
+그래서 천지전쟁…!
 단순한 전설이 아니었군요.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-그 천지전쟁에서 큰 역할을 한 것이, 
+그 천지전쟁에서 큰 역할을 한 것이,
 신의 눈…
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-「세계를 엄청난 재앙에, 
+「세계를 엄청난 재앙에,
 끌어들인 원흉」이었다.
 [ENDBLOCK]
 <Clemente>
@@ -922,23 +922,23 @@ notice
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-하지만 우리는 천지전쟁의 기억을, 
+하지만 우리는 천지전쟁의 기억을,
 인류의 역사에서 지우고 싶었다.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-다시 같은 잘못이, 
+다시 같은 잘못이,
 되풀이되지 않도록 말이야.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-하지만 결과적으로, 
+하지만 결과적으로,
 공중 도시는 부활하고 말았다…
 [ENDBLOCK]
 
 [ENDBLOCK]
-지상 세계의 민들이여! 
-우리의 힘, 보아주었나? 
+지상 세계의 민들이여!
+우리의 힘, 보아주었나?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -946,32 +946,32 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-너희 머리 위에 보이는 것은, 
+너희 머리 위에 보이는 것은,
 천지전쟁 시대의 공중 도시다.
 [ENDBLOCK]
 
 [ENDBLOCK]
-천 년에 걸친 긴 잠에서, 
-이번에 우리가 되살렸다! 
+천 년에 걸친 긴 잠에서,
+이번에 우리가 되살렸다!
 [ENDBLOCK]
 
 [ENDBLOCK]
-우리는 일절容赦하지 않는다. 
+우리는 일절容赦하지 않는다.
 일체의 예외를 인정하지 않는다.
 [ENDBLOCK]
 
 [ENDBLOCK]
-벌레처럼 땅바닥을 기어다니는 것 외에 
+벌레처럼 땅바닥을 기어다니는 것 외에
 능력이 없는, 지상 세계의 민을 용서하지 않는다.
 [ENDBLOCK]
 
 [ENDBLOCK]
-지상 세계의 모든 것을, 
+지상 세계의 모든 것을,
 어둠 속에 가두어주겠다.
 [ENDBLOCK]
 
 [ENDBLOCK]
-기대에 떨며 기다려라! 
+기대에 떨며 기다려라!
 하하하하하!
 [ENDBLOCK]
 <Dymlos>
@@ -990,7 +990,7 @@ notice
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-비행 용을 사용해도, 저 공중 도시에는,
+비행룡을 사용해도, 저 공중 도시에는,
 도달하지 못했다는 것이라면…
 [ENDBLOCK]
 <Philia>
@@ -1005,7 +1005,7 @@ notice
 <Stahn>
 [ENDBLOCK]
 이대로…
-당하고만 있을 수는 없어! 
+당하고만 있을 수는 없어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1013,11 +1013,11 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-누가 네 마음대로 하게 두겠냐! 누가 네 생각대로 하게 두겠냐! 
+누가 네 마음대로 하게 두겠냐! 누가 네 생각대로 하게 두겠냐!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-절대 보복을 해주겠어…! <Lion>의 적은, 절대 갚아주겠어! 
+절대 보복을 해주겠어…! <Lion>의 적은, 절대 갚아주겠어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

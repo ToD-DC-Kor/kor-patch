@@ -47,7 +47,7 @@ cher_12r：민가로 갈까요？
 소년
 [ENDBLOCK]
 세인갈드가 공격받았어？
-그래서 좋다! 
+그래서 좋다!
 [ENDBLOCK]
 소년
 [ENDBLOCK]

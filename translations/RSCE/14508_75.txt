@@ -36,7 +36,7 @@ notice
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<TAG_034>       ++++    
+<TAG_034>       ++++   
 
 [ENDBLOCK]
 traenow_light<x17><x71><x48><xA0><x80>
@@ -97,7 +97,7 @@ init_light<x17><x71><x48><x88><x80>
 <x17><x6D><x45><x84><x80>
 
 [ENDBLOCK]
-어? 
+어?
 왜 움직이지 않는 거지?
 
 [ENDBLOCK]
@@ -503,7 +503,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

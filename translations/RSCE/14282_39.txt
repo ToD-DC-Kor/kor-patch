@@ -115,7 +115,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그런데, 
+그런데,
 다리스는 어떻게 됐지?
 [ENDBLOCK]
 <Mary>
@@ -508,7 +508,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

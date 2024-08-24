@@ -351,7 +351,7 @@ discovery:<x17><x15><x7B><x80>
 프란츠
 [ENDBLOCK]
 잘 모르겠어! 하지만,
-세인가르드 동쪽 섬으로 가야 해! 
+세인가르드 동쪽 섬으로 가야 해!
 [ENDBLOCK]
 신관
 [ENDBLOCK]
@@ -711,7 +711,7 @@ notice
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
-<Woodrow>왕이신가!? 
+<Woodrow>왕이신가!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1008,7 +1008,7 @@ notice
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
-그렇죠! 
+그렇죠!
 내 연구는 틀리지 않았어요!
 [ENDBLOCK]
 프란츠

@@ -18,7 +18,7 @@
 <Stahn>
 [ENDBLOCK]
 나는 당신과,
-이런 형태로 재회하고 싶지 않았어! 
+이런 형태로 재회하고 싶지 않았어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -159,7 +159,7 @@
 <Stahn>
 [ENDBLOCK]
 왜냐하면 그게,
-이상을 추구하는 거니까!? 
+이상을 추구하는 거니까!?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -486,7 +486,7 @@
 <Woodrow>
 [ENDBLOCK]
 나는 너의 힘이 필요하다.
-함께 싸워줄래, <Igtenos>? 
+함께 싸워줄래, <Igtenos>?
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
@@ -766,7 +766,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

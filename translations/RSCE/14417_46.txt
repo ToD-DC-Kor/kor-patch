@@ -465,12 +465,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-어, 수녀님? 
+어, 수녀님?
 무슨 일인가요?
 [ENDBLOCK]
 수녀님
 [ENDBLOCK]
-<Rutee>!? 
+<Rutee>!?
 정말, 놀라게 하지 마세요.
 [ENDBLOCK]
 <Rutee>
@@ -570,7 +570,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 수녀님
 [ENDBLOCK]
-무슨 일을 하고 있나요? 
+무슨 일을 하고 있나요?
 <Rutee>도 같이요.
 [ENDBLOCK]
 수녀님
@@ -617,7 +617,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-잠깐만! 
+잠깐만!
 집 안에서 이야기 소리가 들리지 않아?
 [ENDBLOCK]
 <Stahn>
@@ -649,7 +649,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 일이야 <Philia>? 
+무슨 일이야 <Philia>?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1479,7 +1479,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

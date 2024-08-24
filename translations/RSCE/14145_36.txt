@@ -196,7 +196,7 @@ WALL_2이야!!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-싫다는 말은 듣지 않을 거야? 
+싫다는 말은 듣지 않을 거야?
 함께 싸우자고 한 건 너니까.
 [ENDBLOCK]
 <Fayte>

@@ -21,7 +21,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 여성
 [ENDBLOCK]
 전하, 여비 후보에 대한 자료를
-준비했습니다. 
+준비했습니다.
 반드시 읽어보시기 바랍니다!
 [ENDBLOCK]
 <Woodrow>
@@ -41,7 +41,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 판달리아 병사
 [ENDBLOCK]
 전하, 저희 성의 비축에 관한
-제안서를 제출했습니다. 
+제안서를 제출했습니다.
 꼭 봐주실 수 없겠습니까?
 [ENDBLOCK]
 <Woodrow>
@@ -138,12 +138,12 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-그런 일은, 
+그런 일은,
 저에게 맡겨 주시면 좋을 텐데요.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-그렇게 되지는 않겠지. 직접, 
+그렇게 되지는 않겠지. 직접,
 부탁받았으니까.
 [ENDBLOCK]
 <Woodrow>
@@ -189,7 +189,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-<Chelsea>, 네가 원하던, 
+<Chelsea>, 네가 원하던,
 사탕 줄까?
 [ENDBLOCK]
 소년
@@ -199,7 +199,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-저 외곽이 완성되면, 
+저 외곽이 완성되면,
 낮에도 깜깜해진다고 하더군.
 [ENDBLOCK]
 소년
@@ -209,7 +209,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-렌즈의 에너지를 모아서, 
+렌즈의 에너지를 모아서,
 외곽을 부수는 거라고 하더군.
 [ENDBLOCK]
 소년

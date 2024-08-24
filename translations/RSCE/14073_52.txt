@@ -713,7 +713,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 선원
 [ENDBLOCK]
-로프를 찾고 있다고? 
+로프를 찾고 있다고?
 [ENDBLOCK]
 선원
 [ENDBLOCK]
@@ -1152,7 +1152,7 @@ notice
 [ENDBLOCK]
 그럼 힘내라.
 [ENDBLOCK]
-진심으로 말하는 거야? 
+진심으로 말하는 거야?
 다시 생각할 시간은 지금뿐이야?
 [ENDBLOCK]
 조금 실망이야…
@@ -1186,7 +1186,7 @@ notice
 잘 부탁해.
 
 [ENDBLOCK]
-이봐, 진짜야? 
+이봐, 진짜야?
 지금이라도 다시 생각할 수 있어?
 [ENDBLOCK]
 어려운 녀석이네…

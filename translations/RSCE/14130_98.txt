@@ -43,7 +43,7 @@
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-서두르지 마, 
+서두르지 마,
 천천히 생각해.
 [ENDBLOCK]
 <Fayte>
@@ -124,7 +124,7 @@
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-뭐라고!? 
+뭐라고!?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -136,11 +136,11 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-이런 때에 장난치지 마! 
+이런 때에 장난치지 마!
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-뭐라고!? 
+뭐라고!?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -148,7 +148,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-근거가 있어? 
+근거가 있어?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -165,7 +165,7 @@
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-어떻게 알았어? 
+어떻게 알았어?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -180,7 +180,7 @@
 <Johnny>
 [ENDBLOCK]
 그렇구나. 그런데 이 아이가
-고양이와 이야기했다는 증언은? 
+고양이와 이야기했다는 증언은?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -196,7 +196,7 @@
 <Rutee>
 [ENDBLOCK]
 그렇다면 이상해. 공격받은 사람의
-상처는 두 개였잖아? 
+상처는 두 개였잖아?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

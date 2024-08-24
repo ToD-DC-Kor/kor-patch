@@ -66,7 +66,7 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그럼 나는, 
+그럼 나는,
 여기서 잠시 쉬고 있을게.
 [ENDBLOCK]
 <Rutee>
@@ -330,12 +330,12 @@ R키는 손에 넣은 것 같군.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-봉인은 우리가 갇혀 있는 동안만, 
+봉인은 우리가 갇혀 있는 동안만,
 해제됩니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-즉, 소디언을, 
+즉, 소디언을,
 놓고 가야 한다는 거군요.
 [ENDBLOCK]
 <Woodrow>
@@ -353,7 +353,7 @@ R키는 손에 넣은 것 같군.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-우리의 선물을 받아라! 
+우리의 선물을 받아라!
 두 번째 벨클란트다!
 [ENDBLOCK]
 <Stahn>

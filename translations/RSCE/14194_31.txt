@@ -50,11 +50,11 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-네! 
+네!
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-내가 아는 한, 
+내가 아는 한,
 숨겨진 칼바레이스 사람은 나밖에 없어.
 [ENDBLOCK]
 남자
@@ -64,7 +64,7 @@
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-내가 아는 한, 
+내가 아는 한,
 숨겨진 칼바레이스 사람은 나밖에 없어.
 [ENDBLOCK]
 남자
@@ -74,7 +74,7 @@
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-다음 대왕은 누구일까? 
+다음 대왕은 누구일까?
 시덴 영지의 알츠ール님일까.
 [ENDBLOCK]
 남자
@@ -99,7 +99,7 @@
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-다음 대왕은 누구일까? 
+다음 대왕은 누구일까?
 시덴 영지의 알츠ール님일까.
 [ENDBLOCK]
 남자

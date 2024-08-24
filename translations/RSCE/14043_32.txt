@@ -116,7 +116,7 @@
 [ENDBLOCK]
 자, 시합 시작이다!
 [ENDBLOCK]
-arena_result ---<x17><x71><x47><xAC><x80> >>> WIN(<x09><x00><x00><x00><x00>).LOSE(<x09><x02><x00><x00><x00>) 
+arena_result ---<x17><x71><x47><xAC><x80> >>> WIN(<x09><x00><x00><x00><x00>).LOSE(<x09><x02><x00><x00><x00>)
 
 [ENDBLOCK]
 사회자

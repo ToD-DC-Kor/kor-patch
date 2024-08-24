@@ -133,7 +133,7 @@ select
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-경례! 
+경례!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]

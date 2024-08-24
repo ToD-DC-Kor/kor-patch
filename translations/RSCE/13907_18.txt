@@ -268,5 +268,5 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>지금 로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

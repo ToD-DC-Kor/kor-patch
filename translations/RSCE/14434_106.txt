@@ -74,7 +74,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-불가능하든 뭐든, 
+불가능하든 뭐든,
 <Lion>을 두고 갈 수는 없어！
 [ENDBLOCK]
 <Kongman>
@@ -408,7 +408,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

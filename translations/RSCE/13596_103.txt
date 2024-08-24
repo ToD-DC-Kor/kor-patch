@@ -473,7 +473,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Stahn>
 [ENDBLOCK]
 맞아, <Chelsea>는
-이 느티나무와 이야기하고 있었지! 
+이 느티나무와 이야기하고 있었지!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -751,5 +751,5 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

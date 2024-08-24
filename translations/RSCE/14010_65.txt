@@ -690,7 +690,7 @@ reset---------
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-왜 모두들 시끄러워? 
+왜 모두들 시끄러워?
 축제라도 있었어?
 [ENDBLOCK]
 소년
@@ -721,7 +721,7 @@ reset---------
 소년
 [ENDBLOCK]
 하늘의 천장에 구멍을 내고,
-위로 올라간다고!? 
+위로 올라간다고!?
 [ENDBLOCK]
 소년
 [ENDBLOCK]
@@ -740,22 +740,22 @@ reset---------
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-하늘의 벽에 대해, 
+하늘의 벽에 대해,
 그것을 아는 사람들은 있을까요?
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-도시의 피해가 가벼운 것은, 
+도시의 피해가 가벼운 것은,
 <Ilene>님 덕분입니다.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-사라지기 전의<Ilene>님을 보았는데, 
+사라지기 전의<Ilene>님을 보았는데,
 매우 무서운 얼굴을 하고 계셨습니다.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-저 하늘의 벽이 매립되면, 
+저 하늘의 벽이 매립되면,
 우리는 어떻게 될까요?
 [ENDBLOCK]
 할머니
@@ -764,7 +764,7 @@ reset---------
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-하늘의 벽이 없어지는 것은 기쁘지만, 
+하늘의 벽이 없어지는 것은 기쁘지만,
 한꺼번에 떨어지지 않을까요?
 [ENDBLOCK]
 메이드
@@ -774,17 +774,17 @@ reset---------
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-강력한 지도자가 없는 나라는, 
+강력한 지도자가 없는 나라는,
 혼란이 일어났을 때 약하죠.
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-몬스터에게 엉망이 되거나, 
+몬스터에게 엉망이 되거나,
 그 전에 주민들이 사라지거나…
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-어쨌든, 이 도시의 미래는, 
+어쨌든, 이 도시의 미래는,
 희망이 전혀 없네요.
 [ENDBLOCK]
 메이드
@@ -794,7 +794,7 @@ reset---------
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-제발, 이 도시를, 
+제발, 이 도시를,
 구해 주세요.
 [ENDBLOCK]
 notice
@@ -1116,7 +1116,7 @@ notice
 [ENDBLOCK]
 칼마
 [ENDBLOCK]
-뭐!? 
+뭐!?
 [ENDBLOCK]
 카르마
 [ENDBLOCK]
@@ -1137,11 +1137,11 @@ notice
 [ENDBLOCK]
 카르마
 [ENDBLOCK]
-뭐가 챔피언이야! 너 같은 놈이! 
+뭐가 챔피언이야! 너 같은 놈이!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어떻게 된 거야, <Kongman>? 
+어떻게 된 거야, <Kongman>?
 너답지 않잖아.
 [ENDBLOCK]
 <Kongman>

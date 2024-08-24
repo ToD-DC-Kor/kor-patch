@@ -241,7 +241,7 @@ select
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-뭐라고, 외각과 함께? 
+뭐라고, 외각과 함께?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -342,7 +342,7 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너희들, 
+너희들,
 설마 처음부터 그런 마음으로…
 [ENDBLOCK]
 <Woodrow>
@@ -352,93 +352,93 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…그건 안 돼! 
+…그건 안 돼!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 이렇게까지 왔는데,
-마지막 순간에, 그런 게 어딨냐고! 
+마지막 순간에, 그런 게 어딨냐고!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 함께 원래 세계로 돌아가자!
-무언가 다른 방법이 있을 거야! 
+무언가 다른 방법이 있을 거야!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-…이 자식, 정말 바보구나! 
+…이 자식, 정말 바보구나!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…! 
+…!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 너가 결심을 흐트러뜨림으로써,
-지상이 멸망할지도 모른단 말이다! 
+지상이 멸망할지도 모른단 말이다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-하지만…! 
+하지만…!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 소디언 마스터로서,
-해야 할 일을 해라! <Stahn>! 
+해야 할 일을 해라! <Stahn>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-큿…! 
+큿…!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-…그럼, 내가 먼저 가겠다. 
+…그럼, 내가 먼저 가겠다.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
 내가 너와의 인연은 짧았지만,
-지금까지 나의 왕가에 잘 봉사해 주었다. 
+지금까지 나의 왕가에 잘 봉사해 주었다.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-감사한다, <Igtenos>. 
+감사한다, <Igtenos>.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
 판달리아에 영광이 있기를.
-<Woodrow>에게 행운이 있기를. 
+<Woodrow>에게 행운이 있기를.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 당신이 가르쳐 주신 것을,
-나는 평생 잊지 않을 것입니다. 
+나는 평생 잊지 않을 것입니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-감사합니다, <Clemente>. 
+감사합니다, <Clemente>.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-건강하게 지내거라, <Philia>. 
+건강하게 지내거라, <Philia>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 생각해보면,
-너와도 긴 인연이었구나. 
+너와도 긴 인연이었구나.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-지금까지 고마웠어, <Atwight>. 
+지금까지 고마웠어, <Atwight>.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
 마치 여동생이 생긴 것 같아서 즐거웠어.
-영원히 그 상태로 있어줘, <Rutee>. 
+영원히 그 상태로 있어줘, <Rutee>.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 이제 내가 할 말은 없구나…
-너를 믿고 있다. 
+너를 믿고 있다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -669,7 +669,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

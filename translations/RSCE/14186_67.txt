@@ -611,7 +611,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-렌즈 정도면, 
+렌즈 정도면,
 아무리 해도 괜찮아.
 [ENDBLOCK]
 남자
@@ -675,7 +675,7 @@ notice
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-렌즈 정도면, 
+렌즈 정도면,
 아무리 해도 괜찮아.
 [ENDBLOCK]
 남자
@@ -928,7 +928,7 @@ notice
 나는<TAG_054>에서 거래를 하고 있는
 <TAG_053>라는 자다.
 [ENDBLOCK]
-아직 끝나지 않았어? 
+아직 끝나지 않았어?
 그만두겠다고 하지 마.
 [ENDBLOCK]
 혹시 여유가 있다면,
@@ -968,7 +968,7 @@ notice
 <TAG_032>갈드를 받았습니다.
 
 [ENDBLOCK]
-잘 부탁해! 
+잘 부탁해!
 [ENDBLOCK]
 아, 아쉽군.
 다시 부탁할게.

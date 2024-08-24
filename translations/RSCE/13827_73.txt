@@ -43,7 +43,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그런데 그게 왜 곤란한가? 
+그런데 그게 왜 곤란한가?
 다시 창고에서 꺼내면 되잖아.
 [ENDBLOCK]
 신관
@@ -73,7 +73,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-찾아주도록 합시다, 
+찾아주도록 합시다,
 소년.
 [ENDBLOCK]
 <Lion>
@@ -143,11 +143,11 @@
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-그만둬, 제발 그만둬줘! 
+그만둬, 제발 그만둬줘!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-나는 여기 남겠다고! 
+나는 여기 남겠다고!
 [ENDBLOCK]
 신관
 [ENDBLOCK]
@@ -164,12 +164,12 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-잘 들어, 두 번 다시는 안 된다! 
+잘 들어, 두 번 다시는 안 된다!
 [ENDBLOCK]
 신관
 [ENDBLOCK]
 어, 어떻게 그렇게
-화내시는 건가요!? 
+화내시는 건가요!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -232,7 +232,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-다음부터는 조심해야 한다! 
+다음부터는 조심해야 한다!
 [ENDBLOCK]
 신관
 [ENDBLOCK]
@@ -502,9 +502,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

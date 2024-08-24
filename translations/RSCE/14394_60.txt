@@ -29,7 +29,7 @@ set_drgn
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어... 
+어...
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -117,7 +117,7 @@ select
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-그럼 <Stahn> 너, 
+그럼 <Stahn> 너,
 조심해서 다녀와.
 [ENDBLOCK]
 마기 아줌마
@@ -545,7 +545,7 @@ select
 <Lion>
 [ENDBLOCK]
 이봐, 너. 내가 너무 심했어.
-미안… 
+미안…
 [ENDBLOCK]
 원더빵 장인
 [ENDBLOCK]
@@ -748,12 +748,12 @@ select
 [ENDBLOCK]
 마기 아줌마
 [ENDBLOCK]
-자, … 좋고… 
+자, … 좋고…
 응? <Stahn> 아닌가.
 [ENDBLOCK]
 마기 아줌마
 [ENDBLOCK]
-열심히 하라고? 
+열심히 하라고?
 이 정도는, 쉬운 일이야!
 [ENDBLOCK]
 마기 아줌마
@@ -823,7 +823,7 @@ select
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-쓰러진 뾰족머리? 
+쓰러진 뾰족머리?
 못 봤네.
 [ENDBLOCK]
 촌장의 딸
@@ -878,7 +878,7 @@ select
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Lilith>ちゃん? 
+<Lilith>ちゃん?
 마을 안의 몬스터는 어떨지…
 [ENDBLOCK]
 <Bacchus>
@@ -1200,7 +1200,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -1209,7 +1209,7 @@ notice
 나는 <TAG_054>에서 거래를 하고 있는
 <TAG_053>라는 사람이다.
 [ENDBLOCK]
-아직 끝나지 않았나? 
+아직 끝나지 않았나?
 그만둔다고 말하지 마라.
 [ENDBLOCK]
 혹시 시간이 있다면,
@@ -1471,7 +1471,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 일이야<Bacchus>? 
+무슨 일이야<Bacchus>?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]

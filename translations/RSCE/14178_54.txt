@@ -595,7 +595,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-혹시 기억나, <Johnny>? 
+혹시 기억나, <Johnny>?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -627,7 +627,7 @@ notice
 [ENDBLOCK]
 트우케이 병사
 [ENDBLOCK]
-고, 고생 많으십니다! 
+고, 고생 많으십니다!
 저는 대왕파가 아닙니다!
 [ENDBLOCK]
 트우케이 병사

@@ -627,7 +627,7 @@ notice
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-오! 흥미 있어? 
+오! 흥미 있어?
 「위어드샷」이라고 해.
 어쨌든 한번 해봐.
 [ENDBLOCK]
@@ -642,7 +642,7 @@ notice
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-어때? 
+어때?
 재미있었지?
 [ENDBLOCK]
 <Chelsea>
@@ -672,7 +672,7 @@ notice
 기술자
 [ENDBLOCK]
 위어드샷으로
-놀고 싶어? 
+놀고 싶어?
 네
 아니오
 [ENDBLOCK]
@@ -1142,7 +1142,7 @@ FINISH arena_btl_prepare
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-<Kongman>과 싸웠다고? 
+<Kongman>과 싸웠다고?
 너 같은 애가 이길 수 없어.
 [ENDBLOCK]
 도전자
@@ -1203,7 +1203,7 @@ FINISH arena_btl_prepare
 [ENDBLOCK]
 열혈 팬
 [ENDBLOCK]
-이런 데 있을 때가 아니라고? 
+이런 데 있을 때가 아니라고?
 내가 뭘 할 수 있겠어.
 [ENDBLOCK]
 열혈 팬
@@ -1213,7 +1213,7 @@ FINISH arena_btl_prepare
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-너도 도전자냐? 
+너도 도전자냐?
 흥, 한 판은 따냈군.
 [ENDBLOCK]
 도전자
@@ -1247,7 +1247,7 @@ FINISH arena_btl_prepare
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-너도 도전자냐? 
+너도 도전자냐?
 흥, 한 판은 따냈군.
 [ENDBLOCK]
 도전자
@@ -1295,7 +1295,7 @@ FINISH arena_btl_prepare
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-마을에 괴물이요? 
+마을에 괴물이요?
 무슨 농담을 하시는 거죠.
 [ENDBLOCK]
 아저씨
@@ -1309,7 +1309,7 @@ FINISH arena_btl_prepare
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-마을에 괴물이요? 
+마을에 괴물이요?
 무슨 농담을 하시는 거죠.
 [ENDBLOCK]
 여성

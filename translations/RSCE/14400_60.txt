@@ -88,7 +88,7 @@ set_drgn
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-내가 아니라고! 
+내가 아니라고!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -209,7 +209,7 @@ set_drgn
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-그나저나, 
+그나저나,
 대단하더라 <Stahn>!
 [ENDBLOCK]
 토마스
@@ -501,7 +501,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

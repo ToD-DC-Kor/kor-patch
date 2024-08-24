@@ -111,7 +111,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-에？	뭐 하는 거야!? 
+에？	뭐 하는 거야!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

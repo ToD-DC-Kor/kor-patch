@@ -92,7 +92,7 @@
 [ENDBLOCK]
 사이릴 병사
 [ENDBLOCK]
-너희들은 여행자냐? 
+너희들은 여행자냐?
 이 도시에서 이상한 행동은 하지 마라.
 [ENDBLOCK]
 사이릴 병사
@@ -107,7 +107,7 @@
 [ENDBLOCK]
 사이릴 병사
 [ENDBLOCK]
-지상 전체에 전쟁을 선포한다는…? 
+지상 전체에 전쟁을 선포한다는…?
 저 방송을 한 놈, 진심인가?
 [ENDBLOCK]
 사이릴 병사
@@ -141,7 +141,7 @@
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-천지전쟁이란 무엇인가? 
+천지전쟁이란 무엇인가?
 무슨 일이 일어나고 있는 거냐!
 [ENDBLOCK]
 남자
@@ -396,7 +396,7 @@
 <Mary>가 아닌가! 언제 돌아온 거야?
 [ENDBLOCK]
 잘 살아 있었구나. 나는,
-완전히 죽은 줄 알았어! 
+완전히 죽은 줄 알았어!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -758,7 +758,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

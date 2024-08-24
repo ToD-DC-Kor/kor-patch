@@ -294,7 +294,7 @@ select
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-어어어어어! 
+어어어어어!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -363,7 +363,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-좋아…! 
+좋아…!
 그럼 다음은, 우리의 차례군.
 [ENDBLOCK]
 <Dymlos>
@@ -414,7 +414,7 @@ select
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-가까이 가는 것만으로는 안 된다! 
+가까이 가는 것만으로는 안 된다!
 하겠다면, 넘어설 각오로 가라!
 [ENDBLOCK]
 <Stahn>
@@ -451,7 +451,7 @@ select
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-내가 보이니, <Rutee>? 
+내가 보이니, <Rutee>?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -493,7 +493,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇군…우리, 
+그렇군…우리,
 최종 시험에 이겨냈구나.
 [ENDBLOCK]
 <Dymlos>
@@ -801,7 +801,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

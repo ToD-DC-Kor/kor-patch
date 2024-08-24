@@ -896,7 +896,7 @@ select
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-아, 혹시! 
+아, 혹시!
 [ENDBLOCK]
 마을 장로의 딸
 [ENDBLOCK]
@@ -1374,7 +1374,7 @@ select
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-이런 상황에서 도박을 하냐고? 
+이런 상황에서 도박을 하냐고?
 이런 상황이니까 하는 거야.
 [ENDBLOCK]
 오베론 직원
@@ -1697,9 +1697,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

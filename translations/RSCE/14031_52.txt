@@ -117,7 +117,7 @@
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-뭐, 지금 하려고!? 
+뭐, 지금 하려고!?
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
@@ -385,7 +385,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-그 젊은 여자 의사는 없나? 
+그 젊은 여자 의사는 없나?
 나는 그 아이의 팬이야.
 [ENDBLOCK]
 거리의 여성
@@ -416,7 +416,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 남자
 [ENDBLOCK]
 저 괴물은 대체
-무엇이었지!? 
+무엇이었지!?
 [ENDBLOCK]
 남자
 [ENDBLOCK]
@@ -425,12 +425,12 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 남자
 [ENDBLOCK]
 챔피언, 우리가 무슨 일이 있더라도,
-투기장은 계속합니다! 
+투기장은 계속합니다!
 [ENDBLOCK]
 남자
 [ENDBLOCK]
 챔피언이 돌아오실 때까지,
-투기장의 불은 꺼지지 않을 것입니다! 
+투기장의 불은 꺼지지 않을 것입니다!
 [ENDBLOCK]
 남자
 [ENDBLOCK]
@@ -459,7 +459,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 남자
 [ENDBLOCK]
 챔피언이 귀환하시는 날을,
-진심으로 기다리고 있습니다! 
+진심으로 기다리고 있습니다!
 [ENDBLOCK]
 갑옷 남자
 [ENDBLOCK]
@@ -483,12 +483,12 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 갑옷의 남자
 [ENDBLOCK]
-챔피언! 
+챔피언!
 사인 주세요!
 [ENDBLOCK]
 갑옷의 남자
 [ENDBLOCK]
-좋아! 
+좋아!
 이번엔 정말로 참전한다!
 [ENDBLOCK]
 갑옷의 남자

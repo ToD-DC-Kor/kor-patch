@@ -495,7 +495,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-<Lion>님, 
+<Lion>님,
 통과해 주세요.
 [ENDBLOCK]
 세인가르드 병사
@@ -504,7 +504,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-수고하십니다, 
+수고하십니다,
 <Lion>님!
 [ENDBLOCK]
 세인가르드 병사
@@ -513,7 +513,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-수고하십니다, 
+수고하십니다,
 <Lion>님!
 [ENDBLOCK]
 세인가르드 병사
@@ -617,7 +617,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-야. 그러니까, 
+야. 그러니까,
 내일 아침까지 자유 시간을 갖지 않을래?
 [ENDBLOCK]
 <Stahn>
@@ -669,7 +669,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그럼 나는, 
+그럼 나는,
 조금 그 근처를 산책해볼까…?
 [ENDBLOCK]
 <Rutee>
@@ -682,7 +682,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭐!? 
+뭐!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -982,9 +982,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

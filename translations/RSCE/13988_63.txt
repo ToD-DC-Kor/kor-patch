@@ -569,7 +569,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 소년
 [ENDBLOCK]
 하늘의 천장에 구멍을 뚫고,
-위로 올라가!? 
+위로 올라가!?
 [ENDBLOCK]
 소년
 [ENDBLOCK]
@@ -967,7 +967,7 @@ notice
 [ENDBLOCK]
 칼마
 [ENDBLOCK]
-왜!? 
+왜!?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]

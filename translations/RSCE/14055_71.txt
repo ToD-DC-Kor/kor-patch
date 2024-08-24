@@ -42,7 +42,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-이 자식이 <Philia>에 대해 이야기했던, 
+이 자식이 <Philia>에 대해 이야기했던,
 <Greybum>의 측근?
 [ENDBLOCK]
 <Batista>
@@ -52,7 +52,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Batista>，대답해! 
+<Batista>，대답해!
 <Greybum>은 어디에 있어!?
 [ENDBLOCK]
 <Batista>

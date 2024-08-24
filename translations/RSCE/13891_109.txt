@@ -247,7 +247,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>라고!? 
+<Philia>라고!?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -338,7 +338,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-…네! 
+…네!
 <Lion>님, 감사합니다.
 [ENDBLOCK]
 <Clemente>

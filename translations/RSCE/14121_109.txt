@@ -122,12 +122,12 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런데 그게 괜찮은 건가요, 
+그런데 그게 괜찮은 건가요,
 <Johnny>씨?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Tiberius>는 분명 다음에, 
+<Tiberius>는 분명 다음에,
 시덴 영토를 공격할 거야?
 [ENDBLOCK]
 <Johnny>
@@ -142,7 +142,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Tiberius>의 참모가 된, 
+<Tiberius>의 참모가 된,
 <Greybum>이라는 남자를 알고 있어?
 [ENDBLOCK]
 <Johnny>
@@ -160,12 +160,12 @@
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-무리야. 거기는 모리유보다도, 
+무리야. 거기는 모리유보다도,
 해상 방어가 엄격해.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>의 흑십자 함대라면, 
+<Fayte>의 흑십자 함대라면,
 방어선을 뚫을 수 있었을지도 모르지만…
 [ENDBLOCK]
 <Stahn>
@@ -177,7 +177,7 @@
 젊은이, 큰일입니다!
 <Fayte>님 처형이 결정되었습니다!
 [ENDBLOCK]
-저<Batista>라는, 
+저<Batista>라는,
 신임 대관이 선언했다고 합니다!
 [ENDBLOCK]
 <Stahn>
@@ -200,12 +200,12 @@
 그 사람도 각오를 했겠지.
 지금 와서 내가 할 수 있는 일은 없어.
 [ENDBLOCK]
-<Fayte>님은, 
+<Fayte>님은,
 젊은이의 친한 친구가 아니었나요!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-나는 어릿광대야. 기대하는 건 자유지만, 
+나는 어릿광대야. 기대하는 건 자유지만,
 강요당하면 곤란해.
 [ENDBLOCK]
 젊은이!
@@ -222,7 +222,7 @@
 [ENDBLOCK]
 네, 네.
 [ENDBLOCK]
-모리유 전 영주님의 아드님, <Fayte>님이, 
+모리유 전 영주님의 아드님, <Fayte>님이,
 성 안에 감금되어 있습니다.
 [ENDBLOCK]
 부인 <Rihanna>님도 함께…
@@ -233,7 +233,7 @@
 이봐, 너!
 젊은이에게 <Fayte>님에 대해 이야기했지!
 [ENDBLOCK]
-젊은이가 혼자서, 
+젊은이가 혼자서,
 모리유 성으로 향해 버렸어!
 [ENDBLOCK]
 혼자서!?  어떻게 된 거야!

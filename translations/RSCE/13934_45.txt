@@ -339,7 +339,7 @@ notice
 [ENDBLOCK]
 노인
 [ENDBLOCK]
-멈추는 것도 자유, 
+멈추는 것도 자유,
 진행하는 것도 자유입니다.
 [ENDBLOCK]
 노인

@@ -23,7 +23,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-비행 용이 돌아온 것도,
+비행룡이 돌아온 것도,
 모두 <Lion>님의 덕분입니다.
 [ENDBLOCK]
 세인가르드 병사
@@ -86,7 +86,7 @@
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-<Lion>에게 비행 용을 빼앗긴 것은,
+<Lion>에게 비행룡을 빼앗긴 것은,
 우리의 안전을 과신했기 때문입니다.
 [ENDBLOCK]
 군인
@@ -130,37 +130,37 @@
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-이 정원, 예쁘지? 
+이 정원, 예쁘지?
 우리 아빠가 손질했어.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-요즘 성 안 사람들, 
+요즘 성 안 사람들,
 모두 긴장하고 있어.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-왜 전쟁이 시작됐을까? 
+왜 전쟁이 시작됐을까?
 어떻게 끝낼 수 있을까?
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-성 밖은 위험하니까, 
+성 밖은 위험하니까,
 나가면 안 된대.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-전 세계의 렌즈를, 
+전 세계의 렌즈를,
 여기 정원에 모은대.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-와아, 하늘에 구멍이 뚫렸어! 
+와아, 하늘에 구멍이 뚫렸어!
 구멍이 뚫렸어!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-집적 렌즈포는, 
+집적 렌즈포는,
 이곳에 건설할 예정입니다.
 [ENDBLOCK]
 <Reynolds>
@@ -175,17 +175,17 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-사령관, 당신에게 배운 것을, 
+사령관, 당신에게 배운 것을,
 나는 평생 잊지 않을 것입니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-…모두, 부탁해. 사령관을 위해서, 
+…모두, 부탁해. 사령관을 위해서,
 반드시<Miktran>을 물리쳐줘!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-<Reynolds>님은 현재, 
+<Reynolds>님은 현재,
 면회 불가 상태입니다.
 [ENDBLOCK]
 세인가르드 병사
@@ -195,7 +195,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-와아, 이게 집적 렌즈포인가요. 
+와아, 이게 집적 렌즈포인가요.
 상당히 크네요.
 [ENDBLOCK]
 <Reynolds>
@@ -205,27 +205,27 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-에너지원이 될 렌즈도, 
+에너지원이 될 렌즈도,
 순조롭게 모이고 있는 것 같네요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-저 정도의 렌즈, 
+저 정도의 렌즈,
 팔면 얼마가 될까…?
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-<Rutee>, 당신은 이제 더 이상, 
+<Rutee>, 당신은 이제 더 이상,
 렌즈에 집착할 필요는 없겠죠?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그렇긴 한데… 이런 걸 보니까, 
+그렇긴 한데… 이런 걸 보니까,
 정말로 피가 끓는다는 건가…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-전직 렌즈 헌터의, 
+전직 렌즈 헌터의,
 본성이랄까…?
 [ENDBLOCK]
 <Walt>

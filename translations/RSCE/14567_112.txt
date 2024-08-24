@@ -27,7 +27,7 @@ notice
 [ENDBLOCK]
 ？？？？
 [ENDBLOCK]
-…<Stahn>군, 
+…<Stahn>군,
 내 목소리가 들리니?
 [ENDBLOCK]
 ？？？？
@@ -108,7 +108,7 @@ notice
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>！	어서 저 여자에게, 
+<Stahn>！	어서 저 여자에게,
 들어가버리자!
 [ENDBLOCK]
 <Stahn>
@@ -135,7 +135,7 @@ select
 [ENDBLOCK]
 초록색
 [ENDBLOCK]
-<x17><x6E><x08><x80>      <x17><x6E><x0C><x80>  <x17><x28><xB8><x0B><x14><x39><x80>   <x17><x28><xBA><x0B><x14><x39><x80> 
+<x17><x6E><x08><x80>      <x17><x6E><x0C><x80>  <x17><x28><xB8><x0B><x14><x39><x80>   <x17><x28><xBA><x0B><x14><x39><x80>
 
 [ENDBLOCK]
 notice
@@ -397,7 +397,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

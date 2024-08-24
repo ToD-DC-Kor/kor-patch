@@ -130,7 +130,7 @@
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-이 정원, 예쁘지? 
+이 정원, 예쁘지?
 우리 아빠가 손질했어.
 [ENDBLOCK]
 소년
@@ -140,7 +140,7 @@
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-왜 전쟁이 시작된 거야? 
+왜 전쟁이 시작된 거야?
 어떻게 끝낼 수 있어?
 [ENDBLOCK]
 소년
@@ -155,7 +155,7 @@
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-와아, 하늘에 구멍이 뚫렸어! 
+와아, 하늘에 구멍이 뚫렸어!
 구멍이 뚫렸어!
 [ENDBLOCK]
 <Reynolds>
@@ -483,7 +483,7 @@ notice
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-이봐, 너! 
+이봐, 너!
 뭘 그렇게 지껄이고 있어!
 [ENDBLOCK]
 <Stahn>

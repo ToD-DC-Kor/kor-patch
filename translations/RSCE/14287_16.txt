@@ -33,11 +33,11 @@
 [ENDBLOCK]
 사이릴 병사
 [ENDBLOCK]
-사이릴 만세…구… 
+사이릴 만세…구…
 [ENDBLOCK]
 사이릴 병사
 [ENDBLOCK]
-<Dalis>대장 만세…구… 
+<Dalis>대장 만세…구…
 [ENDBLOCK]
 사이릴 병사
 [ENDBLOCK]

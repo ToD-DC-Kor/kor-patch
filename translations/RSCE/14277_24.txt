@@ -190,7 +190,7 @@ select
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-<Woodrow> 왕! 
+<Woodrow> 왕!
 이, 이건 실례를.
 [ENDBLOCK]
 <Woodrow>
@@ -314,12 +314,12 @@ select
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]
-<Mary>양, 
+<Mary>양,
 또 남편과 떨어져있네.
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]
-<Mary>씨네, 
+<Mary>씨네,
 또 남편과 떨어져있네요.
 [ENDBLOCK]
 아줌마
@@ -378,17 +378,17 @@ select
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-왕가와 화해했는데, 
+왕가와 화해했는데,
 앞으로 어떻게 될 거야?
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-아무리 눈을 치워도, 
+아무리 눈을 치워도,
 도시가 멸망하면 의미가 없지…
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-나도 모두를 위해 
+나도 모두를 위해
 할 수 있는 일을 계속할 거야.
 [ENDBLOCK]
 notice
@@ -620,7 +620,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

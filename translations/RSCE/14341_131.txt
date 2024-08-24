@@ -36,10 +36,10 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 <x1D><x76><x40><x10><x80>----<x1D><x75><x48><x78><x80>----<x1D><x75><x48><x7C><x80>-----<x1D><x75><x48><x80><x80>  세트가 완료되었습니다
 
 [ENDBLOCK]
-ret<TAG_032> move_p<TAG_033> 
+ret<TAG_032> move_p<TAG_033>
 
 [ENDBLOCK]
-<x17><x29><x11><x27><x71><x48><x94><x71><x48><xA4><x21><x14><xE5><x80> 
+<x17><x29><x11><x27><x71><x48><x94><x71><x48><xA4><x21><x14><xE5><x80>
 
 [ENDBLOCK]
 -----------------------  <x17><x69><x48><xBA><x80>
@@ -274,7 +274,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

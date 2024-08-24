@@ -12,12 +12,12 @@
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-소디언 팀 여러분, 
+소디언 팀 여러분,
 한 번 더 작전 내용을 확인해 둡니다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-크루저가 이륙하면, 
+크루저가 이륙하면,
 마스터 여러분은 갑판으로 나와 주시기 바랍니다.
 [ENDBLOCK]
 <Stahn>
@@ -30,7 +30,7 @@
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-이제 거울 장치에 가까이 가면, 
+이제 거울 장치에 가까이 가면,
 한 번에 방출하면 돼.
 [ENDBLOCK]
 <Rutee>
@@ -39,7 +39,7 @@
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-장치 돌파 후에는, 벨클란트에 착륙해, 
+장치 돌파 후에는, 벨클란트에 착륙해,
 안으로 잠입하시오.
 [ENDBLOCK]
 <Philia>
@@ -48,17 +48,17 @@
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-성공 확률은, 
+성공 확률은,
 예전처럼 높지 않아.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-하지만 그렇게 말하자면, 
+하지만 그렇게 말하자면,
 여기까지 올 수 있었던 것 자체가 기적이야.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-나는 소디언 팀 여러분의, 
+나는 소디언 팀 여러분의,
 무한한 가능성을 믿고 있어.
 [ENDBLOCK]
 <Woodrow>
@@ -95,7 +95,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-부유 크루저, 발진! 
+부유 크루저, 발진!
 목표, 벨클란트!
 [ENDBLOCK]
 notice
@@ -327,7 +327,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

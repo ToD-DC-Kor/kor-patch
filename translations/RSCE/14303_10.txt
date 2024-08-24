@@ -2,7 +2,7 @@
 [ENDBLOCK]
 이<x9E>
 [ENDBLOCK]
-좋아해줄 테니, 
+좋아해줄 테니,
 눈 치우라고 남편에게 말했어.
 [ENDBLOCK]
 여성
@@ -258,7 +258,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

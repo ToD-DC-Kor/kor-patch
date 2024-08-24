@@ -495,7 +495,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Rutee>
 [ENDBLOCK]
 아~, 안타깝네.
-길을 잃었구나, 나? 
+길을 잃었구나, 나?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -541,7 +541,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 엄마
 [ENDBLOCK]
-뭐라고 하는 거야, 너? 
+뭐라고 하는 거야, 너?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -555,12 +555,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-싫어 싫어! 
+싫어 싫어!
 [ENDBLOCK]
 엄마
 [ENDBLOCK]
 너 같은 애가
-입을 수 있는 옷이 아니야! 
+입을 수 있는 옷이 아니야!
 [ENDBLOCK]
 아이
 [ENDBLOCK]
@@ -591,8 +591,8 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-<Ilene> 양이 다쳤다고? 
-어쩌다가! 
+<Ilene> 양이 다쳤다고?
+어쩌다가!
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]

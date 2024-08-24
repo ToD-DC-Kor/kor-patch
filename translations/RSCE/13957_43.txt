@@ -46,7 +46,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-칠흑의 날개? 
+칠흑의 날개?
 아니, 모르겠어.
 [ENDBLOCK]
 <Stahn>
@@ -156,7 +156,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-응, 그래! 
+응, 그래!
 [ENDBLOCK]
 토슈
 [ENDBLOCK]
@@ -231,7 +231,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-흥! 
+흥!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -466,12 +466,12 @@
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-여기서 남쪽으로 가면 체리크, 
+여기서 남쪽으로 가면 체리크,
 서쪽으로 가면 잔크랜드야.
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-체리크에서 왔나? 
+체리크에서 왔나?
 여기까지 잘 왔네.
 [ENDBLOCK]
 젊은 남자
@@ -486,78 +486,78 @@
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-여기서 남쪽으로 가면 체리크, 
+여기서 남쪽으로 가면 체리크,
 서쪽으로 가면 잔크랜드야.
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-모두 잔크랜드를 싫어하지만, 
+모두 잔크랜드를 싫어하지만,
 꽤 재미있는 마을이야.
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-여기서 남쪽으로 가면 체리크, 
+여기서 남쪽으로 가면 체리크,
 서쪽으로 가면 잔크랜드야.
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-잔크랜드 쪽에, 
+잔크랜드 쪽에,
 번개가 떨어진 것 같은데… 괜찮은 건가?
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-하늘에 생긴 벽의 정체는, 
+하늘에 생긴 벽의 정체는,
 파헤쳐진 대지라고?
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-다른 나라 사람과, 협력할 날이 
+다른 나라 사람과, 협력할 날이
 올 줄은 상상도 못했어.
 [ENDBLOCK]
 잡화점
 [ENDBLOCK]
-외부인인가… 
+외부인인가…
 잘 둘러봐.
 [ENDBLOCK]
 잡화점
 [ENDBLOCK]
-이런 시간에 쇼핑하는 건 
+이런 시간에 쇼핑하는 건
 나쁜 계획이라도 있는 거 아냐?
 [ENDBLOCK]
 잡화점
 [ENDBLOCK]
-세상이 어떻게 되든 
+세상이 어떻게 되든
 나와는 상관없지만…
 [ENDBLOCK]
 잡화점
 [ENDBLOCK]
-외부인인가… 
+외부인인가…
 잘 둘러봐.
 [ENDBLOCK]
 잡화점
 [ENDBLOCK]
-이런 시간에 쇼핑하는 건 
+이런 시간에 쇼핑하는 건
 나쁜 계획이라도 있는 거 아냐?
 [ENDBLOCK]
 잡화점
 [ENDBLOCK]
-세상이 어떻게 되든 
+세상이 어떻게 되든
 나와는 상관없지만…
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-응? 너는 디피니트 전기를 
+응? 너는 디피니트 전기를
 가지고 있지 않나?
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-너의 실력이라면 충분할 거야. 
+너의 실력이라면 충분할 거야.
 이걸 줄게.
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-이건 몬스터에게 유효하다고 알려진 연계 
-「디피니트 스트라이크」를 
+이건 몬스터에게 유효하다고 알려진 연계
+「디피니트 스트라이크」를
 보여주는 거야.
 [ENDBLOCK]
 남자
@@ -566,16 +566,16 @@
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-메인 메뉴의 커스터마이즈에서 
-「디피니트 스트라이크」를 「ON」으로 
-설정하면 디피니트 스트라이크를 
+메인 메뉴의 커스터마이즈에서
+「디피니트 스트라이크」를 「ON」으로
+설정하면 디피니트 스트라이크를
 실행할 수 있어.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-또한 디피니트 스트라이크가 「ON」인 
-상태라면 몬스터 도감에서 각 몬스터의 
+또한 디피니트 스트라이크가 「ON」인
+상태라면 몬스터 도감에서 각 몬스터의
 디피니트 스트라이크를 볼 수 있어.
 
 [ENDBLOCK]
@@ -624,7 +624,7 @@ notice
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-에? 
+에?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -634,7 +634,7 @@ notice
 <Chaltier>
 [ENDBLOCK]
 에, 하지만…！
-정말 괜찮은 거예요!? 
+정말 괜찮은 거예요!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

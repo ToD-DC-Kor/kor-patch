@@ -20,8 +20,8 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>비행 용이 주말마다 반드시 먹을 수 있다는
-소문의 마파두부 카레가 김을 내뿜고 있다.
+<TAG_005>비행룡에서 주말이 되면 반드시 먹을 수 있다는
+소문의 마파 카레가 김을 모락모락 내고 있다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -260,9 +260,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

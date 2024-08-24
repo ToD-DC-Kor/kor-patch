@@ -71,7 +71,7 @@
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-소디언 마스터 여러분, 
+소디언 마스터 여러분,
 크레스타를 구해주게.
 [ENDBLOCK]
 <King>
@@ -292,7 +292,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇지, <Dymlos>? 
+그렇지, <Dymlos>?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -305,21 +305,21 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Reynolds> 씨!? 
+<Reynolds> 씨!?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
 상처투성이じゃねえか.
-어떻게 된 거야!? 
+어떻게 된 거야!?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
 죄송합니다, 여러분…
-라디스로우가 함락되었습니다…! 
+라디스로우가 함락되었습니다…!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-뭐라고? 
+뭐라고?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -367,7 +367,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-클레스타라고!? 
+클레스타라고!?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1122,7 +1122,7 @@ notice
 [ENDBLOCK]
 <Melina>
 [ENDBLOCK]
-이봐, 리인! 
+이봐, 리인!
 봐, <Ascus>도 뭔가 말해 봐.
 [ENDBLOCK]
 <Ascus>
@@ -1262,7 +1262,7 @@ notice
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-어떻냐, <Ashley>? 
+어떻냐, <Ashley>?
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
@@ -1279,7 +1279,7 @@ notice
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-왜 그런 거야, <Ashley>! 
+왜 그런 거야, <Ashley>!
 
 [ENDBLOCK]
 <Ashley>
@@ -1329,7 +1329,7 @@ notice
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-그런데, 이런 짓을 하다니! 
+그런데, 이런 짓을 하다니!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

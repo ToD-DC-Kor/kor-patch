@@ -169,7 +169,7 @@
 신관
 [ENDBLOCK]
 어, 어째서 그렇게
-화가 나신 거죠!? 
+화가 나신 거죠!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

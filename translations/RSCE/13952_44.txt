@@ -550,7 +550,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 술집 주인
 [ENDBLOCK]
-…왜 아는 거냐고? 
+…왜 아는 거냐고?
 이 장사를 하다 보면 귀가 밝아지거든.
 [ENDBLOCK]
 술집 주인
@@ -575,7 +575,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 술집 주인
 [ENDBLOCK]
-…왜 아는 거냐고? 
+…왜 아는 거냐고?
 이 장사를 하다 보면 귀가 밝아지거든.
 [ENDBLOCK]
 술집 주인
@@ -1048,7 +1048,7 @@ notice
 부탁할게
 
 [ENDBLOCK]
-이봐, 진짜야? 
+이봐, 진짜야?
 지금이라도 생각해볼 수 있어?
 [ENDBLOCK]
 골치 아픈 녀석이네…

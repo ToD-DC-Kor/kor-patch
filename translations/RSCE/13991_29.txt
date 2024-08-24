@@ -878,7 +878,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>지금 로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 나는<TAG_054>에서 거래를 하고 있는
 <TAG_053>라는 자다.
@@ -987,7 +987,7 @@ notice
 [ENDBLOCK]
 그럼 힘내!
 [ENDBLOCK]
-진짜로 말하는 거야? 
+진짜로 말하는 거야?
 재고려할 시간은 지금뿐이야?
 [ENDBLOCK]
 조금 실망이네…
@@ -1021,7 +1021,7 @@ notice
 잘 부탁해
 
 [ENDBLOCK]
-이런 진짜야? 
+이런 진짜야?
 지금 생각을 바꿀 수 있어?
 [ENDBLOCK]
 골치 아픈 녀석이네…
@@ -1268,7 +1268,7 @@ select
 아이
 [ENDBLOCK]
 와, <Kongman>이
-놀러 와줬어! 
+놀러 와줬어!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1292,7 +1292,7 @@ select
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-내가 어릴 적에, 
+내가 어릴 적에,
 무적의 챔피언이 있었어.
 그 사람은 맨손으로 싸웠지.
 [ENDBLOCK]
@@ -1325,7 +1325,7 @@ select
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-그래서, 
+그래서,
 나는 무기를 사용하지 않는 거야.
 [ENDBLOCK]
 소년
@@ -1335,6 +1335,6 @@ select
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-시끄러워, 
+시끄러워,
 바보 취급하지 마!
 [ENDBLOCK]

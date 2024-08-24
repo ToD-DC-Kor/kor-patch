@@ -77,7 +77,7 @@ select
 남자
 [ENDBLOCK]
 <Fayte>님과 당신이 사귀는 건
-반대야! 
+반대야!
 [ENDBLOCK]
 남자
 [ENDBLOCK]
@@ -120,7 +120,7 @@ select
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-응...? 
+응...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -133,7 +133,7 @@ select
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Fayte>님! 
+<Fayte>님!
 저는 범인이 아니에요!
 [ENDBLOCK]
 여자아이
@@ -147,7 +147,7 @@ select
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-하지만... 
+하지만...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -156,7 +156,7 @@ select
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Johnny>님, 
+<Johnny>님,
 부디 저를 도와주세요!
 [ENDBLOCK]
 <Johnny>
@@ -219,7 +219,7 @@ select
 병사
 [ENDBLOCK]
 긴 이야기가 되겠지만,
-사건의 경과를 들으시겠습니까? 
+사건의 경과를 들으시겠습니까?
 네
 아니요
 
@@ -346,10 +346,10 @@ select
 한계<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80> 
+xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 
 [ENDBLOCK]
 한계<D_FOG_COLOR_B>
@@ -361,10 +361,10 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 한계<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END> 
+xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 
 [ENDBLOCK]
 광장
@@ -678,7 +678,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 아이들
 [ENDBLOCK]
 타마도 응원하고 있다고 해.
-힘내! 
+힘내!
 [ENDBLOCK]
 남자
 [ENDBLOCK]

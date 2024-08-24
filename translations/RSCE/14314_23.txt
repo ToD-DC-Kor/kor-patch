@@ -45,7 +45,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-잠깐만! 
+잠깐만!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -140,7 +140,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런! 
+그런!
 왜냐하면 <Rutee>가…
 [ENDBLOCK]
 <Rutee>
@@ -719,7 +719,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

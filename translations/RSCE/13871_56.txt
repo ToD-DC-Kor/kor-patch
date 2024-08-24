@@ -111,7 +111,7 @@
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
-그러니까 맞잖아요! 
+그러니까 맞잖아요!
 내 연구는 틀리지 않았던 거예요!
 [ENDBLOCK]
 ××××××공간 시작××××××
@@ -601,7 +601,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Dymlos>
 [ENDBLOCK]
 당황하지 마라. 바다 용이다.
-비행 용과 비슷한 존재라고 생각하면 된다.
+비행룡과 비슷한 존재라고 생각하면 된다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -677,7 +677,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-정말로 나아진 건가요? 
+정말로 나아진 건가요?
 선실에서 잠깐 누워있어요.
 [ENDBLOCK]
 <Lion>

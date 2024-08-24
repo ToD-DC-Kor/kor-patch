@@ -323,7 +323,7 @@ notice
 [ENDBLOCK]
 노인
 [ENDBLOCK]
-멈추는 것도 자유, 
+멈추는 것도 자유,
 앞으로 나아가는 것도 자유입니다.
 [ENDBLOCK]
 노인
@@ -560,9 +560,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

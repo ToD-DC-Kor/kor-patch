@@ -589,7 +589,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 토우케이 병사
 [ENDBLOCK]
-모르겠어요. 다만, 
+모르겠어요. 다만,
 대왕과 가까운 인물이었음은 확실합니다.
 [ENDBLOCK]
 <Rutee>
@@ -598,47 +598,47 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-글쎄. 그 당시 아버지는, 
+글쎄. 그 당시 아버지는,
 수많은 악인을 처형하고 있었으니까.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-그걸 막으려는 
+그걸 막으려는
 인간들도 많았을 거야.
 [ENDBLOCK]
 트우케이 병
 [ENDBLOCK]
-아, 그렇군요. 
+아, 그렇군요.
 확실히 그럴 수도 있겠네요.
 [ENDBLOCK]
 트우케이 병
 [ENDBLOCK]
-처형을 막기 위해 처형의 검을 
+처형을 막기 위해 처형의 검을
 보검으로 만들려 했을 가능성도 있습니다.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-어쨌든 그 누군가의 진심은 
+어쨌든 그 누군가의 진심은
 어둠 속에 가려져 있어.
 [ENDBLOCK]
 트우케이 병
 [ENDBLOCK]
-고, 고생 많으십니다! 
+고, 고생 많으십니다!
 저는 대왕파가 아닙니다!
 [ENDBLOCK]
 트우케이 병
 [ENDBLOCK]
-대왕 폐하가 돌아가신 이후로, 
+대왕 폐하가 돌아가신 이후로,
 사람들의 표정이 밝아졌습니다.
 [ENDBLOCK]
 트우케이 병
 [ENDBLOCK]
-이번 사건은 우리 나라를 정복하려는, 
+이번 사건은 우리 나라를 정복하려는,
 세인가르드의 음모 아닌가요?
 [ENDBLOCK]
 트우케이 병
 [ENDBLOCK]
-대왕에게 건의한 인물은 
+대왕에게 건의한 인물은
 도대체 누구일까요.
 [ENDBLOCK]
 트우케이 병
@@ -652,42 +652,42 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-모든 게 그 군사가 잘못한 거야. 
+모든 게 그 군사가 잘못한 거야.
 다른 나라의 사람을 쓰니까 그래.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-<Fayte>님이나 <Johnny>님도, 
+<Fayte>님이나 <Johnny>님도,
 다른 나라 사람의 손을 빌렸겠지?
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-절대 세인가르드의 음모야. 
+절대 세인가르드의 음모야.
 틀림없어.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-세인가르드가 정말로, 
+세인가르드가 정말로,
 우리들을 구해줄 수 있을까?
 [ENDBLOCK]
 모리유의 민
 [ENDBLOCK]
-<Fayte>님이 검은 십자 함대를 이끌고 
+<Fayte>님이 검은 십자 함대를 이끌고
 항구에 나타났을 때는 멋졌어.
 [ENDBLOCK]
 모리유의 민
 [ENDBLOCK]
-<Fayte>님이 자주 여기 오셔서, 
+<Fayte>님이 자주 여기 오셔서,
 검은 십자 함대를 볼 기회도 늘었어.
 [ENDBLOCK]
 모리유의 민
 [ENDBLOCK]
-검은 십자 함선이, 
+검은 십자 함선이,
 하늘 위까지 갈 수 있다면…
 [ENDBLOCK]
 모리유의 민
 [ENDBLOCK]
-<Fayte>님이 진두 지휘를 하고, 
+<Fayte>님이 진두 지휘를 하고,
 렌즈를 모으고 있어.
 [ENDBLOCK]
 모리유의 민
@@ -696,17 +696,17 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 모리유의 민
 [ENDBLOCK]
-부탁할게. <Fayte>님의 마음을, 
+부탁할게. <Fayte>님의 마음을,
 헛되이 하지 말아주세요.
 [ENDBLOCK]
 장식가
 [ENDBLOCK]
-품질에는 자신이 있습니다. 
+품질에는 자신이 있습니다.
 하나 드릴까요?
 [ENDBLOCK]
 장식가
 [ENDBLOCK]
-품질에는 자신이 있습니다. 
+품질에는 자신이 있습니다.
 하나 드릴까요?
 [ENDBLOCK]
 notice

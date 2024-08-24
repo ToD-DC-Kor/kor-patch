@@ -118,7 +118,7 @@
 <Kongman>
 [ENDBLOCK]
 어디에 있든,
-즉시 달려가겠습니다! 
+즉시 달려가겠습니다!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

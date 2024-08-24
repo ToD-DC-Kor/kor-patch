@@ -1328,6 +1328,6 @@ select
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-시끄러워, 
+시끄러워,
 바보 취급하지 마！
 [ENDBLOCK]

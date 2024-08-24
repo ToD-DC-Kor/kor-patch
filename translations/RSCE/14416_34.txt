@@ -86,12 +86,12 @@
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-…베, 베… 
+…베, 베…
 [ENDBLOCK]
 청년
 [ENDBLOCK]
 아아!
-생각나지 않아!! 
+생각나지 않아!!
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
@@ -677,7 +677,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -686,7 +686,7 @@ notice
 나는 <TAG_054>에서 거래를 하고 있는
 <TAG_053>라는 사람이다.
 [ENDBLOCK]
-아직 끝나지 않았나? 
+아직 끝나지 않았나?
 그만둔다고 말하지 마라.
 [ENDBLOCK]
 혹시 시간이 있다면,

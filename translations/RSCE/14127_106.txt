@@ -48,10 +48,10 @@ set_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x
 한계<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80> 
+xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 
 [ENDBLOCK]
 한계<D_FOG_COLOR_B>
@@ -63,10 +63,10 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 한계<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END> 
+xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 
 [ENDBLOCK]
 ××××××공간 시작××××××
@@ -152,7 +152,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-<Johnny>님, 
+<Johnny>님,
 부디 저를 도와주세요!
 [ENDBLOCK]
 <Johnny>
@@ -715,7 +715,7 @@ select
 [ENDBLOCK]
 모리유 병사
 [ENDBLOCK]
-저 <Batista>라는 대관, 
+저 <Batista>라는 대관,
 세인가르드 사람 같아.
 [ENDBLOCK]
 모리유 병사

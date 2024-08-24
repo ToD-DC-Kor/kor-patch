@@ -713,7 +713,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 선원
 [ENDBLOCK]
-로프를 찾고 있다고? 
+로프를 찾고 있다고?
 [ENDBLOCK]
 선원
 [ENDBLOCK]
@@ -1505,7 +1505,7 @@ select
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-잘 들어, <Stahn>? 
+잘 들어, <Stahn>?
 이 나라는 폐쇄 국가야.
 [ENDBLOCK]
 <Johnny>

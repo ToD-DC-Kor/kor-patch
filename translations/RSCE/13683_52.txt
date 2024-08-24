@@ -24,7 +24,7 @@
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-너야, 
+너야,
 <Rutee>・카틀릿.
 [ENDBLOCK]
 <Rutee>
@@ -47,7 +47,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그래, 가보면, 
+그래, 가보면,
 누군지 알겠지.
 [ENDBLOCK]
 보디가드
@@ -77,7 +77,7 @@
 [ENDBLOCK]
 보디가드
 [ENDBLOCK]
-<Walt> 씨에게, 
+<Walt> 씨에게,
 레ンズ 모으기를 도와달라고 했어.
 [ENDBLOCK]
 보디가드
@@ -105,7 +105,7 @@
 [ENDBLOCK]
 보디가드
 [ENDBLOCK]
-어떻게 아냐고? 
+어떻게 아냐고?
 헤헤, 뭐 여러 가지가 있지.
 [ENDBLOCK]
 보디가드
@@ -352,9 +352,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

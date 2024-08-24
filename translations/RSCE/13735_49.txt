@@ -16,7 +16,7 @@
 <Rutee>
 [ENDBLOCK]
 뭐? 왜<Lion>,
-너가 여기 있어!? 
+너가 여기 있어!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -40,7 +40,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-마, <Marian>님!? 
+마, <Marian>님!?
 [ENDBLOCK]
 크리스
 [ENDBLOCK]
@@ -63,7 +63,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-여행!? 아빠!? 
+여행!? 아빠!?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -89,7 +89,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-이, 이게 뭐야!? 
+이, 이게 뭐야!?
 나 꿈꾸고 있는 거야!
 [ENDBLOCK]
 <Rutee>
@@ -124,7 +124,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-나는 고아원 아이들이 있어! 
+나는 고아원 아이들이 있어!
 수녀님도 계셔!
 [ENDBLOCK]
 <Rutee>

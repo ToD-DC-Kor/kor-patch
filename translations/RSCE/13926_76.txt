@@ -469,12 +469,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-이 도시의 여러분, 기뻐하라! 
+이 도시의 여러분, 기뻐하라!
 영웅 일행이 도착했습니다!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-뭐야, 이 도시가! 
+뭐야, 이 도시가!
 겨우 자기소개를 했는데,
 아무도 반응하지 않다니!
 [ENDBLOCK]
@@ -680,7 +680,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-우리가 오기 조금 전, 
+우리가 오기 조금 전,
 신전 관계자들이 도착했다고 하네.
 [ENDBLOCK]
 <Chaltier>
@@ -839,7 +839,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 정보상
 [ENDBLOCK]
-알겠어. 안심해, 
+알겠어. 안심해,
 내 정보는 가짜가 아니니까.
 [ENDBLOCK]
 notice
@@ -1080,7 +1080,7 @@ notice
 나는<TAG_054>에서 거래를 하고 있는
 <TAG_053>라는 자이다.
 [ENDBLOCK]
-아직 끝나지 않았나? 
+아직 끝나지 않았나?
 그만둔다고 하지 마라.
 [ENDBLOCK]
 혹시 시간이 있다면,
@@ -1120,7 +1120,7 @@ notice
 <TAG_032>갈드를 받았습니다.
 
 [ENDBLOCK]
-잘 부탁해! 
+잘 부탁해!
 [ENDBLOCK]
 안타깝네.
 또 부탁해.
@@ -1184,7 +1184,7 @@ notice
 [ENDBLOCK]
 그럼 열심히 해.
 [ENDBLOCK]
-진짜로 말하는 거야? 
+진짜로 말하는 거야?
 생각해볼 시간은 지금뿐이야?
 [ENDBLOCK]
 조금 실망이네…
@@ -1218,7 +1218,7 @@ notice
 잘 부탁해
 
 [ENDBLOCK]
-이봐, 진짜야? 
+이봐, 진짜야?
 지금 다시 생각해볼 수 있어?
 [ENDBLOCK]
 문제인 녀석이네…

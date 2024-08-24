@@ -574,7 +574,7 @@ set_drgn
 고은치
 [ENDBLOCK]
 문득 이렇게까지
-오게 되었군… 
+오게 되었군…
 [ENDBLOCK]
 고은치
 [ENDBLOCK]

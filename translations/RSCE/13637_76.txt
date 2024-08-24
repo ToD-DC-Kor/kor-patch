@@ -984,7 +984,7 @@ debug
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-어떻게 말을 걸어야 하지? 
+어떻게 말을 걸어야 하지?
 너의 눈동자에 건배! 아니, 아니…
 [ENDBLOCK]
 남자
@@ -1049,17 +1049,17 @@ debug
 할아버지
 [ENDBLOCK]
 요즘 젊은이들은 참 추위를 잘 타는구나.
-나와 함께 마찰로 몸을 데워라! 
+나와 함께 마찰로 몸을 데워라!
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
 서두르지 말아야 하네.
-마음을 가라앉히기 위해 마찰로 몸을 데워라! 
+마음을 가라앉히기 위해 마찰로 몸을 데워라!
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
 몬스터가 덤벼오더라도,
-마찰로 극복해 보일 것이야! 
+마찰로 극복해 보일 것이야!
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
@@ -1298,9 +1298,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>지금 로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>지금 로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

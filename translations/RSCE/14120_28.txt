@@ -30,7 +30,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-설마<Fayte> 씨, 이 아이가 병사를 공격한 건가!? 
+설마<Fayte> 씨, 이 아이가 병사를 공격한 건가!?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
@@ -61,7 +61,7 @@
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-<Johnny>님, 
+<Johnny>님,
 제발 저를 도와주세요！
 [ENDBLOCK]
 <Johnny>

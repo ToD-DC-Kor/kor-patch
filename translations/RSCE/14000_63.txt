@@ -64,7 +64,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-설마 그 배에 <Greybum>이!? 
+설마 그 배에 <Greybum>이!?
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
@@ -98,7 +98,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-강요는 안타깝잖아, 
+강요는 안타깝잖아,
 내 것으로 하면 어때?
 [ENDBLOCK]
 <Rutee>

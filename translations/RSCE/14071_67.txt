@@ -398,22 +398,22 @@ notice
 [ENDBLOCK]
 아이들
 [ENDBLOCK]
-감사하다고 말하고 싶어! 
+감사하다고 말하고 싶어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-감사? 
+감사?
 [ENDBLOCK]
 아이들
 [ENDBLOCK]
 형이 말한 대로
 내가 변했더니, 아빠도
-변했어! 
+변했어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 저기, 너는 아빠를
-좋아해? 
+좋아해?
 [ENDBLOCK]
 아이들
 [ENDBLOCK]
@@ -443,7 +443,7 @@ notice
 아이들
 [ENDBLOCK]
 그럼, 만약 저 형을
-만나면 이걸 전해줘! 
+만나면 이걸 전해줘!
 [ENDBLOCK]
 아이들
 [ENDBLOCK]
@@ -475,7 +475,7 @@ notice
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-로프를 찾고 있다고? 
+로프를 찾고 있다고?
 좀 생각이 안 나네.
 [ENDBLOCK]
 아저씨
@@ -625,110 +625,110 @@ notice
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-모리유 영지의 <Fayte>님이, 
-나쁜 놈에게 잡혔다고? 
+모리유 영지의 <Fayte>님이,
+나쁜 놈에게 잡혔다고?
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-이전에 <Johnny>님께, 시덴 영지에서도 
-함대를 만들어 달라고 부탁했어. 
+이전에 <Johnny>님께, 시덴 영지에서도
+함대를 만들어 달라고 부탁했어.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-하늘에서 이상한 목소리가 들린 건, 
-세인가르드의 짓이라고, 정말? 
+하늘에서 이상한 목소리가 들린 건,
+세인가르드의 짓이라고, 정말?
 [ENDBLOCK]
 소년
 [ENDBLOCK]
 <Johnny>님! 부탁이야.
-어떻게든 해줘! 
+어떻게든 해줘!
 [ENDBLOCK]
 소년
 [ENDBLOCK]
 부탁이야.
-어떻게든 해줘! 
+어떻게든 해줘!
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-역시 <Johnny>님! 
-어떻게든 해줄 거라고 생각했어. 
+역시 <Johnny>님!
+어떻게든 해줄 거라고 생각했어.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-역시 <Johnny>님의 친구구나! 
-어떻게든 해줄 거라고 생각했어. 
+역시 <Johnny>님의 친구구나!
+어떻게든 해줄 거라고 생각했어.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-더 재미있는 일이 없을까. 
+더 재미있는 일이 없을까.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-나는 돌차기 대好き 소녀야. 
+나는 돌차기 대好き 소녀야.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-세상이 변해도, 
-이 즐거움을 모두에게 가르치고 있어. 
+세상이 변해도,
+이 즐거움을 모두에게 가르치고 있어.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-거리에 떨어진 돌을 
-계속 차고 있어! 
+거리에 떨어진 돌을
+계속 차고 있어!
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-나는 돌차기 대好き 소녀야. 
+나는 돌차기 대好き 소녀야.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-이 즐거움을 모두에게 
-가르치고 있어. 
+이 즐거움을 모두에게
+가르치고 있어.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-거리에 떨어진 돌을 
-계속 차고 있어! 
+거리에 떨어진 돌을
+계속 차고 있어!
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-음, 우선 32회 이상이야. 
+음, 우선 32회 이상이야.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-음, 64회 이상이야. 
+음, 64회 이상이야.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-음, 96회 이상이야. 
+음, 96회 이상이야.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-음, 128회 이상이야. 
+음, 128회 이상이야.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-음, 160회 이상이야. 
+음, 160회 이상이야.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-음, 앞으로는 계속 
-48회 이상이면 괜찮아. 
+음, 앞으로는 계속
+48회 이상이면 괜찮아.
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-도시 남쪽에 동굴이 있지만, 
-가벼운 마음으로 들어가지 않는 게 좋겠어. 
+도시 남쪽에 동굴이 있지만,
+가벼운 마음으로 들어가지 않는 게 좋겠어.
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-지반이 약하고, 몬스터도 많아서, 
-잘못하면 두 번 다시 나올 수 없어. 
+지반이 약하고, 몬스터도 많아서,
+잘못하면 두 번 다시 나올 수 없어.
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-도시 남쪽에 동굴이 있지만, 
-가벼운 마음으로 들어가지 않는 게 좋겠어. 
+도시 남쪽에 동굴이 있지만,
+가벼운 마음으로 들어가지 않는 게 좋겠어.
 [ENDBLOCK]
 청년
 [ENDBLOCK]
@@ -737,7 +737,7 @@ notice
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-항구라면 있을지도 모르지? 
+항구라면 있을지도 모르지?
 
 [ENDBLOCK]
 청년

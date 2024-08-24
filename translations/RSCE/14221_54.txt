@@ -632,7 +632,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-언니, 
+언니,
 반팔인데 춥지 않아?
 [ENDBLOCK]
 소녀
@@ -676,7 +676,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 팬다리아 병사
 [ENDBLOCK]
-이, 이건<Woodrow> 폐하! 
+이, 이건<Woodrow> 폐하!
 목소리를 걸어주셔서, 영광입니다!
 [ENDBLOCK]
 팬다리아 병사
@@ -827,7 +827,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-아무것도 아니야!	강철 근육을 가진 이 나, 
+아무것도 아니야!	강철 근육을 가진 이 나,
 이 정도의 추위로 지겠어!
 [ENDBLOCK]
 <Kongman>

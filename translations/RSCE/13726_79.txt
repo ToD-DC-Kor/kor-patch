@@ -889,7 +889,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 선원
 [ENDBLOCK]
-역시 내가 말한 대로였지? 
+역시 내가 말한 대로였지?
 오베론 사는 악의 집단이었어.
 [ENDBLOCK]
 선원
@@ -944,7 +944,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 고기를 파는 상인
 [ENDBLOCK]
-피츠갈드에도 간다고? 
+피츠갈드에도 간다고?
 잘 부탁한다고 전해줘!
 [ENDBLOCK]
 고기를 파는 상인
@@ -1053,7 +1053,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 메이드
 [ENDBLOCK]
 그 목소리, <Hugo>님이 아니야.
-이게 무슨 일이야!? 
+이게 무슨 일이야!?
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
@@ -1169,7 +1169,7 @@ debug
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어, <Lion>? 
+어, <Lion>?
 보고하러 간 게 아니었어?
 [ENDBLOCK]
 <Rutee>

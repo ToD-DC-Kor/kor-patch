@@ -206,7 +206,7 @@ notice
 [ENDBLOCK]
 상점
 [ENDBLOCK]
-무슨 일이 있어도 좋도록, 
+무슨 일이 있어도 좋도록,
 준비해 두는 것은 중요해.
 [ENDBLOCK]
 남자아이
@@ -220,7 +220,7 @@ notice
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-하늘에 떠 있는 이상한 것, 
+하늘에 떠 있는 이상한 것,
 가이각이라고 해.
 [ENDBLOCK]
 남자아이
@@ -235,7 +235,7 @@ notice
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-옆 나라에서, 가이각에 구멍을 뚫는 
+옆 나라에서, 가이각에 구멍을 뚫는
 대단한 무기를 만들고 있대!
 [ENDBLOCK]
 남자아이
@@ -245,7 +245,7 @@ notice
 [ENDBLOCK]
 노인
 [ENDBLOCK]
-왕은 나라의 버팀목. 백성에게는, 
+왕은 나라의 버팀목. 백성에게는,
 필수불가결한 존재란다.
 [ENDBLOCK]
 노인
@@ -255,7 +255,7 @@ notice
 [ENDBLOCK]
 노인
 [ENDBLOCK]
-전하와 함께 계신 당신은, 
+전하와 함께 계신 당신은,
 도대체…
 [ENDBLOCK]
 노인
@@ -265,22 +265,22 @@ notice
 [ENDBLOCK]
 노인
 [ENDBLOCK]
-왕은 나라의 버팀목. 백성에게는, 
+왕은 나라의 버팀목. 백성에게는,
 필수불가결한 존재란다.
 [ENDBLOCK]
 노인
 [ENDBLOCK]
-전하의 하시는 일에, 
+전하의 하시는 일에,
 잘못이 있을 리가 없으시다.
 [ENDBLOCK]
 노인
 [ENDBLOCK]
-무사히 돌아오시기를, 
+무사히 돌아오시기를,
 기다리고 있겠습니다.
 [ENDBLOCK]
 노인
 [ENDBLOCK]
-여러분의 무사 귀환을, 
+여러분의 무사 귀환을,
 기다리고 있겠습니다.
 [ENDBLOCK]
 렌즈 상인
@@ -295,28 +295,28 @@ notice
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-최근의 혼란으로, 제 가족은, 
+최근의 혼란으로, 제 가족은,
 전투에 휘말려 부상을 입었습니다.
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-사이릴 사람들에게 처벌이 없는 것은, 
+사이릴 사람들에게 처벌이 없는 것은,
 솔직히 납득이 가지 않습니다.
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-이 나라도 세인가르드처럼, 
+이 나라도 세인가르드처럼,
 공격받게 될까요.
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-누가 어떻게 발버둥 쳐도, 
+누가 어떻게 발버둥 쳐도,
 모든 것이 헛된 일일까요.
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-부디, 이 나라에, 
-다시 햇빛을… 
+부디, 이 나라에,
+다시 햇빛을…
 [ENDBLOCK]
 아이
 [ENDBLOCK]
@@ -405,7 +405,7 @@ notice
 <ITEM_067>,<ITEM_068>,
 <ITEM_069>를 가지고 계신가요?
 [ENDBLOCK]
-모든 것을 준비해 주시면, 
+모든 것을 준비해 주시면,
 그것들을 조합하여 <ITEM_Elixir>를
 드리겠습니다.
 [ENDBLOCK]

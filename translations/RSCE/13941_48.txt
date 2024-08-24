@@ -143,7 +143,7 @@
 트시우
 [ENDBLOCK]
 그렇구나…
-맞아, 그거지! 
+맞아, 그거지!
 [ENDBLOCK]
 트시우
 [ENDBLOCK]
@@ -151,7 +151,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-응, 그래! 
+응, 그래!
 [ENDBLOCK]
 트시우
 [ENDBLOCK]
@@ -226,7 +226,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-흥! 
+흥!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -414,7 +414,7 @@
 [ENDBLOCK]
 젊은 여자
 [ENDBLOCK]
-어머, 외국인 아이!? 
+어머, 외국인 아이!?
 이런 밤에 돌아다니지 마.
 [ENDBLOCK]
 젊은 여자
@@ -434,7 +434,7 @@
 [ENDBLOCK]
 젊은 여자
 [ENDBLOCK]
-어머, 외국인 아이!? 
+어머, 외국인 아이!?
 이런 밤에 돌아다니지 마.
 [ENDBLOCK]
 젊은 여자
@@ -480,7 +480,7 @@
 젊은 남자
 [ENDBLOCK]
 체릭 사람들은 외국인이
-말 걸어도 대답하지 않지? 
+말 걸어도 대답하지 않지?
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]

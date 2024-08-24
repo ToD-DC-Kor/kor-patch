@@ -51,7 +51,7 @@
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-내가 아는 한, 
+내가 아는 한,
 숨겨진 칼바레이스인도, 나로 전부야.
 [ENDBLOCK]
 남자
@@ -61,7 +61,7 @@
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-내가 아는 한, 
+내가 아는 한,
 숨겨진 칼바레이스인도, 나로 전부야.
 [ENDBLOCK]
 남자
@@ -71,7 +71,7 @@
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-다음 대왕은 누구일까? 
+다음 대왕은 누구일까?
 시덴 영지의 알츠르님인가.
 [ENDBLOCK]
 남자
@@ -96,7 +96,7 @@
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-다음 대왕은 누구일까? 
+다음 대왕은 누구일까?
 시덴 영지의 알츠르님인가.
 [ENDBLOCK]
 남자
@@ -116,7 +116,7 @@
 [ENDBLOCK]
 남
 [ENDBLOCK]
-렌즈를 꺼내줬으니, 
+렌즈를 꺼내줬으니,
 제대로 해줘야지?
 [ENDBLOCK]
 notice

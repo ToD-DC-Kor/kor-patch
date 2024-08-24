@@ -36,7 +36,7 @@ select
 [ENDBLOCK]
 자, 문까지 돌아가볼까.
 [ENDBLOCK]
-좋아! 
+좋아!
 문이 봉인이 풀렸어.
 [ENDBLOCK]
 
@@ -274,9 +274,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>지금 로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>지금 로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

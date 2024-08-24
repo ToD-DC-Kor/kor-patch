@@ -755,7 +755,7 @@ notice
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-하늘에 떠 있는 우산 같은 거, 
+하늘에 떠 있는 우산 같은 거,
 저건 뭐지?
 [ENDBLOCK]
 남자
@@ -785,7 +785,7 @@ notice
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-이 성이 있는 한, 
+이 성이 있는 한,
 세인가르드의 번영은 계속될 거야.
 [ENDBLOCK]
 아저씨
@@ -805,13 +805,13 @@ notice
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-햇빛을 받아 반짝이는 성을, 
+햇빛을 받아 반짝이는 성을,
 다시 한 번 보고 싶어!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 그 자식은, 도대체 무엇을
-꾸미고 있는 거야!? 
+꾸미고 있는 거야!?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -910,12 +910,12 @@ notice
 <Chaltier>
 [ENDBLOCK]
 그리고, <Marian>을
-구하자! 
+구하자!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 이대로 세인가르드 성에
-잠입해서, 비행 용을 빼앗아야 해.
+잠입해서, 비행룡을 빼앗아야 해.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1276,7 +1276,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런데, 어? 
+그런데, 어?
 언제부터 거기 있었어?
 [ENDBLOCK]
 루웨인
@@ -1291,7 +1291,7 @@ select
 [ENDBLOCK]
 남
 [ENDBLOCK]
-이게 <Ascus>의 정체입니다! 
+이게 <Ascus>의 정체입니다!
 그래서 앞으로는 <Melina>짱을…
 [ENDBLOCK]
 루웨인

@@ -1,6 +1,6 @@
 <Ayles>
 [ENDBLOCK]
-뭐, 없다고!? 
+뭐, 없다고!?
 여기에 있던 신의 눈이!
 
 [ENDBLOCK]
@@ -10,7 +10,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-여기가 신의 눈이 놓여 있던 받침대? 
+여기가 신의 눈이 놓여 있던 받침대?
 신의 눈이 이렇게 컸던 거야?
 [ENDBLOCK]
 <Mary>
@@ -38,7 +38,7 @@
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-피, <Philia>! 
+피, <Philia>!
 어떻게 이런 모습이 되어버린 거야!
 [ENDBLOCK]
 <Stahn>
@@ -68,7 +68,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-저는… 저는…! 
+저는… 저는…!
 큰일을 저질렀습니다!
 [ENDBLOCK]
 <Ayles>
@@ -261,7 +261,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런 일은, 절대 허락할 수 없다! 
+그런 일은, 절대 허락할 수 없다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -302,7 +302,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-아니요… 저, 
+아니요… 저,
 이분들과 함께 가겠습니다.
 [ENDBLOCK]
 <Philia>

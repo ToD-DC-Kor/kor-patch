@@ -61,7 +61,7 @@
 [ENDBLOCK]
 아주머니
 [ENDBLOCK]
-혼자서 도시 밖으로 나간다고? 
+혼자서 도시 밖으로 나간다고?
 
 [ENDBLOCK]
 아주머니
@@ -96,7 +96,7 @@
 [ENDBLOCK]
 딸
 [ENDBLOCK]
-언니, 
+언니,
 어디 가는 거야?
 [ENDBLOCK]
 딸
@@ -123,7 +123,7 @@
 [ENDBLOCK]
 딸
 [ENDBLOCK]
-오빠들, 하늘 위로 갈 수 있어? 
+오빠들, 하늘 위로 갈 수 있어?
 대단해~!
 [ENDBLOCK]
 판다리아 병사
@@ -812,7 +812,7 @@ notice
 [ENDBLOCK]
 그럼 힘내.
 [ENDBLOCK]
-진짜로 말하는 거야? 
+진짜로 말하는 거야?
 생각해볼 시간은 지금뿐이야?
 [ENDBLOCK]
 조금 실망이야…
@@ -840,13 +840,13 @@ notice
 <TAG_075>갈드를 지불했어.
 
 [ENDBLOCK]
-돈이 부족해. 
+돈이 부족해.
 준비하고 와줘.
 [ENDBLOCK]
 잘 부탁해.
 
 [ENDBLOCK]
-야, 진짜야? 
+야, 진짜야?
 지금 생각을 바꿀 수 있어?
 [ENDBLOCK]
 곤란한 녀석이네…

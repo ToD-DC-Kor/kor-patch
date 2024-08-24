@@ -62,10 +62,10 @@
 한계<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80> 
+xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 
 [ENDBLOCK]
 한계<D_FOG_COLOR_B>
@@ -77,10 +77,10 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 한계<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END> 
+xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END>
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80> 
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 
 [ENDBLOCK]
 광장
@@ -326,7 +326,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-친구라고 하니까, 
+친구라고 하니까,
 그럴 줄 알았는데…
 [ENDBLOCK]
 <Stahn>
@@ -340,7 +340,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-조금 물어보고 싶은 게 있는데, 
+조금 물어보고 싶은 게 있는데,
 전에 아이한테 악기를 받은 적이
 없었나?
 [ENDBLOCK]
@@ -374,7 +374,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 배 사공
 [ENDBLOCK]
-나도 받은 거라서, 
+나도 받은 거라서,
 그냥 괜찮다고 생각하고 양도했어.
 [ENDBLOCK]
 <Johnny>
@@ -420,7 +420,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-무슨 일이야? 
+무슨 일이야?
 그렇게 시무룩한 얼굴을 하고 있네.
 [ENDBLOCK]
 <Johnny>
@@ -429,7 +429,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-설마<Fayte>님, 
+설마<Fayte>님,
 이 아이가 병사를 습격한 건가요!?
 [ENDBLOCK]
 <Fayte>
@@ -438,7 +438,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Fayte>님! 
+<Fayte>님!
 저는 범인이 아니에요!
 [ENDBLOCK]
 여자아이
@@ -461,7 +461,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Johnny>님, 
+<Johnny>님,
 부디 저를 도와주세요!
 [ENDBLOCK]
 <Johnny>
@@ -1211,7 +1211,7 @@ select
 <TAG_007>의뢰：<x18><x66><x50><x2C><x00><x80>의<x18><x66><x50><x28><x00><x80>에
 			<x1A><x71><x44><x34><x80>를<TAG_035>개 조달하는 거야.
 보상：<TAG_032>가르드
-일을 맡을래? 
+일을 맡을래?
 할게
 그만둘게
 [ENDBLOCK]
@@ -1507,7 +1507,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-…역시, 
+…역시,
 싫어요!!
 [ENDBLOCK]
 <Chelsea>

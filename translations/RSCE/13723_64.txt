@@ -877,7 +877,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어? 
+어?
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -901,7 +901,7 @@ select
 [ENDBLOCK]
 남
 [ENDBLOCK]
-그럼, 
+그럼,
 도시에서는 살아남을 수 없겠군.
 [ENDBLOCK]
 남
@@ -929,7 +929,7 @@ select
 [ENDBLOCK]
 남
 [ENDBLOCK]
-부탁해, 
+부탁해,
 사주면 안 될까?!
 [ENDBLOCK]
 <Stahn>

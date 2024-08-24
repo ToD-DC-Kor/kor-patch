@@ -168,16 +168,16 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어떻게 된 거야, <Rutee>? 
+어떻게 된 거야, <Rutee>?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-잠깐만! 
+잠깐만!
 집 안에서 이야기 소리가 들리지 않아?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-정말이야! 
+정말이야!
 무언가 들려…
 [ENDBLOCK]
 <Rutee>
@@ -205,7 +205,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어떻게 된 거야, <Philia>? 
+어떻게 된 거야, <Philia>?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -234,7 +234,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-잠깐 <Stahn>. 
+잠깐 <Stahn>.
 조용히 해!
 [ENDBLOCK]
 <Philia>
@@ -373,7 +373,7 @@
 시장 부인
 [ENDBLOCK]
 아, 그런 안 좋은 소문을.
-시장의 부인인 제가 유괴를? 
+시장의 부인인 제가 유괴를?
 [ENDBLOCK]
 시장 부인
 [ENDBLOCK]
@@ -489,7 +489,7 @@
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-그런 건 싫어! 
+그런 건 싫어!
 모두와 함께 있고 싶어!
 [ENDBLOCK]
 <Rutee>
@@ -743,7 +743,7 @@
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Rutee>언니! 
+<Rutee>언니!
 왜 하늘이 이상해져 있어?
 [ENDBLOCK]
 여자아이
@@ -1170,7 +1170,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

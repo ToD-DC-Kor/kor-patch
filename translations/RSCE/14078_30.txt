@@ -24,7 +24,7 @@
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-그래. 돌아오는 김에, 
+그래. 돌아오는 김에,
 내가 제일 좋아하는 악기라도
 가져가야겠네.
 [ENDBLOCK]
@@ -142,7 +142,7 @@
 [ENDBLOCK]
 사쿠라바
 [ENDBLOCK]
-나는 정말, 
+나는 정말,
 말하고 싶어서 말할 거야.
 [ENDBLOCK]
 <Stahn>
@@ -212,7 +212,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-네! 
+네!
 [ENDBLOCK]
 사쿠라바
 [ENDBLOCK]

@@ -56,12 +56,12 @@ notice
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-여러분이 생각하는, 
+여러분이 생각하는,
 성인 여성을 대답해 주세요!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-여기까지 말했으니, 
+여기까지 말했으니,
 괜찮지 않을까요.
 [ENDBLOCK]
 <Stahn>

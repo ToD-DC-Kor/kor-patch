@@ -13,7 +13,7 @@
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-괜찮습니까, 
+괜찮습니까,
 <Baruk>님?
 [ENDBLOCK]
 <Baruk>
@@ -247,7 +247,7 @@
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-세인가르드가 공격받았다고? 
+세인가르드가 공격받았다고?
 오베론 사 본부는 괜찮은가?
 [ENDBLOCK]
 부하

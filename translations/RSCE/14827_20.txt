@@ -86,7 +86,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-나를 마검이라고 하다니! 
+나를 마검이라고 하다니!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -170,7 +170,7 @@ select
 [ENDBLOCK]
 커뮤니 할아버지
 [ENDBLOCK]
-메뉴 해방이야！！！！ 
+메뉴 해방이야！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -179,12 +179,12 @@ notice
 [ENDBLOCK]
 커뮤니 할아버지
 [ENDBLOCK]
-<Triangle_ani>를 눌러, 
+<Triangle_ani>를 눌러,
 계속해서 <Select_ani>를 누르는 것이야.
 [ENDBLOCK]
 커뮤니 할아버지
 [ENDBLOCK]
-캔버스 해방이야！！！！ 
+캔버스 해방이야！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -194,7 +194,7 @@ notice
 [ENDBLOCK]
 커뮤니 할아버지
 [ENDBLOCK]
-차기돌 변화의 기술이야！！！！ 
+차기돌 변화의 기술이야！！！！
 [ENDBLOCK]
 커뮤니 할아버지
 [ENDBLOCK]
@@ -209,7 +209,7 @@ notice
 커뮤니 할아버지
 [ENDBLOCK]
 여기보다 동쪽의 땅, 은빛 세계에 있어.
-그리운 남편의 아래로, 가라！！！！ 
+그리운 남편의 아래로, 가라！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -425,12 +425,12 @@ select
 <TAG_007>TOD OUTPUT <x17><x20><x20><x16><x4F><x80><x17><x20><x21><x16><x4F><x80><x17><x20><x24><x02><x16><x4F><x80><x17><x20><x24><x03><x16><x4F><x80><x17><x20><x24><x04><x16><x4F><x80><x17><x20><x24><x05><x16><x4F><x80><x17><x20><x24><x06><x16><x4F><x80><x17><x20><x24><x07><x16><x4F><x80>
 WEB INPUT  <x17><x21><x20><x16><x4F><x80><x17><x21><x21><x16><x4F><x80><x17><x21><x24><x02><x16><x4F><x80><x17><x21><x24><x03><x16><x4F><x80><x17><x21><x24><x04><x16><x4F><x80><x17><x21><x24><x05><x16><x4F><x80><x17><x21><x24><x06><x16><x4F><x80><x17><x21><x24><x07><x16><x4F><x80>
 메뉴 내의 페이스 그림을 PS판 도트 캐릭터로
-채팅의 그림을 감상할 수 있게 하며  
-차는 돌이 장난감 오리가 된다  
-필리아의 마법 하나 추가  
-스탄의 기술 추가  
-다리스의 악몽  
-전투 랭크 최고를 추가  
+채팅의 그림을 감상할 수 있게 하며 
+차는 돌이 장난감 오리가 된다 
+필리아의 마법 하나 추가 
+스탄의 기술 추가 
+다리스의 악몽 
+전투 랭크 최고를 추가 
 스탄의 기술 추가 2
 
 [ENDBLOCK]
@@ -663,7 +663,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

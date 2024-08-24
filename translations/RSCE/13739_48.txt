@@ -614,7 +614,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-무운을 기원하고 있습니다, 
+무운을 기원하고 있습니다,
 젊은이.
 [ENDBLOCK]
 <Stahn>

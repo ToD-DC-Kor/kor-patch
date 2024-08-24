@@ -603,7 +603,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-꼭 이기세요! 
+꼭 이기세요!
 [ENDBLOCK]
 여인
 [ENDBLOCK]
@@ -779,7 +779,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아마도...? 
+아마도...?
 
 [ENDBLOCK]
 손님, 잠시만 기다려 주세요...
@@ -1032,9 +1032,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

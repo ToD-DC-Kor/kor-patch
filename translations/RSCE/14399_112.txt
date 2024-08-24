@@ -398,7 +398,7 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-저녁 식사 장을 부탁해, 
+저녁 식사 장을 부탁해,
 오빠.
 [ENDBLOCK]
 <Lilith>
@@ -698,7 +698,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -733,7 +733,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-뭐라고? 
+뭐라고?
 상대의 얼굴은 봤어?
 [ENDBLOCK]
 <Lilith>
@@ -794,12 +794,12 @@ notice
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-오오! <Stahn>, 
+오오! <Stahn>,
 너는 나를 이해해 줄 수 있겠지.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-정말이야, 오빠? 
+정말이야, 오빠?
 그럼…
 [ENDBLOCK]
 <Stahn>
@@ -820,11 +820,11 @@ notice
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-나는, 나는 아니야… 
+나는, 나는 아니야…
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-그럼, 도대체 누가 
+그럼, 도대체 누가
 목욕탕을 엿본 거야?
 [ENDBLOCK]
 <Bacchus>
@@ -845,7 +845,7 @@ notice
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-정체…? 
+정체…?
 그럼, 이 아이가?
 [ENDBLOCK]
 <Stahn>
@@ -1021,12 +1021,12 @@ notice
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-형의 결심… 
+형의 결심…
 내가 그것을 흔들어선 안 된다고.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-그리고 무엇보다도… 
+그리고 무엇보다도…
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1043,7 +1043,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는… 
+나는…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1129,7 +1129,7 @@ select
 [ENDBLOCK]
 커뮤니티 할아버지
 [ENDBLOCK]
-메뉴 해방이야！！！！ 
+메뉴 해방이야！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1144,7 +1144,7 @@ notice
 [ENDBLOCK]
 커뮤니티 할아버지
 [ENDBLOCK]
-캔버스 해방이야！！！！ 
+캔버스 해방이야！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1154,7 +1154,7 @@ notice
 [ENDBLOCK]
 커뮤니티 할아버지
 [ENDBLOCK]
-차기석 변화의 술이야！！！！ 
+차기석 변화의 술이야！！！！
 [ENDBLOCK]
 커뮤니티 할아버지
 [ENDBLOCK]
@@ -1169,7 +1169,7 @@ notice
 커뮤니티 할아버지
 [ENDBLOCK]
 여기보다 동쪽의 땅, 백은의 세계에 있어.
-그리운 남편에게로, 가라！！！！ 
+그리운 남편에게로, 가라！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1354,12 +1354,12 @@ select
 토마스
 [ENDBLOCK]
 내가 활을 써도, 저런 건
-맞출 수 없겠지… 
+맞출 수 없겠지…
 [ENDBLOCK]
 토마스
 [ENDBLOCK]
 내가 활을 써도, 저런 건
-맞출 수 없겠지… 
+맞출 수 없겠지…
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -1434,7 +1434,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-태어나는 건가!? 
+태어나는 건가!?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -1577,7 +1577,7 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-엄마로서, 
+엄마로서,
 기뻐해야 해!
 [ENDBLOCK]
 <Stahn>

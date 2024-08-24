@@ -2,21 +2,21 @@
 [ENDBLOCK]
 바보 같은…！	이 나가…！
 [ENDBLOCK]
-<스탄 엘론>
+<Stahn>
 [ENDBLOCK]
 이겼다…！
 [ENDBLOCK]
-<루티 카틀릿>
+<Rutee>
 [ENDBLOCK]
 상당히 애를 먹였지만,
 드디어 끝났군요.
 [ENDBLOCK]
-<필리아 필리스>
+<Philia>
 [ENDBLOCK]
 <Greybum>, 이제 끝입니다.
 더 이상의 악어짓은 헛수고입니다.
 [ENDBLOCK]
-<우드로우 켈빈>
+<Woodrow>
 [ENDBLOCK]
 <Igtenos>를 돌려받겠다,
 <Greybum>.
@@ -26,7 +26,7 @@
 바보야…！	이 정도로,
 내게 이겼다고 생각하지 마라…！
 [ENDBLOCK]
-<첼시 톤>
+<Chelsea>
 [ENDBLOCK]
 <Woodrow>님！
 [ENDBLOCK]
@@ -57,7 +57,7 @@
 [ENDBLOCK]
 멈춰, <Greybum>！
 [ENDBLOCK]
-<스탄 엘론>
+<Stahn>
 [ENDBLOCK]
 위험해, <Woodrow>님！
 [ENDBLOCK]
@@ -70,19 +70,19 @@
 어리석은 자여…
 이렇게 될 것은 예견하고 있었다…
 [ENDBLOCK]
-<리온 매그너스>
+<Lion>
 [ENDBLOCK]
 흥, 마지막에 자멸했군.
 [ENDBLOCK]
-<필리아 필리스>
+<Philia>
 [ENDBLOCK]
 신의 눈의 빛이, 가라앉았습니다…
 [ENDBLOCK]
-<루티 카틀릿>
+<Rutee>
 [ENDBLOCK]
 후우. 어떻게 될지 걱정했어요.
 [ENDBLOCK]
-<우드로우 켈빈>
+<Woodrow>
 [ENDBLOCK]
 <Igtenos>, 어떻게 된 거야？
 [ENDBLOCK]
@@ -95,11 +95,11 @@
 잠깐만. 말하고 싶어도,
 말할 수 없는 상태가 아닐까 싶어？
 [ENDBLOCK]
-<리온 매그너스>
+<Lion>
 [ENDBLOCK]
 소디언이 파손되었다고？
 [ENDBLOCK]
-<스탄 엘론>
+<Stahn>
 [ENDBLOCK]
 뭐라고…！
 [ENDBLOCK]
@@ -667,7 +667,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

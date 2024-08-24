@@ -353,7 +353,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 남자 역할
 [ENDBLOCK]
-나는 평생, 
+나는 평생,
 공주를 지킬 것입니다.
 [ENDBLOCK]
 공주 역할
@@ -366,7 +366,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-하지만, 상황을 이해하게 되어, 
+하지만, 상황을 이해하게 되어,
 울고 말았습니다!
 [ENDBLOCK]
 신인 감독
@@ -388,7 +388,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-한 번 더, 
+한 번 더,
 무대에 도전하시겠습니까?
 네
 아니요
@@ -456,7 +456,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-챔피언이 귀환하는 날을, 
+챔피언이 귀환하는 날을,
 진심으로 기다리고 있습니다!
 [ENDBLOCK]
 갑옷을 입은 남자
@@ -740,9 +740,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

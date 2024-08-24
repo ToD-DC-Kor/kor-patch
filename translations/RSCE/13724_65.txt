@@ -471,7 +471,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 ？？？
 [ENDBLOCK]
-오늘도 또, 
+오늘도 또,
 乙女를 한 명 울리고 있어♪
 [ENDBLOCK]
 <Chelsea>
@@ -726,27 +726,27 @@ notice
 [ENDBLOCK]
 선원
 [ENDBLOCK]
-이제 희망은 없어… 조금의 빛도, 
+이제 희망은 없어… 조금의 빛도,
 곧 닿지 않게 될 거야.
 [ENDBLOCK]
 선원
 [ENDBLOCK]
-아쿠아베일의 함대가, 
+아쿠아베일의 함대가,
 당신들을 도와줬다고？
 [ENDBLOCK]
 선원
 [ENDBLOCK]
-판달리아는 그렇다 치더라도, 
+판달리아는 그렇다 치더라도,
 아쿠아베일과 협력하다니.
 [ENDBLOCK]
 선원
 [ENDBLOCK]
-그런 날이 올 줄은, 
+그런 날이 올 줄은,
 예전에는 상상도 못했어.
 [ENDBLOCK]
 선원
 [ENDBLOCK]
-이제는 전 세계의 사람들이, 
+이제는 전 세계의 사람들이,
 당신들을 응원하고 있어.
 [ENDBLOCK]
 캣걸
@@ -770,67 +770,67 @@ notice
 [ENDBLOCK]
 캣걸
 [ENDBLOCK]
-번개가 떨어진 곳은, 
+번개가 떨어진 곳은,
 큰 구멍이 생기는 모양이야.
 [ENDBLOCK]
 캣걸
 [ENDBLOCK]
-이대로라면 전 세계가, 
+이대로라면 전 세계가,
 구멍투성이가 되어버릴지도 몰라…
 [ENDBLOCK]
 캣걸
 [ENDBLOCK]
-이런 옷차림으로 몬스터에게 습격당하면, 
+이런 옷차림으로 몬스터에게 습격당하면,
 정말로 몸을 지킬 수 없어…
 [ENDBLOCK]
 캣걸
 [ENDBLOCK]
-이기고 돌아오면, 
+이기고 돌아오면,
 풍성한 서비스를 해줄게！
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-열국 최강이라고 불리는 칠장군도 
+열국 최강이라고 불리는 칠장군도
 이제는 과거의 일이 될지도 모르겠다.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-최근 <Hugo> 님의 대두로, 그 권위가 
+최근 <Hugo> 님의 대두로, 그 권위가
 점차 잃어가고 있거든요.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-요즘은 칠장군의 활약 이야기도 
+요즘은 칠장군의 활약 이야기도
 듣지 못하게 되었네요.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-우리 군에는 일곱 명의 지휘관이 있으며, 
+우리 군에는 일곱 명의 지휘관이 있으며,
 통칭, 칠장군이라고 불리고 있습니다.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-최근 <Lion> 님이 인기가 많아져서, 
+최근 <Lion> 님이 인기가 많아져서,
 다소 인상이 흐릿해졌습니다만.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-우리 군에는 일곱 명의 지휘관이 있으며, 
+우리 군에는 일곱 명의 지휘관이 있으며,
 통칭, 칠장군이라고 불리고 있습니다.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-이제야말로 칠장군 분들이, 
+이제야말로 칠장군 분들이,
 결속하여 일을 처리해야 하는데…
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-<Dryden> 각하 덕분에, 
+<Dryden> 각하 덕분에,
 어떻게든 몬스터를 퇴치할 수 있었습니다.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-군을 올려 여러분에게 협력하라고, 
+군을 올려 여러분에게 협력하라고,
 명령받고 있습니다.
 [ENDBLOCK]
 남자
@@ -845,22 +845,22 @@ notice
 [ENDBLOCK]
 남
 [ENDBLOCK]
-치, 챔피언의<Kongman>! 
+치, 챔피언의<Kongman>!
 사인 주세요!
 [ENDBLOCK]
 남
 [ENDBLOCK]
 당신들과 함께 있는 건
-설마<Kongman>!? 
+설마<Kongman>!?
 [ENDBLOCK]
 남
 [ENDBLOCK]
-<Kongman>! 	무슨 일이 일어나고 있는지, 
+<Kongman>! 	무슨 일이 일어나고 있는지,
 알려주세요!
 [ENDBLOCK]
 남
 [ENDBLOCK]
-무슨 일이 일어나고 있는지, 
+무슨 일이 일어나고 있는지,
 알려주세요!
 [ENDBLOCK]
 남
@@ -957,7 +957,7 @@ notice
 [ENDBLOCK]
 노인
 [ENDBLOCK]
-이제부터 전 세계를 돌아다닐 건가요? 
+이제부터 전 세계를 돌아다닐 건가요?
 부디 잘 부탁드립니다.
 [ENDBLOCK]
 고기를 파는 상인

@@ -31,7 +31,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-어? <Stahn>? 
+어? <Stahn>?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -53,7 +53,7 @@
 <Rutee>
 [ENDBLOCK]
 응? 왜 <Lion>이,
-너가 여기 있어!? 
+너가 여기 있어!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -73,11 +73,11 @@
 [ENDBLOCK]
 크리스
 [ENDBLOCK]
-왜 그래, <Rutee>? 
+왜 그래, <Rutee>?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-마, <Marian> 씨!? 
+마, <Marian> 씨!?
 [ENDBLOCK]
 크리스
 [ENDBLOCK]
@@ -100,11 +100,11 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-여행!? 아빠!? 
+여행!? 아빠!?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-무슨 일이야? 
+무슨 일이야?
 [ENDBLOCK]
 크리스
 [ENDBLOCK]
@@ -113,7 +113,7 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-뭐야. 나만 빼놓고 있어? 
+뭐야. 나만 빼놓고 있어?
 아버지, 조금 삐졌어.
 [ENDBLOCK]
 <Lion>
@@ -426,7 +426,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

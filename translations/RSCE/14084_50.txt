@@ -8,7 +8,7 @@
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-무슨 일이야, <Rutee>? 
+무슨 일이야, <Rutee>?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -127,7 +127,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-별로라고? 
+별로라고?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -163,7 +163,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-뭐야, <Philia>? 
+뭐야, <Philia>?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

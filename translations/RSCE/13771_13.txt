@@ -248,7 +248,7 @@
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
-축하합니다! 
+축하합니다!
 「나츄렌저」!
 [ENDBLOCK]
 할아버지
@@ -319,7 +319,7 @@ notice
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
-멈추는 것도 자유, 
+멈추는 것도 자유,
 앞으로 나아가는 것도 자유.
 [ENDBLOCK]
 할아버지

@@ -493,7 +493,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-이곳은 <Lion>님, 
+이곳은 <Lion>님,
 통과해 주시기 바랍니다.
 [ENDBLOCK]
 세인가르드 병사
@@ -502,7 +502,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-수고 많으십니다, 
+수고 많으십니다,
 <Lion>님!
 [ENDBLOCK]
 세인가르드 병사
@@ -511,7 +511,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-수고 많으십니다, 
+수고 많으십니다,
 <Lion>님!
 [ENDBLOCK]
 세인가르드 병사
@@ -548,17 +548,17 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-성이 자유롭게 출입할 수 있다니, 
+성이 자유롭게 출입할 수 있다니,
 너, 대단한 사람이구나.
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-성이 자유롭게 출입할 수 있다니, 
+성이 자유롭게 출입할 수 있다니,
 너희들, 대단한 사람들이구나.
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-저 방송의 목소리, 누군가? 
+저 방송의 목소리, 누군가?
 들어본 것 같은데.
 [ENDBLOCK]
 젊은 남자
@@ -567,22 +567,22 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-성 안에 있으면, 
+성 안에 있으면,
 몬스터에게 습격당하지 않을까?
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-렌즈를 많이 실은 짐차가, 
+렌즈를 많이 실은 짐차가,
 계속 성 안으로 들어가고 있어.
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-성 안에서, 대단한 비밀병기를, 
+성 안에서, 대단한 비밀병기를,
 만들고 있다던데？
 [ENDBLOCK]
 젊은 남자
 [ENDBLOCK]
-대단해! 하늘 천장에 구멍이 뚫렸어! 
+대단해! 하늘 천장에 구멍이 뚫렸어!
 대단해, 대단해!
 [ENDBLOCK]
 select
@@ -822,9 +822,9 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]

@@ -170,7 +170,7 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-형의 일, 
+형의 일,
 잘 부탁해요.
 [ENDBLOCK]
 <Lilith>
@@ -229,7 +229,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-엥!? 
+엥!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -282,12 +282,12 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-뭐라 뭐라 해도, 
-역시 집이 제일이지? 
+뭐라 뭐라 해도,
+역시 집이 제일이지?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아, 응… 뭐… 
+아, 응… 뭐…
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -296,103 +296,103 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-형… 혹시, 
-또 여행을 떠나고 싶다고 생각하고 있는 거야? 
+형… 혹시,
+또 여행을 떠나고 싶다고 생각하고 있는 거야?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-응? 	방금 뭔가 말했어? 
+응? 	방금 뭔가 말했어?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-모르겠어! 
+모르겠어!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-멍하니 있지 말고, 
-할 일이 없으면 집일이라도 도와줘! 
+멍하니 있지 말고,
+할 일이 없으면 집일이라도 도와줘!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아, 응. 뭐 하면 돼? 
+아, 응. 뭐 하면 돼?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
 그래. 장을 보고 와줘.
-저녁 반찬. 
+저녁 반찬.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-알겠어, 알겠어! 
+알겠어, 알겠어!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-그 대답이 걱정되긴 하지만… 
+그 대답이 걱정되긴 하지만…
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-형! 	장 보는 건 어쩌고! 
+형! 	장 보는 건 어쩌고!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-우와아!? 
-죄, 죄송합니다! 
+우와아!?
+죄, 죄송합니다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 자, 이거.
-세일 품의 소고기. 
+세일 품의 소고기.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-헤에. 형치고는, 
-괜찮은 거 사왔네. 
+헤에. 형치고는,
+괜찮은 거 사왔네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 사실 <Bacchus>가 줬어.
-갑자기. 
+갑자기.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-…왜? 
+…왜?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
 안녕, <Lilith>양.
-선물, 받아줬어? 
+선물, 받아줬어?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
 내 마음이 담긴 세일 품의 소고기.
-나라고 생각하고 맛있게 먹어줘! 	잘가! 
+나라고 생각하고 맛있게 먹어줘! 	잘가!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-방금… 뭐였어? 
+방금… 뭐였어?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-글쎄… 
+글쎄…
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-세일 부분을, 
-강조해도 말이지… 
+세일 부분을,
+강조해도 말이지…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-자, 이거. 특상 소고기야~. 
+자, 이거. 특상 소고기야~.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
 거짓말? 	잘 사왔네.
-돈이 부족하지 않았어? 
+돈이 부족하지 않았어?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 사실 받은 거야.
-자, 마을 사람한테서. 
+자, 마을 사람한테서.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -442,7 +442,7 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-좋으니까 빨리 돌려줘! 
+좋으니까 빨리 돌려줘!
 빨리! 어서 어서!
 [ENDBLOCK]
 <Stahn>
@@ -478,7 +478,7 @@ select
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-이런, 빨리 일어나! 
+이런, 빨리 일어나!
 이 중대한 일에, 왜 이렇게 느긋하게 자고 있어!
 [ENDBLOCK]
 <Stahn>
@@ -517,7 +517,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-응가!? 
+응가!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -623,12 +623,12 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-약속했지? 다시는, 
+약속했지? 다시는,
 함부로 나가버리지 않겠다고.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-전에 오빠가 사라졌을 때, 
+전에 오빠가 사라졌을 때,
 얼마나 걱정했는지 이야기했지?
 [ENDBLOCK]
 <Stahn>
@@ -641,12 +641,12 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-나나 할아버지 같은 건, 
+나나 할아버지 같은 건,
 상관없다는 거구나.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런 말은 아니야! 
+그런 말은 아니야!
 <Lilith>도 할아버지도, 정말 소중해!
 [ENDBLOCK]
 <Stahn>
@@ -659,17 +659,17 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-현재 우리에게는, 꼭, 
+현재 우리에게는, 꼭,
 <Stahn>님의 힘이 필요합니다.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-그런 건, 나와는 관계없어! 
+그런 건, 나와는 관계없어!
 함부로 해버려!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lilith>! 
+<Lilith>!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -689,7 +689,7 @@ select
 [ENDBLOCK]
 가라, <Stahn>야.
 [ENDBLOCK]
-상당한 사정이 있겠구나? 
+상당한 사정이 있겠구나?
 너의 눈을 보면 알 수 있어.
 [ENDBLOCK]
 가서 오고, 그리고 너에게만
@@ -705,7 +705,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…하지만 <Lilith>에게는, 
+…하지만 <Lilith>에게는,
 내가 직접 이야기할게.
 [ENDBLOCK]
 <Stahn>
@@ -727,7 +727,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-먼저 노이슈타트로 나가서, 
+먼저 노이슈타트로 나가서,
 배로 판달리아를 목표로 하자.
 [ENDBLOCK]
 <Stahn>
@@ -1065,7 +1065,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-뭐라고? 
+뭐라고?
 상대의 얼굴은 봤어?
 [ENDBLOCK]
 <Lilith>
@@ -1126,12 +1126,12 @@ notice
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-오오! <Stahn>, 
+오오! <Stahn>,
 너는 나를 이해해 줄 수 있겠지.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-정말이야, 오빠? 
+정말이야, 오빠?
 그럼…
 [ENDBLOCK]
 <Stahn>
@@ -1152,11 +1152,11 @@ notice
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-나는, 나는 아니야… 
+나는, 나는 아니야…
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-그럼, 도대체 누가 
+그럼, 도대체 누가
 목욕탕을 엿본 거야?
 [ENDBLOCK]
 <Bacchus>
@@ -1177,7 +1177,7 @@ notice
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-정체…? 
+정체…?
 그럼, 이 아이가?
 [ENDBLOCK]
 <Stahn>
@@ -1353,12 +1353,12 @@ notice
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-형의 결심… 
+형의 결심…
 내가 그것을 흔들어선 안 된다고.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-그리고 무엇보다도… 
+그리고 무엇보다도…
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1375,7 +1375,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는… 
+나는…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1461,7 +1461,7 @@ select
 [ENDBLOCK]
 커뮤니티 할아버지
 [ENDBLOCK]
-메뉴 해방이야！！！！ 
+메뉴 해방이야！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1476,7 +1476,7 @@ notice
 [ENDBLOCK]
 커뮤니티 할아버지
 [ENDBLOCK]
-캔버스 해방이야！！！！ 
+캔버스 해방이야！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1486,7 +1486,7 @@ notice
 [ENDBLOCK]
 커뮤니티 할아버지
 [ENDBLOCK]
-차기석 변화의 술이야！！！！ 
+차기석 변화의 술이야！！！！
 [ENDBLOCK]
 커뮤니티 할아버지
 [ENDBLOCK]
@@ -1501,7 +1501,7 @@ notice
 커뮤니티 할아버지
 [ENDBLOCK]
 여기보다 동쪽의 땅, 백은의 세계에 있어.
-그리운 남편에게로, 가라！！！！ 
+그리운 남편에게로, 가라！！！！
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1686,12 +1686,12 @@ select
 토마스
 [ENDBLOCK]
 내가 활을 써도, 저런 건
-맞출 수 없겠지… 
+맞출 수 없겠지…
 [ENDBLOCK]
 토마스
 [ENDBLOCK]
 내가 활을 써도, 저런 건
-맞출 수 없겠지… 
+맞출 수 없겠지…
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -1887,7 +1887,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lilith>? 
+<Lilith>?
 [ENDBLOCK]
 토마스
 [ENDBLOCK]
@@ -1910,11 +1910,11 @@ select
 <Lilith>
 [ENDBLOCK]
 엄마로서,
-기뻐해야겠지! 
+기뻐해야겠지!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-응, 그렇지 <Lilith>! 
+응, 그렇지 <Lilith>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1928,7 +1928,7 @@ select
 <Lilith>
 [ENDBLOCK]
 다음에 만날 때는, 어쩌면
-아내와 아이를 데리고 올지도 몰라! 
+아내와 아이를 데리고 올지도 몰라!
 [ENDBLOCK]
 토마스
 [ENDBLOCK]

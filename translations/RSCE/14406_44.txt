@@ -465,12 +465,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-저기, 수녀님? 
+저기, 수녀님?
 무슨 일이에요?
 [ENDBLOCK]
 수녀님
 [ENDBLOCK]
-<Rutee>!? 
+<Rutee>!?
 아, 놀라게 하지 마세요.
 [ENDBLOCK]
 <Rutee>
@@ -554,7 +554,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-확실히요. 아내에게, 
+확실히요. 아내에게,
 「방해하려고 하나요?」
 라고 물어볼 수는 없겠죠.
 [ENDBLOCK]
@@ -570,7 +570,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 수녀님
 [ENDBLOCK]
-무엇을 하고 계신가요? 
+무엇을 하고 계신가요?
 <Rutee>와 함께요.
 [ENDBLOCK]
 수녀님
@@ -613,11 +613,11 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 일이야, <Rutee>? 
+무슨 일이야, <Rutee>?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-잠깐 기다려! 
+잠깐 기다려!
 집 안에서 목소리가 들리지 않아?
 [ENDBLOCK]
 <Stahn>
@@ -649,7 +649,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 일이야 <Philia>? 
+무슨 일이야 <Philia>?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -785,7 +785,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그럼 도대체 어디에!? 
+그럼 도대체 어디에!?
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
@@ -934,7 +934,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-그런 건 싫어! 
+그런 건 싫어!
 모두와 함께 있고 싶어!
 [ENDBLOCK]
 <Rutee>
@@ -1481,7 +1481,7 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
 
 [ENDBLOCK]

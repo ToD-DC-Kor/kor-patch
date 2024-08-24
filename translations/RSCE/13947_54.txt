@@ -134,7 +134,7 @@ init_camera_homing!!!
 엘레나
 [ENDBLOCK]
 그 두 사람과 혈연으로 연결된
-가족이라는 것만으로도, 정말 싫어진다! 
+가족이라는 것만으로도, 정말 싫어진다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -626,5 +626,5 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_008><S06>로딩 중...
+<TAG_008><S06>Now Loading...
 [ENDBLOCK]
