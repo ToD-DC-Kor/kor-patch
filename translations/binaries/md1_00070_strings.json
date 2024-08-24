@@ -1,0 +1,131 @@
+{
+    "00070.md1": [
+        {
+            "offset": 23784,
+            "string": "[Triangle_ani]自動操縦[Circle_ani]ショップ[Square_ani]拡大[L1_ani][R1_ani]カテゴリ変更[L3_ani][R3_ani]図鑑切替[END]",
+            "original_bytes_length": 80,
+            "available_bytes_size": 80,
+            "translation": "[Triangle_ani]자동조종[Circle_ani]상점[Square_ani]확대[L1_ani][R1_ani]카테고리 변경[L3_ani][R3_ani]도감 전환[END]"
+        },
+        {
+            "offset": 23720,
+            "string": "[Triangle_ani]自動操縦[Circle_ani]ショップ[Square_ani]拡大[L1_ani][R1_ani]カテゴリ変更[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "[Triangle_ani]자동조종[Circle_ani]상점[Square_ani]확대[L1_ani][R1_ani]카테고리 변경[END]"
+        },
+        {
+            "offset": 23928,
+            "string": "[Triangle_ani]自動操縦[Circle_ani]ショップ[Square_ani]縮小[L1_ani][R1_ani]カテゴリ変更[L3_ani][R3_ani]図鑑切替[END]",
+            "original_bytes_length": 80,
+            "available_bytes_size": 80,
+            "translation": "[Triangle_ani]자동조종[Circle_ani]상점[Square_ani]축소[L1_ani][R1_ani]카테고리 변경[L3_ani][R3_ani]도감 전환[END]"
+        },
+        {
+            "offset": 23864,
+            "string": "[Triangle_ani]自動操縦[Circle_ani]ショップ[Square_ani]縮小[L1_ani][R1_ani]カテゴリ変更[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "[Triangle_ani]자동조종[Circle_ani]상점[Square_ani]축소[L1_ani][R1_ani]카테고리 변경[END]"
+        },
+        {
+            "offset": 24056,
+            "string": "[Circle_ani]ショップ[Square_ani]拡大[L1_ani][R1_ani]カテゴリ変更[L3_ani][R3_ani]図鑑切替[END]",
+            "original_bytes_length": 66,
+            "available_bytes_size": 71,
+            "translation": "[Circle_ani]상점[Square_ani]확대[L1_ani][R1_ani]카테고리 변경[L3_ani][R3_ani]도감 전환[END]"
+        },
+        {
+            "offset": 24008,
+            "string": "[Circle_ani]ショップ[Square_ani]拡大[L1_ani][R1_ani]カテゴリ変更[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[Circle_ani]상점[Square_ani]확대[L1_ani][R1_ani]카테고리 변경[END]"
+        },
+        {
+            "offset": 24176,
+            "string": "[Circle_ani]ショップ[Square_ani]縮小[L1_ani][R1_ani]カテゴリ変更[L3_ani][R3_ani]図鑑切替[END]",
+            "original_bytes_length": 66,
+            "available_bytes_size": 71,
+            "translation": "[Circle_ani]상점[Square_ani]축소[L1_ani][R1_ani]카테고리 변경[L3_ani][R3_ani]도감 전환[END]"
+        },
+        {
+            "offset": 24128,
+            "string": "[Circle_ani]ショップ[Square_ani]縮小[L1_ani][R1_ani]カテゴリ変更[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[Circle_ani]상점[Square_ani]축소[L1_ani][R1_ani]카테고리 변경[END]"
+        },
+        {
+            "offset": 24296,
+            "string": "[Triangle_ani]自動操縦[Square_ani]拡大[L1_ani][R1_ani]カテゴリ変更[L3_ani][R3_ani]図鑑切替[END]",
+            "original_bytes_length": 66,
+            "available_bytes_size": 71,
+            "translation": "[Triangle_ani]자동조종[Square_ani]확대[L1_ani][R1_ani]카테고리 변경[L3_ani][R3_ani]도감 전환[END]"
+        },
+        {
+            "offset": 24248,
+            "string": "[Triangle_ani]自動操縦[Square_ani]拡大[L1_ani][R1_ani]カテゴリ変更[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[Triangle_ani]자동조종[Square_ani]확대[L1_ani][R1_ani]카테고리 변경[END]"
+        },
+        {
+            "offset": 24416,
+            "string": "[Triangle_ani]自動操縦[Square_ani]縮小[L1_ani][R1_ani]カテゴリ変更[L3_ani][R3_ani]図鑑切替[END]",
+            "original_bytes_length": 66,
+            "available_bytes_size": 71,
+            "translation": "[Triangle_ani]자동조종[Square_ani]축소[L1_ani][R1_ani]카테고리 변경[L3_ani][R3_ani]도감 전환[END]"
+        },
+        {
+            "offset": 24368,
+            "string": "[Triangle_ani]自動操縦[Square_ani]縮小[L1_ani][R1_ani]カテゴリ変更[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[Triangle_ani]자동조종[Square_ani]축소[L1_ani][R1_ani]카테고리 변경[END]"
+        },
+        {
+            "offset": 24528,
+            "string": "[Square_ani]拡大[L1_ani][R1_ani]カテゴリ変更[L3_ani][R3_ani]図鑑切替[END]",
+            "original_bytes_length": 52,
+            "available_bytes_size": 55,
+            "translation": "[Square_ani]확대[L1_ani][R1_ani]카테고리 변경[L3_ani][R3_ani]도감 전환[END]"
+        },
+        {
+            "offset": 24488,
+            "string": "[Square_ani]拡大[L1_ani][R1_ani]カテゴリ変更[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "[Square_ani]확대[L1_ani][R1_ani]카테고리 변경[END]"
+        },
+        {
+            "offset": 24624,
+            "string": "[Square_ani]縮小[L1_ani][R1_ani]カテゴリ変更[L3_ani][R3_ani]図鑑切替[END]",
+            "original_bytes_length": 52,
+            "available_bytes_size": 55,
+            "translation": "[Square_ani]축소[L1_ani][R1_ani]카테고리 변경[L3_ani][R3_ani]도감 전환[END]"
+        },
+        {
+            "offset": 24584,
+            "string": "[Square_ani]縮小[L1_ani][R1_ani]カテゴリ変更[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "[Square_ani]축소[L1_ani][R1_ani]카테고리 변경[END]"
+        },
+        {
+            "offset": 24720,
+            "string": "[Left+Right_blink]リスト切替[Cross_ani]戻る[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Left+Right_blink]리스트 전환[Cross_ani]돌아가기[END]"
+        },
+        {
+            "offset": 24680,
+            "string": "[Left+Right_blink]リスト切替[Cross_ani]戻る[Square_ani]説明切替[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "[Left+Right_blink]리스트 전환[Cross_ani]돌아가기[Square_ani]설명 전환[END]"
+        }
+
+    ]
+}
