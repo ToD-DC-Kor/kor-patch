@@ -2,9 +2,13 @@
 
 다음과 같은 방법으로 프로젝트에 기여할 수 있습니다.
 
+- 도움 이슈에 기여하기
 - 게임 플레이 후 화면에 잘못 표기되는 번역 문자열 [이슈](https://github.com/ToD-DC-Kor/kor-patch/issues/new/choose) 제보
 - 번역 오류/교정 Pull Request(PR) 작성
-- 그 외 기여
+
+## 도움 이슈에 기여하기
+
+Issues에서 [🐤 help wanted](https://github.com/ToD-DC-Kor/kor-patch/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%A4+help+wanted%22) Label이 달린 항목을 클릭하여 도움이 필요한 이슈를 확인하고 기여해보세요.
 
 ## 번역 교정
 
@@ -40,7 +44,3 @@
 #### Git에 익숙한 경우
 
 `./translations/RSCE/` 디렉토리의 최초 커밋에 원본 파일이 포함되어 있습니다. 최초 커밋을 참조하여 원문과 번역을 비교하고 수정하면 됩니다.
-
-## 그 외 기여
-
-Issues에서 [🐤 good first issue](https://github.com/ToD-DC-Kor/kor-patch/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%A4+good+first+issue%22) Label이 달린 항목을 클릭하여 도움이 필요한 이슈를 확인하고 기여해보세요.

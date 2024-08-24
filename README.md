@@ -60,7 +60,7 @@
 - 게임 플레이 후 화면에 잘못 표기되는 번역 문자열 [이슈](https://github.com/ToD-DC-Kor/kor-patch/issues/new/choose) 제보
 - 번역 오류/교정 Pull Request(PR) 작성
 - 그 외 기여
-  - 이슈에서 [🐤 good first issue](https://github.com/ToD-DC-Kor/kor-patch/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%A4+good+first+issue%22) Label이 달린 항목을 클릭하여 도움이 필요한 이슈를 확인하고 기여해보세요.
+  - 이슈에서 [🐤 help wanted](https://github.com/ToD-DC-Kor/kor-patch/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%A4+help+wanted%22) Label이 달린 항목을 클릭하여 도움이 필요한 이슈를 확인하고 기여해보세요.
 
 ## 제보
 
