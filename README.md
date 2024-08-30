@@ -2,11 +2,15 @@
 
 ## 공지
 
-이 프로젝트는 1인 개발로 진행되고 있습니다. 혼자서 검수할 수 있는 양에 한계가 있기 때문에, 공개 검수 버전을 배포합니다.
+이 프로젝트는 1인 개발로 진행되고 있습니다. 매 변경점마다 공개 검수 버전을 배포합니다.
 
-매 패치의 변경점을 배포하는 이유는 공개 검수를 통해 더 빠른 완성을 목표로 하기 때문입니다.
+매 패치의 변경점을 배포하는 이유는 혼자서 검수할 수 있는 양에 한계가 있고, 공개 검수를 통해 더 빠른 완성을 목표로 하기 때문입니다.
 
-패치를 플레이하면서 눈에 보이는 문장의 오류나 버그를 발견하면 [제보](#제보)하거나 [기여](#패치-제작에-참여하기)해주세요.
+게임을 플레이하면서 눈에 보이는 문장의 오류나 버그를 발견하면 [제보](#제보)하거나 [기여](#패치-제작에-참여하기) 해주세요.
+
+- AI 번역은 가끔 실수를 하기도 하고, 미묘한 뉘앙스나 맥락이 필요한 문장은 확인 후 교정이 필요합니다.
+- 의성어, 존칭 혼동 같은 번역 오류. 줄바꿈, 오타 등의 표기 오류. 사람 이름이나 지명과 같은 고유명사 표기 오류에 대한 많은 제보 바랍니다.
+- 교정과 검수 관련되어 도움을 구하는 이슈는 [🐤 help wanted](https://github.com/ToD-DC-Kor/kor-patch/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%A4+help+wanted%22) label이 달린 이슈로 관리되고 있습니다. 관심 있으시면 확인 바랍니다.
 
 ## 진행 상황
 
@@ -14,7 +18,7 @@
 
 매우 초기 미완성 버전.
 
-시나리오와 아이템은 AI를 통한 기계 번역이 완료되어, 번역 품질에 신경쓰지 않는다면 초반 플레이시 스토리를 이해하는 것은 가능하다고 생각되는 수준.
+시나리오와 아이템은 AI를 통한 기계 번역이 완료되어, 번역 품질에 신경쓰지 않는다면 초반 플레이시 스토리를 이해하는 것은 가능하다고 생각되는 수준. 실제 플레이하면서 이상하게 번역된 문장을 찾아 교정해야 함
 
 ### 스크린샷
 
@@ -101,7 +105,7 @@
 
 - [@kexplo](https://github.com/kexplo/), the maintainer of this translation project.
   - all the work including reverse engineering, translation, programming, etc.
-- 퍼스트버튼, support for editing graphic resources
+- 퍼스트버튼, support for editing graphic resources.
   - editing the font images, UI graphics.
 
 ## Credits
