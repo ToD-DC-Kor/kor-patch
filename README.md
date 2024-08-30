@@ -6,7 +6,7 @@
 
 매 패치의 변경점을 배포하는 이유는 공개 검수를 통해 더 빠른 완성을 목표로 하기 때문입니다.
 
-패치를 플레이하면서 눈에 보이는 문장의 오류나 버그를 발견하면 [제보](#제보)하거나 [기여](#기여)해주세요.
+패치를 플레이하면서 눈에 보이는 문장의 오류나 버그를 발견하면 [제보](#제보)하거나 [기여](#패치-제작에-참여하기)해주세요.
 
 ## 진행 상황
 
@@ -49,7 +49,9 @@
 - UI 메뉴
   - 추출: SLPS 99%, PAK 0%
   - 검수: 0%
-- 그래픽: 0%
+- 그래픽: ?? (불확실)
+  - 메뉴 UI 글자 그래픽: 100%
+  - 도감/지도 UI 글자 그래픽: 100%
 
 ## 배포 주기 & 다운로드
 
@@ -57,7 +59,7 @@
 
 다운로드는 [Releases 페이지](https://github.com/ToD-DC-Kor/kor-patch/releases)에서 확인. XDelta를 이용하여 원본 ISO에 패치.
 
-## 기여
+## 패치 제작에 참여하기
 
 모든 번역 파일을 공개하고 있기 때문에, GitHub Issue나 Pull Request를 통해 기여할 수 있습니다. [GitHub Pull Request 도움말](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), [GitHub Desktop 설치 도움말](https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/setting-up-github-desktop).
 
@@ -94,6 +96,13 @@
   - Font image creator
   - Memory address converter
   - Hangul(Korean alphabet) font mapper
+
+## Contributors
+
+- [@kexplo](https://github.com/kexplo/), the maintainer of this translation project.
+  - all the work including reverse engineering, translation, programming, etc.
+- 퍼스트버튼, support for editing graphic resources
+  - editing the font images, UI graphics.
 
 ## Credits
 
