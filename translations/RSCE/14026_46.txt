@@ -564,35 +564,35 @@ notice
 <x18><x65><x90><x00><x18><x00><x80></color>을 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x80><x80>들은
+<x19><x69><x80><xF4><x17><x80>들은
 [ENDBLOCK]
 <turquoise>거래 칭호
 [ENDBLOCK]
-<x19><x69><x80><x80>들은
+<x19><x69><x80><xF4><x17><x80>들은
 [ENDBLOCK]
 <turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x80><x80>들은
+<x19><x69><x80><xF4><x17><x80>들은
 [ENDBLOCK]
 <turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x80><x80>들은
+<x19><x69><x80><xF4><x17><x80>들은
 [ENDBLOCK]
 칭호：<turquoise>내추럴 레인저
 [ENDBLOCK]
-<x19><x69><x80><x80>들은
+<x19><x69><x80><xF4><x17><x80>들은
 [ENDBLOCK]
 칭호：<turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x80><x80>들은
+<x19><x69><x80><xF4><x17><x80>들은
 [ENDBLOCK]
 <turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x80><x80>들은
+<x19><x69><x80><xF4><x17><x80>들은
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x80><x80>는
+<x19><x69><x80><xF4><x17><x80>(은)는
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -604,7 +604,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>는
+<x1A><x20><x72><x0C><x98><x80>(은)는
 이미 가지고 있습니다.
 
 [ENDBLOCK]
