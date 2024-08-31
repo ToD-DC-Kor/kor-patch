@@ -676,7 +676,7 @@ notice
 <Woodrow>
 [ENDBLOCK]
 <Stahn>군에게 이걸 주겠어.
-「푸드 색크」야.
+「음식 주머니」야.
 
 [ENDBLOCK]
 <Woodrow>
