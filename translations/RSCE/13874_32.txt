@@ -106,7 +106,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-이제 그레바무를 추적하기 위해,
+이제 그레밤를 추적하기 위해,
 너희들에게 하나, 제안이 있어.
 [ENDBLOCK]
 <Atwight>
@@ -297,7 +297,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-시덴, 모리유, 도우케이로 이루어진,
+시덴, 모리유, 토케이로 이루어진,
 연합 공국의 총칭이야.
 [ENDBLOCK]
 <Philia>

@@ -281,7 +281,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-렌브란트 할아버지구나. 휴고님은？
+렘브란트 할아버지구나. 휴고님은？
 
 [ENDBLOCK]
 <Rembrandt>

@@ -296,7 +296,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-나는 대사제… 아니, 그레바무에서,
+나는 대사제… 아니, 그레밤에게서,
 신의 눈을 되찾아 보이겠다.
 [ENDBLOCK]
 <Philia>

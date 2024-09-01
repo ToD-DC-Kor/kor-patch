@@ -1115,7 +1115,7 @@ select
 [ENDBLOCK]
 모리유
 [ENDBLOCK]
-토우케이
+토케이
 [ENDBLOCK]
 사이릴
 [ENDBLOCK]

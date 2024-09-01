@@ -383,7 +383,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 배 사공
 [ENDBLOCK]
-아니… 확실히 도우케이에서
+아니… 확실히 토케이에서
 일하러 왔다고 하던데.
 [ENDBLOCK]
 <Stahn>
@@ -393,7 +393,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그럼, 도우케이로
+그럼, 토케이로
 가봅시다.
 [ENDBLOCK]
 여자
@@ -719,7 +719,7 @@ destination_rot = <x17><x71><x47><x1C><x80>
 <Rihanna>
 [ENDBLOCK]
 정말 고마워, <Johnny>.
-토우케이 영지에서도, 열심히 해.
+토케이 영지에서도, 열심히 해.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
@@ -1390,7 +1390,7 @@ select
 [ENDBLOCK]
 모리유
 [ENDBLOCK]
-토우케이
+토케이
 [ENDBLOCK]
 사이릴
 [ENDBLOCK]

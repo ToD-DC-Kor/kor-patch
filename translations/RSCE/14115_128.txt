@@ -383,7 +383,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 선장
 [ENDBLOCK]
-아니… 분명 도우케이에서
+아니… 분명 토케이에서
 일 때문에 온다고 했던 것 같아.
 [ENDBLOCK]
 <Stahn>
@@ -393,7 +393,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그럼, 도우케이로
+그럼, 토케이로
 가봅시다.
 [ENDBLOCK]
 아가씨
@@ -868,7 +868,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 할머니
 [ENDBLOCK]
 나도 렌즈를 제출했어.
-토우케이에 모이는 게 마음에 들지 않지만.
+토케이에 모이는 게 마음에 들지 않지만.
 [ENDBLOCK]
 남자
 [ENDBLOCK]

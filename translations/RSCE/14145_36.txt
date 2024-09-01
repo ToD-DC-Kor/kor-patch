@@ -161,12 +161,12 @@ WALL_2이야!!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-토우케이 영지에 가고 싶어.
+토케이 영지에 가고 싶어.
 검은십자 함대를 출동시켜 줘.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-토우케이 영지라고…？
+토케이 영지라고…？
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]

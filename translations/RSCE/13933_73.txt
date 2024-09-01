@@ -388,7 +388,7 @@ notice
 모리유 항구
 
 [ENDBLOCK]
-토우케이 항구
+토케이 항구
 
 [ENDBLOCK]
 스노우플리아 항구

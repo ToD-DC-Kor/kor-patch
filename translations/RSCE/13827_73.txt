@@ -68,7 +68,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-크레멘테 노인도 홀로 외로이
+클레멘테 노인도 홀로 외로이
 지내고 있을 것 같습니다.
 [ENDBLOCK]
 <Chaltier>
@@ -96,7 +96,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-크레멘테 노인.
+클레멘테 노인.
 모시러 왔습니다.
 [ENDBLOCK]
 <Clemente>

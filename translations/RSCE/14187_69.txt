@@ -190,7 +190,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 배 선장
 [ENDBLOCK]
-모리유니, 도우케이니,
+모리유니, 토케이니,
 이런 상황이 되다니…
 [ENDBLOCK]
 배 선장
@@ -204,7 +204,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 손녀
 [ENDBLOCK]
-도우케이 만세, 만세!
+토케이 만세, 만세!
 [ENDBLOCK]
 손녀
 [ENDBLOCK]

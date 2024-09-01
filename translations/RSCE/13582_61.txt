@@ -220,7 +220,7 @@
 [ENDBLOCK]
 ？？？？？
 [ENDBLOCK]
-눈치챈 것 같군.
+정신이 든 모양이군.
 
 [ENDBLOCK]
 <Stahn>
@@ -264,20 +264,20 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-판다리아의 산속이다.
-모르지 않았냐?
+팬더리아의 깊은 산속이다.
+몰랐던 건가??
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 비행룡에 타고 있었고,
-거기서 탈출한 거야.
+나는 비행룡에 타고 있다가,
+거기서 탈출했거든요.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-아하, 비행룡이구나.
-그래서, 그 검이냐.
+그렇군, 비행룡이라.
+그래서 그 검이로군.
 
 [ENDBLOCK]
 <Stahn>
@@ -328,7 +328,7 @@
 ？？？
 [ENDBLOCK]
 <Chelsea>！	야!
-…없네. 또 뒤산에 간 거겠지.
+…없네. 또 뒷산에 간 거겠지.
 
 [ENDBLOCK]
 ？？？
@@ -361,7 +361,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-선생님, 제가 뒤산까지 가서,
+선생님, 제가 뒷산까지 가서,
 그녀를 찾아올게요.
 
 [ENDBLOCK]

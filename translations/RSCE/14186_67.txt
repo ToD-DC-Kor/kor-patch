@@ -513,7 +513,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-토우케이 영토에 오신 것을 환영합니다!
+토케이 영토에 오신 것을 환영합니다!
 여기는 아쿠아베일의 중심…
 [ENDBLOCK]
 여자아이
@@ -530,7 +530,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-토우케이 영토에 오신 것을 환영합니다!
+토케이 영토에 오신 것을 환영합니다!
 렌즈들이 모여있어.
 [ENDBLOCK]
 여자아이
@@ -1133,7 +1133,7 @@ select
 [ENDBLOCK]
 모리유
 [ENDBLOCK]
-토우케이
+토케이
 [ENDBLOCK]
 사이릴
 [ENDBLOCK]

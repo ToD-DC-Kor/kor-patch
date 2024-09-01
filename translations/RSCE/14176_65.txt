@@ -517,7 +517,7 @@ notice
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-토우케이 영토에 오신 것을 환영합니다!
+토케이 영토에 오신 것을 환영합니다!
 여기는 아쿠아베일의 중심…
 [ENDBLOCK]
 여자아이
@@ -534,7 +534,7 @@ notice
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-토우케이 영토에 오신 것을 환영합니다!
+토케이 영토에 오신 것을 환영합니다!
 렌즈가 모여 있어.
 [ENDBLOCK]
 여자아이
@@ -1135,7 +1135,7 @@ select
 [ENDBLOCK]
 모리유
 [ENDBLOCK]
-토우케이
+토케이
 [ENDBLOCK]
 사이릴
 [ENDBLOCK]

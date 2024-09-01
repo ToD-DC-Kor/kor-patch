@@ -329,12 +329,12 @@
 [ENDBLOCK]
 전·신관
 [ENDBLOCK]
-그레바무 대사제가 반란을 일으켰다고?
+그레밤 대사제가 반란을 일으켰다고?
 농담이겠죠, 하하하.
 [ENDBLOCK]
 전·신관
 [ENDBLOCK]
-그레바무 대사제가 죽었다고 하네요.
+그레밤 대사제가 죽었다고 하네요.
 저는 처음부터 그를 의심했어요.
 [ENDBLOCK]
 전·신관
@@ -930,7 +930,7 @@ notice
 [ENDBLOCK]
 모류
 [ENDBLOCK]
-토우케이
+토케이
 [ENDBLOCK]
 사이릴
 [ENDBLOCK]

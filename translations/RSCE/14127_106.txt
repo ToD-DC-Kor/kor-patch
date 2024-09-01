@@ -405,7 +405,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-나는 도케이 사람인데,
+나는 토케이 사람인데,
 이번 일과는 무관하다고?
 [ENDBLOCK]
 채소를 판매하는 사람
@@ -421,7 +421,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 채소를 판매하는 사람
 [ENDBLOCK]
 그게 좋은 건지 나쁜 건지…
-도케이 영토의 사람으로서는 복잡해.
+토케이 영토의 사람으로서는 복잡해.
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
@@ -438,7 +438,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-나는 도케이 사람인데,
+나는 토케이 사람인데,
 이번 일과는 무관하다고?
 [ENDBLOCK]
 채소를 판매하는 사람
@@ -454,7 +454,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 채소를 판매하는 사람
 [ENDBLOCK]
 그게 좋은 건지 나쁜 건지…
-도케이 영토의 사람으로서는 복잡해.
+토케이 영토의 사람으로서는 복잡해.
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
@@ -471,7 +471,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 과일을 판매하는 사람
 [ENDBLOCK]
-도케이 사람들…
+토케이 사람들…
 이 원한은 평생 잊지 않겠어.
 [ENDBLOCK]
 과일을 판매하는 사람
@@ -481,7 +481,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 과일을 판매하는 사람
 [ENDBLOCK]
-지금은 그 대상이 도케이로 바뀌었어.
+지금은 그 대상이 토케이로 바뀌었어.
 무리도 아니겠지?
 [ENDBLOCK]
 과일을 판매하는 사람
@@ -506,7 +506,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 과일을 판매하는 사람
 [ENDBLOCK]
-토우케이 녀석들…
+토케이 녀석들…
 이 원한은 평생 잊지 않겠다.
 [ENDBLOCK]
 과일을 판매하는 사람
@@ -516,7 +516,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 과일을 판매하는 사람
 [ENDBLOCK]
-지금은 그 대상이 토우케이로 바뀌었다.
+지금은 그 대상이 토케이로 바뀌었다.
 무리도 없겠지?
 [ENDBLOCK]
 과일을 판매하는 사람
@@ -612,7 +612,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 소녀
 [ENDBLOCK]
 같은 아쿠아베일인데,
-왜 토우케이 영토와 싸우는 거야?
+왜 토케이 영토와 싸우는 거야?
 [ENDBLOCK]
 소녀
 [ENDBLOCK]

@@ -364,7 +364,7 @@
 <Reynolds>
 [ENDBLOCK]
 노이슈타트와, 하이델베르크와,
-칼비올라와, 도케이 영토네요.
+칼비올라와, 토케이 영토네요.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]

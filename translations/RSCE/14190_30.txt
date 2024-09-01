@@ -496,7 +496,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-도케이 영토는 결국 시덴 영토나
+토케이 영토는 결국 시덴 영토나
 모류 영토에 편입될 것입니다.
 [ENDBLOCK]
 소녀
@@ -512,25 +512,25 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 저… 부디 무사하시길.
 [ENDBLOCK]
-도케이 병사
+토케이 병사
 [ENDBLOCK]
 …
 [ENDBLOCK]
-도케이 병사
+토케이 병사
 [ENDBLOCK]
 대왕이 죽고, 속이 시원하군.
 그런 놈은 없어지는 게 당연하지.
 [ENDBLOCK]
-도케이 병사
+토케이 병사
 [ENDBLOCK]
 아까운 좋은 시대가 왔는데,
 생각했던 거였는데.
 [ENDBLOCK]
-도케이 병사
+토케이 병사
 [ENDBLOCK]
 하늘이 완전히 막히고, 다음은…?
 [ENDBLOCK]
-도케이 병사
+토케이 병사
 [ENDBLOCK]
 꼭 이겨줘.
 [ENDBLOCK]
@@ -578,31 +578,31 @@ select
 [ENDBLOCK]
 선원
 [ENDBLOCK]
-도케이 병사
+토케이 병사
 [ENDBLOCK]
 …
 [ENDBLOCK]
-도케이 병사
+토케이 병사
 [ENDBLOCK]
 지금까지는 대왕의 권위를 지키기 위해,
 일해왔습니다.
 [ENDBLOCK]
-도케이 병사
+토케이 병사
 [ENDBLOCK]
-이제부터는 도케이의 민을 지키기 위해,
+이제부터는 토케이의 민을 지키기 위해,
 일할 생각입니다.
 [ENDBLOCK]
-도케이 병사
+토케이 병사
 [ENDBLOCK]
 <Eleanor>님은, 전 대왕 폐하의
 부인에 대한 이야기입니다.
 [ENDBLOCK]
-도케이 병사
+토케이 병사
 [ENDBLOCK]
 그렇지만, <Eleanor>님의 마음이,
 대왕 폐하를 향한 적은 없었다고 합니다.
 [ENDBLOCK]
-도케이 병사
+토케이 병사
 [ENDBLOCK]
 <Eleanor>님이 생존하셨다면,
 이번 일을 어떻게 생각하셨을까요.
@@ -866,7 +866,7 @@ notice
 모리우 항구
 
 [ENDBLOCK]
-토우케이 항구
+토케이 항구
 
 [ENDBLOCK]
 스노우플리아 항구
