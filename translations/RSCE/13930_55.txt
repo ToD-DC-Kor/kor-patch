@@ -279,8 +279,8 @@
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-칼바레이스에寄港한 배를,
-철저히 조사하게 하고 있다만.
+칼바레이스에 기항한 배들을,
+철저히 조사하게 하고는 있지만.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]

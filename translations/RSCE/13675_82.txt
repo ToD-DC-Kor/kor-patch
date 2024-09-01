@@ -52,7 +52,8 @@
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-어떻게 지내고 있냐? 내가 있는 곳은 언제든 환영한다.
+어떻게 지내고 있냐?
+내가 있는 곳은 언제든 환영한다.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
@@ -115,19 +116,20 @@
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-그렇구나! 너가 그 구두쇠,
+그렇구나! 네가 그 구두쇠,
 탐욕의 마녀로 유명한 <Rutee>구나!
 
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-그렇다면, 보물을 손에 넣은 것도納得이군.
+그렇구나. 그랬다면,
+보물을 손에 넣은 것도 납득이 가네.
 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-…사람의 눈앞에서堂々と,
-악담을 늘어놓지 말아줬으면 좋겠는데.
+…사람들 앞에서 버젓이,
+험담을 늘어놓지 말아줬으면 좋겠는데.
 
 [ENDBLOCK]
 <Dymlos>
@@ -299,7 +301,7 @@
 <Stahn>
 [ENDBLOCK]
 이렇게 말해주고 있잖아.
-素直な厚意를 받아들이지 않을래?
+솔직히 호의를 받아들이는 게 어때?
 
 [ENDBLOCK]
 <Mary>

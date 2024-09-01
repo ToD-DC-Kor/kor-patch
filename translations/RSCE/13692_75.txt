@@ -531,7 +531,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-저 히ュー고라는 사람은,
+저 휴고라는 사람은,
 <Lion>의 아버지입니다.
 
 [ENDBLOCK]
@@ -555,7 +555,7 @@
 <King>
 [ENDBLOCK]
 좋다. 비상사태이므로,
-이번에는 히ュー고의 안을 채택하겠다.
+이번에는 휴고의 안을 채택하겠다.
 
 [ENDBLOCK]
 <King>
