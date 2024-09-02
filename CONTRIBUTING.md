@@ -10,6 +10,27 @@
 
 Issues에서 [🐤 help wanted](https://github.com/ToD-DC-Kor/kor-patch/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%A4+help+wanted%22) Label이 달린 항목을 클릭하여 도움이 필요한 이슈를 확인하고 기여해보세요.
 
+## 텍스트 오류 제보
+
+플레이 중 번역 오류, 글자 깨짐, 줄바꿈 이상, 글자 넘침 등을 발견하면 [이슈](https://github.com/ToD-DC-Kor/kor-patch/issues/new/choose)로 제보해주세요.
+
+제보 방법은 다음과 같습니다.
+
+1. [VS Code](https://code.visualstudio.com/download)를 다운받아 설치합니다.
+
+2. <https://github.com/ToD-DC-Kor/kor-patch>에서 저장소의 최신 버전을 다운로드 받습니다.
+
+   ![download repo](./guide/download_repo.png)
+
+3. 다운받은 저장소의 압축을 풀고, VS Code로 해당 폴더를 엽니다.
+
+4. 검색 메뉴를 통해, 번역 오류의 위치를 찾습니다. 근처에 같이 출력되는 정상 문자열을 검색합니다.
+
+   ![search text](./guide/search_text.png)
+   (예시: `13721_77.txt` 파일의 `805` 줄 번역 오류)
+
+5. [이슈](https://github.com/ToD-DC-Kor/kor-patch/issues/new/choose)로 문제가 발생한 스크린샷 또는 번역 오류의 위치(파일명, 줄 번호)를 제보합니다.
+
 ## 번역 교정
 
 ### RSCE 번역 수정에 대해 Pull Request(PR) 작성하기
