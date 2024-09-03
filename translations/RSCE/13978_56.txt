@@ -3,7 +3,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그레밤입니다わ！
+그레밤입니다！
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
@@ -12,7 +12,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그레밤！もうやめなさい！
+그레밤！이제 그만하세요！
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
@@ -44,7 +44,7 @@
 <Stahn>
 [ENDBLOCK]
 세상을 몬스터로 가득 채우게는
-하지 않겠다！神の眼を返せ！
+하지 않겠다！신의 눈을 돌려줘!
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
@@ -96,7 +96,7 @@
 <Chaltier>
 [ENDBLOCK]
 서둘러 쫓아가면,
-아직間に合うかもしれませんよ？
+아직 늦지 않을지도 모르죠?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
