@@ -1,0 +1,75 @@
+{
+    "00052.bin": [
+        {
+            "offset": 73328,
+            "string": "[Select_ani]ロード切替[Circle_ani]決定[Cross_ani]戻る[Square_ani]あらすじ[END]",
+            "original_bytes_length": 50,
+            "available_bytes_size": 55,
+            "translation": "[Select_ani]로드 전환[Circle_ani]결정[Cross_ani]돌아가기[Square_ani]줄거리[END]"
+        },
+        {
+            "offset": 73384,
+            "string": "[Select_ani]ロード切替[Circle_ani]決定[Cross_ani]戻る[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "[Select_ani]로드 전환[Circle_ani]결정[Cross_ani]돌아가기[END]"
+        },
+        {
+            "offset": 73424,
+            "string": "[Select_ani]セーブ切替[Circle_ani]決定[Cross_ani]戻る[Triangle_ani][END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "[Select_ani]세이브 전환[Circle_ani]결정[Cross_ani]돌아가기[Triangle_ani][END]"
+        },
+
+        {
+            "offset": 73480,
+            "string": "周目から始める[Square_ani]あらすじ[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "회차부터 시작하기[Square_ani]줄거리[END]"
+        },
+        {
+            "offset": 73512,
+            "string": "[Select_ani]セーブ切替[Circle_ani]決定[Cross_ani]戻る[Square_ani]あらすじ[END]",
+            "original_bytes_length": 50,
+            "available_bytes_size": 55,
+            "translation": "[Select_ani]세이브 전환[Circle_ani]결정[Cross_ani]돌아가기[Square_ani]줄거리[END]"
+        },
+        {
+            "offset": 73568,
+            "string": "[Select_ani]セーブ切替[Circle_ani]決定[Cross_ani]戻る[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "[Select_ani]세이브 전환[Circle_ani]결정[Cross_ani]돌아가기[END]"
+        },
+        {
+            "offset": 73608,
+            "string": "[Circle_ani]決定[Cross_ani]戻る[Square_ani]あらすじ[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "[Circle_ani]결정[Cross_ani]돌아가기[Square_ani]줄거리[END]"
+        },
+        {
+            "offset": 73648,
+            "string": "[Circle_ani]決定[Cross_ani]戻る[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Circle_ani]결정[Cross_ani]돌아가기[END]"
+        },
+        {
+            "offset": 73672,
+            "string": "[Circle_ani]決定[Cross_ani]戻る[Triangle_ani][END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]결정[Cross_ani]돌아가기[Triangle_ani][END]"
+        },
+        {
+            "offset": 73904,
+            "string": "あらすじ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "줄거리[END]"
+        }
+    ]
+}

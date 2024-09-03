@@ -1,0 +1,2244 @@
+{
+    "00052.bin": [
+        {
+            "offset": 33136,
+            "string": "[Miktran]との戦いから一年[LINE]\nの後。[LINE]\n[Stahn]はリーネの村で[LINE]\n仲間たちと再会する。[LINE]\nそして皆の祝福を受けながら[LINE]\n[Rutee]とふたり、[LINE]\n新たな旅路に就く。[END]",
+            "original_bytes_length": 132,
+            "available_bytes_size": 135,
+            "translation": "[Miktran]와의 전투로부터 1년 후.[LINE]\n[Stahn]은 리네 마을에서[LINE]\n동료들과 재회한다.[LINE]\n그리고 모두의 축복을 받으며[LINE]\n[Rutee]와 함께, 둘만의[LINE]\n새로운 여행길을 떠난다.[END]"
+        },
+        {
+            "offset": 33272,
+            "string": "エピローグ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "에필로그[END]"
+        },
+        {
+            "offset": 33288,
+            "string": "死力を尽くした戦いの果てに[LINE]\nとうとう[Miktran]を倒した[LINE]\n[Stahn]たち。[LINE]\nだがそれは、ソーディアン[LINE]\nたちとの永遠の別れをも、[LINE]\n意味していた……[END]",
+            "original_bytes_length": 128,
+            "available_bytes_size": 128,
+            "translation": "죽기를 다해 싸운 끝에[LINE]\n드디어 [Miktran]을 물리친[LINE]\n[Stahn] 일행.[LINE]\n그러나 그것은, 소디안[LINE]\n들과의 영원한 이별을 뜻하고[LINE]\n있었다……[END]"
+        },
+        {
+            "offset": 33416,
+            "string": "ダイクロフトの最終地点で、[LINE]\n[Stahn]たちはついに、[LINE]\n[Miktran]と対峙する。[LINE]\n[Miktran]は神の眼の前で[LINE]\n決着を着けようといい、[LINE]\n[Stahn]たちもそれを[LINE]\n受け入れる。[END]",
+            "original_bytes_length": 139,
+            "available_bytes_size": 143,
+            "translation": "다이크로프트의 최종 지점에서,[LINE]\n[Stahn] 일행은 드디어,[LINE]\n[Miktran]과 대면한다.[LINE]\n[Miktran]은 신의 눈 앞에서[LINE]\n결판을 내리자고 하며,[LINE]\n[Stahn] 일행도 그것을[LINE]\n수용한다.[END]"
+        },
+        {
+            "offset": 33560,
+            "string": "外殻大地の上は、緑に[LINE]\n覆われた別世界となって[LINE]\nいた。地上の生命を犠牲に[LINE]\nした[Miktran]の理想郷[LINE]\nなど、認めるわけには[LINE]\nいかない。[LINE]\n全てを終わりにしなければ！[END]",
+            "original_bytes_length": 146,
+            "available_bytes_size": 151,
+            "translation": "외곽 대지 위는, 초록으로[LINE]\n덮인 다른 세계가 되어[LINE]\n있었다. 지상의 생명을 희생에[LINE]\n모은 [Miktran]의 이상향[LINE]\n따위, 인정할 수는 없다.[LINE]\n모든 것을 끝내지 않으면![END]"
+        },
+        {
+            "offset": 33712,
+            "string": "未来へ向かって[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "미래로 향해[END]"
+        },
+        {
+            "offset": 33728,
+            "string": "飛行竜に乗り込み、[LINE]\n外殻大地の上へ向かう[LINE]\n[Stahn]たち。[LINE]\nさまざまな人々の思いを[LINE]\n背負い、今こそ最終決戦の[LINE]\n地、ダイクロフトを目指す。[END]",
+            "original_bytes_length": 127,
+            "available_bytes_size": 127,
+            "translation": "비행룡에 탑승하고,[LINE]\n외곽 대지 위로 향하는[LINE]\n[Stahn] 일행.[LINE]\n다양한 사람들의 마음을[LINE]\n짊어지고, 이제 최종 결전의[LINE]\n장, 다이크로프트를 향한다.[END]"
+        },
+        {
+            "offset": 33856,
+            "string": "ついに最終作戦が始まる。[LINE]\n[Ritora]の尊い犠牲により、[LINE]\n外殻大地が集積レンズ砲で[LINE]\n撃ち抜かれ、一筋の光が[LINE]\n地上にもたらされる。[LINE]\n後は飛行竜でダイクロフトへ[LINE]\n乗り込むだけだ。[END]",
+            "original_bytes_length": 162,
+            "available_bytes_size": 167,
+            "translation": "드디어 최종 작전이 시작된다.[LINE]\n[Ritora]의 소중한 희생 덕분에,[LINE]\n외곽 대지가 집적 렌즈포로[LINE]\n쏘아져, 한 줄의 빛이[LINE]\n지상에 가져오기 시작한다.[LINE]\n이제는 비행룡으로 다이크로프트로[LINE]\n탑승하기만 하면 된다.[END]"
+        },
+        {
+            "offset": 34024,
+            "string": "もう思い残す事はない。[LINE]\nいよいよ決戦の時だ。[LINE]\n城の中庭で、集積レンズ砲の[LINE]\n発射準備が進められている[LINE]\nはずだ。[LINE]\nすぐに向かわなければ。[END]",
+            "original_bytes_length": 128,
+            "available_bytes_size": 128,
+            "translation": "더 이상 남길 것은 없다.[LINE]\n이제 결전의 때다.[LINE]\n성의 중정에서, 집적 렌즈포의[LINE]\n발사 준비가 진행되고 있을[LINE]\n것이다.[LINE]\n곧이라도 가지 않으면.[END]"
+        },
+        {
+            "offset": 34152,
+            "string": "[Philia]の後押しもあり[LINE]\n自らの気持ちを自覚した[LINE]\n[Stahn]は[Rutee][LINE]\nに思いを告げる。[LINE]\n「この戦いが終わったら、[LINE]\nふたりで旅をしたい」[LINE]\n[Rutee]は帰ってきたら[LINE]\n返事をすると答える。[END]",
+            "original_bytes_length": 160,
+            "available_bytes_size": 160,
+            "translation": "[Philia]의 응원도 있어[LINE]\n자신의 마음을 자각한[LINE]\n[Stahn]은 [Rutee][LINE]\n에 마음을 전한다.[LINE]\n「이 전투가 끝나면,[LINE]\n둘이서 여행을 하고 싶어」[LINE]\n[Rutee]는 돌아오면[LINE]\n답변할 것이라고 대답한다.[END]"
+        },
+        {
+            "offset": 34312,
+            "string": "明朝まで各自自由時間と[LINE]\nなった[Stahn]たち。[LINE]\n[Stahn]は[Johnny][LINE]\nから、やるべき時にやるべき[LINE]\n事をやらないと、二度と機会[LINE]\nは訪れないかもしれないと[LINE]\n助言される。果たして、[LINE]\n[Johnny]の真意とは？[END]",
+            "original_bytes_length": 174,
+            "available_bytes_size": 175,
+            "translation": "내일까지 각자 자유 시간이[LINE]\n된 [Stahn] 일행.[LINE]\n[Stahn]은 [Johnny][LINE]\n으로부터, 해야 할 때에 해야 할[LINE]\n일을 하지 않으면, 두 번 다시 기회[LINE]\n는 오지 않을지도 모른다고[LINE]\n조언받는다. 과연,[LINE]\n[Johnny]의 진실은?[END]"
+        },
+        {
+            "offset": 34488,
+            "string": "集積レンズ砲は完成し、[LINE]\n十分な量のレンズも[LINE]\n集まった。[LINE]\n明朝の作戦決行を前に、[LINE]\n[Stahn]たちは[LINE]\nセインガルド[King]から、[LINE]\n一晩ゆっくり休むよう[LINE]\nいわれる。[END]",
+            "original_bytes_length": 144,
+            "available_bytes_size": 144,
+            "translation": "집적 렌즈포는 완성되고,[LINE]\n충분한 양의 렌즈도[LINE]\n모였다.[LINE]\n내일 아침의 작전 진행을[LINE]\n앞두고, [Stahn] 일행은[LINE]\n세인가르드[King]으로부터,[LINE]\n한 밤 천천히 쉬라고[LINE]\n권유받는다.[END]"
+        },
+        {
+            "offset": 34632,
+            "string": "戦士達の夜[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "전사들의 밤[END]"
+        },
+        {
+            "offset": 34648,
+            "string": "カルビオラの街でレンズを[LINE]\n回収した[Stahn]たち。[LINE]\n街の人々の声援はなかった[LINE]\nが、レンズを提供してくれた[LINE]\nだけでも、十分協力的と[LINE]\nいえるだろう。[END]",
+            "original_bytes_length": 135,
+            "available_bytes_size": 135,
+            "translation": "칼비올라의 마을에서 렌즈를[LINE]\n회수한 [Stahn] 일행.[LINE]\n마을 사람들의 응원은 없었지만,[LINE]\n렌즈를 제공해준 것만으로도,[LINE]\n충분히 협력적이라고[LINE]\n말할 수 있을 것이다.[END]"
+        },
+        {
+            "offset": 34784,
+            "string": "トウケイ領でレンズを回収[LINE]\nした[Stahn]たち。[LINE]\n[Johnny]は[Rihanna]から[LINE]\n懐妊の事実を知らされ、[LINE]\n生まれる子の名付け親に[LINE]\nなって欲しいと頼まれる。[LINE]\n[END]",
+            "original_bytes_length": 130,
+            "available_bytes_size": 135,
+            "translation": "토케이령에서 렌즈를 회수[LINE]\n한 [Stahn] 일행.[LINE]\n[Johnny]는 [Rihanna]으로부터[LINE]\n임신의 사실을 알게 되고,[LINE]\n태어날 아이의 이름을[LINE]\n지어주길 부탁받는다.[LINE]\n[END]"
+        },
+        {
+            "offset": 34920,
+            "string": "ハイデルベルグの街で、[LINE]\nレンズを回収した[LINE]\n[Stahn]たち。[LINE]\n[Woodrow]は留守役の[LINE]\n[Darzen]に、苦難の時はあと[LINE]\n少しで終わる、それまで耐え[LINE]\n忍んで欲しいと告げる。[END]",
+            "original_bytes_length": 142,
+            "available_bytes_size": 143,
+            "translation": "하이델베르크의 마을에서,[LINE]\n렌즈를 회수한[LINE]\n[Stahn] 일행.[LINE]\n[Woodrow]는 대리인인[LINE]\n[Darzen]에게, 고난의 시간은[LINE]\n곧 끝나니까, 그때까지 참고[LINE]\n기를 바란다고 전한다.[END]"
+        },
+        {
+            "offset": 35064,
+            "string": "ノイシュタットの街で、[LINE]\nレンズを回収した[LINE]\n[Stahn]たち。[LINE]\n街の人々の熱烈なマイティ・[LINE]\nコールに、[Kongman]や[LINE]\n[Stahn]たちの気合が[LINE]\nいやがうえにも高まる。[END]",
+            "original_bytes_length": 138,
+            "available_bytes_size": 143,
+            "translation": "노이슈타트의 마을에서,[LINE]\n렌즈를 회수한[LINE]\n[Stahn] 일행.[LINE]\n마을 사람들의 열렬한 마이티[LINE]\n콜에, [Kongman]이나[LINE]\n[Stahn] 일행의 기세가[LINE]\n막상 높아진다.[END]"
+        },
+        {
+            "offset": 35208,
+            "string": "城の中庭では集積レンズ砲の[LINE]\n建造が進められていた。[LINE]\nだが、エネルギー源となる[LINE]\nレンズの量が、まだ足りない[LINE]\nらしい。[Stahn]たちは[LINE]\n[Reynolds]の依頼で、[LINE]\n世界中のレンズを集めに[LINE]\n行く事に。[END]",
+            "original_bytes_length": 172,
+            "available_bytes_size": 175,
+            "translation": "성의 중정에서 집적 렌즈포의[LINE]\n건설이 진행되고 있었다.[LINE]\n그러나, 에너지원이 되는[LINE]\n렌즈의 양이, 아직 부족한[LINE]\n것 같다. [Stahn] 일행은[LINE]\n[Reynolds]의 요청으로,[LINE]\n전 세계의 렌즈를 모으러[LINE]\n가기로 한다.[END]"
+        },
+        {
+            "offset": 35384,
+            "string": "レンズが足りない！[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "렌즈가 부족해![END]"
+        },
+        {
+            "offset": 35408,
+            "string": "無事にベルセリウムを届けた[LINE]\n[Stahn]たちに、[LINE]\n[Reynolds]から伝言が。[LINE]\n話があるので、セインガルド[LINE]\n城まで来て欲しいとの事[LINE]\nだが……[END]",
+            "original_bytes_length": 118,
+            "available_bytes_size": 119,
+            "translation": "무사히 벨세리움을 전달한[LINE]\n[Stahn] 일행에게,[LINE]\n[Reynolds]로부터 전언이 있다.[LINE]\n이야기가 있으니, 세인가르드[LINE]\n성까지 와주길 바란다는 것[LINE]\n이지만……[END]"
+        },
+        {
+            "offset": 35528,
+            "string": "街の人々の協力により、[LINE]\n大量のベルセリウムを手に[LINE]\n入れた[Stahn]たち。[LINE]\n人々に厚く礼を述べた後、[LINE]\n一行は飛行竜のあるダリル[LINE]\nシェイドへ戻る事にする。[END]",
+            "original_bytes_length": 141,
+            "available_bytes_size": 143,
+            "translation": "마을 사람들의 협력으로,[LINE]\n대량의 벨세리움을 손에[LINE]\n넣은 [Stahn] 일행.[LINE]\n사람들에게 감사를 표한 후,[LINE]\n일행은 비행룡이 있는 다릴[LINE]\n쉐이드로 돌아가기로 한다.[END]"
+        },
+        {
+            "offset": 35672,
+            "string": "トラッシュマウンテンの中で[LINE]\nベルセリウムを発見した[LINE]\n[Stahn]たち。[LINE]\nだが期待したほどの量は[LINE]\n得られなかった。[LINE]\nこれからどうするべきか？[LINE]\n善後策を協議するべく、[LINE]\n一行は外へ出る事にする。[END]",
+            "original_bytes_length": 175,
+            "available_bytes_size": 175,
+            "translation": "트래시 마운틴 속에서[LINE]\n벨세리움을 발견한[LINE]\n[Stahn] 일행.[LINE]\n그러나 기대했던 만큼의 양은[LINE]\n얻지 못했다.[LINE]\n이제 어떻게 해야 할까?[LINE]\n대책을 협의하기 위해,[LINE]\n일행은 밖으로 나가기로 한다.[END]"
+        },
+        {
+            "offset": 35848,
+            "string": "[Stahn]たちは[LINE]\nトラッシュマウンテンの中に[LINE]\n入る。そこは有毒ガスが充満[LINE]\nした、危険な場所だった。[LINE]\n果たしてベルセリウムは[LINE]\n見つかるのだろうか？[END]",
+            "original_bytes_length": 135,
+            "available_bytes_size": 135,
+            "translation": "[Stahn] 일행은[LINE]\n트래시 마운틴 속으로[LINE]\n들어간다. 그곳은 유독 가스가[LINE]\n가득한, 위험한 곳이었다.[LINE]\n과연 벨세리움은[LINE]\n찾을 수 있을까?[END]"
+        },
+        {
+            "offset": 35984,
+            "string": "ベルセリウムを探して、[LINE]\n[Stahn]たちは懸命に[LINE]\nゴミ漁りを続ける。[LINE]\nそこへひとりの青年が[LINE]\n近づいてきて、トラッシュ[LINE]\nマウンテンの入り口を開いて[LINE]\nくれる。[END]",
+            "original_bytes_length": 142,
+            "available_bytes_size": 143,
+            "translation": "벨세리움을 찾아,[LINE]\n[Stahn] 일행은 열심히[LINE]\n쓰레기를 뒤지기를 계속한다.[LINE]\n그곳에 한 사내가[LINE]\n다가와, 트래시[LINE]\n마운틴의 입구를 열어준다.[END]"
+        },
+        {
+            "offset": 36128,
+            "string": "飛行竜を修復するため、[LINE]\nベルセリウムを求めて[LINE]\nジャンクランドを訪れた[LINE]\n[Stahn]たち。[LINE]\n街の人に協力を求めるも、[LINE]\n反応は芳しくない。[LINE]\nやむなく一行は、自分たち[LINE]\nだけで捜索を開始するが……[END]",
+            "original_bytes_length": 175,
+            "available_bytes_size": 175,
+            "translation": "비행룡을 수리하기 위해,[LINE]\n벨세리움을 찾으려[LINE]\n정크랜드를 방문한[LINE]\n[Stahn] 일행.[LINE]\n마을 사람에게 협력을 요청해도,[LINE]\n반응은 좋지 않다.[LINE]\n억지로 일행은, 스스로[LINE]\n탐색을 시작하지만……[END]"
+        },
+        {
+            "offset": 36304,
+            "string": "ベルセリウムを探して[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "벨세리움을 찾아서[END]"
+        },
+        {
+            "offset": 36328,
+            "string": "最終試練の内容、それは[LINE]\n元のマスターと戦い、勝利[LINE]\nする事だった。[LINE]\n[Stahn]たちとソーディ[LINE]\nアンたちは力を合わせ、[LINE]\n全員で試練を突破する。[LINE]\n[END]",
+            "original_bytes_length": 130,
+            "available_bytes_size": 135,
+            "translation": "최종 시험의 내용, 그것은[LINE]\n원래의 마스터와 싸워, 승리[LINE]\n하는 것이었다.[LINE]\n[Stahn] 일행과 소디[LINE]\n언들은 힘을 합쳐,[LINE]\n모두가 시험을 통과한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 36464,
+            "string": "研究所の奥にあった装置を[LINE]\n用いて、[Stahn]たちは[LINE]\nソーディアンを強化する事に[LINE]\n成功する。[LINE]\n次はいよいよ自分たちの番、[LINE]\n最終試練だ。[END]",
+            "original_bytes_length": 123,
+            "available_bytes_size": 127,
+            "translation": "[LINE]\n[Stahn] 일행은[LINE]\n소디언을 강화하는 데[LINE]\n성공한다.[LINE]\n다음은 드디어 자신들의 차례, [LINE]\n최종 시험이다.[END]"
+        },
+        {
+            "offset": 36592,
+            "string": "ソーディアン研究所の中へ[LINE]\n足を踏み入れた[LINE]\n[Stahn]たち。[LINE]\nこの奥で何が待ち受けている[LINE]\nのか？[LINE]\n最終試練の内容とは？[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "[Stahn] 일행이[LINE]\n소디언 연구소 안으로[LINE]\n발을 디뎠다.[LINE]\n이 깊은 곳에서 무엇이[LINE]\n기다리고 있는 것일까?[LINE]\n최종 시험의 내용은?[END]"
+        },
+        {
+            "offset": 36704,
+            "string": "最終試練[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "최종 시험[END]"
+        },
+        {
+            "offset": 36720,
+            "string": "[Stahn]たちは[LINE]\nセインガルド城を訪れた[LINE]\n[Dalis]から、ドラゴンを[LINE]\n託される。[LINE]\n一行はさっそくドラゴンに[LINE]\n乗り、最終試練の場たる[LINE]\nソーディアン研究所を目指す[LINE]\n事にする。[END]",
+            "original_bytes_length": 154,
+            "available_bytes_size": 159,
+            "translation": "[Stahn] 일행은[LINE]\n세인가르드 성을 방문한[LINE]\n[Dalis]로부터, 드래곤을[LINE]\n맡게 된다.[LINE]\n일행은 곧바로 드래곤에[LINE]\n타고, 최종 시험의 장인[LINE]\n소디언 연구소를 향한다.[END]"
+        },
+        {
+            "offset": 36880,
+            "string": "まだ希望はある。[Reynolds][LINE]\nから最終作戦の全貌を[LINE]\n聞かされ、沸き立つ[LINE]\n[Stahn]たち。[LINE]\nそんな中、ソーディアンたち[LINE]\nが「真のマスターとなるため[LINE]\nの最終試練」を受ける覚悟が[LINE]\nあるかと一行に問う。[END]",
+            "original_bytes_length": 176,
+            "available_bytes_size": 176,
+            "translation": "아직 희망은 있다.[Reynolds][LINE]\n로부터 최종 작전의 전모를[LINE]\n들은, 들뜨는[LINE]\n[Stahn] 일행.[LINE]\n그런 중, 소디언들이[LINE]\n「진정한 마스터가 되기 위한[LINE]\n최종 시험」을 받을 준비가[LINE]\n있는지 일행에게 묻는다.[END]"
+        },
+        {
+            "offset": 37056,
+            "string": "天空都市攻略計画[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "천공도시 공략 계획[END]"
+        },
+        {
+            "offset": 37080,
+            "string": "このままでは[Miktran]に[LINE]\n勝てない。そう[Dymlos]に[LINE]\nいわれた[Stahn]だったが、[LINE]\n決してあきらめようと[LINE]\nしない。そんな中、[LINE]\n意識不明だった[Reynolds]が[LINE]\n目覚めたとの知らせが入る。[END]",
+            "original_bytes_length": 155,
+            "available_bytes_size": 159,
+            "translation": "이대로는 [Miktran]에게[LINE]\n이길 수 없다. 그렇게 [Dymlos]에게[LINE]\n말한 [Stahn]이었지만,[LINE]\n결코 포기하지 않으려고[LINE]\n한다. 그런 중, 의식불명이었던 [Reynolds]가[LINE]\n깨어났다는 소식이 들어온다.[END]"
+        },
+        {
+            "offset": 37240,
+            "string": "モンスターの攻撃をしのぎ、[LINE]\nダリルシェイドの街は[LINE]\nひとまず窮地を脱する。[LINE]\n休める時に休んでおこうと、[LINE]\n[Stahn]たちはひとまず[LINE]\n宿屋へ向かう事に。[END]",
+            "original_bytes_length": 137,
+            "available_bytes_size": 143,
+            "translation": "몬스터의 공격을 버텨내고,[LINE]\n다릴쉐이드의 마을은[LINE]\n일단 궁지를 벗어난다.[LINE]\n쉴 수 있는 때에 쉬어두자고,[LINE]\n[Stahn] 일행은 일단[LINE]\n여관으로 향한다.[END]"
+        },
+        {
+            "offset": 37384,
+            "string": "モンスターと戦い、勝利[LINE]\nした[Stahn]たち。[LINE]\nだがそこへ新手が。[LINE]\n果てしなく続く戦いに、[LINE]\n終わりはいつ訪れるのか？[END]",
+            "original_bytes_length": 106,
+            "available_bytes_size": 111,
+            "translation": "몬스터와 싸워, 승리[LINE]\n한 [Stahn] 일행.[LINE]\n그러나 거기에 새로운 적이.[LINE]\n끝없이 이어지는 전투에,[LINE]\n끝은 언제 찾아올까?[END]"
+        },
+        {
+            "offset": 37496,
+            "string": "ダリルシェイドへ戻ってきた[LINE]\n[Stahn]たち。[LINE]\n街に入り込んだモンスターを[LINE]\n急いで排除しなければ！[LINE]\nダリルシェイドを敵の手に[LINE]\n明け渡すわけにはいかない！[LINE]\n[END]",
+            "original_bytes_length": 142,
+            "available_bytes_size": 143,
+            "translation": "다릴쉐이드로 돌아온[LINE]\n[Stahn] 일행.[LINE]\n마을에 들어온 몬스터를[LINE]\n급히 제거하지 않으면![LINE]\n다릴쉐이드를 적의 손에[LINE]\n넘기는 일은 안된다![LINE]\n[END]"
+        },
+        {
+            "offset": 37640,
+            "string": "モンスターに襲われかけて[LINE]\nいた子供たちを、間一髪[LINE]\n助けた[Stahn]たち。[LINE]\nだが休む間もなく、今度は[LINE]\nダリルシェイドが攻撃を[LINE]\n受けているとの知らせが！[LINE]\n一行は急いでダリルシェイド[LINE]\nへ取って返す。[END]",
+            "original_bytes_length": 181,
+            "available_bytes_size": 183,
+            "translation": "몬스터에게 습격당하려고[LINE]\n했던 아이들을, 간신히[LINE]\n구해낸 [Stahn] 일행.[LINE]\n그러나 쉴 틈도 없이, 이번에는[LINE]\n다릴쉐이드가 공격을[LINE]\n받고 있다는 소식이![LINE]\n일행은 급히 다릴쉐이드[LINE]\n로 돌아가기로 한다.[END]"
+        },
+        {
+            "offset": 37824,
+            "string": "クレスタの街では、既に[LINE]\nモンスターとの激闘が[LINE]\n繰り広げられていた。[LINE]\n果たして孤児院は無事[LINE]\nなのか？[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "클레스타의 마을에서는, 이미[LINE]\n몬스터와의 격투가[LINE]\n벌어지고 있었다.[LINE]\n과연 고아원은 무사한가?[END]"
+        },
+        {
+            "offset": 37920,
+            "string": "魔性の襲来[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "마성의 습격[END]"
+        },
+        {
+            "offset": 37936,
+            "string": "外殻は完成し、地上世界は[LINE]\n闇に包まれる。さらに[LINE]\n追い討ちをかけるように、[LINE]\nクレスタの街がモンスターの[LINE]\n大群に襲われているとの[LINE]\n知らせが。[Johnny]を[LINE]\n仲間に加え、[Stahn][LINE]\nたちはクレスタに急行する。[END]",
+            "original_bytes_length": 184,
+            "available_bytes_size": 184,
+            "translation": "외피는 완성되고, 지상세계는[LINE]\n어둠에 휩싸인다. 더욱[LINE]\n더해, 클레스타의 마을이 몬스터의[LINE]\n대군에 습격당하고 있다는[LINE]\n소식이. [Johnny]를[LINE]\n동료로 두고, [Stahn][LINE]\n일행은 클레스타로 급행한다.[END]"
+        },
+        {
+            "offset": 38120,
+            "string": "闇に閉ざされた世界[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "어둠에 갇힌 세계[END]"
+        },
+        {
+            "offset": 38144,
+            "string": "激闘の末、[Hugo]に勝利[LINE]\nした[Stahn]たち。[LINE]\nだが復活した[Miktran]の[LINE]\n前に手も足も出ず、惨敗[LINE]\nを喫してしまう。絶体絶命の[LINE]\n危機に陥った一行を救った[LINE]\nのは、[Hugo]のなけなしの[LINE]\n意志だった。[END]",
+            "original_bytes_length": 170,
+            "available_bytes_size": 175,
+            "translation": "격투 끝에, [Hugo]에게 승리[LINE]\n한 [Stahn] 일행.[LINE]\n그러나 부활한 [Miktran]의[LINE]\n앞에 손도 발도 못하고, 참패[LINE]\n를 당해버린다. 절체절명의[LINE]\n위기에 빠진 일행을 구한[LINE]\n건, [Hugo]의 끈질긴[LINE]\n의지였다.[END]"
+        },
+        {
+            "offset": 38320,
+            "string": "ベルクラントの内部で、[LINE]\n[Stahn]たちは[LINE]\n転送装置を見つけ、機能を[LINE]\n回復させる。[LINE]\nこれでイグナシーまでは[LINE]\nいつでも戻れるはずだ。[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "벨크란트의 내부에서,[LINE]\n[Stahn] 일행은[LINE]\n전송장치를 찾아, 기능을[LINE]\n회복시킨다.[LINE]\n이제 이그나시까지는[LINE]\n언제든지 돌아갈 수 있을 것이다.[END]"
+        },
+        {
+            "offset": 38440,
+            "string": "鏡面バリアーを無効化し、[LINE]\nベルクラント内部へ突入を[LINE]\n果たした[Stahn]たち。[LINE]\nここから最上部へと[LINE]\n駆け上がり、最終的に[LINE]\n目指すのは神の眼が安置[LINE]\nされているはずの、[LINE]\nダイクロフト本体だ！[END]",
+            "original_bytes_length": 173,
+            "available_bytes_size": 175,
+            "translation": "거울방벽을 무효화하고,[LINE]\n벨크란트 내부로 돌입을[LINE]\n성공한 [Stahn] 일행.[LINE]\n여기서부터 최상부로[LINE]\n달려올라가, 마지막으로[LINE]\n목표하는 것은 신의 눈이[LINE]\n안치되어 있는 것으로, [LINE]\n다이크로프트 본체다![END]"
+        },
+        {
+            "offset": 38616,
+            "string": "天上の主[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "천상의 주[END]"
+        },
+        {
+            "offset": 38632,
+            "string": "[Stahn]たちは[LINE]\n[Ilene]の父、シャイン・[LINE]\n[Rembrandt]と戦い、勝利[LINE]\nする。人質となっていた[LINE]\n[Marian]を地上へ避難[LINE]\nさせた後、一行は[LINE]\nベルクラントへ向け、浮遊[LINE]\nクルーザーを発進させる。[END]",
+            "original_bytes_length": 160,
+            "available_bytes_size": 160,
+            "translation": "[Stahn] 일행은[LINE]\n[Ilene]의 아버지, 샤인[LINE]\n[Rembrandt]와 싸워, 승리[LINE]\n한다. 인질로 되어 있던[LINE]\n[Marian]을 지상으로 대피[LINE]\n시킨 후, 일행은[LINE]\n벨크란트로 향해, 부유[LINE]\n크루저를 발진시킨다.[END]"
+        },
+        {
+            "offset": 38792,
+            "string": "[Stahn]たちは[LINE]\nミックハイルに到着する。[LINE]\nクラウディスやヘルレイオス[LINE]\n同様、ここにも誰かが[LINE]\n待ち構えている可能性は[LINE]\n高い。[LINE]\nだが、ここまで来たら、[LINE]\nもはや後には引けない。[END]",
+            "original_bytes_length": 161,
+            "available_bytes_size": 167,
+            "translation": "[Stahn] 일행은[LINE]\n미크하일에 도착한다.[LINE]\n클라우디스나 헬레이오스[LINE]\n와 마찬가지로, 여기에도[LINE]\n누군가가 기다리고 있는[LINE]\n가능성은 높다.[LINE]\n그러나, 여기까지 왔으면,[LINE]\n이제는 더 이상 물러설 수 없다.[END]"
+        },
+        {
+            "offset": 38960,
+            "string": "シュサイアの出入り口へ[LINE]\nたどり着いた[Stahn][LINE]\nたち。[LINE]\n外殻大地を通って、[LINE]\n目指すはミックハイルだ。[END]",
+            "original_bytes_length": 92,
+            "available_bytes_size": 95,
+            "translation": "슈사이아의 입구로[LINE]\n도착한 [Stahn][LINE]\n일행.[LINE]\n외피대지를 통해,[LINE]\n목표는 미크하일이다.[END]"
+        },
+        {
+            "offset": 39056,
+            "string": "[Stahn]たちは[LINE]\nイグナシーから、シュサイア[LINE]\nへとやって来る。[LINE]\n目的地であるミックハイルへ[LINE]\nたどり着くには、ここから[LINE]\n外殻大地へ抜けなければ[LINE]\nならない。[END]",
+            "original_bytes_length": 142,
+            "available_bytes_size": 143,
+            "translation": "[Stahn] 일행은[LINE]\n이그나시에서, 슈사이아[LINE]\n로 찾아온다.[LINE]\n목적지인 미크하일로[LINE]\n도착하기 위해서는, 여기서[LINE]\n외피대지로 나가야만[LINE]\n한다.[END]"
+        },
+        {
+            "offset": 39200,
+            "string": "策士襲撃！[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "책사 습격![END]"
+        },
+        {
+            "offset": 39216,
+            "string": "ひとまずラディスロウへ[LINE]\n戻ってきた[Stahn][LINE]\nたち。完成した中和装置を[LINE]\n受け取り、次に目指すは[LINE]\nミックハイル。[LINE]\nそこで浮遊クルーザーを[LINE]\n手に入れ、ダイクロフトへ[LINE]\n乗り込むのだ！[END]",
+            "original_bytes_length": 165,
+            "available_bytes_size": 167,
+            "translation": "일단 라디스로우로[LINE]\n돌아온 [Stahn][LINE]\n일행. 완성된 중화장치를[LINE]\n받아, 다음으로 향하는 곳은[LINE]\n미크하일. 거기서 부유[LINE]\n크루저를 손에 넣고,[LINE]\n다이크로프트로[LINE]\n탑승하는 것이다![END]"
+        },
+        {
+            "offset": 39384,
+            "string": "[Stahn]たちの努力を[LINE]\nあざ笑うかのごとく、三発目[LINE]\nのベルクラントが地上へ向け[LINE]\n発射される。[LINE]\n外殻大地が完成するまでの[LINE]\n猶予はあと一発。[LINE]\nもう後がない。[END]",
+            "original_bytes_length": 142,
+            "available_bytes_size": 143,
+            "translation": "[Stahn] 일행의 노력을[LINE]\n조롱하는 듯이, 세 번째[LINE]\n벨크란트가 지상으로 향해[LINE]\n발사된다.[LINE]\n외각대지가 완성될 때까지의[LINE]\n유예는 마지막 한 발.[LINE]\n더 이상 뒤로 갈 길이 없다.[END]"
+        },
+        {
+            "offset": 39528,
+            "string": "[Woodrow]は修復の完了[LINE]\nした[Igtenos]と、[LINE]\n正式に契約を交わす。[LINE]\nそこへ[Ritora]から、鏡面[LINE]\nバリアー中和装置が完成した[LINE]\nとの知らせが入る。[LINE]\n一行は装置を受け取るべく、[LINE]\nラディスロウへ戻る事に。[END]",
+            "original_bytes_length": 173,
+            "available_bytes_size": 175,
+            "translation": "[Woodrow]는 수리가 완료된[LINE]\n[Igtenos]와,[LINE]\n정식으로 계약을 맺는다.[LINE]\n그곳에 [Ritora]로부터, 거울[LINE]\n방벽 중화장치가 완성되었다는[LINE]\n소식이 들어온다.[LINE]\n일행은 장치를 받으러,[LINE]\n라디스로우로 돌아가기로 한다.[END]"
+        },
+        {
+            "offset": 39704,
+            "string": "[Ilene]と再会した[LINE]\n[Stahn]たち。[LINE]\n互いの進む道は分かたれ、[LINE]\nもはや戦うしかなかった。[LINE]\n[Stahn]は正義とは何かと[LINE]\n思い悩む。[LINE]\nそんな[Stahn]を、[LINE]\n[Rutee]が懸命に励ます。[END]",
+            "original_bytes_length": 149,
+            "available_bytes_size": 151,
+            "translation": "[Ilene]과 재회한[LINE]\n[Stahn] 일행.[LINE]\n서로의 나아가는 길은 갈라져,[LINE]\n이제는 싸우기밖에 없었다.[LINE]\n[Stahn]은 정의가 무엇인가와[LINE]\n고민한다.[LINE]\n그런 [Stahn]을,[LINE]\n[Rutee]가 열심히 격려한다.[END]"
+        },
+        {
+            "offset": 39856,
+            "string": "ヘルレイオスの内部を進む[LINE]\n[Stahn]たちの耳に、[LINE]\n聞こえてくる懐かしい声。[LINE]\nそれは[Stahn]がかつて[LINE]\n互いの理想を語り合った相手[LINE]\n[Ilene]・[Rembrandt][LINE]\nだった。[END]",
+            "original_bytes_length": 137,
+            "available_bytes_size": 143,
+            "translation": "헬레이오스의 내부를 나아가는[LINE]\n[Stahn] 일행의 귀에,[LINE]\n들리는 익숙한 목소리.[LINE]\n그것은 [Stahn]이 한때[LINE]\n서로의 이상을 나눴던 상대[LINE]\n[Ilene]・[Rembrandt]였다.[END]"
+        },
+        {
+            "offset": 40000,
+            "string": "ヘルレイオスに突入する[LINE]\n[Stahn]たち。[LINE]\nヘルレイオスは空中都市群の[LINE]\n中でも重要な拠点のひとつ[LINE]\nだった。天上方からも、既に[LINE]\n人が送り込まれているかも[LINE]\nしれない。[LINE]\n慎重に進まなければ。[LINE]\n[END]",
+            "original_bytes_length": 172,
+            "available_bytes_size": 175,
+            "translation": "헬레이오스에 돌입하는[LINE]\n[Stahn] 일행.[LINE]\n헬레이오스는 천공도시군의[LINE]\n중요한 기지 중 하나였다.[LINE]\n천상방에서도, 이미[LINE]\n사람이 보내어진 것일지도[LINE]\n모른다.[LINE]\n신중히 나아가지 않으면.[LINE]\n[END]"
+        },
+        {
+            "offset": 40176,
+            "string": "[Stahn]たちは、[LINE]\nロディオンの出入り口へと[LINE]\nたどり着く。[LINE]\nここから外殻大地へ抜け、[LINE]\n目指すはヘルレイオスだ。[LINE]\nそこにある技術研究施設で、[LINE]\n[Igtenos]を治せる[LINE]\nらしい。[END]",
+            "original_bytes_length": 152,
+            "available_bytes_size": 152,
+            "translation": "[Stahn] 일행은,[LINE]\n로디온의 입구로[LINE]\n도착한다.[LINE]\n여기서 외피대지로 나가,[LINE]\n목표는 헬레이오스다.[LINE]\n거기에 있는 기술연구시설에서,[LINE]\n[Igtenos]를 치료할[LINE]\n것으로 보인다.[END]"
+        },
+        {
+            "offset": 40328,
+            "string": "ロディオンへやって来た[LINE]\n[Stahn]たち。[LINE]\n[Stahn]は[Dymlos]に[LINE]\n天上人と普通の人間の違いを[LINE]\n尋ねる。[Dymlos]の話では[LINE]\n両者に明確な差はなく、[LINE]\nあくまで意識の問題[LINE]\nらしいが……[END]",
+            "original_bytes_length": 154,
+            "available_bytes_size": 159,
+            "translation": "로디온으로 찾아온[LINE]\n[Stahn] 일행.[LINE]\n[Stahn]은 [Dymlos]에게[LINE]\n천상인과 평범한 사람의 차이를[LINE]\n묻는다. [Dymlos]의 말에는[LINE]\n양자에 명확한 차이는 없고,[LINE]\n결국 의식의 문제[LINE]\n로 보인다……[END]"
+        },
+        {
+            "offset": 40488,
+            "string": "哀惜の佳人[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "애석의 가인[END]"
+        },
+        {
+            "offset": 40504,
+            "string": "ラディスロウを後にした[LINE]\n[Stahn]たち。[LINE]\n次の目的地はヘルレイオス。[LINE]\nまずはアンスズーンを通って[LINE]\nイグナシーへ戻り、そこから[LINE]\n転送装置でロディオンへ[LINE]\n向かわなければならない。[END]",
+            "original_bytes_length": 164,
+            "available_bytes_size": 167,
+            "translation": "라디스로우를 떠난[LINE]\n[Stahn] 일행.[LINE]\n다음 목적지는 헬레이오스.[LINE]\n먼저 안스즈운을 통해[LINE]\n이그나시로 돌아가, 거기서[LINE]\n전송장치로 로디온으로[LINE]\n향해야만 한다.[END]"
+        },
+        {
+            "offset": 40672,
+            "string": "クラウディスの奥で一行を[LINE]\n待ち受けていたのは、[LINE]\nオベロン社の幹部・[LINE]\n[Baruk]だった。[LINE]\n戦いの後、[Baruk]は自分が[LINE]\nカルバレイス人である事を[LINE]\n[Stahn]たちに打ち明け[LINE]\n息絶える。[END]",
+            "original_bytes_length": 159,
+            "available_bytes_size": 159,
+            "translation": "클라우디스의 깊은 곳에서[LINE]\n일행을 기다리고 있던 것은,[LINE]\n오베론 사의 간부인[LINE]\n[Baruk]이었다.[LINE]\n전투 후, [Baruk]은 자신이[LINE]\n칼바레이스인이라는 사실을[LINE]\n[Stahn] 일행에게 고백하고[LINE]\n숨을 거둔다.[END]"
+        },
+        {
+            "offset": 40832,
+            "string": "[Stahn]たちは、[LINE]\nクラウディスへ到着する。[LINE]\nそこは緑が生い茂り、[LINE]\n密林のようになっていた。[LINE]\n[Dymlos]の話では、[LINE]\nここの一番奥に、守護竜の[LINE]\n制御装置があるらしい。[END]",
+            "original_bytes_length": 149,
+            "available_bytes_size": 151,
+            "translation": "[Stahn] 일행은,[LINE]\n클라우디스에 도착한다.[LINE]\n그곳은 녹색이 우거져,[LINE]\n밀림처럼 되어 있었다.[LINE]\n[Dymlos]의 말에는,[LINE]\n여기의 제일 깊숙에,[LINE]\n수호용의[LINE]\n제어장치가 있다고 한다.[END]"
+        },
+        {
+            "offset": 40984,
+            "string": "アンスズーンのシステムが[LINE]\nダウンしているせいで、[LINE]\n外へ出られなくなった[LINE]\n[Stahn]たち一行。[LINE]\nソーディアンの提示した[LINE]\n作戦は、エネルギーユニット[LINE]\nを集め、メインシステムに[LINE]\nつなぐ事だった。[LINE]\n[END]",
+            "original_bytes_length": 178,
+            "available_bytes_size": 183,
+            "translation": "안스즈운의 시스템이[LINE]\n다운되어 있어,[LINE]\n밖으로 나갈 수 없게 된[LINE]\n[Stahn] 일행.[LINE]\n소디안이 제시한[LINE]\n작전은, 에너지 유닛을[LINE]\n모아, 메인 시스템에[LINE]\n연결하는 것이었다.[LINE]\n[END]"
+        },
+        {
+            "offset": 41168,
+            "string": "転送装置を用い、イグナシー[LINE]\nから一瞬で別の空中都市[LINE]\nアンスズーンに移動した[LINE]\n[Stahn]たち。[LINE]\n次の目的はここを抜け、[LINE]\n守護竜の制御装置がある[LINE]\nクラウディスにたどり着く[LINE]\n事だ。[END]",
+            "original_bytes_length": 163,
+            "available_bytes_size": 167,
+            "translation": "전송장치를 이용해, 이그나시[LINE]\n에서 순식간에 다른 천공도시[LINE]\n안스즈운으로 이동한[LINE]\n[Stahn] 일행.[LINE]\n다음 목적지는 여기를 나와,[LINE]\n수호용의 제어장치가 있는[LINE]\n클라우디스에 도착하는[LINE]\n것이다.[END]"
+        },
+        {
+            "offset": 41336,
+            "string": "雄略の顛末[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "우략의 전말[END]"
+        },
+        {
+            "offset": 41352,
+            "string": "転送装置のターミナルを確保[LINE]\nした[Stahn]たち。[LINE]\n行き先をアンスズーンに設定[LINE]\nし、一行は装置に入る。[LINE]\n[END]",
+            "original_bytes_length": 94,
+            "available_bytes_size": 95,
+            "translation": "전송장치의 터미널을 확보[LINE]\n한 [Stahn] 일행.[LINE]\n목적지를 안스즈운으로 설정[LINE]\n하고, 일행은 장치에 들어간다.[LINE]\n[END]"
+        },
+        {
+            "offset": 41448,
+            "string": "[Stahn]たちは[LINE]\n外殻大地を歩いて、[LINE]\nイグナシーへ到着する。[LINE]\nすみやかに内部を制圧し、[LINE]\n転送装置のターミナルを[LINE]\n確保しなければならない。[END]",
+            "original_bytes_length": 127,
+            "available_bytes_size": 127,
+            "translation": "[Stahn] 일행은[LINE]\n외피대지를 걸어, [LINE]\n이그나시에 도착한다.[LINE]\n빠르게 내부를 제압하고,[LINE]\n전송장치의 터미널을[LINE]\n확보해야만 한다.[END]"
+        },
+        {
+            "offset": 41576,
+            "string": "転送装置を確保せよ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "전송장치를 확보하라[END]"
+        },
+        {
+            "offset": 41600,
+            "string": "ラディスロウを出ようとして[LINE]\nいた[Stahn]たちに、[LINE]\n[Reynolds]から報告が入る。[LINE]\nダリルシェイドとの間に[LINE]\n無重量エレベーターが開通[LINE]\nしたらしい。[LINE]\nこれでいつでも地上へ[LINE]\n戻れる。[END]",
+            "original_bytes_length": 158,
+            "available_bytes_size": 159,
+            "translation": "라디스로우를 나가려고 하던[LINE]\n[Stahn] 일행에게,[LINE]\n[Reynolds]로부터 보고가 들어온다.[LINE]\n다릴쉐이드와의 사이에[LINE]\n무중량 엘리베이터가 개통[LINE]\n된 것으로 보인다.[LINE]\n이제 언제든지 지상으로[LINE]\n돌아갈 수 있다.[END]"
+        },
+        {
+            "offset": 41760,
+            "string": "ラディスロウを浮上させ、[LINE]\nダイクロフトを目指した[LINE]\n[Stahn]たちだったが、[LINE]\n[Hugo]に撃墜されて[LINE]\nしまう。[LINE]\n作戦は変更され、[LINE]\n一行は空中都市のひとつ、[LINE]\nイグナシーを目指す事に。[END]",
+            "original_bytes_length": 162,
+            "available_bytes_size": 167,
+            "translation": "라디스로우를 부상시켜,[LINE]\n다이크로프트를 향한[LINE]\n[Stahn] 일행이었으나,[LINE]\n[Hugo]에게 격추당해[LINE]\n버린다.[LINE]\n작전은 변경되어,[LINE]\n일행은 천공도시 중 하나인,[LINE]\n이그나시를 향하는 것으로.[END]"
+        },
+        {
+            "offset": 41928,
+            "string": "[Rutee]は[Lion][LINE]\nや[Hugo]が自分の肉親で[LINE]\nある事をどう受け止めて[LINE]\nいいかわからず、苦しんで[LINE]\nいた。[Stahn]はそんな[LINE]\n[Rutee]に、一緒に悩もう[LINE]\nと言い聞かせる。[END]",
+            "original_bytes_length": 142,
+            "available_bytes_size": 143,
+            "translation": "[Rutee]는 [Lion][LINE]\n이나 [Hugo]가 자신의 친인척이[LINE]\n라는 사실을 어떻게 받아들[LINE]\n여야 할지 모르고, 고통스러[LINE]\n워했다.[Stahn]은 그런[LINE]\n[Rutee]에게, 함께 고민하자[LINE]\n고 말을 건넨다.[END]"
+        },
+        {
+            "offset": 42072,
+            "string": "作戦開始まで待機する事に[LINE]\nなった[Stahn]たち。[LINE]\n[Rutee]は[Hugo]が[LINE]\n実の父親である事を皆に[LINE]\n打ち明け、驚かせる。[LINE]\n[Stahn]は姿を消した[LINE]\n[Rutee]の後を、[LINE]\n追いかけるが……[LINE]\n[END]",
+            "original_bytes_length": 152,
+            "available_bytes_size": 152,
+            "translation": "작전 시작까지 대기하기로[LINE]\n한 [Stahn] 일행.[LINE]\n[Rutee]는 [Hugo]가[LINE]\n실제 아버지라는 사실을 모두에게[LINE]\n고백하고, 놀라게 한다.[LINE]\n[Stahn]은 사라진[LINE]\n[Rutee]의 뒤를,[LINE]\n쫓아가지만……[LINE]\n[END]"
+        },
+        {
+            "offset": 42224,
+            "string": "目指すは外殻大地[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "목표는 외피대지[END]"
+        },
+        {
+            "offset": 42248,
+            "string": "遺跡を出ようとした[LINE]\n[Stahn]たちの耳に、[LINE]\n[Hugo]の声がとどろく。[LINE]\n続いて発射される、二発目の[LINE]\nベルクラント。[LINE]\n地上が闇に閉ざされるまで、[LINE]\nもう猶予はない。早く、[LINE]\nラディスロウへ戻らねば。[END]",
+            "original_bytes_length": 176,
+            "available_bytes_size": 176,
+            "translation": "유적을 나가려던[LINE]\n[Stahn] 일행의 귀에,[LINE]\n[Hugo]의 목소리가 울린다.[LINE]\n이어 발사되는, 두 번째[LINE]\n벨크란트.[LINE]\n지상이 어둠에 가려지기까지,[LINE]\n더 이상 유예는 없다. 빨리,[LINE]\n라디스로우로 돌아가야 한다.[END]"
+        },
+        {
+            "offset": 42424,
+            "string": "遺跡の最深部でＲキーを入手[LINE]\nした[Stahn]たち。[LINE]\n仲間の下へ戻ろうとする前、[LINE]\n[Stahn]は[Mary]から[LINE]\n[Rutee]を励まして[LINE]\nやって欲しいと頼まれる。[END]",
+            "original_bytes_length": 128,
+            "available_bytes_size": 128,
+            "translation": "유적의 최심부에서 R키를 획득[LINE]\n한 [Stahn] 일행.[LINE]\n동료들에게 돌아가려 하기 전,[LINE]\n[Stahn]은 [Mary]로부터[LINE]\n[Rutee]를 격려해주어[LINE]\n주었으면 하는 부탁을 받는다.[END]"
+        },
+        {
+            "offset": 42552,
+            "string": "遺跡の封印を解くための[LINE]\n特別なカギ。それは[LINE]\nソーディアンだった。[LINE]\n奥へ進むためには、途中で[LINE]\nソーディアンを置いて[LINE]\nいかなくてはならない。[LINE]\n誰をどこに残せばいいのか？[END]",
+            "original_bytes_length": 159,
+            "available_bytes_size": 159,
+            "translation": "유적의 봉인을 풀기 위한[LINE]\n특별한 열쇠. 그것은[LINE]\n소디언이었다.[LINE]\n깊숙히 들어가기 위해서는, 중간에[LINE]\n소디언을 두고[LINE]\n가야만 한다.[LINE]\n누구를 어디에 둬야 할까?[END]"
+        },
+        {
+            "offset": 42712,
+            "string": "ラディスロウを浮上させる[LINE]\n装置、Ｒキーのある遺跡に[LINE]\nたどり着いた一行。[LINE]\n[Stahn]は[Dymlos]に[LINE]\n[Lion]の事を意識[LINE]\nしすぎるなと釘を刺される。[LINE]\n[Stahn]は大義は忘れて[LINE]\nいないと答えるが……[END]",
+            "original_bytes_length": 168,
+            "available_bytes_size": 168,
+            "translation": "라디스로우를 부상시키는[LINE]\n장치, R키가 있는 유적에[LINE]\n도착한 일행.[LINE]\n[Stahn]은 [Dymlos]에게[LINE]\n[Lion]에 대해 의식[LINE]\n하고 있지 않다고 지적당한다.[LINE]\n[Stahn]은 대의를 잊지[LINE]\n않았다고 대답하지만……[END]"
+        },
+        {
+            "offset": 42880,
+            "string": "隠された鍵[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "숨겨진 열쇠[END]"
+        },
+        {
+            "offset": 42896,
+            "string": "リーネの村の近くにある[LINE]\n遺跡を目指すため、[LINE]\nラディスロウを発つ一行。[LINE]\n[Lion]の敵を討とうと[LINE]\n決意する[Stahn]。[LINE]\n傍らでは[Rutee]が、[LINE]\n[Lion]との最後の[LINE]\n会話の内容に思い悩む。[END]",
+            "original_bytes_length": 160,
+            "available_bytes_size": 160,
+            "translation": "리네의 마을 근처에 있는[LINE]\n유적을 향해, 라디스로우를[LINE]\n떠나는 일행.[LINE]\n[Lion]의 적을 처치하려고[LINE]\n결의하는 [Stahn].[LINE]\n옆에서 [Rutee]가,[LINE]\n[Lion]과의 마지막[LINE]\n대화 내용에 고민한다.[END]"
+        },
+        {
+            "offset": 43056,
+            "string": "[Hugo]の狙いは、空に外殻[LINE]\n大地を形成し、地上を闇に[LINE]\n封じ込める事らしい。[LINE]\n[Hugo]の野望を挫くため[LINE]\n[Stahn]たちは行動を[LINE]\n開始する。まずはラディス[LINE]\nロウを浮上させるための、[LINE]\n装置を取りに行く事に。[LINE]\n[END]",
+            "original_bytes_length": 184,
+            "available_bytes_size": 184,
+            "translation": "[Hugo]의 목적은, 하늘에 외피[LINE]\n대지를 형성하고, 지상을[LINE]\n어둠에 가두는 것으로 보인다.[LINE]\n[Hugo]의 야망을 저지하기 위해[LINE]\n[Stahn] 일행은 행동을[LINE]\n시작한다. 먼저 라디스[LINE]\n로우를 부상시키기 위한,[LINE]\n장치를 가져오기로 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 43240,
+            "string": "[Stahn]たちは海竜に[LINE]\n乗り、ラディスロウへやって[LINE]\n来る。[LINE]\n[Ritora]は奥の中枢部にいる[LINE]\nらしい。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "[Stahn] 일행은 해룡에[LINE]\n타고, 라디스로우로 찾아[LINE]\n온다.[LINE]\n[Ritora]는 깊은 중추부에[LINE]\n있는 것으로 보인다.[END]"
+        },
+        {
+            "offset": 43328,
+            "string": "空中都市を復活させたのは[LINE]\n[Hugo]だった。[Hugo]は[LINE]\n天地戦争の開戦を世界中に[LINE]\n宣言する。[LINE]\n[Stahn]たちは地上軍[LINE]\n総司令[Ritora]の召集命令を[LINE]\n受け、ラディスロウへと[LINE]\n向かう。[END]",
+            "original_bytes_length": 156,
+            "available_bytes_size": 159,
+            "translation": "천공도시를 부활시킨 것은[LINE]\n[Hugo]였다. [Hugo]는[LINE]\n천지전쟁의 개전을 전 세계에[LINE]\n선언한다.[LINE]\n[Stahn] 일행은 지상군[LINE]\n총사령 [Ritora]의 소집명령을[LINE]\n받고, 라디스로우로[LINE]\n향한다.[END]"
+        },
+        {
+            "offset": 43488,
+            "string": "空中都市の復活[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "천공도시의 부활[END]"
+        },
+        {
+            "offset": 43504,
+            "string": "[Lion]は[Hugo]と[LINE]\n行動を共にしていた。[LINE]\n[Stahn]の懸命の説得も[LINE]\n空しく、[Lion]と刃を[LINE]\n交える一行。[LINE]\n悪夢はさらに続く。[LINE]\n[Lion]との別れ。[LINE]\n空中都市の復活……[END]",
+            "original_bytes_length": 143,
+            "available_bytes_size": 143,
+            "translation": "[Lion]은 [Hugo]와[LINE]\n함께 행동하고 있었다.[LINE]\n[Stahn]의 힘든 설득도[LINE]\n헛되어, [Lion]과 칼을[LINE]\n겨루는 일행.[LINE]\n악몽은 더 이어진다.[LINE]\n[Lion]과의 이별.[LINE]\n천공도시의 부활……[END]"
+        },
+        {
+            "offset": 43648,
+            "string": "オベロン社の工場の中に[LINE]\n[Lion]はいなかった。[LINE]\n[Stahn]たちは工場の[LINE]\n奥でエレベーターを見つけ、[LINE]\n乗り込む。[LINE]\nエレベーターが通じていた[LINE]\nのは、工場の地下深いところ[LINE]\nにある海底洞窟だった。[END]",
+            "original_bytes_length": 174,
+            "available_bytes_size": 175,
+            "translation": "오베론 사의 공장 안에[LINE]\n[Lion]은 없었다.[LINE]\n[Stahn] 일행은 공장의[LINE]\n깊은 곳에 엘리베이터를 찾아,[LINE]\n타고 들어간다.[LINE]\n엘리베이터가 통하고 있던[LINE]\n곳은, 공장의 지하 깊은 곳[LINE]\n에 있는 해저동굴이었다.[END]"
+        },
+        {
+            "offset": 43824,
+            "string": "悪夢の始まり[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "악몽의 시작[END]"
+        },
+        {
+            "offset": 43840,
+            "string": "[Stahn]たちは目的地で[LINE]\nあるオベロン社の工場に[LINE]\nたどり着く。[LINE]\n本当にこの中に[Lion]が[LINE]\nいるのか？[LINE]\n緊迫した空気の中、[LINE]\n一行は工場の中に足を[LINE]\n踏み入れる……[END]",
+            "original_bytes_length": 144,
+            "available_bytes_size": 144,
+            "translation": "[Stahn] 일행은 목적지에[LINE]\n있는 오베론 사의 공장에[LINE]\n도착한다.[LINE]\n정말 이 안에 [Lion]이[LINE]\n있는 것인가?[LINE]\n긴장된 공기 속,[LINE]\n일행은 공장 안으로 발을[LINE]\n내딛는다……[END]"
+        },
+        {
+            "offset": 43984,
+            "string": "孤島の秘密[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "고도의 비밀[END]"
+        },
+        {
+            "offset": 44000,
+            "string": "船に乗り、オベロン社の工場[LINE]\nがある小島へと向かう[LINE]\n[Stahn]たち。[LINE]\n行く手に待ち受けているのは[LINE]\n果たして何か？[END]",
+            "original_bytes_length": 102,
+            "available_bytes_size": 103,
+            "translation": "배에 타고, 오베론 사의 공장[LINE]\n이 있는 작은 섬으로 향하는[LINE]\n[Stahn] 일행.[LINE]\n가는 길에 기다리고 있는 것은[LINE]\n과연 무엇인가?[END]"
+        },
+        {
+            "offset": 44104,
+            "string": "セインガルド王に告げられた[LINE]\n衝撃の事実。それは神の眼を[LINE]\n奪った犯人が、[Lion][LINE]\nであるという事だった。[LINE]\n一体[Lion]に何が？[LINE]\n[Stahn]たちは真相を確かめる[LINE]\nべく、オベロン社の工場へと[LINE]\n向かう。[END]",
+            "original_bytes_length": 177,
+            "available_bytes_size": 183,
+            "translation": "세인가르드 왕에게 전해진[LINE]\n충격적인 사실. 그것은 신의 눈을[LINE]\n빼앗은 범인이, [Lion]이[LINE]\n라는 것이었다.[LINE]\n대체 [Lion]에게 무슨?[LINE]\n[Stahn] 일행은 진상을 확인하기[LINE]\n위해, 오베론 사의 공장으로[LINE]\n향한다.[END]"
+        },
+        {
+            "offset": 44288,
+            "string": "[Stahn]たちは街の[LINE]\n噴水広場で仲間と合流する。[LINE]\nあとはセインガルドの首都、[LINE]\nダリルシェイドを目指す[LINE]\nだけだ。[LINE]\n[Lion]ともそこで[LINE]\n再会できるかもしれない。[END]",
+            "original_bytes_length": 143,
+            "available_bytes_size": 143,
+            "translation": "[Stahn] 일행은 마을의[LINE]\n분수 광장에서 동료와 합류한다.[LINE]\n이제는 세인가르드의 수도,[LINE]\n다릴쉐이드를 향하기만 하면 된다.[LINE]\n[Lion]과도 거기서[LINE]\n재회할 수 있을지도 모른다.[END]"
+        },
+        {
+            "offset": 44432,
+            "string": "街外れの孤児院で、[LINE]\n[Rutee]を見つけた[LINE]\n[Stahn]。[LINE]\n一度は声をかけずに立ち[LINE]\n去ろうとするものの、[LINE]\n[Rutee]に見つかり、[LINE]\n結果的に再び共に行く事に。[END]",
+            "original_bytes_length": 132,
+            "available_bytes_size": 135,
+            "translation": "마을 바깥 고아원에서,[LINE]\n[Rutee]를 발견한[LINE]\n[Stahn].[LINE]\n한번은 말을 걸지 않고 떠나[LINE]\n려 하지만, [Rutee]에게 발견되어,[LINE]\n결국 다시 함께 가기로 한다.[END]"
+        },
+        {
+            "offset": 44568,
+            "string": "クレスタの街へたどり着いた[LINE]\n[Stahn]たち一行は、[LINE]\n手分けして[Rutee]を[LINE]\n探すべく、一時的に全員が[LINE]\n別行動を取る事になる。[LINE]\n本当にこの街に、[LINE]\n[Rutee]がいるのか？[END]",
+            "original_bytes_length": 146,
+            "available_bytes_size": 151,
+            "translation": "클레스타의 마을에 도착한[LINE]\n[Stahn] 일행은,[LINE]\n나눠서 [Rutee]를[LINE]\n찾으려고, 일시적으로 모두가[LINE]\n별도 행동을 취하기로 한다.[LINE]\n정말 이 마을에,[LINE]\n[Rutee]가 있는 것인가?[END]"
+        },
+        {
+            "offset": 44720,
+            "string": "次なる目的地はセインガルド[LINE]\nにある[Rutee]の故郷、[LINE]\nクレスタの街に決まる。[LINE]\n[Rutee]から絶対来ては[LINE]\nいけないと釘を刺されていた[LINE]\n[Stahn]だったが、[LINE]\n非常事態とあっては仕方が[LINE]\nないと自らに言い聞かせる。[END]",
+            "original_bytes_length": 185,
+            "available_bytes_size": 191,
+            "translation": "다음 목적지는 세인가르드[LINE]\n에 있는 [Rutee]의 고향,[LINE]\n클레스타의 마을로 결정된다.[LINE]\n[Rutee]로부터 절대 오지 말라고[LINE]\n지시를 받았던[LINE]\n[Stahn]이었지만,[LINE]\n비상사태라면 어쩔 수 없다고[LINE]\n스스로에게 말을 건넨다.[END]"
+        },
+        {
+            "offset": 44912,
+            "string": "[Stahn]たちは[LINE]\n[Woodrow]、[Chelsea][LINE]\nと再会する。[LINE]\nふたりを改めて仲間に加え、[LINE]\n一行はハイデルベルグを発つ[LINE]\n事に。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "[Stahn] 일행은[LINE]\n[Woodrow], [Chelsea][LINE]\n과 재회한다.[LINE]\n둘을 다시 한번 동료로[LINE]\n추가하고, 일행은 하이델베르크를[LINE]\n떠나기로 한다.[END]"
+        },
+        {
+            "offset": 45016,
+            "string": "ハイデルベルグの街は、[LINE]\n以前と比べ、格段に活気に[LINE]\n満ちていた。[LINE]\n[Philia]の話では、[LINE]\nつい最近、[Woodrow]が[LINE]\n王位に就いたらしい。[LINE]\n一行は[Woodrow]に[LINE]\n会うべく、城を目指す。[END]",
+            "original_bytes_length": 153,
+            "available_bytes_size": 159,
+            "translation": "하이델베르크의 마을은,[LINE]\n이전과 비교해, 확실히 활기에[LINE]\n넘쳐 있었다.[LINE]\n[Philia]의 이야기에 따르면,[LINE]\n얼마 전, [Woodrow]가[LINE]\n왕위에 오른 것으로 보인다.[LINE]\n일행은 [Woodrow]에게[LINE]\n만나기 위해, 성을 향한다.[END]"
+        },
+        {
+            "offset": 45176,
+            "string": "[Mary]は[Dalis]の[LINE]\n後押しを受け、再び[LINE]\n[Stahn]たちと行動を共にする[LINE]\n事になる。頼もしい仲間を[LINE]\n得て、意気あがる一行。[LINE]\n次の目的地は、[Woodrow]の[LINE]\nいるハイデルベルグ城だ。[END]",
+            "original_bytes_length": 155,
+            "available_bytes_size": 159,
+            "translation": "[Mary]는 [Dalis]의[LINE]\n후방을 받아, 다시[LINE]\n[Stahn] 일행과 행동을 함께[LINE]\n하게 된다. 믿음직한 동료를[LINE]\n얻어, 의기를 내는 일행.[LINE]\n다음 목적지는, [Woodrow]의[LINE]\n있는 하이델베르크 성이다.[END]"
+        },
+        {
+            "offset": 45336,
+            "string": "スノーフリアへやって来た[LINE]\n[Stahn]たちは、[LINE]\n[Mary]、[Dalis]と再会する。[LINE]\nふたりは[Dalis]の傷を治療[LINE]\nするため、湯治に来たとの[LINE]\n事だった。[END]",
+            "original_bytes_length": 124,
+            "available_bytes_size": 127,
+            "translation": "스노우프리아로 찾아온[LINE]\n[Stahn] 일행은,[LINE]\n[Mary], [Dalis]와 재회한다.[LINE]\n둘은 [Dalis]의 상처를 치료[LINE]\n하기 위해, 온천에 왔다는[LINE]\n것이었다.[END]"
+        },
+        {
+            "offset": 45464,
+            "string": "再びセインガルドへ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "다시 세인가르드로[END]"
+        },
+        {
+            "offset": 45488,
+            "string": "[Stahn]たちは港で[LINE]\n[Kongman]と再会する。[LINE]\n[Kongman]は[Stahn][LINE]\nたちだけでは心配だからと、[LINE]\n同行を申し出る。[LINE]\nこうして[Kongman]を[LINE]\n仲間に加えた一行は、[LINE]\nファンダリアを目指す。[END]",
+            "original_bytes_length": 151,
+            "available_bytes_size": 151,
+            "translation": "[Stahn] 일행은 항구에서[LINE]\n[Kongman]과 재회한다.[LINE]\n[Kongman]은 [Stahn][LINE]\n일행만으로는 걱정되니까, [LINE]\n동행을 제안한다.[LINE]\n이렇게 [Kongman]을[LINE]\n동료로 추가한 일행은,[LINE]\n팬더리아를 향한다.[END]"
+        },
+        {
+            "offset": 45640,
+            "string": "ノイシュタットの街へ到着[LINE]\nした[Stahn]と[LINE]\n[Philia]は、船で[LINE]\nファンダリアへと渡るべく、[LINE]\n港を目指す事にする。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "노이슈타트의 마을에 도착한[LINE]\n[Stahn]과[LINE]\n[Philia]는, 배로[LINE]\n팬더리아로 건너가기 위해,[LINE]\n항구를 향한다.[END]"
+        },
+        {
+            "offset": 45744,
+            "string": "[Stahn]は[Dymlos]を[LINE]\n携えた[Philia]の来訪を[LINE]\n受ける。神の眼の保管場所が[LINE]\n飛行竜に襲われ、神の眼が[LINE]\n何者かに奪われたらしい。[LINE]\n[Stahn]は[Lilith]を[LINE]\n説得し、[Philia]と共に[LINE]\n旅立つ。[END]",
+            "original_bytes_length": 156,
+            "available_bytes_size": 159,
+            "translation": "[Stahn]은 [Dymlos]를[LINE]\n가지고 온 [Philia]의 방문을[LINE]\n받는다. 신의 눈의 보관 장소가[LINE]\n비행룡에게 습격당해, 신의 눈이[LINE]\n누군가에게 빼앗겼다는 것으로 보인다.[LINE]\n[Stahn]은 [Lilith]를[LINE]\n설득하고, [Philia]와 함께[LINE]\n여행을 떠난다.[END]"
+        },
+        {
+            "offset": 45904,
+            "string": "故郷に戻り、平穏な生活を[LINE]\n取り戻した[Stahn]。[LINE]\n今日も妹[Lilith]の言いつけで[LINE]\n夕食の材料を買いに出かける。[LINE]\nさて、何を買うか？[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "고향으로 돌아와, 평온한 생활을[LINE]\n되찾은 [Stahn].[LINE]\n오늘도 여동생 [Lilith]의 지시로[LINE]\n저녁 재료를 사러 나간다.[LINE]\n그럼, 무엇을 사야 할까?[END]"
+        },
+        {
+            "offset": 46024,
+            "string": "久しぶりの故郷[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "오랜만의 고향[END]"
+        },
+        {
+            "offset": 46040,
+            "string": "[Greybum]を倒して神の眼を[LINE]\n取り戻し、セインガルドへ[LINE]\n帰還した[Stahn]たち。[LINE]\n旅は終わり、仲間たちとの[LINE]\n別れの時が来る。[LINE]\nそんな中、[Stahn]は[LINE]\n[Rutee]の姿が見えない[LINE]\n事に気付き、探しに行く。[END]",
+            "original_bytes_length": 172,
+            "available_bytes_size": 175,
+            "translation": "[Greybum]을 물리치고 신의 눈을[LINE]\n되찾고, 세인가르드로[LINE]\n귀환한 [Stahn] 일행.[LINE]\n여행은 끝나고, 동료들과의[LINE]\n이별의 시간이 찾아온다.[LINE]\n그런 가운데, [Stahn]은[LINE]\n[Rutee]의 모습이 보이지 않는[LINE]\n것을 알아차려, 찾으러 간다.[END]"
+        },
+        {
+            "offset": 46216,
+            "string": "[Stahn]たちは一路、[LINE]\n時計塔を目指す。[LINE]\n全ての決着をつけるために。[LINE]\n[Greybum]まではあと少しだ！[END]",
+            "original_bytes_length": 86,
+            "available_bytes_size": 87,
+            "translation": "[Stahn] 일행은 일사,[LINE]\n시계탑을 향한다.[LINE]\n모든 결말을 내기 위해.[LINE]\n[Greybum]까지는 더는 조금![END]"
+        },
+        {
+            "offset": 46304,
+            "string": "[Stahn]たちは[Dalis]と[LINE]\n再会し、刃を交える。[LINE]\n戦いの後、[Woodrow]は[LINE]\n[Dalis]に城を落ち延びるよう[LINE]\n告げる。[Mary]も[LINE]\n[Dalis]と行動を共にする事に[LINE]\nなった。[LINE]\n残るは[Greybum]だけだ。[END]",
+            "original_bytes_length": 155,
+            "available_bytes_size": 159,
+            "translation": "[Stahn] 일행은 [Dalis]와[LINE]\n재회하고, 칼을 겨룬다.[LINE]\n전투 후, [Woodrow]는[LINE]\n[Dalis]에게 성을 피해가라고[LINE]\n말한다.[Mary]도[LINE]\n[Dalis]와 행동을 함께 하기로[LINE]\n했다.[LINE]\n남은 것은 [Greybum]뿐이다.[END]"
+        },
+        {
+            "offset": 46464,
+            "string": "ハイデルベルグの決戦[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크의 결전[END]"
+        },
+        {
+            "offset": 46488,
+            "string": "[Greybum]は[Dalis]と共に、[LINE]\n城の時計塔にいるらしい。[LINE]\nそれぞれが胸の内に複雑な[LINE]\n思いを秘めつつ、[LINE]\n[Stahn]たちは城を[LINE]\n目指す。[LINE]\n果たして一行を待ち受けて[LINE]\nいるものは……？[END]",
+            "original_bytes_length": 155,
+            "available_bytes_size": 159,
+            "translation": "[Greybum]은 [Dalis]와 함께,[LINE]\n성의 시계탑에 있는 것으로 보인다.[LINE]\n각자가 가슴 속에 복잡한[LINE]\n생각을 품으며,[LINE]\n[Stahn] 일행은 성을[LINE]\n향한다.[LINE]\n과연 일행을 기다리고 있는[LINE]\n것은……?[END]"
+        },
+        {
+            "offset": 46648,
+            "string": "城へと続く非常通路で、[LINE]\n[Stahn]は何者かに[LINE]\n襲われる。[LINE]\nその正体はファンダリアの[LINE]\n重臣のひとり、[Darzen][LINE]\nだった。[LINE]\n[Stahn]たちは彼から[LINE]\n詳しい話を聞く事にする。[END]",
+            "original_bytes_length": 147,
+            "available_bytes_size": 151,
+            "translation": "성으로 이어지는 비상통로에서,[LINE]\n[Stahn]은 누군가에게[LINE]\n습격당한다.[LINE]\n그 정체는 팬더리아의[LINE]\n중신 중 한 명, [Darzen]이었다.[LINE]\n[Stahn] 일행은 그로부터[LINE]\n자세한 이야기를 듣기로 한다.[END]"
+        },
+        {
+            "offset": 46800,
+            "string": "[Stahn]たちは[LINE]\nハイデルベルグに到着する。[LINE]\n街は喪に服しているかの[LINE]\nように静まり返っていた。[LINE]\n一行は非常通路を用いて、[LINE]\n城に潜入する事にする。[END]",
+            "original_bytes_length": 135,
+            "available_bytes_size": 135,
+            "translation": "[Stahn] 일행은[LINE]\n하이델베르크에 도착한다.[LINE]\n마을은 애도에 빠져 있는 것처럼[LINE]\n조용했다.[LINE]\n일행은 비상통로를 이용하여,[LINE]\n성에 침투하기로 한다.[END]"
+        },
+        {
+            "offset": 46936,
+            "string": "秘密の地下通路[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "비밀의 지하통로[END]"
+        },
+        {
+            "offset": 46952,
+            "string": "[Stahn]たちは[LINE]\nサイリルの街を出て、[LINE]\nハイデルベルグへ向け出発[LINE]\nする。[LINE]\n[Woodrow]は父イザークが[LINE]\nなぜサイリルに強硬な態度を[LINE]\n取ったのかわからず、[LINE]\nひとり思い悩む。[END]",
+            "original_bytes_length": 150,
+            "available_bytes_size": 151,
+            "translation": "[Stahn] 일행은[LINE]\n사이릴의 마을을 떠나,[LINE]\n하이델베르크로 향해 출발[LINE]\n한다.[LINE]\n[Woodrow]는 아버지 이자크가[LINE]\n왜 사이릴에 강경한 태도를[LINE]\n취했는지 모르고,[LINE]\n혼자 고민한다.[END]"
+        },
+        {
+            "offset": 47104,
+            "string": "[Mary]はついに記憶を[LINE]\n取り戻す。先に会った[Dalis][LINE]\nは[Mary]の夫だった。[LINE]\n[Dalis]は本当に、[Greybum]と[LINE]\n手を組んでいるのか？[LINE]\n真相を確かめるためにも、[LINE]\n早くハイデルベルグへと[LINE]\n向かわなければならない。[END]",
+            "original_bytes_length": 183,
+            "available_bytes_size": 183,
+            "translation": "[Mary]는 드디어 기억을[LINE]\n되찾는다. 먼저 만난 [Dalis]는[LINE]\n[Mary]의 남편이었다.[LINE]\n[Dalis]는 정말로, [Greybum]과[LINE]\n손을 잡고 있는 것인가?[LINE]\n진상을 확인하기 위해서도,[LINE]\n빨리 하이델베르크로[LINE]\n향해야만 한다.[END]"
+        },
+        {
+            "offset": 47288,
+            "string": "森を抜け、サイリルの街へ[LINE]\n到着した[Stahn]たち。[LINE]\nそこは反乱軍の拠点で、[LINE]\n[Mary]にとって縁の深い[LINE]\n場所でもあった。[LINE]\n[Dalis]隊長と呼ばれた人物と[LINE]\n[Mary]との関係は？一行は[LINE]\n[Mary]の家へ向かう。[LINE]\n[END]",
+            "original_bytes_length": 180,
+            "available_bytes_size": 183,
+            "translation": "숲을 지나, 사이릴의 마을로[LINE]\n도착한 [Stahn] 일행.[LINE]\n그곳은 반란군의 거점이며,[LINE]\n[Mary]에게는 연결이 깊은[LINE]\n장소였다.[LINE]\n[Dalis]대장이라 불리는 인물과[LINE]\n[Mary]와의 관계는? 일행은[LINE]\n[Mary]의 집으로 향한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 47472,
+            "string": "在りし日の思い出[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "옛날의 추억[END]"
+        },
+        {
+            "offset": 47496,
+            "string": "雪深い森の中を進む[LINE]\n[Stahn]たち一行。[LINE]\n[Stahn]は[Woodrow][LINE]\nに成長ぶりを認められる[LINE]\nその傍らでは[Mary]が[LINE]\n雪景色に心を刺激される。[LINE]\nどうやら記憶が蘇りそうに[LINE]\nなっているようだが……[END]",
+            "original_bytes_length": 164,
+            "available_bytes_size": 167,
+            "translation": "눈이 많이 내린 숲 속을[LINE]\n진행하는 [Stahn] 일행.[LINE]\n[Stahn]은 [Woodrow][LINE]\n에게 성장한 모습을 인정받는[LINE]\n그 곁에서는 [Mary]가[LINE]\n눈 풍경에 마음을 자극당한다.[LINE]\n어떻게 보면 기억이 되살아나[LINE]\n가고 있는 것 같지만……[END]"
+        },
+        {
+            "offset": 47664,
+            "string": "凍える森[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "얼어붙은 숲[END]"
+        },
+        {
+            "offset": 47680,
+            "string": "[Greybum]は反乱軍を率いて[LINE]\nハイデルベルグを攻略した[LINE]\nらしい。[LINE]\n[Woodrow]と[Chelsea][LINE]\nを仲間に加え、[LINE]\n[Stahn]たちは[LINE]\nハイデルベルグへ向け、[LINE]\n出発する事にする。[END]",
+            "original_bytes_length": 142,
+            "available_bytes_size": 143,
+            "translation": "[Greybum]은 반란군을 이끌고[LINE]\n하이델베르크를 공략한[LINE]\n것으로 보인다.[LINE]\n[Woodrow]와 [Chelsea][LINE]\n를 동료로 추가하고,[LINE]\n[Stahn] 일행은[LINE]\n하이델베르크로 향해,[LINE]\n출발하기로 한다.[END]"
+        },
+        {
+            "offset": 47824,
+            "string": "スノーフリアの市街地で、[LINE]\n[Stahn]は[Alba]と[LINE]\n再会し、驚きの事実を知る。[LINE]\n[Woodrow]と[LINE]\n[Chelsea]が追っ手に追われ[LINE]\n危険だというのだ。[LINE]\nふたりは街の外の森にいる。[LINE]\nすぐに救出に向かわねば！[END]",
+            "original_bytes_length": 174,
+            "available_bytes_size": 175,
+            "translation": "스노우프리아의 시가지에서,[LINE]\n[Stahn]은 [Alba]와[LINE]\n재회하고, 놀라운 사실을 알게 된다.[LINE]\n[Woodrow]와[LINE]\n[Chelsea]가 추격자에 쫓겨[LINE]\n위험하다는 것이다.[LINE]\n둘은 마을 밖 숲에 있다.[LINE]\n곧바로 구출에 가야 한다![END]"
+        },
+        {
+            "offset": 48000,
+            "string": "ファンダリアの港町、スノー[LINE]\nフリアに到着した一行の前に[LINE]\n負傷兵が現れ、ファンダリア[LINE]\nは滅びたと告げる。[LINE]\n一体何が起こったのか？[LINE]\n[Stahn]たちは状況を確認[LINE]\nすべく、市街地へと急ぐ。[END]",
+            "original_bytes_length": 170,
+            "available_bytes_size": 175,
+            "translation": "팬더리아의 항구 마을, 스노[LINE]\n프리아에 도착한 일행 앞에[LINE]\n부상병이 나타나, 팬더리아[LINE]\n가 망했다고 말한다.[LINE]\n대체 무슨 일이 일어난 것인가?[LINE]\n[Stahn] 일행은 상황을 확인[LINE]\n하기 위해, 시가지로 급히 간다.[END]"
+        },
+        {
+            "offset": 48176,
+            "string": "南の港町[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "남쪽의 항구 마을[END]"
+        },
+        {
+            "offset": 48192,
+            "string": "[Stahn]たちを乗せた[LINE]\n船は、ファンダリアへと[LINE]\n向かう。[LINE]\n[Mary]が雪景色を[LINE]\n目にして何か思い出しそうに[LINE]\nなるものの、結局、記憶を[LINE]\n取り戻すには至らない。[END]",
+            "original_bytes_length": 141,
+            "available_bytes_size": 143,
+            "translation": "[Stahn] 일행을 태운[LINE]\n배는, 팬더리아로[LINE]\n향한다.[LINE]\n[Mary]가 눈 풍경을[LINE]\n보고 무언가를 기억해내려는[LINE]\n것 같지만, 결국, 기억을[LINE]\n되찾지 못한다.[END]"
+        },
+        {
+            "offset": 48336,
+            "string": "[Greybum]を追って[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Greybum]을 쫓아[END]"
+        },
+        {
+            "offset": 48352,
+            "string": "[Stahn]たちは[LINE]\n[Johnny]と別れ、[LINE]\nアクアヴェイルを後にする[LINE]\n事となる。[LINE]\n準備が整い次第、[LINE]\nファンダリアへ向け出発だ。[END]",
+            "original_bytes_length": 106,
+            "available_bytes_size": 111,
+            "translation": "[Stahn] 일행은[LINE]\n[Johnny]와 이별하고,[LINE]\n아쿠아베일을 떠나기로 한다.[LINE]\n준비가 갖추어지는 대로,[LINE]\n팬더리아로 향해 출발이다.[END]"
+        },
+        {
+            "offset": 48464,
+            "string": "城の外へ出た[Stahn][LINE]\nたちは、街の人々の歓呼の[LINE]\n声に迎えられる。[LINE]\n[Stahn]たちは[Greybum][LINE]\nを追って、次は[LINE]\nファンダリアを目指す事に[LINE]\nなる。[END]",
+            "original_bytes_length": 124,
+            "available_bytes_size": 127,
+            "translation": "성 밖으로 나온 [Stahn][LINE]\n일행은, 마을 사람들의 환호의[LINE]\n소리에 맞이받는다.[LINE]\n[Stahn] 일행은 [Greybum][LINE]\n을 쫓아, 다음은[LINE]\n팬더리아를 향해 가기로[LINE]\n한다.[END]"
+        },
+        {
+            "offset": 48592,
+            "string": "[Stahn]たちは[LINE]\n[Tiberius]を倒したものの[LINE]\n[Greybum]には飛行竜を使って[LINE]\n逃げられてしまう。[LINE]\n[Johnny]は[Tiberius][LINE]\nと決闘し、とどめを刺す。[LINE]\n[Johnny]が手にしたのは、[LINE]\n[Chaltier]だった。[END]",
+            "original_bytes_length": 149,
+            "available_bytes_size": 151,
+            "translation": "[Stahn] 일행은[LINE]\n[Tiberius]를 물리쳤지만[LINE]\n[Greybum]에게는 비행룡을 이용하여[LINE]\n도망쳐버린다.[LINE]\n[Johnny]는 [Tiberius][LINE]\n와 결투하고, 결국 죽인다.[LINE]\n[Johnny]가 손에 한 것은,[LINE]\n[Chaltier]였다.[END]"
+        },
+        {
+            "offset": 48744,
+            "string": "ついにトウケイ城の中へと[LINE]\n突入した[Stahn]たち。[LINE]\n[Tiberius]と[Greybum]は、[LINE]\n城の最上階にいるらしい。[LINE]\nここまで来たら、[LINE]\n一気に駆け抜けるだけだ！[END]",
+            "original_bytes_length": 129,
+            "available_bytes_size": 135,
+            "translation": "드디어 토우케이 성 안으로[LINE]\n돌입한 [Stahn] 일행.[LINE]\n[Tiberius]와 [Greybum]은,[LINE]\n성의 최상층에 있는 것으로 보인다.[LINE]\n여기까지 왔으면,[LINE]\n일어서서 뚫고 나가는 것뿐이다![END]"
+        },
+        {
+            "offset": 48880,
+            "string": "[Tiberius]大王の城[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Tiberius] 대왕의 성[END]"
+        },
+        {
+            "offset": 48896,
+            "string": "トウケイ領の街中にある[LINE]\n船着場へ到着した[LINE]\n[Stahn]たち。[LINE]\n予め街に潜入していたシデン[LINE]\n領の者の力を借り、トウケイ[LINE]\n城を目指す。[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "토우케이 영토의 마을 중앙에 있는[LINE]\n선착장에 도착한[LINE]\n[Stahn] 일행.[LINE]\n미리 마을에 침투해 있던 시덴[LINE]\n영토의 자의 힘을 빌려, 토우케이[LINE]\n성을 향한다.[END]"
+        },
+        {
+            "offset": 49016,
+            "string": "トウケイ領の海上防衛線を[LINE]\n突破し、[Stahn]たちの[LINE]\n乗った船は港へと侵入する。[LINE]\nその後一行は[Tiberius]と[LINE]\n[Greybum]のいる城へ潜入[LINE]\nするべく、街の中央にある[LINE]\n船着場へと向かう。[END]",
+            "original_bytes_length": 156,
+            "available_bytes_size": 159,
+            "translation": "토우케이 영토의 해상 방어선을[LINE]\n돌파하고, [Stahn] 일행의[LINE]\n탄 배는 항구로 침입한다.[LINE]\n그 후 일행은 [Tiberius]와[LINE]\n[Greybum]의 있는 성으로 침투[LINE]\n하기 위해, 마을 중앙에 있는[LINE]\n선착장으로 향한다.[END]"
+        },
+        {
+            "offset": 49176,
+            "string": "しじまに沈む大王の城[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "침묵 속에 가라앉는 대왕의 성[END]"
+        },
+        {
+            "offset": 49200,
+            "string": "クラーケンを退けた後、[LINE]\n甲板にいた[Stahn]と[LINE]\n[Lion]は、[Johnny]が[LINE]\n[Fayte]と言い争う場面を[LINE]\n目撃する。[LINE]\n[Eleanor]とは？[LINE]\n[Johnny]の真意とは？[END]",
+            "original_bytes_length": 121,
+            "available_bytes_size": 127,
+            "translation": "크라켄을 물리친 후,[LINE]\n갑판에 있던 [Stahn]과[LINE]\n[Lion]은, [Johnny]가[LINE]\n[Fayte]와 말다툼하는 장면을[LINE]\n목격한다.[LINE]\n[Eleanor]와는?[LINE]\n[Johnny]의 진실은?[END]"
+        },
+        {
+            "offset": 49328,
+            "string": "黒十字艦隊の船に乗り、[LINE]\nトウケイ領を目指す[LINE]\n[Stahn]たち。[LINE]\nだが航海の途中、不意に船が[LINE]\n衝撃に見舞われる。[LINE]\nもしや敵が？[LINE]\n[Stahn]たちは状況を[LINE]\n確認するべく甲板へ向かう。[END]",
+            "original_bytes_length": 158,
+            "available_bytes_size": 159,
+            "translation": "흑십자 함대의 배에 타고,[LINE]\n토우케이 영토를 향하는[LINE]\n[Stahn] 일행.[LINE]\n그러나 항해 중간, 갑자기 배가[LINE]\n충격을 받는다.[LINE]\n혹시 적이?[LINE]\n[Stahn] 일행은 상황을[LINE]\n확인하기 위해 갑판으로 향한다.[END]"
+        },
+        {
+            "offset": 49488,
+            "string": "大暴れ！海の軟体生物[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "대난리! 바다의 연체동물[END]"
+        },
+        {
+            "offset": 49512,
+            "string": "モリュウ城の外へ出た一行は[LINE]\n[Rihanna]の出迎えを受ける。[LINE]\n[Stahn]たちは[Fayte][LINE]\n率いる黒十字艦隊の船で[LINE]\nトウケイ領へ乗り込むべく、[LINE]\n港へと向かう。[END]",
+            "original_bytes_length": 133,
+            "available_bytes_size": 135,
+            "translation": "모류 성 밖으로 나온 일행은[LINE]\n[Rihanna]의 맞이를 받는다.[LINE]\n[Stahn] 일행은 [Fayte][LINE]\n를 이끄는 흑십자 함대의 배로[LINE]\n토우케이 영토로 탑승하기 위해,[LINE]\n항구로 향한다.[END]"
+        },
+        {
+            "offset": 49648,
+            "string": "[Stahn]たちは[LINE]\n[Batista]を倒し、[Fayte][LINE]\nを救出する。[LINE]\n皆が[Fayte]の無事を喜んで[LINE]\nいる最中、[Philia]は[LINE]\nひとり静かに、[Batista]に[LINE]\n別れを告げるのだった。[LINE]\n[END]",
+            "original_bytes_length": 138,
+            "available_bytes_size": 143,
+            "translation": "[Stahn] 일행은[LINE]\n[Batista]를 물리치고, [Fayte][LINE]\n를 구출한다.[LINE]\n모두가 [Fayte]의 무사를 기뻐하고[LINE]\n있는 중, [Philia]는[LINE]\n혼자 조용히, [Batista]에게[LINE]\n이별을 고한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 49792,
+            "string": "[Stahn]たちが牢屋で[LINE]\n出会ったのは[Fayte]の妻、[LINE]\n[Rihanna]だった。[LINE]\n[Johnny]が[Rihanna]に[LINE]\n[Fayte]を必ず救出すると[LINE]\n約束した後、一行は、[LINE]\n[Batista]の下を目指す。[END]",
+            "original_bytes_length": 134,
+            "available_bytes_size": 135,
+            "translation": "[Stahn] 일행이 감옥에서[LINE]\n만난 것은 [Fayte]의 아내,[LINE]\n[Rihanna]였다.[LINE]\n[Johnny]가 [Rihanna]에게[LINE]\n[Fayte]를 반드시 구출할 것이라[LINE]\n약속한 후, 일행은,[LINE]\n[Batista]의 아래를 향한다.[END]"
+        },
+        {
+            "offset": 49928,
+            "string": "[Stahn]たちはモリュウ[LINE]\n城の裏手で[Johnny]に[LINE]\n追いつき、共闘を申し出る。[LINE]\n[Johnny]を仲間に加え、[LINE]\n一行は城の中へ潜入。まずは[LINE]\n[Fayte]を救出するべく、[LINE]\n牢屋を目指す。[END]",
+            "original_bytes_length": 149,
+            "available_bytes_size": 151,
+            "translation": "[Stahn] 일행은 모류[LINE]\n성의 뒷편에서 [Johnny]에게[LINE]\n잡히고, 공동으로 신청한다.[LINE]\n[Johnny]를 동료로 추가하고,[LINE]\n일행은 성 안으로 침투. 먼저[LINE]\n[Fayte]를 구출하기 위해,[LINE]\n감옥을 향한다.[END]"
+        },
+        {
+            "offset": 50080,
+            "string": "いざモリュウ城[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "자, 모류 성으로[END]"
+        },
+        {
+            "offset": 50096,
+            "string": "[Johnny]の正体は、[LINE]\nシデン領の王族だった。[LINE]\n親友の[Fayte]を救うため、[LINE]\n単身モリュウ城へと向かう[LINE]\n[Johnny]。[LINE]\n[Stahn]たちは[LINE]\n急いで[Johnny]の後を[LINE]\n追う。[END]",
+            "original_bytes_length": 133,
+            "available_bytes_size": 135,
+            "translation": "[Johnny]의 정체는,[LINE]\n시덴 영토의 왕족이었다.[LINE]\n친구 [Fayte]를 구하기 위해,[LINE]\n혼자 모류 성으로 향하는[LINE]\n[Johnny].[LINE]\n[Stahn] 일행은[LINE]\n급히 [Johnny]의 뒤를[LINE]\n쫓는다.[END]"
+        },
+        {
+            "offset": 50232,
+            "string": "[Stahn]たちは[LINE]\n[Tiberius]に目をつけられ[LINE]\n兵士に追われる身となる。[LINE]\nそんな[Stahn]たちを[LINE]\n救ったのは、先に会った[LINE]\n吟遊詩人の[Johnny][LINE]\nだった。[END]",
+            "original_bytes_length": 123,
+            "available_bytes_size": 127,
+            "translation": "[Stahn] 일행은[LINE]\n[Tiberius]에게 눈을 뜨고[LINE]\n병사에게 쫓기는 몸이 된다.[LINE]\n그런 [Stahn] 일행을[LINE]\n구해준 것은, 먼저 만난[LINE]\n吟遊詩人 [Johnny][LINE]\n이었다.[END]"
+        },
+        {
+            "offset": 50360,
+            "string": "[Stahn]たちは街で[LINE]\nひとりの吟遊詩人と出会う。[LINE]\n吟遊詩人の奏でるバラードに[LINE]\n聞きほれる[Stahn]。[LINE]\nそこへ兵士が現れ、港へ[LINE]\n集合するよう命じられる。[LINE]\n[Tiberius]大王なる人物が[LINE]\n港にいるらしい。[END]",
+            "original_bytes_length": 173,
+            "available_bytes_size": 175,
+            "translation": "[Stahn] 일행은 마을에서[LINE]\n한 명의 吟遊詩人을 만난다.[LINE]\n吟遊詩人이 연주하는 발라드에[LINE]\n들어 헤아리는 [Stahn].[LINE]\n그곳에 병사가 나타나, 항구로[LINE]\n집합하라고 명령받는다.[LINE]\n[Tiberius] 대왕이라는 인물이[LINE]\n항구에 있는 것으로 보인다.[END]"
+        },
+        {
+            "offset": 50536,
+            "string": "モリュウ領へ到着した[LINE]\n[Stahn]たち。[LINE]\n本当にここに[Greybum]が[LINE]\nいるのだろうか？[LINE]\nまずは情報を集めるべく、[LINE]\n[Stahn]たちは、街の[LINE]\n住人に話を聞く事にする[END]",
+            "original_bytes_length": 136,
+            "available_bytes_size": 136,
+            "translation": "모류 영토에 도착한[LINE]\n[Stahn] 일행.[LINE]\n정말로 여기에 [Greybum]이[LINE]\n있는 것일까? [LINE]\n먼저 정보를 모으기 위해,[LINE]\n[Stahn] 일행은, 마을의[LINE]\n주민에게 이야기를 듣기로 한다.[END]"
+        },
+        {
+            "offset": 50672,
+            "string": "陽気な吟遊詩人[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "쾌활한 음유시인[END]"
+        },
+        {
+            "offset": 50688,
+            "string": "海底洞窟の出口まで来た[LINE]\nところで、[Stahn]たちは[LINE]\n凶悪なモンスターに遭遇[LINE]\nする。[LINE]\nなんとかモンスターを退けた[LINE]\n一行は洞窟を出て、モリュウ[LINE]\n領を目指す。[LINE]\n[END]",
+            "original_bytes_length": 143,
+            "available_bytes_size": 143,
+            "translation": "해저 동굴의 출구에 도착한[LINE]\n순간, [Stahn] 일행은[LINE]\n흉악한 몬스터와 조우한다.[LINE]\n[LINE]\n가까스로 몬스터를 물리친[LINE]\n일행은 동굴을 나와 모류[LINE]\n영지를 향해 나아간다.[LINE]\n[END]"
+        },
+        {
+            "offset": 50832,
+            "string": "海底洞窟を進んでいる最中、[LINE]\n[Stahn]と[Rutee][LINE]\nは、洞窟の深部へ落とされて[LINE]\nしまう。[LINE]\n救出を待つ間[Stahn]は[LINE]\n[Rutee]と話し、[LINE]\n彼女がお金に執着する理由を[LINE]\n知るのだった。[END]",
+            "original_bytes_length": 152,
+            "available_bytes_size": 152,
+            "translation": "해저 동굴을 진행 중,[LINE]\n[Stahn]과 [Rutee][LINE]\n는, 동굴의 깊은 곳으로 떨어져[LINE]\n버린다.[LINE]\n구출을 기다리는 동안 [Stahn]은[LINE]\n[Rutee]와 이야기하며,[LINE]\n그녀가 돈에 집착하는 이유를[LINE]\n알게 되었다.[END]"
+        },
+        {
+            "offset": 50984,
+            "string": "[Stahn]たちは[LINE]\nモリュウ領へ行くため、[LINE]\n海底洞窟に入っていく。[LINE]\n洞窟内は地盤の脆い所が多い[LINE]\nうえ、凶悪なモンスターも[LINE]\n生息しているらしい。[LINE]\n注意して進まなければ[LINE]\nならない。[END]",
+            "original_bytes_length": 163,
+            "available_bytes_size": 167,
+            "translation": "[Stahn] 일행은[LINE]\n모류 영토로 가기 위해,[LINE]\n해저 동굴에 들어간다.[LINE]\n동굴 내부는 지반이 약한 곳이 많고[LINE]\n게다가 흉악한 몬스터도[LINE]\n서식하고 있는 것으로 보인다.[LINE]\n주의하며 나아가지 않으면[LINE]\n안된다.[END]"
+        },
+        {
+            "offset": 51152,
+            "string": "奈落の底で[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "절벽의 바닥에서[END]"
+        },
+        {
+            "offset": 51168,
+            "string": "[Stahn]たちは[LINE]\n[Greybum]がモリュウ領にいる[LINE]\nとの情報を得る。[LINE]\n[Lion]の機転により、[LINE]\nモリュウ領へ続く海底洞窟の[LINE]\n存在を知った一行は、街を[LINE]\n出て洞窟の入り口へ向かう。[END]",
+            "original_bytes_length": 152,
+            "available_bytes_size": 152,
+            "translation": "[Stahn] 일행은[LINE]\n[Greybum]이 모류 영토에 있는[LINE]\n정보를 얻는다.[LINE]\n[Lion]의 기발함으로,[LINE]\n모류 영토로 이어지는 해저 동굴의[LINE]\n존재를 알게 된 일행은, 마을을[LINE]\n나와 동굴의 입구로 향한다.[END]"
+        },
+        {
+            "offset": 51320,
+            "string": "[Stahn]たちは[LINE]\nアクアヴェイルの一部である[LINE]\nシデン領の沿岸に到着する。[LINE]\nだがアクアヴェイルは鎖国制[LINE]\nを敷いており、これ以上の[LINE]\n接近は不可能だった。[LINE]\n[Stahn]たちはボートに[LINE]\n乗り、シデン領に上陸する。[END]",
+            "original_bytes_length": 186,
+            "available_bytes_size": 191,
+            "translation": "[Stahn] 일행은[LINE]\n아쿠아베일의 일부인[LINE]\n시덴 영지의 해안에 도착한다.[LINE]\n그러나 아쿠아베일은 쇄국 정책[LINE]\n을 하고 있어, 이상의[LINE]\n접근은 불가능했다.[LINE]\n[Stahn] 일행은 보트에[LINE]\n타고, 시덴 영지에 상륙한다.[END]"
+        },
+        {
+            "offset": 51512,
+            "string": "モリュウへの道[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "모류로 가는 길[END]"
+        },
+        {
+            "offset": 51528,
+            "string": "[Ilene]や[Kongman]など、[LINE]\nノイシュタットで出会った[LINE]\n人々に別れを告げ、[LINE]\n[Stahn]たちは[LINE]\nアクアヴェイルへ出発する。[LINE]\n次なる行く手には、一体何が[LINE]\n待ち受けているのだろうか？[END]",
+            "original_bytes_length": 156,
+            "available_bytes_size": 159,
+            "translation": "[Ilene]나 [Kongman] 등,[LINE]\n노이슈타트에서 만난[LINE]\n사람들에게 이별을 고하고,[LINE]\n[Stahn] 일행은[LINE]\n아쿠아베일로 출발한다.[LINE]\n다음 가는 길에는, 과연 무엇이[LINE]\n기다리고 있는 것일까?[END]"
+        },
+        {
+            "offset": 51688,
+            "string": "[Stahn]たちは武装船団[LINE]\nを率いていた[Batista]を[LINE]\n倒し、街へ凱旋する。[LINE]\nその後、[Lion]が[LINE]\nわざと[Batista]を逃がし、[LINE]\n行く手を突き止める。[LINE]\n[Batista]が向かったのは、[LINE]\nアクアヴェイルだった。[END]",
+            "original_bytes_length": 171,
+            "available_bytes_size": 175,
+            "translation": "[Stahn] 일행은 무장선단[LINE]\n을 이끌고 있던 [Batista]를[LINE]\n물리치고, 마을로 환희한다.[LINE]\n그 후, [Lion]이[LINE]\n일부러 [Batista]를 놓치고,[LINE]\n가는 길을 찾아낸다.[LINE]\n[Batista]가 향한 곳은,[LINE]\n아쿠아베일이었다.[END]"
+        },
+        {
+            "offset": 51864,
+            "string": "[Stahn]たちは[LINE]\n武装船団の旗艦へ乗り込む。[LINE]\nもたもたしていると増援に[LINE]\n取り囲まれる恐れがある。[LINE]\n目指すは敵将ただひとりだ。[END]",
+            "original_bytes_length": 116,
+            "available_bytes_size": 119,
+            "translation": "[Stahn] 일행은[LINE]\n무장선단의 기함에 탑승한다.[LINE]\n지체하고 있으면, 보급군에[LINE]\n포위될 우려가 있다.[LINE]\n목표는 적장 단 한 명뿐이다.[END]"
+        },
+        {
+            "offset": 51984,
+            "string": "武装船団を叩け！[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "무장선단을 격파하라![END]"
+        },
+        {
+            "offset": 52008,
+            "string": "港へ着いた[Stahn][LINE]\nたちの前に、[Kongman]が[LINE]\n現れ、共闘を申し出る。[LINE]\n心強い味方を得た[Stahn][LINE]\nたち。[LINE]\nこうなったら少しでも早く、[LINE]\n武装船団を叩くしかない！[END]",
+            "original_bytes_length": 140,
+            "available_bytes_size": 143,
+            "translation": "항구에 도착한 [Stahn][LINE]\n일행 앞에, [Kongman]이[LINE]\n나타나, 함께 싸우기를 제안한다.[LINE]\n든든한 동료를 얻은[LINE]\n[Stahn] 일행.[LINE]\n이렇게 된 이상 조금이라도 빨리,[LINE]\n무장선단을 격파할 수밖에 없다![END]"
+        },
+        {
+            "offset": 52152,
+            "string": "モンスターを使って街を混乱[LINE]\nに陥れたのは、港の沖合いに[LINE]\n出現した武装船団らしい。[LINE]\n[Stahn]たちは、[LINE]\n[Ilene]に頼んで船を借り、[LINE]\n武装船団を倒す事を決意[LINE]\nする。目指すは港だ。[END]",
+            "original_bytes_length": 161,
+            "available_bytes_size": 167,
+            "translation": "몬스터를 이용해 마을을 혼란[LINE]\n에 빠뜨린 것은, 항구의 해상에[LINE]\n출현한 무장선단인 것으로 보인다.[LINE]\n[Stahn] 일행은,[LINE]\n[Ilene]에게 부탁해 배를 빌리고,[LINE]\n무장선단을 물리치기로 결의[LINE]\n한다. 목표는 항구다.[END]"
+        },
+        {
+            "offset": 52320,
+            "string": "[Stahn]は闘技場で[LINE]\n[Kongman]と決闘する。[LINE]\n拳を交えた果てに、友情を[LINE]\n芽生えさせるふたり。[LINE]\nそこへ[Lion]が現れ、[LINE]\n驚きの事実を告げる。[LINE]\n街がモンスターに襲われて[LINE]\nいるというのだ。[END]",
+            "original_bytes_length": 163,
+            "available_bytes_size": 167,
+            "translation": "[Stahn]는 투기장에서[LINE]\n[Kongman]과 결투한다.[LINE]\n주먹을 맞대고 난 끝에, 우정을[LINE]\n싹틀게 하는 두 사람.[LINE]\n그곳에 [Lion]이 나타나,[LINE]\n놀랍게도 사실을 알린다.[LINE]\n마을이 몬스터에게 습격당하고[LINE]\n있다는 것이다.[END]"
+        },
+        {
+            "offset": 52488,
+            "string": "[Stahn]たちはアイス[LINE]\nキャンディー屋で、[Ilene]・[LINE]\n[Rembrandt]と出会う。[LINE]\nそこへ闘技場のチャンピオン[LINE]\nである[Kongman]も現れ、[LINE]\n[Stahn]は成り行きから[LINE]\n[Kongman]と決闘する[LINE]\n羽目になる。[END]",
+            "original_bytes_length": 156,
+            "available_bytes_size": 159,
+            "translation": "[Stahn] 일행은 아이스[LINE]\n캔디 가게에서, [Ilene]・[LINE]\n[Rembrandt]와 만난다.[LINE]\n그곳에 투기장의 챔피언[LINE]\n인 [Kongman]도 나타나,[LINE]\n[Stahn]은 상황에 따라[LINE]\n[Kongman]과 결투하게[LINE]\n된다.[END]"
+        },
+        {
+            "offset": 52648,
+            "string": "[Stahn]たちは、幼い[LINE]\n少女が懸命に花を売っている[LINE]\nところを目撃し、街の住人の[LINE]\n間の貧富の差が大きい事を[LINE]\n実感する。[LINE]\nその後、[Stahn]たちは[LINE]\n街の広場にあるアイスキャン[LINE]\nディー屋を目指す。[END]",
+            "original_bytes_length": 174,
+            "available_bytes_size": 175,
+            "translation": "[Stahn] 일행은, 어린[LINE]\n소녀가 열심히 꽃을 파는[LINE]\n모습을 목격하고, 마을 주민들[LINE]\n사이의 빈부격차가 크다는 것을[LINE]\n실감한다.[LINE]\n그 후, [Stahn] 일행은[LINE]\n마을 광장에 있는 아이스[LINE]\n캔디 가게를 향한다.[END]"
+        },
+        {
+            "offset": 52824,
+            "string": "[Ilene]の屋敷を訪れた[LINE]\n[Stahn]たちだったが、[LINE]\n主の[Ilene]が不在で会う[LINE]\n事ができない。[LINE]\n[Rutee]がアイスキャン[LINE]\nディーを買いに行こうと提案[LINE]\nし、[Lion]を除く全員[LINE]\nで買いに行く事に。[END]",
+            "original_bytes_length": 163,
+            "available_bytes_size": 167,
+            "translation": "[Ilene]의 저택을 방문한[LINE]\n[Stahn] 일행이었지만,[LINE]\n주인 [Ilene]이 불참하여 만날[LINE]\n수 없었다.[LINE]\n[Rutee]가 아이스[LINE]\n캔디를 사러 가자고 제안[LINE]\n하고, [Lion]을 제외한 모두[LINE]\n가서 사오기로 한다.[END]"
+        },
+        {
+            "offset": 52992,
+            "string": "[Stahn]たちは[LINE]\nノイシュタットの美しい[LINE]\n町並みに目を奪われる。[LINE]\n[Stahn]は偶然、同郷の[LINE]\n幼なじみ[Bacchus]と会う。[LINE]\nその後、一行は改めて、[LINE]\n[Ilene]の屋敷を目指す。[END]",
+            "original_bytes_length": 145,
+            "available_bytes_size": 151,
+            "translation": "[Stahn] 일행은[LINE]\n노이슈타트의 아름다운[LINE]\n마을 모습에 눈을 뗄 수 없다.[LINE]\n[Stahn]는 우연히, 동향의[LINE]\n친구 [Bacchus]와 만난다.[LINE]\n그 후, 일행은 다시,[LINE]\n[Ilene]의 저택을 향한다.[END]"
+        },
+        {
+            "offset": 53144,
+            "string": "[Greybum]の後を追って、[LINE]\nフィッツガルドの首都である[LINE]\nノイシュタットへやって来た[LINE]\n[Stahn]たち。[LINE]\nまずはオベロン社のフィッツ[LINE]\nガルド方面支部長である[LINE]\n[Ilene]の屋敷を尋ねる事に[LINE]\nする。[END]",
+            "original_bytes_length": 167,
+            "available_bytes_size": 167,
+            "translation": "[Greybum]의 뒤를 쫓아,[LINE]\n피츠가르드의 수도인[LINE]\n노이슈타트에 온[LINE]\n[Stahn] 일행.[LINE]\n먼저 오베론 사의 피츠[LINE]\n가르드 방면 지부장인[LINE]\n[Ilene]의 저택을 찾기로[LINE]\n한다.[END]"
+        },
+        {
+            "offset": 53312,
+            "string": "美しき協力者[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "아름다운 협력자[END]"
+        },
+        {
+            "offset": 53328,
+            "string": "チェリクの街へ戻ってきた[LINE]\n[Stahn]たち。[LINE]\n船に乗るには、隣接する[LINE]\nカルバレイス港へ行かねば[LINE]\nならない。[END]",
+            "original_bytes_length": 96,
+            "available_bytes_size": 96,
+            "translation": "체릭의 마을로 돌아온[LINE]\n[Stahn] 일행.[LINE]\n배를 타려면, 인접한[LINE]\n칼바레이스 항구로 가야만[LINE]\n한다.[END]"
+        },
+        {
+            "offset": 53424,
+            "string": "[Stahn]たちは神殿の[LINE]\n地下で、[Greybum]と対峙する[LINE]\nものの、逃げられてしまう。[LINE]\n[Baruk]の救援もあり、[LINE]\n窮地を脱した一行は、[LINE]\n船でノイシュタットを目指す[LINE]\nため、チェリクの街へ[LINE]\n戻る事にする。[END]",
+            "original_bytes_length": 173,
+            "available_bytes_size": 175,
+            "translation": "[Stahn] 일행은 신전의[LINE]\n지하에서, [Greybum]과 대면하는[LINE]\n바람에, 도망쳐버린다.[LINE]\n[Baruk]의 구출도 있어,[LINE]\n교지를 벗어난 일행은,[LINE]\n배로 노이슈타트를 향해[LINE]\n가기 위해, 체릭의 마을로[LINE]\n돌아가기로 한다.[END]"
+        },
+        {
+            "offset": 53600,
+            "string": "[Stahn]たちは[LINE]\n神殿の大聖堂に到着する。[LINE]\n[Philia]が仕掛けを起動[LINE]\nさせ、地下へ通じる入り口を[LINE]\n出現させる。[LINE]\n[Greybum]と神の眼は、[LINE]\n見つかるだろうか？[END]",
+            "original_bytes_length": 134,
+            "available_bytes_size": 135,
+            "translation": "[Stahn] 일행은[LINE]\n신전의 대성당에 도착한다.[LINE]\n[Philia]가 함정을 작동[LINE]\n시켜, 지하로 이어지는 입구를[LINE]\n출현시킨다.[LINE]\n[Greybum]과 신의 눈은,[LINE]\n발견될까?[END]"
+        },
+        {
+            "offset": 53736,
+            "string": "[Philia]の手引きで、[LINE]\n[Stahn]たちは神殿の中へ[LINE]\n潜入する。[LINE]\nそして見張りの神官の目を[LINE]\n潜り抜け、大聖堂を目指す。[LINE]\nセインガルドの神殿と同じ[LINE]\n仕掛けが施されているかも[LINE]\nしれない。[END]",
+            "original_bytes_length": 164,
+            "available_bytes_size": 167,
+            "translation": "[Philia]의 안내로,[LINE]\n[Stahn] 일행은 신전 안으로[LINE]\n잠입한다.[LINE]\n그리고 감시하는 신관의 눈을[LINE]\n피해, 대성당을 향한다.[LINE]\n세인가르드의 신전과 같은[LINE]\n함정이 걸려있을지도[LINE]\n모른다.[END]"
+        },
+        {
+            "offset": 53904,
+            "string": "カルビオラの宿に滞在して[LINE]\nいた[Stahn]たちは、[LINE]\n夜になってから行動を開始[LINE]\nする。[LINE]\n[Philia]が神殿の裏口の[LINE]\n鍵を開けてくれている[LINE]\nはずだ。[END]",
+            "original_bytes_length": 125,
+            "available_bytes_size": 127,
+            "translation": "칼비올라의 숙소에 머물던[LINE]\n[Stahn] 일행은,[LINE]\n밤이 되자 행동을 시작한다.[LINE]\n[Philia]가 신전의 뒷문의[LINE]\n열쇠를 열어주고 있을[LINE]\n것이다.[END]"
+        },
+        {
+            "offset": 54032,
+            "string": "[Stahn]たちは[LINE]\nストレイライズ神殿を[LINE]\n見つけ出す。[LINE]\n[Philia]が巡礼者を[LINE]\n装って先に中に入り、[LINE]\n[Stahn]たちは[LINE]\n夜になってから合流する[LINE]\n事に。[END]",
+            "original_bytes_length": 125,
+            "available_bytes_size": 127,
+            "translation": "[Stahn] 일행은[LINE]\n스트레이라이즈 신전을[LINE]\n찾아낸다.[LINE]\n[Philia]가 순례자를[LINE]\n가장하여 먼저 안으로 들어가고,[LINE]\n[Stahn] 일행은[LINE]\n밤이 되자 합류하기로[LINE]\n한다.[END]"
+        },
+        {
+            "offset": 54160,
+            "string": "カルビオラに到着した[LINE]\n[Stahn]たちは、[LINE]\n街の住人からストレイライズ[LINE]\n神殿の場所を聞き出す。[LINE]\nそこに[Greybum]がいるかも[LINE]\nしれない。[END]",
+            "original_bytes_length": 118,
+            "available_bytes_size": 119,
+            "translation": "칼비올라에 도착한[LINE]\n[Stahn] 일행은,[LINE]\n마을 주민으로부터 스트레이라이즈[LINE]\n신전의 위치를 물어본다.[LINE]\n그곳에 [Greybum]이[LINE]\n있을지도 모른다.[END]"
+        },
+        {
+            "offset": 54280,
+            "string": "怪しい神殿[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "수상한 신전[END]"
+        },
+        {
+            "offset": 54296,
+            "string": "[Stahn]たちは[LINE]\n[Greybum]らしき一団が、[LINE]\nカルバレイスの首都である[LINE]\nカルビオラへ向かった事を[LINE]\n突き止める。[LINE]\nそして後を追うべく、[LINE]\nチェリクの街を後にする。[END]",
+            "original_bytes_length": 141,
+            "available_bytes_size": 143,
+            "translation": "[Stahn] 일행은[LINE]\n[Greybum] 같은 일행이,[LINE]\n칼바레이스의 수도인[LINE]\n칼비올라로 향한 것을[LINE]\n알아낸다.[LINE]\n그리고 뒤를 쫓기 위해,[LINE]\n체릭의 마을을 떠난다.[END]"
+        },
+        {
+            "offset": 54440,
+            "string": "カルバレイスに到着した[LINE]\n[Stahn]たちは、[LINE]\n情報収集のためチェリクの街[LINE]\nにある[Baruk]基金の[LINE]\nオフィスへ向かう事にする。[LINE]\nだが街の人々にオフィスの[LINE]\n場所を聞いても、冷たい[LINE]\n反応をされるだけだった。[END]",
+            "original_bytes_length": 182,
+            "available_bytes_size": 183,
+            "translation": "칼바레이스에 도착한[LINE]\n[Stahn] 일행은[LINE]\n정보 수집을 위해 체리크의 거리[LINE]\n에 있는[Baruk] 기금의[LINE]\n사무실로 향하기로 한다.[LINE]\n하지만 거리의 사람들에게 사무실의[LINE]\n위치를 물어봐도, 차가운[LINE]\n반응만 돌아올 뿐이었다.[END]"
+        },
+        {
+            "offset": 54624,
+            "string": "砂漠の島[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "사막의 섬[END]"
+        },
+        {
+            "offset": 54640,
+            "string": "[Clemente]を得た[Stahn][LINE]\nたちは、ラディスロウを[LINE]\n後にするべく、海竜に[LINE]\n乗り込む。[END]",
+            "original_bytes_length": 72,
+            "available_bytes_size": 72,
+            "translation": "[Clemente]를 얻은[Stahn][LINE]\n일행은, 라디슬로우를[LINE]\n뒤로 하고, 해룡에[LINE]\n탑승한다.[END]"
+        },
+        {
+            "offset": 54712,
+            "string": "[Stahn]たちは[LINE]\nラディスロウの奥で[LINE]\n[Clemente]を発見する。[LINE]\nそこへ[Philia]が合流し、[LINE]\n[Clemente]のマスターと[LINE]\nなった事で、[Philia]は[LINE]\n[Stahn]たちの[LINE]\n正式な仲間となる。[LINE]\n[END]",
+            "original_bytes_length": 141,
+            "available_bytes_size": 143,
+            "translation": "[Stahn] 일행은[LINE]\n라디슬로우의 깊은 곳에서[LINE]\n[Clemente]를 발견한다.[LINE]\n그곳에[Philia]가 합류하고,[LINE]\n[Clemente]의 마스터가 됨으로써,[LINE]\n[Philia]는[LINE]\n[Stahn] 일행의[LINE]\n정식 동료가 된다.[LINE]\n[END]"
+        },
+        {
+            "offset": 54856,
+            "string": "[Stahn]たちは、[LINE]\n[Clemente]を求めて[LINE]\n輸送艦ラディスロウの奥を[LINE]\n目指す。[LINE]\nそのころ、入り口に[LINE]\n残っていた[Philia]は、[LINE]\n自分に対して呼びかける[LINE]\n謎の声を聞く。[END]",
+            "original_bytes_length": 139,
+            "available_bytes_size": 143,
+            "translation": "[Stahn] 일행은,[LINE]\n[Clemente]를 찾기 위해[LINE]\n수송함 라디슬로우의 깊은 곳을[LINE]\n목표로 한다.[LINE]\n그때, 입구에[LINE]\n남아 있던[Philia]는,[LINE]\n자신에게 부르는[LINE]\n수수께끼의 목소리를 듣는다.[END]"
+        },
+        {
+            "offset": 55000,
+            "string": "カルバレイスへの航海の途中[LINE]\n[Stahn]たちは[LINE]\nソーディアンの提案を受け、[LINE]\n海中に沈んだ大昔の輸送艦へ[LINE]\n向かうことにする。[LINE]\nそこにソーディアンの[LINE]\n[Clemente]が安置されている[LINE]\nらしい。[END]",
+            "original_bytes_length": 164,
+            "available_bytes_size": 167,
+            "translation": "칼바레이스로의 항해 도중[LINE]\n[Stahn] 일행은[LINE]\n소디언의 제안을 받아,[LINE]\n바닷속에 가라앉은 고대의 수송함으로[LINE]\n향하기로 한다.[LINE]\n그곳에 소디언의[LINE]\n[Clemente]가 안치되어 있는[LINE]\n것 같다.[END]"
+        },
+        {
+            "offset": 55168,
+            "string": "第四のソーディアン[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "네 번째 소디언[END]"
+        },
+        {
+            "offset": 55192,
+            "string": "カルバレイスへ向かうため、[LINE]\nひとまずダリルシェイドへ[LINE]\n戻ってきた[Stahn]たち。[LINE]\nカルバレイスへ行くには、[LINE]\nダリルシェイド港から船に[LINE]\n乗らなければならない。[END]",
+            "original_bytes_length": 147,
+            "available_bytes_size": 151,
+            "translation": "칼바레이스로 가기 위해, [LINE]\n우선 다릴쉐이드로[LINE]\n돌아온 [Stahn] 일행.[LINE]\n칼바레이스에 가려면, [LINE]\n다릴쉐이드 항구에서 배에[LINE]\n타야 한다.[END]"
+        },
+        {
+            "offset": 55344,
+            "string": "神の眼は大司祭[Greybum]に[LINE]\nよって持ち去られていた。[LINE]\n[Stahn]たちは石にされて[LINE]\nいた女性司祭[Philia]を[LINE]\n救出する。そして彼女を伴い[LINE]\n[Greybum]を追ってカルバ[LINE]\nレイスへ向かう事にする。[END]",
+            "original_bytes_length": 161,
+            "available_bytes_size": 167,
+            "translation": "신의 눈은 대사제 [Greybum]에 의해[LINE]\n빼앗겨 있었다.[LINE]\n[Stahn] 일행은 돌이 된[LINE]\n여성 사제 [Philia]를[LINE]\n구출한다. 그리고 그녀를 동반하여[LINE]\n[Greybum]을 쫓아 칼바[LINE]\n레이스로 향하기로 한다.[END]"
+        },
+        {
+            "offset": 55512,
+            "string": "[Stahn]たちは大聖堂へ[LINE]\n到着する。[LINE]\n[Ayles]が仕掛けを操作し、[LINE]\n地下へ通じる隠し通路を[LINE]\n出現させる。通路の奥に、[LINE]\n神の眼が安置されている[LINE]\nらしい。[END]",
+            "original_bytes_length": 135,
+            "available_bytes_size": 135,
+            "translation": "[Stahn] 일행은 대성당에[LINE]\n도착한다.[LINE]\n[Ayles]가 장치를 조작하여,[LINE]\n지하로 통하는 숨겨진 통로를[LINE]\n생성한다. 통로의 깊은 곳에,[LINE]\n신의 눈이 안치되어 있는[LINE]\n것 같다.[END]"
+        },
+        {
+            "offset": 55648,
+            "string": "[Stahn]たちは[LINE]\n結界石を破壊し、捕らわれの[LINE]\n司教[Ayles]を救出する。[LINE]\nその後、[Stahn]たちは[LINE]\n神の眼の所在を確認すべく、[LINE]\n[Ayles]の案内で大聖堂へ[LINE]\n向かう。[END]",
+            "original_bytes_length": 139,
+            "available_bytes_size": 143,
+            "translation": "[Stahn] 일행은[LINE]\n결계석을 파괴하고, 잡혀 있는[LINE]\n주교[Ayles]를 구출한다.[LINE]\n그 후, [Stahn] 일행은[LINE]\n신의 눈의 위치를 확인하기 위해,[LINE]\n[Ayles]의 안내로 대성당으로[LINE]\n향한다.[END]"
+        },
+        {
+            "offset": 55792,
+            "string": "神殿の中へ突入した[LINE]\n[Stahn]たちは、部屋の中に[LINE]\n閉じ込められた人を発見[LINE]\nする。部屋の扉は結界石で[LINE]\n封印されていた。解除する[LINE]\nには、周辺に設置された[LINE]\n結界石を全て破壊しなければ[LINE]\nならない。[LINE]\n[END]",
+            "original_bytes_length": 178,
+            "available_bytes_size": 183,
+            "translation": "신전 안으로 돌입한[LINE]\n[Stahn] 일행은, 방 안에[LINE]\n갇혀 있는 사람을 발견[LINE]\n한다. 방의 문은 결계석으로[LINE]\n봉인되어 있었다. 해제하려면,[LINE]\n주변에 설치된[LINE]\n결계석을 모두 파괴해야[LINE]\n한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 55976,
+            "string": "[Stahn]たちは[LINE]\nストレイライズ神殿に到着[LINE]\nする。だがそこには人影が[LINE]\nなく、静まり返っていた。[LINE]\n何かあったのだろうか？[LINE]\n[END]",
+            "original_bytes_length": 111,
+            "available_bytes_size": 111,
+            "translation": "[Stahn] 일행은[LINE]\n스트레이라이즈 신전에 도착[LINE]\n한다. 하지만 그곳에는 사람의 그림자가[LINE]\n없고, 고요하게 잠잠해 있었다.[LINE]\n무슨 일이 있었던 걸까?[LINE]\n[END]"
+        },
+        {
+            "offset": 56088,
+            "string": "静寂にたたずむ神殿[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "고요히 자리 잡은 신전[END]"
+        },
+        {
+            "offset": 56112,
+            "string": "ダリルシェイドを後にした[LINE]\n[Stahn]たちは、[LINE]\n北にあるストレイライズ神殿[LINE]\nを目指す。[LINE]\n[END]",
+            "original_bytes_length": 78,
+            "available_bytes_size": 79,
+            "translation": "다릴쉐이드를 뒤로 한 [LINE]\n[Stahn] 일행은, [LINE]\n북쪽에 있는 스트레이라イズ 신전[LINE]\n을 목표로 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 56192,
+            "string": "[Stahn]たちは[LINE]\nオベロン社総帥の[Hugo]と[LINE]\n会い、ソーディアンを返して[LINE]\nもらう。そして気持ちも[LINE]\n新たに、神の眼の無事を確認[LINE]\nするべく、ストレイライズ[LINE]\n神殿を目指すことにする。[END]",
+            "original_bytes_length": 163,
+            "available_bytes_size": 167,
+            "translation": "[Stahn] 일행은[LINE]\n오베론 사 총수인 [Hugo]와[LINE]\n 만나, 소디언을 돌려받고[LINE]\n도움을 받는다. 그리고 마음을[LINE]\n다시 새롭게 하여, 신의 눈의 무사함을 확인[LINE]\n하기 위해, 스트레이라이즈[LINE]\n신전을 목표로 하기로 한다.[END]"
+        },
+        {
+            "offset": 56360,
+            "string": "罪人として王都に護送された[LINE]\n[Stahn]たちだったが、[LINE]\n[Lion]の指揮の下、[LINE]\nストレイライズ神殿へ調査に[LINE]\n行くことになる。まずは没収[LINE]\nされたソーディアンを返却[LINE]\nしてもらうべく、[Hugo]邸[LINE]\nへ向かうことにする。[END]",
+            "original_bytes_length": 189,
+            "available_bytes_size": 191,
+            "translation": "죄인으로 왕도에 호송된[LINE]\n[Stahn] 일행이었지만,[LINE]\n[Lion]의 지휘 아래,[LINE]\n스트레이라이즈 신전으로 조사하러[LINE]\n가게 된다. 우선 압수[LINE]\n된 소디언을 반환받기 위해,[Hugo] 저택[LINE]\n으로 향하기로 한다.[END]"
+        },
+        {
+            "offset": 56552,
+            "string": "王都ダリルシェイド[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "왕도 다릴쉐이드[END]"
+        },
+        {
+            "offset": 56576,
+            "string": "[Stahn]たちを[LINE]\n取り囲んだのは、[LINE]\nセインガルドの兵士だった。[LINE]\n[Stahn]たちは兵士を[LINE]\n率いていたひとりの少年剣士[LINE]\nと対峙する。その剣士は、[LINE]\n自らを[Lion]・[LINE]\nマグナスと名乗る。[END]",
+            "original_bytes_length": 159,
+            "available_bytes_size": 159,
+            "translation": "[Stahn] 일행을[LINE] 둘러싼 것은,[LINE] 세인갈드의 병사였다.[LINE] [Stahn] 일행은 병사를[LINE] 이끌고 있던 한 소년 검士[LINE]와 대치한다. 그 검사는,[LINE] 스스로를 [Lion]·[LINE] 매그너스라 명명한다.[END]"
+        },
+        {
+            "offset": 56736,
+            "string": "[Rutee]は[Walt]に[LINE]\n神殿で手に入れた宝を[LINE]\n高値で売りつける。[LINE]\nその夜、[Stahn]たちは[LINE]\n[Walt]の盛大な歓待を[LINE]\n受けるが、翌朝になると[LINE]\nなぜか敵に取り囲まれて[LINE]\nいた。脱出しなければ！[END]",
+            "original_bytes_length": 164,
+            "available_bytes_size": 167,
+            "translation": "[Rutee]는[Walt]에게[LINE] 신전에서 손에 넣은 보물을[LINE] 높은 가격에 팔아넘긴다.[LINE] 그날 밤,[Stahn] 일행은[LINE] [Walt]의 성대한 환대를[LINE] 받지만, 다음 아침이 되자[LINE] 이유도 없이 적에게 둘러싸여[LINE] 있었다. 탈출해야 해![END]"
+        },
+        {
+            "offset": 56904,
+            "string": "[Walt]の屋敷に到着した[LINE]\n[Stahn]たち。[LINE]\n[Rutee]が[Walt]の[LINE]\nボディガードに来意を[LINE]\n告げると、[Walt]から[LINE]\n二階へ来るよう言われる。[LINE]\n[END]",
+            "original_bytes_length": 116,
+            "available_bytes_size": 119,
+            "translation": "[Walt]의 저택에 도착한[LINE] [Stahn] 일행.[LINE] [Rutee]가[Walt]의[LINE] 경호원에게 의도를[LINE] 알리자,[Walt]에게서[LINE] 2층으로 오라는 말을 듣는다.[LINE] [END]"
+        },
+        {
+            "offset": 57024,
+            "string": "[Stahn]たちは[LINE]\nハーメンツの村に到着する。[LINE]\n[Rutee]は村の住人から[LINE]\n[Walt]という人物の居場所[LINE]\nを聞き出す。[LINE]\n[Walt]は村で一番の[LINE]\n屋敷に住んでいるらしい。[END]",
+            "original_bytes_length": 139,
+            "available_bytes_size": 143,
+            "translation": "[Stahn] 일행은[LINE] 하메멘츠 마을에 도착한다.[LINE] [Rutee]는 마을 주민에게서[LINE] [Walt]라는 인물의 위치[LINE]를 알아낸다.[LINE] [Walt]는 마을에서 가장 큰[LINE] 저택에 살고 있는 것 같다.[END]"
+        },
+        {
+            "offset": 57168,
+            "string": "王国の少年剣士[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "왕국의 소년 검객[END]"
+        },
+        {
+            "offset": 57184,
+            "string": "漆黒の翼と名乗る[LINE]\nおかしな三人組と出会った後、[LINE]\nジェノスを後にした[LINE]\n[Stahn]たちは、[LINE]\nセインガルドにある[LINE]\nハーメンツの村へ向かう。[LINE]\n[Rutee]たちが、[LINE]\n村に用があるらしい。[LINE]\n[END]",
+            "original_bytes_length": 159,
+            "available_bytes_size": 159,
+            "translation": "칠흑의 날개라고 불리는[LINE]\n이상한 삼인조와 만난 후,[LINE]\n제노스를 뒤로한[LINE]\n[Stahn] 일행은,[LINE]\n세인갈드에 있는[LINE]\n하멘츠의 마을로 향한다.[LINE]\n[Rutee] 일행이,[LINE]\n마을에 용무가 있는 것 같다.[LINE]\n[END]"
+        },
+        {
+            "offset": 57344,
+            "string": "[Stahn]は[Rutee]たちに[LINE]\n護衛役になる事を依頼され、[LINE]\n承諾する。[LINE]\n翌日、セインガルドへ向かうため、[LINE]\n一行は北の門を目指す。[LINE]\n[END]",
+            "original_bytes_length": 114,
+            "available_bytes_size": 119,
+            "translation": "[Stahn]은[Rutee] 일행에게[LINE]\n호위 역할을 맡아달라는 요청을 받고,[LINE]\n승낙한다.[LINE]\n다음 날, 세인갈드로 향하기 위해,[LINE]\n일행은 북쪽 문을 목표로 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 57464,
+            "string": "ジェノスへ戻った[LINE]\n[Stahn]は、[LINE]\n[Rutee]たちに誘われ、[LINE]\n街の酒場へと向かう。[END]",
+            "original_bytes_length": 68,
+            "available_bytes_size": 71,
+            "translation": "제노스로 돌아온[LINE]\n[Stahn]은,[LINE]\n[Rutee] 일행에게 초대받아,[LINE]\n마을의 술집으로 향한다.[END]"
+        },
+        {
+            "offset": 57536,
+            "string": "神殿を出たところで、[LINE]\n[Stahn]たちは[LINE]\n兵士の一団に囲まれてしまう。[LINE]\n[Rutee]に言われるがまま[LINE]\n[Stahn]は戦い、[LINE]\n兵士を追い返す。[LINE]\n三人は改めて、ジェノスに向け[LINE]\n歩き始める。[LINE]\n[END]",
+            "original_bytes_length": 158,
+            "available_bytes_size": 159,
+            "translation": "신전에서 나왔을 때,[LINE]\n[Stahn] 일행은[LINE]\n병사 무리에 둘러싸이게 된다.[LINE]\n[Rutee]의 말대로[LINE]\n[Stahn]은 싸우고,[LINE]\n병사들을 쫓아낸다.[LINE]\n세 사람은 다시 제노스를 향해[LINE]\n걷기 시작한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 57696,
+            "string": "[Stahn]が助けに来た[LINE]\n[Mary]の仲間とは、[LINE]\n飛行竜で出会った少女、[LINE]\n[Rutee]だった。[LINE]\n無事に[Rutee]を助けた[LINE]\n[Stahn]たちは[LINE]\nジェノスへ戻る事にする。[END]",
+            "original_bytes_length": 130,
+            "available_bytes_size": 135,
+            "translation": "[Stahn]가 도움을 주러 온[LINE]\n[Mary]의 동료는,[LINE]\n비행룡에서 만난 소녀,[LINE]\n[Rutee]였다.[LINE]\n무사히[Rutee]를 구한[LINE]\n[Stahn] 일행은[LINE]\n제노스로 돌아가기로 한다.[END]"
+        },
+        {
+            "offset": 57832,
+            "string": "[Stahn]は洞窟を抜け、[LINE]\n神殿の中へと足を踏み入れる。[LINE]\n[Mary]の話によれば、[LINE]\nこの奥に仲間がいるらしい。[END]",
+            "original_bytes_length": 96,
+            "available_bytes_size": 96,
+            "translation": "[Stahn]은 동굴을 지나,[LINE]\n신전 안으로 발을 내딛는다.[LINE]\n[Mary]의 말에 따르면,[LINE]\n이 안쪽에 동료가 있는 것 같다.[END]"
+        },
+        {
+            "offset": 57928,
+            "string": "神殿にて[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "신전에서[END]"
+        },
+        {
+            "offset": 57944,
+            "string": "神殿へ向かう道すがら、[LINE]\n[Stahn]は[Mary]が[LINE]\n記憶喪失であることを[LINE]\n打ち明けられる。[LINE]\n彼女の持つ短剣には、[LINE]\nＤ．Ｖのイニシャルが[LINE]\n彫ってあった。[END]",
+            "original_bytes_length": 133,
+            "available_bytes_size": 135,
+            "translation": "신전으로 향하는 길에서,[LINE]\n[Stahn]은[Mary]가[LINE]\n기억 상실증이라는 것을[LINE]\n털어놓는다.[LINE]\n그녀가 가진 단검에는,[LINE]\nＤ．Ｖ의 이니셜이[LINE]\n새겨져 있었다.[END]"
+        },
+        {
+            "offset": 58080,
+            "string": "雪の記憶[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "눈의 기억[END]"
+        },
+        {
+            "offset": 58096,
+            "string": "通行証がないため[LINE]\n門を通れずにいた[Stahn]は、[LINE]\n[Mary]と名乗る女性に出会う。[LINE]\n彼女の仲間が街近くの[LINE]\n神殿で罠にかかったことを[LINE]\n聞いた[Stahn]は、[LINE]\n[Mary]と共に救援に赴く。[END]",
+            "original_bytes_length": 157,
+            "available_bytes_size": 159,
+            "translation": "통행증이 없기 때문에[LINE]\n문을 통과하지 못하고 있던[Stahn]은,[LINE]\n[Mary]라고 명명된 여성과 만난다.[LINE]\n그녀의 동료가 도시 근처의[LINE]\n신전에서 함정에 걸렸다는 이야기를[LINE]\n듣고[Stahn]은,[LINE]\n[Mary]와 함께 구출에 나선다.[END]"
+        },
+        {
+            "offset": 58256,
+            "string": "ジェノスへ着いた[LINE]\n[Stahn]は[Woodrow]と別れ、[LINE]\nセインガルドへと続く[LINE]\n北の門を目指す。[END]",
+            "original_bytes_length": 76,
+            "available_bytes_size": 79,
+            "translation": "[ジェノス]에 도착한[LINE]\n[Stahn]은[Woodrow]와 헤어지고,[LINE]\n세인갈드로 이어지는[LINE]\n북쪽 문을 목표로 한다.[END]"
+        },
+        {
+            "offset": 58336,
+            "string": "国境の街[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "국경의 도시[END]"
+        },
+        {
+            "offset": 58352,
+            "string": "[Alba]と[Woodrow]の[LINE]\n会話の様子が気になり[LINE]\n親の仕事を継ぎたくないのか？と[LINE]\n質問する[Stahn]。[LINE]\nその問いに[Woodrow]は、[LINE]\n自分に継げるほどの資格が[LINE]\nあるのか疑問だ、と答える。[END]",
+            "original_bytes_length": 155,
+            "available_bytes_size": 159,
+            "translation": "[Alba]와 [Woodrow]의[LINE]\n대화의 모습이 궁금해[LINE]\n부모의 일을 이어받고 싶지 않은 건가? 하고[LINE]\n질문하는[Stahn].[LINE]\n그 질문에[Woodrow]는,[LINE]\n자신이 이어받을 자격이[LINE]\n있는지 의문이라고 대답한다.[END]"
+        },
+        {
+            "offset": 58512,
+            "string": "セインガルドの兵士になるため、[LINE]\n故郷を出たと話す[Stahn]。[LINE]\n[Woodrow]は国許へ戻る[LINE]\nついでと言い、セインガルドとの[LINE]\n国境の街ジェノスまでの道案内を[LINE]\n申し入れる。[LINE]\nふたりは[Alba]らに別れを告げ、[LINE]\nジェノスへ向け出発する。[END]",
+            "original_bytes_length": 203,
+            "available_bytes_size": 207,
+            "translation": "세인갈드의 병사가 되기 위해,[LINE]\n고향을 떠났다고 이야기하는[Stahn].[LINE]\n[Woodrow]는 고향으로 돌아가는[LINE]\n김에 세인갈드와의[LINE]\n국경 도시 제노스까지의 길 안내를[LINE]\n제안한다.[LINE]\n두 사람은[Alba]에게 작별을 고하고,[LINE]\n제노스로 향해 출발한다.[END]"
+        },
+        {
+            "offset": 58720,
+            "string": "山小屋へと戻ってきた[LINE]\n[Stahn]たちを、[LINE]\n[Alba]が出迎える。[LINE]\n[Stahn]は[Woodrow]に[LINE]\n促され、山小屋の中へと入る。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "산장으로 돌아온[LINE]\n[Stahn] 일행을,[LINE]\n[Alba]가 맞이한다.[LINE]\n[Stahn]은[Woodrow]의 권유로[LINE]\n산장 안으로 들어간다.[END]"
+        },
+        {
+            "offset": 58824,
+            "string": "裏山で[Chelsea]を[LINE]\n見つけた[Stahn]たちは、[LINE]\n[Alba]の待つ山小屋に戻る。[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "뒷산에서[Chelsea]를[LINE]\n발견한[Stahn] 일행은,[LINE]\n[Alba]가 기다리는 산장으로 돌아간다.[LINE]\n[END]"
+        },
+        {
+            "offset": 58888,
+            "string": "迷い子[Chelsea][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "길을 잃은 아이[Chelsea][END]"
+        },
+        {
+            "offset": 58904,
+            "string": "飛行竜からの脱出に成功し、[LINE]\n自らをソーディアンと呼ぶ[LINE]\nもの言う剣、[Dymlos]と[LINE]\n契約した[Stahn]。[LINE]\n助けてもらった恩返しに、[LINE]\n[Woodrow]と共に[LINE]\n小屋の裏山にいるという[LINE]\n少女[Chelsea]を探す。[END]",
+            "original_bytes_length": 166,
+            "available_bytes_size": 167,
+            "translation": "비행룡에서 탈출에 성공하고,[LINE] 스스로를 소디언이라 부르는[LINE] 말을 하는 검, [Dymlos]와[LINE] 계약한[Stahn].[LINE] 도움을 받은 보답으로,[LINE] [Woodrow]와 함께[LINE] 작은 집의 뒷산에 있다고 하는[LINE] 소녀[Chelsea]를 찾는다.[END]"
+        },
+        {
+            "offset": 59072,
+            "string": "山小屋[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "산 작은 집[END]"
+        },
+        {
+            "offset": 59080,
+            "string": "船倉を出た[Stahn]は、[LINE]\n[Rutee]と呼ばれる[LINE]\nひとりの少女に出会う。[LINE]\n彼女の仲間の話で、[LINE]\n飛行竜の墜落を知った[LINE]\n[Stahn]は脱出する術を探す。[LINE]\n急がないと時間がない！[END]",
+            "original_bytes_length": 148,
+            "available_bytes_size": 151,
+            "translation": "[Stahn]은 배 창고를 나와서,[LINE] [Rutee]라고 불리는[LINE] 한 소녀를 만난다.[LINE] 그녀의 동료의 이야기로,[LINE] 비행룡의 추락을 알게 된[LINE] [Stahn]은 탈출할 방법을 찾는다.[LINE] 서두르지 않으면 시간이 없다![END]"
+        },
+        {
+            "offset": 59232,
+            "string": "[Stahn]は飛行竜の倉庫で[LINE]\n不思議な形をした剣を[LINE]\n手に入れる。[LINE]\nその剣を使いモンスターを[LINE]\n退けたのも束の間。[LINE]\n飛行竜が激しく揺れる。[LINE]\n[Stahn]は船倉を出て、[LINE]\n飛行竜の状況を確認しようとする。[END]",
+            "original_bytes_length": 176,
+            "available_bytes_size": 176,
+            "translation": "[Stahn]은 비행룡의 창고에서[LINE] 신비로운 형태의 검을[LINE] 손에 넣는다.[LINE] 그 검을 사용해 몬스터를[LINE] 물리친 것도 잠시.[LINE] 비행룡이 격렬하게 흔들린다.[LINE] [Stahn]은 배 창고를 나와,[LINE] 비행룡의 상황을 확인하려 한다.[END]"
+        },
+        {
+            "offset": 59408,
+            "string": "モンスターに追い詰められ[LINE]\n船倉に逃げ込んだ[Stahn]は、[LINE]\nどこからか自分に[LINE]\n語りかける声を聞く。[LINE]\n[Stahn]は導かれるように、[LINE]\n声の主を探す。[END]",
+            "original_bytes_length": 128,
+            "available_bytes_size": 128,
+            "translation": "몬스터에게 몰리다[LINE] 배 창고로 도망친[Stahn]은,[LINE] 어디선가 자신에게[LINE] 이야기를 건네는 목소리를 듣는다.[LINE] [Stahn]은 이끌리듯,[LINE] 목소리의 주인을 찾는다.[END]"
+        },
+        {
+            "offset": 59536,
+            "string": "飛行竜でセインガルドへ[LINE]\n密航しようとした[Stahn]。[LINE]\n飛行竜はモンスターの[LINE]\n襲撃にあってしまう。[LINE]\n[Stahn]はモンスターと[LINE]\n戦うために武器を探す。[END]",
+            "original_bytes_length": 132,
+            "available_bytes_size": 135,
+            "translation": "비행룡을 타고 세인가르드로[LINE] 밀항하려던[Stahn].[LINE] 비행룡은 몬스터의[LINE] 습격을 받게 된다.[LINE] [Stahn]은 몬스터와[LINE] 싸우기 위해 무기를 찾는다.[END]"
+        },
+        {
+            "offset": 59672,
+            "string": "もの言う剣[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "말하는 검[END]"
+        },
+        {
+            "offset": 59688,
+            "string": "[Hugo]の圧倒的な力の前に[LINE]\n敗れ去った[Lion]は、[LINE]\n己の無力さを嘆く。[LINE]\n[Marian]を救うために[LINE]\n残された道は、[LINE]\n命を賭け[Stahn]たちと[LINE]\n戦う事だけであった。[END]",
+            "original_bytes_length": 137,
+            "available_bytes_size": 143,
+            "translation": "[Hugo]의 압도적인 힘 앞에[LINE] 패배한 [Lion]은,[LINE] 자신의 무력함을 한탄한다.[LINE] [Marian]을 구하기 위해[LINE] 남겨진 길은,[LINE] 목숨을 걸고 [Stahn] 일행과[LINE] 싸우는 것뿐이었다.[END]"
+        },
+        {
+            "offset": 59832,
+            "string": "[Hugo]の目的は神の眼だった。[LINE]\n神の眼を封印した施設へと[LINE]\n針路を取る飛行竜。[LINE]\n[Hugo]に言われるがまま、[LINE]\n[Lion]は神の眼を奪うため、[LINE]\n施設地下へと下りていく。[END]",
+            "original_bytes_length": 147,
+            "available_bytes_size": 151,
+            "translation": "[Hugo]의 목적은 신의 눈이었다.[LINE] 신의 눈을 봉인한 시설로[LINE] 항로를 잡는 비행룡.[LINE] [Hugo]의 말대로,[LINE] [Lion]은 신의 눈을 빼앗기 위해,[LINE] 시설 지하로 내려간다.[END]"
+        },
+        {
+            "offset": 59984,
+            "string": "ただひとりのために…[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "오직 한 사람을 위해…[END]"
+        },
+        {
+            "offset": 60008,
+            "string": "飛行竜に潜入する[Lion]。[LINE]\n警備をしていたのは、[LINE]\n[Lion]が隊長に選んだ[LINE]\n兵士だった。[LINE]\n[Lion]は無念の思いで[LINE]\nその兵士を切り伏せ、[LINE]\n飛行竜の艦橋へと[LINE]\n入っていく。[END]",
+            "original_bytes_length": 149,
+            "available_bytes_size": 151,
+            "translation": "비행룡에 잠입하는[Lion]。[LINE]\n경비를 서고 있던 것은, [LINE]\n[Lion]이 대장으로 선택한[LINE]\n병사였다.[LINE]\n[Lion]은 무연의 마음으로[LINE]\n그 병사를 베어 넘기고,[LINE]\n비행룡의 함교로[LINE]\n들어간다.[END]"
+        },
+        {
+            "offset": 60160,
+            "string": "屋敷に戻ると、[Marian]や[LINE]\n他の使用人たちの姿が見えない。[LINE]\n[Marian]を探していると[LINE]\nそこに薄気味悪い仮面を[LINE]\n被った[Hugo]が現れ、[LINE]\n[Lion]に飛行竜を盗めと[LINE]\n強要する。[Marian]を人質に[LINE]\n取られた[Lion]はそれに従う。[END]",
+            "original_bytes_length": 190,
+            "available_bytes_size": 191,
+            "translation": "저택에 돌아가니, [Marian]과[LINE]\n다른 하인들의 모습이 보이지 않는다.[LINE]\n[Marian]을 찾고 있을 때[LINE]\n그곳에 섬뜩한 가면을[LINE]\n쓴[Hugo]가 나타나,[LINE]\n[Lion]에게 비행룡을 훔치라고[LINE]\n강요한다.[Marian]이 인질로[LINE]\n잡힌[Lion]은 그에 따르게 된다.[END]"
+        },
+        {
+            "offset": 60352,
+            "string": "破られた幸福[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "깨진 행복[END]"
+        },
+        {
+            "offset": 60368,
+            "string": "ダリルシェイドに到着すると、[LINE]\nすでに日は落ちていた。[LINE]\n[Lion]は調査結果を[LINE]\n[Dryden]に報告すると、[LINE]\n急いで屋敷に帰る。[END]",
+            "original_bytes_length": 109,
+            "available_bytes_size": 111,
+            "translation": "다릴쉐이드에 도착하자,[LINE]\n이미 해가 지고 있었다.[LINE]\n[Lion]은 조사 결과를[LINE]\n[Dryden]에게 보고한 후,[LINE]\n서둘러 저택으로 돌아간다.[END]"
+        },
+        {
+            "offset": 60480,
+            "string": "[Lion]は次々と海から[LINE]\n現れる正体不明モンスターと戦う。[LINE]\n厳しい戦いであったが、[LINE]\n[Lion]は付近にいた[LINE]\nモンスターを一掃する。[LINE]\n戦いを終えた[Lion]は、[LINE]\n報告の為、城へ戻る。[END]",
+            "original_bytes_length": 160,
+            "available_bytes_size": 160,
+            "translation": "[Lion]은 바다에서 계속해서[LINE]\n정체불명의 몬스터와 싸운다.[LINE]\n힘든 전투였지만,[LINE]\n[Lion]은 근처에 있던[LINE]\n몬스터를 일소한다.[LINE]\n전투를 마친[Lion]은,[LINE]\n보고를 위해 성으로 돌아간다.[END]"
+        },
+        {
+            "offset": 60640,
+            "string": "孤児院に到着する[Lion]。[LINE]\nしかし、兵士に報告を[LINE]\n強要した娘は不在だった。[LINE]\n孤児院の子供の話では、[LINE]\nモンスターは街の北の砂浜に[LINE]\n現れたという。どうやら[LINE]\nその場所から海の向こうに[LINE]\n古ぼけた建物が見えたらしい。[END]",
+            "original_bytes_length": 197,
+            "available_bytes_size": 199,
+            "translation": "고아원에 도착한[Lion].[LINE]\n하지만, 병사에게 보고를[LINE]\n강요당한 소녀는 부재했다.[LINE]\n고아원의 아이들 이야기에 따르면,[LINE]\n몬스터는 마을 북쪽의 모래사장에[LINE]\n출현했다고 한다. 어떻게 보면[LINE]\n그 장소에서 바다 너머로[LINE]\n낡은 건물이 보였던 것 같다.[END]"
+        },
+        {
+            "offset": 60840,
+            "string": "クレスタで正体不明の[LINE]\nモンスターの報告をしてきた[LINE]\n兵士を見つける[Lion]。[LINE]\n兵士の話によると、[LINE]\nモンスターの存在は事実だが[LINE]\n報告をさせたのは、この街の[LINE]\n孤児院の娘らしい。[LINE]\n[Lion]は孤児院を探す。[END]",
+            "original_bytes_length": 184,
+            "available_bytes_size": 184,
+            "translation": "크레스타에서 정체 불명의[LINE]\n몬스터에 대한 보고를 하고 온[LINE]\n병사를 찾는다[Lion].[LINE]\n병사의 이야기로는,[LINE]\n몬스터의 존재는 사실이지만[LINE]\n보고를 하게 한 것은, 이 도시의[LINE]\n고아원 딸인 것 같다.[LINE]\n[Lion]은 고아원을 찾는다.[END]"
+        },
+        {
+            "offset": 61024,
+            "string": "正体不明モンスター[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "정체 불명의 몬스터[END]"
+        },
+        {
+            "offset": 61048,
+            "string": "クレスタから正体不明[LINE]\nモンスターが出現したとの[LINE]\n報告が入った。[LINE]\n[Lion]はクレスタまで、[LINE]\nその調査ならびに哨戒の[LINE]\n任務へと向かう。[END]",
+            "original_bytes_length": 123,
+            "available_bytes_size": 127,
+            "translation": "크레스타에서 정체불명의[LINE]\n몬스터가 출현했다는[LINE]\n보고가 들어왔다.[LINE]\n[Lion]은 크레스타까지,[LINE]\n그 조사 및 정찰의[LINE]\n임무로 향한다.[END]"
+        },
+        {
+            "offset": 61176,
+            "string": "[Marian]が料理長に代わって、[LINE]\n食材の買出しに出かける。[LINE]\nそれに付き合う[Lion]。[LINE]\n買い物を終え、港で休むふたり。[LINE]\n[Marian]は[Lion]が、[LINE]\n立派な大人に成長した事を喜び、[LINE]\nけじめとして、今後エミリオと[LINE]\n呼ばない事を伝える。[END]",
+            "original_bytes_length": 202,
+            "available_bytes_size": 207,
+            "translation": "[Marian]이 요리장 대신,[LINE]\n식재료를 사러 나간다.[LINE]\n그에 동행하는[Lion].[LINE]\n쇼핑을 마치고, 항구에서 쉬는 두 사람.[LINE]\n[Marian]은[Lion]이,[LINE]\n훌륭한 어른으로 성장한 것을 기뻐하며,[LINE]\n결단으로, 앞으로 에미리오라고[LINE]\n부르지 않겠다고 전한다.[END]"
+        },
+        {
+            "offset": 61384,
+            "string": "ふたりの時間[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "둘의 시간[END]"
+        },
+        {
+            "offset": 61400,
+            "string": "城に戻った[Lion]は[LINE]\nふたりの兵士のうち、どちらが[LINE]\nより隊長に相応しいかを[LINE]\n決断する。[LINE]\n[Lion]は護衛と査定の任務を[LINE]\n終え、屋敷に帰る。[END]",
+            "original_bytes_length": 126,
+            "available_bytes_size": 127,
+            "translation": "성으로 돌아온[Lion]은[LINE]\n두 명의 병사 중, 어느 쪽이[LINE]\n더욱 대장에 적합한지를[LINE]\n결단한다.[LINE]\n[Lion]은 호위와 평가의 임무를[LINE]\n마치고, 저택으로 돌아간다.[END]"
+        },
+        {
+            "offset": 61528,
+            "string": "森で司教とふたりの兵士に[LINE]\n追いつく[Lion]。[LINE]\nその時、モンスターが現れる。[LINE]\nふたりの兵士は司教を連れ、[LINE]\nその場を離脱する。[LINE]\n[Lion]はモンスターを倒すと[LINE]\nストレイライズ神殿まで[LINE]\n任務を見届けに行く。[END]",
+            "original_bytes_length": 186,
+            "available_bytes_size": 191,
+            "translation": "숲에서 주교와 두 명의 병사에게[LINE]\n[Lion]이 따라잡는다.[LINE]\n그때, 몬스터가 나타난다.[LINE]\n두 명의 병사는 주교를 데리고,[LINE]\n그 자리를 떠난다.[LINE]\n[Lion]은 몬스터를 처치한 후[LINE]\n스트레이라이즈 신전까지[LINE]\n임무를 확인하러 간다.[END]"
+        },
+        {
+            "offset": 61720,
+            "string": "ハーメンツの村に着くと、[LINE]\n司教の弟子が旅の疲れで[LINE]\n倒れてしまっていた。[LINE]\n[Lion]は[Walt]に[LINE]\nその世話を任せ、ふたりの[LINE]\n兵士に司教を一刻も早く[LINE]\nストレイライズ神殿に連れて[LINE]\n行くよう、促す。[END]",
+            "original_bytes_length": 176,
+            "available_bytes_size": 176,
+            "translation": "하메인츠의 마을에 도착하자,[LINE]\n주교의 제자가 여행의 피로로[LINE]\n倒れてしまっていた.[LINE]\n[Lion]은[Walt]에게[LINE]\n그 돌보기를 맡기고, 두 명의[LINE]\n병사에게 주교를 한시라도 빨리[LINE]\n스트레이라이즈 신전으로 데려가도록[LINE]\n촉구한다.[END]"
+        },
+        {
+            "offset": 61896,
+            "string": "司教をストレイライズ神殿まで[LINE]\n護衛する任務を言い渡される[LINE]\n[Lion]。しかし、同時に[LINE]\n若いふたりの兵士の[LINE]\n査定を任される。[LINE]\n任務を終えた時に、どちらの[LINE]\n兵士がより隊長に相応しいのか[LINE]\n選ばなくてはならない。[END]",
+            "original_bytes_length": 193,
+            "available_bytes_size": 199,
+            "translation": "주교를 스트레이라이즈 신전까지[LINE]\n호위하는 임무를 부여받는다[LINE]\n[Lion]。하지만, 동시에[LINE]\n젊은 두 병사의[LINE]\n평가를 맡게 된다.[LINE]\n임무를 마쳤을 때, 어느 쪽의[LINE]\n병사가 더 대장에 적합한지[LINE]\n선택해야 한다.[END]"
+        },
+        {
+            "offset": 62096,
+            "string": "[Stahn]たちとの旅を[LINE]\n終えた[Lion]は、[LINE]\n以前の生活に戻っていた。[LINE]\n客員剣士としての任務を[LINE]\n為すため、その日も登城する。[END]",
+            "original_bytes_length": 111,
+            "available_bytes_size": 111,
+            "translation": "[Stahn] 일행과의 여행을[LINE]\n끝낸 [Lion]은,[LINE]\n이전의 생활로 돌아가고 있었다.[LINE]\n객원 검士로서의 임무를[LINE]\n수행하기 위해, 그날도 성에 오르다.[END]"
+        },
+        {
+            "offset": 62208,
+            "string": "ふたりの兵士[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "두 명의 병사[END]"
+        },
+        {
+            "offset": 62224,
+            "string": "[Greybum]を倒して神の眼を[LINE]\n取り戻した[Lion]たちは、[LINE]\nセインガルドへ帰還する。[LINE]\n任務が終わり、仲間たちは[LINE]\nそれぞれ自分の帰るべき[LINE]\n場所に戻っていく。[LINE]\nそして[Lion]も[Marian]の[LINE]\nいる屋敷へ向かって歩いていく。[END]",
+            "original_bytes_length": 190,
+            "available_bytes_size": 191,
+            "translation": "[Greybum]을倒하고 신의 눈을[LINE]\n되찾은[Lion] 일행은,[LINE]\n세인갈드로 귀환한다.[LINE]\n임무가 끝나고, 동료들은[LINE]\n각자 자신이 돌아가야 할[LINE]\n곳으로 돌아간다.[LINE]\n그리고[Lion]도[Marian]이[LINE]\n있는 저택으로 향해 걸어간다.[END]"
+        },
+        {
+            "offset": 62416,
+            "string": "[Lion]たちは一路、[LINE]\n時計塔を目指す。[LINE]\n全ての決着をつけるために。[LINE]\n[Greybum]まではあと少しだ！[END]",
+            "original_bytes_length": 86,
+            "available_bytes_size": 87,
+            "translation": "[Lion] 일행은一路,[LINE]\n시계탑을 목표로 간다.[LINE]\n모든 결말을 짓기 위해.[LINE]\n[Greybum]까지는 이제 조금이다![END]"
+        },
+        {
+            "offset": 62504,
+            "string": "[Lion]たちは[Dalis]と[LINE]\n再会し、刃を交える。[LINE]\n戦いの後、[Woodrow]は[LINE]\n[Dalis]に城を落ち延びるよう[LINE]\n告げる。[Mary]も[LINE]\n[Dalis]と行動を共にする事に[LINE]\nなった。[LINE]\n残るは[Greybum]だけだ。[END]",
+            "original_bytes_length": 155,
+            "available_bytes_size": 159,
+            "translation": "[Lion] 일행은[Dalis]와[LINE]\n재회하고, 칼을 교환한다.[LINE]\n전투 후, [Woodrow]는[LINE]\n[Dalis]에게 성으로 도망치라고[LINE]\n전한다.[Mary]도[LINE]\n[Dalis]와 함께 행동하기로[LINE]\n결정했다.[LINE]\n남은 것은[Greybum]뿐이다.[END]"
+        },
+        {
+            "offset": 62664,
+            "string": "[Greybum]は[Dalis]と共に、[LINE]\n城の時計塔にいるらしい。[LINE]\nそれぞれが胸の内に複雑な[LINE]\n思いを秘めつつ、[LINE]\n[Lion]たちは城を目指す。[LINE]\n果たして一行を待ち受けて[LINE]\nいるものは……？[END]",
+            "original_bytes_length": 154,
+            "available_bytes_size": 159,
+            "translation": "[Greybum]은[Dalis]와 함께,[LINE]\n성의 시계탑에 있는 것 같다.[LINE]\n각자가 마음속에 복잡한[LINE]\n생각을 숨기며,[LINE]\n[Lion] 일행은 성을 향해 나아간다.[LINE]\n果たして 일행을 기다리고 있는 것은……？[END]"
+        },
+        {
+            "offset": 62824,
+            "string": "城へと続く非常通路で、[LINE]\n先を行った[Stahn]が何者かに[LINE]\n襲われる。[LINE]\nその正体はファンダリアの[LINE]\n重臣のひとり、[Darzen]だった。[LINE]\n[Lion]たちは彼から、[LINE]\n詳しい話を聞く事にする。[END]",
+            "original_bytes_length": 158,
+            "available_bytes_size": 159,
+            "translation": "성으로 이어지는 비상 통로에서,[LINE]\n앞서 간[Stahn]이 누군가에게[LINE]\n습격당한다.[LINE]\n그 정체는 팬더리아의[LINE]\n중신 중 한 명, [Darzen]이었다.[LINE]\n[Lion] 일행은 그에게서,[LINE]\n자세한 이야기를 듣기로 한다.[END]"
+        },
+        {
+            "offset": 62984,
+            "string": "[Lion]たちは[LINE]\nハイデルベルグに到着する。[LINE]\n街は喪に服しているかの[LINE]\nように静まり返っていた。[LINE]\n一行は非常通路を用いて、[LINE]\n城に潜入する事にする。[END]",
+            "original_bytes_length": 135,
+            "available_bytes_size": 135,
+            "translation": "[Lion] 일행은[LINE]\n하이델베르크에 도착한다.[LINE]\n도시는 장례를 치르는 듯[LINE]\n조용히 침묵하고 있었다.[LINE]\n일행은 비상 통로를 이용해,[LINE]\n성에 잠입하기로 한다.[END]"
+        },
+        {
+            "offset": 63120,
+            "string": "[Lion]たちは[LINE]\nサイリルの街を出て、[LINE]\nハイデルベルグへ向け出発する。[LINE]\n[Woodrow]は父イザークが[LINE]\nなぜサイリルに強硬な態度を[LINE]\n取ったのか分からず、[LINE]\nひとり思い悩む。[END]",
+            "original_bytes_length": 149,
+            "available_bytes_size": 151,
+            "translation": "[Lion] 일행은[LINE]\n사이리루를 떠나, [LINE]\n하이델베르크로 향해 출발한다.[LINE]\n[Woodrow]는 아버지 이자크가[LINE]\n왜 사이리루에 강경한 태도를[LINE]\n취했는지 알지 못하고,[LINE]\n혼자서 고민한다.[END]"
+        },
+        {
+            "offset": 63272,
+            "string": "[Mary]はついに記憶を[LINE]\n取り戻す。先に会った[Dalis]は[LINE]\n[Mary]の夫だった。[LINE]\n[Dalis]は本当に、[Greybum]と[LINE]\n手を組んでいるのか？[LINE]\n真相を確かめるためにも、[LINE]\n早くハイデルベルグへと[LINE]\n向かわなければならない。[END]",
+            "original_bytes_length": 183,
+            "available_bytes_size": 183,
+            "translation": "[Mary]는 드디어 기억을[LINE]\n되찾는다. 전에 만난[Dalis]는[LINE]\n[Mary]의 남편이었다.[LINE]\n[Dalis]는 정말로,[Greybum]과[LINE]\n손을 잡고 있는 것인가?[LINE]\n진실을 확인하기 위해서라도,[LINE]\n빨리 하이델베르크로[LINE]\n가야만 한다.[END]"
+        },
+        {
+            "offset": 63456,
+            "string": "森を抜け、サイリルの街へ[LINE]\n到着した[Lion]たち。[LINE]\nそこは反乱軍の拠点で、[LINE]\n[Mary]にとって縁の深い[LINE]\n場所でもあった。[LINE]\n[Dalis]隊長と呼ばれた人物と[LINE]\n[Mary]との関係は？一行は[LINE]\n[Mary]の家へ向かう。[LINE]\n[END]",
+            "original_bytes_length": 180,
+            "available_bytes_size": 183,
+            "translation": "숲을 지나, 사이릴의 마을에[LINE]\n도착한[Lion] 일행.[LINE]\n그곳은 반란군의 거점으로,[LINE]\n[Mary]에게는 인연이 깊은[LINE]\n장소이기도 했다.[LINE]\n[Dalis] 대장이라 불린 인물과[LINE]\n[Mary]의 관계는? 일행은[LINE]\n[Mary]의 집으로 향한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 63640,
+            "string": "雪深い森の中を進む[LINE]\n[Lion]たち一行。[LINE]\n突然、[Mary]が雪景色に心を[LINE]\n刺激され、卒倒しかける。[LINE]\nどうやら記憶が蘇りそうに[LINE]\nなっているようだが……[END]",
+            "original_bytes_length": 134,
+            "available_bytes_size": 135,
+            "translation": "눈이 깊이 쌓인 숲을 지나가는[LINE]\n[Lion] 일행.[LINE]\n갑자기, [Mary]가 눈 풍경에 마음을[LINE]\n자극받아, 기절할 뻔한다.[LINE]\n어쩐지 기억이 되살아날 것 같은[LINE]\n모양인데……[END]"
+        },
+        {
+            "offset": 63776,
+            "string": "[Greybum]は反乱軍を率いて[LINE]\nハイデルベルグを攻略した[LINE]\nらしい。[LINE]\n[Woodrow]と[Chelsea]を[LINE]\n仲間に加え、[Lion]たちは[LINE]\nハイデルベルグへ向け、[LINE]\n出発する。[END]",
+            "original_bytes_length": 129,
+            "available_bytes_size": 135,
+            "translation": "[Greybum]은 반란군을 이끌고[LINE]\n하이델베르크를 정복한[LINE]\n모양이다.[LINE]\n[Woodrow]와[Chelsea]를[LINE]\n동료로 추가하고,[Lion] 일행은[LINE]\n하이델베르크로 향해,[LINE]\n출발한다.[END]"
+        },
+        {
+            "offset": 63912,
+            "string": "スノーフリアの市街地で、[LINE]\n[Stahn]が[Alba]という[LINE]\n老人と再会し助力を求められる。[LINE]\n[Woodrow]と[Chelsea]が[LINE]\n追っ手に追われて危険らしい。[LINE]\nふたりがいる街の外の森へ[LINE]\n救出に向かう。[END]",
+            "original_bytes_length": 165,
+            "available_bytes_size": 167,
+            "translation": "스노우플리아의 시가지에서,[LINE]\n[Stahn]이[Alba]라는[LINE]\n노인과 재회하여 도움을 요청받는다.[LINE]\n[Woodrow]와[Chelsea]가[LINE]\n추적자에게 쫓기고 위험하다고 한다.[LINE]\n두 사람이 있는 마을 밖의 숲으로[LINE]\n구출하러 간다.[END]"
+        },
+        {
+            "offset": 64080,
+            "string": "ファンダリアの港町[LINE]\nスノーフリアに到着した[LINE]\n一行の前に負傷兵が現れ、[LINE]\nファンダリアは滅びたと告げる。[LINE]\n一体何が起こったのか？[LINE]\n[Lion]たちは状況を確認[LINE]\nすべく、市街地へと急ぐ。[END]",
+            "original_bytes_length": 168,
+            "available_bytes_size": 168,
+            "translation": "팬더리아의 항구 마을[LINE]\n스노우플리아에 도착한[LINE]\n일행 앞에 부상병이 나타나,[LINE]\n팬더리아는 멸망했다고 전한다.[LINE]\n도대체 무슨 일이 일어난 걸까?[LINE]\n[Liion] 일행은 상황을 확인[LINE]\n하기 위해 시가로 서둘러 간다.[END]"
+        },
+        {
+            "offset": 64248,
+            "string": "[Lion]たちを乗せた船は、[LINE]\nファンダリアへと向かう。[LINE]\n[Mary]が雪景色を[LINE]\n目にして何か思い出しそうに[LINE]\nなるものの、結局、記憶を[LINE]\n取り戻すには至らない。[END]",
+            "original_bytes_length": 140,
+            "available_bytes_size": 143,
+            "translation": "[Lion]을 태운 배는,[LINE]\n팬더리아로 향한다.[LINE]\n[Mary]는 눈 풍경을[LINE]\n보며 무언가를 떠올릴 것 같지만,[LINE]\n결국, 기억을[LINE]\n되찾지는 못한다.[END]"
+        },
+        {
+            "offset": 64392,
+            "string": "[Lion]たちは[Johnny]と別れ、[LINE]\nアクアヴェイルを後にする。[LINE]\n乗船直前、[Chaltier]は[LINE]\n自分を[Johnny]に貸して[LINE]\nくれた事に礼を述べる。[LINE]\n[Lion]と[Chaltier]の[LINE]\n絆は以前にも増して強くなる。[END]",
+            "original_bytes_length": 157,
+            "available_bytes_size": 159,
+            "translation": "[Lion] 일행은 [Johnny]와 헤어지고,[LINE]\n아쿠아베일을 떠난다.[LINE]\n탑승 직전, [Chaltier]는[LINE]\n자신을 [Johnny]에게 빌려준 것에 대해[LINE]\n감사를 전한다.[LINE]\n[Lion]과 [Chaltier]의[LINE]\n유대는 이전보다 더 강해진다.[END]"
+        },
+        {
+            "offset": 64552,
+            "string": "城の外へ出た[Lion]たちは、[LINE]\n街の人々の歓呼の声に[LINE]\n迎えられる。[LINE]\n[Lion]たちは[Greybum]を追い、[LINE]\n次はファンダリアを目指す。[END]",
+            "original_bytes_length": 112,
+            "available_bytes_size": 112,
+            "translation": "성 밖으로 나간[Lion] 일행은,[LINE]\n마을 사람들의 환호에[LINE]\n맞이받는다.[LINE]\n[Lion] 일행은[Greybum]을 추격하며,[LINE]\n다음은 팬더리아를 목표로 한다.[END]"
+        },
+        {
+            "offset": 64664,
+            "string": "[Lion]は[Tiberius]を[LINE]\n倒したものの[Greybum]には[LINE]\n飛行竜を使われ、逃げられる。[LINE]\n[Johnny]と[Tiberius]の[LINE]\n決闘で、[Chaltier]の[LINE]\n気持ちを察した[Lion]は、[LINE]\n[Johnny]に[Chaltier]を[LINE]\n貸す。[END]",
+            "original_bytes_length": 143,
+            "available_bytes_size": 143,
+            "translation": "[Lion]은[Tiberius]를[LINE]\n처치했지만[Greybum]에게[LINE]\n비행룡을 사용당해, 도망쳤다.[LINE]\n[Johnny]와[Tiberius]의[LINE]\n결투에서,[Chaltier]의[LINE]\n마음을 이해한[Lion]은,[LINE]\n[Johnny]에게[Chaltier]를[LINE]\n빌려준다.[END]"
+        },
+        {
+            "offset": 64808,
+            "string": "ついにトウケイ城の中へと[LINE]\n突入した[Lion]たち。[LINE]\n[Tiberius]と[Greybum]は、[LINE]\n城の最上階にいるらしい。[LINE]\nここまで来たら、[LINE]\n一気に駆け抜けるだけだ！[END]",
+            "original_bytes_length": 129,
+            "available_bytes_size": 135,
+            "translation": "드디어 토우케이 성 안으로[LINE]\n돌입한[Lion] 일행.[LINE]\n[Tiberius]와[Greybum]은,[LINE]\n성의 최상층에 있는 것 같다.[LINE]\n이곳까지 왔으니,[LINE]\n한 번에 돌진할 뿐이다! [END]"
+        },
+        {
+            "offset": 64944,
+            "string": "トウケイ領の街中にある[LINE]\n船着場へ到着した[LINE]\n[Lion]たち。[LINE]\n予め街に潜入していた[LINE]\nシデン領の者の力を借り、[LINE]\nトウケイ城を目指す。[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "토케이 영의 도심에 있는[LINE]\n선착장에 도착한[LINE]\n[Lion] 일행.[LINE]\n미리 마을에 잠입해 있던[LINE]\n시덴 영의 힘을 빌려,[LINE]\n토케이 성을 목표로 한다.[END]"
+        },
+        {
+            "offset": 65064,
+            "string": "トウケイ領の海上防衛線を[LINE]\n突破し、[Lion]たちの[LINE]\n乗った船は港へと侵入する。[LINE]\nその後一行は[Tiberius]と[LINE]\n[Greybum]のいる城へ潜入[LINE]\nするべく、街の中央にある[LINE]\n船着場へと向かう。[END]",
+            "original_bytes_length": 156,
+            "available_bytes_size": 159,
+            "translation": "토케이 영토의 해상 방어선을[LINE]\n뚫고,[Lion] 일행이[LINE]\n탑승한 배는 항구로 침입한다.[LINE]\n그 후 일행은[Tiberius]와[LINE]\n[Greybum]이 있는 성에 잠입[LINE]\n하기 위해, 마을 중앙에 있는[LINE]\n선착장으로 향한다.[END]"
+        },
+        {
+            "offset": 65224,
+            "string": "甲板で[Chaltier]が、[LINE]\nかつての恩から[Johnny]の[LINE]\n役に立ちたいと語る。[LINE]\nしかし[Lion]はその事を[LINE]\n不快に感じ、[LINE]\n話を切り上げてしまう。[LINE]\n[END]",
+            "original_bytes_length": 118,
+            "available_bytes_size": 119,
+            "translation": "갑판에서[Chaltier]가,[LINE]\n예전의 은혜로부터[Johnny]의[LINE]\n역에 도움이 되고 싶다고 말한다.[LINE]\n그러나[Lion]은 그 사실을[LINE]\n불쾌하게 느끼고,[LINE]\n이야기를 마무리해 버린다.[LINE]\n[END]"
+        },
+        {
+            "offset": 65344,
+            "string": "黒十字艦隊の船に乗り、[LINE]\nトウケイ領を目指す[LINE]\n[Lion]たち。[LINE]\nだが航海の途中、不意に船が[LINE]\n衝撃に見舞われる。[LINE]\n甲板に急いだ[Lion]たちが[LINE]\n見たのは、海の悪魔と[LINE]\n恐れられるクラーケンだった。[END]",
+            "original_bytes_length": 174,
+            "available_bytes_size": 175,
+            "translation": "흑십자 함대의 배에 타고,[LINE]\n토케이 영토를 향하는[LINE]\n[Lion] 일행.[LINE]\n하지만 항해 도중, 갑자기 배가[LINE]\n충격에 휘말린다.[LINE]\n갑판으로 달려간[Lion] 일행이[LINE]\n본 것은, 바다의 악마로[LINE]\n두려움을 받는 크라켄이었다.[END]"
+        },
+        {
+            "offset": 65520,
+            "string": "[Batista]を倒し、[Fayte]を[LINE]\n救出した[Lion]たち。[LINE]\n[Lion]たちは[Fayte][LINE]\n率いる黒十字艦隊の船で[LINE]\nトウケイ領へ乗り込むべく、[LINE]\n港へと向かう。[LINE]\n[Greybum]の背中が見えてきたぞ！[END]",
+            "original_bytes_length": 151,
+            "available_bytes_size": 151,
+            "translation": "[Batista]를倒하고,[Fayte]를[LINE]\n구출한[Lion] 일행.[LINE]\n[Lion] 일행은[Fayte][LINE]\n이끄는 흑십자 함대의 배로[LINE]\n토우케이 영토에 침투하기 위해,[LINE]\n항구로 향한다.[LINE]\n[Greybum]의 뒷모습이 보인다![END]"
+        },
+        {
+            "offset": 65672,
+            "string": "[Lion]たちが牢屋で[LINE]\n出会ったのは[Fayte]の妻、[LINE]\n[Rihanna]だった。[LINE]\n[Johnny]が[Rihanna]に[LINE]\n[Fayte]を必ず救出すると[LINE]\n約束した後、一行は、[LINE]\n[Batista]の下を目指す。[END]",
+            "original_bytes_length": 134,
+            "available_bytes_size": 135,
+            "translation": "[Lion] 일행이 감옥에서[LINE]\n만난 것은[Fayte]의 아내,[LINE]\n[Rihanna]였다.[LINE]\n[Johnny]가[Rihanna]에게[LINE]\n[Fayte]를 반드시 구출하겠다고[LINE]\n약속한 후, 일행은,[LINE]\n[Batista]의 아래로 향한다.[END]"
+        },
+        {
+            "offset": 65808,
+            "string": "[Lion]たちはモリュウ[LINE]\n城の裏手で[Johnny]に[LINE]\n追いつき、共闘を申し出る。[LINE]\n[Johnny]を仲間に加え、[LINE]\n一行は城の中へ潜入。まずは[LINE]\n[Fayte]を救出するべく、[LINE]\n牢屋を目指す。[END]",
+            "original_bytes_length": 149,
+            "available_bytes_size": 151,
+            "translation": "[Lion] 일행은 모리유[LINE]\n성의 뒤편에서 [Johnny]에게[LINE]\n따라가서, 공동 전투를 제안한다.[LINE]\n[Johnny]를 동료로 받아들여,[LINE]\n일행은 성 안으로 잠입한다. 우선은[LINE]\n[Fayte]를 구출하기 위해,[LINE]\n감옥을 목표로 한다.[END]"
+        },
+        {
+            "offset": 65960,
+            "string": "[Johnny]の正体は、[LINE]\nシデン領の王族だった。[LINE]\n親友の[Fayte]を救うため、[LINE]\n単身モリュウ城へと向かう[LINE]\n[Johnny]。[LINE]\n[Lion]たちは[LINE]\n急いで[Johnny]の後を追う。[END]",
+            "original_bytes_length": 132,
+            "available_bytes_size": 135,
+            "translation": "[Johnny]의 정체는,[LINE]\n시덴 영토의 왕족이었다.[LINE]\n친구[Fayte]를 구하기 위해,[LINE]\n단신으로 모리유 성으로 향하는[LINE]\n[Johnny].[LINE]\n[리온] 일행은[LINE]\n서둘러[Johnny]의 뒤를 쫓는다.[END]"
+        },
+        {
+            "offset": 66096,
+            "string": "[Lion]たちは[LINE]\n[Tiberius]に目をつけられ[LINE]\n兵士に追われる身となる。[LINE]\nそんな[Lion]たちを[LINE]\n救ったのは、先に会った[LINE]\n吟遊詩人の[Johnny][LINE]\nだった。[END]",
+            "original_bytes_length": 123,
+            "available_bytes_size": 127,
+            "translation": "[Lion] 일행은[LINE]\n[Tiberius]의 눈에 띄어[LINE]\n병사에게 쫓기게 된다.[LINE]\n그런[Lion] 일행을[LINE]\n구해준 것은, 이전에 만난[LINE]\n음유시인 [Johnny][LINE]\n이었다.[END]"
+        },
+        {
+            "offset": 66224,
+            "string": "[Lion]たちは街で[LINE]\nひとりの吟遊詩人と出会う。[LINE]\nそこへ兵士が現れ、港へ[LINE]\n集合するよう命じられる。[LINE]\n[Tiberius]大王なる人物が[LINE]\n港にいるらしい。[END]",
+            "original_bytes_length": 128,
+            "available_bytes_size": 128,
+            "translation": "[Lion] 일행은 거리에서[LINE]\n한 명의 음유시인과 만난다.[LINE]\n그곳에 병사가 나타나, 항구로[LINE]\n모여 있으라는 명령을 받는다.[LINE]\n[Tiberius] 대왕이라는 인물이[LINE]\n항구에 있는 것 같다.[END]"
+        },
+        {
+            "offset": 66352,
+            "string": "モリュウ領へ到着した[LINE]\n[Lion]たち。[LINE]\n本当にここに[Greybum]が[LINE]\nいるのだろうか？[LINE]\nまずは情報を集めるべく、[LINE]\n[Lion]たちは、街の[LINE]\n住人に話を聞く事にする。[END]",
+            "original_bytes_length": 138,
+            "available_bytes_size": 143,
+            "translation": "모리유 영지에 도착한[LINE]\n[Lion] 일행.[LINE]\n정말로 여기[Greybum]이[LINE]\n있을까?[LINE]\n우선 정보를 모으기 위해,[LINE]\n[Lion] 일행은, 마을의[LINE]\n주민에게 이야기를 듣기로 한다.[END]"
+        },
+        {
+            "offset": 66496,
+            "string": "海底洞窟の出口まで来た[LINE]\nところで、[Lion]たちは[LINE]\n凶悪なモンスターに遭遇する。[LINE]\nなんとかモンスターを退けた[LINE]\n一行は洞窟を出て、[LINE]\nモリュウ領を目指す。[LINE]\n[END]",
+            "original_bytes_length": 142,
+            "available_bytes_size": 143,
+            "translation": "해저 동굴의 출구에 도착한[LINE]\n그런데, [Lion] 일행은[LINE]\n악랄한 괴물과 조우한다.[LINE]\n어떻게든 괴물을 물리친[LINE]\n일행은 동굴을 빠져나와,[LINE]\n모리유 지방을 목표로 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 66640,
+            "string": "無事、[Stahn]と[Rutee]を[LINE]\n引き上げた[Lion]たち。[LINE]\n一刻も早く、この危険な[LINE]\n洞窟の出口を探そう。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "무사히, [Stahn]과 [Rutee]를[LINE]\n끌어올린 [Lion] 일행.[LINE]\n조금이라도 빨리, 이 위험한[LINE]\n동굴의 출구를 찾아야겠다.[END]"
+        },
+        {
+            "offset": 66728,
+            "string": "シデン領に戻った[LINE]\n[Lion]たちはロープを探す。[LINE]\n街の住人に話を聞いて、[LINE]\n手当たり次第探すしかない。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "시덴 영지에 돌아온[LINE]\n[Li온] 일행은 로프를 찾는다.[LINE]\n마을 주민에게 이야기를 듣고,[LINE]\n무작정 찾는 수밖에 없다.[END]"
+        },
+        {
+            "offset": 66824,
+            "string": "海底洞窟を進んでいる最中、[LINE]\n[Stahn]と[Rutee]が、[LINE]\n洞窟の深部へ落とされてしまう。[LINE]\n[Lion]はふたりを助けるため[LINE]\nシデン領に戻る事を決める。[END]",
+            "original_bytes_length": 128,
+            "available_bytes_size": 128,
+            "translation": "해저 동굴을 진행하는 중,[LINE]\n[Stahn]과[Rutee]가,[LINE]\n동굴의 깊은 곳으로 떨어져 버린다.[LINE]\n[Lion]은 두 사람을 구하기 위해[LINE]\n시덴 영지로 돌아가기로 결심한다.[END]"
+        },
+        {
+            "offset": 66952,
+            "string": "[Lion]たちは[LINE]\nモリュウ領へ行くため、[LINE]\n海底洞窟に入っていく。[LINE]\n洞窟内は地盤の脆い所が多い[LINE]\nうえ、凶悪なモンスターも[LINE]\n生息しているらしい。[LINE]\n注意して進まなければ[LINE]\nならない。[END]",
+            "original_bytes_length": 163,
+            "available_bytes_size": 167,
+            "translation": "[Lion] 일행은[LINE]\n모리유 지역으로 가기 위해,[LINE]\n해저 동굴에 들어간다.[LINE]\n동굴 내에는 지반이 약한 곳이 많고[LINE]\n흉악한 몬스터도[LINE]\n서식하고 있는 듯하다.[LINE]\n주의해서 나아가야[LINE]\n한다.[END]"
+        },
+        {
+            "offset": 67120,
+            "string": "奈落からの救出[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "나락에서의 구출[END]"
+        },
+        {
+            "offset": 67136,
+            "string": "[Lion]たちは[LINE]\n[Greybum]がモリュウ領に[LINE]\nいるとの情報を得る。[LINE]\nモリュウ領へ続く海底洞窟の[LINE]\n存在を知った一行は、街を[LINE]\n出て洞窟の入り口へ向かう。[END]",
+            "original_bytes_length": 132,
+            "available_bytes_size": 135,
+            "translation": "[Lion] 일행은[LINE]\n[Greybum]이 모리유 영토에[LINE]\n있다는 정보를 얻는다.[LINE]\n모리유 영토로 이어지는 해저 동굴의[LINE]\n존재를 알게 된 일행은, 마을을[LINE]\n떠나 동굴의 입구로 향한다.[END]"
+        },
+        {
+            "offset": 67272,
+            "string": "[Lion]たちは[LINE]\nアクアヴェイルの一部である[LINE]\nシデン領の沿岸に到着する。[LINE]\nだがアクアヴェイルは鎖国制を[LINE]\n敷いており、これ以上の[LINE]\n接近は不可能だった。[LINE]\n[Lion]たちはボートに[LINE]\n乗り、シデン領に上陸する。[END]",
+            "original_bytes_length": 186,
+            "available_bytes_size": 191,
+            "translation": "[Lion] 일행은[LINE]\n아쿠아베일의 일부인[LINE]\n시덴 영지의 해안에 도착한다.[LINE]\n하지만 아쿠아베일은 봉쇄 정책을[LINE]\n펼치고 있어, 이 이상의[LINE]\n접근은 불가능했다.[LINE]\n[Lion] 일행은 보트에[LINE]\n타고, 시덴 영지에 상륙한다.[END]"
+        },
+        {
+            "offset": 67464,
+            "string": "[Ilene]や[Kongman]など、[LINE]\nノイシュタットで出会った[LINE]\n人々に別れを告げ、[LINE]\n[Lion]たちは[LINE]\nアクアヴェイルへ出発する。[LINE]\n次なる行く手には、一体何が[LINE]\n待ち受けているのだろうか？[END]",
+            "original_bytes_length": 156,
+            "available_bytes_size": 159,
+            "translation": "[Ilene]와 [Kongman] 등,[LINE]\n노이슈타트에서 만난[LINE]\n사람들에게 작별을 고하고,[LINE]\n[Lion] 일행은[LINE]\n아쿠아베일로 출발한다.[LINE]\n다음에 어떤 일이[LINE]\n기다리고 있을까?[END]"
+        },
+        {
+            "offset": 67624,
+            "string": "[Lion]たちは武装船団を[LINE]\n率いていた[Batista]を[LINE]\n倒し、街へ凱旋する。[LINE]\nその後、[Lion]は[LINE]\nわざと[Batista]を逃がし、[LINE]\n行く手を突き止める。[LINE]\n[Batista]が向かったのは、[LINE]\nアクアヴェイルだった。[END]",
+            "original_bytes_length": 171,
+            "available_bytes_size": 175,
+            "translation": "[Lion] 일행은 무장 선단을[LINE]\n이끌고 있던[Batista]를[LINE]\n물리치고, 마을로 귀환한다.[LINE]\n그 후, [Lion]은[LINE]\n일부러[Batista]를 놓아주고,[LINE]\n그의 행방을 추적한다.[LINE]\n[Batista]가 향한 곳은,[LINE]\n아쿠아베일이었다.[END]"
+        },
+        {
+            "offset": 67800,
+            "string": "[Lion]たちは[LINE]\n武装船団の旗艦へ乗り込む。[LINE]\nもたもたしていると増援に[LINE]\n取り囲まれる恐れがある。[LINE]\n目指すは敵将ただひとりだ。[END]",
+            "original_bytes_length": 116,
+            "available_bytes_size": 119,
+            "translation": "[Lion] 일행은[LINE]\n무장 선단의 기함에 탑승한다.[LINE]\n지체하고 있으면 증원에[LINE]\n둘러싸일 위험이 있다.[LINE]\n목표는 적 장수 단 한 사람이다.[END]"
+        },
+        {
+            "offset": 67920,
+            "string": "港へ着いた[Lion]たちの[LINE]\n前に、[Kongman]が現れ、[LINE]\n共に闘うと申し出る。[LINE]\n心強い味方を得た[LINE]\n[Lion]たち。[LINE]\nこうなったら少しでも早く、[LINE]\n武装船団を叩くしかない！[END]",
+            "original_bytes_length": 144,
+            "available_bytes_size": 144,
+            "translation": "항구에 도착한[Lion] 일행의[LINE]\n앞에, [Kongman]이 나타나,[LINE]\n함께 싸우겠다고 제안한다.[LINE]\n힘이 되는 동료를 얻은[LINE]\n[Lion] 일행.[LINE]\n이렇게 된 이상 조금이라도 빨리,[LINE]\n무장 선단을 처치해야 한다![END]"
+        },
+        {
+            "offset": 68064,
+            "string": "モンスターを使って街を[LINE]\n混乱に陥れたのは、港の沖合いに[LINE]\n出現した武装船団らしい。[LINE]\n[Lion]は[Ilene]に[LINE]\n頼んで船を借り、[LINE]\n武装船団を倒す事を決意する。[LINE]\n目指すは港だ。[END]",
+            "original_bytes_length": 155,
+            "available_bytes_size": 159,
+            "translation": "몬스터를 이용해 거리를[LINE]\n혼란에 빠뜨린 것은, 항구의 근처에[LINE]\n출현한 무장 선단인 것 같다.[LINE]\n[Lion]은[Ilene]에게[LINE]\n부탁해 배를 빌리고,[LINE]\n무장 선단을 무찌르기로 결심한다.[LINE]\n목표는 항구다.[END]"
+        },
+        {
+            "offset": 68224,
+            "string": "アイスキャンディーを[LINE]\n買おうとした[Lion]。[LINE]\nその時、街にモンスターが現れる。[LINE]\nひとりでは、全てのモンスターに[LINE]\n対応できないと思い、[LINE]\n[Lion]は[Stahn]たちを[LINE]\n探しに、闘技場へ向かう。[END]",
+            "original_bytes_length": 170,
+            "available_bytes_size": 175,
+            "translation": "아이스캔디를[LINE]\n사려던[Lion]이다.[LINE]\n그때, 마을에 몬스터가 나타난다.[LINE]\n혼자서는 모든 몬스터에[LINE]\n대응할 수 없다고 생각하고,[LINE]\n[Lion]은[Stahn] 일행을[LINE]\n찾으러, 투기장으로 향한다.[END]"
+        },
+        {
+            "offset": 68400,
+            "string": "[Ilene]の帰宅を待ち[LINE]\nくたびれた[Lion]は、[LINE]\nアイスキャンディーを買いに[LINE]\nノイシュタットのどこかにある[LINE]\nアイスキャンディー屋を探す。[END]",
+            "original_bytes_length": 123,
+            "available_bytes_size": 127,
+            "translation": "[Ilene]의 귀가를 기다리던[LINE]\n지친[Lion]은,[LINE]\n아이스크림을 사러[LINE]\n노이슈타트의 어딘가에 있는[LINE]\n아이스크림 가게를 찾는다.[END]"
+        },
+        {
+            "offset": 68528,
+            "string": "甲板で、[Lion]は[LINE]\n[Stahn]と仲間になる事が[LINE]\n[Chaltier]への裏切りに[LINE]\nなると感じている事を話す。[LINE]\nしかし[Chaltier]は、[LINE]\n[Lion]に仲間が出来ることを[LINE]\n心から喜び、もっと多くを[LINE]\n望むべきだと伝える。[END]",
+            "original_bytes_length": 171,
+            "available_bytes_size": 175,
+            "translation": "갑판에서,[LINE]\n[Lion]은[LINE]\n[Stahn]과 동료가 되는 것이[LINE]\n[Chaltier]에 대한 배신이[LINE]\n될 것이라고 느끼고 있다고 이야기한다.[LINE]\n하지만[Chaltier]는,[LINE]\n[Lion]이 동료가 생기는 것을[LINE]\n진심으로 기뻐하며, 더 많은 것을[LINE]\n바라야 한다고 전한다.[END]"
+        },
+        {
+            "offset": 68704,
+            "string": "チェリクの街へ戻り、[LINE]\n船に乗り込んだ[Lion]たちは[LINE]\n[Baruk]からの情報を頼りに[LINE]\nノイシュタットへと針路を[LINE]\n向ける。[END]",
+            "original_bytes_length": 105,
+            "available_bytes_size": 111,
+            "translation": "체리크의 마을로 돌아가,[LINE]\n배에 탑승한[Lion] 일행은[LINE]\n[Baruk]의 정보를 바탕으로[LINE]\n노이슈타트로 항로를[LINE]\n잡는다.[END]"
+        },
+        {
+            "offset": 68816,
+            "string": "[Baruk]の言葉を聞き、[LINE]\n考えを変えた[Lion]は[LINE]\n神殿から[Stahn]を助け出す。[LINE]\n[Stahn]が目を覚ますと、[LINE]\n[Lion]は、次こそ必ず[LINE]\n神の眼を取り返すぞと、[LINE]\n[Stahn]に言って聞かせる。[END]",
+            "original_bytes_length": 155,
+            "available_bytes_size": 159,
+            "translation": "[Baruk]의 말을 듣고,[LINE]\n생각을 바꾼 [Lion]은[LINE]\n신전에서 [Stahn]을 구출한다.[LINE]\n[Stahn]이 눈을 뜨자,[LINE]\n[Lion]은 다음에는 반드시[LINE]\n신의 눈을 되찾겠다고,[LINE]\n[Stahn]에게 말해준다.[END]"
+        },
+        {
+            "offset": 68976,
+            "string": "[Lion]たちは神殿の[LINE]\n地下で、[Greybum]と対峙する[LINE]\nものの、逃げられてしまう。[LINE]\n[Stahn]たちを足手まといだと[LINE]\n判断した[Lion]は[LINE]\nひとり[Greybum]を追いかける。[END]",
+            "original_bytes_length": 137,
+            "available_bytes_size": 143,
+            "translation": "[Lion] 일행은 신전의[LINE]\n지하에서,[Greybum]과 대치하지만,[LINE]\n도망쳐버린다.[LINE]\n[Stahn] 일행을 발목을 잡는 자로[LINE]\n판단한[Lion]은[LINE]\n혼자서[Greybum]을 쫓는다.[END]"
+        },
+        {
+            "offset": 69120,
+            "string": "[Lion]たちは[LINE]\n神殿の大聖堂に到着する。[LINE]\n[Philia]が仕掛けを起動させ[LINE]\n地下へ通じる入り口を[LINE]\n出現させる。[LINE]\n[Greybum]と神の眼は、[LINE]\n本当に見つかるだろうか？[END]",
+            "original_bytes_length": 138,
+            "available_bytes_size": 143,
+            "translation": "[Lion] 일행은[LINE]\n신전의 대성당에 도착한다.[LINE]\n[Philia]가 장치를 작동시켜[LINE]\n지하로 이어지는 입구를[LINE]\n나타나게 한다.[LINE]\n[Greybum]과 신의 눈은,[LINE]\n정말로 발견될 수 있을까?[END]"
+        },
+        {
+            "offset": 69264,
+            "string": "[Philia]の手引きで、[LINE]\n[Lion]たちは神殿の中へ[LINE]\n潜入する。[LINE]\nそして見張りの神官の目を[LINE]\n潜り抜け、大聖堂を目指す。[LINE]\nセインガルドの神殿と同じ[LINE]\n仕掛けが施されているかも[LINE]\nしれない。[END]",
+            "original_bytes_length": 164,
+            "available_bytes_size": 167,
+            "translation": "[Philia]의 안내로,[LINE]\n[Lion] 일행은 신전 안으로[LINE]\n잠입한다.[LINE]\n그리고 감시하는 신관의 시선을[LINE]\n피하여, 대성당을 목표로 한다.[LINE]\n세인갈드의 신전과 같은[LINE]\n장치가 되어 있을지도 모른다.[END]"
+        },
+        {
+            "offset": 69432,
+            "string": "カルビオラの宿に滞在していた[LINE]\n[Lion]たち。夜になり、[LINE]\n辺りが静まり返る時を[LINE]\n見計って、行動を開始する。[LINE]\n[Philia]が神殿の裏口の[LINE]\n鍵を開けてくれているはずだ。[END]",
+            "original_bytes_length": 148,
+            "available_bytes_size": 151,
+            "translation": "칼비올라의 숙소에 머물고 있던[LINE]\n[Leon] 일행.[LINE]\n밤이 되고, [LINE]\n주변이 조용해지는 순간을[LINE]\n보고, 행동을 시작한다.[LINE]\n[Philia]가 신전의 뒷문 열쇠를[LINE]\n열어주고 있을 것이다.[END]"
+        },
+        {
+            "offset": 69584,
+            "string": "夜までの時間を、[LINE]\n街を見て過ごす[Lion]。[LINE]\nそこで砂漠の国に住む住人は[LINE]\n足手まといになる弱い者を[LINE]\n見捨てて来たからこそ、[LINE]\n生きていられるのではと、[LINE]\n自らの考えを告白する。[LINE]\n[END]",
+            "original_bytes_length": 163,
+            "available_bytes_size": 167,
+            "translation": "밤까지의 시간을,[LINE]\n거리를 구경하며 보낸다[Lion].[LINE]\n그곳에서 사막의 나라에 사는 주민은[LINE]\n발목을 잡는 약한 자를[LINE]\n버려왔기 때문에,[LINE]\n살아남을 수 있었다고,[LINE]\n자신의 생각을 고백한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 69752,
+            "string": "ストレイライズ神殿を[LINE]\n発見した[Lion]たち。[LINE]\n彼らが選んだのは、巡礼者を[LINE]\n装った[Philia]が[LINE]\nひとり神殿へ潜り込み、[LINE]\n夜に神殿裏口から[LINE]\n潜入を手引きするという[LINE]\n作戦だった。[LINE]\n[END]",
+            "original_bytes_length": 159,
+            "available_bytes_size": 159,
+            "translation": "스트레이라이즈 신전을[LINE]\n발견한[Lion] 일행.[LINE]\n그들이 선택한 것은, 순례자처럼[LINE]\n가장한[Philia]가[LINE]\n혼자 신전으로 잠입하고,[LINE]\n밤에 신전 뒷문에서[LINE]\n잠입을 도와주는 작전이었다.[LINE]\n[END]"
+        },
+        {
+            "offset": 69912,
+            "string": "カルビオラに到着した[LINE]\n[Lion]たちは、街の住人から[LINE]\nストレイライズ神殿の場所を[LINE]\n聞き出す。[LINE]\n神殿はどうやら街の中に[LINE]\nあるようだ。[END]",
+            "original_bytes_length": 121,
+            "available_bytes_size": 127,
+            "translation": "칼비올라에 도착한[LINE]\n[Lion] 일행은, 마을 주민으로부터[LINE]\n스트레이라이즈 신전의 위치를[LINE]\n물어본다.[LINE]\n신전은 어떻게든 마을 안에[LINE]\n있는 것 같다.[END]"
+        },
+        {
+            "offset": 70040,
+            "string": "[Lion]は[Greybum]らしき[LINE]\n一団が、カルバレイスの[LINE]\n首都であるカルビオラへ[LINE]\n向かった事を突き止める。[LINE]\n後を追うべく、急ぎ[LINE]\nチェリクの街を後にする。[END]",
+            "original_bytes_length": 134,
+            "available_bytes_size": 135,
+            "translation": "[Lion]은[Greybum] 일행이,[LINE]\n칼바레이스의[LINE]\n수도인 칼비올라로[LINE]\n향했다는 사실을 밝혀낸다.[LINE]\n뒤를 쫓기 위해, 급히[LINE]\n체리크의 마을을 떠난다.[END]"
+        },
+        {
+            "offset": 70176,
+            "string": "カルバレイスに到着した[LINE]\n[Lion]たちは、[LINE]\n情報収集のためチェリクの街に[LINE]\nある[Baruk]基金の[LINE]\nオフィスへ向かう。[LINE]\nだが街の人々にオフィスの[LINE]\n場所を聞いても、返ってくるのは[LINE]\n冷たい反応だけだった。[END]",
+            "original_bytes_length": 180,
+            "available_bytes_size": 183,
+            "translation": "칼바레이스에 도착한[LINE]\n[Lion] 일행은,[LINE]\n정보 수집을 위해 체리크의 마을에[LINE]\n있는[Baruk] 기금의[LINE]\n사무실로 향한다.[LINE]\n하지만 마을 사람들에게 사무실의[LINE]\n위치를 물어봐도, 돌아오는 것은[LINE]\n차가운 반응뿐이었다.[END]"
+        },
+        {
+            "offset": 70360,
+            "string": "[Clemente]という大きな力を[LINE]\n得た[Lion]たちは、[LINE]\nラディスロウを後にするべく、[LINE]\n海竜に乗り込む。[LINE]\n再び、[Greybum]を追って、[LINE]\nカルバレイスへの船を進める。[END]",
+            "original_bytes_length": 137,
+            "available_bytes_size": 143,
+            "translation": "[Clemente]라는 큰 힘을[LINE]\n얻은[Lion] 일행은,[LINE]\n라디슬로우를 떠나기 위해,[LINE]\n해룡에 올라탄다.[LINE]\n다시 한번,[Greybum]을 쫓아,[LINE]\n칼바레이스로 가는 배를 진행시킨다.[END]"
+        },
+        {
+            "offset": 70504,
+            "string": "[Lion]たちは[LINE]\nラディスロウの奥で[LINE]\n[Clemente]を発見する。[LINE]\nそこに、残してきたはずの[LINE]\n[Philia]が現れ、[LINE]\n[Clemente]のマスターとなる。[LINE]\n[Lion]は[Philia]を[LINE]\n共に戦う仲間と認める。[END]",
+            "original_bytes_length": 150,
+            "available_bytes_size": 151,
+            "translation": "[Lion] 일행은[LINE]\n라디슬로우의 깊은 곳에서[LINE]\n[Clemente]를 발견한다.[LINE]\n거기서, 남겨두었던[LINE]\n[Philia]가 나타나고,[LINE]\n[Clemente]의 주인이 된다.[LINE]\n[Lion]은[Philia]를[LINE]\n함께 싸울 동료로 인정한다.[END]"
+        },
+        {
+            "offset": 70656,
+            "string": "船酔いですっかり消沈していた[LINE]\n[Lion]は、ソーディアンから[LINE]\n海中に沈んだ輸送艦にある[LINE]\nソーディアンを回収しようと[LINE]\n提案を受ける。[LINE]\n海底に向かうため[LINE]\n海竜を呼び出す。[END]",
+            "original_bytes_length": 156,
+            "available_bytes_size": 159,
+            "translation": "배멀미로 완전히 기운이 빠진[LINE]\n[Lion]은, 소디언으로부터[LINE]\n바다에 가라앉은 수송함에 있는[LINE]\n소디언을 회수하자고[LINE]\n제안을 받는다.[LINE]\n해저로 가기 위해[LINE]\n해룡을 소환한다.[END]"
+        },
+        {
+            "offset": 70816,
+            "string": "[Hugo]が用意した船に[LINE]\n乗り込む[Lion]たち。[LINE]\n船は一路、かつて第二大陸と[LINE]\n呼ばれたカルバレイスへと[LINE]\n針路を取る。[END]",
+            "original_bytes_length": 105,
+            "available_bytes_size": 111,
+            "translation": "[Hugo]가 준비한 배에[LINE]\n탑승하는 [Lion] 일행.[LINE]\n배는 한길로, 한때 제2대륙이라고[LINE]\n불리던 칼바레이스로[LINE]\n항로를 잡는다.[END]"
+        },
+        {
+            "offset": 70928,
+            "string": "出航前のひと時。別れの[LINE]\n挨拶をするため[Marian]の所へ[LINE]\nやって来た[Lion]。[LINE]\n[Marian]は[Lion]が[LINE]\n落ち込んでいる事を見抜き、[LINE]\n名前を戻してはどうかと言う。[LINE]\n[Lion]はそれを拒否し、[LINE]\n自らの目的を再び思い出す。[END]",
+            "original_bytes_length": 187,
+            "available_bytes_size": 191,
+            "translation": "출항 전의 한때. 작별의[LINE]\n인사를 하기 위해[Marian]의 곳에[LINE]\n찾아온[Lion].[LINE]\n[Marian]은[Lion]이[LINE]\n우울해하고 있는 것을 알아차리고,[LINE]\n이름을 되돌려보는 것이 어떻겠냐고 제안한다.[LINE]\n[Lion]은 그것을 거부하고,[LINE]\n자신의 목적을 다시 떠올린다.[END]"
+        },
+        {
+            "offset": 71120,
+            "string": "特別船を得た[Lion]。[LINE]\nしかし、[King]が信頼を寄せる[LINE]\n[Hugo]の前では、自分は[LINE]\n[Lion]というひとりの男で[LINE]\nある前に、所詮は[Hugo]の[LINE]\n息子でしかない事を再認識[LINE]\nさせられ、落ち込むのであった。[LINE]\n[END]",
+            "original_bytes_length": 175,
+            "available_bytes_size": 175,
+            "translation": "특별한 배를 얻은[Lion]。[LINE]\n하지만,[King]이 신뢰를 보내는[LINE]\n[Hugo] 앞에서는, 자신은[LINE]\n[Lion]이라는 한 남자로서[LINE]\n있기 전에, 결국은[Hugo]의[LINE]\n아들에 불과하다는 것을 다시 인식[LINE]\n하게 되어, 우울해졌다.[LINE]\n[END]"
+        },
+        {
+            "offset": 71296,
+            "string": "カルバレイスへ向かうため、[LINE]\n[Lion]たちはひとまず[LINE]\nダリルシェイドへ戻ってきた。[LINE]\n[Greybum]を乗せたと思われる[LINE]\n船は既に出港した後だった。[LINE]\n追跡するための特別船を手配[LINE]\nするため、[Lion]は[LINE]\n[King]の下へ急ぐ。[END]",
+            "original_bytes_length": 190,
+            "available_bytes_size": 191,
+            "translation": "칼바레이스로 향하기 위해,[LINE]\n[Lion] 일행은 우선[LINE]\n다리루쉐이드로 돌아왔다.[LINE]\n[Greybum]을 태운 것으로 보이는[LINE]\n배는 이미 출항한 뒤였다.[LINE]\n추적을 위한 특별 배를 손배[LINE]\n하기 위해,[Lion]은[LINE]\n[King]의 곳으로 서둘러 간다.[END]"
+        },
+        {
+            "offset": 71488,
+            "string": "[Lion]の覚悟[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Lion]의 각오[END]"
+        },
+        {
+            "offset": 71504,
+            "string": "神の眼は大司祭[Greybum]に[LINE]\nよって持ち去られていた。[LINE]\n[Lion]たちは石にされて[LINE]\nいた女性司祭[Philia]を[LINE]\n救出する。そして彼女を伴い[LINE]\n[Greybum]を追って、[LINE]\nカルバレイスへ向かう事にする。[END]",
+            "original_bytes_length": 163,
+            "available_bytes_size": 167,
+            "translation": "신의 눈은 대사제[Greybum]에 의해[LINE]\n가져가졌다.[LINE]\n[리온] 일행은 돌이 되어[LINE]\n있던 여성 사제[필리아]를[LINE]\n구출한다. 그리고 그녀를 동반하여[LINE]\n[Greybum]을 추적해,[LINE]\n칼바레이스로 향하기로 한다.[END]"
+        },
+        {
+            "offset": 71672,
+            "string": "大聖堂へ到着する[Lion]。[LINE]\n[Ayles]が仕掛けを操作し、[LINE]\n地下へ通じる隠し通路を[LINE]\n出現させる。通路の奥に、[LINE]\n神の眼が安置されているらしい。[END]",
+            "original_bytes_length": 127,
+            "available_bytes_size": 127,
+            "translation": "대성당에 도착하는[Lion].[LINE]\n[Ayles]가 장치를 조작하고,[LINE]\n지하로 이어지는 숨겨진 통로를[LINE]\n발견한다. 통로의 깊은 곳에,[LINE]\n신의 눈이 안치되어 있는 듯하다.[END]"
+        },
+        {
+            "offset": 71800,
+            "string": "[Lion]たちは結界石を[LINE]\n破壊し、捕らわれていた[LINE]\n司教[Ayles]を救出する。[LINE]\nその後、[Lion]たちは[LINE]\n神の眼の所在を確認すべく、[LINE]\n[Ayles]の案内で大聖堂へ[LINE]\n向かう。[END]",
+            "original_bytes_length": 143,
+            "available_bytes_size": 143,
+            "translation": "[Lion] 일행은 결계석을[LINE]\n파괴하고, 포로로 잡혀 있던[LINE]\n주교[Ayles]를 구출한다.[LINE]\n그 후, [Lion] 일행은[LINE]\n신의 눈의 위치를 확인하기 위해,[LINE]\n[Ayles]의 안내로 대성당으로[LINE]\n향한다.[END]"
+        },
+        {
+            "offset": 71944,
+            "string": "神殿の中へ突入した[LINE]\n[Lion]たちは、部屋の中に[LINE]\n閉じ込められた人を発見する。[LINE]\n部屋の扉は結界石で[LINE]\n封印されていた。[LINE]\n解除するには、周辺に[LINE]\n設置された結界石を全て[LINE]\n破壊しなければならない。[LINE]\n[END]",
+            "original_bytes_length": 178,
+            "available_bytes_size": 183,
+            "translation": "신전 안으로 돌입한[LINE]\n[Lion] 일행은, 방 안에[LINE]\n갇힌 사람을 발견한다.[LINE]\n방의 문은 결계석으로[LINE]\n봉인되어 있었다.[LINE]\n해제하기 위해서는, 주변에[LINE]\n설치된 결계석을 모두[LINE]\n파괴해야 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 72128,
+            "string": "ストレイライズ神殿に[LINE]\n到着する一行。[LINE]\nだがそこには人影がなく、[LINE]\n静まり返っていた。[LINE]\n何かあったのだろうか？[LINE]\n[END]",
+            "original_bytes_length": 104,
+            "available_bytes_size": 104,
+            "translation": "스트레이라이즈 신전에[LINE]\n도착한 일행.[LINE]\n하지만 그곳에는 사람의 그림자가 없고,[LINE]\n조용히 침묵하고 있었다.[LINE]\n무언가 있었던 걸까?[LINE]\n[END]"
+        },
+        {
+            "offset": 72232,
+            "string": "街を出る寸前、[Stahn]に[LINE]\n握手を求められる[Lion]。[LINE]\nしかし[Lion]は、その[LINE]\n差し出された右手を無視する。[LINE]\n目指すべきストレイライズ[LINE]\n神殿はダリルシェイドの[LINE]\n北だと言うと[LINE]\nひとり、先を歩き始める。[END]",
+            "original_bytes_length": 181,
+            "available_bytes_size": 183,
+            "translation": "거리를 나서기 직전에,[Stahn]이[LINE]\n[리온]에게 악수를 청한다.[LINE]\n하지만[리온]은, 그[LINE]\n내민 오른손을 무시한다.[LINE]\n목표로 해야 할 스트레이라이즈[LINE]\n신전은 다릴쉐이드의[LINE]\n북쪽이라고 말하자,[LINE]\n혼자 앞서 걸어가기 시작한다.[END]"
+        },
+        {
+            "offset": 72416,
+            "string": "[Hugo]は預かっていた[LINE]\nソーディアンを[LINE]\n[Stahn]たちに返す。[LINE]\n神の眼の安否を確認するべく、[LINE]\n一行はストレイライズ神殿に[LINE]\n向けて、出発する。[END]",
+            "original_bytes_length": 128,
+            "available_bytes_size": 128,
+            "translation": "[Hugo]는 맡고 있던[LINE]\n소디언을[LINE]\n[Stahn] 일행에게 돌려준다.[LINE]\n신의 눈의 안부를 확인하기 위해,[LINE]\n일행은 스트레이라이즈 신전으로[LINE]\n향해 출발한다.[END]"
+        },
+        {
+            "offset": 72544,
+            "string": "[Rutee]たちの尋問中、[LINE]\nストレイライズ神殿での事件が[LINE]\n報告される。[Hugo]の提案に[LINE]\nより、[Stahn]たちを連れて[LINE]\nストレイライズ神殿の調査に[LINE]\n向かう事となった[Lion]。[LINE]\n没収したソーディアンを返却[LINE]\nするため、屋敷に戻る。[END]",
+            "original_bytes_length": 200,
+            "available_bytes_size": 200,
+            "translation": "[Rutee] 일행의 심문 중,[LINE]\n스트레이라이즈 신전에서의 사건이[LINE]\n보고된다.[Hugo]의 제안에[LINE]\n따라, [Stahn] 일행을 데리고[LINE]\n스트레이라이즈 신전의 조사를[LINE]\n진행하기로 했다[Lion].[LINE]\n압수한 소디언을 반환하기 위해,[LINE]\n저택으로 돌아간다.[END]"
+        },
+        {
+            "offset": 72744,
+            "string": "[Hugo]の思惑[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Hugo]의 생각[END]"
+        },
+        {
+            "offset": 72760,
+            "string": "[Rutee]たちが飛行竜[LINE]\n失踪事件の容疑者であると[LINE]\n聞かされた[Lion]。[LINE]\n[Hugo]の命令で[LINE]\n[King]の下に[Rutee]たちを[LINE]\n連れていかなくてはならない。[LINE]\n[Lion]は地下牢へ向かう。[END]",
+            "original_bytes_length": 151,
+            "available_bytes_size": 151,
+            "translation": "[Rutee] 일행이 비행룡[LINE]\n실종 사건의 용의자라고[LINE]\n들었다는[Lion]。[LINE]\n[Hugo]의 명령으로[LINE]\n[King]의 아래에[Rutee] 일행을[LINE]\n데려가야 한다.[LINE]\n[Lion]은 지하 감옥으로 향한다.[END]"
+        },
+        {
+            "offset": 72912,
+            "string": "ハーメンツの村で実の姉である[LINE]\n[Rutee]とその仲間を[LINE]\n捕らえた[Lion]。[LINE]\n同時に[Chaltier]とは別の、[LINE]\n２本のソーディアンを手に入れる。[LINE]\n任務完了の報告をするため、[LINE]\nセインガルド城へと戻る。[END]",
+            "original_bytes_length": 170,
+            "available_bytes_size": 175,
+            "translation": "하메츠의 마을에서 친언니인[LINE]\n[Rutee]와 그 동료들을[LINE]\n잡았다[Lion].[LINE]\n동시에[Chaltier]와는 다른,[LINE]\n두 개의 소디언을 손에 넣는다.[LINE]\n임무 완료를 보고하기 위해,[LINE]\n세인갈드 성으로 돌아간다.[END]"
+        },
+        {
+            "offset": 73088,
+            "string": "ｖｓソーディアン[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "vs 소디언[END]"
+        },
+        {
+            "offset": 73112,
+            "string": "いつもと変わらない日常。[LINE]\n[Marian]との会話を楽しむ、[LINE]\n[Lion]の下に、盗掘者を捕獲[LINE]\nせよとの緊急任務が伝えられる。[LINE]\nソーディアンを持つ盗掘者が[LINE]\n実の姉である[Rutee]だと[LINE]\n気づいた[Lion]は[LINE]\nハーメンツの村へ向かう。[END]",
+            "original_bytes_length": 196,
+            "available_bytes_size": 199,
+            "translation": "변함없는 일상.[LINE]\n[Marian]과의 대화를 즐기고,[LINE]\n[Lion]의 지시에 따라, 도굴자를 포획[LINE]\n하라는 긴급 임무가 전달된다.[LINE]\n소디언을 가진 도굴자가[LINE]\n실제 누나인[Rutee]라는 것을[LINE]\n깨달은[Lion]은[LINE]\n하멘츠 마을로 향한다.[END]"
+        },
+        {
+            "offset": 73312,
+            "string": "新たな任務[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "새로운 임무[END]"
+        }
+    ]
+}
