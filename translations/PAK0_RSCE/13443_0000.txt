@@ -2,7 +2,7 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><S06><yellow>록온(테스트) !!
+<TAG_007><S06><yellow>록온 !!
 [ENDBLOCK]
 <S03><yellow>록온 수：<x17><x71><x46><xDC><x80>羽
 [ENDBLOCK]
