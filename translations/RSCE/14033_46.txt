@@ -399,7 +399,8 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-놀고 있을 때가 아니야! 도시가 몬스터에게 공격받고 있어!
+놀고 있을 때가 아니야!
+도시가 몬스터에게 공격받고 있어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
