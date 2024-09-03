@@ -5,8 +5,8 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Stahn>은 나보다 체력이 좋다.
-그러니 전투 시에는 벽이 되어라.
+<Stahn>은 나보다 체력이 좋아.
+그러니까 전투할 때는 방패 역할을 맡아줘.
 [ENDBLOCK]
 알겠다, 맡겨줘.
 [ENDBLOCK]
