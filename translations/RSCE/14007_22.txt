@@ -119,8 +119,8 @@ reset---------
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-너에게余計な心配을 끼치고 싶지 않아서,
-<Greybum>에 대해黙って 있었지만…
+불필요한 걱정을 끼치고 싶지 않아서,
+<Greybum>에 대해 말하지 않았지만…
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
