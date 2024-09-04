@@ -1,0 +1,40 @@
+name: 프로젝트 참여 요청 (검수/교정)
+description: 검수 또는 교정 역할로 프로젝트에 고정적 참여 의사가 있는 경우
+title: "[프로젝트 참여 요청 (검수/교정)]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: 공개적으로 e-mail이 노출되는 것이 싫다면, 이 양식을 따로 작성해서 `me@chanwoong.kim`으로 메일을 보내주세요.
+  - type: checkboxes
+    id: roles
+    attributes:
+      label: 참여 희망 역할
+      description: 참여를 희망하는 역할을 표기하세요
+      options:
+        - label: 문자열 검수 (게임 플레이를 통해 비정상적으로 출력되는 텍스트를 찾아 보고)
+        - label: 문자열 교정 (오타, 띄어쓰기, 한국어 표현 등을 자연스럽게 수정)
+        - label: 일본어 번역 검수 (오역이나 자연스럽지 못한 번역을 수정. 일본어를 할 수 있어야 합니다)
+  - type: input
+    id: email
+    attributes:
+      label: 연락처
+      description: e-mail 주소를 적어주세요.
+    validations:
+      required: true
+  - type: checkboxes
+    id: code-of-conduct
+    attributes:
+      label: 프로젝트 행동강령 동의
+      description: 여러 사람과 협업할 수 있기 때문에, 최소한의 약속을 행동강령으로 지정합니다. 동의하셔야만 참여가 가능합니다.
+      options:
+        - label: 이 프로젝트는 영리 활동을 추구하지 않습니다. 모든 작업물은 온라인에 공개됩니다.
+          required: true
+        - label: 프로젝트 내 모든 참여자를 친절하고 따뜻하게 대해주세요.
+          required: true
+        - label: 대화에 욕설/비속어/은어를 포함하지 마세요.
+          required: true
+        - label: 차별을 하지 말아주세요. 성별, 성적 지향, 성 정체성, 국적, 인종, 지역, 종교, 나이, 사회적 신분, 학력, 지식 수준, 외모, 장애, 질병, 음식 선호 등으로 차별적인 언행을 하지 않습니다.
+          required: true
+        - label: 서로의 프라이버시를 침범하지 말아주세요. 다른 사람의 개인 정보를 캡쳐하거나 유포하지 않습니다.
+          required: true
