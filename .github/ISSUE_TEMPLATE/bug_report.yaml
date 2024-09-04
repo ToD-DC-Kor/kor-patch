@@ -1,0 +1,50 @@
+name: 버그 제보
+description: 동작에 문제가 있는 버그 제보
+title: "[버그 제보]: "
+labels: []
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: 버그에 대한 설명
+      description: 간결하고 명료하게 어떤 문제인지 설명해주세요.
+      placeholder: 무슨 일이 일어나고 있나요?
+      value: ""
+    validations:
+      required: true
+  - type: textarea
+    id: how-to-reproduce
+    attributes:
+      label: 재현 방법
+      description: 재현 방법이 명확하다면, 문제를 재현할 수 있는 메모리 카드 파일과, 재현 방법을 적어주세요.
+      placeholder: |
+        세이브 파일을 로드한 시점부터 문제가 발생하는 곳까지 도달하는 재현 방법을 적어주세요. 모든 던전과 맵의 지도를 외우고 있지 못하기 때문에, 자세히 설명해 주셔야 합니다.
+        예시)
+        1. 첨부한 세이브 파일 로드
+        2. 오른쪽 문으로 나가서, 건물 바로 앞의 NPC 말걸기
+        3. 등등...
+      value: ""
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 패치 버전
+    validations:
+      required: true
+  - type: input
+    id: pcsx-version
+    attributes:
+      label: PCSX2 버전
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: 체크리스트
+      description: 해당하는 항목에 체크하세요
+      options:
+        - label: 한국어 패치 되지 않은 버전에서도 문제가 발생합니다
+        - label: 한국어 패치 된 버전에서만 문제가 발생합니다
+        - label: v0.2.1 패치 버전 이후에 작성된 세이브 파일로 진행했습니다
+        - label: 최신 한국어 패치 버전을 사용했습니다
