@@ -37,4 +37,6 @@ body:
           required: true
   - type: markdown
     attributes:
-      value: 공개적으로 e-mail이 노출되는 것이 싫다면, 이 양식을 따로 작성해서 `me@chanwoong.kim`으로 메일을 보내주세요.
+      value: |
+        ## 안내
+        공개적으로 e-mail이 노출되는 것이 싫다면, 이 양식을 따로 작성해서 `me@chanwoong.kim`으로 메일을 보내주세요.
