@@ -164,7 +164,7 @@ select
 <Johnny>
 [ENDBLOCK]
 소개할게.
-모리ュ우 영지의 차기 영주 부인이다.
+모리유 영지의 차기 영주 부인이다.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]

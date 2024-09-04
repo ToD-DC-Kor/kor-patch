@@ -664,7 +664,7 @@ notice
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-나는 돌차기 대好き 소녀야.
+나는 돌차기를 정말 좋아해.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
@@ -678,7 +678,7 @@ notice
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-나는 돌차기 대好き 소녀야.
+나는 돌차기를 정말 좋아해.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
