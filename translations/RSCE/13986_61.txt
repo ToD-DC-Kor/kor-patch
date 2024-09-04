@@ -307,7 +307,7 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-仲良くやりなさいよ！
+사이좋게 지내자!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

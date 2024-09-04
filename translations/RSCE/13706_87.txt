@@ -309,7 +309,7 @@
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-상처투성이じゃねえか.
+상처투성이 아니야!
 어떻게 된 거야!?
 [ENDBLOCK]
 <Reynolds>

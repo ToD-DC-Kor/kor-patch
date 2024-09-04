@@ -187,7 +187,7 @@ arena_result ---<x17><x71><x47><xAC><x80> >>> 승리(<x09><x00><x00><x00><x00>).
 <Stahn>
 [ENDBLOCK]
 <Ilene> 씨, 괜찮아요?
-しっかりしてください！
+정신차리세요!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]

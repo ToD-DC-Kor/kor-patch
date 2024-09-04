@@ -27,7 +27,7 @@
 <Stahn>
 [ENDBLOCK]
 그냥이라니…
-<Batista>야, 상처투성이じゃないか!
+<Batista>야, 상처투성이 아니야!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

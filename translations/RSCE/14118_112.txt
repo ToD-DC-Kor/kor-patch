@@ -1155,7 +1155,7 @@ select
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-宿敵・세인가르드와,
+숙적・세인가르드와,
 속국 피츠가르드를 무찌르겠다!
 [ENDBLOCK]
 <Stahn>
