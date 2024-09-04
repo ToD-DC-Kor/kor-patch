@@ -518,7 +518,7 @@ notice
 [ENDBLOCK]
 상점 주인
 [ENDBLOCK]
-와서 봐줘, 봐줘, 봐줘!
+들러봐, 구경해 봐!
 [ENDBLOCK]
 상점 주인
 [ENDBLOCK]
@@ -530,7 +530,7 @@ notice
 [ENDBLOCK]
 상점 주인
 [ENDBLOCK]
-와서 봐줘, 봐줘, 봐줘!
+들러봐, 구경해 봐!
 [ENDBLOCK]
 상점 주인
 [ENDBLOCK]
@@ -663,7 +663,7 @@ notice
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-나는 돌차기 좋아하는 소녀야.
+나는 돌차기를 정말 좋아해.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
@@ -677,7 +677,7 @@ notice
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-나는 돌차기 좋아하는 소녀야.
+나는 돌차기를 정말 좋아해.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]

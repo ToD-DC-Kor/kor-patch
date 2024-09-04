@@ -307,7 +307,7 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-사이좋게 지내자!
+사이좋게 지내라고!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

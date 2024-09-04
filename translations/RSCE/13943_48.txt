@@ -507,11 +507,11 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 렌즈 가게
 [ENDBLOCK]
-렌즈 구매를 받고 있습니다.
+렌즈 매입을 하고 있습니다.
 [ENDBLOCK]
 렌즈 가게
 [ENDBLOCK]
-렌즈 구매를 받고 있습니다.
+렌즈 매입을 하고 있습니다.
 [ENDBLOCK]
 렌즈 가게
 [ENDBLOCK]
