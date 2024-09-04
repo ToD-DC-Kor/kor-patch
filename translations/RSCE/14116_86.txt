@@ -62,7 +62,7 @@ select
 남자
 [ENDBLOCK]
 나는 너 같은,
-いいかげんな 놈이 싫어.
+평범한 놈이 싫어.
 [ENDBLOCK]
 남자
 [ENDBLOCK]
