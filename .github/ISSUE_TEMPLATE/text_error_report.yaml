@@ -35,12 +35,6 @@ body:
       label: 패치 버전
     validations:
       required: true
-  - type: input
-    id: pcsx-version
-    attributes:
-      label: PCSX2 버전
-    validations:
-      required: true
   - type: textarea
     id: extra
     attributes:
