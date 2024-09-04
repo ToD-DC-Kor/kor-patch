@@ -1,33 +1,33 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
-ge
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
-t_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+<IGNORE>
 
 [ENDBLOCK]
-<S09>通常
+<S09>보통
 [ENDBLOCK]
-<S09>通常・メガネなし
+<S09>보통・안경 없음
 [ENDBLOCK]
-<S09>笑い
+<S09>웃음
 [ENDBLOCK]
-<S09>笑い・メガネなし
+<S09>웃음・안경 없음
 [ENDBLOCK]
-<S09>怒り
+<S09>화남
 [ENDBLOCK]
-<S09>怒り・メガネなし
+<S09>화남・안경 없음
 [ENDBLOCK]
-<S09>悲しみ
+<S09>슬픔
 [ENDBLOCK]
-<S09>悲しみ・メガネなし
+<S09>슬픔・안경 없음
 [ENDBLOCK]
-<S09>照れ
+<S09>부끄러움
 [ENDBLOCK]
-<S09>照れ・メガネなし
+<S09>부끄러움・안경 없음
 [ENDBLOCK]
-<S09>フィリアボム
+<S09>필리아 폭탄
 [ENDBLOCK]
-<S09>フィリアボム・メガネなし
+<S09>필리아 폭탄・안경 없음
 [ENDBLOCK]
