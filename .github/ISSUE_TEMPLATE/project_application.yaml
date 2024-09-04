@@ -3,9 +3,6 @@ description: 검수 또는 교정 역할로 프로젝트에 고정적 참여 의
 title: "[프로젝트 참여 요청 (검수/교정)]: "
 labels: []
 body:
-  - type: markdown
-    attributes:
-      value: 공개적으로 e-mail이 노출되는 것이 싫다면, 이 양식을 따로 작성해서 `me@chanwoong.kim`으로 메일을 보내주세요.
   - type: checkboxes
     id: roles
     attributes:
@@ -38,3 +35,6 @@ body:
           required: true
         - label: 서로의 프라이버시를 침범하지 말아주세요. 다른 사람의 개인 정보를 캡쳐하거나 유포하지 않습니다.
           required: true
+  - type: markdown
+    attributes:
+      value: 공개적으로 e-mail이 노출되는 것이 싫다면, 이 양식을 따로 작성해서 `me@chanwoong.kim`으로 메일을 보내주세요.
