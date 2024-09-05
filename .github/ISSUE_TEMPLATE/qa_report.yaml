@@ -7,7 +7,7 @@ body:
     id: scopes
     attributes:
       label: 검수 범위
-      description: 해당하는 검수 범위를 선택해주세요. 해당사항이 없다면 '검수 구간 설명'에 언급해주세요.
+      description: 확인했던 검수 범위를 선택해주세요. 해당사항이 없다면 '검수 구간 설명'에 언급해주세요.
       options:
         - label: 대화가 발생하는 모든 오브젝트(NPC 등)와 대화를 시도
         - label: 모든 활성화된 스킷을 확인
