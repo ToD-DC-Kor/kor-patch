@@ -513,7 +513,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 흥, 마음에 안 드는군!
 [ENDBLOCK]
-캐트걸
+고양이 소녀
 [ENDBLOCK]
 당신! 내 리온님에게
 무슨 말을 하는 거야!!
@@ -524,7 +524,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 무슨 매력이 있냐? 나야말로
 단연코 더 멋진 남자라고!
 [ENDBLOCK]
-캐트걸
+고양이 소녀
 [ENDBLOCK]
 리온님이 스피어렌즈라면
 당신은 그저 쓰레기 렌즈야.
@@ -546,15 +546,15 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Chelsea>
 [ENDBLOCK]
 이 리온 씨와 싸운다면,
-모테남 대결이네요.
+인기남 대결이네요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-모테남 대결?
+인기남 대결?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-모테남 대결?
+인기남 대결?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -562,7 +562,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-모테남 대결이란!!
+인기남 대결이란!!
 거리의 여성들을 붙잡고,
 「어느 쪽이 더 좋나요？」라고 묻는 것.
 그 결과, 더 많은 표를
@@ -617,7 +617,7 @@ notice
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-어ーー음…
+음…
 [ENDBLOCK]
 여성
 [ENDBLOCK]
@@ -749,41 +749,41 @@ notice
 이제는 전 세계의 사람들이,
 당신들을 응원하고 있어.
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 이제는 바니걸 시대가 아니야.
 지금은 캣걸, 고양이 귀야！
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
-…え？	그것도 이제 구식이야？
+…어？	그것도 이제 구식이야？
 실례하겠네！
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
-이제야말로 캣걸의 출番이야！
+지금이야말고 캣걸의 차례라고!
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 당신들, 정말 힘든 일을 겪었구나.
 표정을 보면 알 수 있어.
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 번개가 떨어진 곳은,
 큰 구멍이 생기는 모양이야.
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 이대로라면 전 세계가,
 구멍투성이가 되어버릴지도 몰라…
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 이런 옷차림으로 몬스터에게 습격당하면,
 정말로 몸을 지킬 수 없어…
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 이기고 돌아오면,
 풍성한 서비스를 해줄게！
@@ -843,71 +843,71 @@ notice
 나는 피츠갈드 출신이야.
 먼 서쪽에 있는 나라야.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 치, 챔피언의<Kongman>!
 사인 주세요!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 당신들과 함께 있는 건
 설마<Kongman>!?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 <Kongman>! 	무슨 일이 일어나고 있는지,
 알려주세요!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 무슨 일이 일어나고 있는지,
 알려주세요!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 <Kongman>가 있는 한,
 이 도시는 안전하군요!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 <Kongman>가 있는 곳이
 가장 안전하지 않습니까?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 피츠가르드가 어떻게 되어 있는지
 보러 가 주세요, <Kongman>!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 피츠가르드는
 괜찮을까요?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 	마이티! 	마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 	마이티! 	마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 	마이티! 	마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 	마이티! 	마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 	마이티! 	마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 자자, 여러분도 함께!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 	마이티! 	마이티!
 [ENDBLOCK]

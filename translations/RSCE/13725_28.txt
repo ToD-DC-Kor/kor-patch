@@ -294,8 +294,8 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-「보석」は「마테리얼」を,
-리라イズ함으로써 만들어낼 수 있어요.
+「보석」은「마테리얼」을,
+리라이즈하여 만들어낼 수 있어요.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]

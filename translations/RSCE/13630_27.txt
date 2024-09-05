@@ -1,9 +1,9 @@
 여행자
 [ENDBLOCK]
-은
-[ENDBLOCK]
 하하하, 여행을 하려면,
 아이와 함께하는 건 힘들겠지?
+[ENDBLOCK]
+<IGNORE>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -618,7 +618,7 @@ select
 [ENDBLOCK]
 하이델베르크
 [ENDBLOCK]
-고양이닌자 기지
+고양이인 기지
 [ENDBLOCK]
 ？？？
 [ENDBLOCK]

@@ -9,7 +9,7 @@
 [ENDBLOCK]
 …
 [ENDBLOCK]
-고 은퇴자
+은거 노인
 [ENDBLOCK]
 글래스는 사람을 잘 안 만나지만
 마음이 너그러운 좋은 남자입니다.
@@ -20,7 +20,7 @@
 [ENDBLOCK]
 …
 [ENDBLOCK]
-고 은퇴자
+은거 노인
 [ENDBLOCK]
 글래스는 멍청해 보이지만
 위험할 때는 믿음직한 남자입니다.
@@ -29,318 +29,318 @@
 [ENDBLOCK]
 …<S05>앗! 안녕하세요.
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 이렇게 보이지만 예전에는 자유롭게
 여러 나라를 여행했던 것이야!
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 냐옹!? 비슷한 사람을
 알고 있는 거냐옹?
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 누구나 한 번은 자유를 찾아서
 여행하고 싶어지는 것이란다옹.
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 보아하니, 너희들은
 자유로운 신분이 아닌 것 같구나옹.
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 하지만 불자유 속에서야말로
 자유의 의미를 알 수 있는 것이란다옹.
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 자유를 찾는 여행을 해보는 것도
 중요한 일이라고 생각해.
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 이렇게 보이지만 예전에는 자유롭게
 여러 나라를 여행했던 것이야!
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 냐옹!? 비슷한 사람을
 알고 있는 거냐옹?
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 누구나 한 번은 자유를 찾아서
 여행하고 싶어지는 것이란다옹.
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 보아하니, 너희들도 자유를
 만끽하고 있는 것 같구나옹.
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 이렇게 보이지만 예전에는 자유롭게
 여러 나라를 여행했던 것이냥!
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 냐옹!? 비슷한 사람을
 알고 있는 거냐냥?
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 누구나 한 번은 자유를 찾아서
 여행하고 싶어지는 것이냥.
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 보아하니, 너희들은
 자유로운 신분이 아닌 것 같구나냥.
 [ENDBLOCK]
-은퇴 고양이
+은거 고양이인
 [ENDBLOCK]
 자유로운 신분은 좋은 것이야~냥.
 [ENDBLOCK]
-고 은퇴자
+은거 노인
 [ENDBLOCK]
 눈치채 보니, 이렇게까지
 오고 말았군…
 [ENDBLOCK]
-고 은퇴자
+은거 노인
 [ENDBLOCK]
 아~ 자유롭게 여러 나라를
 여행하는 것은 정말 즐거워!
 [ENDBLOCK]
-고 은퇴자
+은거 노인
 [ENDBLOCK]
 보아하니, 너희들은
 자유로운 신분이 아닌 것 같구나.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 하지만 불편함 속에서야
 자유의 의미를 알 수 있는 법이지요.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 자유를 추구하는 여행을 해보는 것도
 중요한 일이라고 생각합니다.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 문득 보니, 이렇게 먼 곳까지
 오게 되었네요…
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 아하~! 자유로운 몸으로 여러 나라를
 유랑하는 것은 정말 즐거워요!
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 보아하니, 여러분도 자유를
 만끽하고 있는 것 같군요.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 문득 보니, 이렇게 먼 곳까지
 오게 되었네요…
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 아하~! 자유로운 몸으로 여러 나라를
 유랑하는 것은 정말 즐거워요!
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 보아하니, 여러분은
 자유로운 몸이 아닌 것 같군요.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 자유로운 신분은 좋은 것이죠.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 아하~! 자유로운 몸으로 여러 나라를
 유랑하는 것은 즐거워요!
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 엥!? 비슷한 사람을
 아는 건가요?
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 인간은 누구나 한 번쯤 자유를 추구하며
 여행을 하고 싶어지는 법이지요…
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 보아하니, 여러분은
 자유로운 몸이 아닌 것 같군요.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 하지만 불편함 속에서야
 자유의 의미를 알 수 있는 법이지요.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 자유를 추구하는 여행을 해보는 것도
 중요한 일이라고 생각합니다.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 아하~! 자유로운 몸으로 여러 나라를
 유랑하는 것은 즐거워요!
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 엥!? 비슷한 사람을
 아는 건가요?
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 인간은 누구나 한 번쯤 자유를 추구하며
 여행을 하고 싶어지는 법이지요…
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 보아하니, 여러분도 자유를
 만끽하고 있는 것 같군요.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 아하~! 자유로운 몸으로 여러 나라를
 유랑하는 것은 즐거워요!
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 엥!? 비슷한 사람을
 아는 건가요?
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 인간은 누구나 한 번쯤 자유를 추구하며
 여행을 하고 싶어지는 법이지요…
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 보아하니, 여러분은
 자유로운 몸이 아닌 것 같군요.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 자유로운 신분은 좋은 것이죠.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 오오!! 드디어, 드디어
 이 세상의 이치를 모두 보았군요!
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 훌륭해요! 당신들こそ
 이 이름을 명乗るにふさわしい！
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 아니, 당신들밖에 없어요!
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 축하합니다!
 「내추럴레인저」!
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 설마, 이 날이 올 줄은
 상상도 하지 못했어요.
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 명부의 선물로 좋은 경험을
 하게 되었어요.
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 천연 온천을 찾았나요.
 저기는 혼욕이에요.
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 음, 노인네밖에 없지만요.
 제가 말할 입장은 아니지만요.
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 대설 인형을 찾았군요.
 사람의 손으로 만들기에는 너무 크고
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 자연적으로 생겼다고 하기에는
 모양이 너무 정돈되어 있어…
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 설마 몬스터가!?… 그런 건 아니겠죠.
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 캔들 트리를 찾았나요.
 눈에 맑은 공기에 빛나는 불빛…
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 분위기 만점이네요.
 …어, 옛말인가요!?
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 그럼, 여기서 들은
 유익한 이야기를…
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 온천이 유명한 스노우플리아지만,
 인적이 드문 곳에 만병을 치료하는
 비밀 온천이 있어요.
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 물론. 직접 찾아보세요.
 뭐니 뭐니 해도 비밀 온천이니까요.
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 스노우플리아 일대에서는, 하룻밤에
 매우 거대한 눈덩이가
 출현한다고 해요.
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 눈덩이란 무엇인가?
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 이전에, 행상인이 2년 전의
 혼란으로 줄어든 도시의 관광객 수가
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 늘어났기 때문에, 한 번 벌어보러
 간다고 했어요.
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 젊은이들은 도시 근처의 화제가 되는
 스팟이 목적인 것 같아요.
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 누군가의 장난 같지만,
 도시 사람들은 대단히 감사하다고 하네요.
@@ -350,12 +350,12 @@
 디스커버리 도감에
 정보가 기록되었습니다.
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 멈추는 것도 자유,
 앞으로 나아가는 것도 자유.
 [ENDBLOCK]
-노인네
+은거 노인
 [ENDBLOCK]
 다만, 시간이 지나도
 제가 여기 있었던 것은

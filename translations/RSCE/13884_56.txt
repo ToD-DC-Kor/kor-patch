@@ -25,7 +25,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-큿, 이 녀석!?
+큭, 이 녀석!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

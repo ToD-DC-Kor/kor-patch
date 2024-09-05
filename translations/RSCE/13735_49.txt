@@ -314,18 +314,18 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-역시 오베론사의 자제님은,
-잘 자란 것 같군요.
+역시 오베론 사의 자제님은,
+교육을 잘 받으셨군요.
 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-기이이ーーーっ！
+꺄아아악!
 
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-불필요한 말은 하지 마.
+쓸데없는 소리 하지 마.
 
 [ENDBLOCK]
 <Stahn>
