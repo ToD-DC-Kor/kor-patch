@@ -879,7 +879,7 @@ notice
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]
-장크랜드
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]

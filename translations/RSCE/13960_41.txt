@@ -496,7 +496,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-장크랜드의 아는 사람에게서,
+정크랜드의 아는 사람에게서,
 연락이 왔어.
 [ENDBLOCK]
 남자
@@ -610,7 +610,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 점원
 [ENDBLOCK]
-왜 잭랜드가 공격받았지?
+왜 정크랜드가 공격받았지?
 저런 곳엔 쓰레기밖에 없는데.
 [ENDBLOCK]
 점원

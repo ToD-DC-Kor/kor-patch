@@ -585,7 +585,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그 후에 잔크랜드로 가서,
+그 후에 정크랜드로 가서,
 벨세리움을 가져오겠습니다.
 [ENDBLOCK]
 <Reynolds>

@@ -1238,7 +1238,7 @@ select
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]
-재활용지대
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]

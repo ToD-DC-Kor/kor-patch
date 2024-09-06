@@ -570,7 +570,7 @@ select
 <Philia>
 [ENDBLOCK]
 확실히 칼바레이스에 있는,
-잭랜드였지.
+정크랜드였지.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

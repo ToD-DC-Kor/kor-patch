@@ -160,7 +160,7 @@ select
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>세계의 명소「쓰레기 도시・잭랜드」
+<TAG_005>세계의 명소「쓰레기 도시・정크랜드」
 라는 책이 있다.
 [ENDBLOCK]
 select

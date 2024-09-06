@@ -612,7 +612,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 점원
 [ENDBLOCK]
-왜 잔크랜드가 공격받았지?
+왜 정크랜드가 공격받았지?
 저런 곳은 쓰레기밖에 없는데.
 [ENDBLOCK]
 점원
@@ -1103,7 +1103,7 @@ select
 [ENDBLOCK]
 칼비오라
 [ENDBLOCK]
-잭랜드
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]

@@ -506,7 +506,7 @@ scn anim 종료
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-장크랜드 쪽에도,
+정크랜드 쪽에도,
 번개가 떨어졌다고 하더라. 오폭인가?
 [ENDBLOCK]
 청년

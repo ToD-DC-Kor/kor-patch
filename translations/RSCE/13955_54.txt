@@ -386,7 +386,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 시장의 아내
 [ENDBLOCK]
-잭랜드가 사라졌다는 소문은,
+정크랜드가 사라졌다는 소문은,
 진짜인가요?
 [ENDBLOCK]
 시장의 아내

@@ -84,7 +84,7 @@
 [ENDBLOCK]
 젊은 소녀
 [ENDBLOCK]
-…여기는 잔크랜드.
+…여기는 정크랜드.
 그 이름처럼, 쓰레기 더미 같은 도시야.
 [ENDBLOCK]
 젊은 소녀
@@ -116,7 +116,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-잔크랜드인가…
+정크랜드인가…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -160,7 +160,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-잭랜드 여러분,
+정크랜드 여러분,
 제 이야기를 들어주세요!
 [ENDBLOCK]
 <Stahn>
