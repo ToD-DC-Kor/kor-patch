@@ -730,7 +730,7 @@ debug
 남자
 [ENDBLOCK]
 최근에는 거리 어디를 가든,
-<Lion>·매그너스의 이야기로 가득 차 있어.
+<Lion>・매그너스의 이야기로 가득 차 있어.
 [ENDBLOCK]
 남자
 [ENDBLOCK]

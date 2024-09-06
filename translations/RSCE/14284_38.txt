@@ -474,7 +474,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Lion>·매그너스다.
+<Lion>・매그너스다.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]

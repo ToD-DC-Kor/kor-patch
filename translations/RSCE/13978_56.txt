@@ -26,7 +26,7 @@
 <Greybum>
 [ENDBLOCK]
 그 소디언…！
-너는 <Lion>·매그너스구나.
+너는 <Lion>・매그너스구나.
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
