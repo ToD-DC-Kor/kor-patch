@@ -587,7 +587,7 @@ CYRI_CAMERA_SIGHT = OFF
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-みんな 무죄기 있게 기뻐하고 있지만,
+모두 무죄기 있게 기뻐하고 있지만,
 문제는 이 후다…
 [ENDBLOCK]
 청년

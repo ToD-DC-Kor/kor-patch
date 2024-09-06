@@ -385,7 +385,8 @@
 <Lion>
 [ENDBLOCK]
 <Philia>와 <Woodrow>를 불러와.
-지금이라면 사람 눈에 띄지 않고 도시로 들어갈 수 있어.
+지금이라면 사람 눈에 띄지 않고
+도시로 들어갈 수 있어.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
