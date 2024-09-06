@@ -161,7 +161,7 @@ fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x2
 [ENDBLOCK]
 부동산 중개인
 [ENDBLOCK]
-하늘을 외피로 덮는 것이,
+하늘을 외각으로 덮는 것이,
 <Hugo>의 소원이었을까요.
 [ENDBLOCK]
 부동산 중개인
@@ -201,7 +201,7 @@ fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x2
 [ENDBLOCK]
 부동산 중개인
 [ENDBLOCK]
-하늘을 외피로 덮는 것이,
+하늘을 외각으로 덮는 것이,
 <Hugo>의 소원이었을까요.
 [ENDBLOCK]
 부동산 중개인

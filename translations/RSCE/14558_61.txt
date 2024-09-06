@@ -1,7 +1,7 @@
 <Atwight>
 [ENDBLOCK]
 로디온의 정문에 도착했어.
-여기서 외껍질 대지로 나갈 수 있어.
+여기서 외각 대지로 나갈 수 있어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

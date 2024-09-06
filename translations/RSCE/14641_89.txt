@@ -422,7 +422,7 @@
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-이로써 외피는 완성된다.
+이로써 외각은 완성된다.
 더럽고 추한 지상이 어둠에 가려질 것이다！
 [ENDBLOCK]
 <Miktran>
@@ -513,7 +513,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-외껍질이…
+외각이…
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]

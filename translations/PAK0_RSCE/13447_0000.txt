@@ -75,7 +75,7 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>외껍질로 가시겠습니까?
+<TAG_007>외각으로 가시겠습니까?
 네
 아니요
 [ENDBLOCK]

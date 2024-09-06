@@ -179,9 +179,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <grey1>빈 공간（존재하지 않습니다）</color>
 [ENDBLOCK]
-껍질
+외각
 [ENDBLOCK]
-<grey1>껍질（존재하지 않습니다）</color>
+<grey1>외각（존재하지 않습니다）</color>
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -215,7 +215,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 빈 공간
 [ENDBLOCK]
-껍질
+외각
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]

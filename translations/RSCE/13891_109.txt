@@ -62,7 +62,7 @@ notice
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-외殻 대지를 완성시켜서는 안 돼.
+외각 대지를 완성시켜서는 안 돼.
 부탁할게, 여러분.
 [ENDBLOCK]
 <Reynolds>
@@ -1033,7 +1033,7 @@ R 키 획득, 수고 많았습니다.
 
 [ENDBLOCK]
 수호룡의 제물이 되어,
-외껍질 대지의 먼지가 되어라!
+외각 대지의 먼지가 되어라!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

@@ -176,7 +176,7 @@ init_light<x17><x71><x48><x88><x80>
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-이제 외부 대지로 나갈 수 있어.
+이제 외각 대지로 나갈 수 있어.
 다음 목적지는, 클라우디스다.
 [ENDBLOCK]
 <Stahn>

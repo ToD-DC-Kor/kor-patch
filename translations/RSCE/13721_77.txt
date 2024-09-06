@@ -608,7 +608,7 @@ debug
 [ENDBLOCK]
 여인
 [ENDBLOCK]
-그 끔찍한 외殻에,
+그 끔찍한 외각에,
 구멍을 뚫어줘!
 [ENDBLOCK]
 여인
@@ -715,7 +715,7 @@ debug
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-성에서, 외殻을 뚫기 위한
+성에서, 외각을 뚫기 위한
 비밀 병기를 만들고 있다고?
 [ENDBLOCK]
 남자
