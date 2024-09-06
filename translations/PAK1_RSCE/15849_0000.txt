@@ -6,7 +6,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 나는 어쩌면,
-판다리아에서 태어났을지도 몰라.
+팬더리아에서 태어났을지도 몰라.
 [ENDBLOCK]
 정말인가요?
 [ENDBLOCK]

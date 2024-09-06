@@ -6,7 +6,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 <Mary>씨는,
-판다리아 사람인가요?
+팬더리아 사람인가요?
 [ENDBLOCK]
 글쎄…… 잘 모르겠어요.
 [ENDBLOCK]

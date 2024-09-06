@@ -7,7 +7,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 …………
 [ENDBLOCK]
-<마리> 무슨 일 있어?
+<Mary> 무슨 일 있어?
 [ENDBLOCK]
 헉! ……나는 도대체 뭘
 하고 있었던 거지.
@@ -16,7 +16,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 기억이 돌아올 것 같아서……
 [ENDBLOCK]
-정말인가요, <마리>씨!
+정말인가요, <Mary>씨!
 [ENDBLOCK]
 전혀 돌아오지 않은 것 같은데……
 [ENDBLOCK]

@@ -5,7 +5,7 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<리온>의 성은,
+<Lion>의 성은,
 왜 휴고 씨와 다르지?
 [ENDBLOCK]
 객원 검사가 될 때,
