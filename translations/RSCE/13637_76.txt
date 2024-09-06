@@ -802,7 +802,7 @@ debug
 [ENDBLOCK]
 어떻게 할 건가？
 예
-아니오
+아니요
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]

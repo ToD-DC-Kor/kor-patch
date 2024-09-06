@@ -674,7 +674,7 @@ notice
 위어드샷으로
 놀고 싶어?
 네
-아니오
+아니요
 [ENDBLOCK]
 기술자
 [ENDBLOCK]

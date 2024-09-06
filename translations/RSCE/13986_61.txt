@@ -635,7 +635,7 @@ select
 선택
 [ENDBLOCK]
 네
-아니오
+아니요
 [ENDBLOCK]
 그럼 나를 따라와.
 [ENDBLOCK]
@@ -1857,7 +1857,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x80><xDC><x18><x80></color>가
 [ENDBLOCK]

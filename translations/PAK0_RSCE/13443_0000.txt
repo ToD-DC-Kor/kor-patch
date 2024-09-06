@@ -6,49 +6,49 @@
 [ENDBLOCK]
 <S03><yellow>록온 수：<x17><x71><x46><xDC><x80>羽
 [ENDBLOCK]
-<S06>작은 돌을 시작地点으로 되돌립니다。
+<S06>돌멩이를 시작 지점으로 되돌립니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 이 대륙에서의 렌즈레이트가
-단계가 올라갔습니다.
+1단계 업그레이드되었습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-축하합니다。
+축하합니다.
 이 대륙에서의 렌즈레이트가
-최대 횟수로 올라갔습니다。
+최대 횟수로 업그레이드되었습니다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 이 대륙에서의 렌즈레이트가
-세 단계 올라갔습니다。
+3단계 업그레이드되었습니다.
 [ENDBLOCK]
-<S03><yellow>『돌차기』 스타트!!
+<S03><yellow>『돌차기』 시작!!
 [ENDBLOCK]
-<S03><yellow>『돌차기』 스타트!!
+<S03><yellow>『돌차기』 시작!!
 [ENDBLOCK]
-<S03><yellow>『돌차기』 스타트!!
+<S03><yellow>『돌차기』 시작!!
 [ENDBLOCK]
-<S03><yellow>『돌차기』 스타트!!
+<S03><yellow>『돌차기』 시작!!
 [ENDBLOCK]
-<S03><yellow>골!!(렌즈레이트 최대치)
-[ENDBLOCK]
-<S03><yellow>렌즈레이트가 UP했습니다!!
-[ENDBLOCK]
-<S03><yellow>『돌차기』 골!!
-[ENDBLOCK]
-<S03><yellow>골!!(렌즈레이트 최대치)
+<S03><yellow>골인!!(렌즈레이트 최대치)
 [ENDBLOCK]
 <S03><yellow>렌즈레이트가 UP했습니다!!
 [ENDBLOCK]
-<S03><yellow>『돌차기』 골!!
+<S03><yellow>『돌차기』 골인!!
 [ENDBLOCK]
-<S03><yellow>골!!(렌즈레이트 최대치)
+<S03><yellow>골인!!(렌즈레이트 최대치)
 [ENDBLOCK]
 <S03><yellow>렌즈레이트가 UP했습니다!!
 [ENDBLOCK]
-<S03><yellow>골!!(렌즈레이트 최대치)
+<S03><yellow>『돌차기』 골인!!
+[ENDBLOCK]
+<S03><yellow>골인!!(렌즈레이트 최대치)
+[ENDBLOCK]
+<S03><yellow>렌즈레이트가 UP했습니다!!
+[ENDBLOCK]
+<S03><yellow>골인!!(렌즈레이트 최대치)
 [ENDBLOCK]
 <S03><yellow>렌즈레이트가 UP했습니다!!
 [ENDBLOCK]
@@ -63,120 +63,120 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>들어가시겠습니까？
+<TAG_007>들어가시겠습니까?
 네
 아니요
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>들어가시겠습니까？
+<TAG_007>들어가시겠습니까?
 네
 아니요
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>외껍질로 가시겠습니까？
+<TAG_007>외껍질로 가시겠습니까?
 네
 아니요
 [ENDBLOCK]
-道標
+이정표
 [ENDBLOCK]
 남서：하멘츠
  동 ：알메이다 방면
  남 ：제노스 방면
 [ENDBLOCK]
-道標
+이정표
 [ENDBLOCK]
  북 ：알메이다 방면
 남서：하멘츠 방면
 남동：다릴쉐이드 방면
 [ENDBLOCK]
-道標
+이정표
 [ENDBLOCK]
  북 ：알메이다
  남 ：하멘츠 방면
 남동：다릴쉐이드 방면
 [ENDBLOCK]
-道標
+이정표
 [ENDBLOCK]
  동 ：다릴쉐이드
  서 ：하멘츠 방면
  남 ：클레스타 방면
  북 ：알메이다 방면
 [ENDBLOCK]
-道標
+이정표
 [ENDBLOCK]
 북동：다릴쉐이드 방면
 북서：알메이다・하멘츠 방면
  남 ：클레스타 방면
 [ENDBLOCK]
-道標
+이정표
 [ENDBLOCK]
  동 ：클레스타 방면
  서 ：다릴쉐이드 방면
 [ENDBLOCK]
-道標
+이정표
 [ENDBLOCK]
  북 ：리네 방면
  남 ：노이슈타트 방면
 [ENDBLOCK]
-道標
+이정표
 [ENDBLOCK]
  서쪽 ：여행자의 오두막
 [ENDBLOCK]
-길잡이
+이정표
 [ENDBLOCK]
  북쪽 ：리네 방향
 남동쪽：노이슈타트 방향
 [ENDBLOCK]
-길잡이
+이정표
 [ENDBLOCK]
  북쪽 ：리네 방향
 남동쪽：노이슈타트 방향
 [ENDBLOCK]
-길잡이
+이정표
 [ENDBLOCK]
  북쪽 ：리네 방향
  남쪽 ：노이슈타트 방향
  서쪽 ：피츠가르드 서해안
 [ENDBLOCK]
-길잡이
+이정표
 [ENDBLOCK]
  북쪽 ：해저 동굴 방향
  남쪽 ：모리유 영역 방향
 [ENDBLOCK]
-길잡이
+이정표
 [ENDBLOCK]
  북쪽 ：시덴 영역 방향
  남쪽 ：해저 동굴 방향
 [ENDBLOCK]
-길잡이
+이정표
 [ENDBLOCK]
  북쪽 ：칼비올라 방향
  남쪽 ：체리크 방향
 [ENDBLOCK]
-길잡이
+이정표
 [ENDBLOCK]
 북동쪽：칼비올라 방향
  남쪽 ：정크랜드 방향
 [ENDBLOCK]
-길잡이
+이정표
 [ENDBLOCK]
 북서쪽：정크랜드 방향
  동쪽 ：칼비올라 방향
 [ENDBLOCK]
-길잡이
+이정표
 [ENDBLOCK]
 북동쪽：하이델베르그 방향
 북서쪽：제노스 방향
 남동쪽：사이릴 방향
 [ENDBLOCK]
-길잡이
+이정표
 [ENDBLOCK]
  북쪽 ：사이릴
 북서쪽：하이델베르그・제노스 방향
 [ENDBLOCK]
-길잡이
+이정표
 [ENDBLOCK]
  북쪽 ：하이델베르그・제노스 방향
 북동쪽：사이릴 방향

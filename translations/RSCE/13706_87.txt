@@ -661,7 +661,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-아니오. 마음 써 주셔서,
+아니요. 마음 써 주셔서,
 감사합니다.
 [ENDBLOCK]
 <Johnny>

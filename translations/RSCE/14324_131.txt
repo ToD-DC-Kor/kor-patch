@@ -2,14 +2,14 @@
 [ENDBLOCK]
 전하, 휴식을 취하시겠습니까?
 네
-아니오
+아니요
 
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
 여러분, 주무시겠습니까?
 네
-아니오
+아니요
 
 [ENDBLOCK]
 <Darzen>

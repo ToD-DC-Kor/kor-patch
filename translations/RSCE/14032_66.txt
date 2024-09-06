@@ -294,7 +294,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 한 번 더,
 무대에 도전하시겠습니까？
 네
-아니오
+아니요
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
@@ -344,7 +344,7 @@ select
 [ENDBLOCK]
 쉬고 갈까요？
 네
-아니오
+아니요
 [ENDBLOCK]
 커뮤니티 할아버지
 [ENDBLOCK]

@@ -420,7 +420,7 @@ select
 [ENDBLOCK]
 피곤하다면 쉬어도 된다네.
 네
-아니오
+아니요
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
@@ -443,7 +443,7 @@ select
 [ENDBLOCK]
 피곤하다면 쉬어도 좋다네.
 네
-아니오
+아니요
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]

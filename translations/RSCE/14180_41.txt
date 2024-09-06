@@ -572,7 +572,7 @@ select
 [ENDBLOCK]
 <TAG_007>스노우플리아에 가시겠습니까?
 네
-아니오
+아니요
 
 [ENDBLOCK]
 선원

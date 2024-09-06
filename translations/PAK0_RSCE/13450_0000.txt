@@ -67,23 +67,23 @@ Hole 05 (Par <x17><x71><x48><x48><x80>)
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 1의 상품 GET!!
+<TAG_007>홀 1의 상품 획득!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 2의 상품 GET!!
+<TAG_007>홀 2의 상품 획득!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 3의 상품 GET!!
+<TAG_007>홀 3의 상품 획득!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 4의 상품 GET!!
+<TAG_007>홀 4의 상품 획득!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 5의 상품 GET!!
+<TAG_007>홀 5의 상품 획득!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]

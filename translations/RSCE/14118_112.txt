@@ -568,7 +568,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 긴 이야기가 되겠지만,
 사건의 개요를 듣고 싶으신가요？
 예
-아니오
+아니요
 
 [ENDBLOCK]
 젊은이
