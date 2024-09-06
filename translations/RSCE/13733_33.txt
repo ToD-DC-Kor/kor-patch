@@ -5,49 +5,49 @@ fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x2
 [ENDBLOCK]
 ？？？？？
 [ENDBLOCK]
-너희들은一体誰なんだ？
+뭐야, 너희들?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 <Stahn>이라고 합니다.
+저는 <Stahn>이라고 합니다.
 [ENDBLOCK]
 ？？？？？
 [ENDBLOCK]
-오, 그렇군.
+호오, 그렇군.
 그럼 내 이름을 알려주겠다.
 [ENDBLOCK]
-다자레 노인
+말장난 할아버지
 [ENDBLOCK]
-내 이름은 다자레 노인이다.
-다자레에 대해서는 좀 시끄럽지.
+내 이름은 말장난 할아버지다.
+말장난에는 좀 까다롭지.
 [ENDBLOCK]
-다자레 노인
+말장난 할아버지
 [ENDBLOCK]
 그리고 너희들은 지금,
 이렇게 생각했을 것이라…
 [ENDBLOCK]
-다자레 노인
+말장난 할아버지
 [ENDBLOCK]
-다자레 노인이란 누구인가？
+말장난 할아버지는 누구지？
 라고…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 하하하하.
 [ENDBLOCK]
-다자레 노인
+말장난 할아버지
 [ENDBLOCK]
 하하하하하.
 [ENDBLOCK]
-다자레 노인
+말장난 할아버지
 [ENDBLOCK]
 오, 내 센스에
 따라올 수 있는 놈이 있구나,
 아직 은퇴할 수 없겠구나.
 [ENDBLOCK]
-다자레 노인
+말장난 할아버지
 [ENDBLOCK]
-그것, 너희들의 다자레도
+그것, 너희들의 말장난도
 들려줘 보아라.
 [ENDBLOCK]
 <Stahn>
@@ -62,7 +62,7 @@ fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x2
 [ENDBLOCK]
 스탠드 업! 스탄의 장롱.
 [ENDBLOCK]
-다자레 노인
+말장난 할아버지
 [ENDBLOCK]
 이, 이거 괜찮은걸…
 [ENDBLOCK]
@@ -70,7 +70,7 @@ fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x2
 [ENDBLOCK]
 감사합니다.
 [ENDBLOCK]
-다자레 노인
+말장난 할아버지
 [ENDBLOCK]
 자, 너는
 어떻겠냐？
@@ -79,7 +79,7 @@ fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x2
 [ENDBLOCK]
 음, 어렵군…
 [ENDBLOCK]
-다자레 노인
+말장난 할아버지
 [ENDBLOCK]
 항복인가？
 [ENDBLOCK]
@@ -89,18 +89,18 @@ fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x2
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-다자레 노인,
+말장난 할아버지,
 재미없어.
 [ENDBLOCK]
-다자레 노인
+말장난 할아버지
 [ENDBLOCK]
-어디가 다자레란 말인가？
+어디가 말장난이란 말인가？
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 아니, 그냥 그렇게 생각한 것뿐이야.
 [ENDBLOCK]
-다자레 노인
+말장난 할아버지
 [ENDBLOCK]
 시, 시, 심하다！
 [ENDBLOCK]

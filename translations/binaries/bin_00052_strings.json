@@ -1,0 +1,200 @@
+{
+    "00052.bin": [
+        {
+            "offset": 30520,
+            "string": "[TAG_007]メモリーカード差込口１にメモリーカード（ＰＳ２）が[LINE]\n挿入されていません。[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "[TAG_007]메모리 카드 슬롯 1에 메모리 카드(PS2)가 삽입되어 있지 않습니다.[END]"
+        },
+        {
+            "offset": 30600,
+            "string": "[TAG_007]メモリーカード差込口１のメモリーカード（ＰＳ２）に[LINE]\nアクセスできません。[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "[TAG_007]메모리 카드 슬롯 1의 메모리 카드(PS2)에[LINE]\n접근할 수 없습니다.[END]"
+        },
+        {
+            "offset": 30680,
+            "string": "[TAG_007]メモリーカード差込口１のメモリーカード（ＰＳ２）は[LINE]\nフォーマットされていません。[LINE]\n[LINE]\nフォーマットしますか？[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 122,
+            "available_bytes_size": 127,
+            "translation": "[TAG_007]메모리 카드 슬롯 1의 메모리 카드(PS2)는[LINE]\n포맷되지 않았습니다.[LINE]\n[LINE]\n포맷하시겠습니까?[LINE]\n예[LINE]\n아니요[END]"
+        },
+        {
+            "offset": 30808,
+            "string": "[TAG_007]メモリーカード差込口１のメモリーカード（ＰＳ２）を[LINE]\nチェック中です。[LINE]\nメモリーカード（ＰＳ２）を抜いたり、電源を切ったり[LINE]\nしないでください。[END]",
+            "original_bytes_length": 143,
+            "available_bytes_size": 143,
+            "translation": "[TAG_007]메모리 카드 슬롯 1의 메모리 카드(PS2)를[LINE]\n체크 중입니다.[LINE]\n메모리 카드(PS2)를 빼거나, 전원을 끄지 마십시오.[END]"
+        },
+        {
+            "offset": 30952,
+            "string": "[TAG_007]フォーマット中です。メモリーカード（ＰＳ２）を[LINE]\n抜いたり、電源を切ったりしないでください。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "[TAG_007]포맷 중입니다. 메모리 카드(PS2)를[LINE]\n빼거나, 전원을 끄지 마십시오.[END]"
+        },
+        {
+            "offset": 31048,
+            "string": "[TAG_007]フォーマットに失敗しました。[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "[TAG_007]포맷에 실패했습니다.[END]"
+        },
+        {
+            "offset": 31088,
+            "string": "[TAG_007]フォーマットが完了しました！[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "[TAG_007]포맷이 완료되었습니다![END]"
+        },
+        {
+            "offset": 31128,
+            "string": "[TAG_007]セーブを中止しますか？[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "[TAG_007]저장을 중단하시겠습니까?[LINE]\n예[LINE]\n아니요[END]"
+        },
+        {
+            "offset": 31168,
+            "string": "[TAG_007]データを新規作成します。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "[TAG_007]데이터를 신규 생성합니다.[LINE]\n진행할까요?[LINE]\n예[LINE]\n아니요[END]"
+        },
+        {
+            "offset": 31232,
+            "string": "[TAG_007]メモリーカード差込口１のメモリーカード（ＰＳ２）は[LINE]\nこのゲームのデータを新規作成する為の空き容量が[LINE]\n足りません。[LINE]\n新規作成には[TAG_015]ＫＢ以上の空き容量が必要です。[END]",
+            "original_bytes_length": 164,
+            "available_bytes_size": 167,
+            "translation": "[TAG_007]메모리 카드 슬롯 1의 메모리 카드(PS2)는[LINE]\n이 게임의 데이터를 신규 생성하기 위한 여유 공간이[LINE]\n부족합니다.[LINE]\n신규 생성에는[TAG_015]KB 이상의 여유 공간이 필요합니다.[END]"
+        },
+        {
+            "offset": 31400,
+            "string": "[TAG_007]選択中のデータに上書きセーブします。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "[TAG_007]선택 중인 데이터에 덮어쓰기합니다.[LINE]\n진행할까요?[LINE]\n예[LINE]\n아니요[END]"
+        },
+        {
+            "offset": 31472,
+            "string": "[TAG_007]セーブ中です。メモリーカード（ＰＳ２）を[LINE]\n抜いたり、電源を切ったりしないでください。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "[TAG_007]저장 중입니다. 메모리 카드(PS2)를[LINE]\n빼거나, 전원을 끄지 마십시오.[END]"
+        },
+        {
+            "offset": 31568,
+            "string": "[TAG_007]セーブに失敗しました。[END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "[TAG_007]저장에 실패했습니다.[END]"
+        },
+        {
+            "offset": 31600,
+            "string": "[TAG_007]セーブが完了しました！[END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "[TAG_007]저장이 완료되었습니다![END]"
+        },
+        {
+            "offset": 31632,
+            "string": "[TAG_007]ロードを中止しますか？[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "[TAG_007]불러오기를 중단할까요?[LINE]\n예[LINE]\n아니요[END]"
+        },
+        {
+            "offset": 31672,
+            "string": "[TAG_007]テイルズオブデスティニー[LINE]\nディレクターズカットの[LINE]\nセーブデータがありません。[END]",
+            "original_bytes_length": 80,
+            "available_bytes_size": 80,
+            "translation": "[TAG_007]테일즈 오브 데스티니[LINE]\n디렉터스 컷의[LINE]\n저장 데이터가 없습니다.[END]"
+        },
+        {
+            "offset": 31752,
+            "string": "[TAG_007]オリジナル版[LINE]\nテイルズオブデスティニーの[LINE]\nセーブデータがありません。[END]",
+            "original_bytes_length": 72,
+            "available_bytes_size": 72,
+            "translation": "[TAG_007]오리지널 버전[LINE]\n테일즈 오브 데스티니의[LINE]\n저장 데이터가 없습니다.[END]"
+        },
+        {
+            "offset": 31824,
+            "string": "[TAG_007]選択中のデータをロードします。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "[TAG_007]선택 중인 데이터를 불러옵니다.[LINE]\n진행할까요?[LINE]\n예[LINE]\n아니요[END]"
+        },
+        {
+            "offset": 31896,
+            "string": "[TAG_007]ロード中です。メモリーカード（ＰＳ２）を[LINE]\n抜いたり、電源を切ったりしないでください。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "[TAG_007]불러오는 중입니다. 메모리 카드(PS2)를[LINE]\n빼거나, 전원을 끄지 마십시오.[END]"
+        },
+        {
+            "offset": 31992,
+            "string": "[TAG_007]ロードに失敗しました。[END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "[TAG_007]불러오기에 실패했습니다.[END]"
+        },
+        {
+            "offset": 32024,
+            "string": "[TAG_007]ロードが完了しました！[END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "[TAG_007]불러오기 완료![END]"
+        },
+        {
+            "offset": 32056,
+            "string": "[TAG_007]空き容量の確認中です。メモリーカード（ＰＳ２）を[LINE]\n抜いたり、電源を切ったりしないでください。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "[TAG_007]여유 공간을 확인 중입니다. 메모리 카드(PS2)를[LINE]\n빼거나, 전원을 끄지 마십시오.[END]"
+        },
+        {
+            "offset": 32160,
+            "string": "[TAG_007]ゲームを中断しますか？[LINE]\nただし、再開後は中断データがなくなりますので[LINE]\nご注意ください。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "[TAG_007]게임을 중단하시겠습니까?[LINE]\n다만, 재개 후에는 중단 데이터가 사라지므로[LINE]\n주의하십시오.[LINE]\n진행할까요?[LINE]\n예[LINE]\n아니요[END]"
+        },
+        {
+            "offset": 32280,
+            "string": "[TAG_007]ゲームを中断しますか？[LINE]\nただし、再開後は中断データがなくなりますので[LINE]\nご注意ください。（中断データは上書きされます）[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 149,
+            "available_bytes_size": 151,
+            "translation": "[TAG_007]게임을 중단하시겠습니까?[LINE]\n다만, 재개 후에는 중단 데이터가 사라지므로[LINE]\n주의하십시오.(중단 데이터가 덮어씌워집니다)[LINE]\n진행할까요?[LINE]\n예[LINE]\n아니요[END]"
+        },
+        {
+            "offset": 32432,
+            "string": "[TAG_007]メモリーカード差込口１のメモリーカード（ＰＳ２）は[LINE]\nこのゲームの中断データを新規作成する為の空き容量が[LINE]\n足りません。[LINE]\n新規作成には[TAG_015]ＫＢ以上の空き容量が必要です。[END]",
+            "original_bytes_length": 168,
+            "available_bytes_size": 168,
+            "translation": "[TAG_007]메모리 카드 슬롯 1의 메모리 카드(PS2)는[LINE]\n이 게임의 중단 데이터를 신규 생성하기 위한 여유 공간이[LINE]\n부족합니다.[LINE]\n신규 생성에는[TAG_015]KB 이상의 여유 공간이 필요합니다.[END]"
+        },
+        {
+            "offset": 32600,
+            "string": "[TAG_007]選択中のデータを引継いで、[LINE]\n[TAG_015]周目から始めますか？[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 70,
+            "available_bytes_size": 71,
+            "translation": "[TAG_007]선택 중인 데이터를 이어받아,[LINE]\n[TAG_015]회차부터 시작할까요?[LINE]\n예[LINE]\n아니요[END]"
+        },
+        {
+            "offset": 32672,
+            "string": "[TAG_007]メモリーカード差込口１のメモリーカード（ＰＳ２）は[LINE]\nフォーマットされていません。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "[TAG_007]메모리 카드 슬롯 1의 메모리 카드(PS2)는[LINE]\n포맷되지 않았습니다.[END]"
+        },
+        {
+            "offset": 32760,
+            "string": "[TAG_007]セーブを終了しますか？[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "[TAG_007]저장을 종료하시겠습니까?[LINE]\n예[LINE]\n아니요[END]"
+        }
+    ]
+}

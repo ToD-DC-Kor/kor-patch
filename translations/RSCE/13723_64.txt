@@ -871,7 +871,7 @@ notice
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 안녕, 오랜만이네!
 [ENDBLOCK]
@@ -884,50 +884,50 @@ select
 <TAG_007>당신 누구예요?
 어, 어이! 오랜만…?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
-いや,ほら小さい時一緒に
-よく遊んだ…
+아니, 그러니까 어렸을 때 자주
+같이 놀았잖아…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-죄송해요.
+죄송합니다.
 당신이 누구였는지…
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 정말… 보통은 그 자리에서
 사람의 이야기에 맞춰야지.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 그럼,
 도시에서는 살아남을 수 없겠군.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 너 상당히 시골뜨기구나!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 …그치만 너 같은 정직한 사람을
 보면 안심이 되네.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 아, 시골 엄마
 잘 지내고 있을까?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 야, 들어봐.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 병든 엄마를 대신해서,
 내가 젤리를 팔고 있어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 부탁해,
 사주면 안 될까?!
@@ -936,26 +936,26 @@ select
 [ENDBLOCK]
 음…
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 매번 고마워～.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 돈이 없구나… 아, 그렇구나,
 그럼 저쪽으로 가도 돼.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 젠장, 그 이상은 들 수 없잖아.
 운이 좋은 녀석이네.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 칠 장군 중에도,
 실력 없는 녀석이 있어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 그 녀석의 이름?
 그건, <Ashley>라는 녀석이야.

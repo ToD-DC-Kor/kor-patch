@@ -1144,19 +1144,19 @@ EX 포인트에 대하여
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어어～～～～っ!?
+어어～～～～!?
 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-바보～～～ッ！
+바보야～～～！
 너까지 걸려들면 어떻게 하라는 거야！
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런 일이 될 줄은
-몰랐으니까…
+그치만, 이런 일이 벌어질 줄은
+전혀 몰랐으니까…
 
 [ENDBLOCK]
 <Rutee>

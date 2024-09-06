@@ -1,0 +1,33 @@
+
+보너스
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+[ENDBLOCK]
+<IGNORE>
+
+[ENDBLOCK]
+<S09>보통
+[ENDBLOCK]
+<S09>보통・안경 없음
+[ENDBLOCK]
+<S09>웃음
+[ENDBLOCK]
+<S09>웃음・안경 없음
+[ENDBLOCK]
+<S09>화남
+[ENDBLOCK]
+<S09>화남・안경 없음
+[ENDBLOCK]
+<S09>슬픔
+[ENDBLOCK]
+<S09>슬픔・안경 없음
+[ENDBLOCK]
+<S09>부끄러움
+[ENDBLOCK]
+<S09>부끄러움・안경 없음
+[ENDBLOCK]
+<S09>필리아 폭탄
+[ENDBLOCK]
+<S09>필리아 폭탄・안경 없음
+[ENDBLOCK]

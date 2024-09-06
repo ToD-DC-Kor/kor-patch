@@ -1254,12 +1254,12 @@ debug
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-<Stahn> 씨, "리라イズ"는 들어본 적 있어?
+<Stahn> 씨, "리라이즈"는 들어본 적 있어?
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-"리라イズ"? 처음 듣는 이름이네.
+"리라이즈"? 처음 듣는 이름이네.
 
 [ENDBLOCK]
 <Atwight>
@@ -1271,7 +1271,7 @@ debug
 <Atwight>
 [ENDBLOCK]
 소디언의 가진 기술 중 하나가,
-"리라イズ"란 거야.
+"리라이즈"란 거야.
 
 [ENDBLOCK]
 <Atwight>

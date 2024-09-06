@@ -502,7 +502,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 리온
 [ENDBLOCK]
-처녀의 눈물에 이끌려,
+소녀의 눈물에 이끌려,
 화려하게 등장.
 [ENDBLOCK]
 <Stahn>
@@ -513,7 +513,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 흥, 마음에 안 드는군!
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 이런! 나의 리온님에게
 뭐라고 하는 거야!!
@@ -523,7 +523,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 아아? 이런 남자의 어떤 점이 좋다는 거지?
 내가 훨씬 더 잘생겼다고!
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 리온님이 스피어렌즈라면
 당신은 쓰레기 렌즈야.
@@ -545,15 +545,15 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Chelsea>
 [ENDBLOCK]
 이 리온씨와 싸운다면,
-모테남 대결이네.
+인기남 대결이네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-모테남 대결?
+인기남 대결?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-모테남 대결?
+인기남 대결?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -561,7 +561,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-모테남 대결이란!!
+인기남 대결이란!!
 거리를 걷는 여성들을 붙잡고,
 「어느 쪽이 더 좋나요?」라고 묻는 것이다.
 그 결과, 더 많은 표를
@@ -616,7 +616,7 @@ notice
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-어ーー…
+어…
 [ENDBLOCK]
 여성
 [ENDBLOCK]
@@ -748,41 +748,41 @@ notice
 이제 전 세계의 사람들이,
 너희들을 응원하고 있어.
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 이제 바니걸 시대는 지났어.
 지금은 캣걸, 고양이 귀야!
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 …어？ 그것도 이제 구식이야？
 실례하네！
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 이제야말로 캣걸의 출番이야！
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 너희들, 정말 힘든 일이 있었구나.
 표정을 보면 알 수 있어.
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 번개가 떨어진 곳은,
 큰 구멍이 생긴다고 하더라.
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 이대로 가면 전 세계가,
 구멍투성이가 될지도 몰라…
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 이런 모습으로 몬스터에게 습격당하면,
 아주 몸을 지킬 수 없겠네…
 [ENDBLOCK]
-캣걸
+고양이 소녀
 [ENDBLOCK]
 이겨서 돌아오면,
 많이 서비스해 줄게！
@@ -842,71 +842,71 @@ notice
 나는 피츠갈드 출신이야.
 멀리 서쪽에 있는 나라지.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 치, 챔피언의 <Kongman>!
 사인 주세요!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 당신들과 함께 있는 게
 설마 <Kongman>!?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 <Kongman>! 	무슨 일이 일어나고 있는지,
 알려주세요!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 무슨 일이 일어나고 있는지,
 알려주세요!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 <Kongman>가 있는 한,
 이 도시는 안전하죠!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 <Kongman>가 있는 곳이
 가장 안전하지 않나요?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 피츠가르드가 어떻게 되어 있는지
 보고 와 주세요, <Kongman>!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 피츠가르드는
 괜찮겠죠?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 	마이티! 	마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 	마이티! 	마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 	마이티! 	마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 	마이티! 	마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 	마이티! 	마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 자, 여러분도 함께!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 	마이티! 	마이티!
 [ENDBLOCK]

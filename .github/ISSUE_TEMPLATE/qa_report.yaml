@@ -1,0 +1,33 @@
+name: 검수 리포트
+description: 플레이한 구간에 대한 동작/번역 오류에 대한 검수 리포트 제공
+title: "[검수 리포트]: "
+labels: []
+body:
+  - type: checkboxes
+    id: scopes
+    attributes:
+      label: 검수 범위
+      description: 확인했던 검수 범위를 선택해주세요. 해당사항이 없다면 '검수 구간 설명'에 언급해주세요.
+      options:
+        - label: 대화가 발생하는 모든 오브젝트(NPC 등)와 대화를 시도
+        - label: 모든 활성화된 스킷을 확인
+        - label: 번역 퀄리티 (잘못된 번역, 말투 등)
+        - label: 텍스트 교정 (줄바꿈, 띄어쓰기, 깨진 문자열, 미번역 항목 탐색)
+  - type: textarea
+    id: detail
+    attributes:
+      label: 검수 구간 설명
+      description: 어디서부터 어디까지 플레이했는지 자세히 설명해주세요. 필요하다면 스크린샷을 첨부해주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: information
+    attributes:
+      label: 특이사항
+      description: 검수 플레이 중 패치 제작에 도움이 될만한 특이사항이 있었다면 적어주세요.
+  - type: input
+    id: version
+    attributes:
+      label: 패치 버전
+    validations:
+      required: true

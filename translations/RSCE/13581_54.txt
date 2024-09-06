@@ -624,7 +624,7 @@ notice
 <Chelsea>
 [ENDBLOCK]
 바지의 고무 정도는,
-자기 스스로 고쳐주세요っ！
+자기 스스로 고쳐주세요！
 
 [ENDBLOCK]
 <Alba>

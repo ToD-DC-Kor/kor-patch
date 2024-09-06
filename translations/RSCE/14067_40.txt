@@ -8,7 +8,7 @@
 [ENDBLOCK]
 …
 [ENDBLOCK]
-고인물
+은거 노인
 [ENDBLOCK]
 그라스는 사람을 잘 안 만나지만
 마음이 따뜻한 좋은 남자입니다.
@@ -19,7 +19,7 @@
 [ENDBLOCK]
 …
 [ENDBLOCK]
-고인물
+은거 노인
 [ENDBLOCK]
 그라스는 멍하고 있지만
 위급할 때는 믿음직한 남자입니다.
@@ -28,284 +28,284 @@
 [ENDBLOCK]
 …<S05>앗! 안녕하세요.
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 이렇게 보이지만 예전에는 자유롭게
 여러 나라를 떠돌았던 것이야!
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 냐옹!? 비슷한 사람을
 알고 있는 거야냐옹?
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 누구나 한 번은 자유를 갈망하고
 여행을 하고 싶어지는 법이야.
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 봄새, 너희들은
 자유로운 신분이 아닌 것 같구나.
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 그러나 불편한 가운데서야
 자유의 의미를 알게 되는 법이야.
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 자유를 찾는 여행을 해보는 것도
 중요한 일이라고 생각해.
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 이렇게 보이지만 예전에는 자유롭게
 여러 나라를 떠돌았던 것이야!
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 냐옹!? 비슷한 사람을
 알고 있는 거야냐옹?
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 누구나 한 번은 자유를 갈망하고
 여행을 하고 싶어지는 법이야.
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 어쩌면 너희들도 자유를
 만끽하고 있는 것 같구나.
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 이렇게 보이지만 예전에는 자유롭게
 여러 나라를 떠돌았던 것이야!
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 냐옹!? 비슷한 사람을
 알고 있는 거야냐옹?
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 누구나 한 번은 자유를 갈망하고
 여행을 하고 싶어지는 법이야.
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 보아하니 너희들은
 자유로운 신분이 아닌 것 같구나.
 [ENDBLOCK]
-은퇴한 고양이
+은거 고양이인
 [ENDBLOCK]
 자유로운 신분은 좋은 것이야～!
 [ENDBLOCK]
-고인물
+은거 노인
 [ENDBLOCK]
 눈치채니 이렇게 먼 곳까지
 오고 말았다…
 [ENDBLOCK]
-고인물
+은거 노인
 [ENDBLOCK]
 아~ 정말 자유롭게 여러 나라를
 떠돌며 노는 건 정말 즐거워!
 [ENDBLOCK]
-고인물
+은거 노인
 [ENDBLOCK]
 보아하니 너희들은
 자유로운 신분이 아닌 것 같구나.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 하지만, 불편 속에서야
 자유의 의미를 알게 되는 법이지.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 자유를 찾는 여행을 해보는 것도
 중요한 일이라고 생각해요.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 어느새, 이렇게 먼 곳까지
 오고 말았군…
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 아하~! 자유로운 몸으로 여러 나라를
 유람하는 것은 정말 즐거워!
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 보아하니, 너희들도 자유를
 만끽하고 있는 것 같군.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 어느새, 이렇게 먼 곳까지
 오고 말았군…
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 아하~! 자유로운 몸으로 여러 나라를
 유람하는 것은 정말 즐거워!
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 보아하니, 너희는
 자유로운 몸이 아닌 것 같군.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 자유로운 신분은 좋은 것이지.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 아하~! 자유로운 몸으로 여러 나라를
 유람하는 것은 즐거워!
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 엥!? 비슷한 사람을
 아는 건가요?
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 인간은 누구나 한 번쯤 자유를 찾고
 여행을 하고 싶어지는 법이니까…
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 보아하니, 너희는
 자유로운 몸이 아닌 것 같군.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 하지만, 불편 속에서야
 자유의 의미를 알게 되는 법이지.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 자유를 찾는 여행을 해보는 것도
 중요한 일이라고 생각해요.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 아하~! 자유로운 몸으로 여러 나라를
 유람하는 것은 즐거워!
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 엥!? 비슷한 사람을
 아는 건가요?
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 인간은 누구나 한 번쯤 자유를 찾고
 여행을 하고 싶어지는 법이니까…
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 보아하니, 너희도 자유를
 만끽하고 있는 것 같군.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 아하~! 자유로운 몸으로 여러 나라를
 유람하는 것은 즐거워!
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 엥!? 비슷한 사람을
 아는 건가요?
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 인간은 누구나 한 번쯤 자유를 찾고
 여행을 하고 싶어지는 법이니까…
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 보아하니, 너희는
 자유로운 몸이 아닌 것 같군.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 자유로운 신분은 좋은 것이지.
 [ENDBLOCK]
-노인
+은거 노인
 [ENDBLOCK]
 오오!!…드디어, 드디어
 이 세상의 이치를 모두 보았군요!
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 멋지다! 당신들야말로
 이 이름을 부르기에 합당한 존재들이다!
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 아니, 당신들 뿐이다!
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 축하한다!
 「내추럴레인저」!
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 이 날이 올 줄은
 상상도 못했어.
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 저승의 선물로 좋은 경험을
 하게 되었구나.
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 행운의 고양이를 찾았나?
 유전적 요인이 강한 것 같다네,
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 바다를 사랑한 문호에게도 사랑받은
 유서 깊은 고양이란다.
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 신목을 발견했나?
 식물의 생명력에 비하면
 우리의 삶은 얼마나 덧없는 것인가.
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 …그렇긴 해도, 수백 년의 수명이 있어도
 살기에 지쳐버릴 듯한 걸.
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 그럼, 여기서 얻은
 귀한 이야기를…
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 시덴 영지에는 선원들에게
 사랑받는 동물이 있다고 하네.
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 뭔가 희귀한 특징이 있다고 하니
 꼭 찾아보는 게 어떨까?
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 시덴 영지에는 사람들에게 매우
 소중히 여겨지는 식물이 있다네.
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 다른 식물과 구별할 수 있는 표시가
 있어서, 금방 알 수 있을 거야.
@@ -315,12 +315,12 @@ notice
 디스커버리 도감에
 정보가 기록되었습니다.
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 멈추는 것도 자유,
 앞으로 나아가는 것도 자유.
 [ENDBLOCK]
-고옹기
+은거 노인
 [ENDBLOCK]
 다만, 시간이 지나도
 내가 여기에 있었던 것은

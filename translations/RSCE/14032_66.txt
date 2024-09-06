@@ -1326,12 +1326,12 @@ select
 [ENDBLOCK]
 고양이인
 [ENDBLOCK]
-무언가 있는 고양이인가?
+무슨 일 있냥?
 
 [ENDBLOCK]
 고양이인
 [ENDBLOCK]
-다시 와도 좋은 고양이야.
+또 와도 좋다냥.
 
 [ENDBLOCK]
 토끼인

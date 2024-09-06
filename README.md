@@ -12,6 +12,11 @@
 - 의성어, 존칭 혼동 같은 번역 오류. 줄바꿈, 오타 등의 표기 오류. 사람 이름이나 지명과 같은 고유명사 표기 오류에 대한 많은 제보 바랍니다.
 - 교정과 검수 관련되어 도움을 구하는 이슈는 [🐤 help wanted](https://github.com/ToD-DC-Kor/kor-patch/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%A4+help+wanted%22) label이 달린 이슈로 관리되고 있습니다. 관심 있으시면 확인 바랍니다.
 
+## 링크
+
+- 디스코드: https://discord.gg/aaZA9avVEz
+- 프로젝트 관리: https://github.com/orgs/ToD-DC-Kor/projects/1/views/4
+
 ## 진행 상황
 
 ### 요약
@@ -56,9 +61,10 @@
 - 그래픽: ?? (불확실)
   - 메뉴 UI 글자 그래픽: 100%
   - 도감/지도 UI 글자 그래픽: 100%
-  - 전투 UI 글자 그래픽: 0%
+  - 전투 UI 글자 그래픽: 100%
   - 스토리 그래픽: 0%
   - 엔딩 그래픽: 0%
+  - 타이틀 그래픽: 100%
 
 ## 배포 주기 & 다운로드
 

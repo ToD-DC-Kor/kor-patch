@@ -730,7 +730,7 @@ debug
 [ENDBLOCK]
 렌즈 가게
 [ENDBLOCK]
-렌즈 매입을承っております.
+렌즈를 매입하고 있습니다.
 [ENDBLOCK]
 렌즈 가게
 [ENDBLOCK]
@@ -739,7 +739,7 @@ debug
 [ENDBLOCK]
 렌즈 가게
 [ENDBLOCK]
-렌즈 매입을承っております.
+렌즈를 매입하고 있습니다.
 [ENDBLOCK]
 오베론 사원
 [ENDBLOCK]
@@ -802,18 +802,18 @@ notice
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-勘違いするなよ.
-너와 내가, 대등한 입장이라고 생각하지 마.
+오해하지 마.
+네가 나와 대등한 위치라고 생각하지 마.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 나는 너처럼, 뻔뻔하고,
-무심한 놈이 정말 싫어.
+능글맞고, 쓸데없이 친한 척하는 놈이 정말 싫어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-역시 왕국 기대의 객원 검객님이네요.
-하층민과는, 악수도 할 수 없다는 건가요.
+역시 왕국이 기대하는 객원 검사님이네
+천한 사람들과는 악수도 못 한다 이거지.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
