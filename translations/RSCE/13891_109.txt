@@ -568,8 +568,8 @@ notice
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-지금이라면, 아직 간신히間에 맞출 수 있다.
-외각이 완성되기 전에, 지금이라면.
+지금이라면, 아직 늦지 않았어.
+외각이 완성되기 전인, 지금이라면 말이야.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
