@@ -103,28 +103,28 @@
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-어서 오세요, <Lion>님.
+어서 오세요, <Lion> 님.
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-여기는 휴고님의
+여기는 휴고 님의
 저택입니다.
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-안녕하세요, <Lion>님.
+안녕하세요, <Lion> 님.
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-조심하세요, <Lion>님.
+조심하세요, <Lion> 님.
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-환영합니다, <Lion>님.
+환영합니다, <Lion> 님.
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-여기는 휴고님의
+여기는 휴고 님의
 저택입니다.
 [ENDBLOCK]
 메이드
@@ -167,7 +167,7 @@
 [ENDBLOCK]
 오베론 직원
 [ENDBLOCK]
-<Lion>님은 앞으로, 아버님의
+<Lion> 님은 앞으로, 아버님의
 뒤를 잇지 않으실 건가요？
 [ENDBLOCK]
 오베론 직원
@@ -177,7 +177,7 @@
 [ENDBLOCK]
 오베론 직원
 [ENDBLOCK]
-휴고님은 바쁘신 분이군요.
+휴고 님은 바쁘신 분이군요.
 좀처럼 만나지 못해요.
 [ENDBLOCK]
 오베론 직원

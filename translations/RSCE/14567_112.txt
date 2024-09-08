@@ -42,7 +42,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>님…！
+<Ilene> 님…！
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -56,7 +56,7 @@ notice
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-지금 목소리는<Rutee>님인가 봐.
+지금 목소리는<Rutee> 님인가 봐.
 역시 여기 있었구나.
 [ENDBLOCK]
 <Ilene>
@@ -100,7 +100,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>님…
+<Ilene> 님…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

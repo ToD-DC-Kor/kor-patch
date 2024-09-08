@@ -79,7 +79,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-하지만, <Mary>씨,
+하지만, <Mary> 씨,
 저 새는 아직 신혼이에요.
 [ENDBLOCK]
 <Mary>
@@ -402,7 +402,7 @@
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-<Walt>님 덕분에,
+<Walt> 님 덕분에,
 이 마을은 유지되고 있는 거야.
 [ENDBLOCK]
 젊은이
@@ -412,17 +412,17 @@
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-<Walt>님 덕분에,
+<Walt> 님 덕분에,
 이 마을은 유지되고 있는 거야.
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-<Walt>님이 신고해 준 덕분에
+<Walt> 님이 신고해 준 덕분에
 마을의 평화가 지켜졌어.
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-<Walt>님 덕분에,
+<Walt> 님 덕분에,
 이 마을은 유지되고 있는 거야.
 [ENDBLOCK]
 젊은이
@@ -432,7 +432,7 @@
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-<Walt>님 덕분에,
+<Walt> 님 덕분에,
 이 마을은 유지되고 있는 거야.
 [ENDBLOCK]
 젊은이
@@ -442,7 +442,7 @@
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-<Walt>님이 있으면 마을은 안전해.
+<Walt> 님이 있으면 마을은 안전해.
 역시 그 사람은 믿을 수 있는 사람이야.
 [ENDBLOCK]
 할머니

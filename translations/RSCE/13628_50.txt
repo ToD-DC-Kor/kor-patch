@@ -739,7 +739,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Stahn>
 [ENDBLOCK]
 틀림없이 말할 수 있는 것은,
-<Woodrow>씨가 좋은 사람이라는 거야.
+<Woodrow> 씨가 좋은 사람이라는 거야.
 
 [ENDBLOCK]
 <Stahn>

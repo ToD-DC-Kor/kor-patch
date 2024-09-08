@@ -490,7 +490,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님！
+<Woodrow> 님！
 
 [ENDBLOCK]
 <Chelsea>
@@ -609,7 +609,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chelsea>님, 선생님이 찾고 계셔.
+<Chelsea> 님, 선생님이 찾고 계셔.
 나와 함께 돌아가자.
 
 [ENDBLOCK]

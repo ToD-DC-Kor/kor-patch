@@ -106,7 +106,7 @@ fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x2
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary>님, 너무 말이 심하십니다.
+<Mary> 님, 너무 말이 심하십니다.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]

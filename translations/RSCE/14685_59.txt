@@ -591,7 +591,7 @@ notice
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님~.
+<Woodrow> 님~.
 진흙물에 빠져서, 더러워졌어요~
 [ENDBLOCK]
 <Rutee>
@@ -605,7 +605,7 @@ notice
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Kongman>님이,
+<Kongman> 님이,
 쓰레기 아래 깔린 것 같아.
 [ENDBLOCK]
 <Rutee>

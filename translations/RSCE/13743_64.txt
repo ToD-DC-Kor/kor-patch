@@ -604,7 +604,7 @@ notice
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-역시 <Woodrow>님입니다！
+역시 <Woodrow> 님입니다！
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -644,7 +644,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow>님은
+<Woodrow> 님은
 역시 대단하네요.
 [ENDBLOCK]
 <Chelsea>

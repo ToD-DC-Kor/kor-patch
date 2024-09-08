@@ -695,7 +695,7 @@ notice
 오베론 직원
 [ENDBLOCK]
 알겠습니다.
-<Baruk>님은요？
+<Baruk> 님은요？
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]

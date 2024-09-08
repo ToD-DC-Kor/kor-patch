@@ -25,7 +25,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Hugo>씨…
+<Hugo> 씨…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -93,7 +93,7 @@
 <Stahn>
 [ENDBLOCK]
 …<Lion>！
-<Hugo>씨를 막아줘！
+<Hugo> 씨를 막아줘！
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

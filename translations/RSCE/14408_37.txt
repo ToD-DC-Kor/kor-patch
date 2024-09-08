@@ -238,7 +238,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>씨가 조용히 부탁해요!
+<Rutee> 씨가 조용히 부탁해요!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

@@ -104,7 +104,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary>님, 너무한 거 아니에요.
+<Mary> 님, 너무한 거 아니에요.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]

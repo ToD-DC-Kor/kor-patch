@@ -500,7 +500,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-오랜만이에요, <Stahn>씨.
+오랜만이에요, <Stahn> 씨.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -655,12 +655,12 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lilith>님, 부탁드립니다.
+<Lilith> 님, 부탁드립니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 현재 우리에게는, 꼭,
-<Stahn>님의 힘이 필요합니다.
+<Stahn> 님의 힘이 필요합니다.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -732,7 +732,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow>님을 만나러 가는 거지.
+<Woodrow> 님을 만나러 가는 거지.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1732,7 +1732,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-괜찮아요, <Lilith>씨.
+괜찮아요, <Lilith> 씨.
 
 [ENDBLOCK]
 <Chelsea>
@@ -1782,7 +1782,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Lilith>씨, 반칙이에요!
+<Lilith> 씨, 반칙이에요!
 내가 발견했는데. 흑.
 [ENDBLOCK]
 <Stahn>

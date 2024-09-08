@@ -90,7 +90,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Hugo>님!?
+<Hugo> 님!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -149,7 +149,7 @@
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-<Hugo>님께 따르라, <Lion>!
+<Hugo> 님께 따르라, <Lion>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

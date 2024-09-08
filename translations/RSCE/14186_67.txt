@@ -544,7 +544,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 여인
 [ENDBLOCK]
-<Eleanor>님이 계셨다면,
+<Eleanor> 님이 계셨다면,
 대왕도 그렇게 되지 않았을 거야.
 [ENDBLOCK]
 여인

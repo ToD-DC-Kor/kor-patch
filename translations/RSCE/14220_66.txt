@@ -332,11 +332,11 @@ notice
 <Chelsea>
 [ENDBLOCK]
 저는 아직 성장기니까요.
-<Rutee>씨는 이미…
+<Rutee> 씨는 이미…
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-후후, <Rutee>씨가
+후후, <Rutee> 씨가
 14살 때는 어땠을까요～.
 [ENDBLOCK]
 <Rutee>
@@ -349,7 +349,7 @@ notice
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-그렇다고, <Philia>씨 도망치지 마세요!
+그렇다고, <Philia> 씨 도망치지 마세요!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -518,7 +518,7 @@ notice
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님 앞에서는,
+<Woodrow> 님 앞에서는,
 보여줄 수 없겠네.
 [ENDBLOCK]
 <Stahn>
@@ -543,7 +543,7 @@ notice
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님도
+<Woodrow> 님도
 신나서 놀고 있네. 귀여워～.
 [ENDBLOCK]
 <Mary>

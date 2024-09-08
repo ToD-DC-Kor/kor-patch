@@ -674,7 +674,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Philia>
 [ENDBLOCK]
 힘내 주세요,
-<Stahn>님, <Rutee>님.
+<Stahn> 님, <Rutee> 님.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -796,7 +796,7 @@ sdiff -><x1D><x76><x40><x10><x80>
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-분명 저 <Philia>씨도,
+분명 저 <Philia> 씨도,
 같은 생각을 하고 있을 거야…
 [ENDBLOCK]
 <Stahn>

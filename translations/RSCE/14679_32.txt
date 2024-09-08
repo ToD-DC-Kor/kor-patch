@@ -369,7 +369,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-죄송합니다, <Stahn>님.
+죄송합니다, <Stahn> 님.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

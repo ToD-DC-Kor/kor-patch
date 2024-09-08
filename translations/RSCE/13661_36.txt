@@ -282,7 +282,7 @@
 [ENDBLOCK]
 경비병
 [ENDBLOCK]
-<Lion>님이 여기 자제라는 것은
+<Lion> 님이 여기 자제라는 것은
 공표되지 않았습니다.
 [ENDBLOCK]
 경비병
@@ -293,7 +293,7 @@
 [ENDBLOCK]
 경비병
 [ENDBLOCK]
-<Lion>님의 활약을 들을 때마다
+<Lion> 님의 활약을 들을 때마다
 누군가에게 자랑하고 싶어져요.
 [ENDBLOCK]
 경비병
@@ -354,7 +354,7 @@
 남자
 [ENDBLOCK]
 나도 예전에는 렌즈 헌터였는데,
-<Rembrandt>님에게 구해졌어.
+<Rembrandt> 님에게 구해졌어.
 [ENDBLOCK]
 남자
 [ENDBLOCK]
@@ -369,7 +369,7 @@
 남자
 [ENDBLOCK]
 나도 예전에는 렌즈 헌터였는데,
-<Rembrandt>님에게 구해졌어.
+<Rembrandt> 님에게 구해졌어.
 [ENDBLOCK]
 남자
 [ENDBLOCK]
@@ -416,7 +416,7 @@
 [ENDBLOCK]
 견습 하인
 [ENDBLOCK]
-알고 있어? 지금 화제가 되고 있는 <Lion>님은,
+알고 있어? 지금 화제가 되고 있는 <Lion> 님은,
 사실 이 저택의…
 [ENDBLOCK]
 견습 하인
@@ -451,12 +451,12 @@
 [ENDBLOCK]
 견습 하인
 [ENDBLOCK]
-<Marian>님이 돌아왔어.
+<Marian> 님이 돌아왔어.
 그 사람, 분위기가 변했네.
 [ENDBLOCK]
 견습 하인
 [ENDBLOCK]
-<Marian>님이 말해서,
+<Marian> 님이 말해서,
 나도 성으로 렌즈를 운반했어.
 [ENDBLOCK]
 notice

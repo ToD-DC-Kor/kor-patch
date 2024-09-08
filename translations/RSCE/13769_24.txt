@@ -18,7 +18,7 @@
 [ENDBLOCK]
 루웨인
 [ENDBLOCK]
-<Lion>님이 아닌가요?
+<Lion> 님이 아닌가요?
 [ENDBLOCK]
 루웨인
 [ENDBLOCK]
@@ -28,7 +28,7 @@
 <Lion>
 [ENDBLOCK]
 임무 중입니다.
-루웨인님.
+루웨인 님.
 [ENDBLOCK]
 루웨인
 [ENDBLOCK]
@@ -37,7 +37,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-루웨인님이
+루웨인 님이
 걱정하실 만한…
 [ENDBLOCK]
 <Stahn>

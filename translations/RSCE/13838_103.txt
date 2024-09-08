@@ -245,7 +245,7 @@
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-<Philia>님의 검은, 신전 내의
+<Philia> 님의 검은, 신전 내의
 어딘가의 방에 있을 것입니다.
 [ENDBLOCK]
 신관
@@ -338,7 +338,7 @@
 [ENDBLOCK]
 수련생
 [ENDBLOCK]
-<Philia>님이죠?
+<Philia> 님이죠?
 이야기는 항상 듣고 있습니다.
 [ENDBLOCK]
 수련생

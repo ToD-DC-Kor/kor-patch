@@ -170,7 +170,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그만둬, <Dalis>님! 	<Mary>님은,
+그만둬, <Dalis> 님! 	<Mary> 님은,
 당신의 일을 기억해냈어!
 [ENDBLOCK]
 <Dalis>
@@ -193,7 +193,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dalis>님, 당신은 <Greybum>이,
+<Dalis> 님, 당신은 <Greybum>이,
 무엇을 하고 있는지 알고 있습니까?
 [ENDBLOCK]
 <Dalis>
@@ -206,7 +206,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>님, 당신이 흥분하지 마.
+<Stahn> 님, 당신이 흥분하지 마.
 <Mary>에게 말을 하게 하세요.
 [ENDBLOCK]
 <Stahn>
@@ -219,7 +219,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow>님, 무엇을!?
+<Woodrow> 님, 무엇을!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -352,7 +352,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 <Stahn>
 [ENDBLOCK]
 알겠습니다!
-가세요, <Mary>님!
+가세요, <Mary> 님!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

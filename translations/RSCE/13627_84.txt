@@ -628,7 +628,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 세인가르드 병사
 [ENDBLOCK]
 저기, 당신은… 혹시
-<Lion>님이신가요？
+<Lion> 님이신가요？
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -641,7 +641,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-맞죠, <Lion>님？
+맞죠, <Lion> 님？
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -805,7 +805,7 @@ debug
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-설령 <Lion>님이라 하더라도
+설령 <Lion> 님이라 하더라도
 통과시키는 것은 불가능하다.
 [ENDBLOCK]
 세인가르드 병사

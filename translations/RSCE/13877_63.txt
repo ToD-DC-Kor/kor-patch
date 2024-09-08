@@ -510,7 +510,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…<Ilene>씨는, 좋겠더라.
+…<Ilene> 씨는, 좋겠더라.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -554,7 +554,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-문득 깨닫고 보니,<Ilene>씨를,
+문득 깨닫고 보니,<Ilene> 씨를,
 멍하니 생각하고 있더라고.
 [ENDBLOCK]
 <Stahn>
@@ -582,7 +582,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>씨와<Lion>씨,
+<Stahn> 씨와<Lion> 씨,
 사이가 좋군요.
 [ENDBLOCK]
 <Stahn>
@@ -709,7 +709,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-하지만, 보세요. 이전에 <Hugo>님이 <Rutee>를
+하지만, 보세요. 이전에 <Hugo> 님이 <Rutee>를
 죽게 두라는 발언을 하셨을 때.
 [ENDBLOCK]
 <Chaltier>

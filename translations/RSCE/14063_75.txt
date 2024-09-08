@@ -624,12 +624,12 @@ notice
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-모리유 영의 <Fayte>님이,
+모리유 영의 <Fayte> 님이,
 나쁜 놈에게 붙잡혔다고?
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-이전에 <Johnny>님께, 시덴 영에서도
+이전에 <Johnny> 님께, 시덴 영에서도
 함대를 만들어 달라고 부탁했어.
 [ENDBLOCK]
 소년
@@ -639,7 +639,7 @@ notice
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-<Johnny>님! 제발 부탁이야.
+<Johnny> 님! 제발 부탁이야.
 뭔가 해줘!
 [ENDBLOCK]
 소년
@@ -649,12 +649,12 @@ notice
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-역시 <Johnny>님이야!
+역시 <Johnny> 님이야!
 뭔가 해줄 거라고 생각했어.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-역시 <Johnny>님의 친구구나!
+역시 <Johnny> 님의 친구구나!
 뭔가 해줄 거라고 생각했어.
 [ENDBLOCK]
 젊은 여자아이

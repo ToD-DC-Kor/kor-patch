@@ -652,7 +652,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow>씨는 어떤가요?
+<Woodrow> 씨는 어떤가요?
 
 [ENDBLOCK]
 <Woodrow>

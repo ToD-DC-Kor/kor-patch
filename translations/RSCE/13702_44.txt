@@ -464,7 +464,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-이곳은<Lion>님,
+이곳은<Lion> 님,
 통과해 주세요.
 [ENDBLOCK]
 세인가르드 병사
@@ -473,7 +473,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-이곳은<Lion>님,
+이곳은<Lion> 님,
 통과해 주세요.
 [ENDBLOCK]
 세인가르드 병사
@@ -482,7 +482,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-이곳은<Lion>님,
+이곳은<Lion> 님,
 통과해 주세요.
 [ENDBLOCK]
 세인가르드 병사
@@ -495,7 +495,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-<Lion>님,
+<Lion> 님,
 통과해 주세요.
 [ENDBLOCK]
 세인가르드 병사
@@ -505,7 +505,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 세인가르드 병사
 [ENDBLOCK]
 수고하십니다,
-<Lion>님!
+<Lion> 님!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -514,7 +514,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 세인가르드 병사
 [ENDBLOCK]
 수고하십니다,
-<Lion>님!
+<Lion> 님!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -522,7 +522,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-수고하십니다, <Lion>님!
+수고하십니다, <Lion> 님!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -534,7 +534,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-수고하십니다, <Lion>님!
+수고하십니다, <Lion> 님!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]

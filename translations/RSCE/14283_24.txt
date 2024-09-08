@@ -311,17 +311,17 @@
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Greybum>님이 우리 편이 되어 주셔서,
+<Greybum> 님이 우리 편이 되어 주셔서,
 전투에서 이길 수 있었어.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
 전에는 그렇게 칭찬했는데,
-이제는 모두 <Greybum>님을 나쁘게 말해.
+이제는 모두 <Greybum> 님을 나쁘게 말해.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-결국 어른들은 <Greybum>님에게
+결국 어른들은 <Greybum> 님에게
 모든 책임을 떠넘기고 있는 거야.
 [ENDBLOCK]
 여자아이

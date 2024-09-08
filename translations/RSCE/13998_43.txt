@@ -19,7 +19,7 @@ reset---------
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-<Lion>님이라면,
+<Lion> 님이라면,
 조금 나가신다고 하셨습니다.
 [ENDBLOCK]
 메이드
@@ -33,7 +33,7 @@ reset---------
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-<Lion>님이라면,
+<Lion> 님이라면,
 조금 나가신다고 하셨습니다.
 [ENDBLOCK]
 메이드
@@ -266,12 +266,12 @@ reset---------
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-저, 괜찮으시다면<Ilene>님이 돌아오시면,
+저, 괜찮으시다면<Ilene> 님이 돌아오시면,
 모두의 이야기를 전하겠습니다.
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-그렇게 해서, <Ilene>님께는 모두의
+그렇게 해서, <Ilene> 님께는 모두의
 귀환을 기다려 주시는 게 어떨까요?
 [ENDBLOCK]
 <Lion>

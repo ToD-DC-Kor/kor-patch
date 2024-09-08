@@ -36,7 +36,7 @@ I am a champion! 가하하하하!
 <Chelsea>
 [ENDBLOCK]
 빨리 여러분의 곳으로 돌아갑시다.
-<Woodrow>님이 걱정됩니다.
+<Woodrow> 님이 걱정됩니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

@@ -504,7 +504,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇다면, <Johnny>씨가
+그렇다면, <Johnny> 씨가
 제대로 하면 되잖아요.
 [ENDBLOCK]
 <Johnny>
@@ -533,7 +533,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Johnny>씨의 나이와
+<Johnny> 씨의 나이와
 상관없는 문제입니다.
 [ENDBLOCK]
 <Chelsea>
@@ -566,7 +566,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…<Johnny>씨에게는
+…<Johnny> 씨에게는
 부모님이 계시잖아요！
 [ENDBLOCK]
 <Johnny>
@@ -1118,7 +1118,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-저기, <Johnny>님?
+저기, <Johnny> 님?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -1131,7 +1131,7 @@ select
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Johnny>님, 뭔가 예전과
+<Johnny> 님, 뭔가 예전과
 다른 사람 같은 느낌이야.
 [ENDBLOCK]
 <Johnny>
@@ -1149,7 +1149,7 @@ select
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-그게 말이지, 뭔가 <Johnny>님이
+그게 말이지, 뭔가 <Johnny> 님이
 진짜로 웃고 있는 느낌이야.
 [ENDBLOCK]
 <Johnny>
@@ -1158,7 +1158,7 @@ select
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-예전의 <Johnny>님도 즐겁고
+예전의 <Johnny> 님도 즐겁고
 재미있었지만.
 [ENDBLOCK]
 여자아이

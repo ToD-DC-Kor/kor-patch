@@ -31,7 +31,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>님과 <Hugo>가,
+<Rutee> 님과 <Hugo>가,
 부자 관계였다니…
 [ENDBLOCK]
 <Woodrow>
@@ -315,16 +315,16 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-이것도 <Stahn>님이,
+이것도 <Stahn> 님이,
 힘을 주셔서 가능한 일이에요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>님…
+<Lion> 님…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>님, 다시 부탁드립니다.
+<Lion> 님, 다시 부탁드립니다.
 부디 저도, 함께 싸우게 해주세요.
 [ENDBLOCK]
 <Stahn>
@@ -339,7 +339,7 @@ notice
 <Philia>
 [ENDBLOCK]
 …네!
-<Lion>님, 감사합니다.
+<Lion> 님, 감사합니다.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]

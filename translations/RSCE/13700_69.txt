@@ -41,7 +41,7 @@
 [ENDBLOCK]
 괜찮아요.
 여기는 판달리아 왕의
-<Woodrow>님입니다.
+<Woodrow> 님입니다.
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -122,7 +122,7 @@
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-<Lion>님, 당신의 노력을,
+<Lion> 님, 당신의 노력을,
 항상 기쁘게 생각하고 있습니다.
 [ENDBLOCK]
 <Queen>

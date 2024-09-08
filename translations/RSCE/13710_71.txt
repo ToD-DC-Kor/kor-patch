@@ -437,7 +437,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Reynolds>님이 무사해서,
+<Reynolds> 님이 무사해서,
 정말 다행입니다.
 [ENDBLOCK]
 <Woodrow>

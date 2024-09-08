@@ -320,7 +320,7 @@ notice
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]
-<Mary>씨네,
+<Mary> 씨네,
 또 남편과 떨어져있네.
 [ENDBLOCK]
 아줌마
@@ -369,7 +369,7 @@ notice
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-<Greybum>님이 도와주지 않았다면,
+<Greybum> 님이 도와주지 않았다면,
 이렇게 순조롭지 않았을 거야.
 [ENDBLOCK]
 아저씨

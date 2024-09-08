@@ -480,7 +480,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>님!
+<Johnny> 님!
 그런 식으로 말하면 안 되죠.
 [ENDBLOCK]
 <Johnny>
@@ -1154,7 +1154,7 @@ select
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-어, <Johnny>님?
+어, <Johnny> 님?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -1167,7 +1167,7 @@ select
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-<Johnny>님, 뭔가 예전과
+<Johnny> 님, 뭔가 예전과
 다른 사람 같아요.
 [ENDBLOCK]
 <Johnny>
@@ -1186,7 +1186,7 @@ select
 소녀
 [ENDBLOCK]
 그렇구나, 뭔가ねぇ,
-<Johnny>님이 정말 웃고 있는 것 같아.
+<Johnny> 님이 정말 웃고 있는 것 같아.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -1194,7 +1194,7 @@ select
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-예전의 <Johnny>님도 즐거웠고
+예전의 <Johnny> 님도 즐거웠고
 재미있었지만.
 [ENDBLOCK]
 소녀

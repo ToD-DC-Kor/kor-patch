@@ -152,7 +152,7 @@
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-성으로 가서, <Darzen>님과,
+성으로 가서, <Darzen> 님과,
 해결책을 논의할 생각이야.
 [ENDBLOCK]
 <Dalis>
@@ -163,7 +163,7 @@
 <Dalis>
 [ENDBLOCK]
 드래곤은 도움이 되고 있는 것 같아.
-<Darzen>님도 기뻐할 거야.
+<Darzen> 님도 기뻐할 거야.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -243,7 +243,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary>님…
+<Mary> 님…
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -305,7 +305,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary>님, 기억을…？
+<Mary> 님, 기억을…？
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -448,7 +448,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dalis>씨는 <Mary>씨를,
+<Dalis> 씨는 <Mary> 씨를,
 눈치채지 못한 건가？
 [ENDBLOCK]
 <Rutee>
@@ -467,7 +467,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Dalis>님은 <Greybum>과,
+<Dalis> 님은 <Greybum>과,
 손을 잡았다는 건가요？
 [ENDBLOCK]
 <Mary>
@@ -500,7 +500,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-곧바로 뒤를 쫓아가자, <Mary>님.
+곧바로 뒤를 쫓아가자, <Mary> 님.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]

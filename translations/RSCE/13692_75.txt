@@ -630,7 +630,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>씨가…!
+<Lion> 씨가…!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -751,7 +751,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그건 우리에게, <Lion>님과,
+그건 우리에게, <Lion> 님과,
 싸우라는 의미죠…
 [ENDBLOCK]
 <King>
@@ -1257,7 +1257,7 @@
 [ENDBLOCK]
 우일
 [ENDBLOCK]
-우일입니다. <Lion>님과 함께
+우일입니다. <Lion> 님과 함께
 일할 수 있다니 영광입니다.
 [ENDBLOCK]
 우일
@@ -1277,7 +1277,7 @@
 [ENDBLOCK]
 우일
 [ENDBLOCK]
-죄송합니다, <Lion>님.
+죄송합니다, <Lion> 님.
 [ENDBLOCK]
 조브스
 [ENDBLOCK]
@@ -1637,7 +1637,7 @@ select
 우일
 [ENDBLOCK]
 그렇군요.
-감사합니다, <Lion>님.
+감사합니다, <Lion> 님.
 [ENDBLOCK]
 우일
 [ENDBLOCK]
@@ -2271,7 +2271,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dryden>님, 대체,
+<Dryden> 님, 대체,
 누구를 말씀하시는 건가요?
 [ENDBLOCK]
 <Dryden>
@@ -2280,7 +2280,7 @@ notice
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-<Lion>님은,
+<Lion> 님은,
 형님의 친구잖아요?
 [ENDBLOCK]
 <Stahn>
@@ -2301,7 +2301,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 완전히, <Dryden>님이
+나는 완전히, <Dryden> 님이
 <Lion>을 싫어하는 줄 알았어요.
 [ENDBLOCK]
 <Dryden>

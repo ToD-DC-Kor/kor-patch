@@ -61,7 +61,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-아시다시피, 아버지 이자크님은 지난
+아시다시피, 아버지 이자크 님은 지난
 <Greybum>의 난 때에 별세하셨습니다.
 [ENDBLOCK]
 <Darzen>
@@ -85,7 +85,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-그 온화한 이자크님이십니까!?
+그 온화한 이자크 님이십니까!?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
@@ -117,7 +117,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-그래서 이자크님이 쓰러졌을 때도,
+그래서 이자크 님이 쓰러졌을 때도,
 분노를 억누르고, 슬픔을 참고 계셨던 것입니다.
 [ENDBLOCK]
 <Darzen>

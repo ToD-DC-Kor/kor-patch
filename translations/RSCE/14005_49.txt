@@ -550,7 +550,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-죄, 죄송합니다, <Stahn>님.
+죄, 죄송합니다, <Stahn> 님.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -674,7 +674,7 @@ select
 <Stahn>
 [ENDBLOCK]
 말 그대로 노이슈타트에 왔으니,
-<Ilene>씨에게 인사라도 하고 갈까?
+<Ilene> 씨에게 인사라도 하고 갈까?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -687,7 +687,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Ilene>씨는, 한동안 공적인 자리에서,
+<Ilene> 씨는, 한동안 공적인 자리에서,
 모습을 보이지 않는 것 같아요.
 [ENDBLOCK]
 <Stahn>

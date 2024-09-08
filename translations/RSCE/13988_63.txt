@@ -578,13 +578,13 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-<Ilene>님은 어떤 사람에게도,
+<Ilene> 님은 어떤 사람에게도,
 가리지 않고 친절하게 대해 주십니다.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
 도시의 피해가 가벼운 것은,
-<Ilene>님의 지시가 정확했기 때문입니다.
+<Ilene> 님의 지시가 정확했기 때문입니다.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
@@ -594,11 +594,11 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 할머니
 [ENDBLOCK]
 도시의 피해가 가벼운 것은,
-<Ilene>님의 지시가 정확했기 때문입니다.
+<Ilene> 님의 지시가 정확했기 때문입니다.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-사라지기 전의 <Ilene>님을 봤는데,
+사라지기 전의 <Ilene> 님을 봤는데,
 아주 무서운 표정을 하고 계셨어요.
 [ENDBLOCK]
 할머니

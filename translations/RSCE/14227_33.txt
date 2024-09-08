@@ -499,7 +499,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 판다리아 병사
 [ENDBLOCK]
-<Johnny>님, 곧 출발하고 싶은데…
+<Johnny> 님, 곧 출발하고 싶은데…
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]

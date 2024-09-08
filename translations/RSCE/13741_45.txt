@@ -544,7 +544,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 오베론 직원
 [ENDBLOCK]
-칠 장군의 리인님은
+칠 장군의 리인 님은
 정말 좋지 않아～.
 [ENDBLOCK]
 오베론 직원
@@ -573,7 +573,7 @@ notice
 왕국 병사
 [ENDBLOCK]
 아무든 말씀해 주세요,
-<Lion>님!
+<Lion> 님!
 [ENDBLOCK]
 왕국 병사
 [ENDBLOCK]
@@ -593,7 +593,7 @@ notice
 왕국 병사
 [ENDBLOCK]
 아무든 말씀해 주세요,
-<Lion>님!
+<Lion> 님!
 [ENDBLOCK]
 왕국 병사
 [ENDBLOCK]
@@ -602,7 +602,7 @@ notice
 [ENDBLOCK]
 왕국 병사
 [ENDBLOCK]
-<Lion>님은 함께하지 않는 건가.
+<Lion> 님은 함께하지 않는 건가.
 그럼 경솔하게 굴 필요는 없겠네.
 [ENDBLOCK]
 왕국 병사
@@ -667,7 +667,7 @@ notice
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-이봐, 이봐 <Lion>님은
+이봐, 이봐 <Lion> 님은
 어디에 살고 있어?
 [ENDBLOCK]
 여자아이
@@ -682,12 +682,12 @@ notice
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-이봐, 이봐 <Lion>님의
+이봐, 이봐 <Lion> 님의
 어머니는 어떤 분이야?
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-이봐, 이봐 <Lion>님은
+이봐, 이봐 <Lion> 님은
 어디에 살고 있어?
 [ENDBLOCK]
 여자아이
@@ -1179,7 +1179,7 @@ select
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-칠 장군의 루웨인이님이,
+칠 장군의 루웨인 님이,
 계획한 것 같아…
 [ENDBLOCK]
 남자
@@ -1199,7 +1199,7 @@ select
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-루웨인이님의 지시에 따라,
+루웨인 님의 지시에 따라,
 <Ascus>와 데이트를 하게 된
 <Melina>였지만…
 [ENDBLOCK]
@@ -1236,7 +1236,7 @@ select
 남자
 [ENDBLOCK]
 <Melina>는「이, 이건
-루웨인이님의 명령이야. 마음대로
+루웨인 님의 명령이야. 마음대로
 돌아갈 수는 없어」.
 [ENDBLOCK]
 남자
@@ -1263,7 +1263,7 @@ select
 <Stahn>
 [ENDBLOCK]
 하지만 지금 보니까,
-<Melina>님은 <Ascus>님을
+<Melina> 님은 <Ascus> 님을
 좋아하는 것처럼 보였는데.
 [ENDBLOCK]
 <Philia>

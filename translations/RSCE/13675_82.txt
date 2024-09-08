@@ -7,7 +7,7 @@
 [ENDBLOCK]
 비서
 [ENDBLOCK]
-저요? 저는 <Walt>님
+저요? 저는 <Walt> 님
 비서입니다만…
 [ENDBLOCK]
 비서
@@ -17,7 +17,7 @@
 [ENDBLOCK]
 비서
 [ENDBLOCK]
-<Walt>님이 시켜서,
+<Walt> 님이 시켜서,
 저도 렌즈 모으는 걸 도왔습니다.
 [ENDBLOCK]
 비서
@@ -27,7 +27,7 @@
 [ENDBLOCK]
 비서
 [ENDBLOCK]
-<Walt>님이 시켜서,
+<Walt> 님이 시켜서,
 저도 렌즈 모으는 걸 도왔습니다.
 [ENDBLOCK]
 <Walt>

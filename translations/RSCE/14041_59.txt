@@ -123,7 +123,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>씨도 장난치지 말아주세요.
+<Rutee> 씨도 장난치지 말아주세요.
 …이분도 싫어하실 거예요.
 [ENDBLOCK]
 <Rutee>
@@ -151,7 +151,7 @@
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-（…뭐야? <Philia>씨가
+（…뭐야? <Philia> 씨가
 평소보다 적극적이지 않아?!	
 이건…!!）
 [ENDBLOCK]

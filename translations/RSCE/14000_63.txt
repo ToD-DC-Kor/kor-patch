@@ -13,7 +13,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>님, 더 이상은…
+<Lion> 님, 더 이상은…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -39,7 +39,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Batista>님, 제발 부탁입니다.
+<Batista> 님, 제발 부탁입니다.
 <Greybum>의 위치를 알려주세요.
 [ENDBLOCK]
 <Batista>
@@ -90,7 +90,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary>님, 싫은 건가요?
+<Mary> 님, 싫은 건가요?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]

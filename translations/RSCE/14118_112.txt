@@ -481,12 +481,12 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-<Fayte>님！
+<Fayte> 님！
 저는 범인이 아닙니다！
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-<Johnny>님도 믿어주세요.
+<Johnny> 님도 믿어주세요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -504,7 +504,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-<Johnny>님,
+<Johnny> 님,
 부디 저를 도와주세요！
 [ENDBLOCK]
 <Johnny>
@@ -513,7 +513,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>님, 이 아이의 처우에 대해서는
+<Fayte> 님, 이 아이의 처우에 대해서는
 조금 기다려줄 수 없겠습니까？
 [ENDBLOCK]
 <Fayte>
@@ -560,7 +560,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-그래서 <Fayte>님은 여러분에게
+그래서 <Fayte> 님은 여러분에게
 시간을 주신 것이라고 생각합니다.
 [ENDBLOCK]
 병사
@@ -633,7 +633,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-그럼, 안으로 들어가서<Fayte>님께
+그럼, 안으로 들어가서<Fayte> 님께
 설명해 주세요.
 [ENDBLOCK]
 병사
@@ -898,17 +898,17 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 모리유 병사
 [ENDBLOCK]
-지노님… 지켜드리지 못해,
+지노 님… 지켜드리지 못해,
 정말로 죄송합니다…!
 [ENDBLOCK]
 모리유 병사
 [ENDBLOCK]
-앞으로는 <Fayte>님을 받들어,
+앞으로는 <Fayte> 님을 받들어,
 모리유의 영광을 되찾겠습니다.
 [ENDBLOCK]
 모리유 병사
 [ENDBLOCK]
-<Fayte>님께서 함부로 소란을 피우지 말고,
+<Fayte> 님께서 함부로 소란을 피우지 말고,
 냉정한 태도를 취하라고 하셨습니다.
 [ENDBLOCK]
 모리유 병사
@@ -943,7 +943,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-<Fayte>님, 만세.
+<Fayte> 님, 만세.
 [ENDBLOCK]
 아이
 [ENDBLOCK]
@@ -968,7 +968,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-<Fayte>님이 계신다면,
+<Fayte> 님이 계신다면,
 분명 모두와 잘 지낼 수 있을 거야.
 [ENDBLOCK]
 여자아이
@@ -994,7 +994,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 물고기 판매하는 사람
 [ENDBLOCK]
 다시 장사를 할 수 있게 되었어.
-<Fayte>님, 만세다!
+<Fayte> 님, 만세다!
 [ENDBLOCK]
 물고기 판매하는 사람
 [ENDBLOCK]
@@ -1019,7 +1019,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 물고기 판매하는 사람
 [ENDBLOCK]
 다시 장사를 할 수 있게 되었어.
-<Fayte>님, 만세다!
+<Fayte> 님, 만세다!
 [ENDBLOCK]
 물고기 판매하는 사람
 [ENDBLOCK]
@@ -1074,7 +1074,7 @@ select
 [ENDBLOCK]
 영주가 된 지 얼마 안 되어,
 이런 일이 생기다니
-<Fayte>님도 안타깝네요.
+<Fayte> 님도 안타깝네요.
 [ENDBLOCK]
 모리우 병사
 [ENDBLOCK]
@@ -1108,7 +1108,7 @@ select
 [ENDBLOCK]
 시덴의 민
 [ENDBLOCK]
-<Rihanna>님의 아름다움은 정말 대단하군요!
+<Rihanna> 님의 아름다움은 정말 대단하군요!
 한눈에 팬이 되었습니다.
 [ENDBLOCK]
 시덴의 민
@@ -1118,12 +1118,12 @@ select
 [ENDBLOCK]
 시덴의 민
 [ENDBLOCK]
-<Rihanna>님, 몸이 좋지 않다고 하시네요.
+<Rihanna> 님, 몸이 좋지 않다고 하시네요.
 걱정입니다.
 [ENDBLOCK]
 시덴의 민
 [ENDBLOCK]
-<Rihanna>님, 임신하셨다고요?
+<Rihanna> 님, 임신하셨다고요?
 걱정할 필요 없었군요.
 [ENDBLOCK]
 <Philia>

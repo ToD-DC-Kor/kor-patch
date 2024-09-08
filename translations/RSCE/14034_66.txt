@@ -114,7 +114,7 @@
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-（…<Philia>씨는 아직,
+（…<Philia> 씨는 아직,
 자신의 마음을 깨닫지 못하고 있군…）
 [ENDBLOCK]
 <Kongman>
@@ -175,7 +175,7 @@
 [ENDBLOCK]
 간호사
 [ENDBLOCK]
-「스,<Stahn>씨？」
+「스,<Stahn> 씨？」
 이런 느낌인가요?
 [ENDBLOCK]
 <Johnny>
@@ -190,7 +190,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>씨도 농담하지 마세요.
+<Rutee> 씨도 농담하지 마세요.
 …이분도 싫어할 거예요.
 [ENDBLOCK]
 <Rutee>
@@ -200,7 +200,7 @@
 [ENDBLOCK]
 간호사
 [ENDBLOCK]
-아, 저…<Kongman>씨에게
+아, 저…<Kongman> 씨에게
 좋아해주신다면 저…
 [ENDBLOCK]
 <Stahn>
@@ -213,12 +213,12 @@
 [ENDBLOCK]
 간호사
 [ENDBLOCK]
-저, <Kongman>씨…
+저, <Kongman> 씨…
 저는 당신을 계속…
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-（…뭐야? <Philia>씨가
+（…뭐야? <Philia> 씨가
 평소보다 적극적이잖아!?	
 이건…!!）
 [ENDBLOCK]
@@ -413,7 +413,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님…
+<Stahn> 님…
 부디 무리하지 마세요…
 [ENDBLOCK]
 <Stahn>

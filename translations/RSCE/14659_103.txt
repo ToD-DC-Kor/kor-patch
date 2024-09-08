@@ -5,7 +5,7 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-안녕하세요, <Dymlos>님.
+안녕하세요, <Dymlos> 님.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -447,7 +447,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님, 괜찮으신가요?
+<Woodrow> 님, 괜찮으신가요?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]

@@ -5,7 +5,7 @@
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-<Lion>님, 자주 와주셔서 감사합니다.
+<Lion> 님, 자주 와주셔서 감사합니다.
 뭔가 드시겠습니까?
 [ENDBLOCK]
 여성

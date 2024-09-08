@@ -755,7 +755,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Hugo>님을 뛰어넘고 싶어요.
+<Hugo> 님을 뛰어넘고 싶어요.
 <Marian>과 함께 있고 싶어요.
 [ENDBLOCK]
 <Chaltier>

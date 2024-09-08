@@ -61,7 +61,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-아시다시피, 아버지 이자크님은 지난
+아시다시피, 아버지 이자크 님은 지난
 <Greybum>의 난 때에 별세하셨습니다.
 [ENDBLOCK]
 <Darzen>
@@ -85,7 +85,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-그 온화한 이자크님이십니까!?
+그 온화한 이자크 님이십니까!?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
@@ -117,7 +117,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-그래서 이자크님이 쓰러졌을 때도,
+그래서 이자크 님이 쓰러졌을 때도,
 분노를 억누르고, 슬픔을 참고 계셨던 것입니다.
 [ENDBLOCK]
 <Darzen>
@@ -162,7 +162,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Darzen>님.
+<Darzen> 님.
 하나 여쭤봐도 될까요?
 [ENDBLOCK]
 <Darzen>
@@ -171,7 +171,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow>님의 가족은
+<Woodrow> 님의 가족은
 어떻게 되셨습니까?
 [ENDBLOCK]
 <Darzen>
@@ -205,7 +205,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님!!
+<Woodrow> 님!!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -288,7 +288,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-<Greybum>님이…
+<Greybum> 님이…
 [ENDBLOCK]
 병사
 [ENDBLOCK]
@@ -479,7 +479,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님 어머니입니다.
+<Woodrow> 님 어머니입니다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -505,7 +505,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님의 어머니
+<Woodrow> 님의 어머니
 이시거든요!
 [ENDBLOCK]
 <Chelsea>
@@ -626,7 +626,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-오, <Lion>님.
+오, <Lion> 님.
 오랜만입니다.
 [ENDBLOCK]
 <Darzen>
@@ -739,7 +739,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 판다리아 병사
 [ENDBLOCK]
-전하와<Chelsea>님이 돌아오시는 날을
+전하와<Chelsea> 님이 돌아오시는 날을
 진심으로 기다리고 있습니다.
 [ENDBLOCK]
 판다리아 병사
@@ -808,13 +808,13 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-와아, <Lion>님.
+와아, <Lion> 님.
 오랜만입니다.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
 저기 걸려 있는 초상화는,
-<Woodrow>님의 어머님입니다.
+<Woodrow> 님의 어머님입니다.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -841,7 +841,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님의 도움이 되기 위해,
+<Woodrow> 님의 도움이 되기 위해,
 온 힘을 다하고 있는 매일입니다.
 [ENDBLOCK]
 <Stahn>
@@ -910,7 +910,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님이 계신 곳에는,
+<Woodrow> 님이 계신 곳에는,
 <Chelsea>도 함께야.
 [ENDBLOCK]
 <Kongman>
@@ -962,7 +962,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow>님,
+<Woodrow> 님,
 할 일이 많으신가 보군요.
 [ENDBLOCK]
 <Dymlos>
@@ -971,7 +971,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-아, <Mary>님,
+아, <Mary> 님,
 조금 괜찮으신가요…？
 [ENDBLOCK]
 <Mary>
@@ -980,7 +980,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Mary>님과 <Chelsea>님,
+<Mary> 님과 <Chelsea> 님,
 둘이서 무슨 이야기를 하고 계신가요？
 [ENDBLOCK]
 <Stahn>
@@ -997,7 +997,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Mary>님은 <Woodrow>님을,
+<Mary> 님은 <Woodrow> 님을,
 편들고 계신가요？
 [ENDBLOCK]
 <Mary>
@@ -1034,7 +1034,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님을 지키기 위해,
+<Woodrow> 님을 지키기 위해,
 전광석화로 당신의 심장을 쏴버리겠습니다.
 [ENDBLOCK]
 <Mary>

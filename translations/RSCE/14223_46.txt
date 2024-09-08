@@ -421,7 +421,7 @@
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님… 여기서…
+<Woodrow> 님… 여기서…
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -438,7 +438,7 @@
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Stahn>님…
+<Stahn> 님…
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -583,7 +583,7 @@
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님이,
+<Woodrow> 님이,
 아직 계신데요!
 [ENDBLOCK]
 <Alba>

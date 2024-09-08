@@ -145,7 +145,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-괜찮으세요, <Stahn>님!?
+괜찮으세요, <Stahn> 님!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -154,7 +154,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>님… 당신은…
+<Lion> 님… 당신은…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

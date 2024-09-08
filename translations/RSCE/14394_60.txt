@@ -1648,7 +1648,7 @@ notice
 [ENDBLOCK]
 토마스
 [ENDBLOCK]
-루웨인님…
+루웨인 님…
 [ENDBLOCK]
 루웨인
 [ENDBLOCK]
@@ -1683,7 +1683,7 @@ notice
 [ENDBLOCK]
 토마스
 [ENDBLOCK]
-루, 루웨인님!
+루, 루웨인 님!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]

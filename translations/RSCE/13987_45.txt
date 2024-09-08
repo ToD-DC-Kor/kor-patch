@@ -621,7 +621,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 노인
 [ENDBLOCK]
-<Ilene>님은 젊으신데,
+<Ilene> 님은 젊으신데,
 대단한 경영 수완을 가지고 계십니다네.
 [ENDBLOCK]
 노인
@@ -637,7 +637,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 노인
 [ENDBLOCK]
 저쪽을 세우면 이쪽이 서지 않네.
-<Ilene>님은 힘든 입장이군요.
+<Ilene> 님은 힘든 입장이군요.
 [ENDBLOCK]
 노인
 [ENDBLOCK]

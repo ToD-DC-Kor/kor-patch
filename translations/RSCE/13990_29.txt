@@ -24,7 +24,7 @@ reset---------
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>씨.
+<Ilene> 씨.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -32,7 +32,7 @@ reset---------
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>씨가 걱정되어서…
+<Ilene> 씨가 걱정되어서…
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -69,7 +69,7 @@ reset---------
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>씨, 자신이 다칠 정도로,
+<Ilene> 씨, 자신이 다칠 정도로,
 열심히 했는데…
 [ENDBLOCK]
 <Ilene>
@@ -108,7 +108,7 @@ reset---------
 <Stahn>
 [ENDBLOCK]
 자신이 목표하는 것이 확실한,
-<Ilene>씨는 훌륭하다고 생각해요.
+<Ilene> 씨는 훌륭하다고 생각해요.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]

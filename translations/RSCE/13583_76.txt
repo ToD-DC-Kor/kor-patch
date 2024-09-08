@@ -82,7 +82,7 @@
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님까지, 너무해요!
+<Woodrow> 님까지, 너무해요!
 
 [ENDBLOCK]
 <Stahn>
@@ -111,7 +111,7 @@
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-…<Stahn>님, 제 말은
+…<Stahn> 님, 제 말은
 그렇게 듣고 있지 않네요.
 [ENDBLOCK]
 <Woodrow>
@@ -350,7 +350,7 @@
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Stahn>님! 다시 만나서,
+<Stahn> 님! 다시 만나서,
 반갑습니다.
 [ENDBLOCK]
 <Chelsea>
@@ -466,7 +466,7 @@
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-정말요!? <Woodrow>님,
+정말요!? <Woodrow> 님,
 벌써 가시게 되는 건가요?
 
 [ENDBLOCK]
@@ -518,7 +518,7 @@
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님. 꼭 다시,
+<Woodrow> 님. 꼭 다시,
 여기로 오세요.
 
 [ENDBLOCK]

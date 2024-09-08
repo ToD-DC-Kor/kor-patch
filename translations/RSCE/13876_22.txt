@@ -8,8 +8,8 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>씨…
-<Fayte>씨…
+<Johnny> 씨…
+<Fayte> 씨…
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
@@ -44,7 +44,7 @@
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-<Stahn>씨!?
+<Stahn> 씨!?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]

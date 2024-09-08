@@ -662,7 +662,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Stahn>
 [ENDBLOCK]
 나는 아버지가 없으니,
-<Woodrow>님이 부럽습니다.
+<Woodrow> 님이 부럽습니다.
 
 [ENDBLOCK]
 <Woodrow>

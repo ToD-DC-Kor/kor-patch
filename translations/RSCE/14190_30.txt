@@ -594,17 +594,17 @@ select
 [ENDBLOCK]
 토케이 병사
 [ENDBLOCK]
-<Eleanor>님은, 전 대왕 폐하의
+<Eleanor> 님은, 전 대왕 폐하의
 부인에 대한 이야기입니다.
 [ENDBLOCK]
 토케이 병사
 [ENDBLOCK]
-그렇지만, <Eleanor>님의 마음이,
+그렇지만, <Eleanor> 님의 마음이,
 대왕 폐하를 향한 적은 없었다고 합니다.
 [ENDBLOCK]
 토케이 병사
 [ENDBLOCK]
-<Eleanor>님이 생존하셨다면,
+<Eleanor> 님이 생존하셨다면,
 이번 일을 어떻게 생각하셨을까요.
 [ENDBLOCK]
 notice

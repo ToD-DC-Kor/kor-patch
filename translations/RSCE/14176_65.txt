@@ -548,7 +548,7 @@ notice
 [ENDBLOCK]
 주인 아줌마
 [ENDBLOCK]
-<Eleanor>님이 계셨다면,
+<Eleanor> 님이 계셨다면,
 대왕도 그렇게 되지 않았을지도 모르겠네.
 [ENDBLOCK]
 주인 아줌마

@@ -8,7 +8,7 @@ select
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>씨를 두고 갈 수는 없지.
+<x19><x6A><x04><x80> 씨를 두고 갈 수는 없지.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
@@ -21,7 +21,7 @@ select
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>씨를 두고 가면 안 되지.
+<x19><x6A><x04><x80> 씨를 두고 가면 안 되지.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
@@ -33,17 +33,17 @@ select
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>님을 두고 갈 수는
+<x19><x6A><x04><x80> 님을 두고 갈 수는
 없어.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>씨를 두고는
+<x19><x6A><x04><x80> 씨를 두고는
 안 됩니다.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-이런 곳에 <x19><x6A><x04><x80>씨를
+이런 곳에 <x19><x6A><x04><x80> 씨를
 두고 갈 수는 없어.
 [ENDBLOCK]
 <Leader>
@@ -104,13 +104,13 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-알겠어. <Woodrow>님이,
+알겠어. <Woodrow> 님이,
 그렇게 말씀하신다면…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 나는 남을게.
-<Stahn>씨들은 계속 가.
+<Stahn> 씨들은 계속 가.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -167,7 +167,7 @@ select
 <Chelsea>
 [ENDBLOCK]
 기다리게 해서 미안해요,
-<Woodrow>님.
+<Woodrow> 님.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -184,12 +184,12 @@ R키는 손에 넣은 것 같군.
 <Kongman>
 [ENDBLOCK]
 기다리게 해서 미안해요,
-<Philia>씨!
+<Philia> 씨!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-수고하셨습니다, <Stahn>씨.
-<Kongman>씨.
+수고하셨습니다, <Stahn> 씨.
+<Kongman> 씨.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]

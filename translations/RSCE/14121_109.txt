@@ -123,7 +123,7 @@
 <Stahn>
 [ENDBLOCK]
 그런데 그게 괜찮은 건가요,
-<Johnny>씨?
+<Johnny> 씨?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -175,7 +175,7 @@
 남자
 [ENDBLOCK]
 젊은이, 큰일입니다!
-<Fayte>님 처형이 결정되었습니다!
+<Fayte> 님 처형이 결정되었습니다!
 [ENDBLOCK]
 저<Batista>라는,
 신임 대관이 선언했다고 합니다!
@@ -193,14 +193,14 @@
 호호, 피비린내 나는 이야기군.
 [ENDBLOCK]
 젊은이, 지금이 바로 일어설 때입니다!
-<Fayte>님을 내버려 둘 수는 없습니다!
+<Fayte> 님을 내버려 둘 수는 없습니다!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
 그 사람도 각오를 했겠지.
 지금 와서 내가 할 수 있는 일은 없어.
 [ENDBLOCK]
-<Fayte>님은,
+<Fayte> 님은,
 젊은이의 친한 친구가 아니었나요!
 [ENDBLOCK]
 <Johnny>
@@ -222,16 +222,16 @@
 [ENDBLOCK]
 네, 네.
 [ENDBLOCK]
-모리유 전 영주님의 아드님, <Fayte>님이,
+모리유 전 영주님의 아드님, <Fayte> 님이,
 성 안에 감금되어 있습니다.
 [ENDBLOCK]
-부인 <Rihanna>님도 함께…
+부인 <Rihanna> 님도 함께…
 아… 이렇게 가다간…
 [ENDBLOCK]
 선장
 [ENDBLOCK]
 이봐, 너!
-젊은이에게 <Fayte>님에 대해 이야기했지!
+젊은이에게 <Fayte> 님에 대해 이야기했지!
 [ENDBLOCK]
 젊은이가 혼자서,
 모리유 성으로 향해 버렸어!

@@ -112,7 +112,7 @@
 할머니
 [ENDBLOCK]
 여기는 마을을 구해주신 장군,
-<Ashley>님이시다.
+<Ashley> 님이시다.
 [ENDBLOCK]
 여성
 [ENDBLOCK]

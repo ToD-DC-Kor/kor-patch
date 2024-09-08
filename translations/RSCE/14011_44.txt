@@ -584,12 +584,12 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Kongman>님, 대단하신데요?
+<Kongman> 님, 대단하신데요?
 저, 연극 정말 좋아해요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-그, 그러니까, <Philia>님이,
+그, 그러니까, <Philia> 님이,
 내 연기 모습을 보고 싶다고 한다면…
 [ENDBLOCK]
 <Philia>
@@ -942,7 +942,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 여자
 [ENDBLOCK]
-<Ilene>님은 하층민에게 너무 관대하십니다.
+<Ilene> 님은 하층민에게 너무 관대하십니다.
 한 마디 의견을 말하게 해주시겠어요?
 [ENDBLOCK]
 여자

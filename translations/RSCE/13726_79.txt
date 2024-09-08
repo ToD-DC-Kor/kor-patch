@@ -434,7 +434,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 고기를 파는 상인
 [ENDBLOCK]
 칠장군 중에서, 군인님이
-가장 무서운 것은 <Dryden>님일 거야.
+가장 무서운 것은 <Dryden> 님일 거야.
 [ENDBLOCK]
 고기를 파는 상인
 [ENDBLOCK]
@@ -471,7 +471,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Isard>님은 여기서
+<Isard> 님은 여기서
 무엇을 하고 있었나요?
 [ENDBLOCK]
 <Isard>
@@ -553,7 +553,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Isard>님!
+<Isard> 님!
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
@@ -570,12 +570,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>님에 대해,
+<Johnny> 님에 대해,
 아는 건가요?
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-역시…<Johnny>님.
+역시…<Johnny> 님.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -587,7 +587,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-여기는 <Isard>님.
+여기는 <Isard> 님.
 칠장군 중 한 분이십니다.
 [ENDBLOCK]
 <Johnny>
@@ -600,7 +600,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-저를 재판해 주세요!<Johnny>님!!
+저를 재판해 주세요!<Johnny> 님!!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -609,11 +609,11 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-맞아요, <Isard>님!
+맞아요, <Isard> 님!
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-나는…지노님을
+나는…지노 님을
 내버려 두었기 때문에…
 [ENDBLOCK]
 <Johnny>
@@ -628,7 +628,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>님!?
+<Johnny> 님!?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -638,7 +638,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Isard>
 [ENDBLOCK]
 나는<Tiberius>의 대관식 때,
-나라를…지노님을…버리고,
+나라를…지노 님을…버리고,
 이 나라에 망명했습니다.
 [ENDBLOCK]
 <Isard>
@@ -653,7 +653,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-지노님의 사망이었습니다…
+지노 님의 사망이었습니다…
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
@@ -661,7 +661,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-내가 지노님 곁에 있었다면…!
+내가 지노 님 곁에 있었다면…!
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
@@ -683,8 +683,8 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-하지만, <Johnny>님.
-<Fayte>님은 저를…
+하지만, <Johnny> 님.
+<Fayte> 님은 저를…
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -712,7 +712,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>씨！
+<Johnny> 씨！
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
@@ -1007,7 +1007,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-…리, <Lion>님!
+…리, <Lion> 님!
 지금의 건 다른 거예요! 죄송합니다!
 [ENDBLOCK]
 메이드
@@ -1017,7 +1017,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-물고기를 물고 있는 <Lion>님이～♪
+물고기를 물고 있는 <Lion> 님이～♪
 골로냐아 하고 소리내～♪
 [ENDBLOCK]
 메이드
@@ -1037,7 +1037,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-…리, <Lion>님!
+…리, <Lion> 님!
 지금의 건 다른 거예요! 죄송합니다!
 [ENDBLOCK]
 메이드
@@ -1047,17 +1047,17 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-당신들, <Lion>님이 어디 갔는지
+당신들, <Lion> 님이 어디 갔는지
 모르세요?
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-그 목소리, <Hugo>님이 아니야.
+그 목소리, <Hugo> 님이 아니야.
 이게 무슨 일이야!?
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-저는 <Hugo>님과는 무관한데,
+저는 <Hugo> 님과는 무관한데,
 거리의 사람들이 차가워.
 [ENDBLOCK]
 메이드

@@ -133,8 +133,8 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-…<Lion>님？	
-<Lion>님이시네요！
+…<Lion> 님？	
+<Lion> 님이시네요！
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -156,12 +156,12 @@
 [ENDBLOCK]
 우일
 [ENDBLOCK]
-<Lion>님 덕분에
+<Lion> 님 덕분에
 저도 이제 경비대장입니다.
 [ENDBLOCK]
 우일
 [ENDBLOCK]
-하지만, <Lion>님이 오신다는 보고는
+하지만, <Lion> 님이 오신다는 보고는
 들어오지 않았습니다만…
 [ENDBLOCK]
 <Lion>
@@ -192,7 +192,7 @@
 [ENDBLOCK]
 우일
 [ENDBLOCK]
-<Lion>님…
+<Lion> 님…
 왜 이런 일을…！
 [ENDBLOCK]
 <Lion>

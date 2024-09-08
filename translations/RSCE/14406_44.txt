@@ -683,7 +683,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>님, 조용히 해 주세요!
+<Rutee> 님, 조용히 해 주세요!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

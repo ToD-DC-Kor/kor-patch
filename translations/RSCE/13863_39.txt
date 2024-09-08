@@ -470,7 +470,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>님. 지난번에
+<Lion> 님. 지난번에
 주교님의 호위 수고 많으셨습니다.
 [ENDBLOCK]
 <Lion>
@@ -587,7 +587,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>님…
+<Lion> 님…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -608,7 +608,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그렇다면, <Lion>씨를 믿고
+그렇다면, <Lion> 씨를 믿고
 열심히 해보겠습니다.
 [ENDBLOCK]
 <Philia>
@@ -1001,7 +1001,7 @@ notice
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-안녕하세요, <Philia>님!
+안녕하세요, <Philia> 님!
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
@@ -1009,7 +1009,7 @@ notice
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-<Philia>님, 하늘에 떠 있는 저것,
+<Philia> 님, 하늘에 떠 있는 저것,
 도대체 뭐죠?
 [ENDBLOCK]
 소녀
@@ -1024,7 +1024,7 @@ notice
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-<Philia>님, 힘내세요!
+<Philia> 님, 힘내세요!
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
@@ -1052,7 +1052,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>님이 아닌가요.
+<Lion> 님이 아닌가요.
 신전에 무슨 용건이라도?
 [ENDBLOCK]
 <Philia>
@@ -1062,12 +1062,12 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>님.
+<Lion> 님.
 감사합니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>님께 지지 않도록,
+<Lion> 님께 지지 않도록,
 저도 열심히 할게요.
 [ENDBLOCK]
 <Stahn>
@@ -1097,7 +1097,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-무사하셨습니까, <Lion>님.
+무사하셨습니까, <Lion> 님.
 [ENDBLOCK]
 잡스
 [ENDBLOCK]
@@ -1110,7 +1110,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion>님, 그리고 당신들 역시,
+<Lion> 님, 그리고 당신들 역시,
 주교님의 호위 수고 많았습니다.
 [ENDBLOCK]
 주교

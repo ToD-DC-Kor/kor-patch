@@ -737,7 +737,7 @@
 <Stahn>
 [ENDBLOCK]
 <Rutee>，
-<Hugo>님의 말씀대로 하자.
+<Hugo> 님의 말씀대로 하자.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

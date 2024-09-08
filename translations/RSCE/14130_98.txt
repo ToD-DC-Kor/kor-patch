@@ -53,8 +53,8 @@
 <Stahn>
 [ENDBLOCK]
 <TAG_007>단도직입적으로 범인은…!
-<Fayte>씨, 당신입니다!
-<Johnny>씨, 당신입니다!
+<Fayte> 씨, 당신입니다!
+<Johnny> 씨, 당신입니다!
 병사님, 당신입니다!
 여자아이님, 당신입니다!
 <Rutee>, 당신입니다!
@@ -220,7 +220,7 @@
 소녀
 [ENDBLOCK]
 네. 꽤 먼 친척이었지만…
-<Tiberius>님이 돌아가신 후
+<Tiberius> 님이 돌아가신 후
 우리는 정말 힘든 시간을 보냈어.
 [ENDBLOCK]
 <Johnny>
@@ -235,7 +235,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Fayte>님, 이 아이들은
+<Fayte> 님, 이 아이들은
 앞으로 어떻게 되는 건가요？
 [ENDBLOCK]
 <Fayte>

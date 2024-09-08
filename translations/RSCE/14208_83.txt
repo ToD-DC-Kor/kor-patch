@@ -250,7 +250,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>씨…？
+<Johnny> 씨…？
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -336,7 +336,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>씨, 당신은 도대체…
+<Johnny> 씨, 당신은 도대체…
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

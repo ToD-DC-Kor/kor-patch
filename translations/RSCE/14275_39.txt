@@ -161,17 +161,17 @@
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-<Greybum>님이 편이 되어 주셨으니,
+<Greybum> 님이 편이 되어 주셨으니,
 전투에서 이길 수 있었어.
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
 전에는 그렇게 높이 평가하더니,
-이제는 모두 <Greybum>님을 나쁘게 말해.
+이제는 모두 <Greybum> 님을 나쁘게 말해.
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-결국 어른들은,<Greybum>님에게 책임을
+결국 어른들은,<Greybum> 님에게 책임을
 전부 떠넘기고 있는 거야.
 [ENDBLOCK]
 소녀
@@ -406,12 +406,12 @@
 최근에는 정말 좋은 일만 계속되고 있어.
 전투에 이기고, 이자크도 죽었고.
 [ENDBLOCK]
-이것도 모두, <Greybum>님 덕분이야.
+이것도 모두, <Greybum> 님 덕분이야.
 그분이 운을 가져다주셨어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Greybum>님이라고…?
+<Greybum> 님이라고…?
 [ENDBLOCK]
 <Mary>는,
 이미 집에 돌아갔나?
@@ -505,7 +505,7 @@
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님, 무슨 일인가요?
+<Woodrow> 님, 무슨 일인가요?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -518,7 +518,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow>님…
+<Woodrow> 님…
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]

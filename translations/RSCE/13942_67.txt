@@ -729,7 +729,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-아, 언제나 무서운 <Lion>씨보다
+아, 언제나 무서운 <Lion> 씨보다
 좋지 않나요.
 [ENDBLOCK]
 <Rutee>
@@ -747,7 +747,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>씨…
+<Stahn> 씨…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -755,7 +755,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>씨…
+<Stahn> 씨…
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]

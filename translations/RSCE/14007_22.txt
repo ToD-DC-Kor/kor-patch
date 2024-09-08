@@ -29,7 +29,7 @@ reset---------
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-죄, 죄송합니다, <Stahn>님.
+죄, 죄송합니다, <Stahn> 님.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

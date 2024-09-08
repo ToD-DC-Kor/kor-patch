@@ -500,7 +500,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-괜찮아요, <Mary>님!
+괜찮아요, <Mary> 님!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]

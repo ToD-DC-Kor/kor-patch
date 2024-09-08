@@ -1400,7 +1400,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-괜찮아요, <Lilith>씨.
+괜찮아요, <Lilith> 씨.
 
 [ENDBLOCK]
 <Chelsea>
@@ -1450,7 +1450,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Lilith>씨, 반칙이에요!
+<Lilith> 씨, 반칙이에요!
 제가 찾았는데. 퉤.
 [ENDBLOCK]
 <Stahn>

@@ -21,7 +21,7 @@
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-이전에 <Hugo>님 댁에서,
+이전에 <Hugo> 님 댁에서,
 만난 분도 계십니다.
 [ENDBLOCK]
 <Stahn>
@@ -52,12 +52,12 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rembrandt>님！
+<Rembrandt> 님！
 왜 이런 일을 하시는 건가요？
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-<Hugo>님의 소원은 제 소원입니다.
+<Hugo> 님의 소원은 제 소원입니다.
 답은 이걸로 충분합니까？
 [ENDBLOCK]
 <Mary>
@@ -84,12 +84,12 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rembrandt>님…
+<Rembrandt> 님…
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
 …제가 여러분과 싸운 것은,
-<Hugo>님을 위해서만은 아닙니다.
+<Hugo> 님을 위해서만은 아닙니다.
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]

@@ -431,7 +431,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Fayte>씨, 무슨 일이에요!?
+<Fayte> 씨, 무슨 일이에요!?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
@@ -719,7 +719,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Chaltier>
 [ENDBLOCK]
 그저, 그 상황에서 구해준 것이
-바로 그 <Johnny>님입니다.
+바로 그 <Johnny> 님입니다.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -732,7 +732,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-그… 내가 <Johnny>님에게
+그… 내가 <Johnny> 님에게
 할 수 있는 일이, 뭔가 없을까…라고…
 [ENDBLOCK]
 <Lion>

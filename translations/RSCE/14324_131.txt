@@ -62,7 +62,7 @@
 [ENDBLOCK]
 남성
 [ENDBLOCK]
-<Woodrow>님, 제발
+<Woodrow> 님, 제발
 원래의 평화로운 도시를 되찾아 주세요.
 [ENDBLOCK]
 남성
@@ -276,7 +276,7 @@
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님…？
+<Woodrow> 님…？
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]

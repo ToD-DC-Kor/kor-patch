@@ -260,7 +260,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-…<Woodrow>님～.
+…<Woodrow> 님～.
 
 [ENDBLOCK]
 점장
@@ -618,7 +618,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님…？
+<Stahn> 님…？
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]

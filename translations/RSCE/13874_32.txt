@@ -21,7 +21,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님… 저, 뭔가…?
+<Stahn> 님… 저, 뭔가…?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -44,7 +44,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-…<Stahn>님은,
+…<Stahn> 님은,
 천지전쟁을 알고 있나요?
 [ENDBLOCK]
 <Philia>
@@ -171,12 +171,12 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님. 저…
+<Stahn> 님. 저…
 감사합니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님의 배려 덕분에,
+<Stahn> 님의 배려 덕분에,
 많이 마음이 진정되었습니다.
 [ENDBLOCK]
 <Philia>
@@ -251,7 +251,7 @@
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-<Greybum>님에게 따르지 않다니,
+<Greybum> 님에게 따르지 않다니,
 바보 같은 여자다, <Philia>.
 [ENDBLOCK]
 <Batista>

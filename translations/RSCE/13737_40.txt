@@ -6,7 +6,7 @@
 메이드
 [ENDBLOCK]
 무슨 일인가요,
-<Lion>님?
+<Lion> 님?
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
@@ -16,7 +16,7 @@
 메이드
 [ENDBLOCK]
 무슨 일인가요,
-<Lion>님?
+<Lion> 님?
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
@@ -388,7 +388,7 @@ notice
 메이드
 [ENDBLOCK]
 아, 당신들은 확실히,
-<Lion>님과.
+<Lion> 님과.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

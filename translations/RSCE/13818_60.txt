@@ -289,7 +289,7 @@ select
 [ENDBLOCK]
 사제
 [ENDBLOCK]
-<Ayles>님으로부터 이야기를 들었습니다.
+<Ayles> 님으로부터 이야기를 들었습니다.
 조심하세요.
 [ENDBLOCK]
 <Ayles>

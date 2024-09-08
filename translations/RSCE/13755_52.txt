@@ -109,11 +109,11 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-…고마워요, <Rutee>님.
+…고마워요, <Rutee> 님.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-환영합니다, <Lion>님.
+환영합니다, <Lion> 님.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -157,12 +157,12 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-다녀오세요, <Lion>님.
+다녀오세요, <Lion> 님.
 
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-환영합니다, <Lion>님.
+환영합니다, <Lion> 님.
 
 [ENDBLOCK]
 <Marian>
@@ -186,12 +186,12 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-<Lion>님이 돌아오실 때까지,
+<Lion> 님이 돌아오실 때까지,
 저가 저택의 일을 맡겠습니다.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-어서 오세요, <Stahn>님.
+어서 오세요, <Stahn> 님.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]

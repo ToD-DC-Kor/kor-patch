@@ -18,7 +18,7 @@
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님, 바다의 상태가 이상해요!
+<Woodrow> 님, 바다의 상태가 이상해요!
 무언가… 무언가 나오고 있어요!
 [ENDBLOCK]
 <Clemente>
@@ -129,7 +129,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님…
+<Stahn> 님…
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]

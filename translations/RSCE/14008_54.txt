@@ -950,7 +950,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-아, 저, <Stahn>님!
+아, 저, <Stahn> 님!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1453,7 +1453,7 @@ notice
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-챔피언 <Kongman>님이,
+챔피언 <Kongman> 님이,
 악의 두목을 날려버릴 거야!
 [ENDBLOCK]
 

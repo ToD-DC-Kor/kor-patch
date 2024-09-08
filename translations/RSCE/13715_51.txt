@@ -24,7 +24,7 @@
 세인가르드 병사
 [ENDBLOCK]
 비행룡이 돌아온 것도,
-모두 <Lion>님 덕분입니다.
+모두 <Lion> 님 덕분입니다.
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -185,7 +185,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-<Reynolds>님은 현재,
+<Reynolds> 님은 현재,
 면회 불가로 되어 있습니다.
 [ENDBLOCK]
 세인가르드 병사

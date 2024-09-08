@@ -364,17 +364,17 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 도구 가게
 [ENDBLOCK]
-<Fayte>님이 계시다면,
+<Fayte> 님이 계시다면,
 안심하고 장사를 할 수 있습니다わい.
 [ENDBLOCK]
 도구 가게
 [ENDBLOCK]
-<Fayte>님이라면 뭔가 해주실 거야.
+<Fayte> 님이라면 뭔가 해주실 거야.
 그렇게 믿고 장사를 계속하겠습니다わい.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>씨！
+<Johnny> 씨！
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]

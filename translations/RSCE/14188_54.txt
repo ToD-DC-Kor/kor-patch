@@ -657,7 +657,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-<Fayte>님이나 <Johnny>님도,
+<Fayte> 님이나 <Johnny> 님도,
 다른 나라 사람의 손을 빌렸겠지?
 [ENDBLOCK]
 할머니
@@ -672,12 +672,12 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 모리유의 민
 [ENDBLOCK]
-<Fayte>님이 검은 십자 함대를 이끌고
+<Fayte> 님이 검은 십자 함대를 이끌고
 항구에 나타났을 때는 멋졌어.
 [ENDBLOCK]
 모리유의 민
 [ENDBLOCK]
-<Fayte>님이 자주 여기 오셔서,
+<Fayte> 님이 자주 여기 오셔서,
 검은 십자 함대를 볼 기회도 늘었어.
 [ENDBLOCK]
 모리유의 민
@@ -687,7 +687,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 모리유의 민
 [ENDBLOCK]
-<Fayte>님이 진두 지휘를 하고,
+<Fayte> 님이 진두 지휘를 하고,
 렌즈를 모으고 있어.
 [ENDBLOCK]
 모리유의 민
@@ -696,7 +696,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 모리유의 민
 [ENDBLOCK]
-부탁할게. <Fayte>님의 마음을,
+부탁할게. <Fayte> 님의 마음을,
 헛되이 하지 말아주세요.
 [ENDBLOCK]
 장식가

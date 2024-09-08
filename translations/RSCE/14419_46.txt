@@ -239,7 +239,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>님이 조용히 부탁합니다!
+<Rutee> 님이 조용히 부탁합니다!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

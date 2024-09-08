@@ -167,7 +167,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-<Reynolds>님은 현재,
+<Reynolds> 님은 현재,
 면회 불가 상태입니다.
 [ENDBLOCK]
 세인가르드 병사
@@ -191,7 +191,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Reynolds>님,
+<Reynolds> 님,
 렌즈를 회수해왔습니다.
 [ENDBLOCK]
 <Reynolds>
@@ -373,7 +373,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Reynolds>님…
+<Reynolds> 님…
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -434,7 +434,7 @@
 <Stahn>
 [ENDBLOCK]
 …알겠어.
-<Reynolds>님, 부탁해.
+<Reynolds> 님, 부탁해.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]

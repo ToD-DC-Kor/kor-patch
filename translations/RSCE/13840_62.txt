@@ -723,7 +723,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그래그래, <Stahn>씨.
+그래그래, <Stahn> 씨.
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]

@@ -434,7 +434,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>씨…？
+<Johnny> 씨…？
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -489,7 +489,7 @@
 <Dalis>
 [ENDBLOCK]
 내가 여기 온 이유는,
-<Darzen>님에게 전달할 물건을 부탁받아서야.
+<Darzen> 님에게 전달할 물건을 부탁받아서야.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -518,7 +518,7 @@
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-…라고, 이것은 <Darzen>님으로부터의 전언이야.
+…라고, 이것은 <Darzen> 님으로부터의 전언이야.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -552,7 +552,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dalis>님, 감사합니다！
+<Dalis> 님, 감사합니다！
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -1303,7 +1303,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dryden>님, 도대체,
+<Dryden> 님, 도대체,
 누구의 이야기인가요?
 [ENDBLOCK]
 <Dryden>
@@ -1312,7 +1312,7 @@ notice
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-<Lion>님은,
+<Lion> 님은,
 형의 친구잖아요?
 [ENDBLOCK]
 <Stahn>

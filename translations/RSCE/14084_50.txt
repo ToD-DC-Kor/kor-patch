@@ -50,7 +50,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>님, 너무 뛰지 않는 게…
+<Rutee> 님, 너무 뛰지 않는 게…
 땅이 무너지면 큰일이에요.
 [ENDBLOCK]
 <Rutee>
@@ -75,7 +75,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<S06><Stahn>님!?
+<S06><Stahn> 님!?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -83,7 +83,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님! <Rutee>님! 무사해요?
+<Stahn> 님! <Rutee> 님! 무사해요?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -145,7 +145,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>씨의 분위기가,
+<Rutee> 씨의 분위기가,
 조금 변한 것 같아요.
 [ENDBLOCK]
 <Mary>

@@ -539,11 +539,11 @@ reset---------
 <Philia>
 [ENDBLOCK]
 사람은 각자 다르죠…
-잘됐네요, <Kongman>님…
+잘됐네요, <Kongman> 님…
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>님까지,
+<Philia> 님까지,
 너무하잖아요.
 [ENDBLOCK]
 <Kongman>
@@ -566,7 +566,7 @@ reset---------
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그렇다면…<Kongman>님을
+그렇다면…<Kongman> 님을
 그 대역으로?
 [ENDBLOCK]
 신인 감독
@@ -947,7 +947,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 여자
 [ENDBLOCK]
-<Ilene>님은 하층민에게 너무 관대하십니다.
+<Ilene> 님은 하층민에게 너무 관대하십니다.
 한 마디 의견을 말씀드리고 싶어요.
 [ENDBLOCK]
 여자
@@ -1080,7 +1080,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-여기가 <Mary>씨가 말한,
+여기가 <Mary> 씨가 말한,
 아이스캔디 가게군요.
 [ENDBLOCK]
 <Stahn>
@@ -1154,7 +1154,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>씨, 제가 들어줄까요?
+<Stahn> 씨, 제가 들어줄까요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1318,7 +1318,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님…
+<Stahn> 님…
 너무 간섭하지 않는 게 좋지 않을까요?
 [ENDBLOCK]
 <Stahn>
@@ -1426,12 +1426,12 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>님, 지켜봐 주세요.
+<Philia> 님, 지켜봐 주세요.
 승리 후에 모셔 가겠습니다!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-<Dymlos>… 당신이 <Stahn>님을
+<Dymlos>… 당신이 <Stahn> 님을
 막지 않으면, 어떻게 할 건가.
 [ENDBLOCK]
 <Dymlos>
@@ -1445,7 +1445,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-죄송해요, <Stahn>님.
+죄송해요, <Stahn> 님.
 내 탓으로, 이렇게 되어버려서…
 [ENDBLOCK]
 <Stahn>

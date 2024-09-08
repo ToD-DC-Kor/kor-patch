@@ -92,7 +92,7 @@
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-<Lion>님, 자주 오셨네요.
+<Lion> 님, 자주 오셨네요.
 뭔가 드시겠어요?
 [ENDBLOCK]
 여성
