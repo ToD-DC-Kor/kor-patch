@@ -53,32 +53,32 @@ g
 [ENDBLOCK]
 보디가드
 [ENDBLOCK]
-<Walt>씨는
+<Walt> 씨는
 2층에 계셔.
 [ENDBLOCK]
 보디가드
 [ENDBLOCK]
-너가 소문으로 듣던 <Lion>씨구나.
+너가 소문으로 듣던 <Lion> 씨구나.
 그냥 애새끼잖아.
 [ENDBLOCK]
 보디가드
 [ENDBLOCK]
-<Walt>씨는 2층에 계셔.
+<Walt> 씨는 2층에 계셔.
 빨리 가봐.
 [ENDBLOCK]
 보디가드
 [ENDBLOCK]
-이분이 <Lion>씨.
+이분이 <Lion> 씨.
 수고 많으십니다.
 [ENDBLOCK]
 보디가드
 [ENDBLOCK]
-<Walt>씨에게서 아무런 지시도 없어.
+<Walt> 씨에게서 아무런 지시도 없어.
 대체, 무슨 생각을 하고 있는 거지?
 [ENDBLOCK]
 보디가드
 [ENDBLOCK]
-<Walt>씨에게,
+<Walt> 씨에게,
 렌즈 모으기를 도와달라고 하셨지.
 [ENDBLOCK]
 보디가드
@@ -87,7 +87,7 @@ g
 [ENDBLOCK]
 보디가드
 [ENDBLOCK]
-<Walt>씨의 지시에 따라,
+<Walt> 씨의 지시에 따라,
 렌즈 모으기를 도왔어.
 [ENDBLOCK]
 보디가드
@@ -102,7 +102,7 @@ g
 [ENDBLOCK]
 보디가드
 [ENDBLOCK]
-<Lion>씨, 듣자 하니,
+<Lion> 씨, 듣자 하니,
 그 오베론 사의 자제라고…
 [ENDBLOCK]
 보디가드

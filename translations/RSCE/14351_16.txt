@@ -98,7 +98,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그래서 <Mary>씨에게,
+그래서 <Mary> 씨에게,
 이 나라를 떠나라고 한 것이군요.
 [ENDBLOCK]
 <Stahn>
@@ -137,7 +137,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dalis>님, <Mary>님의 마음도,
+<Dalis> 님, <Mary> 님의 마음도,
 생각해 주세요.
 [ENDBLOCK]
 <Stahn>

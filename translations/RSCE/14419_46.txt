@@ -4,10 +4,10 @@
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
-◆◆◆◆◆◆ 외殻 종료 ◆◆◆◆◆◆
+◆◆◆◆◆◆ 외각 종료 ◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●● 구름 시작 ●●●●●●
@@ -239,7 +239,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>님이 조용히 부탁합니다!
+<Rutee> 님이 조용히 부탁합니다!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -947,7 +947,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xC0><x80></color>가
 [ENDBLOCK]

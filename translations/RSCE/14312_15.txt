@@ -40,7 +40,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Kongman>과<Johnny>씨도,
+<Kongman>과<Johnny> 씨도,
 관심이 없다고 하네.
 [ENDBLOCK]
 <Woodrow>

@@ -7,10 +7,10 @@
 ××××××공중 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 종료◆◆◆◆◆◆
+◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●●구름 시작●●●●●●
@@ -32,7 +32,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 일이에요, <Mary>씨?
+무슨 일이에요, <Mary> 씨?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -58,7 +58,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-네, 괜찮아요. <Mary>씨가
+네, 괜찮아요. <Mary> 씨가
 그렇게 말한다면, 해보죠.
 [ENDBLOCK]
 <Stahn>
@@ -951,7 +951,7 @@ select
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]
-잭랜드
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]
@@ -1062,7 +1062,7 @@ select
 [ENDBLOCK]
 젊은 여자
 [ENDBLOCK]
-그래서 나는 <Lion>님을
+그래서 나는 <Lion> 님을
 이렇게 부르고 있어.
 [ENDBLOCK]
 젊은 여자
@@ -1072,7 +1072,7 @@ select
 젊은 여자
 [ENDBLOCK]
 나도 같은 여자지만…
-<Lion>님이라면…
+<Lion> 님이라면…
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]

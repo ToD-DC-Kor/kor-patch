@@ -134,8 +134,8 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런데…<Dalis>씨
-자다가<Mary>씨 이름을
+그런데…<Dalis> 씨
+자다가<Mary> 씨 이름을
 부르고 있었어요.
 [ENDBLOCK]
 <Dalis>
@@ -343,7 +343,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 예
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x04><x80></color>가
 [ENDBLOCK]

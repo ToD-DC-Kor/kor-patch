@@ -13,7 +13,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dalis>님의 상처 상태는
+<Dalis> 님의 상처 상태는
 어떻습니까?
 [ENDBLOCK]
 <Mary>
@@ -41,7 +41,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-자다가 <Mary>님의 이름을
+자다가 <Mary> 님의 이름을
 부르고 있네요?
 [ENDBLOCK]
 <Mary>
@@ -234,7 +234,7 @@
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-성으로 가서, <Darzen>님과,
+성으로 가서, <Darzen> 님과,
 대책을 협의할 생각이야.
 [ENDBLOCK]
 <Dalis>
@@ -245,7 +245,7 @@
 <Dalis>
 [ENDBLOCK]
 드래곤은 도움이 되고 있는 것 같군.
-<Darzen>님도 기뻐할 거야.
+<Darzen> 님도 기뻐할 거야.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]

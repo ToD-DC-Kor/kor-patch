@@ -167,7 +167,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-<Reynolds>님은 현재,
+<Reynolds> 님은 현재,
 면회 불가 상태입니다.
 [ENDBLOCK]
 세인가르드 병사
@@ -191,7 +191,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Reynolds>님,
+<Reynolds> 님,
 렌즈를 회수해왔습니다.
 [ENDBLOCK]
 <Reynolds>
@@ -232,12 +232,12 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-분명 외피를 관통하게 될 거야.
+분명 외각를 관통하게 될 거야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 그런데 관통하는 건,
-외피의 어디든 괜찮은 건가요?
+외각의 어디든 괜찮은 건가요?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -300,7 +300,7 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-외곽을 잘 봐주세요.
+외각을 잘 봐주세요.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -321,7 +321,7 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-저것의 영향으로, 렌즈포가 외곽에 닿으면,
+저것의 영향으로, 렌즈포가 외각에 닿으면,
 에너지가 흡수되어 버린단 말이야.
 [ENDBLOCK]
 <Philia>
@@ -373,7 +373,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Reynolds>님…
+<Reynolds> 님…
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -434,7 +434,7 @@
 <Stahn>
 [ENDBLOCK]
 …알겠어.
-<Reynolds>님, 부탁해.
+<Reynolds> 님, 부탁해.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -669,7 +669,7 @@ notice
 피츠갈드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-겉껍질 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
 1단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다

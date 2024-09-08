@@ -361,10 +361,10 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
-◆◆◆◆◆◆ 외殻 종료 ◆◆◆◆◆◆
+◆◆◆◆◆◆ 외각 종료 ◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●● 구름 시작 ●●●●●●
@@ -394,7 +394,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-위험해! <Woodrow>님!
+위험해! <Woodrow> 님!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -430,7 +430,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow>님…
+<Woodrow> 님…
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -499,12 +499,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님, <Mary>님의 상태가,
+<Stahn> 님, <Mary> 님의 상태가,
 이상한데…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary>님, 무슨 일이라도 있으신가요?
+<Mary> 님, 무슨 일이라도 있으신가요?
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -557,7 +557,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Stahn>
 [ENDBLOCK]
 우회로는 없나요,
-<Woodrow>님?
+<Woodrow> 님?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -615,7 +615,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><xF0><x80></color>가
 [ENDBLOCK]

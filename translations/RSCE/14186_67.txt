@@ -33,7 +33,7 @@
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
 단계 없음：D1R_EPI001START 	～	D1R_032_030_000
@@ -66,10 +66,10 @@
 = <TAG_060>
 
 [ENDBLOCK]
-외피 생성 실패（반환값：<TAG_063>）
+외각 생성 실패（반환값：<TAG_063>）
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 종료◆◆◆◆◆◆
+◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●●구름 시작●●●●●●
@@ -181,9 +181,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <grey1>빈（존재하지 않습니다）</color>
 [ENDBLOCK]
-외껍질
+외각
 [ENDBLOCK]
-<grey1>외껍질（존재하지 않습니다）</color>
+<grey1>외각（존재하지 않습니다）</color>
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -217,7 +217,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 빈
 [ENDBLOCK]
-외껍질
+외각
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -544,7 +544,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 여인
 [ENDBLOCK]
-<Eleanor>님이 계셨다면,
+<Eleanor> 님이 계셨다면,
 대왕도 그렇게 되지 않았을 거야.
 [ENDBLOCK]
 여인
@@ -696,7 +696,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x4A><x2C><x80></color>가
 [ENDBLOCK]
@@ -1121,7 +1121,7 @@ select
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]
-잭랜드
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]

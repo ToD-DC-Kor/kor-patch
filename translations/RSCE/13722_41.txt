@@ -31,7 +31,7 @@
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
 단계 없음：D1R_EPI001START 	～	D1R_032_030_000
@@ -64,10 +64,10 @@
 = <TAG_060>
 
 [ENDBLOCK]
-외피 생성 실패（반환값：<TAG_063>）
+외각 생성 실패（반환값：<TAG_063>）
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 종료◆◆◆◆◆◆
+◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●●구름 시작●●●●●●
@@ -544,7 +544,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 오베론 직원
 [ENDBLOCK]
-칠 장군의 리인님은
+칠 장군의 리인 님은
 정말 좋지 않아～.
 [ENDBLOCK]
 오베론 직원
@@ -563,7 +563,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 왕국 병사
 [ENDBLOCK]
 무엇이든 말씀해 주세요,
-<Lion>님!
+<Lion> 님!
 [ENDBLOCK]
 왕국 병사
 [ENDBLOCK]
@@ -583,7 +583,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 왕국 병사
 [ENDBLOCK]
 무엇이든 말씀해 주세요,
-<Lion>님!
+<Lion> 님!
 [ENDBLOCK]
 왕국 병사
 [ENDBLOCK]
@@ -592,7 +592,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 왕국 병사
 [ENDBLOCK]
-<Lion>님과 함께하지 않나.
+<Lion> 님과 함께하지 않나.
 그럼 고개 숙일 필요는 없겠네.
 [ENDBLOCK]
 왕국 병사
@@ -657,7 +657,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-이봐, 이봐 <Lion>님은
+이봐, 이봐 <Lion> 님은
 어디에 살고 있어?
 [ENDBLOCK]
 소녀
@@ -672,12 +672,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-이봐, 이봐 <Lion>님의
+이봐, 이봐 <Lion> 님의
 어머니는 어떤 분이야?
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-이봐, 이봐 <Lion>님은
+이봐, 이봐 <Lion> 님은
 어디에 살고 있어?
 [ENDBLOCK]
 소녀
@@ -1059,7 +1059,7 @@ select
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-칠 장군의 루웨인님이,
+칠 장군의 루웨인 님이,
 계획한 것 같아…
 [ENDBLOCK]
 남자
@@ -1079,7 +1079,7 @@ select
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-루웨인님의 명령으로,
+루웨인 님의 명령으로,
 <Ascus>와 데이트를 하게 된
 <Melina>였지만…
 [ENDBLOCK]
@@ -1116,7 +1116,7 @@ select
 남자
 [ENDBLOCK]
 <Melina>는「이, 이건
-루웨인님의 명령이야. 마음대로
+루웨인 님의 명령이야. 마음대로
 돌아갈 수는 없잖아」.
 [ENDBLOCK]
 남자

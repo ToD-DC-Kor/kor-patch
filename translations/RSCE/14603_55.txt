@@ -8,7 +8,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-또 그 황량한 외피를 통과해서,
+또 그 황량한 외각을 통과해서,
 다음은 믹하일에 들어가는 거네.
 [ENDBLOCK]
 <Stahn>
@@ -45,7 +45,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 예
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>가
 [ENDBLOCK]

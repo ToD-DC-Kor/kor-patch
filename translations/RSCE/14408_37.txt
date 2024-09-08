@@ -4,10 +4,10 @@
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
-◆◆◆◆◆◆ 외殻 종료 ◆◆◆◆◆◆
+◆◆◆◆◆◆ 외각 종료 ◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●● 구름 시작 ●●●●●●
@@ -238,7 +238,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>씨가 조용히 부탁해요!
+<Rutee> 씨가 조용히 부탁해요!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

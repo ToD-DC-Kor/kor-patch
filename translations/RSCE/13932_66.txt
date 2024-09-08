@@ -179,9 +179,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <grey1>빈 공간（존재하지 않습니다）</color>
 [ENDBLOCK]
-껍질
+외각
 [ENDBLOCK]
-<grey1>껍질（존재하지 않습니다）</color>
+<grey1>외각（존재하지 않습니다）</color>
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -215,7 +215,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 빈 공간
 [ENDBLOCK]
-껍질
+외각
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -662,7 +662,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><xC4><x80></color>가
 [ENDBLOCK]
@@ -1086,7 +1086,7 @@ select
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]
-잭랜드
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]

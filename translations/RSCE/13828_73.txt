@@ -31,7 +31,7 @@ select
 [ENDBLOCK]
 <TAG_007>결계석을 파괴하시겠습니까?
 예
-아니오
+아니요
 
 [ENDBLOCK]
 이제 문이 열릴 거야.
@@ -69,7 +69,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 예
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x9C><x80></color>이
 [ENDBLOCK]

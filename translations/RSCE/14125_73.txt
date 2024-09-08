@@ -66,17 +66,17 @@ select
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-<Fayte>님의 친구인지 뭔지 모르겠지만,
+<Fayte> 님의 친구인지 뭔지 모르겠지만,
 나는 당신이 싫어.
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-<Fayte>님을 구해준 건
+<Fayte> 님을 구해준 건
 감사하지만.
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-<Fayte>님과 당신이 사귀는 건
+<Fayte> 님과 당신이 사귀는 건
 반대야!
 [ENDBLOCK]
 남자
@@ -124,7 +124,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-설마 <Fayte>님,
+설마 <Fayte> 님,
 이 아이가 병사를 공격한 건가요!?
 [ENDBLOCK]
 <Fayte>
@@ -133,12 +133,12 @@ select
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Fayte>님!
+<Fayte> 님!
 저는 범인이 아니에요!
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Johnny>님도 믿어 주세요.
+<Johnny> 님도 믿어 주세요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -156,7 +156,7 @@ select
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Johnny>님,
+<Johnny> 님,
 부디 저를 도와주세요!
 [ENDBLOCK]
 <Johnny>
@@ -166,7 +166,7 @@ select
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>님, 이 아이의 처우에 대해
+<Fayte> 님, 이 아이의 처우에 대해
 조금만 기다려 주실 수 있나요?
 [ENDBLOCK]
 <Fayte>
@@ -213,7 +213,7 @@ select
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-그래서 <Fayte>님이 여러분에게
+그래서 <Fayte> 님이 여러분에게
 시간을 주신 것이라 생각합니다.
 [ENDBLOCK]
 병사
@@ -286,7 +286,7 @@ select
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-그럼, 안으로 들어가서<Fayte>님께
+그럼, 안으로 들어가서<Fayte> 님께
 설명해 주세요.
 [ENDBLOCK]
 병사
@@ -630,12 +630,12 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Eleanor>님을 두고 <Fayte>님과
-<Johnny>님이 다퉜던 것은 유명한 이야기예요.
+<Eleanor> 님을 두고 <Fayte> 님과
+<Johnny> 님이 다퉜던 것은 유명한 이야기예요.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-지금의 <Fayte>님과 <Rihanna>님을 보면,
+지금의 <Fayte> 님과 <Rihanna> 님을 보면,
 이게 제일 좋았다고 생각해요.
 [ENDBLOCK]
 여자아이
@@ -650,11 +650,11 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-세상을 구해주세요, <Johnny>님!
+세상을 구해주세요, <Johnny> 님!
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Johnny>님을 잘 부탁드립니다!
+<Johnny> 님을 잘 부탁드립니다!
 [ENDBLOCK]
 아이들
 [ENDBLOCK]
@@ -668,7 +668,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 아이들
 [ENDBLOCK]
 앞으로는 다른 나라와도 잘 지내라고
-<Fayte>님이 말씀하셨대.
+<Fayte> 님이 말씀하셨대.
 [ENDBLOCK]
 아이들
 [ENDBLOCK]

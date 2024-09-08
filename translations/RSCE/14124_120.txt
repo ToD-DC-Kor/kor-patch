@@ -429,7 +429,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-설마<Fayte>님,
+설마<Fayte> 님,
 이 아이가 병사를 습격한 건가요!?
 [ENDBLOCK]
 <Fayte>
@@ -438,12 +438,12 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Fayte>님!
+<Fayte> 님!
 저는 범인이 아니에요!
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Johnny>님도 믿어주세요.
+<Johnny> 님도 믿어주세요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -461,7 +461,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Johnny>님,
+<Johnny> 님,
 부디 저를 도와주세요!
 [ENDBLOCK]
 <Johnny>
@@ -471,7 +471,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>님, 이 아이의 처우에 대해서는
+<Fayte> 님, 이 아이의 처우에 대해서는
 조금만 기다려 주실 수 있나요?
 [ENDBLOCK]
 <Fayte>
@@ -518,14 +518,14 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-그래서<Fayte>님은 여러분에게
+그래서<Fayte> 님은 여러분에게
 시간을 주신 것이라고 생각합니다.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
 긴 이야기가 되겠지만,
 사건의 경과를 듣고 싶으신가요? 예
-아니오
+아니요
 
 [ENDBLOCK]
 청년
@@ -590,7 +590,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-그럼, 안으로 들어가서<Fayte>님께
+그럼, 안으로 들어가서<Fayte> 님께
 설명해 주세요.
 [ENDBLOCK]
 병사
@@ -713,7 +713,7 @@ destination_rot = <x17><x71><x47><x1C><x80>
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
-지노님이나 <Fayte>님은,
+지노 님이나 <Fayte> 님은,
 무사하실까…
 [ENDBLOCK]
 <Rihanna>
@@ -791,7 +791,7 @@ destination_rot = <x17><x71><x47><x1C><x80>
 [ENDBLOCK]
 언니
 [ENDBLOCK]
-<Fayte>님이라면, 분명 이 나라를
+<Fayte> 님이라면, 분명 이 나라를
 재건해 주실 거야.
 [ENDBLOCK]
 언니
@@ -884,7 +884,7 @@ destination_rot = <x17><x71><x47><x1C><x80>
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-<Fayte>님이 영주가 되고 나서,
+<Fayte> 님이 영주가 되고 나서,
 엄청난 일이 벌어졌구나.
 [ENDBLOCK]
 할머니
@@ -1378,7 +1378,7 @@ select
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]
-잭랜드
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]
@@ -1438,7 +1438,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Rihanna>님은 모리유 영지의
+<Rihanna> 님은 모리유 영지의
 여왕님이시죠？
 [ENDBLOCK]
 <Rihanna>
@@ -1701,7 +1701,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그러니까 <Johnny>씨는,
+그러니까 <Johnny> 씨는,
 그렇게나 너그러운 사람처럼 보이는 거구나.
 [ENDBLOCK]
 <Rutee>

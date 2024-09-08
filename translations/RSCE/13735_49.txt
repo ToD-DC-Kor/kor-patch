@@ -40,7 +40,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-마, <Marian>님!?
+마, <Marian> 님!?
 [ENDBLOCK]
 크리스
 [ENDBLOCK]
@@ -162,28 +162,28 @@
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-환영합니다, <Lion>님.
+환영합니다, <Lion> 님.
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-여기는 휴고님의
+여기는 휴고 님의
 저택입니다.
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-안녕하세요, <Lion>님.
+안녕하세요, <Lion> 님.
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-조심하세요, <Lion>님.
+조심하세요, <Lion> 님.
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-환영합니다, <Lion>님.
+환영합니다, <Lion> 님.
 [ENDBLOCK]
 메이드
 [ENDBLOCK]
-여기는 휴고님의
+여기는 휴고 님의
 저택입니다.
 [ENDBLOCK]
 메이드
@@ -226,7 +226,7 @@
 [ENDBLOCK]
 오베론 직원
 [ENDBLOCK]
-<Lion>님은 앞으로 아버지의
+<Lion> 님은 앞으로 아버지의
 뒤를 잇지 않으실 건가요？
 [ENDBLOCK]
 오베론 직원
@@ -236,7 +236,7 @@
 [ENDBLOCK]
 오베론 직원
 [ENDBLOCK]
-휴고님은 바쁘신 분이시군요.
+휴고 님은 바쁘신 분이시군요.
 좀처럼 뵐 수가 없습니다.
 [ENDBLOCK]
 오베론 직원
@@ -281,7 +281,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-렘브란트 할아버지구나. 휴고님은？
+렘브란트 할아버지구나. 휴고 님은？
 
 [ENDBLOCK]
 <Rembrandt>
@@ -340,7 +340,7 @@
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-<Lion>님은 일부러 남을,
+<Lion> 님은 일부러 남을,
 멀리하려는 성향이 있으십니다.
 
 [ENDBLOCK]
@@ -409,7 +409,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-<Hugo>님… 아버지의 이름이 너무 커서,
+<Hugo> 님… 아버지의 이름이 너무 커서,
 싫은 일을 많이 겪어왔겠지만…
 [ENDBLOCK]
 <Marian>

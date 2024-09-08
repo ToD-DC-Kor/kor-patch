@@ -31,7 +31,7 @@
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
 단계 없음：D1R_EPI001START 	～	D1R_032_030_000
@@ -64,10 +64,10 @@
 = <TAG_060>
 
 [ENDBLOCK]
-외피 생성 실패（반환 값：<TAG_063>）
+외각 생성 실패（반환 값：<TAG_063>）
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 종료◆◆◆◆◆◆
+◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●●구름 시작●●●●●●
@@ -628,7 +628,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 세인가르드 병사
 [ENDBLOCK]
 저기, 당신은… 혹시
-<Lion>님이신가요？
+<Lion> 님이신가요？
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -641,7 +641,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-맞죠, <Lion>님？
+맞죠, <Lion> 님？
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -805,7 +805,7 @@ debug
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-설령 <Lion>님이라 하더라도
+설령 <Lion> 님이라 하더라도
 통과시키는 것은 불가능하다.
 [ENDBLOCK]
 세인가르드 병사
@@ -1472,7 +1472,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><TAG_013ad></color>가
 [ENDBLOCK]

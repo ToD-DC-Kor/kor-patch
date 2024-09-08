@@ -69,7 +69,7 @@ select
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-언제부터 외껍질 대지가,
+언제부터 외각 대지가,
 초록으로 덮여 있었던 거지？
 [ENDBLOCK]
 <Clemente>

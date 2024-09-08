@@ -22,7 +22,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님…<Lion>님의 상태는 어떤가요?
+<Stahn> 님…<Lion> 님의 상태는 어떤가요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -30,7 +30,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>님이…? 드물군요.
+<Rutee> 님이…? 드물군요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -40,7 +40,7 @@
 <Philia>
 [ENDBLOCK]
 두 분이 친해졌다면,
-분명히 <Stahn>님 덕분이겠죠.
+분명히 <Stahn> 님 덕분이겠죠.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -48,7 +48,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님과 지내면서,
+<Stahn> 님과 지내면서,
 모두 조금씩 변했어요.
 [ENDBLOCK]
 <Stahn>
@@ -57,7 +57,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-네. <Lion>님도, <Rutee>님도.
+네. <Lion> 님도, <Rutee> 님도.
 그리고… 저도요.
 [ENDBLOCK]
 <Stahn>
@@ -67,7 +67,7 @@
 <Philia>
 [ENDBLOCK]
 그게 좋은 거예요. 그 자연스러움이,
-<Stahn>님의 매력이에요.
+<Stahn> 님의 매력이에요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -76,7 +76,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님… 저는…
+<Stahn> 님… 저는…
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]

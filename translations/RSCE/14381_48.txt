@@ -153,7 +153,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-<Stahn>님, 슬슬…
+<Stahn> 님, 슬슬…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

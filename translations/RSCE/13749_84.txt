@@ -260,7 +260,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-…<Woodrow>님～.
+…<Woodrow> 님～.
 
 [ENDBLOCK]
 점장
@@ -618,7 +618,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님…？
+<Stahn> 님…？
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -809,7 +809,7 @@ notice
 피츠갈드에 있는 여행자의 소굴에서
 확인할 수 있습니다.
 [ENDBLOCK]
-겉껍질 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
 1단계 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
@@ -1119,7 +1119,7 @@ select
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]
-재크랜드
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]

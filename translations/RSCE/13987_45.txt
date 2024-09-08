@@ -185,9 +185,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <grey1>비어 있음（존재하지 않음）</color>
 [ENDBLOCK]
-외피
+외각
 [ENDBLOCK]
-<grey1>외피（존재하지 않음）</color>
+<grey1>외각（존재하지 않음）</color>
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -221,7 +221,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 비어 있음
 [ENDBLOCK]
-외피
+외각
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -621,7 +621,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 노인
 [ENDBLOCK]
-<Ilene>님은 젊으신데,
+<Ilene> 님은 젊으신데,
 대단한 경영 수완을 가지고 계십니다네.
 [ENDBLOCK]
 노인
@@ -637,7 +637,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 노인
 [ENDBLOCK]
 저쪽을 세우면 이쪽이 서지 않네.
-<Ilene>님은 힘든 입장이군요.
+<Ilene> 님은 힘든 입장이군요.
 [ENDBLOCK]
 노인
 [ENDBLOCK]
@@ -704,7 +704,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 예
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><xC4><x80></color>가
 [ENDBLOCK]

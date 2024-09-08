@@ -120,7 +120,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Baruk>님…
+<Baruk> 님…
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -173,7 +173,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Baruk>님…정말 이것만이,
+<Baruk> 님…정말 이것만이,
 방법이 없다고 생각한 건가요？
 [ENDBLOCK]
 <Stahn>

@@ -179,9 +179,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <grey1>비어 있음（존재하지 않음）</color>
 [ENDBLOCK]
-외피
+외각
 [ENDBLOCK]
-<grey1>외피（존재하지 않음）</color>
+<grey1>외각（존재하지 않음）</color>
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -215,7 +215,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 비어 있음
 [ENDBLOCK]
-외피
+외각
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -612,7 +612,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 점원
 [ENDBLOCK]
-왜 잔크랜드가 공격받았지?
+왜 정크랜드가 공격받았지?
 저런 곳은 쓰레기밖에 없는데.
 [ENDBLOCK]
 점원
@@ -1103,7 +1103,7 @@ select
 [ENDBLOCK]
 칼비오라
 [ENDBLOCK]
-잭랜드
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]

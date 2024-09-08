@@ -174,7 +174,7 @@ select
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-설마 <Lion>님이 배신할 줄은,
+설마 <Lion> 님이 배신할 줄은,
 생각도 못했네…
 [ENDBLOCK]
 세인가르드 병사
@@ -253,7 +253,7 @@ select
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-<Lion>님, 외출하시나요?
+<Lion> 님, 외출하시나요?
 언젠가 차를 함께 마시고 싶습니다.
 [ENDBLOCK]
 여성
@@ -262,16 +262,16 @@ select
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-<Lion>님은
+<Lion> 님은
 새로운 부하분인가요?
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-아…<Lion>님…
+아…<Lion> 님…
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-<Lion>님, 외출하시나요?
+<Lion> 님, 외출하시나요?
 언젠가 차를 함께 마시고 싶습니다.
 [ENDBLOCK]
 여성
@@ -280,16 +280,16 @@ select
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-<Lion>님은
+<Lion> 님은
 새로운 부하분인가요?
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-…<Lion>님…
+…<Lion> 님…
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-<Lion>님이 반란을 일으키다니,
+<Lion> 님이 반란을 일으키다니,
 믿을 수가 없어요…
 [ENDBLOCK]
 여성
@@ -319,7 +319,7 @@ select
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-<Lion>님, 외출하시나요?
+<Lion> 님, 외출하시나요?
 언젠가 차를 함께 마시고 싶습니다.
 [ENDBLOCK]
 여성
@@ -328,12 +328,12 @@ select
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-<Lion>님은
+<Lion> 님은
 새로운 부하분인가요?
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-<Lion>님의 활약은, 우리 같은
+<Lion> 님의 활약은, 우리 같은
 무기를 가진 사람에게도 전해지고 있습니다.
 [ENDBLOCK]
 남자
@@ -378,7 +378,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Hugo>님!
+<Hugo> 님!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -387,7 +387,7 @@ select
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Stahn>들에게도<Hugo>님에게
+<Stahn>들에게도<Hugo> 님에게
 보고한다고 했지만…
 [ENDBLOCK]
 <Chaltier>

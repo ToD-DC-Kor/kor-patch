@@ -58,7 +58,7 @@ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><
 [ENDBLOCK]
 우일
 [ENDBLOCK]
-<Lion>님. 사실 교황님의 동료가
+<Lion> 님. 사실 교황님의 동료가
 쓰러져버렸습니다.
 [ENDBLOCK]
 잡스

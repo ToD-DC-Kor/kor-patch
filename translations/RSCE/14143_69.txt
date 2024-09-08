@@ -152,7 +152,7 @@ WALL_2이다!!
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-<Greybum>님과 함께 하는 것도,
+<Greybum> 님과 함께 하는 것도,
 좋은 경험을 하고 싶어서, 그뿐이야!
 [ENDBLOCK]
 <Philia>
@@ -187,7 +187,7 @@ WALL_2이다!!
 <Batista>
 [ENDBLOCK]
 우오오…이런 건 아니었는데…
-<Greybum>님에게서 받은, 힘…
+<Greybum> 님에게서 받은, 힘…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -271,7 +271,7 @@ WALL_2이다!!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님…
+<Stahn> 님…
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

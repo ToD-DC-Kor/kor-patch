@@ -9,7 +9,7 @@
 <Philia>
 [ENDBLOCK]
 그럴 리가 없습니다.
-<Stahn>씨는…너무 친절하시니까요.
+<Stahn> 씨는…너무 친절하시니까요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -17,7 +17,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>씨가 있어야 할 곳은,
+<Stahn> 씨가 있어야 할 곳은,
 여기가 아닙니다.
 [ENDBLOCK]
 <Philia>

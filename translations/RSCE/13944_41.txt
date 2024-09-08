@@ -598,12 +598,12 @@ init_camera_homing!!!
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-그 자식은 잔크랜드의
+그 자식은 정크랜드의
 애들이야. 가끔 나타나.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-잔크랜드?
+정크랜드?
 [ENDBLOCK]
 남자
 [ENDBLOCK]
@@ -645,7 +645,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-잭랜드의 아는 사람에게서,
+정크랜드의 아는 사람에게서,
 연락이 왔어.
 [ENDBLOCK]
 남자
@@ -972,7 +972,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 예
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><xF0><x80></color>가
 [ENDBLOCK]
@@ -1396,7 +1396,7 @@ select
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]
-잭크랜드
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]

@@ -123,7 +123,7 @@ notice
 <Baruk>
 [ENDBLOCK]
 그만둬, <Lion>. 너는
-<Hugo>님과 상대가 되지 않아.
+<Hugo> 님과 상대가 되지 않아.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

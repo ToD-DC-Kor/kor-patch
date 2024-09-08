@@ -635,7 +635,7 @@ select
 선택
 [ENDBLOCK]
 네
-아니오
+아니요
 [ENDBLOCK]
 그럼 나를 따라와.
 [ENDBLOCK]
@@ -1022,7 +1022,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-아, 그, <Stahn>님!
+아, 그, <Stahn> 님!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1569,7 +1569,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>님!
+<Ilene> 님!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -1606,7 +1606,7 @@ notice
 <Stahn>
 [ENDBLOCK]
 그렇게 힘들게 노이슈타트에 왔으니,
-<Ilene>님에게 인사라도 해야겠다?
+<Ilene> 님에게 인사라도 해야겠다?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1619,7 +1619,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Ilene>님은, 한동안 공적인 자리에서,
+<Ilene> 님은, 한동안 공적인 자리에서,
 모습을 보이지 않으신 것 같아요.
 [ENDBLOCK]
 <Stahn>
@@ -1660,7 +1660,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-죄, 죄송합니다, <Stahn>님.
+죄, 죄송합니다, <Stahn> 님.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1825,7 +1825,7 @@ notice
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-<Ilene>씨라면, 방금 보지 못한 사람들과
+<Ilene> 씨라면, 방금 보지 못한 사람들과
 투기장으로 갔어요.
 [ENDBLOCK]
 <Lion>
@@ -1857,7 +1857,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x80><xDC><x18><x80></color>가
 [ENDBLOCK]

@@ -179,9 +179,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <grey1>비어 있음（존재하지 않음）</color>
 [ENDBLOCK]
-외피
+외각
 [ENDBLOCK]
-<grey1>외피（존재하지 않음）</color>
+<grey1>외각（존재하지 않음）</color>
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -215,7 +215,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 비어 있음
 [ENDBLOCK]
-외피
+외각
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -572,7 +572,7 @@ select
 [ENDBLOCK]
 <TAG_007>스노우플리아에 가시겠습니까?
 네
-아니오
+아니요
 
 [ENDBLOCK]
 선원
@@ -618,17 +618,17 @@ select
 [ENDBLOCK]
 토케이 병
 [ENDBLOCK]
-<Eleanor>님이라는 것은, 전 대왕 폐하의
+<Eleanor> 님이라는 것은, 전 대왕 폐하의
 부인님에 관한 것입니다.
 [ENDBLOCK]
 토케이 병
 [ENDBLOCK]
-그렇다고 해도, <Eleanor>님의 마음이,
+그렇다고 해도, <Eleanor> 님의 마음이,
 대왕 폐하에게 향한 적은 없었다고 하네요.
 [ENDBLOCK]
 토케이 병
 [ENDBLOCK]
-<Eleanor>님이 살아 계셨다면,
+<Eleanor> 님이 살아 계셨다면,
 이번 일을 어떻게 생각하셨을까요.
 [ENDBLOCK]
 <Johnny>
@@ -705,7 +705,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Fayte>님… 괜찮으세요?
+<Fayte> 님… 괜찮으세요?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
@@ -753,7 +753,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>님의 활약을,
+<Johnny> 님의 활약을,
 기대하고 있습니다.
 [ENDBLOCK]
 <Johnny>
@@ -792,7 +792,7 @@ select
 <Stahn>
 [ENDBLOCK]
 신세를 졌습니다.
-또 만나요, <Johnny>님.
+또 만나요, <Johnny> 님.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -817,12 +817,12 @@ select
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-나를 <Johnny>님에게
+나를 <Johnny> 님에게
 빌려준 거야.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-꼬마는 나에게, <Johnny>님에게
+꼬마는 나에게, <Johnny> 님에게
 보답할 기회를 줬어.
 [ENDBLOCK]
 <Lion>
@@ -841,7 +841,7 @@ select
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-꼬마야, 내가 <Johnny>님에게
+꼬마야, 내가 <Johnny> 님에게
 보답하고 싶었던 건 말이지.
 [ENDBLOCK]
 <Lion>
@@ -854,7 +854,7 @@ select
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-제가 <Johnny>님께 보답하고 싶었던 건
+제가 <Johnny> 님께 보답하고 싶었던 건
 아가씨와의 일이 있었기 때문입니다.
 [ENDBLOCK]
 <Lion>

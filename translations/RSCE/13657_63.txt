@@ -190,7 +190,7 @@
 <Stahn>
 [ENDBLOCK]
 그럼, 앞으로 나아가자.
-<Mary>씨.
+<Mary> 씨.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

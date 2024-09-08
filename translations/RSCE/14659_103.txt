@@ -5,7 +5,7 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-안녕하세요, <Dymlos>님.
+안녕하세요, <Dymlos> 님.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -447,7 +447,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님, 괜찮으신가요?
+<Woodrow> 님, 괜찮으신가요?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -570,7 +570,7 @@ select
 <Philia>
 [ENDBLOCK]
 확실히 칼바레이스에 있는,
-잭랜드였지.
+정크랜드였지.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

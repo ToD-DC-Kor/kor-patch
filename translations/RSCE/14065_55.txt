@@ -34,7 +34,7 @@
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외껍질 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
 단계 없음：D1R_EPI001START 	～	D1R_032_030_000
@@ -67,10 +67,10 @@
 = <TAG_060>
 
 [ENDBLOCK]
-외껍질 생성 실패（반환값：<TAG_063>）
+외각 생성 실패（반환값：<TAG_063>）
 
 [ENDBLOCK]
-◆◆◆◆◆◆외껍질 종료◆◆◆◆◆◆
+◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●●구름 시작●●●●●●
@@ -182,9 +182,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <grey1>빈（존재하지 않음）</color>
 [ENDBLOCK]
-외피
+외각
 [ENDBLOCK]
-<grey1>외피（존재하지 않음）</color>
+<grey1>외각（존재하지 않음）</color>
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -218,7 +218,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 빈
 [ENDBLOCK]
-외피
+외각
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -522,7 +522,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 할머니
 [ENDBLOCK]
 빨리 그 광대 모습은,
-봉인해 주세요, <Johnny>님.
+봉인해 주세요, <Johnny> 님.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
@@ -593,7 +593,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-맞지, <Johnny>님？
+맞지, <Johnny> 님？
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -612,7 +612,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-나는 그렇게 생각해, <Johnny>님.
+나는 그렇게 생각해, <Johnny> 님.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -743,7 +743,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-<Fayte>님과 <Johnny>님 덕분에,
+<Fayte> 님과 <Johnny> 님 덕분에,
 각 영지 간의 소통이 좋아졌습니다.
 [ENDBLOCK]
 할머니
@@ -757,7 +757,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-<Johnny>님… 부탁드립니다.
+<Johnny> 님… 부탁드립니다.
 세상에 다시 한 번, 빛을.
 [ENDBLOCK]
 할머니
@@ -1238,7 +1238,7 @@ select
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]
-재활용지대
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]
@@ -1316,7 +1316,7 @@ select
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-<Johnny>님!?
+<Johnny> 님!?
 [ENDBLOCK]
 노인
 [ENDBLOCK]
@@ -1324,7 +1324,7 @@ select
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-<Johnny>님…？
+<Johnny> 님…？
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -1342,7 +1342,7 @@ select
 소년
 [ENDBLOCK]
 저 놈은 도둑이야!
-<Johnny>님.
+<Johnny> 님.
 [ENDBLOCK]
 노인
 [ENDBLOCK]
@@ -1367,7 +1367,7 @@ select
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-이 녀석이 세인가르드 사람이기 때문이야, <Johnny>님.
+이 녀석이 세인가르드 사람이기 때문이야, <Johnny> 님.
 [ENDBLOCK]
 여성
 [ENDBLOCK]
@@ -1478,7 +1478,7 @@ select
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-응, 알겠어 <Johnny>님.
+응, 알겠어 <Johnny> 님.
 [ENDBLOCK]
 여성
 [ENDBLOCK]
@@ -1486,7 +1486,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>씨는 역시,
+<Johnny> 씨는 역시,
 이 나라와 사람들에 대한…
 [ENDBLOCK]
 <Johnny>

@@ -31,7 +31,7 @@
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
 단계 없음：D1R_EPI001START 	～	D1R_032_030_000
@@ -67,7 +67,7 @@
 외각 생성 실패 (반환값: <TAG_063>)
 
 [ENDBLOCK]
-◆◆◆◆◆◆ 외殻 종료 ◆◆◆◆◆◆
+◆◆◆◆◆◆ 외각 종료 ◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●● 구름 시작 ●●●●●●
@@ -179,9 +179,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <grey1>비어 있음（존재하지 않음）</color>
 [ENDBLOCK]
-외곽
+외각
 [ENDBLOCK]
-<grey1>외곽（존재하지 않음）</color>
+<grey1>외각（존재하지 않음）</color>
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -655,7 +655,7 @@ notice
 [ENDBLOCK]
 웹사이트에서 입력할 연동 ID와
 게임 비밀번호를 잊어버렸다면 커뮤니爺에게
-말 걸어서, 연동 ID·게임 비밀번호의
+말 걸어서, 연동 ID・게임 비밀번호의
 확인 항목을 선택해 주세요.
 [ENDBLOCK]
 コミュニ爺
@@ -924,7 +924,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-휴, <Woodrow>님과 함께,
+휴, <Woodrow> 님과 함께,
 <Rutee>를 찾으려고 했었는데.
 [ENDBLOCK]
 남자 아이
@@ -1097,7 +1097,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Rutee>님, 오랜만입니다.
+<Rutee> 님, 오랜만입니다.
 이 도시에 오신 거군요.
 [ENDBLOCK]
 <Rutee>

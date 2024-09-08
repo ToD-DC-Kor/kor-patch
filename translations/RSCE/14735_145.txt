@@ -157,7 +157,7 @@ select
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-자, <Philia>씨는 나와 함께.
+자, <Philia> 씨는 나와 함께.
 
 [ENDBLOCK]
 <Kongman>
@@ -327,7 +327,7 @@ notice
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님과 함께하고 싶어요.
+<Woodrow> 님과 함께하고 싶어요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]

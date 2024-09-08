@@ -12,7 +12,7 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<Baruk>님…？
+<Baruk> 님…？
 [ENDBLOCK]
 오베론 직원
 [ENDBLOCK]
@@ -41,7 +41,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-어떻게 된 일인가요, <Stahn>님？
+어떻게 된 일인가요, <Stahn> 님？
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -111,22 +111,22 @@
 [ENDBLOCK]
 비서
 [ENDBLOCK]
-<Baruk>님은 칼바레이스의 발전을,
+<Baruk> 님은 칼바레이스의 발전을,
 진심으로 바라신답니다.
 [ENDBLOCK]
 비서
 [ENDBLOCK]
 여러분이 마을을 떠났다는 소식을 들었을 때,
-<Baruk>씨는 드물게도 당황하고 있었습니다.
+<Baruk> 씨는 드물게도 당황하고 있었습니다.
 [ENDBLOCK]
 비서
 [ENDBLOCK]
-<Baruk>씨…
+<Baruk> 씨…
 어디로 가버린 건가요?
 [ENDBLOCK]
 비서
 [ENDBLOCK]
-이제 두 번 다시,<Baruk>씨는
+이제 두 번 다시,<Baruk> 씨는
 돌아오지 않을 것 같은 기분이 듭니다.
 [ENDBLOCK]
 부하
@@ -146,7 +146,7 @@
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-<Baruk>씨는 다릴셰이드 본부에
+<Baruk> 씨는 다릴셰이드 본부에
 출장 중입니다.
 [ENDBLOCK]
 부하
@@ -156,7 +156,7 @@
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-비록<Baruk>씨가 돌아오지 않더라도,
+비록<Baruk> 씨가 돌아오지 않더라도,
 그 사람의 뜻은 제가 이어받겠습니다.
 [ENDBLOCK]
 <Lion>
@@ -260,7 +260,7 @@
 <Baruk>
 [ENDBLOCK]
 …그건 그렇고, 본론으로 들어가자.
-휴고님으로부터, 연락도 받았다.
+휴고 님으로부터, 연락도 받았다.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]

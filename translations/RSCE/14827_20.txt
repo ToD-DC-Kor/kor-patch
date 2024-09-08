@@ -312,7 +312,7 @@ notice
 [ENDBLOCK]
 웹사이트에서 입력할 연동 ID와
 게임 비밀번호를 잊어버렸다면 커뮤니爺에게
-말 걸어서, 연동 ID·게임 비밀번호의
+말 걸어서, 연동 ID・게임 비밀번호의
 확인 항목을 선택해 주세요.
 [ENDBLOCK]
 コミュニ爺
@@ -381,7 +381,7 @@ notice
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-<Lilith>님!
+<Lilith> 님!
 혹시 나를 찾으러 일부러 온 건가?!
 [ENDBLOCK]
 <Lilith>
@@ -395,7 +395,7 @@ notice
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-왜<Lilith>님과
+왜<Lilith> 님과
 함께 있는 거야!
 [ENDBLOCK]
 <Lion>

@@ -8,10 +8,10 @@
 ××××××공백 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 종료◆◆◆◆◆◆
+◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●●구름 시작●●●●●●
@@ -473,7 +473,7 @@ notice
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-챔피언 <Kongman>님이,
+챔피언 <Kongman> 님이,
 악을 물리치고 돌아왔어！
 [ENDBLOCK]
 
@@ -491,7 +491,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>씨…？
+<Ilene> 씨…？
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -557,7 +557,7 @@ notice
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-우우…<Philia>씨,
+우우…<Philia> 씨,
 떠나버리는군요.
 [ENDBLOCK]
 <Kongman>
@@ -567,12 +567,12 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-괜찮아요. <Kongman>씨는,
+괜찮아요. <Kongman> 씨는,
 이 도시에 필요한 분이니까요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>씨는 정말 친절하시네요!
+<Philia> 씨는 정말 친절하시네요!
 감격이에요! 우오오오온！
 [ENDBLOCK]
 <Rutee>
@@ -583,11 +583,11 @@ notice
 <Kongman>
 [ENDBLOCK]
 <Stahn>！	내 대신,
-<Philia>씨를 잘 지켜줘.
+<Philia> 씨를 잘 지켜줘.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>씨에게 무슨 일이 생기면,
+<Philia> 씨에게 무슨 일이 생기면,
 너를 죽여버릴 거야！
 [ENDBLOCK]
 <Stahn>
@@ -974,7 +974,7 @@ notice
 [ENDBLOCK]
 여인
 [ENDBLOCK]
-아아, <Kongman>님.
+아아, <Kongman> 님.
 도와주세요.
 [ENDBLOCK]
 여인
@@ -1129,7 +1129,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>씨. 나와의 경쟁…
+<Ilene> 씨. 나와의 경쟁…
 당신이 한 걸음 앞서 있는
 것 같아요.
 [ENDBLOCK]

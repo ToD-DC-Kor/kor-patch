@@ -365,7 +365,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dalis>님, 무슨 말씀을 하시는 건가요!?
+<Dalis> 님, 무슨 말씀을 하시는 건가요!?
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -424,7 +424,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary>님, 정말 괜찮으신가요?
+<Mary> 님, 정말 괜찮으신가요?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -463,8 +463,8 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-잘 부탁드립니다, <Mary>님!
-감사합니다, <Dalis>님!
+잘 부탁드립니다, <Mary> 님!
+감사합니다, <Dalis> 님!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1012,7 +1012,7 @@ select
 [ENDBLOCK]
 젊은 여자
 [ENDBLOCK]
-그래서 저는 <Lion>님을
+그래서 저는 <Lion> 님을
 이렇게 부르고 있어요.
 [ENDBLOCK]
 젊은 여자
@@ -1022,7 +1022,7 @@ select
 젊은 여자
 [ENDBLOCK]
 저도 같은 여자지만…
-<Lion>님이라면…
+<Lion> 님이라면…
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]

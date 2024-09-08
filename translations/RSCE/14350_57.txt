@@ -28,7 +28,7 @@
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님！
+<Woodrow> 님！
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
@@ -59,7 +59,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-위험해, <Woodrow>님！
+위험해, <Woodrow> 님！
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
@@ -236,7 +236,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>님, 어떻게 된 거예요?
+<Stahn> 님, 어떻게 된 거예요?
 어두운 얼굴을 하고 계신데요.
 [ENDBLOCK]
 <Stahn>
@@ -291,7 +291,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow>님…
+<Woodrow> 님…
 감사합니다!
 [ENDBLOCK]
 <Woodrow>
@@ -306,7 +306,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-사실… 나도 <Stahn>님과,
+사실… 나도 <Stahn> 님과,
 같은 생각을 하고 있었어요.
 [ENDBLOCK]
 <Stahn>

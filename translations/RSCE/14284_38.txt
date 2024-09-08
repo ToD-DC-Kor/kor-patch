@@ -31,7 +31,7 @@
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
 단계 없음：D1R_EPI001START 	～	D1R_032_030_000
@@ -67,7 +67,7 @@
 외각 생성 실패 (반환값: <TAG_063>)
 
 [ENDBLOCK]
-◆◆◆◆◆◆ 외殻 종료 ◆◆◆◆◆◆
+◆◆◆◆◆◆ 외각 종료 ◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●● 구름 시작 ●●●●●●
@@ -474,7 +474,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Lion>·매그너스다.
+<Lion>・매그너스다.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -1162,7 +1162,7 @@ notice
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]
-잭클랜드
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]

@@ -31,7 +31,7 @@
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외殻 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
 단계 없음：D1R_EPI001START 	～	D1R_032_030_000
@@ -64,10 +64,10 @@
 = <TAG_060>
 
 [ENDBLOCK]
-외殻 생성 실패（반환값：<TAG_063>）
+외각 생성 실패（반환값：<TAG_063>）
 
 [ENDBLOCK]
-◆◆◆◆◆◆외殻 종료◆◆◆◆◆◆
+◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●●구름 시작●●●●●●
@@ -179,9 +179,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <grey1>빈 공간（존재하지 않습니다）</color>
 [ENDBLOCK]
-껍질
+외각
 [ENDBLOCK]
-<grey1>껍질（존재하지 않습니다）</color>
+<grey1>외각（존재하지 않습니다）</color>
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -215,7 +215,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 빈 공간
 [ENDBLOCK]
-껍질
+외각
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -594,17 +594,17 @@ select
 [ENDBLOCK]
 토케이 병사
 [ENDBLOCK]
-<Eleanor>님은, 전 대왕 폐하의
+<Eleanor> 님은, 전 대왕 폐하의
 부인에 대한 이야기입니다.
 [ENDBLOCK]
 토케이 병사
 [ENDBLOCK]
-그렇지만, <Eleanor>님의 마음이,
+그렇지만, <Eleanor> 님의 마음이,
 대왕 폐하를 향한 적은 없었다고 합니다.
 [ENDBLOCK]
 토케이 병사
 [ENDBLOCK]
-<Eleanor>님이 생존하셨다면,
+<Eleanor> 님이 생존하셨다면,
 이번 일을 어떻게 생각하셨을까요.
 [ENDBLOCK]
 notice

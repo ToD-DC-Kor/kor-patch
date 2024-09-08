@@ -209,7 +209,7 @@ notice
 [ENDBLOCK]
 웹사이트에서 입력하는 연동 ID와
 게임 패스워드를 잊어버렸다면 커뮤니 할아버지에게
-말 걸고, 연동 ID·게임 패스워드의
+말 걸고, 연동 ID・게임 패스워드의
 확인 항목을 선택해주세요.
 [ENDBLOCK]
 커뮤니 할아버지
@@ -419,7 +419,7 @@ notice
 <Chelsea>
 [ENDBLOCK]
 죄, 죄송해요.
-<Woodrow>님…
+<Woodrow> 님…
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -786,11 +786,11 @@ notice
 <Chelsea>
 [ENDBLOCK]
 저는 아직 성장기니까요.
-<Rutee>씨 같은 분은 이미…
+<Rutee> 씨 같은 분은 이미…
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-후후, <Rutee>씨가
+후후, <Rutee> 씨가
 14살 때는 어땠을까요~.
 [ENDBLOCK]
 <Rutee>
@@ -803,7 +803,7 @@ notice
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-그런데, <Philia>씨 도망치지 마세요!
+그런데, <Philia> 씨 도망치지 마세요!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -996,7 +996,7 @@ notice
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님도
+<Woodrow> 님도
 신나서 뛰어다니고 있네. 귀여워～.
 [ENDBLOCK]
 <Mary>

@@ -625,12 +625,12 @@ notice
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-모리유 영지의 <Fayte>님이,
+모리유 영지의 <Fayte> 님이,
 나쁜 놈에게 잡혔다고?
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-이전에 <Johnny>님께, 시덴 영지에서도
+이전에 <Johnny> 님께, 시덴 영지에서도
 함대를 만들어 달라고 부탁했어.
 [ENDBLOCK]
 소년
@@ -640,7 +640,7 @@ notice
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-<Johnny>님! 부탁이야.
+<Johnny> 님! 부탁이야.
 어떻게든 해줘!
 [ENDBLOCK]
 소년
@@ -650,12 +650,12 @@ notice
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-역시 <Johnny>님!
+역시 <Johnny> 님!
 어떻게든 해줄 거라고 생각했어.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-역시 <Johnny>님의 친구구나!
+역시 <Johnny> 님의 친구구나!
 어떻게든 해줄 거라고 생각했어.
 [ENDBLOCK]
 젊은 여자아이
@@ -938,7 +938,7 @@ notice
 피츠갈드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-껍질 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
 첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다

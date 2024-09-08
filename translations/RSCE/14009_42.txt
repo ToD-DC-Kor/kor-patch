@@ -185,9 +185,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <grey1>빈 공간（존재하지 않음）</color>
 [ENDBLOCK]
-외피
+외각
 [ENDBLOCK]
-<grey1>외피（존재하지 않음）</color>
+<grey1>외각（존재하지 않음）</color>
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -221,7 +221,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 빈 공간
 [ENDBLOCK]
-외피
+외각
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -624,7 +624,7 @@ notice
 [ENDBLOCK]
 노인
 [ENDBLOCK]
-<Ilene>님은 젊으신데,
+<Ilene> 님은 젊으신데,
 놀라운 경영 능력을 가지고 계십니다.
 [ENDBLOCK]
 노인
@@ -640,7 +640,7 @@ notice
 노인
 [ENDBLOCK]
 저쪽을 세우면 여기서는 서지 않네.
-<Ilene>님은 힘든 입장이구나.
+<Ilene> 님은 힘든 입장이구나.
 [ENDBLOCK]
 노인
 [ENDBLOCK]

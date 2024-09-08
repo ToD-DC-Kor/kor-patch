@@ -31,7 +31,7 @@
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
 단계 없음：D1R_EPI001START 	～	D1R_032_030_000
@@ -64,10 +64,10 @@
 = <TAG_060>
 
 [ENDBLOCK]
-외피 생성 실패（반환 값：<TAG_063>）
+외각 생성 실패（반환 값：<TAG_063>）
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 종료◆◆◆◆◆◆
+◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●●구름 시작●●●●●●
@@ -179,9 +179,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <grey1>비어 있음（존재하지 않음）</color>
 [ENDBLOCK]
-외껍질
+외각
 [ENDBLOCK]
-<grey1>외껍질（존재하지 않음）</color>
+<grey1>외각（존재하지 않음）</color>
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -215,7 +215,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 비어 있음
 [ENDBLOCK]
-외껍질
+외각
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -522,7 +522,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-잭랜드 쪽에도,
+정크랜드 쪽에도,
 번개가 떨어졌대. 실수인가?
 [ENDBLOCK]
 청년
@@ -729,7 +729,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-아, 언제나 무서운 <Lion>씨보다
+아, 언제나 무서운 <Lion> 씨보다
 좋지 않나요.
 [ENDBLOCK]
 <Rutee>
@@ -747,7 +747,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>씨…
+<Stahn> 씨…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -755,7 +755,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn>씨…
+<Stahn> 씨…
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]

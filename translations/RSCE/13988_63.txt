@@ -37,7 +37,7 @@ reset---------
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
 단계 없음: D1R_EPI001START 	～	D1R_032_030_000
@@ -70,10 +70,10 @@ reset---------
 = <TAG_060>
 
 [ENDBLOCK]
-외피 생성 실패(반환값: <TAG_063>)
+외각 생성 실패(반환값: <TAG_063>)
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 종료◆◆◆◆◆◆
+◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●●구름 시작●●●●●●
@@ -185,9 +185,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <grey1>비어 있음（존재하지 않음）</color>
 [ENDBLOCK]
-외피
+외각
 [ENDBLOCK]
-<grey1>외피（존재하지 않음）</color>
+<grey1>외각（존재하지 않음）</color>
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -221,7 +221,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 비어 있음
 [ENDBLOCK]
-외피
+외각
 [ENDBLOCK]
 구름 1
 [ENDBLOCK]
@@ -578,13 +578,13 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-<Ilene>님은 어떤 사람에게도,
+<Ilene> 님은 어떤 사람에게도,
 가리지 않고 친절하게 대해 주십니다.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
 도시의 피해가 가벼운 것은,
-<Ilene>님의 지시가 정확했기 때문입니다.
+<Ilene> 님의 지시가 정확했기 때문입니다.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
@@ -594,11 +594,11 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 할머니
 [ENDBLOCK]
 도시의 피해가 가벼운 것은,
-<Ilene>님의 지시가 정확했기 때문입니다.
+<Ilene> 님의 지시가 정확했기 때문입니다.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-사라지기 전의 <Ilene>님을 봤는데,
+사라지기 전의 <Ilene> 님을 봤는데,
 아주 무서운 표정을 하고 계셨어요.
 [ENDBLOCK]
 할머니
@@ -765,7 +765,7 @@ notice
 피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외껍질 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
 1단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다

@@ -43,11 +43,11 @@
 <Philia>
 [ENDBLOCK]
 사람은 각자 다르죠…네.
-잘됐네요, <Kongman>씨…
+잘됐네요, <Kongman> 씨…
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>씨까지,
+<Philia> 씨까지,
 너무하지 않나요.
 [ENDBLOCK]
 <Kongman>
@@ -70,7 +70,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그렇다는 건…<Kongman>씨를
+그렇다는 건…<Kongman> 씨를
 그 대역으로?
 [ENDBLOCK]
 신인 감독
@@ -94,12 +94,12 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Kongman>씨, 대단하군요.
+<Kongman> 씨, 대단하군요.
 저, 연극이 정말 좋아요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-음, 음, <Philia>씨가,
+음, 음, <Philia> 씨가,
 내 연기하는 모습을 보고 싶다면…
 [ENDBLOCK]
 <Philia>
@@ -522,7 +522,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 예
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>가
 [ENDBLOCK]

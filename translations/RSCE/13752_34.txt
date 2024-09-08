@@ -104,7 +104,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary>님, 너무한 거 아니에요.
+<Mary> 님, 너무한 거 아니에요.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -158,7 +158,7 @@
 [ENDBLOCK]
 부동산 중개인
 [ENDBLOCK]
-하늘을 외殻으로 덮는 것이,
+하늘을 외각으로 덮는 것이,
 <Hugo>의 바람이었을까요.
 [ENDBLOCK]
 부동산 중개인
@@ -198,7 +198,7 @@
 [ENDBLOCK]
 부동산 중개인
 [ENDBLOCK]
-하늘을 외殻으로 덮는 것이,
+하늘을 외각으로 덮는 것이,
 <Hugo>의 바람이었을까요.
 [ENDBLOCK]
 부동산 중개인

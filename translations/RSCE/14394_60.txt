@@ -4,10 +4,10 @@
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
-◆◆◆◆◆◆ 외殻 종료 ◆◆◆◆◆◆
+◆◆◆◆◆◆ 외각 종료 ◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●● 구름 시작 ●●●●●●
@@ -1402,7 +1402,7 @@ notice
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]
-재크랜드
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]
@@ -1648,7 +1648,7 @@ notice
 [ENDBLOCK]
 토마스
 [ENDBLOCK]
-루웨인님…
+루웨인 님…
 [ENDBLOCK]
 루웨인
 [ENDBLOCK]
@@ -1683,7 +1683,7 @@ notice
 [ENDBLOCK]
 토마스
 [ENDBLOCK]
-루, 루웨인님!
+루, 루웨인 님!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]

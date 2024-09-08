@@ -14,7 +14,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-<Lion>님…소문보다
+<Lion> 님…소문보다
 좋은 분이시네요.
 [ENDBLOCK]
 <Leader>
@@ -58,7 +58,7 @@
 세인가르드 병사
 [ENDBLOCK]
 아, 네…맞습니다.
-당신은…객원 검사의 <Lion>님!?
+당신은…객원 검사의 <Lion> 님!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -67,7 +67,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-왕도에서…<Lion>님이…
+왕도에서…<Lion> 님이…
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

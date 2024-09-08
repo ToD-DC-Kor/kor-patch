@@ -147,7 +147,7 @@
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
 단계 없음：D1R_EPI001START 	～	D1R_032_030_000
@@ -180,10 +180,10 @@
 = <TAG_060>
 
 [ENDBLOCK]
-외피 생성 실패（반환 값：<TAG_063>）
+외각 생성 실패（반환 값：<TAG_063>）
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 종료◆◆◆◆◆◆
+◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●●구름 시작●●●●●●
@@ -755,7 +755,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Hugo>님을 뛰어넘고 싶어요.
+<Hugo> 님을 뛰어넘고 싶어요.
 <Marian>과 함께 있고 싶어요.
 [ENDBLOCK]
 <Chaltier>
@@ -814,7 +814,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 예
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x04><x80></color>가
 [ENDBLOCK]

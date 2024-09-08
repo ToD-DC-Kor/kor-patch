@@ -59,7 +59,7 @@
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-잭랜드의 놈에게,
+정크랜드의 녀석에게,
 잘 전해줘.
 [ENDBLOCK]
 남자
@@ -69,7 +69,7 @@
 [ENDBLOCK]
 남자
 [ENDBLOCK]
-잭랜드의 놈에게,
+정크랜드의 녀석에게,
 잘 전해줘.
 [ENDBLOCK]
 남자
@@ -80,7 +80,7 @@
 남자
 [ENDBLOCK]
 이 근처에선, 다음 대왕 후보는,
-모리유 영지의 <Fayte>님이 유력해.
+모리유 영지의 <Fayte> 님이 유력해.
 [ENDBLOCK]
 남자
 [ENDBLOCK]
@@ -105,7 +105,7 @@
 남자
 [ENDBLOCK]
 이 근처에선, 다음 대왕 후보는,
-모리유 영지의 <Fayte>님이 유력해.
+모리유 영지의 <Fayte> 님이 유력해.
 [ENDBLOCK]
 남자
 [ENDBLOCK]
@@ -128,7 +128,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>가
 [ENDBLOCK]
@@ -242,7 +242,7 @@ notice
 피츠갈드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외껍질 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
 첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다

@@ -324,7 +324,7 @@
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>씨, 지켜봐 주세요.
+<Philia> 씨, 지켜봐 주세요.
 승리의 영광, 당신에게 바칩니다!
 [ENDBLOCK]
 그럼 지금부터,

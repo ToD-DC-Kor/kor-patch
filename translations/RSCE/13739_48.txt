@@ -479,7 +479,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-폐하와 휴고님께,
+폐하와 휴고 님께,
 상황을 설명하고 오겠다. 기다려.
 [ENDBLOCK]
 <Dymlos>
@@ -748,7 +748,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Marian>
 [ENDBLOCK]
 제가 모시는 당신은,
-<Lion>・매그너스님이니까요.
+<Lion>・매그너스 님이니까요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -757,7 +757,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-알아주세요, <Lion>님.
+알아주세요, <Lion> 님.
 이건 제 결단이기도 해요.
 [ENDBLOCK]
 <Marian>

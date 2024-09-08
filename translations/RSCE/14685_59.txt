@@ -9,10 +9,10 @@ ly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
-◆◆◆◆◆◆ 외殻 종료 ◆◆◆◆◆◆
+◆◆◆◆◆◆ 외각 종료 ◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●● 구름 시작 ●●●●●●
@@ -151,7 +151,7 @@ select
 [ENDBLOCK]
 쉬고 갈래?
 네
-아니오
+아니요
 [ENDBLOCK]
 커뮤니티 할아버지
 [ENDBLOCK]
@@ -303,7 +303,7 @@ notice
 [ENDBLOCK]
 웹사이트에서 입력할 연동 ID와
 게임 비밀번호를 잊어버렸다면 커뮤니티 할아버지에게
-말 걸어서, 연동 ID·게임 비밀번호의
+말 걸어서, 연동 ID・게임 비밀번호의
 확인 항목을 선택해 주세요.
 [ENDBLOCK]
 コミュニ爺
@@ -591,7 +591,7 @@ notice
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님~.
+<Woodrow> 님~.
 진흙물에 빠져서, 더러워졌어요~
 [ENDBLOCK]
 <Rutee>
@@ -605,7 +605,7 @@ notice
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Kongman>님이,
+<Kongman> 님이,
 쓰레기 아래 깔린 것 같아.
 [ENDBLOCK]
 <Rutee>
@@ -822,7 +822,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 예
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><TAG_013ac></color>가
 [ENDBLOCK]
@@ -1247,7 +1247,7 @@ notice
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]
-잭랜드
+정크랜드
 [ENDBLOCK]
 노이슈타트
 [ENDBLOCK]

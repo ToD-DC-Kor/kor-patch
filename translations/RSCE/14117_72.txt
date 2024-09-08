@@ -364,17 +364,17 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 도구 가게
 [ENDBLOCK]
-<Fayte>님이 계시다면,
+<Fayte> 님이 계시다면,
 안심하고 장사를 할 수 있습니다わい.
 [ENDBLOCK]
 도구 가게
 [ENDBLOCK]
-<Fayte>님이라면 뭔가 해주실 거야.
+<Fayte> 님이라면 뭔가 해주실 거야.
 그렇게 믿고 장사를 계속하겠습니다わい.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>씨！
+<Johnny> 씨！
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -410,7 +410,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 예
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x04><x80></color>가
 [ENDBLOCK]

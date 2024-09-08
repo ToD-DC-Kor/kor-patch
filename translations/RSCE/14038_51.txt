@@ -124,7 +124,7 @@
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>님까지,
+<Philia> 님까지,
 너무한 거 아니에요.
 [ENDBLOCK]
 <Kongman>
@@ -147,7 +147,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그렇다면…<Kongman>님을
+그렇다면…<Kongman> 님을
 그 대역으로?
 [ENDBLOCK]
 신인 감독
@@ -171,12 +171,12 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Kongman>님, 대단한 거 아니에요.
+<Kongman> 님, 대단한 거 아니에요.
 저, 연극은 좋아해요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-그, 그럼, <Philia>님이,
+그, 그럼, <Philia> 님이,
 내 연기하는 모습을 보고 싶다고 한다면…
 [ENDBLOCK]
 <Philia>

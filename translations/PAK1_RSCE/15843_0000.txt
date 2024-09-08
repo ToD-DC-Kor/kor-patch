@@ -5,7 +5,7 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-이번에는 판다리아인가.
+이번에는 팬더리아인가.
 그레밤, 교활하군.
 [ENDBLOCK]
 어디로 도망치든,
@@ -13,5 +13,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 준비가 되면, 항구로 가자.
 [ENDBLOCK]
-판다리아……인가……
+팬더리아……인가……
 [ENDBLOCK]

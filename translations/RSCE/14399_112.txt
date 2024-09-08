@@ -475,7 +475,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x14><x80></color>가
 [ENDBLOCK]
@@ -1272,7 +1272,7 @@ notice
 [ENDBLOCK]
 웹사이트에서 입력할 연동 ID와
 게임 비밀번호를 잊어버렸다면 커뮤니티 할아버지에게
-말 걸어서, 연동 ID·게임 비밀번호의
+말 걸어서, 연동 ID・게임 비밀번호의
 확인 항목을 선택해 주세요.
 [ENDBLOCK]
 コミュニ爺
@@ -1400,7 +1400,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-괜찮아요, <Lilith>씨.
+괜찮아요, <Lilith> 씨.
 
 [ENDBLOCK]
 <Chelsea>
@@ -1450,7 +1450,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Lilith>씨, 반칙이에요!
+<Lilith> 씨, 반칙이에요!
 제가 찾았는데. 퉤.
 [ENDBLOCK]
 <Stahn>

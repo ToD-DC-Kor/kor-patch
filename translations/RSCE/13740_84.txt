@@ -318,7 +318,7 @@ debug
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-우와, <Lion>님이다！
+우와, <Lion> 님이다！
 
 [ENDBLOCK]
 아이
@@ -376,7 +376,7 @@ debug
 [ENDBLOCK]
 할아버지
 [ENDBLOCK]
-나는 <Hugo>님을 좋아하지 않는다.
+나는 <Hugo> 님을 좋아하지 않는다.
 유능하고 훌륭한 분이지만, 뭔가 좀…
 [ENDBLOCK]
 할아버지
@@ -492,7 +492,7 @@ debug
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-<Lion>님도, 먼 길을 가실 때는
+<Lion> 님도, 먼 길을 가실 때는
 파나시아 보틀을 잊지 마세요.
 [ENDBLOCK]
 병사
@@ -502,7 +502,7 @@ debug
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-이것은<Lion>님입니다.
+이것은<Lion> 님입니다.
 수고하셨습니다！
 [ENDBLOCK]
 병사
@@ -516,7 +516,7 @@ debug
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-역시 <Lion>님이십니다！
+역시 <Lion> 님이십니다！
 [ENDBLOCK]
 병사
 [ENDBLOCK]
@@ -529,7 +529,7 @@ debug
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-<Lion>님도 먼 길을 가실 때는
+<Lion> 님도 먼 길을 가실 때는
 파나시아 보틀을 잊지 마세요.
 [ENDBLOCK]
 병사
@@ -539,7 +539,7 @@ debug
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-이것은<Lion>님입니다.
+이것은<Lion> 님입니다.
 수고하셨습니다！
 [ENDBLOCK]
 병사
@@ -573,7 +573,7 @@ debug
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-캬ー <Lion>님이다！	캬ー！
+캬ー <Lion> 님이다！	캬ー！
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
@@ -582,7 +582,7 @@ debug
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-최근에 <Lion>님의 팬이 늘었지만,
+최근에 <Lion> 님의 팬이 늘었지만,
 처음 좋아한 건 나니까.
 [ENDBLOCK]
 소녀
@@ -597,7 +597,7 @@ debug
 [ENDBLOCK]
 소녀
 [ENDBLOCK]
-<Lion>님이 나쁜 사람들을 모두,
+<Lion> 님이 나쁜 사람들을 모두,
 처치해 주시면 좋겠어요.
 [ENDBLOCK]
 소녀
@@ -652,7 +652,7 @@ debug
 [ENDBLOCK]
 여인
 [ENDBLOCK]
-그 끔찍한 외피에,
+그 끔찍한 외각에,
 구멍을 뚫어줘!
 [ENDBLOCK]
 여인
@@ -730,7 +730,7 @@ debug
 남자
 [ENDBLOCK]
 최근에는 거리 어디를 가든,
-<Lion>·매그너스의 이야기로 가득 차 있어.
+<Lion>・매그너스의 이야기로 가득 차 있어.
 [ENDBLOCK]
 남자
 [ENDBLOCK]
@@ -892,7 +892,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>님…？
+<Johnny> 님…？
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -1168,7 +1168,7 @@ notice
 <Stahn>…
 너라는 녀석은…
 [ENDBLOCK]
-<Reynolds>님이,
+<Reynolds> 님이,
 의식을 되찾았습니다!
 [ENDBLOCK]
 연구실로 오세요.

@@ -72,7 +72,7 @@
 [ENDBLOCK]
 하녀
 [ENDBLOCK]
-아, <Johnny>님.
+아, <Johnny> 님.
 집에 돌아오다니 드물군요.
 [ENDBLOCK]
 하녀
@@ -97,20 +97,20 @@
 [ENDBLOCK]
 하녀
 [ENDBLOCK]
-<Johnny>님, 돌아오신 것을 환영합니다.
+<Johnny> 님, 돌아오신 것을 환영합니다.
 [ENDBLOCK]
 하녀
 [ENDBLOCK]
-<Johnny>님을 잘 부탁드립니다.
+<Johnny> 님을 잘 부탁드립니다.
 [ENDBLOCK]
 하녀
 [ENDBLOCK]
 렌즈 수집은 소홀히 하지 않고 진행되고 있습니다.
-안심하세요, <Johnny>님.
+안심하세요, <Johnny> 님.
 [ENDBLOCK]
 하녀
 [ENDBLOCK]
-모두와 <Johnny>님의 무사함을,
+모두와 <Johnny> 님의 무사함을,
 진심으로 기원하고 있습니다.
 [ENDBLOCK]
 영주 부인
@@ -126,7 +126,7 @@
 <Johnny>가 모리유 영지에 있었던 거구나.
 그러니 모습을 볼 수 없었던 거지.
 [ENDBLOCK]
-<Fayte>님이 감독해 주신 덕분에,
+<Fayte> 님이 감독해 주신 덕분에,
 <Johnny>도 제정신이 돌아오고 있어.
 [ENDBLOCK]
 이번 사태를 일으킨 범인은,
@@ -166,7 +166,7 @@
 <Johnny>가 모리유 영지에 있었던 거구나.
 그러니 모습을 볼 수 없었던 거지.
 [ENDBLOCK]
-<Fayte>님이 감독해 주신 덕분에,
+<Fayte> 님이 감독해 주신 덕분에,
 <Johnny>도 제정신이 돌아오고 있어.
 [ENDBLOCK]
 이번 사태를 일으킨 범인은,
@@ -229,7 +229,7 @@
 [ENDBLOCK]
 하인
 [ENDBLOCK]
-<Johnny>님, 돌아오셨군요.
+<Johnny> 님, 돌아오셨군요.
 
 [ENDBLOCK]
 하인
@@ -254,7 +254,7 @@
 [ENDBLOCK]
 하인
 [ENDBLOCK]
-<Johnny>님, 제가 할 수 있는 일이라면,
+<Johnny> 님, 제가 할 수 있는 일이라면,
 무엇이든 명령해 주세요.
 [ENDBLOCK]
 도우미
@@ -657,7 +657,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Johnny>씨! 그렇게 말하면 안 되죠.
+<Johnny> 씨! 그렇게 말하면 안 되죠.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -680,7 +680,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇다면, <Johnny>씨가
+그렇다면, <Johnny> 씨가
 제대로 하면 되잖아요.
 [ENDBLOCK]
 <Johnny>
@@ -709,7 +709,7 @@ notice
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Johnny>씨의 나이는
+<Johnny> 씨의 나이는
 문제가 아닙니다.
 [ENDBLOCK]
 <Chelsea>
@@ -742,7 +742,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…<Johnny>씨에게는
+…<Johnny> 씨에게는
 부모님이 계시잖아요!
 [ENDBLOCK]
 <Johnny>

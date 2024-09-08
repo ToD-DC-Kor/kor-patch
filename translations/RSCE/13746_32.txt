@@ -13,7 +13,7 @@ select
 [ENDBLOCK]
 <TAG_007>회전하시겠습니까？
 예
-아니오
+아니요
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -49,7 +49,7 @@ notice
 이야기는 듣고 있습니다.
 쉬실 건가요？
 예
-아니오
+아니요
 [ENDBLOCK]
 여관 주인
 [ENDBLOCK]

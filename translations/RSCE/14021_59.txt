@@ -173,7 +173,7 @@
 [ENDBLOCK]
 오베론 사
 [ENDBLOCK]
-어떨까요. 우선 <Hugo>님의
+어떨까요. 우선 <Hugo> 님의
 지시에 따르고, 사람들의 모습을 살펴보는 것은.
 [ENDBLOCK]
 <Ilene>
@@ -201,7 +201,7 @@
 [ENDBLOCK]
 오베론 사
 [ENDBLOCK]
-알겠습니다. <Hugo>님께는
+알겠습니다. <Hugo> 님께는
 그렇게 전하겠습니다.
 [ENDBLOCK]
 오베론 사

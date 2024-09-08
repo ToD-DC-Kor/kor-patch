@@ -27,7 +27,7 @@
 선원
 [ENDBLOCK]
 맞아! 당신 확실히 투기장에서,
-그 <Lilith>씨에게 이긴 사람이죠?
+그 <Lilith> 씨에게 이긴 사람이죠?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -184,7 +184,7 @@
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-<Kongman>씨, 제발!
+<Kongman> 씨, 제발!
 햇빛을 되찾아 줘!
 [ENDBLOCK]
 여인
@@ -200,11 +200,11 @@
 여인
 [ENDBLOCK]
 자신의 위험을 돌아보지 않고, 주민들을 피난시킨
-<Ilene>씨는 훌륭하다고 생각해.
+<Ilene> 씨는 훌륭하다고 생각해.
 [ENDBLOCK]
 여인
 [ENDBLOCK]
-<Ilene>씨는 이 도시에서,
+<Ilene> 씨는 이 도시에서,
 애증이 가득 차 버린 걸까.
 [ENDBLOCK]
 여인
@@ -378,7 +378,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 예
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xCC><x80></color>가
 [ENDBLOCK]
@@ -615,7 +615,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x4C><x00><x80>
 네
-아니오
+아니요
 [ENDBLOCK]
 다릴쉐이드 항구
 
@@ -651,7 +651,7 @@ notice
 [ENDBLOCK]
 여인
 [ENDBLOCK]
-아, <Kongman>님.
+아, <Kongman> 님.
 도와주세요.
 [ENDBLOCK]
 여인
@@ -730,7 +730,7 @@ notice
 <Stahn>
 [ENDBLOCK]
 여러분, 무슨 일이에요?!
-이런 일이면 <Ilene>님이!
+이런 일이면 <Ilene> 님이!
 [ENDBLOCK]
 여인
 [ENDBLOCK]
@@ -804,7 +804,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>씨. 나와의 경쟁…
+<Ilene> 씨. 나와의 경쟁…
 당신이 한 발 앞서 있는
 것 같아요.
 [ENDBLOCK]

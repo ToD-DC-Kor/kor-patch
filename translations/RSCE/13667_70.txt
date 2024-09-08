@@ -78,7 +78,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-하지만, <Mary>님,
+하지만, <Mary> 님,
 저 새는 아직 신혼이에요.
 [ENDBLOCK]
 <Mary>
@@ -411,7 +411,7 @@
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-<Walt>님 덕분에,
+<Walt> 님 덕분에,
 이 마을은 유지되고 있는 거야.
 [ENDBLOCK]
 젊은이
@@ -421,17 +421,17 @@
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-<Walt>님 덕분에,
+<Walt> 님 덕분에,
 이 마을은 유지되고 있는 거야.
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-<Walt>님이 신고해줘서
+<Walt> 님이 신고해줘서
 마을의 평화가 지켜졌어.
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-<Walt>님 덕분에,
+<Walt> 님 덕분에,
 이 마을은 유지되고 있는 거야.
 [ENDBLOCK]
 젊은이
@@ -441,7 +441,7 @@
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-<Walt>님 덕분에,
+<Walt> 님 덕분에,
 이 마을은 유지되고 있는 거야.
 [ENDBLOCK]
 젊은이
@@ -451,7 +451,7 @@
 [ENDBLOCK]
 젊은이
 [ENDBLOCK]
-<Walt>님이 있으면 마을은 안전해.
+<Walt> 님이 있으면 마을은 안전해.
 역시 그 사람은 믿음직한 사람이야.
 [ENDBLOCK]
 할머니
@@ -686,7 +686,7 @@
 이 이상은 볼 수 없다.
 
 [ENDBLOCK]
-…리, <Lion>님！
+…리, <Lion> 님！
 
 [ENDBLOCK]
 <Lion>
@@ -787,7 +787,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-리, <Lion>님！
+리, <Lion> 님！
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]

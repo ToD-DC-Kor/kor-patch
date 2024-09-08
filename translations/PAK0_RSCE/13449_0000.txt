@@ -67,23 +67,23 @@
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 1의 상품 GET !!
+<TAG_007>홀 1의 상품 획득 !!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 2의 상품 GET !!
+<TAG_007>홀 2의 상품 획득 !!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 3의 상품 GET !!
+<TAG_007>홀 3의 상품 획득 !!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 4의 상품 GET !!
+<TAG_007>홀 4의 상품 획득 !!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 5의 상품 GET !!
+<TAG_007>홀 5의 상품 획득 !!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -108,15 +108,15 @@ notice
 선택
 [ENDBLOCK]
 <TAG_007><x06><xC0><x00><x00><x40>야드 플레이어     
-150 <리리스>
-120 <콩맨>
- 90 <스탄>
- 65 <마리>
- 45 <우드로우>
- 30 <죠니>
- 15 <루티>
-  7 <첼시>
-  3 <필리아>
+150 <Lilith>
+120 <Kongman>
+ 90 <Stahn>
+ 65 <Mary>
+ 45 <Woodrow>
+ 30 <Johnny>
+ 15 <Rutee>
+  7 <Chelsea>
+  3 <Philia>
 [ENDBLOCK]
 다시 시도
 [ENDBLOCK]

@@ -1,7 +1,7 @@
 <Atwight>
 [ENDBLOCK]
 로디온의 정문에 도착했어.
-여기서 외껍질 대지로 나갈 수 있어.
+여기서 외각 대지로 나갈 수 있어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -18,7 +18,7 @@ notice
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
-아니오
+아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>가
 [ENDBLOCK]

@@ -38,12 +38,12 @@
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-<Lion>님이 성에 계시지 않으니,
+<Lion> 님이 성에 계시지 않으니,
 심심하네요.
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-<Lion>님이 아버지를 죽였다는
+<Lion> 님이 아버지를 죽였다는
 소문도 있습니다.
 [ENDBLOCK]
 여성
@@ -52,7 +52,7 @@
 [ENDBLOCK]
 여성
 [ENDBLOCK]
-모든 악의 근원은<Lion>님이 아니라,
+모든 악의 근원은<Lion> 님이 아니라,
 <Hugo>였군요.
 [ENDBLOCK]
 여성
@@ -319,7 +319,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary>씨, 정말로
+<Mary> 씨, 정말로
 놀리는 줄은 몰랐어요!
 [ENDBLOCK]
 <Dryden>

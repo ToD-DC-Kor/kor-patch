@@ -12,13 +12,13 @@
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>들어가시겠습니까？
+<TAG_007>들어가시겠습니까?
 네
 아니요
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>지상에 내려가시겠습니까？
+<TAG_007>지상에 내려가시겠습니까?
 네
 아니요
 [ENDBLOCK]
@@ -67,27 +67,27 @@ Hole 05 (Par <x17><x71><x48><x48><x80>)
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 1의 상품 GET!!
+<TAG_007>홀 1의 상품 획득!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 2의 상품 GET!!
+<TAG_007>홀 2의 상품 획득!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 3의 상품 GET!!
+<TAG_007>홀 3의 상품 획득!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 4의 상품 GET!!
+<TAG_007>홀 4의 상품 획득!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 5의 상품 GET!!
+<TAG_007>홀 5의 상품 획득!!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>선택할 수 있는 홀가 추가되었습니다!!
+<TAG_007>선택할 수 있는 홀이 추가되었습니다!!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -133,5 +133,5 @@ notice
 [ENDBLOCK]
 <TAG_007>미니게임을 종료하시겠습니까?
 예
-아니오
+아니요
 [ENDBLOCK]

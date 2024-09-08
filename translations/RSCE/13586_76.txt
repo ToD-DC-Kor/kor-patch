@@ -54,7 +54,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Alba>님！
+<Alba> 님！
 <Chelsea>가 돌아오지 않았나요？
 [ENDBLOCK]
 <Alba>
@@ -133,7 +133,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Alba>님 탓으로 돌릴 생각은 없지만,
+<Alba> 님 탓으로 돌릴 생각은 없지만,
 <Chelsea>는 정말 착한 아이네요.
 [ENDBLOCK]
 <Alba>
@@ -148,7 +148,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Alba>님…
+<Alba> 님…
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
@@ -157,7 +157,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Alba>님?
+<Alba> 님?
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
@@ -181,7 +181,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-…죄송해요, <Stahn>님.
+…죄송해요, <Stahn> 님.
 제가 이기적인 말을 했네요.
 [ENDBLOCK]
 <Stahn>
@@ -233,7 +233,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Woodrow>님까지 그렇게 하시다니, 너무해요!
+<Woodrow> 님까지 그렇게 하시다니, 너무해요!
 
 [ENDBLOCK]
 <Stahn>
@@ -262,7 +262,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-…<Stahn>씨,
+…<Stahn> 씨,
 무심코 제 말을 듣지 않고 있군요.
 [ENDBLOCK]
 <Woodrow>
@@ -420,7 +420,7 @@ select
 [ENDBLOCK]
 피곤하다면 쉬어도 된다네.
 네
-아니오
+아니요
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
@@ -443,7 +443,7 @@ select
 [ENDBLOCK]
 피곤하다면 쉬어도 좋다네.
 네
-아니오
+아니요
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
@@ -499,7 +499,7 @@ select
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Stahn>님! 다시 뵙게 되어,
+<Stahn> 님! 다시 뵙게 되어,
 기쁩니다.
 [ENDBLOCK]
 <Chelsea>

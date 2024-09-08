@@ -730,13 +730,13 @@ reset---------
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-<Ilene>님은 어떤 사람에게도,
+<Ilene> 님은 어떤 사람에게도,
 차별 없이 친절하게 대해 주십니다.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
 도시의 피해가 가벼운 것은,
-<Ilene>님의 지시가 적절했기 때문입니다.
+<Ilene> 님의 지시가 적절했기 때문입니다.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
@@ -746,11 +746,11 @@ reset---------
 할머니
 [ENDBLOCK]
 도시의 피해가 가벼운 것은,
-<Ilene>님 덕분입니다.
+<Ilene> 님 덕분입니다.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-사라지기 전의<Ilene>님을 보았는데,
+사라지기 전의<Ilene> 님을 보았는데,
 매우 무서운 얼굴을 하고 계셨습니다.
 [ENDBLOCK]
 할머니

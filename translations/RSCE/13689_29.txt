@@ -31,7 +31,7 @@
 ××××××공간 종료××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 시작◆◆◆◆◆◆
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
 단계 없음：D1R_EPI001START 	～	D1R_032_030_000
@@ -64,10 +64,10 @@
 = <TAG_060>
 
 [ENDBLOCK]
-외피 생성 실패（반환 값：<TAG_063>）
+외각 생성 실패（반환 값：<TAG_063>）
 
 [ENDBLOCK]
-◆◆◆◆◆◆외피 종료◆◆◆◆◆◆
+◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
 ●●●●●●구름 시작●●●●●●
@@ -462,7 +462,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-이곳은<Lion>님,
+이곳은<Lion> 님,
 통과해 주십시오.
 [ENDBLOCK]
 세인가르드 병사
@@ -471,7 +471,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-이곳은<Lion>님,
+이곳은<Lion> 님,
 통과해 주십시오.
 [ENDBLOCK]
 세인가르드 병사
@@ -480,7 +480,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-이곳은<Lion>님,
+이곳은<Lion> 님,
 통과해 주십시오.
 [ENDBLOCK]
 세인가르드 병사
@@ -493,7 +493,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-이곳은 <Lion>님,
+이곳은 <Lion> 님,
 통과해 주시기 바랍니다.
 [ENDBLOCK]
 세인가르드 병사
@@ -503,7 +503,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 세인가르드 병사
 [ENDBLOCK]
 수고 많으십니다,
-<Lion>님!
+<Lion> 님!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -512,7 +512,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 세인가르드 병사
 [ENDBLOCK]
 수고 많으십니다,
-<Lion>님!
+<Lion> 님!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -520,7 +520,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-수고 많으십니다, <Lion>님!
+수고 많으십니다, <Lion> 님!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -532,7 +532,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-수고 많으십니다, <Lion>님!
+수고 많으십니다, <Lion> 님!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]

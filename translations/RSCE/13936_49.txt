@@ -14,7 +14,7 @@
 부하
 [ENDBLOCK]
 괜찮습니까,
-<Baruk>님?
+<Baruk> 님?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
@@ -23,7 +23,7 @@
 부하
 [ENDBLOCK]
 다릴쉐이드에서의 짐의 행방을
-모른다고 <Lion>님께 거짓말을…
+모른다고 <Lion> 님께 거짓말을…
 [ENDBLOCK]
 부하
 [ENDBLOCK]
@@ -63,7 +63,7 @@
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-<Baruk>님, <Lion> 님 일행이
+<Baruk> 님, <Lion> 님 일행이
 칼비올라로 출발했다고 합니다…
 [ENDBLOCK]
 <Baruk>
@@ -74,7 +74,7 @@
 부하
 [ENDBLOCK]
 저기… 왜,
-<Lion>님을 감시하는 건가요?
+<Lion> 님을 감시하는 건가요?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
@@ -83,7 +83,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-역시 <Baruk>님은 처음부터…
+역시 <Baruk> 님은 처음부터…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -109,7 +109,7 @@
 [ENDBLOCK]
 오베론 직원
 [ENDBLOCK]
-<Baruk>님…？
+<Baruk> 님…？
 [ENDBLOCK]
 오베론 직원
 [ENDBLOCK]
@@ -242,7 +242,7 @@
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-<Baruk>님은 다릴쉐이드 본부에
+<Baruk> 님은 다릴쉐이드 본부에
 출장 중입니다.
 [ENDBLOCK]
 부하
@@ -252,7 +252,7 @@
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-설령 <Baruk>님이 돌아오지 않아도,
+설령 <Baruk> 님이 돌아오지 않아도,
 그 분의 뜻은 제가 이어받겠습니다.
 [ENDBLOCK]
 notice

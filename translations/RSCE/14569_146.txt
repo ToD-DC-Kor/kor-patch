@@ -13,7 +13,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>씨… 나는…
+<Ilene> 씨… 나는…
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -22,7 +22,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-왜 그런 거죠, <Ilene>씨!
+왜 그런 거죠, <Ilene> 씨!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -70,11 +70,11 @@
 <Ilene>
 [ENDBLOCK]
 나는 그 사실을 깨닫고,
-<Hugo>님의 생각에 찬동했어.
+<Hugo> 님의 생각에 찬동했어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>씨…
+<Ilene> 씨…
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -98,7 +98,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그만해! <Ilene>씨!
+그만해! <Ilene> 씨!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -111,7 +111,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>씨… 다시 한 번,
+<Ilene> 씨… 다시 한 번,
 다시 시작해보자.
 [ENDBLOCK]
 <Stahn>
@@ -510,7 +510,7 @@
 <Stahn>
 [ENDBLOCK]
 축하드립니다,
-<Woodrow>님!
+<Woodrow> 님!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]

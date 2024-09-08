@@ -6,7 +6,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 어우~, 그런데 정말 춥네.
-판다리아는 이게 힘들어.
+팬더리아는 이게 힘들어.
 [ENDBLOCK]
 어딘가에서 따뜻해지고 싶다.
 [ENDBLOCK]

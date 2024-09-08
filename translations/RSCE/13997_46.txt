@@ -1,6 +1,6 @@
 어머니
 [ENDBLOCK]
-<Ilene>님 댁에 비하면,
+<Ilene> 님 댁에 비하면,
 우리 집은 그리 대단한 게 아닙니다.
 [ENDBLOCK]
 어머니
@@ -10,7 +10,7 @@
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-<Ilene>님이 없어진다면,
+<Ilene> 님이 없어진다면,
 우리 집이 이 도시에서 제일의 자산가가 되겠네요.
 [ENDBLOCK]
 어머니
@@ -50,7 +50,7 @@
 [ENDBLOCK]
 언니
 [ENDBLOCK]
-<Ilene>씨는 도시가 싫증났어요.
+<Ilene> 씨는 도시가 싫증났어요.
 저도 기분은 이해해요.
 [ENDBLOCK]
 언니
