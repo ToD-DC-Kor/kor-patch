@@ -1,66 +1,66 @@
 <Lion>
 [ENDBLOCK]
-고집 센 녀석이군.
-어서 아는 걸 털어놔!
+고집 센 녀석 같으니라고.
+어서 알고 있는 걸 불어라!
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-하하, 모른다네.
+흥, 모른다니까.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-이…!
+이 자식……!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion> 님, 더 이상은…
+<Lion> 님, 이 이상은……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>…
-너, 뭐 하고 있는 거냐!
+<Lion>……
+너 뭐하는 거야!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그냥 심문일 뿐이다.
+그저 심문일 뿐이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그냥이라니…
-<Batista>야, 상처투성이잖아!
+그저라니……
+<Batista>, 상처투성이잖아!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-필요해서 한 것일 뿐이다.
+필요해서 한 것뿐이다.
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-하하.
+흥.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Batista> 님, 제발 부탁입니다.
+<Batista>, 부탁드립니다.
 <Greybum>의 위치를 알려주세요.
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-구차한 <Philia>가, 나에게 지시를 할 수 있나?
-대단해졌군.
+겁쟁이 <Philia>가 나한테 명령이라고?
+대단해졌구나.
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-하지만 그렇다, 옛정으로,
-하나만 좋은 정보를 줄게.
+하지만 그래, 옛정을 생각해서
+한 가지만 좋은 얘기를 해주지.
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-우리가 여기까지 온 것은,
-단순히 도시를 부수기 위한 목적이 아니야.
+우리가 여기까지 온 건
+단순히 마을을 부수는 게 목적이 아니야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그러고 보니, 무장선단의 배가 한 척,
-어쩌고저쩌고…
+그러고 보니, 무장 선단의 배 한 척이
+어쩌고저쩌고 했던 것 같은데……
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -68,62 +68,63 @@
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-등대 아래에서 어둡다는 거지!
-이제 와서 깨달아도 소용없어!
+등잔 밑이 어둡다더니!
+이제 와서 깨달아봤자 소용없어!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-（…이대로는 길이 막히겠군.）
+(…… 이대로는 해결이 안 되겠어.)
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-（…그렇군, 그런 방법이 있었구나.）
+(…… 그래, 그 방법이 있었지.)
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Mary>야, 네게 붙인 티아라를,
-<Batista>에게 넘길 거야.
+<Mary>, 네가 쓰고 있던 티아라를
+<Batista>에게 넘겨.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-벗는 거야…?
+벗기는 건가요……?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary> 님, 싫은 건가요?
+<Mary> 님, 싫으신가요?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-귀여웠는데.
+예뻤는데.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-강요는 안타깝잖아,
-내 것으로 하면 어때?
+억지로 하면 안 되니까
+내 걸로 할까?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-아, 그렇구나. 믿을 수 없다는 거네.
+아, 그래. 믿을 수 없다는 거군.
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-나는 여자 흉내를 낼 취미는 없어.
+나한테 여자 흉내 내는 취미는 없다고.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-이걸 받은 후에도, 아직 입을 다물지 못할 수 있겠나?
+이걸 받고 나서도 아직 그렇게
+말대꾸할 수 있을까?
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-으아아아악!
+으아아악!
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-헤헤, 아직 멀었어…
+흥, 아직 멀었어……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>! 너무 무리하지 마!
+<Lion>, 너무 무리하지 마!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -132,8 +133,8 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Batista>…
-왜 이런 일을…
+<Batista>……
+어째서 이런 짓을……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -141,7 +142,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-어라?    문이…
+어라? 문이……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -153,25 +154,26 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-응. 내가 오니, 문이 열려 있었어.
+네. 제가 왔을 때 문이 열려 있었어요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-밖에서 잠겨 있었는데, 어떻게…?
+밖에서 잠겼었는데
+어떻게……
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-누군가가 도와줬다고밖에,
-생각할 수 없어.
+누군가가 도와줬다고밖에
+생각할 수 없군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>! 큰일이야.
-<Batista>가 도망쳤어!
+<Lion>, 큰일 났어.
+<Batista>가 도망갔어!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-한 일은 나야.
+내가 한 일이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -179,29 +181,29 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-한밤중에 몰래,
-문 열쇠를 열어두었어.
+밤중에 몰래
+문 잠금을 열어놨어.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-혹시 그 놈을 풀어주고,
-행선지를 찾으려는 거냐?
+그 녀석을 미끼로 삼아
+목적지를 찾으려는 거로군?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그것을 위한 티아라야.
+그래서 티아라를 준 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇구나, 발신기가 붙어 있었구나.
+그렇구나, 발신기가 달려 있었지.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-그래서, <Batista>는 어디로…?
+그래서, <Batista>는 어디로……?
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>현재 소지하고 있는 가르드:<TAG_033>가르드
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
@@ -209,11 +211,11 @@ notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>가
 [ENDBLOCK]
-파티에 합류했습니다.
+파티에 가입했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
-전투에 참여할 수 있습니다.
+전투에 참가할 수 있습니다.
 [ENDBLOCK]
 동행합니다.
 [ENDBLOCK]
@@ -221,9 +223,9 @@ notice
 [ENDBLOCK]
 <x18><x65><x57><xB4><x00><x80><x18><x65><x57><xB8><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>가
 [ENDBLOCK]
@@ -231,32 +233,32 @@ notice
 [ENDBLOCK]
 <x18><x65><x57><xB4><x00><x80><x18><x65><x57><xB8><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
 [ENDBLOCK]
-<x18><x65><x57><xE4><x00><x80></color>를 획득했습니다.
+<x18><x65><x57><xE4><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-<turquoise>거래칭호
+<turquoise>교역 칭호
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-<turquoise>온천칭호
+<turquoise>온천 칭호
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-<turquoise>자유칭호
+<turquoise>자유 칭호
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>내추럴레인저
+칭호: <turquoise>네이처 레인저
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>대시 시리즈
+칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
@@ -264,11 +266,11 @@ notice
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-<turquoise>퀴즈칭호
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x47><xD8><x80>는
+<x19><x69><x47><xD8><x80>은(는)
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x57><xDC><x00><x80>
 <x18><x65><x57><xE0><x00><x80>
@@ -276,151 +278,150 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>는
+<x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 패스워드를 발급합니다.
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
 이 ID와 패스워드를 연동 웹사이트에서
-입력함으로써, 데스티니의 세계가
-더욱 확장됩니다.
+입력하면, 데스티니의 세계가
+더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 패스워드는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+<TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>게임 중의 이벤트나 미니게임을
 클리어하면 연동 ID와 게임 패스워드가
-발급될 수 있습니다.
+발행되는 경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>이 연동 ID와 게임 패스워드를
-웹사이트에서 입력함으로써 데스티니
-의 세계가 더욱 확장됩니다.
+웹사이트에 입력하면 데스티니
+세계가 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>웹사이트에서 입력할
-연동 ID와 게임 패스워드를 잊어버린 경우는
+<TAG_007>웹사이트에 입력할
+연동 ID와 게임 패스워드를 잊어버린 경우에는
 피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
 [ENDBLOCK]
-1단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-2단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-3단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-설정이 이루어지지 않았습니다!(tod=<TAG_059>)
+설정이 없습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-장치는 작동하지 않고 있습니다.
+장치가 작동하고 있지 않습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 워프 장치가 작동했습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x19><x71><x47><xC4><x80>의 소디언 장치가
+<TAG_007><x19><x71><x47><xC4><x80>의 소디언 디바이스가
 사용 가능해졌습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「칭호의 설명」
-칭호란 캐릭터에 세팅할 수 있는,
-캐릭터 파라미터 중 하나입니다.
-구체적인 세팅 방법은 다음과 같습니다.
+<TAG_007>'칭호의 설명'
+칭호란 캐릭터에 설정할 수 있는,
+캐릭터 파라미터의 하나입니다.
+구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>메인 메뉴를 연 후, 캐릭터의
-상태를 표시합니다.
-그 화면에서 <Square_ani>를 누르면, 캐릭터의
-상태 표시를 전환할 수 있습니다.
+스테이터스를 표시합니다.
+그 화면에서 <Square_ani>을 누르면, 캐릭터의
+스테이터스 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
-페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면,
+<TAG_007>스테이터스의 맨 위에 '칭호'라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
 획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>칭호의 용도에는 두 가지가 있습니다.
-첫 번째는…
-「칭호를 세팅하고, 마을 사람에게 이야기하자」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는……
+'칭호를 설정하고, 마을 사람들에게 말을 걸어보자'
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
-당신에게 관심을 가지는 사람이 있습니다.
-마을 사람에게 몇 번 이야기했을 때,
-신기한 행동을 할 때가 있습니다.
-그 때는, 가지고 있는 칭호를 다시 설정한 후,
-다시 이야기해 보세요.
+<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
+당신에게 흥미를 보이는 사람이 있습니다. 마을 사람들에게 여러 번
+말을 걸었을 때, 이상한 행동을 하는 경우가 있습니다.
+그때는 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 말을 걸어보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
-머리 위에 「？」가 나올 수 있습니다.
-그때는, 마을 사람의 대사와 관련이 있을 법한
-칭호를 세팅하고, 다시 이야기해보세요.
-무언가 기쁜 일이 일어날지도 모릅니다.
+<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
+머리 위에 '?'가 나타나는 경우가 있습니다.
+그때는 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 말을 걸어보세요.
+뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>용도의 두 번째는…
-「상태 화면을 멋지게 꾸미자」
-모은 칭호 중에서, 마음에 드는 것이 있다면,
-세팅하여 상태 화면을 멋지게 연출해보세요.
+<TAG_007>사용법의 두 번째는……
+'스테이터스 화면을 멋지게 꾸며보자'
+모은 칭호 중에서 마음에 드는 것이 있다면,
+설정해서 스테이터스 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「돌 차기 놀이」란,
+<TAG_007>'돌차기 놀이'란,
 필드에 있는 돌을 차서,
 특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 바깥에 있는 특정 돌을 차면,
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는, 돌 차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 드나들면,
+2: 전투는 돌차기 놀이의 클리어 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
 		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]

@@ -5,13 +5,13 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 오브젝트 조작 시작
 
 [ENDBLOCK]
-인수로 주어진 매개변수→<TAG_047>, <TAG_048>, <TAG_049>
+인수로 주어진 파라미터→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
-인수로 주어진 매개변수→<TAG_047>, <TAG_048>, <TAG_049>
+인수로 주어진 파라미터→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
-인수로 주어진 매개변수→<TAG_047>, <TAG_048>, <TAG_049>
+인수로 주어진 파라미터→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
 오브젝트 조작 모드 종료
@@ -22,29 +22,29 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 오브젝트 재선택
 
 [ENDBLOCK]
-상태 선택
+스테이터스 선택
 
 [ENDBLOCK]
-안개 상태
+안개 스테이터스
 [ENDBLOCK]
-<TAG_007>안개 시작 거리：<D_FOG_START>
-안개 종료 거리：<D_FOG_END>
-시작의 안개 비율：<D_FOG_RATE_START>
-종료의 안개 비율：<D_FOG_RATE_END>
-안개 색상 빨강：<D_FOG_COLOR_R>
-안개 색상 초록：<D_FOG_COLOR_G>
-안개 색상 파랑：<D_FOG_COLOR_B>
+<TAG_007>안개 시작 거리: <D_FOG_START>
+안개 종료 거리: <D_FOG_END>
+시작점의 안개 비율: <D_FOG_RATE_START>
+종료점의 안개 비율: <D_FOG_RATE_END>
+안개 색상 빨강: <D_FOG_COLOR_R>
+안개 색상 초록: <D_FOG_COLOR_G>
+안개 색상 파랑: <D_FOG_COLOR_B>
 
 [ENDBLOCK]
-<TAG_069>의 상태
+<TAG_069>의 스테이터스
 [ENDBLOCK]
 좌표(x) = <D_COORD_X>
 좌표(y) = <D_COORD_Y>
 좌표(z) = <D_COORD_Z>
-색값(빨강) = <D_COLOR_R>
-색값(초록) = <D_COLOR_G>
-색값(파랑) = <D_COLOR_B>
-색값(α) = <D_COLOR_A>
+색상(빨강) = <D_COLOR_R>
+색상(초록) = <D_COLOR_G>
+색상(파랑) = <D_COLOR_B>
+색상(α) = <D_COLOR_A>
 확대율(x) = <D_ZOOM_X>
 확대율(y) = <D_ZOOM_Y>
 확대율(z) = <D_ZOOM_Z>
@@ -57,10 +57,10 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 좌표(x) = <D_COORD_X>
 좌표(y) = <D_COORD_Y>
 좌표(z) = <D_COORD_Z>
-색값(빨강) = <D_COLOR_R>
-색값(초록) = <D_COLOR_G>
-색값(파랑) = <D_COLOR_B>
-색값(α) = <D_COLOR_A>
+색상(빨강) = <D_COLOR_R>
+색상(초록) = <D_COLOR_G>
+색상(파랑) = <D_COLOR_B>
+색상(α) = <D_COLOR_A>
 확대율(x) = <D_ZOOM_X>
 확대율(y) = <D_ZOOM_Y>
 확대율(z) = <D_ZOOM_Z>
@@ -70,21 +70,21 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 각도(z) = <D_ANGLE_Z>
 
 [ENDBLOCK]
-비어 있음
+하늘
 [ENDBLOCK]
-<grey1>비어 있음（존재하지 않음）</color>
+<grey1>하늘(존재하지 않음)</color>
 [ENDBLOCK]
 외각
 [ENDBLOCK]
-<grey1>외각（존재하지 않음）</color>
+<grey1>외각(존재하지 않음)</color>
 [ENDBLOCK]
-구름 1
+구름1
 [ENDBLOCK]
-<grey1>구름 1（존재하지 않음）</color>
+<grey1>구름1(존재하지 않음)</color>
 [ENDBLOCK]
-구름 2
+구름2
 [ENDBLOCK]
-<grey1>구름 2（존재하지 않음）</color>
+<grey1>구름2(존재하지 않음)</color>
 [ENDBLOCK]
 오브젝트 선택
 [ENDBLOCK]
@@ -97,10 +97,10 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <TAG_070>(<TAG_071>, <TAG_072> x <TAG_074> + <TAG_033>)
 
 [ENDBLOCK]
-상태 선택
+스테이터스 선택
 [ENDBLOCK]
 좌표
-색값
+색상
 확대율
 각도
 
@@ -108,13 +108,13 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <TAG_073>, <TAG_072>
 
 [ENDBLOCK]
-비어 있음
+하늘
 [ENDBLOCK]
 외각
 [ENDBLOCK]
-구름 1
+구름1
 [ENDBLOCK]
-구름 2
+구름2
 [ENDBLOCK]
 잘못된 오브젝트
 [ENDBLOCK]
@@ -156,14 +156,14 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <TAG_054>의 좌표
 [ENDBLOCK]
-번호（<TAG_033>）,인원 번호（<TAG_034>）
+번호（<TAG_033>）, 인물 번호（<TAG_034>）
 좌표(x) = <TAG_078>
 좌표(y) = <TAG_079>
 좌표(z) = <TAG_080>
 가산 = <TAG_051>
 
 [ENDBLOCK]
-번호（<TAG_033>）：좌표(x) = <TAG_078>
+번호（<TAG_033>）: 좌표(x) = <TAG_078>
 좌표(y) = <TAG_079>
 좌표(z) = <TAG_080>
 
@@ -174,69 +174,69 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 가산 변경→<TAG_050>
 
 [ENDBLOCK]
-과거의 색값(빨강)→<TAG_036>
+과거의 색상(빨강)→<TAG_036>
 
 [ENDBLOCK]
-현재의 색값(빨강)→<TAG_036>
+현재의 색상(빨강)→<TAG_036>
 
 [ENDBLOCK]
-과거의 색값(빨강)→<TAG_036>
+과거의 색상(빨강)→<TAG_036>
 
 [ENDBLOCK]
-현재의 색값(빨강)→<TAG_036>
+현재의 색상(빨강)→<TAG_036>
 
 [ENDBLOCK]
-과거의 색값(초록)→<TAG_037>
+과거의 색상(초록)→<TAG_037>
 
 [ENDBLOCK]
-현재의 색값(초록)→<TAG_037>
+현재의 색상(초록)→<TAG_037>
 
 [ENDBLOCK]
-과거의 색값(초록)→<TAG_037>
+과거의 색상(초록)→<TAG_037>
 
 [ENDBLOCK]
-현재의 색값(초록)→<TAG_037>
+현재의 색상(초록)→<TAG_037>
 
 [ENDBLOCK]
-과거의 색값(파랑)→<TAG_038>
+과거의 색상(파랑)→<TAG_038>
 
 [ENDBLOCK]
-현재의 색값(파랑)→<TAG_038>
+현재의 색상(파랑)→<TAG_038>
 
 [ENDBLOCK]
-과거의 색값(파랑)→<TAG_038>
+과거의 색상(파랑)→<TAG_038>
 
 [ENDBLOCK]
-현재의 색값(파랑)→<TAG_038>
+현재의 색상(파랑)→<TAG_038>
 
 [ENDBLOCK]
-과거의 색값(α)→<TAG_039>
+과거의 색상(α)→<TAG_039>
 
 [ENDBLOCK]
-현재의 색값(α)→<TAG_039>
+현재의 색상(α)→<TAG_039>
 
 [ENDBLOCK]
-과거의 색값(α)→<TAG_039>
+과거의 색상(α)→<TAG_039>
 
 [ENDBLOCK]
-현재의 색값(α)→<TAG_039>
+현재의 색상(α)→<TAG_039>
 
 [ENDBLOCK]
-<TAG_054>의 색값
+<TAG_054>의 색상
 [ENDBLOCK]
-※128이 표준 색값입니다
-번호（<TAG_033>）,인간 번호（<TAG_034>）
-색값(빨강) = <TAG_036>
-색값(초록) = <TAG_037>
-색값(파랑) = <TAG_038>
-색값(α) = <TAG_039>
+※128이 표준 색상입니다
+번호（<TAG_033>）, 인물 번호（<TAG_034>）
+색상(빨강) = <TAG_036>
+색상(초록) = <TAG_037>
+색상(파랑) = <TAG_038>
+색상(α) = <TAG_039>
 
 [ENDBLOCK]
-번호（<TAG_033>）,인간 번호（<TAG_034>）
-색값(빨강) = <TAG_036>
-색값(초록) = <TAG_037>
-색값(파랑) = <TAG_038>
-색값(α) = <TAG_039>
+번호（<TAG_033>）, 인물 번호（<TAG_034>）
+색상(빨강) = <TAG_036>
+색상(초록) = <TAG_037>
+색상(파랑) = <TAG_038>
+색상(α) = <TAG_039>
 
 [ENDBLOCK]
 과거의 확대율(x)→<TAG_040>
@@ -290,14 +290,14 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <TAG_054>의 확대율
 [ENDBLOCK]
 ※4096이 표준 크기입니다
-번호（<TAG_033>）,인간 번호（<TAG_034>）
+번호（<TAG_033>）, 인물 번호（<TAG_034>）
 확대율(x) = <TAG_040>
 확대율(y) = <TAG_041>
 확대율(z) = <TAG_042>
 확대율(a) = <TAG_043>
 
 [ENDBLOCK]
-번호（<TAG_033>）,인간 번호（<TAG_034>）
+번호(<TAG_033>), 인물 번호(<TAG_034>)
 확대율(x) = <TAG_040>
 확대율(y) = <TAG_041>
 확대율(z) = <TAG_042>
@@ -331,25 +331,25 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 과거의 각도(z)→<TAG_046>
 
 [ENDBLOCK]
-현재의 각도(z)→<TAG_046>
+현재 각도(z)→<TAG_046>
 
 [ENDBLOCK]
 과거의 각도(z)→<TAG_046>
 
 [ENDBLOCK]
-현재의 각도(z)→<TAG_046>
+현재 각도(z)→<TAG_046>
 
 [ENDBLOCK]
 <TAG_054>의 회전 각도
 [ENDBLOCK]
-※360도＝4096입니다
-번호（<TAG_033>）,인 번호（<TAG_034>）
+※360도=4096입니다
+번호(<TAG_033>), 인물번호(<TAG_034>)
 각도(x) = <TAG_044>
 각도(y) = <TAG_045>
 각도(z) = <TAG_046>
 
 [ENDBLOCK]
-번호（<TAG_033>）,인 번호（<TAG_034>）
+번호(<TAG_033>), 인물번호(<TAG_034>)
 각도(x) = <TAG_044>
 각도(y) = <TAG_045>
 각도(z) = <TAG_046>
@@ -358,14 +358,14 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
-반지름이다<x1D><x76><x40><x4C><x80> ,<x1D><x76><x40><x50><x80>
+반경이다<x1D><x76><x40><x4C><x80> ,<x1D><x76><x40><x50><x80>
 
 
 [ENDBLOCK]
 초기 각도<x1D><x76><x40><x1C><x80>
 
 [ENDBLOCK]
-반지름<x1D><x76><x40><x44><x80>
+반경<x1D><x76><x40><x44><x80>
 
 [ENDBLOCK]
 최대 각도<x1D><x76><x40><x30><x80>
@@ -395,49 +395,49 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 한계<D_FOG_COLOR_B>
 
 [ENDBLOCK]
-각도！<D_FOG_COLOR_G>
+각도!<D_FOG_COLOR_G>
 
 [ENDBLOCK]
 한계<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80>
+xxxxxxxxxxxxxxxxxxxxxx<x1D><x76><x40><x14><x80> 
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80> 
 
 [ENDBLOCK]
 한계<D_FOG_COLOR_B>
 
 [ENDBLOCK]
-각도！<D_FOG_COLOR_G>
+각도!<D_FOG_COLOR_G>
 
 [ENDBLOCK]
 한계<x17><x72><x40><x3C><x80>
 
 [ENDBLOCK]
-xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END>
+xxxxxxxxxxxxxxxxxxxxxx<D_FOG_RATE_END> 
 
 [ENDBLOCK]
-zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
+zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80> 
 
 [ENDBLOCK]
-××××××공 시작××××××
+×××××× 하늘 시작 ×××××××
 
 [ENDBLOCK]
-××××××공 종료××××××
+×××××× 하늘 종료 ×××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
+★★★★★★ 외각 시작 ★★★★★★
 
 [ENDBLOCK]
-◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
+★★★★★★ 외각 종료 ★★★★★★
 
 [ENDBLOCK]
-●●●●●●구름 시작●●●●●●
+●●●●●● 구름 시작 ●●●●●●
 
 [ENDBLOCK]
-●●●●●●구름 종료●●●●●●
+●●●●●● 구름 종료 ●●●●●●
 
 [ENDBLOCK]
 아가씨
@@ -446,12 +446,12 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>，무슨 일 있었나？
+<Fayte>, 무슨 일이 있었나?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-아, 좀 사건이 있었어.
-우리 병사가 습격당했거든.
+아, 좀 사건이 있어서 말이야.
+우리 병사가 습격당했어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -459,292 +459,239 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-아, 잡힌 건 잡혔는데…
+아, 잡히긴 잡혔는데……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-어떻게 된 거야？
-썩 좋지 않은 표정이네.
+왜 그래?
+별로 좋아 보이지 않는 표정이네.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-응…？
+음……?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-설마<Fayte> 씨,
-이 아이가 병사를 습격한 건가!?
+설마 <Fayte> 씨,
+이 아이가 병사를 습격했다고요!?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-…
+……
 [ENDBLOCK]
-소녀
+여자아이
 [ENDBLOCK]
-<Fayte> 님！
-저는 범인이 아닙니다！
+<Fayte> 님!
+저는 범인이 아닙니다!
 [ENDBLOCK]
-소녀
+여자아이
 [ENDBLOCK]
 <Johnny> 님도 믿어주세요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 확실히 이렇게 작은 아이가
-군인을 공격했을 거라고는 생각되지 않아.
+병사를 습격했다고는 생각되지 않아.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-하지만…
+하지만……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 저도 믿을 수 없습니다.
-이런 아이가…
+이런 아이가……
 [ENDBLOCK]
-소녀
+여자아이
 [ENDBLOCK]
 <Johnny> 님,
-부디 저를 도와주세요！
+부디 저를 도와주세요!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-이런 상황이라면 도와주지 않을 수 없겠군.
+이렇게 된 이상 돕지 않을 수
+없겠군.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte> 님, 이 아이의 처우에 대해서는
-조금 기다려줄 수 없겠습니까？
+<Fayte>, 이 아이의 처우에 대해
+잠시 기다려 줄 수 있겠나?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-알겠어. 이 아이의 신병을
-구속하게 될 거지만 용서해줘.
+알겠어. 이 아이를
+구금하게 될 테지만 용서해 줘.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-그리고, 모리유 영내에서
-취재를 해보는 건 어때？
+그리고 모류 영내에서
+탐문해 보는 게 어떨까?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
 사건에 대해 알고 있는 사람이
-아직 있을지도 몰라.
+아직 있을지도 모르니.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-사건이 발생한 것은, 어제 새벽.
-이 모리유 영내에서 군인이 공격당했습니다.
+사건이 일어난 건 어제 새벽.
+이 모류 영내에서 병사가 습격당했습니다.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-사실 최근 며칠 간 비슷한 사건이
-다발적으로 발생하고 있었습니다.
+사실 최근 며칠 동안 비슷한 사건이
+여러 건 발생했습니다.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-공격당한 군인에게는 항상 두 개의
-상처가 남겨져 있었습니다.
+습격당한 병사에게는 항상 두 개의
+상처가 남아 있었습니다.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-공격당한 군인의 증언과 목격자의 이야기를
-종합한 결과, 그 소녀에게
-우리는 이르게 되었습니다.
+습격당한 병사의 증언과 목격자의 이야기를
+종합한 결과, 저희는 그 여자아이에게
+도달하게 되었습니다.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-하지만, 사건이 발생한 시간에
-그 아이를 보았다는 알리바이 증언도
-실제로 있습니다.
+하지만 사건이 일어난 시간에
+그 아이를 봤다는 알리바이 증언도
+사실 있습니다.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-그래서 <Fayte> 님은 여러분에게
-시간을 주신 것이라고 생각합니다.
+그래서 <Fayte> 님께서 여러분께
+시간을 주신 것 같습니다.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
 긴 이야기가 되겠지만,
-사건의 개요를 듣고 싶으신가요？
-예
+사건의 개요를 들으시겠습니까?
+네
 아니요
 
 [ENDBLOCK]
-젊은이
+청년
 [ENDBLOCK]
-아, 범인에 대한 얘기는 들었어.
-하지만 사건이 발생한 시간에 그 아이는
+아, 범인에 대해서는 들었어.
+하지만 사건이 일어난 시간에 그 아이는
 이 집 아래에서 고양이와 놀고 있었어.
 [ENDBLOCK]
-젊은이
+청년
 [ENDBLOCK]
-여기서 시덴의 복장을 하고 있는 자는
+여기서 시덴의 복장을 한 녀석은
 눈에 띄니까 틀림없을 거야. 게다가
-큰 소리로 고양이에게 이야기하고 있었으니까.
+큰 소리로 고양이에게 말을 걸고 있었거든.
 [ENDBLOCK]
-젊은이
+청년
 [ENDBLOCK]
-고양이와 진지하게 대화할 수 있을까？
+고양이랑 진짜로 대화할 수 있는 걸까?
 [ENDBLOCK]
-생선 장수
+생선 판매원
 [ENDBLOCK]
-소녀였지？ 아, 사건이 발생한
+여자아이 말이지? 아, 사건이 일어난
 시간에 쇼핑하러 왔었어.
 [ENDBLOCK]
-생선 장수
+생선 판매원
 [ENDBLOCK]
-상당히 오랫동안 망설이고 있다가,
-결정했다고 생각하고 상품을 포장했더니,
-역시 다른 걸로 하겠다고 하더군.
+꽤 오랫동안 고민하더니,
+결정했다고 생각해서 상품을 포장했는데,
+역시 다른 걸로 하겠다고 하더라고.
 [ENDBLOCK]
-생선 장수
+생선 판매원
 [ENDBLOCK]
-그런 일을 여러 번 반복했으니
+그런 일을 여러 번 반복해서
 잘 기억하고 있어.
 [ENDBLOCK]
 무사
 [ENDBLOCK]
-얼마 전, 항구의 생선 가게에서
-소란을 피우고 있던 소녀를 봤어.
+며칠 전의 일인데, 항구의 생선가게에서
+소란을 피우던 여자아이를 봤어.
 [ENDBLOCK]
 무사
 [ENDBLOCK]
-왠지 신경이 쓰였지만,
-곧바로 이 여관에 돌아왔어.
+왠지 신경 쓰였지만,
+곧바로 이 여관으로 돌아왔지.
 [ENDBLOCK]
 무사
 [ENDBLOCK]
-돌아오자마자 그 쪽 쇼지 문을 열었더니,
-항구에 있었던 그 아이가
-무기 가게 옆 집에서 나왔어.
+돌아오자마자 저기 미닫이문을 열었더니,
+항구에 있었을 그 아이가
+무기상 옆 집에서 나오더라고.
 [ENDBLOCK]
 무사
 [ENDBLOCK]
-이 도시에는 아무도 모르는
+이 마을에는 아무도 모르는
 비밀 통로 같은 건 없을 텐데.
-정말 신기한 일이야.
+정말 이상한 일이야.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-범인이 밝혀졌습니까!?
+범인을 알아냈나요!?
 네
 아니요
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-그럼, 안으로 들어가서<Fayte> 님께
-설명해 주세요.
+그럼 안으로 들어가서 <Fayte> 님께
+설명 부탁드립니다.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-그렇습니까…범인이 밝혀지면
-다시 와 주세요.
+그렇군요…… 범인을 알아내면
+다시 와주세요.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-그럼 사건의 개요를 들을까요?
+그럼 사건의 개요를 들으시겠습니까?
 네
 아니요
 [ENDBLOCK]
-고기 판매하는 사람
+고기를 판매하는 사람
 [ENDBLOCK]
-나는 시덴 영토에서 왔는데…
-항구가 봉쇄되어서, 돌아갈 수가 없어.
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-젊은이? 왜 이렇게 여기 있어!
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-당신들이 무사했군요.
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-이전에 세인가르드 사람과 만났어.
-야만인이라고 생각했던 건 잘못이었어.
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-다른 나라의 일은,
-그곳에 사는 사람에게 물어보는 게 제일이야.
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-세인가르드는 멸망해버린 건가요?
-그렇게 강하다고 알려진 나라가…
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-젊은이…우리는 어떻게 해야…
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-우리는 어떻게 해야…
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-젊은이, 렌즈를 모으고 있다고 하네요.
-힘내세요!
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-렌즈를 모으고 있다고 하네요.
-힘내세요!
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-젊은이, 힘내세요!
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-여러분 힘내세요!
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-나는 시덴 영토에서 왔는데…
-항구가 봉쇄되어서, 돌아갈 수가 없어.
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-젊은이? 왜 이렇게 여기 있어!
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-당신들이 무사했군요.
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-이전에 세인가르드 사람과 만났어.
-야만인이라고 생각했던 건 잘못이었어.
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-다른 나라의 일은,
-그곳에 사는 사람에게 물어보는 게 제일이야.
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-세인가르드는 멸망해버린 건가요?
-그렇게 강하다고 알려진 나라가…
-[ENDBLOCK]
-고기 판매하는 사람
-[ENDBLOCK]
-젊은이…우리는 어떻게 해야…
+저는 시덴 영지에서 왔는데……
+항구가 봉쇄되어서 돌아갈 수가 없어요.
 [ENDBLOCK]
 고기를 판매하는 사람
 [ENDBLOCK]
-우리는 어떻게 해야…
+젊은이? 어째서 이런 곳에!
 [ENDBLOCK]
 고기를 판매하는 사람
 [ENDBLOCK]
-젊은이, 렌즈를 모으고 있다고 하네요.
+당신들 무사했군요.
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+얼마 전에 세인가르드 사람을 만났어요.
+야만인이라고 생각했던 게 잘못이었네요.
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+다른 나라의 일은
+그곳에 사는 사람에게 듣는 게 제일이에요.
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+세인가르드가 멸망해 버린 거예요?
+그렇게 강하다고 하던 나라가……
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+젊은이…… 우리는 어떻게 해야……
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+우리는 어떻게 해야……
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+젊은이, 렌즈를 모으고 있다면서요.
 힘내세요!
 [ENDBLOCK]
 고기를 판매하는 사람
 [ENDBLOCK]
-렌즈를 모으고 있다고 하네요.
+렌즈를 모으고 있다면서요.
 힘내세요!
 [ENDBLOCK]
 고기를 판매하는 사람
@@ -755,444 +702,498 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 여러분 힘내세요!
 [ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+저는 시덴 영지에서 왔는데……
+항구가 봉쇄되어서 돌아갈 수가 없어요.
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+젊은이? 어째서 이런 곳에!
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+당신들 무사했군요.
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+얼마 전에 세인가르드 사람을 만났어요.
+야만인이라고 생각했던 게 잘못이었네요.
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+다른 나라의 일은
+그곳에 사는 사람에게 듣는 게 제일이에요.
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+세인가르드가 멸망해 버린 거예요?
+그렇게 강하다고 하던 나라가……
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+젊은이…… 우리는 어떻게 해야……
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+우리는 어떻게 해야……
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+젊은이, 렌즈를 모으고 있다면서요.
+힘내세요!
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+렌즈를 모으고 있다면서요.
+힘내세요!
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+젊은이, 힘내세요!
+[ENDBLOCK]
+고기를 판매하는 사람
+[ENDBLOCK]
+여러분 힘내세요!
+[ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-나는 토케이의 사람이지만,
-이번 사건과는 무관하네?
+나는 토케이 사람이지만,
+이번 일과는 무관해?
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-지금 말할 수 있지만, <Tiberius>는,
-방식이 너무 강압적이었어.
+이제야 말할 수 있지만, <Tiberius>는
+하는 방식이 너무 강압적이었어.
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-그 방송에서, <Tiberius>의 존재가,
-완전히 사라져버렸군.
+그 방송으로 <Tiberius>의 존재가
+완전히 사라져 버렸군.
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-그게 좋은 건지 나쁜 건지…
-토케이 영토의 사람으로서 복잡해.
+그게 좋은 건지 나쁜 건지……
+토케이 영지 사람으로서는 복잡해.
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-모리유 자랑의 검은 십자 함대는,
+모류 자랑의 흑십자 함대는
 뭘 하고 있는 걸까.
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-나도 렌즈를 내놓아야겠군…
+나도 렌즈를 내야겠군……
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-안녕, 힘내라!
+이봐, 힘내!
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-나는 토케이의 사람이지만,
-이번 사건과는 무관하네?
+나는 토케이 사람이지만,
+이번 일과는 무관해?
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-지금 말할 수 있지만, <Tiberius>는,
-방식이 너무 강압적이었어.
+이제야 말할 수 있지만, <Tiberius>는
+하는 방식이 너무 강압적이었어.
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-그 방송에서, <Tiberius>의 존재가,
-완전히 사라져버렸군.
+그 방송으로 <Tiberius>의 존재가
+완전히 사라져 버렸군.
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-그게 좋은 건지 나쁜 건지…
-토케이 영토의 사람으로서 복잡해.
+그게 좋은 건지 나쁜 건지……
+토케이 영지 사람으로서는 복잡해.
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-모리유 자랑의 검은 십자 함대는,
+모류 자랑의 흑십자 함대는
 뭘 하고 있는 걸까.
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-나도 렌즈를 내놓아야겠군…
+나도 렌즈를 내야겠군……
 [ENDBLOCK]
 채소를 판매하는 사람
 [ENDBLOCK]
-안녕, 힘내라!
+이봐, 힘내!
 [ENDBLOCK]
 과일을 판매하는 사람
 [ENDBLOCK]
-토케이의 놈들…
-이 원한은 평생 잊지 않겠다.
-[ENDBLOCK]
-과일을 판매하는 사람
-[ENDBLOCK]
-나는 지금까지 세인가르드를
-계속 적대시해왔다.
-[ENDBLOCK]
-과일을 판매하는 사람
-[ENDBLOCK]
-지금은 그 대상이 토케이로 바뀌었다.
-무리도 아니겠지?
-[ENDBLOCK]
-과일을 판매하는 사람
-[ENDBLOCK]
-세인가르드의 거대 기업의 수장이,
-이번 그림을 그리고 있다고 들었다.
-[ENDBLOCK]
-과일을 판매하는 사람
-[ENDBLOCK]
-그 수장이, 세인가르드 왕가에
-조종당하고 있다는 것은 아닐까?
-[ENDBLOCK]
-과일을 판매하는 사람
-[ENDBLOCK]
-오베론 사 같은 것에 관대하게 굴었기 때문에,
-이런 일이 생긴 거 아닐까?
-[ENDBLOCK]
-과일을 판매하는 사람
-[ENDBLOCK]
-영웅님이 지나가시나요?
-우리 과일, 가져가 주세요!
-[ENDBLOCK]
-과일을 판매하는 사람
-[ENDBLOCK]
-토케이 놈들…
+토케이 놈들……
 이 원한은 평생 잊지 않을 거야.
 [ENDBLOCK]
 과일을 판매하는 사람
 [ENDBLOCK]
 나는 지금까지 세인가르드를
-계속 적대시해왔어.
+계속 적대시해 왔어.
 [ENDBLOCK]
 과일을 판매하는 사람
 [ENDBLOCK]
-지금은 그 대상이 토케이로 바뀌었어.
-무리한 요구는 아니겠지?
+지금은 그 대상이 토케이로 바뀌었지.
+무리도 아니지?
 [ENDBLOCK]
 과일을 판매하는 사람
 [ENDBLOCK]
-세인가르드의 대기업의 수장이,
-이번 그림을 그린다고 들었어.
+세인가르드의 거대 기업 톱이
+이번 그림을 그리고 있다고 들었어.
 [ENDBLOCK]
 과일을 판매하는 사람
 [ENDBLOCK]
-그 수장이, 세인가르드 왕가에
-조종당하고 있다는 건 아닐까?
+그 톱이 세인가르드 왕가에
+조종당하고 있는 건 아닐까?
 [ENDBLOCK]
 과일을 판매하는 사람
 [ENDBLOCK]
-오베론 사 같은 것에 관대하게 굴었기 때문에,
-이런 일이 생긴 거 아닐까?
+오베론 사 같은 것에 관대해서
+이런 일이 된 거 아닐까?
 [ENDBLOCK]
 과일을 판매하는 사람
 [ENDBLOCK]
-영웅님이 지나가시나요?
-우리 과일, 가져가 주세요!
+영웅님이 지나가시나?
+우리 과일 좀 가져가세요!
 [ENDBLOCK]
-모리유 병사
+과일을 판매하는 사람
 [ENDBLOCK]
-왕가 분들의 안전이 확인될 때까지,
-경솔한 행동은 삼가야 해…
+토케이 놈들……
+이 원한은 평생 잊지 않을 거야.
 [ENDBLOCK]
-모리유 병사
+과일을 판매하는 사람
 [ENDBLOCK]
-지노 님… 지켜드리지 못해,
-정말로 죄송합니다…!
+나는 지금까지 세인가르드를
+계속 적대시해 왔어.
 [ENDBLOCK]
-모리유 병사
+과일을 판매하는 사람
 [ENDBLOCK]
-앞으로는 <Fayte> 님을 받들어,
-모리유의 영광을 되찾겠습니다.
+지금은 그 대상이 토케이로 바뀌었지.
+무리도 아니지?
 [ENDBLOCK]
-모리유 병사
+과일을 판매하는 사람
 [ENDBLOCK]
-<Fayte> 님께서 함부로 소란을 피우지 말고,
-냉정한 태도를 취하라고 하셨습니다.
+세인가르드의 거대 기업 톱이
+이번 그림을 그리고 있다고 들었어.
 [ENDBLOCK]
-모리유 병사
+과일을 판매하는 사람
 [ENDBLOCK]
-솔직히 말하면 불안으로 가득하지만,
-조용히 임무에 임하겠습니다.
+그 톱이 세인가르드 왕가에
+조종당하고 있는 건 아닐까?
 [ENDBLOCK]
-모리유 병사
+과일을 판매하는 사람
 [ENDBLOCK]
-세상을 원래대로 되돌릴 수 있다면,
-어떠한 고생도 아끼지 않겠습니다.
+오베론 사 같은 것에 관대해서
+이런 일이 된 거 아닐까?
+[ENDBLOCK]
+과일을 판매하는 사람
+[ENDBLOCK]
+영웅님이 지나가시나?
+우리 과일 좀 가져가세요!
+[ENDBLOCK]
+모류 병사
+[ENDBLOCK]
+왕가 분들의 안위를 알 때까지
+경솔한 행동은 삼가야……
+[ENDBLOCK]
+모류 병사
+[ENDBLOCK]
+지노 님…… 지키지 못해
+정말 죄송합니다……!
+[ENDBLOCK]
+모류 병사
+[ENDBLOCK]
+앞으로는 <Fayte> 님을 보좌하여
+모류의 영광을 되찾겠습니다.
+[ENDBLOCK]
+모류 병사
+[ENDBLOCK]
+<Fayte> 님께서 불필요하게 소란을 피우지 말고
+침착한 태도를 취하라고 하셨습니다.
+[ENDBLOCK]
+모류 병사
+[ENDBLOCK]
+솔직히 말하면 불안투성이지만,
+묵묵히 임무에 전념하겠습니다.
+[ENDBLOCK]
+모류 병사
+[ENDBLOCK]
+세계를 원래대로 되돌릴 수 있다면
+어떤 고생도 마다하지 않겠습니다.
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-아! 노래 잘 부르는 형아다.
+아! 노래 잘하는 오빠다.
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-화려한 장식을 잔뜩 단 형아가,
+나풀나풀한 옷을 잔뜩 입은 오빠가
 노래하는 걸 봤어.
 
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-나는 알아.
-형아는 시덴 영지의 젊은이잖아.
+나는 알고 있어요.
+오빠는 시덴 영지의 도련님이죠.
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-화려한 장식을 단 형아,
-시덴 영지의 젊은이였대.
+나풀나풀한 옷을 입은 오빠가
+시덴 영지의 도련님이었대요.
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-<Fayte> 님, 만세.
+<Fayte> 님, 만세에요.
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-하늘에 떠 있는 건, 뭐지?
+하늘에 떠 있는 건 뭐예요?
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-어라? 언제 밤이 되었지?
+어라? 언제 밤이 됐지?
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-화려한 젊은이, 멋지다! 힘내!
+나풀나풀한 옷의 도련님, 멋져요!
+힘내세요!
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-힘내!
+힘내세요!
 [ENDBLOCK]
-소녀
+여자아이
 [ENDBLOCK]
 같은 아쿠아베일인데,
-왜 토케이 영지와 싸우는 거야?
-[ENDBLOCK]
-소녀
-[ENDBLOCK]
-<Fayte> 님이 계신다면,
-분명 모두와 잘 지낼 수 있을 거야.
+왜 토케이 영지랑 싸우는 거예요?
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-이상한 방송에 하늘의 그림자…
-무서워서 견딜 수가 없어…
+<Fayte> 님이 계시면,
+분명 모두와 사이좋게 지낼 수 있을 거예요.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-우리, 또 전투에 패한 거야?
-하늘과 땅의 전쟁이었잖아?
+이상한 방송에 하늘의 그림자……
+너무 무서워요……
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-우리, 아직 지지 않았네.
-잘했어!
+우리, 또 전쟁에서 진 거예요?
+천지전쟁이었잖아요?
 [ENDBLOCK]
-물고기 판매하는 사람
+여자아이
 [ENDBLOCK]
-배의 출입이 제한되어서,
-팔 물고기가 들어오지 않고 있어.
+우리, 아직 지지 않았네요.
+야호!
 [ENDBLOCK]
-물고기 판매하는 사람
+생선 판매원
 [ENDBLOCK]
-다시 장사를 할 수 있게 되었어.
-<Fayte> 님, 만세다!
+배의 출입이 제한돼서
+팔 물고기가 들어오지 않아.
 [ENDBLOCK]
-물고기 판매하는 사람
+생선 판매원
 [ENDBLOCK]
-저 하늘의 그림자, 마치 의지를 가진 듯
-늘어나는 것 같아…
+다시 장사를 할 수 있게 됐어.
+<Fayte> 님, 만만세다!
 [ENDBLOCK]
-물고기 판매하는 사람
+생선 판매원
+[ENDBLOCK]
+저 하늘의 그림자, 마치 의지를 가지고
+늘어나는 것 같아……
+[ENDBLOCK]
+생선 판매원
 [ENDBLOCK]
 하늘이 전부 막혀버렸어.
 이제 어떻게 해야 하지?
 [ENDBLOCK]
-물고기 판매하는 사람
+생선 판매원
 [ENDBLOCK]
-괴물 같은 건 쫓아버릴 거야.
-모리우 남자의 근성을 무시하지 마!
+몬스터 따위 물리쳐주지.
+모류 남자의 근성을 얕보지 마.
 [ENDBLOCK]
-물고기 판매하는 사람
+생선 판매원
 [ENDBLOCK]
-배의 출입이 제한되어서,
-팔 물고기가 들어오지 않고 있어.
+배의 출입이 제한돼서
+팔 물고기가 들어오지 않아.
 [ENDBLOCK]
-물고기 판매하는 사람
+생선 판매원
 [ENDBLOCK]
-다시 장사를 할 수 있게 되었어.
-<Fayte> 님, 만세다!
+다시 장사를 할 수 있게 됐어.
+<Fayte> 님, 만만세다!
 [ENDBLOCK]
-물고기 판매하는 사람
+생선 판매원
 [ENDBLOCK]
-저 하늘의 그림자, 마치 의지를 가진 듯
-늘어나는 것 같아…
+저 하늘의 그림자, 마치 의지를 가지고
+늘어나는 것 같아……
 [ENDBLOCK]
-물고기 판매하는 사람
+생선 판매원
 [ENDBLOCK]
 하늘이 전부 막혀버렸어.
 이제 어떻게 해야 하지?
 [ENDBLOCK]
-물고기 판매하는 사람
+생선 판매원
 [ENDBLOCK]
-괴물 같은 건 쫓아버릴 거야.
-모리우 남자의 근성을 무시하지 마!
+몬스터 따위 물리쳐주지.
+모류 남자의 근성을 얕보지 마.
 [ENDBLOCK]
-모리우 병사
+모류 병사
 [ENDBLOCK]
 너희들, 어디서 왔어?
-밀입국자라면 가만두지 않을 거야.
+밀입국자라면 가만두지 않을 거다.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
 배 위라고 해도
-무슨 일이 일어날지 모르니까.
+무슨 일이 일어날지 모른다.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-준비만큼은 소홀히 하지 마.
+준비만큼은 게을리하지 마라.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
 여러분, 배 위라고 해도
-무슨 일이 일어날지 모르니까요.
+무슨 일이 일어날지 모릅니다.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-준비만큼은 소홀히 하지 말아 주세요.
+준비만큼은 게을리하지 마세요.
 [ENDBLOCK]
 select
 [ENDBLOCK]
 <TAG_007>출항하시겠습니까?
-네
+예
 아니요
 [ENDBLOCK]
-모리우 병사
+모류 병사
 [ENDBLOCK]
-저<Batista>라는 대관,
-세인가르드 사람인 것 같아.
+저 <Batista>라는 대관,
+세인가르드 사람이었다더군요.
 [ENDBLOCK]
-모리우 병사
+모류 병사
 [ENDBLOCK]
-영주가 된 지 얼마 안 되어,
-이런 일이 생기다니
-<Fayte> 님도 안타깝네요.
+영주가 되자마자 이런 일이 생겨서
+<Fayte> 님도 안됐어요.
 [ENDBLOCK]
-모리우 병사
+모류 병사
 [ENDBLOCK]
-이런 일에 힘이 될 수 있다면.
+이런 일로 도움이 될 수 있다면
 배를 사용해 주세요.
 [ENDBLOCK]
-모리우 병사
+모류 병사
 [ENDBLOCK]
-모리우 병사
+모류 병사
 [ENDBLOCK]
-모리우는 죽지 않는다!	
-도시의 평화는 지켜 보이겠다!
+모류는 죽지 않는다!	
+마을의 평화는 지켜 보이겠어!
 [ENDBLOCK]
-모리우 병사
+모류 병사
 [ENDBLOCK]
-부디 배를 사용해 주세요!
+꼭 배를 사용해 주세요!
 [ENDBLOCK]
-모리유 병
+모류 병사
 [ENDBLOCK]
-시덴의 민
+시덴의 주민
 [ENDBLOCK]
-…
+……
 [ENDBLOCK]
-시덴의 민
+시덴의 주민
 [ENDBLOCK]
-젊은이, 무사히 돌아오셨군요, 정말 다행입니다!
+도련님, 무사히 돌아오셔서 다행입니다!
 [ENDBLOCK]
-시덴의 민
+시덴의 주민
 [ENDBLOCK]
-너희들은 도대체 누구냐?
+너희들은 대체 누구냐?
 [ENDBLOCK]
-시덴의 민
+시덴의 주민
 [ENDBLOCK]
-<Rihanna> 님의 아름다움은 정말 대단하군요!
-한눈에 팬이 되었습니다.
+<Rihanna> 님의 아름다움이란, 정말!
+한눈에 팬이 되었어요.
 [ENDBLOCK]
-시덴의 민
+시덴의 주민
 [ENDBLOCK]
-모리유 영토의 상황을 관찰하고,
-무언가 있으면 즉시 젊은이께 보고하겠습니다.
+모류 영지의 상황을 관찰하고,
+무슨 일이 있으면 바로 도련님께 보고하겠습니다.
 [ENDBLOCK]
-시덴의 민
+시덴의 주민
 [ENDBLOCK]
-<Rihanna> 님, 몸이 좋지 않다고 하시네요.
-걱정입니다.
+<Rihanna> 님이 몸이 좋지 않으시다고요.
+걱정되네요.
 [ENDBLOCK]
-시덴의 민
+시덴의 주민
 [ENDBLOCK]
-<Rihanna> 님, 임신하셨다고요?
-걱정할 필요 없었군요.
+<Rihanna> 님이 임신하셨다고요?
+걱정할 일이 아니었네요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Greybum>의 모습은… 보이지 않는 것 같군요.
+<Greybum>의 모습은…… 보이지 않는 것 같네요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-저기 서 있는 게,
+저기 서 있는 게
 <Tiberius> 대왕인가?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 흠, 뭔가 거만해 보이네.
 [ENDBLOCK]
-모리유 병
+모류 병사
 [ENDBLOCK]
 대왕 폐하, 부탁드립니다.
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-모리유의 민들이여, 곧 다가온다!
+모류의 백성들이여, 곧이다!
 곧 아쿠아베일은 통일될 것이다!
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-그때가 바로, 우리의 비원을,
-드디어 실행에 옮기는 때이다!
+그때야말로 우리의 숙원을
+드디어 실행에 옮길 것이다!
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-숙적・세인가르드와,
-속국 피츠가르드를 무찌르겠다!
+숙적 세인가르드와
+속국 피츠가르드를 무찌를 것이다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-뭐라고…?!
+뭐라고……!
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-…저기 검은 머리의 남자!
+……저기 검은 머리의 남자!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…나에게 말하는 건가?
+……나한테 말하는 건가?
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-너가 지닌 검, 그것은 무엇이냐!
-우리 나라의 보검이 아닌가!
+네놈이 가지고 있는 검, 그게 뭐냐!
+우리나라의 보검이 아닌가!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-뭐라고…?
+뭐라고……?
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-<Greybum>에게 이야기를 들었다.
-너는 <Lion>・매그너스구나!
+<Greybum>에게서 이야기는 들었다.
+네놈, <Lion> 매그너스지!
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-너무도 뻔뻔하게, 우리 나라에 나타나셨군.
-하지만 그것이 너의 운명의 끝이다!
+잘도 뻔뻔하게 우리나라에 나타났구나.
+하지만 그게 네놈의 운명의 끝이다!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-큰일이다…
-우리가 들키고 말았어.
+큰일이야……
+우리 일이 들통났어.
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
@@ -1202,7 +1203,7 @@ select
 [ENDBLOCK]
 모두, 도망쳐!
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
@@ -1212,11 +1213,11 @@ notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x2C><x80></color>가
 [ENDBLOCK]
-파티에 합류했습니다.
+파티에 가입했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
-전투에 참여할 수 있습니다.
+전투에 참가할 수 있습니다.
 [ENDBLOCK]
 동행합니다.
 [ENDBLOCK]
@@ -1224,9 +1225,9 @@ notice
 [ENDBLOCK]
 <x18><x65><x59><x1C><x00><x80><x18><x65><x59><x20><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x2C><x80></color>가
 [ENDBLOCK]
@@ -1234,16 +1235,16 @@ notice
 [ENDBLOCK]
 <x18><x65><x59><x1C><x00><x80><x18><x65><x59><x20><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x50><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x50><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x4C><x00><x80></color>를 획득했습니다.
+<x18><x65><x59><x4C><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
 <x19><x69><x49><x40><x80>들은
 [ENDBLOCK]
-<turquoise>거래 칭호
+<turquoise>교역 칭호
 [ENDBLOCK]
 <x19><x69><x49><x40><x80>들은
 [ENDBLOCK]
@@ -1255,11 +1256,11 @@ notice
 [ENDBLOCK]
 <x19><x69><x49><x40><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>내추럴 레인저
+칭호: <turquoise>네이처 레인저
 [ENDBLOCK]
 <x19><x69><x49><x40><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>대시 시리즈
+칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
 <x19><x69><x49><x40><x80>들은
 [ENDBLOCK]
@@ -1269,9 +1270,9 @@ notice
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x49><x40><x80>는
+<x19><x69><x49><x40><x80>은(는)
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x59><x44><x00><x80>
 <x18><x65><x59><x48><x00><x80>
@@ -1279,152 +1280,151 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>는
+<x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
-이 ID와 비밀번호를 연동 웹사이트에
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에서
 입력하면, 데스티니의 세계가
-더욱 확장됩니다.
+더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>자세한 내용은 아래 URL에서 확인하세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+<TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>게임 중의 이벤트나 미니게임을
-클리어하면 연동 ID와 게임 비밀번호가
-발급될 수 있습니다.
+클리어하면 연동 ID와 게임 패스워드가
+발행되는 경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>이 연동 ID와 게임 비밀번호를
+<TAG_007>이 연동 ID와 게임 패스워드를
 웹사이트에 입력하면 데스티니
-의 세계가 더욱 확장됩니다.
+세계가 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 비밀번호를 잊어버린 경우는
+연동 ID와 게임 패스워드를 잊어버린 경우에는
 피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
 [ENDBLOCK]
-첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-설정이 이루어지지 않았습니다！（tod=<TAG_059>）
+설정이 없습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-장치가 작동하지 않고 있습니다.
+장치가 작동하고 있지 않습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 워프 장치가 작동했습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x19><x71><x49><x2C><x80>의 소디언 장치가
+<TAG_007><x19><x71><x49><x2C><x80>의 소디언 디바이스가
 사용 가능해졌습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「칭호의 설명」
+<TAG_007>'칭호의 설명'
 칭호란 캐릭터에 설정할 수 있는,
 캐릭터 파라미터의 하나입니다.
 구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>메인 메뉴를 연 후, 캐릭터의
-상태를 표시합니다.
-그 화면에서<Square_ani>를 누르면, 캐릭터의
-상태 표시를 전환할 수 있습니다.
+스테이터스를 표시합니다.
+그 화면에서 <Square_ani>을 누르면, 캐릭터의
+스테이터스 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
-페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
+<TAG_007>스테이터스의 맨 위에 '칭호'라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
 획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>칭호의 용도는 두 가지가 있습니다.
-첫 번째는…
-「칭호를 설정하고, 마을 사람에게 이야기하자」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는……
+'칭호를 설정하고, 마을 사람들에게 말을 걸어보자'
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
-당신에게 관심을 가지는 사람이 있습니다.
-마을 사람에게 몇 번 이야기했을 때,
-신기한 행동을 할 때가 있습니다.
-그 때는, 가지고 있는 칭호를 다시 설정한 후,
-다시 이야기해 보세요.
+<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
+당신에게 흥미를 보이는 사람이 있습니다. 마을 사람들에게 여러 번
+말을 걸었을 때, 이상한 행동을 하는 경우가 있습니다.
+그때는 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 말을 걸어보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
-머리 위에 「？」가 나타날 수 있습니다.
-그때는, 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 설정하고, 다시 이야기해 보세요.
-무언가 기쁜 일이 일어날 수도 있습니다.
+<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
+머리 위에 '?'가 나타나는 경우가 있습니다.
+그때는 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 말을 걸어보세요.
+뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>용도의 두 번째는…
-「상태 화면을 멋지게 꾸미자」
-모은 칭호 중에서, 만약 마음에 드는 것이 있다면,
-설정하여 상태 화면을 멋지게 연출해 보세요.
+<TAG_007>사용법의 두 번째는……
+'스테이터스 화면을 멋지게 꾸며보자'
+모은 칭호 중에서 마음에 드는 것이 있다면,
+설정해서 스테이터스 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「돌 차기 놀이」란,
+<TAG_007>'돌차기 놀이'란,
 필드에 있는 돌을 차서,
 특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는, 돌 차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 출입하면,
-		돌은 원래 장소로 돌아갑니다.
+2: 전투는 돌차기 놀이의 클리어 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
+		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
@@ -1439,15 +1439,15 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-정기선에 탑승하시겠습니까?
+정기선을 타시겠습니까?
 [ENDBLOCK]
-검은 십자 함대에서 보내드릴까요?
+흑십자 함대로 모셔다 드릴까요?
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x4C><x00><x80>
-예
+네
 아니요
 [ENDBLOCK]
-다릴 셰이드 항구
+다릴셰이드 항구
 
 [ENDBLOCK]
 체릭 항구
@@ -1459,13 +1459,13 @@ notice
 시덴 항구
 
 [ENDBLOCK]
-모리유 항구
+모류 항구
 
 [ENDBLOCK]
 토케이 항구
 
 [ENDBLOCK]
-스노우 플리아 항구
+스노우프리아 항구
 
 [ENDBLOCK]
 <TAG_007>어디로 가시겠습니까?
