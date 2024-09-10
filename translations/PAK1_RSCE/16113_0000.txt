@@ -1,20 +1,20 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-…………
+……
 [ENDBLOCK]
 <Chelsea>를 회복시켜야 해.
 라이프 보틀을 사용하자.
 [ENDBLOCK]
-그렇군요.
+그렇네요.
 [ENDBLOCK]
-내가 함께하고 있는데……
-이런 일이 생겨서 미안해.
+내가 함께 있었는데도……
+이런 일이 일어나서 미안해.
 [ENDBLOCK]
-<Woodrow>가 나쁜 게 아니야.
-너 자신을 탓하지 마.
+<Woodrow>의 잘못이 아니야.
+자책하지 마.
 [ENDBLOCK]
