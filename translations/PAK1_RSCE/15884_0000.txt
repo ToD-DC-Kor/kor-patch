@@ -1,21 +1,21 @@
 
-추가
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 노이슈타트인가……
-일레느 씨, 잘 지내고 있을까.
+일레느 씨, 잘 지내고 있으려나.
 [ENDBLOCK]
-<Stahn> 씨, 일레느 씨에 대해,
-그렇게 궁금해하는 건가……？
+<Stahn> 씨, 일레느 씨 일이
+그렇게 신경 쓰이나요……?
 [ENDBLOCK]
-그럴 수 있지. 승부도 하고 있으니까.
+그야 당연하지. 경쟁 상대이기도 하고.
 [ENDBLOCK]
 오랜만에 만나고 싶네!
 [ENDBLOCK]
 하아……
 [ENDBLOCK]
-어라？	<Philia>？	안녕.
+어라? 	<Philia>? 	이봐.
 [ENDBLOCK]
