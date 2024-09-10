@@ -160,7 +160,7 @@ select
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>세계의 명소 「쓰레기의 도시·정크랜드」
+<TAG_005>세계의 명소 「쓰레기의 도시・정크랜드」
 라는 책이 있다.
 [ENDBLOCK]
 select
@@ -183,7 +183,7 @@ select
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>소설 「별의 달력·2」
+<TAG_005>소설 「별의 달력・2」
 의 읽다 만 부분이 있다.
 [ENDBLOCK]
 select
