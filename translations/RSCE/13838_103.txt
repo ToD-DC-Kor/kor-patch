@@ -11,79 +11,79 @@
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-아아, 곤란하군.
+아, 곤란하군요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-무슨 일이냐?
+무슨 일이죠?
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-어머? 당신은 <Philia> 씨의
-아는 분이군요…
+어라? 당신은 <Philia> 님의
+지인이시군요……
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-그래, 들어주세요.
+그래요, 들어보세요.
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-얼마 전, <Philia> 씨의 방에 있는
-오래된 검을 좋게 생각해서 창고에 치워두었어요.
+얼마 전에 <Philia> 님의 방에 있던
+오래된 검을 좋은 뜻으로 창고에 치워뒀어요.
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-하지만 그 사실을 <Philia> 씨에게
-전하자마자, 바로 돌려달라고 하더군요.
+하지만 그 사실을 <Philia> 님께 말씀드리니,
+바로 돌려달라고 하시더군요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Philia>라면,
-그렇게 말할 거야.
+<Philia>라면
+그렇게 말할 만하지.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그런데 그게 왜 곤란한 거지?
-다시 창고에서 꺼내면 되잖아.
+하지만 그게 뭐가 문제죠?
+다시 창고에서 꺼내면 되잖아요.
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-어디 창고에 넣었는지
-잊어버려서…
+그게 어느 방의 창고에
+넣었는지 잊어버려서……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그렇군. 확실히 신전 안은
-방이 많으니까.
+그렇군요. 확실히 신전 안은
+방이 많으니까요.
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-나는 이 자리를 함부로
-떠날 수 없어요.
+저는 이 자리를 함부로
+비울 수가 없습니다.
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-제발 부탁입니다. <Philia> 씨의
-검을 찾아주실 수 없나요?
+부탁드립니다. <Philia> 님의
+검을 찾아주실 수 있으신가요?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-클레멘테 노인이 외롭게
-지내고 있을 거예요.
+클레멘테 노인도 혼자 외롭게
+있을 거예요.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-찾아주도록 합시다,
-아가씨.
+찾아드리죠,
+도련님.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…어쩔 수 없군.
+…… 어쩔 수 없군.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-알겠다. 찾아줄 수 있는
-보장은 없지만, 찾아보겠다.
+알겠어요. 찾을 수 있다고
+장담은 못 하지만, 찾아볼게요.
 [ENDBLOCK]
 신관
 [ENDBLOCK]
@@ -91,63 +91,64 @@
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-<Philia> 씨의 검은, 신전 안의
-어딘가에 있을 거예요.
+<Philia> 님의 검은 신전 안의
+어느 방에 있을 겁니다.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
 클레멘테 노인.
-모셔다 드렸습니다.
+모시러 왔습니다.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-흠. 드디어 모셔가셨군.
+음. 드디어 데리러
+왔구나.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-뭐냐? 모셔가기를
-원하지 않았던 말투인데.
+뭐야? 데리러 오길
+원하지 않는 것 같은 말투네.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-그건 그렇지.
+그야 그렇지.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
 우리는 노인이 분명 혼자서
-외로워하고 있을 거라고…
+외로워하고 계실 거라 생각해서……
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-무슨 소리를 하는가.
-여기 있는 걸 말이지.
+무슨 소리냐.
+여기 있으면 말이다.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-한밤중에 몰래 만나는
-젊은이들을 구경할 수 있지.
+밤중에 몰래 밀회하는
+젊은이들을 볼 수 있단다.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-그야말로, 내 몸과 마음이
-젊어지는 듯한 반짝이는 시간이지…
+그야말로 내 몸과 마음이
+젊어지는 듯한 반짝이는 시간을 말이지……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-이봐, 샬.
-어서 이걸 데리고 가자.
+이봐, 샤를.
+빨리 이 사람을 데려가자.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-네… 꼭 부탁드립니다.
+네…… 꼭 부탁드립니다.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-그만해, 제발 그만둬라!
+그만둬, 그만두라고!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-나는 여기 남겠다고!
+나는 여기 남을 거야!
 [ENDBLOCK]
 신관
 [ENDBLOCK]
@@ -159,45 +160,45 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-별로 고마울 것도 없다.
-하지만 두 번 다시 창고에 넣지 말라.
+별로 감사할 것 없어요.
+하지만 두 번 다시 창고에 넣지 마세요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-좋아, 두 번 다시다!
+알겠죠, 절대로 안 돼요!
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-어, 어째서 그렇게
-화가 나신 거죠!?
+왜, 왜 그렇게
+화내시는 거죠!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-너에게는 관계 없는 일이다.
-하지만 약속은 지켜줘야 한다.
+네게는 상관없는 일이야.
+하지만 약속은 꼭 지켜야 해.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-자, 검을 돌려준다.
+자, 검을 돌려줄게.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-노인도 이 일을 겪고,
-몰래 보는 건 그만둬주세요.
+노인도 이제 교훈을 얻으셨으니
+엿보기 같은 건 그만두세요.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-사람 듣기 나쁜 말 하지 마라.
-이 녀석이 내 앞에서 마음대로 만남을 가졌지.
+사람 듣기 나쁘게 말하지 마라.
+이놈이 멋대로 내 앞에서 밀회를 한 거지.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-이 녀석이란… 무슨 뜻인가요?
+이놈이라니…… 무슨 뜻이죠?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-이 녀석은 이 녀석이다.
-너희들 앞에 있는 신관이다.
+이놈은 이놈이지.
+너희 앞에 있는 신관 말이다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -205,52 +206,52 @@
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-하, 하이. 아직 뭔가요?
+네, 네. 또 뭔가요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-너가 검을 넣었던 창고를
-아직 알려주지 않았구나.
+네가 검을 넣은 창고를
+아직 알려주지 않았지.
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-아, 그랬군요.
-도대체 어떤 창고였죠?
+아, 그렇군요.
+대체 어느 창고였더라……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 그건 네가,
-한밤중에…
+밤중에……
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-제가 한밤중에…?
+제가 밤중에……?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-아, 아무것도 아니다.
+아, 아무것도 아니야.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-다음부터는 조심하거라!
+앞으로는 조심하라고!
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-아, 하아…
+네, 네……
 [ENDBLOCK]
 신관
 [ENDBLOCK]
 <Greybum>이 반란을 일으키다니.
-아, 끔찍해…
+아, 무서워……
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-<Philia> 님의 검은, 신전 내의
-어딘가의 방에 있을 것입니다.
+<Philia> 님의 검은 신전 안의
+어느 방에 있을 겁니다.
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-부탁드립니다.
+잘 부탁드립니다.
 [ENDBLOCK]
 신관
 [ENDBLOCK]
@@ -260,108 +261,109 @@
 신관
 [ENDBLOCK]
 <Greybum>이 반란을 일으키다니.
-아, 끔찍해…
+아, 무서워……
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-<Greybum>은 신벌을 받았습니다.
-당연한 보응이죠.
+<Greybum>은 신벌을 받은 겁니다.
+당연한 대가죠.
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-신이여… 왜 우리에게,
-이리도 연이어 시험을 주시는 것입니까.
+신이시여…… 왜 우리에게
+이토록 연이어 시련을 주시는 건가요.
 [ENDBLOCK]
 신관
 [ENDBLOCK]
-지상의 모든 사람들에게,
+지상의 모든 사람들에게
 아타모니 신의 가호가 있기를.
 [ENDBLOCK]
 사제
 [ENDBLOCK]
 <Greybum>의 반란 때,
-나는 아무것도 할 수 없이 떨기만 했습니다.
+저는 아무것도 못하고 떨기만 했습니다.
 [ENDBLOCK]
 사제
 [ENDBLOCK]
-다시는 그런 일이 없도록,
-마음을 항상 준비해 두어야 합니다.
+두 번 다시 그런 일이 없도록
+항상 마음의 준비를 해야겠습니다.
 [ENDBLOCK]
 사제
 [ENDBLOCK]
-다릴쉐이드 근처에,
-엄청난 번개가 떨어졌다고 하네요.
+다릴셰이드 근처에
+엄청난 번개가 떨어졌다고 하더군요.
 [ENDBLOCK]
 사제
 [ENDBLOCK]
-하늘을 외각으로 덮다니,
-결코 인간이 할 수 있는 일이 아닙니다.
+하늘을 껍질로 덮어버리다니,
+도저히 인간이 할 수 있는 일이라고는 생각되지 않습니다.
 [ENDBLOCK]
 사제
 [ENDBLOCK]
-여러분은 드래곤을 타고,
-하늘 위로 향하신다고 하네요.
+여러분은 드래곤을 타고
+하늘 위로 향하신다고요.
 [ENDBLOCK]
 사제
 [ENDBLOCK]
-인간의 가능성은 무한대군요.
-중요한 것은 그것을 어떻게 사용할 것인가입니다.
+인간의 가능성은 무한하군요.
+중요한 건 그걸 어떻게 사용하느냐입니다.
 [ENDBLOCK]
 참배객
 [ENDBLOCK]
-어머, 당신은 이전에 알메이다 마을에서
-이야기한 적이 있죠.
+어머, 당신 전에 알메이다 마을에서
+이야기했었죠.
 [ENDBLOCK]
 참배객
 [ENDBLOCK]
-주교님은 대성당에 계시다고 하셨지만…
+주교님은 대성당에 계십니다.
+라고 들었는데……
 [ENDBLOCK]
 참배객
 [ENDBLOCK]
-이렇게 넓으니 알 수가 없네요.
+이렇게 넓으니 알 수가 없네.
 
 [ENDBLOCK]
 참배객
 [ENDBLOCK]
 뭔가 큰일이 난 것 같은데,
-대단한 분이 어떻게든 해주시겠죠?
+높으신 분들이 어떻게든 해결해 주시겠죠?
 [ENDBLOCK]
 참배객
 [ENDBLOCK]
-대단한 분들도 어찌할 수 없는 건가요.
-이제는 정말 신께 의지할 수밖에 없네요.
+높으신 분들도 어찌할 수 없는 걸까.
+이제 정말 신에게 의지할 수밖에 없겠네.
 [ENDBLOCK]
 참배객
 [ENDBLOCK]
-누구라도 좋으니 어떻게든 해줘요!
-부탁해요!
+누구든 좋으니 어떻게 좀 해줘!
+제발!
 [ENDBLOCK]
-수련생
+견습생
 [ENDBLOCK]
-<Philia> 님이죠?
-이야기는 항상 듣고 있습니다.
+<Philia> 님이시죠?
+항상 이야기는 듣고 있습니다.
 [ENDBLOCK]
-수련생
+견습생
 [ENDBLOCK]
 저는 최근에 신앙의 길에 들어섰습니다.
 잘 부탁드립니다.
 [ENDBLOCK]
-수련생
+견습생
 [ENDBLOCK]
-당신이 이 신전을 구한 분이시군요.
-이야기는 항상 듣고 있습니다.
+당신이 이 신전을 구한 분이군요.
+항상 이야기는 듣고 있습니다.
 
 [ENDBLOCK]
-수련생
+견습생
 [ENDBLOCK]
-역경 속에서야,
+역경에 처했을 때야말로
 신앙의 질이 시험받는다고 생각합니다.
 [ENDBLOCK]
 견습생
 [ENDBLOCK]
-내가 할 수 있는 것은, 그저 기도하는 것뿐입니다.
+제가 할 수 있는 일은 오직 기도뿐입니다.
 [ENDBLOCK]
-입구 또는 1층 깊은 문
+입구 or 1층 안쪽 문
 [ENDBLOCK]
 3층 오른쪽 문
 [ENDBLOCK]
@@ -369,7 +371,7 @@
 [ENDBLOCK]
 2층 오른쪽 문
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
@@ -379,7 +381,7 @@ notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xDC><x80></color>가
 [ENDBLOCK]
-파티에 합류했습니다.
+파티에 가입했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
@@ -391,9 +393,9 @@ notice
 [ENDBLOCK]
 <x18><x65><x58><xCC><x00><x80><x18><x65><x58><xD0><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xDC><x80></color>가
 [ENDBLOCK]
@@ -401,32 +403,32 @@ notice
 [ENDBLOCK]
 <x18><x65><x58><xCC><x00><x80><x18><x65><x58><xD0><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x00><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x00><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xFC><x00><x80></color>를 획득했습니다.
+<x18><x65><x58><xFC><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
 <x19><x69><x48><xF0><x80>들은
 [ENDBLOCK]
-<turquoise>거래칭호
+<turquoise>교역 칭호
 [ENDBLOCK]
 <x19><x69><x48><xF0><x80>들은
 [ENDBLOCK]
-<turquoise>온천칭호
+<turquoise>온천 칭호
 [ENDBLOCK]
 <x19><x69><x48><xF0><x80>들은
 [ENDBLOCK]
-<turquoise>자유칭호
+<turquoise>자유 칭호
 [ENDBLOCK]
 <x19><x69><x48><xF0><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>내추럴레인저
+칭호: <turquoise>네이처 레인저
 [ENDBLOCK]
 <x19><x69><x48><xF0><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>대시 시리즈
+칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
 <x19><x69><x48><xF0><x80>들은
 [ENDBLOCK]
@@ -434,11 +436,11 @@ notice
 [ENDBLOCK]
 <x19><x69><x48><xF0><x80>들은
 [ENDBLOCK]
-<turquoise>퀴즈칭호
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x48><xF0><x80>는
+<x19><x69><x48><xF0><x80>은(는)
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x58><xF4><x00><x80>
 <x18><x65><x58><xF8><x00><x80>
@@ -446,151 +448,150 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>는
+<x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 패스워드를 발급합니다.
-이 ID와 패스워드를 연동 웹사이트에
-입력함으로써, 데스티니의 세계가
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에서
+입력하면, 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>자세한 내용은 아래의 URL에서 확인해 주세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 패스워드는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+<TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>게임 중의 이벤트나 미니게임을
 클리어하면 연동 ID와 게임 패스워드가
-발행될 수 있습니다.
+발행되는 경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>이 연동 ID와 게임 패스워드를
 웹사이트에 입력하면 데스티니
-의 세계가 더욱 넓어집니다.
+세계가 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 패스워드를 잊어버린 경우는
-피츠갈드에 있는 여행자의 오두막에서
+연동 ID와 게임 패스워드를 잊어버린 경우에는
+피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외곽 없이 설정된 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+외각 없는 휘도 설정은 (RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-설정이 이루어지지 않았습니다！（tod=<TAG_059>）
+설정이 없습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-장치는 작동하지 않고 있습니다.
+장치가 작동하고 있지 않습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-워프 장치가 작동하였습니다.
+워프 장치가 작동했습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><xDC><x80>의 소디언 장치가
+<TAG_007><x19><x71><x48><xDC><x80>의 소디언 디바이스가
 사용 가능해졌습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>「칭호의 설명」
 칭호란 캐릭터에 설정할 수 있는,
-캐릭터 파라미터 중 하나입니다.
+캐릭터 파라미터의 하나입니다.
 구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>메인 메뉴를 연 후, 캐릭터의
-상태를 표시합니다.
-그 화면에서<Square_ani>를 누르면, 캐릭터의
-상태 표시를 전환할 수 있습니다.
+스테이터스를 표시합니다.
+그 화면에서 <Square_ani>을 누르면, 캐릭터의
+스테이터스 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
-페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
+<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
 획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>칭호의 용도는 두 가지가 있습니다.
-첫 번째는…
-「칭호를 설정하고, 마을 사람에게 이야기해 보세요」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는……
+「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
-당신에게 관심을 가지는 사람이 있습니다.
-마을 사람에게 몇 번 이야기했을 때,
-신기한 행동을 할 때가 있습니다.
-그 때는, 가지고 있는 칭호를 다시 설정한 후,
-다시 이야기해 보세요.
+<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
+당신에게 흥미를 보이는 사람이 있습니다. 마을 사람들에게 여러 번
+말을 걸었을 때, 이상한 행동을 하는 경우가 있습니다.
+그때는 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 말을 걸어보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
-머리 위에「？」가 나타날 수 있습니다.
-그때는, 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 설정하고, 다시 이야기해 보세요.
-무언가 기쁜 일이 일어날 수 있습니다.
+<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
+머리 위에 「？」가 나타나는 경우가 있습니다.
+그때는 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 말을 걸어보세요.
+뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>두 번째 용도는…
-「상태 화면을 멋지게 꾸미기」
-모은 칭호 중에, 마음에 드는 것이 있다면,
-설정해서 상태 화면을 멋지게 연출해 보세요.
+<TAG_007>사용법의 두 번째는……
+「스테이터스 화면을 멋지게 꾸며보자」
+모은 칭호 중에서 마음에 드는 것이 있다면,
+설정해서 스테이터스 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「돌차기 놀기」란,
+<TAG_007>「돌차기 놀이」란,
 필드에 있는 돌을 차서,
 특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는, 돌차기 놀이의 클리어 조건에
+2: 전투는 돌차기 놀이의 클리어 조건에
 		영향을 주지 않습니다.
-3: 마을이나 던전을 드나들면,
+3: 마을이나 던전을 드나들면
 		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
