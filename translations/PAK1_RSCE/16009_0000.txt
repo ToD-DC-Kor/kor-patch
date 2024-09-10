@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-벨클란트의 최상부를 목표로 한다.
+벨크란트의 가장 꼭대기를 목표로 하라.
 [ENDBLOCK]
