@@ -1,43 +1,43 @@
 ？？？？
 [ENDBLOCK]
-누군가…멋진 육체를 가지고,
-탑리스한 녀석은 없나…
+누군가…… 멋진 몸매를 가지고 있고,
+상의를 벗은 녀석은 없을까……
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 오, 당신밖에 없군요!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-응? 나한테 용건이 있나?
+응? 나한테 볼일이라도?
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-갑자기 말인데,
-당신의 그 육체에 반했습니다.
+갑작스럽지만,
+당신의 그 몸매에 반했어요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-하하, 하하하…
+아하, 아하하……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-사람은 각자 다르죠…네.
-잘됐네요, <Kongman> 씨…
+사람마다 취향이 다르죠…… 네.
+다행이네요, <Kongman> 씨……
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
 <Philia> 씨까지,
-너무한 거 아니야.
+너무하잖아요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-이봐, 나는 그런 기분 아니야!
+이봐, 나한테 그런 마음 없어!
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
-아, 다릅니다.
-오해하지 말아 주세요.
+아, 아닙니다.
+오해하지 말아주세요.
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
@@ -45,12 +45,12 @@
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-사실, 배우가 병이 나버려서,
-대역을 찾고 있었습니다.
+사실, 배우가 아파서
+대역을 찾고 있었어요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그렇다면…<Kongman> 씨를
+그렇다는 건…… <Kongman> 씨를
 그 대역으로?
 [ENDBLOCK]
 신인 감독
@@ -59,91 +59,91 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-대단하군,
+대단하잖아,
 <Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-장난하냐. 나는 챔피언이야.
-대역 따위는 하지 않아!
+농담하지 마. 난 챔피언이라고.
+대역 같은 건 안 해!
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-그런… 제 무대 감독으로서의,
-앞이 걸려있습니다.
+그러지 마세요. 제 무대 감독으로서의
+앞날이 걸려있어요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Kongman> 씨, 대단하군요.
+<Kongman> 씨, 대단하잖아요.
 저, 연극 좋아해요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-그, 그럼 <Philia> 씨가,
-내 연기 모습을 보고 싶다면…
+뭐, 뭐, <Philia> 씨가
+내 연기를 보고 싶다고 한다면……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-아, 아니, 그까진…
+아, 아니요, 그 정도까지는……
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-진짜인가요!
+정말인가요!
 감사합니다.
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-그럼, 바로 가봅시다!
+그럼, 바로 가시죠!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-뭐, 지금 하자는 거야!?
+뭐, 지금 하는 거야!?
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-네! 이미
-관객이 들어와 있습니다부터요!
+네! 공연장에는 이미
+관객들이 들어와 있거든요!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-…진짜…야.
+……진짜…… 냐.
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
 괜찮아요, 대사는 없습니다.
-제 지시에 따라 연기해 주세요.
+제 지시대로만 연기해 주세요.
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-자, 이제 무대가 시작됩니다.
-서두르세요.
+자, 이제 곧 무대가 시작됩니다.
+서두르죠.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-신인 감독의 지시에 따라,
-연기를 해주세요.
+신인 감독의 지시에 따라
+연기해 주세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 신인 감독의 지시가 나온 후,
-시계의 초침이 울리는 동안
-정확한 연기 버튼을 누르면 성공입니다.
+시계 초침 소리가 울리는 동안
+올바른 연기 버튼을 누르면 성공입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 연기는 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-	<Circle_ani>	양 주먹을 치켜올리다
-	<Cross_ani>	크게 웃다
-	<Triangle_ani>	멋진 포즈를 취하다
-	<Square_ani>	울다
+	<Circle_ani>	양 주먹을 치켜든다
+	<Cross_ani>	크게 웃는다
+	<Triangle_ani>	멋진 포즈를 취한다
+	<Square_ani>	엉엉 운다
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 이상입니다.
-한 번 더 설명을 보시겠습니까?
+다시 한 번 설명을 보시겠습니까?
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -152,253 +152,255 @@ select
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-그곳을 나서면
-곧바로 무대가 됩니다.
+저기를 나가면
+바로 무대가 됩니다.
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-나는 여기서 지시를 내리겠습니다.
+저는 여기서 지시를 내리겠습니다.
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-그 지시에 따라 연기를 해주세요.
-좋죠?
+그 지시에 따라 연기해 주세요.
+알겠죠?
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-뭐, 괜찮습니다.
-당신이라면, 반드시 할 수 있습니다.
+뭘요, 괜찮아요.
+당신이라면 반드시 할 수 있어요.
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-자, 출番입니다!
+자, 출연할 차례예요!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-힘내세요!
+힘내!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-열심히 해주세요!
+힘내세요!
 [ENDBLOCK]
 ret <x17><x66><x14><x03><xE8><x80><x80>
 
 [ENDBLOCK]
-공주 역할
+공주 역
 [ENDBLOCK]
 나는 탑에 갇힌 공주.
 [ENDBLOCK]
-공주 역할
+공주 역
 [ENDBLOCK]
-아, 백마의 왕자님.
-언제 저를 구해주실 건가요?
+아아, 백마 탄 왕자님.
+언제 나를 구해주실까?
 [ENDBLOCK]
-공주 역할
+공주 역
 [ENDBLOCK]
-어머, 당신은 누구신가요?
+어머, 당신은?
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
 자, 그녀에게 구애하세요.
 [ENDBLOCK]
-공주 역할
+공주 역
 [ENDBLOCK]
-당신이 저를 구해주실,
-백마의 왕자님이시군요?
-[ENDBLOCK]
-신인 감독
-[ENDBLOCK]
-강한 남자를 어필하세요!
-[ENDBLOCK]
-공주 역할
-[ENDBLOCK]
-아아! 	정말頼도하다!
-[ENDBLOCK]
-공주 역할
-[ENDBLOCK]
-자, 저를 데려가 주세요.
+당신이 나를 구해주실
+백마 탄 왕자님이신가요?
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-자, 한 번 더. 멋지게 해보세요.
+강한 남자임을 어필하세요!
 [ENDBLOCK]
-남자 역할
+공주 역
 [ENDBLOCK]
-당신, 공주에게 손대게 두지 않겠다!
+아아! 정말 든든해요!
 [ENDBLOCK]
-공주 역할
+공주 역
 [ENDBLOCK]
-당신은 도대체…？
+자, 저를 데리고 나가주세요.
 [ENDBLOCK]
-남자 역할
+신인 감독
 [ENDBLOCK]
-나는 공주를 진심으로 사랑하는 자입니다.
-하지만, 아버지는 평범한 농민…
+자, 다시 한 번. 멋있게 보이세요.
 [ENDBLOCK]
-남자 역할
+남자 역
+[ENDBLOCK]
+네놈, 공주에게 손대지 마라!
+[ENDBLOCK]
+공주 역
+[ENDBLOCK]
+당신은 대체……?
+[ENDBLOCK]
+남자 역
+[ENDBLOCK]
+저는 공주님을 진심으로 사모하는 자입니다.
+하지만 제 아버지는 초라한 농민……
+[ENDBLOCK]
+남자 역
 [ENDBLOCK]
 머리로는 신분의 차이를 알고 있지만,
-이 마음은 공주를 포기하게 만들지 못합니다.
+이 마음이 공주님을 포기하게 하지 않습니다.
 [ENDBLOCK]
-공주 역할
+공주 역
 [ENDBLOCK]
-정말, 나를 그렇게 사랑해 주시나요？
+어머, 저를 그토록 사랑해 주시는 건가요?
 [ENDBLOCK]
-공주 역할
+공주 역
 [ENDBLOCK]
 신분을 초월한 관계.
-그것이야말로, 내가 동경했던 순수한 사랑！
+그것이야말로 제가 동경하던 순애!
 [ENDBLOCK]
-공주 역할
+공주 역
 [ENDBLOCK]
-나의 몸과 마음을,
-모두 구해 주세요.
+제 몸과 마음,
+모두 구해주세요.
 [ENDBLOCK]
-남자 역할
+남자 역
 [ENDBLOCK]
-내가 평생,
-공주를 지키겠습니다.
+제가 평생
+공주님을 지키겠습니다.
 [ENDBLOCK]
-공주 역할
+공주 역
 [ENDBLOCK]
-…네.
-[ENDBLOCK]
-신인 감독
-[ENDBLOCK]
-이제 더 이상 이해할 수 없어！	웃음이 나와!
+……네.
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-하지만, 상황이 이해되기 시작하니,
-눈물이 나와요！
+이제 무슨 말인지 모르겠다! 하는 웃음이에요!
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-아, 정말 멋졌습니다.
+하지만 상황을 이해하게 되어
+울음이 나와버려요!
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-당신이라면, 톱스타도 꿈이 아니에요.
+와, 정말 훌륭했어요.
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-이제 첫 무대니까요.
-충분합니다.
+당신이라면 톱스타도 꿈이 아니에요.
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-꼭, 다시 참가해 주세요.
+뭐, 첫 무대니까요.
+충분해요.
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-한 번 더,
-무대에 도전하시겠습니까？
+꼭 다시 참여해 주세요.
+[ENDBLOCK]
+신인 감독
+[ENDBLOCK]
+다시 한 번
+무대에 도전하시겠습니까?
 네
 아니요
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-그럼, 한 번 더 설명하겠습니다.
+그럼, 다시 한 번 설명해 드릴게요.
 [ENDBLOCK]
 신인 감독
 [ENDBLOCK]
-언제든지 기다리고 있어요.
+언제든 기다리고 있을게요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-커뮤니티 비밀번호를 발급합니다.
-이 비밀번호를 커뮤니티 사이트에
+커뮤니티 패스워드를 발행합니다.
+이 패스워드를 커뮤니티 사이트에
 입력하면 데스티니의 세계가
-더욱 확장됩니다.
+더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-발급 비밀번호는
+발행된 패스워드는
 ××××××××××××××××
 입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-게임 중의 이벤트나 미니게임을
-클리어하면 비밀번호가 발급될 수 있습니다.
+게임 중 이벤트나 미니게임을
+클리어하면 패스워드가 발행되는
+경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-이 비밀번호를 커뮤니티 사이트에
+이 패스워드를 커뮤니티 사이트에
 입력하면 데스티니의 세계가
-더욱 확장됩니다.
+더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 커뮤니티 사이트에 입력할
-비밀번호를 잊어버린 경우는
+패스워드를 잊어버린 경우에는
 피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-커뮤니티 할아버지
+코뮤니 할아버지
 [ENDBLOCK]
-이것도 어떤 인연이구나.
-쉬고 갈래？
+이것도 무언가의 인연이구나.
+쉬어갈텐가?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-쉬고 갈까요？
+쉬어가시겠습니까?
 네
 아니요
 [ENDBLOCK]
-커뮤니티 할아버지
+코뮤니 할아버지
 [ENDBLOCK]
-언제든지 오세요.
+언제든 오너라.
 
 [ENDBLOCK]
-커뮤니티 할아버지
+코뮤니 할아버지
 [ENDBLOCK]
-메뉴 해방이다！！！！
+메뉴 해방이다!!!!
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-메인 메뉴 내 사용자 정의에
-새로운 항목「페이스 그림」이 해방되었습니다.
+메인 메뉴 내의 커스텀에
+새로운 항목 「페이스 그림」이 해방
+되었습니다.
 [ENDBLOCK]
-커뮤니 할아버지
+코뮤니 할아버지
 [ENDBLOCK]
-<Triangle_ani>를 눌러,
-계속해서<Select_ani>를 누르는 것이란다.
+<Triangle_ani>를 누르고,
+이어서 <Select_ani>를 누르는 거다.
 [ENDBLOCK]
-커뮤니 할아버지
+코뮤니 할아버지
 [ENDBLOCK]
-캔버스 해방이다！！！！
+캔버스 해방이다!!!!
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-톤의 산장에 있는<Chelsea>의 방.
-당신이 원한다면, 그 하얀 캔버스에
-동료들이 다양한 표정을 보여줄 것입니다.
+톤의 산장에 있는 <Chelsea>의 방.
+네가 원한다면, 그 새하얀 캔버스에
+동료들이 다양한 표정을 보여줄 거야.
 [ENDBLOCK]
-커뮤니 할아버지
+코뮤니 할아버지
 [ENDBLOCK]
-차기석 변화의 술이다！！！！
+발차기 돌 변화의 술이다!!!!
 [ENDBLOCK]
-커뮤니 할아버지
+코뮤니 할아버지
 [ENDBLOCK]
-이 방을 여러 가지로 조사해 보도록 하게.
+이 방을 여기저기 살펴보거라.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-전 세계에 넘치는 돌들.
+세계 곳곳에 넘치는 돌.
 그 새로운 가능성으로
-그들이 열심히 해줄 것입니다.
+그들이 열심히 해줄 거야.
 [ENDBLOCK]
-커뮤니 할아버지
+코뮤니 할아버지
 [ENDBLOCK]
-여기서 동쪽의 땅, 은빛의 세계에 있다.
-그리운 남편의 아래로, 향하라！！！！
+여기서 동쪽의 땅, 은백의 세계에 있다.
+그리운 남편에게로, 향하라!!!!
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 커뮤니 할아버지의 말에 따라
-<Dalis>의 곳으로 가보도록 하자.
-무언가 있을지도 모르니.
+<Dalis>의 곳으로 가봅시다.
+뭔가 있을지도 모릅니다.
 [ENDBLOCK]
 oldflag -><x17><x71><x47><xB0><x80>
 
@@ -412,48 +414,48 @@ diffflag -><x17><x71><x47><xB8><x80>
 openflag -><x17><x71><x47><xB8><x80>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-웹 비밀번호를 수락했습니다.
+웹 비밀번호가 입력되었습니다.
 이 세계에 새로운 가능성이 열렸습니다.
-커뮤니 할아버지의 이야기를 잘 들어주세요.
+코뮤니 할아버지의 말씀을 잘 들어주세요.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-메인 메뉴 내 사용자 정의에
-새로운 항목「페이스 그림」이 해방되었습니다.
+메인 메뉴의 커스텀에
+새로운 항목 「페이스 일러스트」가 해금되었습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-사용자 정의 화면을 열려면<Triangle_ani>로 메뉴를 열고,
-계속해서<Select_ani>를 눌러 주세요.
+커스텀 화면을 열려면 <Triangle_ani>로 메뉴를 열고,
+이어서 <Select_ani>를 눌러주세요.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-「캔버스」가 해방되었습니다.
+「캔버스」가 해금되었습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-톤의 산장에 있는<Chelsea>의 방.
-거기 있는 하얀 캔버스에서
+톤의 산장에 있는 <Chelsea>의 방.
+그곳에 있는 하얀 캔버스에서
 동료들의 다양한 표정을 볼 수 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-전 세계에 떨어져 있는 돌멩이를
+세계 곳곳에 떨어져 있는 돌멩이를
 변화시킬 수 있게 되었습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-피츠가르드 중앙 근처에 있는 여행자의 오두막.
-그 방에 있는 항아리를 조사함으로써 돌이 변화합니다.
+피츠가르드 중앙 부근에 있는 여행자의 오두막.
+그 방에 있는 항아리를 조사하면 돌이 변화합니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <Dalis>의 서브 이벤트가 추가되었습니다.
-사이릴로 가보도록 하자.
+사이릴로 가봅시다.
 [ENDBLOCK]
 oldflag -><x17><x71><x47><xB0><x80>
 
@@ -467,148 +469,149 @@ diffflag -><x17><x71><x47><xB8><x80>
 openflag -><x17><x71><x47><xB8><x80>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 비밀번호는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-커뮤니 할아버지
+코뮤니 할아버지
 [ENDBLOCK]
-웹사이트에서 입력할
+웹사이트에 입력할
 게임 비밀번호를 잊어버렸다면,
-언제든지 말 걸어주게.
+언제든지 나에게 말을 걸어주게.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-게임 중의 이벤트나 미니게임을
-클리어하면, 연동 ID와 게임 비밀번호가
-발급될 수 있습니다.
+게임 중 이벤트나 미니게임을
+클리어하면 연동 ID와 게임 비밀번호가
+발급되는 경우가 있다네.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-이 게임의 비밀번호를 웹사이트에
-입력함으로써, 데스티니의 세계가
-더욱 넓어집니다.
+이 게임 비밀번호를 웹사이트에
+입력하면 데스티니의 세계가
+더욱 넓어진다네.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-웹사이트에서 입력하는 연동 ID와
-게임 비밀번호를 잊어버린 경우는
-커뮤니 할아버지에게 이야기하고,
-연동 ID・게임 비밀번호 확인 항목을
-선택해 주세요.
+웹사이트에 입력할 연동 ID와
+게임 비밀번호를 잊었다면 코뮤니 할아버지에게
+말을 걸어 연동 ID・게임 비밀번호
+확인 항목을 선택해주게.
 [ENDBLOCK]
-커뮤니 할아버지
+코뮤니 할아버지
 [ENDBLOCK]
 동료들의 평소에는 볼 수 없는 모습을,
-볼 수 있을지도 모른다.
+볼 수 있을지도 모르겠어.
 
 [ENDBLOCK]
-커뮤니 할아버지
+코뮤니 할아버지
 [ENDBLOCK]
-조금 즐거워 보이지 않냐?
+조금 재미있어 보이지
+않나?
 [ENDBLOCK]
-？？？？？
+?????
 [ENDBLOCK]
 처음 보는 얼굴이구나.
-피츠가르드의 사람이냐?
+피츠가르드 사람인가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-안녕하세요, <Stahn>라고 합니다.
-태어나고 자란 곳은 리네 마을입니다.
+처음 뵙겠습니다. <Stahn>이라고 합니다.
+리네 마을에서 태어나고 자랐습니다.
 [ENDBLOCK]
-커뮤니 할아버지
+코뮤니 할아버지
 [ENDBLOCK]
 그렇구나, 그렇구나.
-나는 커뮤니 할아버지란다.
+나는 코뮤니 할아버지라네.
 잘 부탁하네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-커뮤니 할아버지…이시군요.
+코뮤니…… 할아버지시군요.
 잘 부탁드립니다.
 [ENDBLOCK]
-커뮤니 할아버지
+코뮤니 할아버지
 [ENDBLOCK]
-응. 사람과의 만남은
-일회일회, 소중하단다.
+음. 사람과의 만남은
+일기일회. 소중히 여기게나.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-일고…？
+딸기……?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-후회 없는 인간관계를 가지라는意味だ.
+후회 없는 인간관계를 맺으라는
+뜻이라네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아하! 감사합니다!
+아, 그렇군요! 감사합니다!
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-안녕하세요, 오셨군요…？
+어, 어서 오세…… 요?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-저… 제가, 뭔가요？
+저…… 제가 뭐 잘못했나요?
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-아니, 너가 너무 닮아서,
-조금 놀랐네.
+아니, 네가 너무 닮아서
+좀 놀랐을 뿐이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-닮았다고요？
+닮았다고요?
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-아, 미안하다.
+아, 미안해.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-나는 투기장에서 의뢰를 받아,
-새로운 게임을 제작한 사람이다.
+저는 투기장에서 의뢰를 받아
+새로운 게임을 만든 사람입니다.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-<Kongman> 씨가, 시합에
-출전할 수 없는 상황이 계속되고 있으니까.
+<Kongman> 씨가 시합에
+출전하지 못하는 상황이 계속되고 있어서요.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-투기장도, 관객 유치를 위해
-필사적으로 고민한 거란다.
+투기장도 관객 유치를 위해
+필사적으로 고민한 거지.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-어, 이야기가 샜네.
+어, 이야기가 좀 샜네.
 
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-그 게임의 주인공이,
-아가씨와 너무 닮았단다.
+그 게임의 주인공이
+아가씨와 아주 똑같아.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
 헤에, 흥미가 생겼어요.
-어떤 게임인가요？
+어떤 게임인가요?
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-오! 흥미가 있니？
+오! 관심 있어?
 「위어드 샷」이라고 해.
-일단 한번 해보렴.
+어쨌든 한번 해봐.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-갑자기지만,
-준비는 됐니？
+갑작스럽지만,
+준비는 됐어?
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
@@ -616,7 +619,8 @@ notice
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-어때? 재밌었지?
+어때?
+재밌었지?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -624,203 +628,203 @@ notice
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-활 다루는 법이,
-정말 충실히 재현되었어요.
+활 다루는 방법이
+아주 충실하게 재현되어 있었어요.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-(놀고 있지는 않은 것 같은데
-… 뭐, 괜찮아.)
+(플레이하지 않은 것 같지만
+…… 뭐 괜찮아.)
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-그건 그렇지, 활술의 감독・지도는
-그 활장인 <Alba>・톤 씨니까.
+당연하지, 활 기술 감수와 지도는
+그 유명한 활의 명인 <Alba> 톤 씨니까.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-다시 놀고 싶어지면,
-언제든지 나한테 말해줘.
+또 하고 싶어지면
+언제든 나한테 말해줘.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-위어드 샷으로
-놀고 싶어?
+위어드 샷을
+해볼래?
 네
 아니요
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-아, 정말 잘하네.
-그런 너에게, 이걸 선물할게.
+와, 정말 잘하는구나.
+그런 너에게 이걸 선물로 줄게.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-꼭, 다시 와줘.
+꼭 다시 와.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-안녕, 어서 와.
+어서 와.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 안녕하세요. 그때 이후로
-<Chelsea>의 놀이들은 어땠어요?
+<Chelsea>의 게임은 어떤가요?
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-그야말로, 대반향이야.
+말할 것도 없이 대반향이야.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-이제는, 투기장과 놀이를 목표로 하는 사람들이,
-반반 정도의 비율이니까.
+이제는 투기장과 게임을 보러 오는 사람이
+반반 정도의 비율이거든.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-그래서 큰 호응에 힘입어,
-두 번째 놀이 발표야!
+그래서 대호평에 힘입어
+제2탄 게임을 발표하게 됐어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-정말인가요!?
-빨리, 놀게 해주세요!
+정말요!?
+빨리 해보게 해주세요!
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-그럼, 언제나처럼 갈게!
+그럼, 평소처럼 시작할게!
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-스위치, 오ーー온!
+스위치, 온!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-정말 재밌었어요.
+정말 재미있었어요.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-(놀고 있지는 않은 것 같은데
-… 뭐, 괜찮아.)
+(플레이하지 않은 것 같지만
+…… 뭐 괜찮아.)
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-감사합니다.
+고마워.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-뭐니 뭐니 해도, 타악기 지도는
-<Fayte>・모리유 씨.
+뭐니 뭐니 해도 북 지도는
+<Fayte> 모류 씨.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-캐릭터 디자인은,
+캐릭터 디자인은
 <Darzen> 씨니까.
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-앞으로는,
-「위어드 샷」＆
-「폐하의 북」도 잘 부탁해!
+앞으로는
+「위어드 샷」과
+「폐하의 북」을 잘 부탁해!
 [ENDBLOCK]
 기술자
 [ENDBLOCK]
-어느 쪽으로 놀래?
+어떤 걸 할래?
 위어드 샷
 폐하의 북
-지금은 괜찮아
+지금은 됐어
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-챔프・<Lilith>가 점령 중입니다.
-<Stahn> 님, 막아주세요.
+챔프 <Lilith>가 점거 중입니다.
+<Stahn> 님, 멈춰주세요.
 네
 아니요
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-어서 오세요. 여기서는,
-참여를 원하는 분들의 접수입니다.
+어서 오세요. 여기는
+참가를 희망하시는 분들의 접수처입니다.
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-<TAG_007>어떻게 하시겠습니까？
-도전하기
-설명 듣기
-할 말 없음
+<TAG_007>어떻게 하시겠습니까?
+도전한다
+설명을 듣는다
+용무 없음
 
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-언제든지 기다리고 있습니다.
+언제든 기다리고 있겠습니다.
 
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-처음에 전투를 원하신다면,
-저에게 이야기하고「도전하기」라고
+먼저 전투를 희망하시는 경우,
+저에게 말을 걸어 「도전한다」라고
 말씀해 주세요.
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-그때, 전투에 참여할 수 있는 것은
-한 분만 가능합니다.
+그때 전투에 참가할 수 있는 인원은
+한 분뿐입니다.
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-전투 중에 사용할 수 있는 아이템은,
-여기서 드리는 것만입니다.
+전투 중 사용할 수 있는 아이템은
+저희가 드리는 것뿐입니다.
 
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-드리는 것은,
+드리는 것은
 다음 4종류의 아이템입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x0E><x01><x00><x00><x00>사과 젤리				3개
-복숭아 젤리					1개
-뱀젤리					1개
-파나시아 병		1개
+<x0E><x01><x00><x00><x00>애플 젤리				3개
+피치 젤리					1개
+박치 젤리					1개
+파나시아 병				1개
 
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-전투 종료 후, 남은 아이템은
+전투 종료 후 남은 아이템은
 모두 반납해 주셔야 합니다.
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-또한, 참가 가능한 투기장 랭크는,
-자신의 투기장 실적에 따라 변동됩니다.
+그리고 참가 가능한 투기장 랭크는
+본인의 투기장 실적에 따라 변화합니다.
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-전투에서 만약 패배하신다면,
-책임을 가지고 치료해 드리니,
-안심하고 참여해 주세요.
+만약 전투에서 패배하셨을 경우,
+책임지고 치료해 드리니
+안심하고 참가해 주세요.
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
 제가 설명드릴 수 있는 것은 여기까지입니다.
-이후는, 실천해 보시고 확인해 주세요.
+나머지는 직접 경험해 보시기 바랍니다.
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-하나 조언 드리자면,
+하나 조언을 드리자면,
 여기서의 전투는 언제 끝날지
 모르는 연속 전투입니다.
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
 공격도 중요하지만, 방어를 포함한
-종합적인 전투 방법이 필요합니다.
+종합적인 전투 방식이 요구됩니다.
 그럼, 힘내세요.
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-<TAG_007>한 번 더 들으시겠습니까？
+<TAG_007>다시 한 번 들으시겠습니까?
 네
 아니요
 
@@ -828,20 +832,20 @@ notice
 IN arena_selection
 
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-<TAG_007>어떤 랭크에 도전하시겠습니까？
+<TAG_007>어느 랭크에 도전하시겠습니까?
 <x18><x65><x58><x8C><x00><x80>
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-여기서부터는, 생사를 건
-진지한 승부입니다.
+여기부터는 생사를 건
+진검승부입니다.
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-한 번, 가족을 만나고
-가는 것이 좋습니다.
+한 번 가족을 만나고
+오시는 게 좋을 것 같아요.
 [ENDBLOCK]
 디피니트 모드
 
@@ -855,17 +859,17 @@ OUT arena_selection
 IN arena_player_sel
 
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-<TAG_007>누가 도전합니까？
-<x18><x65><x58><x9C><x00><x80><x18><x65><x58><x64><x00><x80><x18><x65><x58><xA4><x00><x80><x18><x65><x58><x68><x00><x80><x18><x65><x58><xAC><x00><x80><x18><x65><x58><x6C><x00><x80><x18><x65><x58><xB4><x00><x80><x18><x65><x58><x70><x00><x80><x18><x65><x58><xBC><x00><x80><x18><x65><x58><x74><x00><x80><x18><x65><x58><xC4><x00><x80><x18><x65><x58><x78><x00><x80><x18><x65><x58><xCC><x00><x80><x18><x65><x58><x7C><x00><x80><x18><x65><x58><xD4><x00><x80><x18><x65><x58><x80><x00><x80><x18><x65><x58><xDC><x00><x80><x18><x65><x58><x84><x00><x80><x18><x65><x58><xE4><x00><x80><x18><x65><x58><x88><x00><x80>뒤로 가기
+<TAG_007>누가 도전하시겠습니까?
+<x18><x65><x58><x9C><x00><x80><x18><x65><x58><x64><x00><x80><x18><x65><x58><xA4><x00><x80><x18><x65><x58><x68><x00><x80><x18><x65><x58><xAC><x00><x80><x18><x65><x58><x6C><x00><x80><x18><x65><x58><xB4><x00><x80><x18><x65><x58><x70><x00><x80><x18><x65><x58><xBC><x00><x80><x18><x65><x58><x74><x00><x80><x18><x65><x58><xC4><x00><x80><x18><x65><x58><x78><x00><x80><x18><x65><x58><xCC><x00><x80><x18><x65><x58><x7C><x00><x80><x18><x65><x58><xD4><x00><x80><x18><x65><x58><x80><x00><x80><x18><x65><x58><xDC><x00><x80><x18><x65><x58><x84><x00><x80><x18><x65><x58><xE4><x00><x80><x18><x65><x58><x88><x00><x80>이전으로
 [ENDBLOCK]
 ----select <x18><x45><x58><x98><x07><x69><x47><xC4><x21><x8C><x8B><xE8><xCF><x64><x14><x00><xAA><x80>
 
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
-<TAG_007><x19><x69><x47><xC4><x80> 님이<x18><x45><x58><x44><x03><x71><x47><xC8><x21><x8C><x8B><xE8><x28><x80>에 참여하셔도 괜찮으신가요？
+<TAG_007><x19><x69><x47><xC4><x80> 님이 <x18><x45><x58><x44><x03><x71><x47><xC8><x21><x8C><x8B><xE8><x28><x80>에 참가하시겠습니까?
 네
 아니요
 
@@ -885,13 +889,13 @@ OUT arena_player_sel
 
 
 [ENDBLOCK]
-누군가 이겼다!
+SOME ONE WONNNNNNNNN
 
 [ENDBLOCK]
-아무도 이기지 못했다!
+NO ONE WONNNNNNNNN
 
 [ENDBLOCK]
-문자열 설정이 끝났습니다.
+SET_STRINGS ENDDDDDDD
 
 [ENDBLOCK]
 
@@ -908,7 +912,7 @@ OUT arena_player_sel
 랭크 4
 
 [ENDBLOCK]
-？？？？？
+??????
 
 [ENDBLOCK]
 랭크 5
@@ -920,7 +924,7 @@ OUT arena_player_sel
 디피니트 모드
 
 [ENDBLOCK]
-뒤로 돌아가기
+이전으로 돌아가기
 
 [ENDBLOCK]
 <x18><x65><x58><x44><x00><x80><x18><x65><x58><x48><x00><x80><x18><x65><x58><x4C><x00><x80><x18><x65><x58><x50><x00><x80><x18><x65><x58><x54><x00><x80><x18><x65><x58><x58><x00><x80><x18><x65><x58><x5C><x00><x80><x18><x65><x58><x60><x00><x80>
@@ -945,7 +949,7 @@ OUT arena_player_sel
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-플레이어 목록 생성 중...
+OUT make_player_list
 
 [ENDBLOCK]
 <x17><x71><x47><xD8><x80> - <x18><x45><x58><x98><x07><x71><x47><xD8><x8B><xE8><xCF><x64><x14><x00><xAA><x80>
@@ -973,20 +977,20 @@ OUT arena_player_sel
 <x17><x28><x7F><x02><x14><x2F><x80>, <x17><x71><x47><xD4><x80>
 
 [ENDBLOCK]
-플레이어 목록 생성 중...
+OUT make_player_list
 
 [ENDBLOCK]
 <x17><x71><x47><xD8><x80> - <x18><x45><x58><x98><x07><x71><x47><xD8><x8B><xE8><xCF><x64><x14><x00><xAA><x80>
 [ENDBLOCK]
-전투 준비 중...
+IN arena_btl_prepare
 
 [ENDBLOCK]
-접수
+접수처
 [ENDBLOCK]
 행운을 빕니다.
 
 [ENDBLOCK]
-전투 준비 완료
+FINISH arena_btl_prepare
 
 [ENDBLOCK]
 <x0E><x01><x00><x00><x80><yellow>★</color><x0E><x01><x00><x00><x40>
@@ -1017,12 +1021,12 @@ OUT arena_player_sel
 다음 페이지로
 
 [ENDBLOCK]
-뒤로 돌아가기
+이전으로 돌아가기
 
 [ENDBLOCK]
 <x18><x65><x57><xF8><x00><x80><x18><x65><x58><x24><x00><x80><x18><x65><x57><xFC><x00><x80><x18><x65><x58><x28><x00><x80><x18><x65><x58><x00><x00><x80><x18><x65><x58><x2C><x00><x80><x18><x65><x58><x04><x00><x80><x18><x65><x58><x30><x00><x80><x18><x65><x58><x08><x00><x80><x18><x65><x58><x34><x00><x80><x18><x65><x58><x0C><x00><x80><x18><x65><x58><x38><x00><x80><x18><x65><x58><x10><x00><x80><x18><x65><x58><x3C><x00><x80><x18><x65><x58><x14><x00><x80><x18><x65><x58><x40><x00><x80><x18><x65><x58><x18><x00><x80><x18><x65><x58><x1C><x00><x80><x18><x65><x58><x20><x00><x80>
 [ENDBLOCK]
-접수 중
+접수처
 [ENDBLOCK]
 <TAG_007>어떤 적에게 도전하시겠습니까?
 <TAG_052>
@@ -1030,303 +1034,303 @@ OUT arena_player_sel
 <x17><x71><x47><xE4><x80>, <TAG_032>
 
 [ENDBLOCK]
-접수 중
+접수처
 [ENDBLOCK]
-잘하셨습니다.
+훌륭했습니다.
 [ENDBLOCK]
-접수 중
+접수처
 [ENDBLOCK]
 아쉽습니다.
 [ENDBLOCK]
-접수 중
+접수처
 [ENDBLOCK]
-<TAG_007>계속 도전하시겠습니까?
-예
+<TAG_007>계속해서 도전하시겠습니까?
+네
 아니요
 
 [ENDBLOCK]
 ssssssssssssssssss  <x17><x69><x46><x7C><x80>   <x09><x01><x00><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-신비한 힘에 의해 봉인되어 있다.
+신비한 힘으로 봉인되어 있다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-신비한 힘에 의해 봉인되어 있다.
+신비한 힘으로 봉인되어 있다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-신비한 힘에 의해 봉인되어 있다.
+신비한 힘으로 봉인되어 있다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-신비한 힘에 의해 봉인되어 있다.
+신비한 힘으로 봉인되어 있다.
 [ENDBLOCK]
 
 [ENDBLOCK]
 <TAG_005>「우승을 축하합니다」
-라고 적혀 있다.
+라고 쓰여 있다.
 [ENDBLOCK]
 select
 [ENDBLOCK]
 신전으로 돌아가시겠습니까?
-예
+네
 아니요
 [ENDBLOCK]
-접수 중
+접수처
 [ENDBLOCK]
 힘내세요.
 [ENDBLOCK]
-접수 중
+접수처
 [ENDBLOCK]
 죄송합니다만, 현재는
-신규의 접수를 받고 있지 않습니다.
+신규 접수를 받고 있지 않습니다.
 [ENDBLOCK]
-접수 중
+접수처
 [ENDBLOCK]
 거리가 시끄러운 것 같은데
-무슨 일이 있었던 걸까요?
+무슨 일이 있었나요?
 [ENDBLOCK]
-접수 중
+접수처
 [ENDBLOCK]
 죄송합니다만, 현재는
-신규의 접수를 받고 있지 않습니다.
+신규 접수를 받고 있지 않습니다.
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-나는 저 <Kongman>과,
-지금까지 세 번이나 싸웠다!
+나는 그 <Kongman>과
+지금까지 세 번이나 싸웠다고!
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-…세 번 모두 박살났지만.
+……세 번 다 완패했지만 말이야.
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-하여튼, 목숨만큼은 소중히 하라고.
+뭐, 목숨만은 소중히 여기라고.
 
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
 관객들이 시끄럽네.
-누가 이겼지?
+누가 이겼대?
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-야, 너희들.
-일레네 아가씨를 구했단 말이지.
+이봐, 너희들.
+일레느 양을 도왔다면서?
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-챔피언이 없는 지금こそ,
-내 시대의 막이 열리는구나！
+챔피언이 없는 지금이야말로
+내 시대의 막이 오르는 거지!
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-나는 저<Kongman>과,
-지금까지 세 번이나 싸웠어！
+나는 그 <Kongman>과
+지금까지 세 번이나 싸웠다고!
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-…세 번 모두 완전히 지고 말았지만.
+……세 번 다 완패했지만 말이야.
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-글쎄, 목숨만큼은 소중히 하라고.
+뭐, 목숨만은 소중히 여기라고.
 
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
 <Kongman>과 싸웠다고?
-너 같은 애는 이길 수 없어.
+너 같은 녀석은 이길 수 없어.
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-야, 너희들.
-일레느 아가씨를 구했다고 하더라.
+이봐, 너희들.
+일레느 양을 도왔다면서?
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-챔피언이 없는 지금こそ,
-내 시대의 막이 열리는구나！
+챔피언이 없는 지금이야말로
+내 시대의 막이 오르는 거지!
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-밖에서 큰 소리가 들렸던 것 같은데,
-저건, 누가 말하고 있었던 거야？
+밖에서 큰 소리가 들린 것 같은데,
+저건 누가 떠든 거지?
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-뭔가 밖이 어두워지지 않았어？
-내 감각으로는, 지금은 낮일 텐데.
+왠지 밖이 어두워지지 않았나?
+내 감각으로는 지금이 낮일 텐데.
 [ENDBLOCK]
-열렬한 팬
+열광적인 팬
 [ENDBLOCK]
-강력한 전사들 간의 격돌은,
-보는 것만으로도 짜릿해.
+강인한 전사들의 격돌은
+보고 있으면 짜릿해.
 [ENDBLOCK]
-열렬한 팬
+열광적인 팬
 [ENDBLOCK]
-어머！	<Kongman>의 경기 티켓
-못 샀어！
+아 정말! <Kongman>의 시합 티켓
+못 샀어!
 [ENDBLOCK]
-열렬한 팬
+열광적인 팬
 [ENDBLOCK]
-도시 쪽이 뭔가
-시끄러워지지 않았어？
+거리가 뭔가
+시끄러운 것 같지 않아?
 [ENDBLOCK]
-열렬한 팬
+열광적인 팬
 [ENDBLOCK]
-<Kongman>의 경기를 못 봤어.
-이봐, 위로해줘.
+<Kongman>의 시합을 못 봤어.
+있잖아, 위로해줘.
 [ENDBLOCK]
-열렬한 팬
+열광적인 팬
 [ENDBLOCK]
-강력한 전사들 간의 격돌은,
-보는 것만으로도 짜릿해.
+강인한 전사들의 격돌은
+보고 있으면 짜릿해.
 [ENDBLOCK]
-열렬한 팬
+열광적인 팬
 [ENDBLOCK]
-경기 보러 가줄 테니까.
-짜릿한 방식으로 져줘.
+시합 보러 가줄 테니까.
+짜릿한 패배를 보여줘.
 [ENDBLOCK]
-열렬한 팬
+열광적인 팬
 [ENDBLOCK]
-이제, 대체 뭐야.
-내게 부딪힌 남자애,
-사과도 하지 않았어！
+정말, 뭐야 이거.
+나한테 부딪힌 남자애가
+사과도 안 했다고!
 [ENDBLOCK]
-열렬한 팬
+열광적인 팬
 [ENDBLOCK]
-이런 곳에 있을 상황이냐고？
-내가 뭘 할 수 있는 것도 아니니까.
+이런 데 있을 때냐고?
+내가 할 수 있는 게 없잖아.
 [ENDBLOCK]
-열렬한 팬
+열광적인 팬
 [ENDBLOCK]
-세상에 평화가 돌아오든, 멸망하든,
-나는 끝까지 즐길 거야.
-[ENDBLOCK]
-도전자
-[ENDBLOCK]
-너도 도전자냐？
-흠, 한 번은 이겼구나.
+세상에 평화가 오든 멸망하든,
+난 끝까지 즐길 거야.
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-갑작스럽게<Kongman>의 경기가
-조정된 것 같아.
+너도 도전자냐?
+흥, 한 승은 주워먹었구나.
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-소문에 의하면 티켓은
-순식간에 매진이라고 하더군.
+갑자기 <Kongman>의 시합이
+잡힌 것 같더라.
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-조금이라도<Kongman>의
-체력을 줄여줘.
-[ENDBLOCK]
-도전자
-[ENDBLOCK]
-뭐, 무슨 일이 있었던 거야!?
-[ENDBLOCK]
-도전자
-[ENDBLOCK]
-코, <Kongman>…！
-나와 싸우…고 싶었는데, 혀를 물었네.
-[ENDBLOCK]
-도전자
-[ENDBLOCK]
-<Kongman>을 찾으면,
-다음에는 꼭 승부를 도전할 거야！
-[ENDBLOCK]
-도전자
-[ENDBLOCK]
-너도 도전자인가?
-흐음, 한 번은 얻었군.
+소문으로는 티켓이
+순식간에 매진됐대.
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
 조금이라도 <Kongman>의
-체력을 줄여줘.
+체력을 깎아줘.
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-어, 무슨 일이 있었던 건가!?
+뭐, 뭔가 있었나!?
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-코, <Kongman>…!
-나와 싸…고 싶었는데, 혀를 물었어.
+콩, <Kongman>……!
+나랑 싸……워, 혀 깨물었다.
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
 <Kongman>을 찾으면,
-다음에는 꼭 도전할 거야!
+다음엔 꼭 승부를 걸어주겠어!
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-우리, 이런 곳에서
-시끄럽게 떠드는 경우인가?
+너도 도전자냐?
+흥, 한 승은 주워먹었구나.
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
-어떤 상황에서도 여기서는 활기를 잃지 않아.
-대단한 것이라고 생각하지 않아?
+조금이라도 <Kongman>의
+체력을 깎아줘.
+[ENDBLOCK]
+도전자
+[ENDBLOCK]
+뭐, 뭔가 있었나!?
+[ENDBLOCK]
+도전자
+[ENDBLOCK]
+콩, <Kongman>……!
+나랑 싸……워, 혀 깨물었다.
+[ENDBLOCK]
+도전자
+[ENDBLOCK]
+<Kongman>을 찾으면,
+다음엔 꼭 승부를 걸어주겠어!
+[ENDBLOCK]
+도전자
+[ENDBLOCK]
+우리가 이런 곳에서
+떠들고 있어도 되는 걸까?
+[ENDBLOCK]
+도전자
+[ENDBLOCK]
+어떤 상황에서도 이곳은 활기를 잃지 않아.
+대단하지 않아?
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-여기는 대기실입니다.
-관계자 외에는 출입을 삼가해 주세요.
+이쪽은 대기실입니다.
+관계자 외에는 출입을 삼가주세요.
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-이쪽은 관객석이 됩니다.
+이 앞은 관객석입니다.
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-이 안에는 마을 사람들
-이 대피해 있습니다.
+이 안쪽에는 마을 사람들이
+대피해 있습니다.
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-마을에 몬스터가 있다고?
-무슨 농담이냐.
+거리에 몬스터라고요?
+농담하지 마세요.
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-이쪽은 관객석이 됩니다.
+이 앞은 관객석입니다.
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-이 안에는 마을 사람들
-이 대피해 있습니다.
+이 안쪽에는 마을 사람들이
+대피해 있습니다.
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
-마을에 몬스터가 있다고?
-무슨 농담이냐.
+거리에 몬스터라고요?
+농담하지 마세요.
 [ENDBLOCK]
 여성
 [ENDBLOCK]
 마지막 티켓을 손에 넣었어!
-난 정말 운이 좋네!
+나 정말 운이 좋아!
 [ENDBLOCK]
 남성
 [ENDBLOCK]
-뭔가 <Kongman>의 상대는,
-저 <Ilene> 여사의 암살자라고 하더군.
+<Kongman>의 상대가
+그 <Ilene> 여사의 자객이라더군요.
 [ENDBLOCK]
 남성
 [ENDBLOCK]
 아아!
-빨리 시작되지 않을까.
+빨리 시작했으면 좋겠어.
 [ENDBLOCK]
 고양이인
 [ENDBLOCK]
-무슨 일 있냥?
+뭐 찾는 고양이냥?
 
 [ENDBLOCK]
 고양이인
@@ -1336,8 +1340,8 @@ select
 [ENDBLOCK]
 토끼인
 [ENDBLOCK]
-돈과 렌즈는 동등 교환이야.
-<x0E><x08><x00><x00><x80><x09><x64><x00><x00><x00><x0E><x08><x00><x00><x40>장 세트로 팔아줄게.
+돈과 렌즈는 등가 교환이다토.
+<x0E><x08><x00><x00><x80><x09><x64><x00><x00><x00><x0E><x08><x00><x00><x40>개 세트로 팔아주겠다토.
 
 [ENDBLOCK]
 토끼인
@@ -1347,86 +1351,86 @@ select
 <x1A><x20><x72><x0C><x98><x80>		 <x17><x72><x40><x20><x28><xE8><x03><x88><x80>가르드
 <x1A><x20><x72><x40><x10><x98><x80>			<x17><x72><x40><x24><x28><xE8><x03><x88><x80>가르드
 <x1A><x20><x72><x40><x14><x98><x80>	<x17><x72><x40><x28><x28><xE8><x03><x88><x80>가르드
-그만둬
+그만두기
 [ENDBLOCK]
 토끼인
 [ENDBLOCK]
-안타깝게도 부족해.
+아쉽게도 부족하다토.
 
 [ENDBLOCK]
 토끼인
 [ENDBLOCK]
-안타깝게도 가질 수 없어.
+아쉽게도 가질 수 없다토.
 
 [ENDBLOCK]
 토끼인
 [ENDBLOCK]
-매번 고마워.
+매번 고맙다토.
 
 [ENDBLOCK]
 토끼인
 [ENDBLOCK]
-안타깝네.
+아쉽다토.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>현재 소지한 가르드:<TAG_033>가르드
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
 아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x20><x80></color>이
+<TAG_007><S03><turquoise><x19><x71><x49><x20><x80></color>가
 [ENDBLOCK]
-파티에 합류했습니다.
+파티에 가입했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
-전투에 참여할 수 있습니다.
+전투에 참가할 수 있습니다.
 [ENDBLOCK]
-동행하겠습니다.
+동행합니다.
 [ENDBLOCK]
 파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x59><x10><x00><x80><x18><x65><x59><x14><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x20><x80></color>이
+<TAG_007><S03><turquoise><x19><x71><x49><x20><x80></color>가
 [ENDBLOCK]
 파티에서 빠졌습니다.
 [ENDBLOCK]
 <x18><x65><x59><x10><x00><x80><x18><x65><x59><x14><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x44><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x44><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x40><x00><x80></color>을 획득했습니다.
+<x18><x65><x59><x40><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
 <x19><x69><x49><x34><x80>들은
 [ENDBLOCK]
-<turquoise>거래칭호
+<turquoise>교역 칭호
 [ENDBLOCK]
 <x19><x69><x49><x34><x80>들은
 [ENDBLOCK]
-<turquoise>온천칭호
+<turquoise>온천 칭호
 [ENDBLOCK]
 <x19><x69><x49><x34><x80>들은
 [ENDBLOCK]
-<turquoise>자유칭호
+<turquoise>자유 칭호
 [ENDBLOCK]
 <x19><x69><x49><x34><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>내추럴레인저
+칭호: <turquoise>네이처 레인저
 [ENDBLOCK]
 <x19><x69><x49><x34><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>대시 시리즈
+칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
 <x19><x69><x49><x34><x80>들은
 [ENDBLOCK]
@@ -1436,9 +1440,9 @@ notice
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x49><x34><x80>는
+<x19><x69><x49><x34><x80>은(는)
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x59><x38><x00><x80>
 <x18><x65><x59><x3C><x00><x80>
@@ -1446,150 +1450,150 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>는
+<x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
-이 ID와 비밀번호를 연동 웹사이트에서
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에서
 입력하면, 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>자세한 내용은 아래 URL에서 확인하세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+<TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>게임 중의 이벤트나 미니게임을
-클리어하면 연동 ID와 게임 비밀번호가
-발급될 수 있습니다.
+클리어하면 연동 ID와 게임 패스워드가
+발행되는 경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>이 연동 ID와 게임 비밀번호를
-웹사이트에서 입력하면 데스티니
-의 세계가 더욱 넓어집니다.
+<TAG_007>이 연동 ID와 게임 패스워드를
+웹사이트에 입력하면 데스티니
+세계가 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>웹사이트에서 입력할
-연동 ID와 게임 비밀번호를 잊어버린 경우는
-피츠갈드에 있는 여행자의 오두막에서
+<TAG_007>웹사이트에 입력할
+연동 ID와 게임 패스워드를 잊어버린 경우에는
+피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
 [ENDBLOCK]
-첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-설정이 이루어지지 않았습니다！（tod=<TAG_059>）
+설정이 없습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-장치가 작동하지 않습니다.
+장치가 작동하고 있지 않습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 워프 장치가 작동했습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x19><x71><x49><x20><x80>의 소디언 장치가
-사용 가능해졌습니다.
+<TAG_007><x19><x71><x49><x20><x80>의 소디언 디바이스가
+ 사용 가능해졌습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>「칭호의 설명」
 칭호란 캐릭터에 설정할 수 있는,
-캐릭터 파라미터 중 하나입니다.
+캐릭터 파라미터의 하나입니다.
 구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>메인 메뉴를 연 후, 캐릭터의
-상태를 표시합니다.
-그 화면에서<Square_ani>를 누르면, 캐릭터의
-상태 표시를 전환할 수 있습니다.
+스테이터스를 표시합니다.
+그 화면에서 <Square_ani>을 누르면, 캐릭터의
+스테이터스 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>상태의 가장 위에, 「칭호」라고 쓰인
-페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
-얻은 칭호를 전환할 수 있습니다.
+<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
+획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>칭호의 쓰임새에는, 두 가지가 있습니다.
-첫 번째는…
-「칭호를 설정하고, 마을 사람에게 이야기하자」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는……
+「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
-당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 여러 번
-이야기했을 때, 불가사의한 언행을 할 때가 있습니다.
-그때는, 가지고 있는 칭호를 다시 설정한 후,
-한 번 더 이야기해보세요.
+<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
+당신에게 흥미를 보이는 사람이 있습니다. 마을 사람들에게 여러 번
+말을 걸었을 때, 이상한 행동을 하는 경우가 있습니다.
+그때는 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 말을 걸어보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
-머리 위에 「？」가 나올 수 있습니다.
-그때는, 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 설정하고, 다시 이야기해보세요.
-무언가 기쁜 일이 일어날지도 모릅니다.
+<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
+머리 위에 「？」가 나타나는 경우가 있습니다.
+그때는 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 말을 걸어보세요.
+뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>쓰임새의 두 번째는…
-「상태 화면을 멋지게 꾸미자」
-모은 칭호 중에서, 마음에 드는 것이 있다면,
-설정하여 상태 화면을 멋지게 연출해봅시다.
+<TAG_007>사용법의 두 번째는……
+「스테이터스 화면을 멋지게 꾸며보자」
+모은 칭호 중에서 마음에 드는 것이 있다면,
+설정해서 스테이터스 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>「돌차기 놀이」란,
 필드에 있는 돌을 차서,
 특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는, 돌차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 드나들면,
+2: 전투는 돌차기 놀이의 클리어 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
 		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
