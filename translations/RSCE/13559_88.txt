@@ -95,7 +95,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-이대로는 당할 것 같아……
+이대로는 당하겠어……
 어디 무기 없나?
 
 [ENDBLOCK]
