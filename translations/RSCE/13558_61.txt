@@ -88,7 +88,7 @@
 <Stahn>
 [ENDBLOCK]
 나는 단지 세인가르드로
-가고 싶었을 뿐인데!
+가고 싶었던 것뿐이라고!
 
 [ENDBLOCK]
 <Stahn>
@@ -104,12 +104,12 @@
 
 [ENDBLOCK]
 너…… !
-다른 동료가 있나?
+다른 동료가 있는거냐?
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-모, 모르겠어.
+나, 나도 몰라.
 
 [ENDBLOCK]
 무슨 일이냐!?
