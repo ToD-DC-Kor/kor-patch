@@ -10,7 +10,7 @@
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-야, 일어나라니까!
+정말, 일어나라니까!
 
 [ENDBLOCK]
 <Stahn>
@@ -20,8 +20,8 @@
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-<Lilith>이 아니잖아, 정말.
-깨우는 쪽도 생각 좀 해줘.
+<Lilith>가 아니잖아, 정말.
+깨우는 사람도 생각좀 해줘.
 
 [ENDBLOCK]
 <Stahn>
@@ -32,7 +32,7 @@
 <Lilith>
 [ENDBLOCK]
 무슨 일이야?
-꽤나 나쁜 꿈이라도 꿨어?
+엄청 나쁜 꿈이라도 꿨어?
 
 [ENDBLOCK]
 <Stahn>
@@ -59,7 +59,7 @@
 <Dymlos>
 [ENDBLOCK]
 언제까지 자고 있을 셈이냐.
-어서 눈을 떠라!
+어서 일어나라!
 
 [ENDBLOCK]
 <Stahn>
@@ -154,14 +154,14 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-정말…… 너는 어쩐지,
+정말…… 아무래도 너는,
 침착함이 부족한 것 같구나.
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-설마 내 마스터가 되었다면,
-좀 더 단단히 해야 할 텐데 말이다.
+어쨌든 내 마스터가 되었다면,
+좀 더 똑바로 해야 한다.
 
 [ENDBLOCK]
 <Stahn>
@@ -193,7 +193,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-맞아, 이름은…… 딤로스.
+분명, 이름은…… 딤로스.
 
 [ENDBLOCK]
 <Dymlos>
@@ -235,7 +235,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-흠, 괜찮아 보이는군.
+흠, 괜찮은 것 같구나.
 
 [ENDBLOCK]
 <Woodrow>
@@ -247,13 +247,13 @@
 <Stahn>
 [ENDBLOCK]
 당신이 절
-여기로 데려다 주셨군요.
+여기로 옮겨주셨군요.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 저는 <Stahn> 엘론이라고 합니다.
-도와주셔서 정말 감사합니다!
+구해주셔서 정말 감사합니다!
 
 [ENDBLOCK]
 <Stahn>
@@ -288,13 +288,13 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>!	경솔하게 내 일을,
+<Stahn>!	경솔하게 나에 대해,
 다른 사람에게 말하지 마라!
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-왜 그래? 별로 상관없잖아.
+어째서? 별로 상관없잖아.
 
 [ENDBLOCK]
 <Dymlos>
@@ -306,12 +306,12 @@
 <Dymlos>
 [ENDBLOCK]
 들리지 않는 사람에게 말해봤자,
-꿈을 꾸고 있다고 생각할 뿐이다.
+이상하게 생각할 뿐이다.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-엥?	그, 그런가요……
+엥?	그, 그렇구나……
 
 [ENDBLOCK]
 <Woodrow>
@@ -339,24 +339,24 @@
 <Woodrow>
 [ENDBLOCK]
 내 활의 스승님, 알바 선생님이야.
-이 오두막의 주인이기도 해.
+이 오두막의 주인이기도 하지.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 아, 안녕하세요.
-신세 지고 있습니다.
+신세를 지게 됐습니다.
 
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-어려울 때는 서로 돕는 거지.
+곤란할 때는 서로 도와야지.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chelsea>라는 건,
-선생님의 손녀 얘기야.
+<Chelsea>는,
+선생님의 손녀야.
 
 [ENDBLOCK]
 <Woodrow>
@@ -373,12 +373,12 @@
 <Stahn>
 [ENDBLOCK]
 저도 가겠습니다.
-도움을 받은 은혜도 있고요.
+구해주신 은혜도 있으니까요.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-알겠네. 그럼 함께 가도록 하지.
+알겠네. 그럼 함께 가지.
 
 [ENDBLOCK]
 <Stahn>
