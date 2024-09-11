@@ -72,7 +72,7 @@
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-승무원이 전멸했다.
+승무원이 전멸했어.
 이대로라면 추락한다!
 
 [ENDBLOCK]
