@@ -637,19 +637,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-여기가 제노스 마을입니다.
+여기가 제노스 마을이라네.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
 세인가르드로 가려면
-북쪽 문을 향해 가세요.
+북쪽 문으로 가면 되네.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-저는 팬더리아 쪽으로 갑니다.
-여기까지만 함께 갈 수 있겠네요.
+나는 팬더리아 방향으로 갈테니
+같이 갈 수 있는 건 여기까지다.
 
 [ENDBLOCK]
 <Stahn>
@@ -659,7 +659,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-그럼, 건강하세요.
+그럼, 건강하게.
 
 [ENDBLOCK]
 <Woodrow>
@@ -681,7 +681,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-지금의 솔직한 마음을 잊지 말고,
+지금의 올곧은 마음을 잊지 말고,
 검에 걸맞은 사람이 되길 바라네.
 
 [ENDBLOCK]
@@ -692,7 +692,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-이봐, <Woodrow>.
+이봐, <Woodrow>라는 녀석
 
 [ENDBLOCK]
 <Stahn>
@@ -704,13 +704,13 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Dymlos>
 [ENDBLOCK]
 내 목소리가 들린다면 사과하지.
-안 들린다면 상관없고.
+안 들린다면 상관없다.
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 어떠냐?
-들리는 거야, 안 들리는 거야?
+들리나?, 들리지 않나?
 
 [ENDBLOCK]
 <Woodrow>
@@ -726,14 +726,14 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-너무 생각이 많아.
+생각이 지나친 것 같아.
 너무 신경 쓰는 거 아냐?
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-그 남자, 아무래도 보통 사람은 아니야.
-유독 위엄이 있었거든.
+저 남자, 아무래도 보통 사람은 아니다.
+범상치않은 위엄이 느껴졌거든
 
 [ENDBLOCK]
 <Stahn>
@@ -744,7 +744,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-자, 우리는 북쪽 문으로 가자.
+자, 그럼 우리는 북쪽 문으로 가자.
 
 [ENDBLOCK]
 <Stahn>
