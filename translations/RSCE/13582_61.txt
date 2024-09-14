@@ -338,7 +338,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-내 활의 스승님, 알바 선생님이야.
+내 활 스승님이신 알바 선생님이다.
 이 오두막의 주인이기도 하지.
 
 [ENDBLOCK]
@@ -362,7 +362,7 @@
 <Woodrow>
 [ENDBLOCK]
 선생님, 제가 뒷산에 가서
-그녀를 찾아올게요.
+찾아올게요.
 
 [ENDBLOCK]
 <Alba>
