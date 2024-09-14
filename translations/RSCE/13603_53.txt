@@ -587,7 +587,7 @@ D・V…… 이니셜인가요.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-익숙지 않은 눈길 걷기라 힘들지 않아?
+익숙치 않은 눈길을 걷는건 힘들지 않나?
 
 [ENDBLOCK]
 <Stahn>
@@ -644,12 +644,12 @@ D・V…… 이니셜인가요.
 <Woodrow>
 [ENDBLOCK]
 아들인 내가 말하기도 이상하지만,
-내 아버지는 대단한 인물이야.
+내 아버지는 대단한 사람이거든.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-지금의 나로는 도저히
+지금의 나로서는 도저히
 따라갈 수 없다고 생각하고 있어.
 
 [ENDBLOCK]
@@ -673,7 +673,7 @@ D・V…… 이니셜인가요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-너무 나서서 말씀드려 죄송합니다.
+주제넘는 말을 해서 죄송합니다.
 
 [ENDBLOCK]
 <Woodrow>
@@ -685,7 +685,7 @@ D・V…… 이니셜인가요.
 <Woodrow>
 [ENDBLOCK]
 제노스까지는 조금만 더 가면 돼.
-앞으로 나아가자.
+계속 가도록 하지.
 
 [ENDBLOCK]
 알림
