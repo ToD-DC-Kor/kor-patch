@@ -1,20 +1,20 @@
-세인가르
+세인가르드
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-드 병사
+병사
 [ENDBLOCK]
-이봐, 거기 여자!
+거기, 여자!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
