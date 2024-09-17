@@ -40,7 +40,7 @@
             "string": "[Sign_9]ブルーセボリー[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_9]블루 세볼리[END]"
+            "translation": "[Sign_9]블루 세이보리[END]"
         },
         {
             "offset": 1765776,
@@ -54,7 +54,7 @@
             "string": "[Sign_9]ブルーカモミール[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_9]블루 카모마일[END]"
+            "translation": "[Sign_9]블루 캐모마일[END]"
         },
         {
             "offset": 1765832,
@@ -68,7 +68,7 @@
             "string": "[Sign_9]ブルーサフラン[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_9]블루 사프란[END]"
+            "translation": "[Sign_9]블루 샤프란[END]"
         },
         {
             "offset": 1765888,
@@ -96,7 +96,7 @@
             "string": "[Sign_9]ブルーベルベーヌ[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_9]블루 벨베니[END]"
+            "translation": "[Sign_9]블루 버베인[END]"
         },
         {
             "offset": 1766000,
@@ -152,7 +152,7 @@
             "string": "[Sign_9]セボリー[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_9]세볼리[END]"
+            "translation": "[Sign_9]세이보리[END]"
         },
         {
             "offset": 1766280,
@@ -166,21 +166,21 @@
             "string": "[Sign_9]カモミール[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_9]카모마일[END]"
+            "translation": "[Sign_9]캐모마일[END]"
         },
         {
             "offset": 1766360,
             "string": "術防御力が１上昇する薬草。[LINE]\nサフランライスが有名。[LINE]\n[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "마법 방어력이 1 상승하는 약초입니다.[LINE]\n사프란 라이스가 유명합니다.[LINE]\n[END]"
+            "translation": "마법 방어력이 1 상승하는 약초입니다.[LINE]\n샤프란 라이스가 유명합니다.[LINE]\n[END]"
         },
         {
             "offset": 1766416,
             "string": "[Sign_9]サフラン[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_9]사프란[END]"
+            "translation": "[Sign_9]샤프란[END]"
         },
         {
             "offset": 1766432,
@@ -208,7 +208,7 @@
             "string": "[Sign_9]ベルベーヌ[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_9]벨베니[END]"
+            "translation": "[Sign_9]버베인[END]"
         },
         {
             "offset": 1766584,
@@ -236,7 +236,7 @@
             "string": "敵と遭遇しやすくなる。[LINE]\n一定時間経過か、[LINE]\nホーリィボトルを使うと元に戻る。[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79,
-            "translation": "적과의 조우 확률이 높아집니다.[LINE]\n일정 시간 경과 후, [LINE]\n홀리 보틀을 사용하면 원래 상태로 돌아갑니다.[END]"
+            "translation": "적과의 조우 확률이 높아집니다.[LINE]\n일정 시간 경과 후, [LINE]\n성령의 병을 사용하면 원래 상태로 돌아갑니다.[END]"
         },
         {
             "offset": 1768616,
@@ -248,7 +248,7 @@
         {
             "offset": 1768600,
             "string": "[Sign_Apple_Gel]ピーチグミ[END]",
-            "translation": "[Sign_Apple_Gel]복숭아젤리[END]",
+            "translation": "[Sign_Apple_Gel]복숭아 젤리[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16
         },
@@ -262,7 +262,7 @@
         {
             "offset": 1768504,
             "string": "[Sign_Apple_Gel]グレープグミ[END]",
-            "translation": "[Sign_Apple_Gel]포도젤리[END]",
+            "translation": "[Sign_Apple_Gel]포도 젤리[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -276,7 +276,7 @@
         {
             "offset": 1768400,
             "string": "[Sign_Apple_Gel]ドリアングミ[END]",
-            "translation": "[Sign_Apple_Gel]두리안젤리[END]",
+            "translation": "[Sign_Apple_Gel]두리안 젤리[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -290,7 +290,7 @@
         {
             "offset": 1768304,
             "string": "[Sign_Apple_Gel]ドラゴングミ[END]",
-            "translation": "[Sign_Apple_Gel]드래곤젤리[END]",
+            "translation": "[Sign_Apple_Gel]용과 젤리[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -304,7 +304,7 @@
         {
             "offset": 1768216,
             "string": "[Sign_Apple_Gel]バクチグミ[END]",
-            "translation": "[Sign_Apple_Gel]무작위젤리[END]",
+            "translation": "[Sign_Apple_Gel]랜덤 젤리[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16
         },
@@ -318,7 +318,7 @@
         {
             "offset": 1768128,
             "string": "[Sign_Apple_Gel]ぽっちゃりグミ[END]",
-            "translation": "[Sign_Apple_Gel]통통젤리[END]",
+            "translation": "[Sign_Apple_Gel]통통 젤리[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -332,7 +332,7 @@
         {
             "offset": 1768016,
             "string": "[Sign_Apple_Gel]げっそりグミ[END]",
-            "translation": "[Sign_Apple_Gel]야윈젤리[END]",
+            "translation": "[Sign_Apple_Gel]야윈 젤리[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -360,7 +360,7 @@
         {
             "offset": 1767856,
             "string": "[Sign_Apple_Gel]リキュールボトル[END]",
-            "translation": "[Sign_Apple_Gel]리큐어 병[END]",
+            "translation": "[Sign_Apple_Gel]리큐어의 병[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -395,7 +395,7 @@
         {
             "offset": 1767608,
             "string": "戦闘不能を回復し、[LINE]\nＨＰを全快にする薬。[LINE]\n不老長寿の霊薬とも言われる。[END]",
-            "translation": "전투 불능을 회복하고,[LINE]\nHP를 전체 회복하는 약.[LINE]\n불로장수의 영약이라고도 한다.[END]",
+            "translation": "전투 불능을 회복하고,[LINE]\nHP를 전부 회복하는 약.[LINE]\n불로장수의 영약이라고도 한다.[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71
         },
@@ -416,7 +416,7 @@
         {
             "offset": 1767496,
             "string": "[Sign_Apple_Gel]アワーグラス[END]",
-            "translation": "[Sign_Apple_Gel]모래시계[END]",
+            "translation": "[Sign_Apple_Gel]시간의 병[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -465,7 +465,7 @@
         {
             "offset": 1767080,
             "string": "オベロン社が開発した戦う人の味方。[LINE]\nＨＰが全快するドリンク。[LINE]\n今日のあなたに、この１本！[END]",
-            "translation": "오베론사가 개발한 전투원의 친구.[LINE]\nHP가 전체 회복되는 음료.[LINE]\n오늘의 당신에게, 이 한 병![END]",
+            "translation": "오베론사가 개발한 전투원의 친구.[LINE]\nHP가 전부 회복되는 음료.[LINE]\n오늘의 당신에게, 이 한 병![END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87
         },
@@ -486,7 +486,7 @@
         {
             "offset": 1766968,
             "string": "[Sign_9]ホーリィボトル[END]",
-            "translation": "[Sign_9]성스러운 병[END]",
+            "translation": "[Sign_9]성령의 병[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -577,7 +577,7 @@
         {
             "offset": 1765416,
             "string": "[Sign_9]レッドサフラン[END]",
-            "translation": "[Sign_9]레드사프란[END]",
+            "translation": "[Sign_9]레드 샤프란[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -591,7 +591,7 @@
         {
             "offset": 1765360,
             "string": "[Sign_9]レッドカモミール[END]",
-            "translation": "[Sign_9]레드카모마일[END]",
+            "translation": "[Sign_9]레드 캐모마일[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -661,7 +661,7 @@
         {
             "offset": 1765000,
             "string": "[Sign_Box]ラナケアルのたね[END]",
-            "translation": "[Sign_Box]라나케아르의 씨앗[END]",
+            "translation": "[Sign_Box]라나케알의 씨앗[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -689,7 +689,7 @@
         {
             "offset": 1764808,
             "string": "[Sign_Box]ペンペンのたね[END]",
-            "translation": "[Sign_Box]펭펭의 씨앗[END]",
+            "translation": "[Sign_Box]펜펜의 씨앗[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -703,7 +703,7 @@
         {
             "offset": 1764712,
             "string": "[Sign_Box]オリオラのたね[END]",
-            "translation": "[Sign_Box]오리올라의 씨앗[END]",
+            "translation": "[Sign_Box]오리오라의 씨앗[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -717,7 +717,7 @@
         {
             "offset": 1764616,
             "string": "[Sign_Box]チャラックのたね[END]",
-            "translation": "[Sign_Box]차락의 씨앗[END]",
+            "translation": "[Sign_Box]챠라크의 씨앗[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -808,7 +808,7 @@
         {
             "offset": 1764000,
             "string": "ピタヤとも呼ばれる[LINE]\nサボテンの実。「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "피타야라고도 불리는[LINE]\n선인장의 열매.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "피타야라고도 불리는[LINE]\n선인장의 열매.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71
         },
@@ -836,7 +836,7 @@
         {
             "offset": 1763808,
             "string": "山中に自生し、黄色に熟した実は[LINE]\n食べられる。「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "산속에 자생하며, 노란색으로 익은 열매는[LINE]\n먹을 수 있다.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "산속에 자생하며, 노란색으로 익은 열매는[LINE]\n먹을 수 있다.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -850,7 +850,7 @@
         {
             "offset": 1763704,
             "string": "古くからお通じの良くなると[LINE]\n言われる医薬品。「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "옛날부터 변비가 좋아진다고[LINE]\n말해진 의약품.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "옛날부터 변비가 좋아진다고[LINE]\n말해진 의약품.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -892,7 +892,7 @@
         {
             "offset": 1763400,
             "string": "肉や魚を保存するときに使う[LINE]\nスパイスの一種。「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "고기나 생선을 보관할 때 사용하는[LINE]\n스파이스의 일종.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "고기나 생선을 보관할 때 사용하는[LINE]\n향신료의 일종.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -906,7 +906,7 @@
         {
             "offset": 1763296,
             "string": "特有の芳香をもち、香料や薬として[LINE]\n使われる。「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "특유의 향기를 가지며, 향료나 약으로[LINE]\n사용된다.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "특유의 향기를 가지며, 향료나 약으로[LINE]\n사용된다.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -934,7 +934,7 @@
         {
             "offset": 1763096,
             "string": "強い香りを放ち、大きな葉をもつ[LINE]\nハーブ。「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "강한 향기를 풍기며, 큰 잎을 가진[LINE]\n허브.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "강한 향기를 풍기며, 큰 잎을 가진[LINE]\n허브.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79
         },
@@ -948,21 +948,21 @@
         {
             "offset": 1762992,
             "string": "肉や魚の臭み取りに用いる[LINE]\nスパイスの一種。「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "고기나 생선의 냄새를 제거하는[LINE]\n스파이스의 일종.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "고기나 생선의 냄새를 제거하는[LINE]\n향신료의 일종.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79
         },
         {
             "offset": 1762968,
             "string": "[Sign_Box]むしくいリンゴ[END]",
-            "translation": "[Sign_Box]벌레에 먹힌 사과[END]",
+            "translation": "[Sign_Box]벌레 먹은 사과[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
         {
             "offset": 1762904,
             "string": "虫に食われて売り物に[LINE]\nならなくなったリンゴ。[LINE]\n食べられません！[END]",
-            "translation": "벌레에 먹힌 팔릴 상품이[LINE]\n안 되는 사과.[LINE]\n먹을 수 없습니다![END]",
+            "translation": "벌레에 갉아먹혀 팔 수 없게 된[LINE]\n사과.[LINE]\n먹으면 안 돼요![END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63
         },
@@ -990,7 +990,7 @@
         {
             "offset": 1762736,
             "string": "腐るぐらいが食べごろ。[LINE]\nとは言っても……[LINE]\n臭すぎて近寄れません！[END]",
-            "translation": "썩을 정도가 먹을 때.[LINE]\n하지만……[LINE]\n너무 냄새가 나서 가까이 가지 못합니다![END]",
+            "translation": "썩을 때가 먹기 좋을 때.[LINE]\n라고 하지만……[LINE]\n너무 냄새가 나서 가까이 가지 못합니다![END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },
@@ -1081,7 +1081,7 @@
         {
             "offset": 1762144,
             "string": "[Sign_Box]ブラオリキッド[END]",
-            "translation": "[Sign_Box]브라오 리퀴드[END]",
+            "translation": "[Sign_Box]블라우 리퀴드[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1095,7 +1095,7 @@
         {
             "offset": 1762048,
             "string": "[Sign_Box]グリューンリキッド[END]",
-            "translation": "[Sign_Box]글루운 리퀴드[END]",
+            "translation": "[Sign_Box]그룬 리퀴드[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1109,7 +1109,7 @@
         {
             "offset": 1761952,
             "string": "[Sign_Box]ゲルプリキッド[END]",
-            "translation": "[Sign_Box]겔 프리퀴드[END]",
+            "translation": "[Sign_Box]겔프 리퀴드[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1123,7 +1123,7 @@
         {
             "offset": 1761848,
             "string": "[Sign_Box]ヴィオレットリキッド[END]",
-            "translation": "[Sign_Box]바이올렛 리퀴드[END]",
+            "translation": "[Sign_Box]비올레트 리퀴드[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -1165,7 +1165,7 @@
         {
             "offset": 1761616,
             "string": "[Sign_Box]エナスフィア[END]",
-            "translation": "[Sign_Box]에나스피아[END]",
+            "translation": "[Sign_Box]에나 스피어[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -1179,7 +1179,7 @@
         {
             "offset": 1761512,
             "string": "[Sign_Box]ディオスフィア[END]",
-            "translation": "[Sign_Box]디오스피아[END]",
+            "translation": "[Sign_Box]디오 스피어[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1193,7 +1193,7 @@
         {
             "offset": 1761408,
             "string": "[Sign_Box]トゥリアスフィア[END]",
-            "translation": "[Sign_Box]투리아스피아[END]",
+            "translation": "[Sign_Box]트리아 스피어[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1207,7 +1207,7 @@
         {
             "offset": 1761296,
             "string": "[Sign_Box]テセラスフィア[END]",
-            "translation": "[Sign_Box]테세라스피아[END]",
+            "translation": "[Sign_Box]테트라 스피어[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1221,7 +1221,7 @@
         {
             "offset": 1761192,
             "string": "[Sign_Box]ペンデスフィア[END]",
-            "translation": "[Sign_Box]펜데스피아[END]",
+            "translation": "[Sign_Box]펜타 스피어[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1235,7 +1235,7 @@
         {
             "offset": 1761088,
             "string": "[Sign_Box]エクシスフィア[END]",
-            "translation": "[Sign_Box]엑시스피아[END]",
+            "translation": "[Sign_Box]헥사 스피어[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1249,7 +1249,7 @@
         {
             "offset": 1760976,
             "string": "[Sign_Box]エプタスフィア[END]",
-            "translation": "[Sign_Box]에프타스피아[END]",
+            "translation": "[Sign_Box]헵타 스피어[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1263,7 +1263,7 @@
         {
             "offset": 1760864,
             "string": "[Sign_Box]オクトスフィア[END]",
-            "translation": "[Sign_Box]옥토스피아[END]",
+            "translation": "[Sign_Box]옥타 스피아[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1277,7 +1277,7 @@
         {
             "offset": 1760760,
             "string": "[Sign_Box]エンネアスフィア[END]",
-            "translation": "[Sign_Box]엔네아스피아[END]",
+            "translation": "[Sign_Box]에네아 스피어[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1291,7 +1291,7 @@
         {
             "offset": 1760648,
             "string": "[Sign_Box]デカスフィア[END]",
-            "translation": "[Sign_Box]데카스피아[END]",
+            "translation": "[Sign_Box]데카 스피어[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -1305,14 +1305,14 @@
         {
             "offset": 1760552,
             "string": "[Sign_Box]まんぼう[END]",
-            "translation": "[Sign_Box]만봉[END]",
+            "translation": "[Sign_Box]맘보[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15
         },
         {
             "offset": 1760480,
             "string": "まんぼう……所持数に応じて[LINE]\nリリスのまんぼう戦吼の威力が[LINE]\nアップ！[END]",
-            "translation": "만봉…… 소지 수에 따라[LINE]\n릴리스의 만봉 전투 함성의 힘이[LINE]\n상승![END]",
+            "translation": "맘보…… 소지 수에 따라[LINE]\n리리스의 맘보전후의 힘이[LINE]\n상승![END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
@@ -1326,7 +1326,7 @@
         {
             "offset": 1760392,
             "string": "羽の紋様が入ったワッペン。[LINE]\nなりふり構わず英雄になりたくなる。[LINE]\n[END]",
-            "translation": "깃털 문양이 들어간 와펜.[LINE]\n마음대로 영웅이 되고 싶어진다.[LINE]\n[END]",
+            "translation": "깃털 문양이 들어간 와펜.[LINE]\n남의 시선에 관계 없이 멋대로[LINE]\n영웅이 되고 싶어진다.[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },
@@ -1340,7 +1340,7 @@
         {
             "offset": 1760296,
             "string": "誰かが落としたと思われる[LINE]\nペンダント。[LINE]\n時をかけるとかかけないとか……[END]",
-            "translation": "누군가 떨어뜨린 것 같은[LINE]\n펜던트.[LINE]\n시간을 걸을지 안 걸을지……[END]",
+            "translation": "누군가 떨어뜨린 것 같은[LINE]\n펜던트.[LINE]\n시간을 넘는다던가 안 넘는다던가……[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71
         },
@@ -1354,7 +1354,7 @@
         {
             "offset": 1760192,
             "string": "透き通るような青が美しいスカーフ。[LINE]\n身に着けている人は[LINE]\nさぞかし心が美しかろう。[END]",
-            "translation": "투명하게 파란색이 아름다운 스카프.[LINE]\n입고 있는 사람은[LINE]\n분명히 마음이 아름답겠지.[END]",
+            "translation": "투명한 파란색이 아름다운 스카프.[LINE]\n매고 있는 사람은[LINE]\n분명히 마음이 아름답겠지.[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79
         },
@@ -1410,7 +1410,7 @@
         {
             "offset": 1759808,
             "string": "かわいくはないが憎めない人形。[LINE]\nおなかを押すと[LINE]\n「ドスッ」と鈍い音がする。[END]",
-            "translation": "귀엽지는 않지만 미워할 수 없는 인형.[LINE]\n배를 누르면[LINE]\n「덩쿵」이라는 둔한 소리가 난다.[END]",
+            "translation": "귀엽지는 않지만 미워할 수 없는 인형.[LINE]\n배를 누르면[LINE]\n「두둑」거리는 둔탁한 소리가 난다.[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79
         },
@@ -1466,21 +1466,21 @@
         {
             "offset": 1759448,
             "string": "レンズの欠片。使い道はないが[LINE]\n一応引き取ってもらえる。[LINE]\n換金アイテム。[END]",
-            "translation": "렌즈의 조각. 사용할 방법은 없지만[LINE]\n일단 가져가도 된다.[LINE]\n교환 아이템.[END]",
+            "translation": "렌즈의 조각. 사용할 방법은 없지만[LINE]\n일단 가져가도 된다.[LINE]\n환금 아이템.[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71
         },
         {
             "offset": 1759424,
             "string": "[Sign_Box]レンズの結晶[END]",
-            "translation": "[Sign_Box]렌즈의 결정[END]",
+            "translation": "[Sign_Box]렌즈 결정[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
         {
             "offset": 1759344,
             "string": "加工されていないレンズの結晶。[LINE]\n非常に珍しいので高値で売れる[LINE]\n換金アイテム。[END]",
-            "translation": "가공되지 않은 렌즈의 결정.[LINE]\n매우 드물기 때문에 높은 가격에 팔린다.[LINE]\n교환 아이템.[END]",
+            "translation": "가공되지 않은 렌즈 결정.[LINE]\n매우 드물기 때문에 높은 가격에 팔린다.[LINE]\n환금 아이템.[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79
         },
@@ -1494,7 +1494,7 @@
         {
             "offset": 1759256,
             "string": "１ガルドを笑う者は１ガルドに泣く。[LINE]\n一応１ガルドで売れる換金アイテム。[LINE]\n[END]",
-            "translation": "1가르드를 웃는 자는 1가르드에 울게 된다.[LINE]\n일단 1가르드에 팔린다.[LINE]\n[END]",
+            "translation": "1가르드를 비웃는 사람은 1가르드에 울게 된다.[LINE]\n일단은 1가르드에 팔 수 있는 환금 아이템.[LINE]\n[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71
         },
@@ -1508,7 +1508,7 @@
         {
             "offset": 1759168,
             "string": "天地戦争時代の建物に[LINE]\n使用されていたとされる鉱石。[LINE]\n換金アイテム。[END]",
-            "translation": "천지 전쟁 시대의 건물에[LINE]\n사용되었다고 알려진 광석.[LINE]\n교환 아이템.[END]",
+            "translation": "천지 전쟁 시대의 건물에[LINE]\n사용되었다고 알려진 광석.[LINE]\n환금 아이템.[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71
         },
@@ -1522,28 +1522,28 @@
         {
             "offset": 1759080,
             "string": "金の香りがする雑草。[LINE]\n金に対する執着心がよく分かる一品。[LINE]\n換金アイテム。[END]",
-            "translation": "금의 향기가 나는 잡초.[LINE]\n금에 대한 집착심이 잘 드러나는 제품.[LINE]\n교환 아이템.[END]",
+            "translation": "금의 향기가 나는 잡초.[LINE]\n금에 대한 집착심이 잘 드러나는 제품.[LINE]\n환금 아이템.[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71
         },
         {
             "offset": 1759064,
             "string": "[Sign_Box]隕石の欠片[END]",
-            "translation": "[Sign_Box]운석의 조각[END]",
+            "translation": "[Sign_Box]운석 조각[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16
         },
         {
             "offset": 1758992,
             "string": "天地戦争の発端たる隕石の欠片……[LINE]\nということにして売れる[LINE]\n換金アイテム。[END]",
-            "translation": "천지 전쟁의 발단이었던 운석의 조각……[LINE]\n으로 팔 수 있는[LINE]\n교환 아이템.[END]",
+            "translation": "천지 전쟁의 발단이었던 운석 조각……[LINE]\n으로 팔 수 있는[LINE]\n환금 아이템.[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71
         },
         {
             "offset": 1758968,
             "string": "[Sign_8]ポイズンマテリアル[END]",
-            "translation": "[Sign_8]포이즌 마테리얼[END]",
+            "translation": "[Sign_8]포이즌 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1557,7 +1557,7 @@
         {
             "offset": 1758864,
             "string": "[Sign_8]スリープマテリアル[END]",
-            "translation": "[Sign_8]슬립 마테리얼[END]",
+            "translation": "[Sign_8]슬립 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1571,7 +1571,7 @@
         {
             "offset": 1758768,
             "string": "[Sign_8]ストーンマテリアル[END]",
-            "translation": "[Sign_8]스톤 마테리얼[END]",
+            "translation": "[Sign_8]스톤 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1585,7 +1585,7 @@
         {
             "offset": 1758664,
             "string": "[Sign_8]ウェイストマテリアル[END]",
-            "translation": "[Sign_8]웨이스트 마테리얼[END]",
+            "translation": "[Sign_8]웨이스트 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -1599,7 +1599,7 @@
         {
             "offset": 1758560,
             "string": "[Sign_8]パラライマテリアル[END]",
-            "translation": "[Sign_8]파라라이 마테리얼[END]",
+            "translation": "[Sign_8]패럴라이 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1613,7 +1613,7 @@
         {
             "offset": 1758464,
             "string": "[Sign_8]シールマテリアル[END]",
-            "translation": "[Sign_8]실 마테리얼[END]",
+            "translation": "[Sign_8]실 머티리얼[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1627,7 +1627,7 @@
         {
             "offset": 1758360,
             "string": "[Sign_8]フレアマテリアル[END]",
-            "translation": "[Sign_8]플레어 마테리얼[END]",
+            "translation": "[Sign_8]플레어 머티리얼[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1641,7 +1641,7 @@
         {
             "offset": 1758248,
             "string": "[Sign_8]アクアマテリアル[END]",
-            "translation": "[Sign_8]아쿠아 마테리얼[END]",
+            "translation": "[Sign_8]아쿠아 머티리얼[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1655,7 +1655,7 @@
         {
             "offset": 1758136,
             "string": "[Sign_8]アースマテリアル[END]",
-            "translation": "[Sign_8]어스 마테리얼[END]",
+            "translation": "[Sign_8]어스 머티리얼[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1669,7 +1669,7 @@
         {
             "offset": 1758024,
             "string": "[Sign_8]ゲイルマテリアル[END]",
-            "translation": "[Sign_8]게일 마테리얼[END]",
+            "translation": "[Sign_8]게일 머티리얼[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1683,7 +1683,7 @@
         {
             "offset": 1757912,
             "string": "[Sign_8]ライトマテリアル[END]",
-            "translation": "[Sign_8]라이트 마테리얼[END]",
+            "translation": "[Sign_8]라이트 머티리얼[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1697,7 +1697,7 @@
         {
             "offset": 1757800,
             "string": "[Sign_8]ダークマテリアル[END]",
-            "translation": "[Sign_8]다크 마테리얼[END]",
+            "translation": "[Sign_8]다크 머티리얼[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1711,7 +1711,7 @@
         {
             "offset": 1757680,
             "string": "[Sign_8]スラッシュマテリアル[END]",
-            "translation": "[Sign_8]슬래시 마테리얼[END]",
+            "translation": "[Sign_8]슬래시 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -1725,7 +1725,7 @@
         {
             "offset": 1757568,
             "string": "[Sign_8]ブロウマテリアル[END]",
-            "translation": "[Sign_8]브로우 마테리얼[END]",
+            "translation": "[Sign_8]블로우 머티리얼[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1739,7 +1739,7 @@
         {
             "offset": 1757456,
             "string": "[Sign_8]ショットマテリアル[END]",
-            "translation": "[Sign_8]샷 마테리얼[END]",
+            "translation": "[Sign_8]샷 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1753,7 +1753,7 @@
         {
             "offset": 1757344,
             "string": "[Sign_8]ソニックマテリアル[END]",
-            "translation": "[Sign_8]소닉 마테리얼[END]",
+            "translation": "[Sign_8]소닉 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1767,7 +1767,7 @@
         {
             "offset": 1757232,
             "string": "[Sign_8]アタックマテリアル[END]",
-            "translation": "[Sign_8]어택 마테리얼[END]",
+            "translation": "[Sign_8]어택 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1781,7 +1781,7 @@
         {
             "offset": 1757128,
             "string": "[Sign_8]マインドマテリアル[END]",
-            "translation": "[Sign_8]마인드 마테리얼[END]",
+            "translation": "[Sign_8]마인드 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1795,7 +1795,7 @@
         {
             "offset": 1757008,
             "string": "[Sign_8]プロテクトマテリアル[END]",
-            "translation": "[Sign_8]프로텍트 마테리얼[END]",
+            "translation": "[Sign_8]프로텍트 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -1809,7 +1809,7 @@
         {
             "offset": 1756904,
             "string": "[Sign_8]レジストマテリアル[END]",
-            "translation": "[Sign_8]레지스트 마테리얼[END]",
+            "translation": "[Sign_8]레지스트 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1823,7 +1823,7 @@
         {
             "offset": 1756792,
             "string": "[Sign_8]リカバーマテリアル[END]",
-            "translation": "[Sign_8]리커버 마테리얼[END]",
+            "translation": "[Sign_8]리커버 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1837,7 +1837,7 @@
         {
             "offset": 1756680,
             "string": "[Sign_8]チェインマテリアル[END]",
-            "translation": "[Sign_8]체인 마테리얼[END]",
+            "translation": "[Sign_8]체인 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1851,7 +1851,7 @@
         {
             "offset": 1756576,
             "string": "[Sign_8]フラッシュマテリアル[END]",
-            "translation": "[Sign_8]플래시 마테리얼[END]",
+            "translation": "[Sign_8]플래시 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -1865,7 +1865,7 @@
         {
             "offset": 1756472,
             "string": "[Sign_8]ブラストマテリアル[END]",
-            "translation": "[Sign_8]블라스트 마테리얼[END]",
+            "translation": "[Sign_8]블라스트 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1879,7 +1879,7 @@
         {
             "offset": 1756368,
             "string": "[Sign_8]サプライマテリアル[END]",
-            "translation": "[Sign_8]서플라이 마테리얼[END]",
+            "translation": "[Sign_8]서플라이 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1893,7 +1893,7 @@
         {
             "offset": 1756256,
             "string": "[Sign_8]キュアマテリアル[END]",
-            "translation": "[Sign_8]큐어 마테리얼[END]",
+            "translation": "[Sign_8]큐어 머티리얼[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1907,7 +1907,7 @@
         {
             "offset": 1756152,
             "string": "[Sign_8]フィジカルマテリアル[END]",
-            "translation": "[Sign_8]피지컬 마테리얼[END]",
+            "translation": "[Sign_8]피지컬 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -1921,7 +1921,7 @@
         {
             "offset": 1756032,
             "string": "[Sign_8]ディスペルマテリアル[END]",
-            "translation": "[Sign_8]디스펠 마테리얼[END]",
+            "translation": "[Sign_8]디스펠 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -1935,7 +1935,7 @@
         {
             "offset": 1755928,
             "string": "[Sign_8]ライズマテリアル[END]",
-            "translation": "[Sign_8]라이즈 마테리얼[END]",
+            "translation": "[Sign_8]라이즈 머티리얼[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1949,7 +1949,7 @@
         {
             "offset": 1755840,
             "string": "[Sign_8]エクシードマテリアル[END]",
-            "translation": "[Sign_8]엑시드 마테리얼[END]",
+            "translation": "[Sign_8]엑시드 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -1963,7 +1963,7 @@
         {
             "offset": 1755752,
             "string": "[Sign_8]ゼクシードマテリアル[END]",
-            "translation": "[Sign_8]제크시드 마테리얼[END]",
+            "translation": "[Sign_8]제크시드 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -1977,7 +1977,7 @@
         {
             "offset": 1755664,
             "string": "[Sign_8]バリアブルマテリアル[END]",
-            "translation": "[Sign_8]바리어블 마테리얼[END]",
+            "translation": "[Sign_8]베리어블 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -1991,7 +1991,7 @@
         {
             "offset": 1755568,
             "string": "[Sign_8]フィックスマテリアル[END]",
-            "translation": "[Sign_8]픽스 마테리얼[END]",
+            "translation": "[Sign_8]픽스 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -2005,7 +2005,7 @@
         {
             "offset": 1755488,
             "string": "[Sign_8]フラットマテリアル[END]",
-            "translation": "[Sign_8]플랫 마테리얼[END]",
+            "translation": "[Sign_8]플랫 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -2019,7 +2019,7 @@
         {
             "offset": 1755400,
             "string": "[Sign_8]チェイサーマテリアル[END]",
-            "translation": "[Sign_8]체이서 마테리얼[END]",
+            "translation": "[Sign_8]체이서 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -2033,7 +2033,7 @@
         {
             "offset": 1755312,
             "string": "[Sign_8]ホーリィマテリアル[END]",
-            "translation": "[Sign_8]홀리 마테리얼[END]",
+            "translation": "[Sign_8]홀리 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -2047,7 +2047,7 @@
         {
             "offset": 1755224,
             "string": "[Sign_8]ゲインマテリアル[END]",
-            "translation": "[Sign_8]게인 마테리얼[END]",
+            "translation": "[Sign_8]게인 머티리얼[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -2061,7 +2061,7 @@
         {
             "offset": 1755136,
             "string": "[Sign_8]ラピッドマテリアル[END]",
-            "translation": "[Sign_8]래피드 마테리얼[END]",
+            "translation": "[Sign_8]래피드 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -2075,7 +2075,7 @@
         {
             "offset": 1755040,
             "string": "[Sign_8]テンションマテリアル[END]",
-            "translation": "[Sign_8]텐션 마테리얼[END]",
+            "translation": "[Sign_8]텐션 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -2089,7 +2089,7 @@
         {
             "offset": 1754928,
             "string": "[Sign_8]アドバンスマテリアル[END]",
-            "translation": "[Sign_8]어드밴스 마테리얼[END]",
+            "translation": "[Sign_8]어드밴스 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -2103,7 +2103,7 @@
         {
             "offset": 1754824,
             "string": "[Sign_8]ストリクトマテリアル[END]",
-            "translation": "[Sign_8]스트릭트 마테리얼[END]",
+            "translation": "[Sign_8]스트릭트 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -2117,7 +2117,7 @@
         {
             "offset": 1754696,
             "string": "[Sign_8]アブソーブマテリアル[END]",
-            "translation": "[Sign_8]어브소브 마테리얼[END]",
+            "translation": "[Sign_8]앱소브 머티리얼[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -2131,7 +2131,7 @@
         {
             "offset": 1754576,
             "string": "[Sign_8]デモンズマテリアル[END]",
-            "translation": "[Sign_8]데몬즈 마테리얼[END]",
+            "translation": "[Sign_8]데몬즈 머티리얼[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -2145,7 +2145,7 @@
         {
             "offset": 1754488,
             "string": "[Sign_8]エッジマテリアル[END]",
-            "translation": "[Sign_8]에지 마테리얼[END]",
+            "translation": "[Sign_8]에지 머티리얼[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         }
