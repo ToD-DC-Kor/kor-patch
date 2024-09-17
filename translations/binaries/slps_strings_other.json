@@ -2011,24 +2011,10 @@
         },
         {
             "offset": 1687800,
-            "string": "[TAG_007]初めてプレイをする場合は、[LINE]\n",
-            "original_bytes_length": 32,
-            "available_bytes_size": 32,
-            "translation": "[TAG_007] 처음 플레이하는 경우는, [LINE]\n"
-        },
-        {
-            "offset": 1687855,
-            "string": "からプレイする事を[LINE]\n強く推奨します。[LINE]\n[LINE]\n",
-            "original_bytes_length": 40,
-            "available_bytes_size": 40,
-            "translation": "에서 플레이할 것을[LINE]\n강력히 추천합니다.[LINE]\n[LINE]\n"
-        },
-        {
-            "offset": 1687918,
-            "string": "で[LINE]\nゲームを開始しても[LINE]\nよろしいですか？[LINE]\n[LINE]\nはい[LINE]\nいいえ[END]",
-            "original_bytes_length": 55,
-            "available_bytes_size": 57,
-            "translation": "에서[LINE]\n게임을 시작해도[LINE]\n괜찮습니까?[LINE]\n[LINE]\n네[LINE]\n아니요[END]"
+            "string": "[TAG_007]初めてプレイをする場合は、[LINE]\n[text_tag0]\"Stan's side\"[text_tag1] からプレイする事を[LINE]\n強く推奨します。[LINE]\n　[LINE]\n[text_tag0]\"Lion's side\"[text_tag1] で[LINE]\nゲームを開始しても[LINE]\nよろしいですか？[LINE]\n　[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 173,
+            "available_bytes_size": 175,
+            "translation": "[TAG_007]처음 플레이하시는 경우는,[LINE]\n[text_tag0]\"Stan's side\"[text_tag1]에서 플레이하는 것을[LINE]\n강력히 권장합니다.[LINE]\n　[LINE]\n[text_tag0]\"Lion's side\"[text_tag1]에서[LINE]\n게임을 시작해도[LINE]\n괜찮습니까?[LINE]\n　[LINE]\n예[LINE]\n아니오[END]"
         },
         {
             "offset": 1687984,
