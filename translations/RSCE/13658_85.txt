@@ -1087,8 +1087,8 @@ EX 포인트에 대해
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-혼자서는 함정을 해제할 수 없어.
-마을로 돌아가서 도움을 받아 왔어.
+혼자서는 함정을 해제할 수 없어서.
+마을로 돌아가서 도와줄 사람을 데려왔어.
 
 [ENDBLOCK]
 <Stahn>
@@ -1246,7 +1246,7 @@ EX 포인트에 대해
 <Rutee>
 [ENDBLOCK]
 아니, 했어!
-네 때문에 우리가 말이야!
+너 때문에 우리가 말이야!
 
 [ENDBLOCK]
 <Mary>
@@ -1257,7 +1257,7 @@ EX 포인트에 대해
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-어디가 기뻐 보이는 거야!
+어딜 봐서 기뻐한다는 거야!
 
 [ENDBLOCK]
 <Rutee>
@@ -1325,7 +1325,7 @@ EX 포인트에 대해
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-이래선 꾸물거릴 수 없겠네.
+이래선 꾸물거릴 수 없겠는걸.
 
 [ENDBLOCK]
 <Stahn>
