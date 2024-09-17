@@ -122,154 +122,154 @@
         {
             "offset": 1780104,
             "string": "[Sign_Sword]ストーンアックス[END]",
-            "translation": "[Sign_Sword]돌도끼[END]",
+            "translation": "[Sign_Sword]스톤 액스[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
         {
             "offset": 1780032,
             "string": "石を削って作られた石製の斧。[LINE]\nすでに時代遅れの武器だが[LINE]\n人の進化の証。[END]",
-            "translation": "돌을 깎아 만든 돌제의 도끼.[LINE]\n이미 시대에 뒤떨어진 무기지만[LINE]\n인간의 진화의 증거.[END]",
+            "translation": "돌을 깎아 만든 도끼.[LINE]\n이미 시대에 뒤떨어진 무기지만[LINE]\n사람이 진화했다는 증거다.[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71
         },
         {
             "offset": 1780008,
             "string": "[Sign_Sword]ブロンズアックス[END]",
-            "translation": "[Sign_Sword]구리 도끼[END]",
+            "translation": "[Sign_Sword]브론즈 액스[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
         {
             "offset": 1779936,
             "string": "耐食性の優れた銅製の斧。[LINE]\n天地戦争時代から使われていた[LINE]\n優秀な金属。[END]",
-            "translation": "내식성이 뛰어난 구리제의 도끼.[LINE]\n천지 전쟁 시대부터 사용되었던[LINE]\n우수한 금속.[END]",
+            "translation": "내식성이 뛰어난 구리로 만든 도끼.[LINE]\n천지 전쟁 시대부터 사용된[LINE]\n우수한 금속이다.[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
         {
             "offset": 1779912,
             "string": "[Sign_Sword]アイアンアックス[END]",
-            "translation": "[Sign_Sword]쇠 도끼[END]",
+            "translation": "[Sign_Sword]아이언 액스[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
         {
             "offset": 1779848,
             "string": "さまざまな構造物に使われる[LINE]\n鉄製の斧。[LINE]\nもっとも身近な金属。[END]",
-            "translation": "다양한 구조물에 사용되는[LINE]\n철제의 도끼.[LINE]\n가장 가까운 금속.[END]",
+            "translation": "다양한 구조물에 사용되는[LINE]\n철로 만든 도끼.[LINE]\n철은 사람과 가장 친한 금속이다.[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63
         },
         {
             "offset": 1779824,
             "string": "[Sign_Sword]スチールアックス[END]",
-            "translation": "[Sign_Sword]강철 도끼[END]",
+            "translation": "[Sign_Sword]스틸 액스[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
         {
             "offset": 1779776,
             "string": "鉄に炭素を混ぜてできる合金。[LINE]\n鋼製の斧。[LINE]\n[END]",
-            "translation": "철에 탄소를 섞어 만들 수 있는 합금.[LINE]\n강철제의 도끼.[LINE]\n[END]",
+            "translation": "철에 탄소를 첨가한 합금인[LINE]\n강철로 만든 도끼.[LINE]\n[END]",
             "original_bytes_length": 41,
             "available_bytes_size": 47
         },
         {
             "offset": 1779752,
             "string": "[Sign_Sword]チタンアックス[END]",
-            "translation": "[Sign_Sword]티타늄 도끼[END]",
+            "translation": "[Sign_Sword]티타늄 액스[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
         {
             "offset": 1779672,
             "string": "さまざまな用途に使われる[LINE]\nチタン製の斧。[LINE]\n非常に軽く、並外れた耐食性を持つ。[END]",
-            "translation": "다양한 용도에 사용되는[LINE]\n티탄제의 도끼.[LINE]\n매우 가볍고, 비범한 내식성을 가진다.[END]",
+            "translation": "다양한 용도로 사용되는[LINE]\n티타늄으로 만든 도끼.[LINE]\n매우 가볍고 내식성이 뛰어나다.[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79
         },
         {
             "offset": 1779648,
             "string": "[Sign_Sword]シルバーアックス[END]",
-            "translation": "[Sign_Sword]은 도끼[END]",
+            "translation": "[Sign_Sword]실버 액스[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
         {
             "offset": 1779600,
             "string": "銀細工で装飾された斧。[LINE]\n白い輝きが美しい。[LINE]\n[END]",
-            "translation": "은 공예로 장식된 도끼.[LINE]\n하얀 빛이 아름답다.[LINE]\n[END]",
+            "translation": "은세공으로 장식된 도끼.[LINE]\n하얀 빛이 아름답다.[LINE]\n[END]",
             "original_bytes_length": 43,
             "available_bytes_size": 47
         },
         {
             "offset": 1779576,
             "string": "[Sign_Sword]ゴールドアックス[END]",
-            "translation": "[Sign_Sword]금 도끼[END]",
+            "translation": "[Sign_Sword]골드 액스[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
         {
             "offset": 1779520,
             "string": "金をふんだんに混ぜて作られた斧。[LINE]\n別名「豪華な斧」。[LINE]\n[END]",
-            "translation": "금을 풍부하게 섞어 만든 도끼.[LINE]\n별명「화려한 도끼」.[LINE]\n[END]",
+            "translation": "금을 풍부하게 넣어 만든 도끼.[LINE]\n일명 「호화로운 도끼」.[LINE]\n[END]",
             "original_bytes_length": 53,
             "available_bytes_size": 55
         },
         {
             "offset": 1779496,
             "string": "[Sign_Sword]ミスリルアックス[END]",
-            "translation": "[Sign_Sword]미스릴 도끼[END]",
+            "translation": "[Sign_Sword]미스릴 액스[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
         {
             "offset": 1779424,
             "string": "ミスリルを用いて鍛え上げた斧。[LINE]\nドワーフ族の芸術作品といわれる。[LINE]\n[END]",
-            "translation": "미스릴을 사용하여 단련한 도끼.[LINE]\n드워프족의 예술작품이라고 한다.[LINE]\n[END]",
+            "translation": "미스릴을 소재로 벼려낸 도끼.[LINE]\n드워프족의 예술작품이라고 한다.[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71
         },
         {
             "offset": 1779400,
             "string": "[Sign_Sword]ハンドアックス[END]",
-            "translation": "[Sign_Sword]손도끼[END]",
+            "translation": "[Sign_Sword]핸드 액스[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
         {
             "offset": 1779328,
             "string": "非常に扱いやすい小型の斧。[LINE]\n少し力があれば片手でも軽々[LINE]\n扱うことが可能。[END]",
-            "translation": "매우 다루기 쉬운 소형 도끼.[LINE]\n조금의 힘이 있으면 한 손으로도 쉽게[LINE]\n다룰 수 있다.[END]",
+            "translation": "매우 다루기 쉬운 소형 도끼.[LINE]\n조금만 힘이 있으면 한 손으로 가볍게[LINE]\n다룰 수 있다.[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71
         },
         {
             "offset": 1779304,
             "string": "[Sign_Sword]バトルアックス[END]",
-            "translation": "[Sign_Sword]전투 도끼[END]",
+            "translation": "[Sign_Sword]배틀 액스[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
         {
             "offset": 1779240,
             "string": "切れ味鋭い肉厚の斧。[LINE]\nその名の通り、[LINE]\n戦闘用に特化されている。[END]",
-            "translation": "날카로운 고기 두께의 도끼.[LINE]\n그 이름 그대로,[LINE]\n전투용으로 특화되어 있다.[END]",
+            "translation": "날카롭고 두꺼운 도끼.[LINE]\n그 이름 그대로,[LINE]\n전투용으로 특화되어 있다.[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63
         },
         {
             "offset": 1779216,
             "string": "[Sign_Sword]グレートアックス[END]",
-            "translation": "[Sign_Sword]그레이트 도끼[END]",
+            "translation": "[Sign_Sword]그레이트 액스[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
         {
             "offset": 1779120,
             "string": "この斧を初めて見たキコリが、[LINE]\n「グレートだ！」と叫んだことから[LINE]\nこの名がついた。切れ味も抜 群。[END]",
-            "translation": "이 도끼를 처음 본 키코리가,[LINE]\n「그레이트다!」라고 외쳤다는 것에서[LINE]\n이 이름이 붙었다. 날카로움도 탁월하다.[END]",
+            "translation": "이 도끼를 처음 본 나무꾼이,[LINE]\n「그레이트다!」라고 외쳐서[LINE]\n이런 이름이 붙었다. 날카로움도 그레이트다.[END]",
             "original_bytes_length": 93,
             "available_bytes_size": 95
         },
@@ -283,7 +283,7 @@
         {
             "offset": 1779016,
             "string": "三日月の形を模した斧。[LINE]\n乳白色の刃は闇で振るうと[LINE]\nより月のように見えるらしい。[END]",
-            "translation": "초승달 모양을 모방한 도끼.[LINE]\n젖백색의 칼날은 어둠에서 휘두르면[LINE]\n더 달의 모습으로 보인다고 한다.[END]",
+            "translation": "초승달 모양을 본뜬 도끼.[LINE]\n유백색의 칼날은 어두울 때 휘두르면[LINE]\n더욱 달처럼 보인다고 한다.[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79
         },
@@ -311,21 +311,21 @@
         {
             "offset": 1778816,
             "string": "対剣士用に作られた斧。[LINE]\n刃の隙間は剣を引っ掛け[LINE]\n折るためのもの。[END]",
-            "translation": "대검사용으로 만들어진 도끼.[LINE]\n날의 틈새는 검을 걸어[LINE]\n부러뜨리기 위한 것이다.[END]",
+            "translation": "검사를 상대하기 위해 만들어진 도끼.[LINE]\n날의 틈새는 검을 걸어[LINE]\n부러뜨리기 위한 것이다.[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },
         {
             "offset": 1778792,
             "string": "[Sign_Sword]ドライビンアックス[END]",
-            "translation": "[Sign_Sword]드라이빈 액스[END]",
+            "translation": "[Sign_Sword]드라이빙 액스[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
         {
             "offset": 1778704,
             "string": "特徴的な薄く丸い刃を持つ斧。[LINE]\n力のない者が振るっても[LINE]\n容易く肉を裂けられるほど鋭い。[END]",
-            "translation": "특징적인 얇고 둥근 칼날을 가진 도끼.[LINE]\n힘이 없는 자가 휘두르더라도[LINE]\n쉽게 고기를 찢을 정도로 날카롭다.[END]",
+            "translation": "얇고 둥근 칼날이 특징인 도끼.[LINE]\n힘 없는 사람이 휘둘러도[LINE]\n쉽게 살을 찢을 정도로 날카롭다.[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87
         },
@@ -339,7 +339,7 @@
         {
             "offset": 1778592,
             "string": "名工ギースの魂がこもった[LINE]\n無二の傑作。きわめて希少価値が[LINE]\n高く、戦士たちの憧れの斧。[END]",
-            "translation": "명공 기스의 영혼이 담긴[LINE]\n무이의 걸작. 매우 희귀가치가[LINE]\n높아, 전사들의 동경의 도끼.[END]",
+            "translation": "명공 기스의 영혼이 담긴[LINE]\n둘도 없는 걸작. 매우 희소가치가[LINE]\n높아서 많은 전사가 동경하는 도끼.[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87
         },
@@ -353,7 +353,7 @@
         {
             "offset": 1778488,
             "string": "「切るための道具」[LINE]\nという意味の名を持つ斧。[LINE]\n扱いが上手ければ投げることも可能。[END]",
-            "translation": "「자르기 위한 도구」[LINE]\n라는 의미의 이름을 가진 도끼.[LINE]\n다루기가 능숙하다면 던지기도 가능하다.[END]",
+            "translation": "「자르기 위한 도구」[LINE]\n라는 의미의 이름을 가진 도끼.[LINE]\n능숙하게 다루면 던질 수도 있다.[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79
         },
@@ -374,21 +374,21 @@
         {
             "offset": 1778368,
             "string": "[Sign_Sword]ジャッドバラアックス[END]",
-            "translation": "[Sign_Sword]잭 바라 액스[END]",
+            "translation": "[Sign_Sword]제드버러 액스[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
         {
             "offset": 1778296,
             "string": "先端が槍状になっている斧。[LINE]\n斬るだけでなく[LINE]\n刺すこともできる優秀な斧。[END]",
-            "translation": "선단이 창 모양이 된 도끼.[LINE]\n베는 것뿐만 아니라[LINE]\n찌르는 것도 가능한 우수한 도끼.[END]",
+            "translation": "날 끝이 창 모양으로 되어 있어,[LINE]\n베기만이 아니라 찌르기도[LINE]\n할 수 있는 우수한 도끼.[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71
         },
         {
             "offset": 1778272,
             "string": "[Sign_Sword]ロコッバーアックス[END]",
-            "translation": "[Sign_Sword]로코바 액스[END]",
+            "translation": "[Sign_Sword]로카버 액스[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -416,14 +416,14 @@
         {
             "offset": 1778096,
             "string": "[Sign_Sword]イプシロンアックス[END]",
-            "translation": "[Sign_Sword]입실론 액스[END]",
+            "translation": "[Sign_Sword]엡실론 액스[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
         {
             "offset": 1778016,
             "string": "アイアックスを[LINE]\nより扱いやすくした斧。[LINE]\n攻撃力もアップし軽量化も図られた。[END]",
-            "translation": "아이 액스를[LINE]\n더 다루기 쉽게 한 도끼.[LINE]\n공격력도 업되고 경량화도 이루어졌다.[END]",
+            "translation": "아이 액스를 다루기 쉽게 개량한 도끼.[LINE]\n공격력이 향상되고 무게가[LINE]\n가벼워졌다.[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79
         },
@@ -437,7 +437,7 @@
         {
             "offset": 1777920,
             "string": "大地の名で呼ばれる斧。[LINE]\n華奢な形状からは想像できない[LINE]\n威力を持つ。[END]",
-            "translation": "대지의 이름으로 불리는 도끼.[LINE]\n화사한 형태로부터는 상상할 수 없는[LINE]\n위력을 가진다.[END]",
+            "translation": "대지의 이름으로 불리는 도끼.[LINE]\n연약한 외형에서 상상할 수 없을[LINE]\n정도의 위력이 나온다.[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71
         },
@@ -451,7 +451,7 @@
         {
             "offset": 1777816,
             "string": "伝説に登場する幻想の力を秘めた斧。[LINE]\n口伝を書物にまとめた兄弟の名を[LINE]\n冠する。[END]",
-            "translation": "전설에 등장하는 환상의 힘을 감춘 도끼.[LINE]\n구전을 서적으로 정리한 형제의 이름을[LINE]\n달다.[END]",
+            "translation": "전설 속에 등장하는 환상의 힘이 깃든 도끼.[LINE]\n이야기를 책으로 엮은 형제의 이름이[LINE]\n붙었다.[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79
         },
@@ -465,7 +465,7 @@
         {
             "offset": 1777736,
             "string": "三日月型の斧頭が特徴の戦斧。[LINE]\n少ない金属で作ることが可能な斧。[LINE]\n[END]",
-            "translation": "초승달 모양의 도끼머리가 특징인 전투 도끼.[LINE]\n적은 금속으로 만들 수 있는 도끼.[LINE]\n[END]",
+            "translation": "초승달 모양의 도끼머리가 특징인 전투 도끼.[LINE]\n적은 금속으로 만들 수 있다.[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },
@@ -479,7 +479,7 @@
         {
             "offset": 1777648,
             "string": "金属で強化することで[LINE]\n強度を上げた斧。[LINE]\n日常の道具としても使用可能。[END]",
-            "translation": "금속으로 강화함으로써[LINE]\n강도를 높인 도끼.[LINE]\n일상의 도구로도 사용 가능하다.[END]",
+            "translation": "금속으로 강화해[LINE]\n강도를 높인 도끼.[LINE]\n생활도구로도 사용할 수 있다..[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
@@ -507,21 +507,21 @@
         {
             "offset": 1777472,
             "string": "タフレンズが埋め込まれた[LINE]\n半月型の斧。豪華な作りだが[LINE]\n切れ味は鋭い。[END]",
-            "translation": "타프렌즈가 박혀 있는[LINE]\n반달 모양의 도끼. 화려한 만들이지만[LINE]\n날카로움은 날카롭다.[END]",
+            "translation": "터프 렌즈가 박혀 있는[LINE]\n반달 모양의 도끼. 호화스러운 외형을 하고 있지만[LINE]\n매우 날카롭다.[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
         {
             "offset": 1777456,
             "string": "[Sign_Sword]タバンジル[END]",
-            "translation": "[Sign_Sword]타반질[END]",
+            "translation": "[Sign_Sword]타바르진[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16
         },
         {
             "offset": 1777376,
             "string": "植物のような装飾をされた戦斧。[LINE]\n装飾のわりに軽量なため、[LINE]\n殴打武器としても優秀。[END]",
-            "translation": "식물 같은 장식이 되어 있는 전투 도끼.[LINE]\n장식에 비해 가벼워,[LINE]\n폭탄 무기로도 우수하다.[END]",
+            "translation": "식물 모양으로 장식된 전투 도끼.[LINE]\n장식에 비해 가볍기 때문에,[LINE]\n그냥 때리는 용도로도 우수하다.[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79
         },
@@ -535,14 +535,14 @@
         {
             "offset": 1777272,
             "string": "刃が上向きになっている斧。[LINE]\n透明感のある美しい刃は、[LINE]\n祭事用に使われていた時の名残。[END]",
-            "translation": "날이 위로 향하고 있는 도끼.[LINE]\n투명감이 있는 아름다운 날은,[LINE]\n제사용으로 사용되었던 때의 흔적.[END]",
+            "translation": "날이 위로 향하고 있는 도끼.[LINE]\n투명한 느낌의 아름다운 칼날은,[LINE]\n제사용으로 쓰이던 때의 흔적.[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87
         },
         {
             "offset": 1777256,
             "string": "[Sign_Sword]ブローバー[END]",
-            "translation": "[Sign_Sword]블로우바[END]",
+            "translation": "[Sign_Sword]브로버[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16
         },
@@ -556,7 +556,7 @@
         {
             "offset": 1777160,
             "string": "[Sign_Sword]ルベリエアックス[END]",
-            "translation": "[Sign_Sword]루벨리 액스[END]",
+            "translation": "[Sign_Sword]레베리 액스[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -577,7 +577,7 @@
         {
             "offset": 1776992,
             "string": "食物繊維が豊富なさつまいも。[LINE]\n低温でじっくり加熱すると[LINE]\n甘みが増す。[END]",
-            "translation": "식이섬유가 풍부한 고구마.[LINE]\n저온에서 천천히 가열하면[LINE]\n단맛이 늘어난다.[END]",
+            "translation": "식이섬유가 풍부한 고구마.[LINE]\n저온에서 천천히 가열하면[LINE]\n더 달아진다.[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
