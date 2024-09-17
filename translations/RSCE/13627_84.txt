@@ -1260,7 +1260,7 @@ debug
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-「리얼라이즈」?	처음 들어보는데.
+「리리아즈」?	처음 들어보는데.
 
 [ENDBLOCK]
 <Atwight>
