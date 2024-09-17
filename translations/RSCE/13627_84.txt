@@ -1080,25 +1080,25 @@ debug
 그런 거, 가지고 있지 않은데.
 
 [ENDBLOCK]
-그렇다면 지나갈 수 없어.
-어서 내려가.
+그렇다면 지나갈 수 없다.
+어서 물러나.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 뭐야,
-이렇게 멀리 왔는데.
+겨우 여기까지 왔는데.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-결심하고, 강행돌파할까.
+과감하게, 강행 돌파할까.
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-너는 수행자가 되기 위해,
-세인가르드로 가려는 거야?
+너는 수배자가 되기 위해,
+세인가르드로 가려는 건가?
 
 [ENDBLOCK]
 <Stahn>
@@ -1190,7 +1190,7 @@ debug
 ???
 [ENDBLOCK]
 신전은 마을의 동쪽 문을 나가서,
-눈 산으로 향한 쪽에 있어.
+설산 방향에 있어.
 
 [ENDBLOCK]
 <Mary>
@@ -1255,7 +1255,7 @@ debug
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-<Stahn> 씨, 「리얼라이즈」는 아세요?
+<Stahn> 씨, 「리라이즈」는 알고 있나요?
 
 [ENDBLOCK]
 <Stahn>
@@ -1266,13 +1266,13 @@ debug
 <Atwight>
 [ENDBLOCK]
 딤로스가 설명 안 해줬구나.
-괜찮아, 그럼 내가 해줄게.
+괜찮아, 그럼 내가 설명 해줄게.
 
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-소디언이 가진 기술 중 하나로,
-「리얼라이즈」가 있어.
+소디언이 가진 기능 중 하나로,
+「리라이즈」라는게 있어.
 
 [ENDBLOCK]
 <Atwight>
@@ -1306,7 +1306,7 @@ debug
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그게 리얼라이즈란 거야?
+그게 리라이즈란 거야?
 
 [ENDBLOCK]
 <Atwight>
