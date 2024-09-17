@@ -1,0 +1,2153 @@
+{
+    "SLPS": [
+        {
+            "offset": 1754416,
+            "string": "リライズで、与えるダメージが２倍[LINE]\nになる宝石に変化する。ただし……[LINE]\n[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "리라이즈로, 주는 피해가 2배 [LINE]\n되는 보석으로 변하게 됩니다. 단…[LINE]\n[END]"
+        },
+        {
+            "offset": 1765608,
+            "string": "体力が１０上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "체력이 10 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 1765640,
+            "string": "[Sign_9]レッドセージ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_9]레드 세이지[END]"
+        },
+        {
+            "offset": 1765664,
+            "string": "集中力が２上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "집중력이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 1765720,
+            "string": "回避率が２上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "회피율이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 1765752,
+            "string": "[Sign_9]ブルーセボリー[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_9]블루 세이보리[END]"
+        },
+        {
+            "offset": 1765776,
+            "string": "命中率が２上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "명중률이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 1765808,
+            "string": "[Sign_9]ブルーカモミール[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_9]블루 캐모마일[END]"
+        },
+        {
+            "offset": 1765832,
+            "string": "術防御力が２上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "마법 방어력이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 1765864,
+            "string": "[Sign_9]ブルーサフラン[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_9]블루 샤프란[END]"
+        },
+        {
+            "offset": 1765888,
+            "string": "術攻撃力が２上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "마법 공격력이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 1765920,
+            "string": "[Sign_9]ブルーローズマリー[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_9]블루 로즈마리[END]"
+        },
+        {
+            "offset": 1765944,
+            "string": "防御力が２上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "방어력이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 1765976,
+            "string": "[Sign_9]ブルーベルベーヌ[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_9]블루 버베인[END]"
+        },
+        {
+            "offset": 1766000,
+            "string": "攻撃力が２上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "공격력이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 1766032,
+            "string": "[Sign_9]ブルーラベンダー[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_9]블루 라벤더[END]"
+        },
+        {
+            "offset": 1766056,
+            "string": "体力が６上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "체력이 6 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 1766088,
+            "string": "[Sign_9]ブルーセージ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_9]블루 세이지[END]"
+        },
+        {
+            "offset": 1766112,
+            "string": "集中力が１上昇する薬草。[LINE]\n幸福をもたらす甘い香りのハーブ。[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "집중력이 1 상승하는 약초입니다.[LINE]\n행복을 가져다주는 달콤한 향기의 허브입니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1766176,
+            "string": "[Sign_9]ジャスミン[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_9]재스민[END]"
+        },
+        {
+            "offset": 1766192,
+            "string": "回避率が１上昇する薬草。[LINE]\n辛味と強い芳香があり[LINE]\n料理などにも使われる。[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71,
+            "translation": "회피율이 1 상승하는 약초입니다.[LINE]\n매운맛과 강한 향이 있으며[LINE]\n요리 등에도 사용됩니다.[END]"
+        },
+        {
+            "offset": 1766264,
+            "string": "[Sign_9]セボリー[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_9]세이보리[END]"
+        },
+        {
+            "offset": 1766280,
+            "string": "命中率が１上昇する薬草。[LINE]\n古くから使われるハーブ療法の代表。[LINE]\n[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "명중률이 1 상승하는 약초입니다.[LINE]\n오래전부터 사용되어 온 허브 요법의 대표입니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1766344,
+            "string": "[Sign_9]カモミール[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_9]캐모마일[END]"
+        },
+        {
+            "offset": 1766360,
+            "string": "術防御力が１上昇する薬草。[LINE]\nサフランライスが有名。[LINE]\n[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "마법 방어력이 1 상승하는 약초입니다.[LINE]\n샤프란 라이스가 유명합니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1766416,
+            "string": "[Sign_9]サフラン[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_9]샤프란[END]"
+        },
+        {
+            "offset": 1766432,
+            "string": "術攻撃力が１上昇する薬草。[LINE]\n若返りのハーブと言われる。[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55,
+            "translation": "마법 공격력이 1 상승하는 약초입니다.[LINE]\n젊어지게 하는 허브라고 알려져 있습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1766488,
+            "string": "[Sign_9]ローズマリー[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_9]로즈마리[END]"
+        },
+        {
+            "offset": 1766512,
+            "string": "防御力が１上昇する薬草。[LINE]\nレモンに似た香りがさわやか。[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55,
+            "translation": "방어력이 1 상승하는 약초입니다.[LINE]\n레몬과 비슷한 상큼한 향이 납니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1766568,
+            "string": "[Sign_9]ベルベーヌ[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_9]버베인[END]"
+        },
+        {
+            "offset": 1766584,
+            "string": "攻撃力が１上昇する薬草。[LINE]\nほのかに香るハーブの女王。[LINE]\n[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55,
+            "translation": "공격력이 1 상승하는 약초입니다.[LINE]\n은은하게 향기 나는 허브의 여왕입니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1766640,
+            "string": "[Sign_9]ラベンダー[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_9]라벤더[END]"
+        },
+        {
+            "offset": 1766728,
+            "string": "毒ガスを中和する薬剤。[LINE]\n時間制限あり。[LINE]\n[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "독가스를 중화하는 약제입니다.[LINE]\n시간 제한이 있습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1766784,
+            "string": "敵と遭遇しやすくなる。[LINE]\n一定時間経過か、[LINE]\nホーリィボトルを使うと元に戻る。[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "적과의 조우 확률이 높아집니다.[LINE]\n일정 시간 경과 후, [LINE]\n성령의 병을 사용하면 원래 상태로 돌아갑니다.[END]"
+        },
+        {
+            "offset": 1768616,
+            "string": "フレッシュな甘さ、[LINE]\nアップル味のグミ。[LINE]\n最大ＨＰの３０％分ＨＰが回復する。[END]",
+            "translation": "신선한 달콤함,[LINE]\n사과맛의 젤리.[LINE]\n최대 HP의 30%만큼 HP가 회복된다.[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1768600,
+            "string": "[Sign_Apple_Gel]ピーチグミ[END]",
+            "translation": "[Sign_Apple_Gel]복숭아 젤리[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1768528,
+            "string": "とろける甘さ、[LINE]\nピーチ味のグミ。[LINE]\n最大ＨＰの５０％分ＨＰが回復する。[END]",
+            "translation": "녹아내리는 달콤함,[LINE]\n복숭아맛의 젤리.[LINE]\n최대 HP의 50%만큼 HP가 회복된다.[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1768504,
+            "string": "[Sign_Apple_Gel]グレープグミ[END]",
+            "translation": "[Sign_Apple_Gel]포도 젤리[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1768424,
+            "string": "ジューシーな甘さ、[LINE]\nグレープ味のグミ。[LINE]\n最大ＨＰの７５％分ＨＰが回復する。[END]",
+            "translation": "수분가득한 달콤함,[LINE]\n포도맛의 젤리.[LINE]\n최대 HP의 75%만큼 HP가 회복된다.[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1768400,
+            "string": "[Sign_Apple_Gel]ドリアングミ[END]",
+            "translation": "[Sign_Apple_Gel]두리안 젤리[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1768328,
+            "string": "クセになる甘さ、[LINE]\nドリアン味のグミ。[LINE]\nＨＰが全快するが、まれに……[END]",
+            "translation": "중독되는 달콤함,[LINE]\n두리안 맛 젤리.[LINE]\nHP가 전체 회복되지만, 가끔은……[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1768304,
+            "string": "[Sign_Apple_Gel]ドラゴングミ[END]",
+            "translation": "[Sign_Apple_Gel]용과 젤리[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1768232,
+            "string": "ヘルシーな甘さ、[LINE]\nドラゴンフルーツ味のグミ。[LINE]\nブラストゲージが増える。[END]",
+            "translation": "건강한 달콤함,[LINE]\n용과 맛 젤리.[LINE]\n블라스트 게이지가 증가한다.[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1768216,
+            "string": "[Sign_Apple_Gel]バクチグミ[END]",
+            "translation": "[Sign_Apple_Gel]랜덤 젤리[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1768152,
+            "string": "ランダムな甘さ、[LINE]\nサイコロ印のグミ。[LINE]\nＨＰがランダムで変動する。[END]",
+            "translation": "랜덤한 달콤함,[LINE]\n주사위 모양의 젤리.[LINE]\nHP가 랜덤하게 변동된다.[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1768128,
+            "string": "[Sign_Apple_Gel]ぽっちゃりグミ[END]",
+            "translation": "[Sign_Apple_Gel]통통 젤리[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1768040,
+            "string": "最大ＨＰが１．５倍になるが、[LINE]\n回復率が２分の１になる激甘なグミ。[LINE]\n戦闘中のみ有効。[END]",
+            "translation": "최대 HP가 1.5배가 되지만,[LINE]\n회복률이 1/2이 되는 매우 달콤한 젤리.[LINE]\n전투 중에만 유효.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1768016,
+            "string": "[Sign_Apple_Gel]げっそりグミ[END]",
+            "translation": "[Sign_Apple_Gel]야윈 젤리[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1767936,
+            "string": "最大ＨＰが７５％になるが、[LINE]\n回復率が２倍になる苦めなグミ。[LINE]\n戦闘中のみ有効。[END]",
+            "translation": "최대 HP가 75%가 되지만,[LINE]\n회복률이 2배가 되는 쓴 젤리.[LINE]\n전투 중에만 유효.[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1767912,
+            "string": "[Sign_Apple_Gel]パナシーアボトル[END]",
+            "translation": "[Sign_Apple_Gel]만병통치약[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1767880,
+            "string": "全ての状態異常を回復する薬。[LINE]\n[LINE]\n[END]",
+            "translation": "모든 상태이상을 회복하는 약.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1767856,
+            "string": "[Sign_Apple_Gel]リキュールボトル[END]",
+            "translation": "[Sign_Apple_Gel]리큐어의 병[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1767792,
+            "string": "全ての状態異常・減少効果を[LINE]\n防止する薬。[LINE]\n戦闘中のみ有効。[END]",
+            "translation": "모든 상태이상・감소 효과를[LINE]\n방지하는 약.[LINE]\n전투 중에만 유효.[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1767768,
+            "string": "[Sign_Apple_Gel]ライフボトル[END]",
+            "translation": "[Sign_Apple_Gel]생명의 병[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1767704,
+            "string": "戦闘不能を回復し、[LINE]\n最大ＨＰの４０％分[LINE]\nＨＰが回復する薬。[END]",
+            "translation": "전투 불능을 회복하고,[LINE]\n최대 HP의 40%만큼[LINE]\nHP가 회복되는 약.[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1767680,
+            "string": "[Sign_Apple_Gel]エリクシール[END]",
+            "translation": "[Sign_Apple_Gel]엘릭서[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1767608,
+            "string": "戦闘不能を回復し、[LINE]\nＨＰを全快にする薬。[LINE]\n不老長寿の霊薬とも言われる。[END]",
+            "translation": "전투 불능을 회복하고,[LINE]\nHP를 전부 회복하는 약.[LINE]\n불로장수의 영약이라고도 한다.[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1767584,
+            "string": "[Sign_Apple_Gel]オールディバイド[END]",
+            "translation": "[Sign_Apple_Gel]올 디바이드[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1767520,
+            "string": "敵味方が受けるダメージを半減する。[LINE]\nもう一度使うと元に戻る。[LINE]\n[END]",
+            "translation": "적아군이 받는 데미지를 반감한다.[LINE]\n다시 사용하면 원래대로 돌아간다.[LINE]\n[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1767496,
+            "string": "[Sign_Apple_Gel]アワーグラス[END]",
+            "translation": "[Sign_Apple_Gel]시간의 병[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1767432,
+            "string": "一定時間全ての敵の動きを止める。[LINE]\nピンチのときに使うのもアリ！[LINE]\n[END]",
+            "translation": "일정 시간 모든 적의 움직임을 멈춘다.[LINE]\n위기일 때 사용하는 것도 좋다![LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1767408,
+            "string": "[Sign_9]オベロナミンＣ[END]",
+            "translation": "[Sign_9]오베로나민C[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1767320,
+            "string": "オベロン社が開発した庶民の味方。[LINE]\n最大ＨＰの４０％分ＨＰが回復する。[LINE]\n元気ハツラツ！[END]",
+            "translation": "오베론사가 개발한 백성의 친구.[LINE]\n최대 HP의 40%만큼 HP가 회복된다.[LINE]\n건강 활력 충전![END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1767296,
+            "string": "[Sign_9]オベロナミンＥＸ[END]",
+            "translation": "[Sign_9]오베로나민EX[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1767200,
+            "string": "オベロン社が開発した働く人の味方。[LINE]\n最大ＨＰの６０％分ＨＰが回復する。[LINE]\n疲労時の栄養補給に。[END]",
+            "translation": "오베론사가 개발한 직장인의 친구.[LINE]\n최대 HP의 60%만큼 HP가 회복된다.[LINE]\n피로 시 영양 보충에 좋다.[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95
+        },
+        {
+            "offset": 1767168,
+            "string": "[Sign_9]オベロナミンＧＯＬＤ[END]",
+            "translation": "[Sign_9]오베로나민GOLD[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1767080,
+            "string": "オベロン社が開発した戦う人の味方。[LINE]\nＨＰが全快するドリンク。[LINE]\n今日のあなたに、この１本！[END]",
+            "translation": "오베론사가 개발한 전투원의 친구.[LINE]\nHP가 전부 회복되는 음료.[LINE]\n오늘의 당신에게, 이 한 병![END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1767056,
+            "string": "[Sign_9]アイスキャンディー[END]",
+            "translation": "[Sign_9]아이스캔디[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1766992,
+            "string": "冷たくてあま～い氷菓子。[LINE]\n最大ＨＰの１０％分回復する氷菓子。[LINE]\n[END]",
+            "translation": "차갑고 달콤한 얼음과자.[LINE]\n최대 HP의 10%만큼 회복하는 얼음과자.[LINE]\n[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1766968,
+            "string": "[Sign_9]ホーリィボトル[END]",
+            "translation": "[Sign_9]성령의 병[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1766888,
+            "string": "敵とほとんど遭遇しなくなる。[LINE]\n一定時間経過か、[LINE]\nダークボトルを使うと元に戻る。[END]",
+            "translation": "적과 거의 마주치지 않게 된다.[LINE]\n일정 시간이 지나거나,[LINE]\n어둠의 병을 사용하면 원래대로 돌아간다.[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1766864,
+            "string": "[Sign_9]ダークボトル[END]",
+            "translation": "[Sign_9]어둠의 병[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1766768,
+            "string": "[Sign_9]中和剤[END]",
+            "translation": "[Sign_9]중화제[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1766712,
+            "string": "[Sign_9]セージ[END]",
+            "translation": "[Sign_9]세이지[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1766656,
+            "string": "体力が３上昇する薬草。[LINE]\n心地よい香りで気分を和ませる。[LINE]\n[END]",
+            "translation": "체력이 3 상승하는 약초.[LINE]\n좋은 향기로 기분을 풀어준다.[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1765696,
+            "string": "[Sign_9]ブルージャスミン[END]",
+            "translation": "[Sign_9]블루자스민[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1765584,
+            "string": "[Sign_9]レッドラベンダー[END]",
+            "translation": "[Sign_9]레드라벤더[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1765552,
+            "string": "攻撃力が３上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "translation": "공격력이 3 상승하는 약초.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1765528,
+            "string": "[Sign_9]レッドベルベーヌ[END]",
+            "translation": "[Sign_9]레드버베인[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1765496,
+            "string": "防御力が３上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "translation": "방어력이 3 상승하는 약초.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1765472,
+            "string": "[Sign_9]レッドローズマリー[END]",
+            "translation": "[Sign_9]레드로즈마리[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1765440,
+            "string": "術攻撃力が３上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "translation": "술 공격력이 3 상승하는 약초.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1765416,
+            "string": "[Sign_9]レッドサフラン[END]",
+            "translation": "[Sign_9]레드 샤프란[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1765384,
+            "string": "術防御力が３上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "translation": "술 방어력이 3 상승하는 약초.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1765360,
+            "string": "[Sign_9]レッドカモミール[END]",
+            "translation": "[Sign_9]레드 캐모마일[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1765328,
+            "string": "命中率が３上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "translation": "명중률이 3 상승하는 약초.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1765304,
+            "string": "[Sign_9]レッドセボリー[END]",
+            "translation": "[Sign_9]레드세이보리[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1765272,
+            "string": "回避率が３上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "translation": "회피율이 3 상승하는 약초.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1765248,
+            "string": "[Sign_9]レッドジャスミン[END]",
+            "translation": "[Sign_9]레드자스민[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1765216,
+            "string": "集中力が３上昇する薬草。[LINE]\n[LINE]\n[END]",
+            "translation": "집중력이 3 상승하는 약초.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1765192,
+            "string": "[Sign_Box]ポムポムのたね[END]",
+            "translation": "[Sign_Box]폼폼의 씨앗[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1765120,
+            "string": "初心者用栽培セットの種。[LINE]\n「種育て」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "초보자용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1765096,
+            "string": "[Sign_Box]エステマのたね[END]",
+            "translation": "[Sign_Box]에스테마의 씨앗[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1765024,
+            "string": "脱初心者用栽培セットの種。[LINE]\n「種育て」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "초보자용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1765000,
+            "string": "[Sign_Box]ラナケアルのたね[END]",
+            "translation": "[Sign_Box]라나케알의 씨앗[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1764928,
+            "string": "初級者用栽培セットの種。[LINE]\n「種育て」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "초보자용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1764904,
+            "string": "[Sign_Box]ドルゲニアのたね[END]",
+            "translation": "[Sign_Box]돌게니아의 씨앗[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1764832,
+            "string": "中級者用栽培セットの種。[LINE]\n「種育て」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "중급자용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1764808,
+            "string": "[Sign_Box]ペンペンのたね[END]",
+            "translation": "[Sign_Box]펜펜의 씨앗[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1764736,
+            "string": "熟練者用栽培セットの種。[LINE]\n「種育て」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "숙련자용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1764712,
+            "string": "[Sign_Box]オリオラのたね[END]",
+            "translation": "[Sign_Box]오리오라의 씨앗[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1764640,
+            "string": "上級者用栽培セットの種。[LINE]\n「種育て」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "고급자용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1764616,
+            "string": "[Sign_Box]チャラックのたね[END]",
+            "translation": "[Sign_Box]챠라크의 씨앗[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1764544,
+            "string": "超上級者用栽培セットの種。[LINE]\n「種育て」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "초고급자용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1764520,
+            "string": "[Sign_Box]おうごんのたね[END]",
+            "translation": "[Sign_Box]황금의 씨앗[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1764448,
+            "string": "マスター用栽培セットの種。[LINE]\n「種育て」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "마스터용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1764432,
+            "string": "[Sign_Box]リンゴ[END]",
+            "translation": "[Sign_Box]사과[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1764360,
+            "string": "甘酸っぱい芳香がある果物。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "달콤 새콤한 향이 나는 과일.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1764344,
+            "string": "[Sign_Box]モモ[END]",
+            "translation": "[Sign_Box]복숭아[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1764272,
+            "string": "柔らかく多汁で甘い薄紅色の果物。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "부드럽고 즙이 많고 달콤한 연한 붉은색의 과일.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1764256,
+            "string": "[Sign_Box]ブドウ[END]",
+            "translation": "[Sign_Box]포도[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1764184,
+            "string": "球形の液果が房状になる果物。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "구형의 액과가 송이 모양으로 된 과일.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1764168,
+            "string": "[Sign_Box]ドリアン[END]",
+            "translation": "[Sign_Box]두리안[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1764096,
+            "string": "全体がとげにおおわれている果物。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "전체가 가시로 덮여 있는 과일.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1764072,
+            "string": "[Sign_Box]ドラゴンフルーツ[END]",
+            "translation": "[Sign_Box]용과[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1764000,
+            "string": "ピタヤとも呼ばれる[LINE]\nサボテンの実。「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "피타야라고도 불리는[LINE]\n선인장의 열매.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1763976,
+            "string": "[Sign_Box]ディホンの実[END]",
+            "translation": "[Sign_Box]디혼의 열매[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1763912,
+            "string": "熱帯に自生する果樹。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "열대에 자생하는 과수.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1763896,
+            "string": "[Sign_Box]バインの実[END]",
+            "translation": "[Sign_Box]바인의 열매[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1763808,
+            "string": "山中に自生し、黄色に熟した実は[LINE]\n食べられる。「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "산속에 자생하며, 노란색으로 익은 열매는[LINE]\n먹을 수 있다.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1763792,
+            "string": "[Sign_Box]センナの実[END]",
+            "translation": "[Sign_Box]센나의 열매[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1763704,
+            "string": "古くからお通じの良くなると[LINE]\n言われる医薬品。「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "옛날부터 변비가 좋아진다고[LINE]\n말해진 의약품.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1763680,
+            "string": "[Sign_Box]レメディの実[END]",
+            "translation": "[Sign_Box]레메디의 열매[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1763616,
+            "string": "生薬として使われる植物。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "생약으로 사용되는 식물.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1763592,
+            "string": "[Sign_Box]エンデュアの実[END]",
+            "translation": "[Sign_Box]엔듀아의 열매[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1763512,
+            "string": "料理に香味を加えるとともに[LINE]\n消化も助ける。「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "요리에 향미를 더하면서[LINE]\n소화도 돕는다.「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1763488,
+            "string": "[Sign_Box]ニューマの実[END]",
+            "translation": "[Sign_Box]뉴마의 열매[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1763400,
+            "string": "肉や魚を保存するときに使う[LINE]\nスパイスの一種。「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "고기나 생선을 보관할 때 사용하는[LINE]\n향신료의 일종.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1763384,
+            "string": "[Sign_Box]トーチの実[END]",
+            "translation": "[Sign_Box]토치의 열매[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1763296,
+            "string": "特有の芳香をもち、香料や薬として[LINE]\n使われる。「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "특유의 향기를 가지며, 향료나 약으로[LINE]\n사용된다.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1763272,
+            "string": "[Sign_Box]グルームの実[END]",
+            "translation": "[Sign_Box]그룸의 열매[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1763200,
+            "string": "花の匂いで小動物を誘い捕食する。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "꽃 향기로 작은 동물을 유인하여 포식한다.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1763176,
+            "string": "[Sign_Box]イクオリの実[END]",
+            "translation": "[Sign_Box]이쿠오리의 열매[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1763096,
+            "string": "強い香りを放ち、大きな葉をもつ[LINE]\nハーブ。「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "강한 향기를 풍기며, 큰 잎을 가진[LINE]\n허브.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1763072,
+            "string": "[Sign_Box]クウェルの実[END]",
+            "translation": "[Sign_Box]쿠웨르의 열매[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1762992,
+            "string": "肉や魚の臭み取りに用いる[LINE]\nスパイスの一種。「調合」の[LINE]\nサポートタレントアイテム。[END]",
+            "translation": "고기나 생선의 냄새를 제거하는[LINE]\n향신료의 일종.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1762968,
+            "string": "[Sign_Box]むしくいリンゴ[END]",
+            "translation": "[Sign_Box]벌레 먹은 사과[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1762904,
+            "string": "虫に食われて売り物に[LINE]\nならなくなったリンゴ。[LINE]\n食べられません！[END]",
+            "translation": "벌레에 갉아먹혀 팔 수 없게 된[LINE]\n사과.[LINE]\n먹으면 안 돼요![END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1762880,
+            "string": "[Sign_Box]くさったモモ[END]",
+            "translation": "[Sign_Box]썩은 복숭아[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1762816,
+            "string": "腐ってヌルヌルするモモ。[LINE]\n持っただけで[LINE]\n嫌な液体が漏れてくる……[END]",
+            "translation": "썩어 미끄러지는 복숭아.[LINE]\n들고만 있어도[LINE]\n싫은 액체가 새어 나온다……[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1762800,
+            "string": "[Sign_Box]悪臭の王様[END]",
+            "translation": "[Sign_Box]악취의 왕[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1762736,
+            "string": "腐るぐらいが食べごろ。[LINE]\nとは言っても……[LINE]\n臭すぎて近寄れません！[END]",
+            "translation": "썩을 때가 먹기 좋을 때.[LINE]\n라고 하지만……[LINE]\n너무 냄새가 나서 가까이 가지 못합니다![END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1762720,
+            "string": "[Sign_Box]怪しげな粉[END]",
+            "translation": "[Sign_Box]수상한 가루[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1762640,
+            "string": "薬として使えそうだが[LINE]\nどうみても怪しい……[LINE]\n捨てる場所はよく考えましょう！[END]",
+            "translation": "약으로 사용할 수 있을 것 같지만[LINE]\n어떻게 봐도 수상하다……[LINE]\n버릴 장소는 잘 생각합시다![END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1762624,
+            "string": "[Sign_Box]危険な液体[END]",
+            "translation": "[Sign_Box]위험한 액체[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1762552,
+            "string": "明らかに飲んではいけない色の液体。[LINE]\n捨てる場所はよく考えましょう！[LINE]\n[END]",
+            "translation": "분명히 마시면 안 되는 색의 액체.[LINE]\n버릴 장소는 잘 생각합시다![LINE]\n[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1762528,
+            "string": "[Sign_Box]ゲル状の物体[END]",
+            "translation": "[Sign_Box]겔 상의 물체[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1762456,
+            "string": "行ってはいけない方向へ進んだ物質。[LINE]\n捨てる場所はよく考えましょう！[LINE]\n[END]",
+            "translation": "가서는 안 되는 방향으로 나아간 물질.[LINE]\n버릴 장소는 잘 생각합시다![LINE]\n[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1762432,
+            "string": "[Sign_Box]マジカルアロマ[END]",
+            "translation": "[Sign_Box]매지컬 아로마[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1762360,
+            "string": "相手を惑わす不思議な香料。[LINE]\n持っている数×１％分[LINE]\nお店で割引される。[END]",
+            "translation": "상대를 혼란스럽게 하는 신비한 향료.[LINE]\n가지고 있는 수×1%만큼[LINE]\n가게에서 할인된다.[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1762336,
+            "string": "[Sign_Box]サポートハンド[END]",
+            "translation": "[Sign_Box]서포트 핸드[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1762264,
+            "string": "所持数に応じて、[LINE]\nＥＸダンジョン内のみ[LINE]\nサポートタレントの時間が短縮！[END]",
+            "translation": "소지 수에 따라,[LINE]\nＥＸ 던전 내에서만[LINE]\n서포트 탤런트의 시간이 단축![END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1762240,
+            "string": "[Sign_Box]ロートリキッド[END]",
+            "translation": "[Sign_Box]로트 리퀴드[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1762168,
+            "string": "変な臭いのする謎の赤色液体。[LINE]\n何かの薬品に[LINE]\n重宝されるという噂もある……[END]",
+            "translation": "이상한 냄새가 나는 수수한 붉은색 액체.[LINE]\n어떤 약품에[LINE]\n유용하다는 소문도 있다……[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1762144,
+            "string": "[Sign_Box]ブラオリキッド[END]",
+            "translation": "[Sign_Box]블라우 리퀴드[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1762072,
+            "string": "変な臭いのする謎の青色液体。[LINE]\n何かの薬品に[LINE]\n重宝されるという噂もある……[END]",
+            "translation": "이상한 냄새가 나는 수수한 청색 액체.[LINE]\n어떤 약품에[LINE]\n유용하다는 소문도 있다……[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1762048,
+            "string": "[Sign_Box]グリューンリキッド[END]",
+            "translation": "[Sign_Box]그룬 리퀴드[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1761976,
+            "string": "変な臭いのする謎の緑色液体。[LINE]\n何かの薬品に[LINE]\n重宝されるという噂もある……[END]",
+            "translation": "이상한 냄새가 나는 수수한 녹색 액체.[LINE]\n어떤 약품에[LINE]\n유용하다는 소문도 있다……[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1761952,
+            "string": "[Sign_Box]ゲルプリキッド[END]",
+            "translation": "[Sign_Box]겔프 리퀴드[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1761880,
+            "string": "変な臭いのする謎の黄色液体。[LINE]\n何かの薬品に[LINE]\n重宝されるという噂もある……[END]",
+            "translation": "이상한 냄새가 나는 수수한 황색 액체.[LINE]\n어떤 약품에[LINE]\n유용하다는 소문도 있다……[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1761848,
+            "string": "[Sign_Box]ヴィオレットリキッド[END]",
+            "translation": "[Sign_Box]비올레트 리퀴드[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1761776,
+            "string": "変な臭いのする謎の紫色液体。[LINE]\n何かの薬品に[LINE]\n重宝されるという噂もある……[END]",
+            "translation": "이상한 냄새가 나는 수수한 자색 액체.[LINE]\n어떤 약품에[LINE]\n유용하다는 소문도 있다……[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1761760,
+            "string": "[Sign_Box]あたり棒[END]",
+            "translation": "[Sign_Box]당첨 막대[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1761712,
+            "string": "ラッキー！もう１本もらえます。[LINE]\nお店にＧＯ！[LINE]\n[END]",
+            "translation": "럭키! 또 하나 받을 수 있습니다.[LINE]\n가게로 GO![LINE]\n[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47
+        },
+        {
+            "offset": 1761696,
+            "string": "[Sign_Box]はずれ棒[END]",
+            "translation": "[Sign_Box]꽝 막대[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1761640,
+            "string": "残念、はずれです。[LINE]\nちゃんとくずかごに捨てましょう。[LINE]\n[END]",
+            "translation": "안타깝게도 꽝입니다.[LINE]\n제대로 쓰레기통에 버리세요.[LINE]\n[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1761616,
+            "string": "[Sign_Box]エナスフィア[END]",
+            "translation": "[Sign_Box]에나 스피어[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1761536,
+            "string": "「�」の文字が見える不思議な球体。[LINE]\n全ての「斧」を知りし者のみ[LINE]\n答えを知る。[END]",
+            "translation": "「�」의 문자가 보이는 이상한 구체.[LINE]\n모든「도끼」를 알고 있는 자만[LINE]\n답을 알 수 있다.[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1761512,
+            "string": "[Sign_Box]ディオスフィア[END]",
+            "translation": "[Sign_Box]디오 스피어[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1761432,
+            "string": "「�」の文字が見える不思議な球体。[LINE]\n全ての「小弓」を知りし者のみ[LINE]\n答えを知る。[END]",
+            "translation": "「�」의 문자가 보이는 이상한 구체.[LINE]\n모든「작은 활」을 알고 있는 자만[LINE]\n답을 알 수 있다.[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1761408,
+            "string": "[Sign_Box]トゥリアスフィア[END]",
+            "translation": "[Sign_Box]트리아 스피어[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1761320,
+            "string": "「�」の文字が見える不思議な球体。[LINE]\n全ての「ナックル」を知りし者のみ[LINE]\n答えを知る。[END]",
+            "translation": "「�」의 문자가 보이는 이상한 구체.[LINE]\n모든「너클」을 알고 있는 자만[LINE]\n답을 알 수 있다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1761296,
+            "string": "[Sign_Box]テセラスフィア[END]",
+            "translation": "[Sign_Box]테트라 스피어[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1761216,
+            "string": "「�」の文字が見える不思議な球体。[LINE]\n全ての「楽器」を知りし者のみ[LINE]\n答えを知る。[END]",
+            "translation": "「�」의 문자가 보이는 이상한 구체.[LINE]\n모든「악기」를 알고 있는 자만[LINE]\n답을 알 수 있다.[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1761192,
+            "string": "[Sign_Box]ペンデスフィア[END]",
+            "translation": "[Sign_Box]펜타 스피어[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1761112,
+            "string": "「�」の文字が見える不思議な球体。[LINE]\n全ての「おたま」を知りし者のみ[LINE]\n答えを知る。[END]",
+            "translation": "「�」의 문자가 보이는 이상한 구체.[LINE]\n모든「국자」를 알고 있는 자만[LINE]\n답을 알 수 있다.[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1761088,
+            "string": "[Sign_Box]エクシスフィア[END]",
+            "translation": "[Sign_Box]헥사 스피어[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1761000,
+            "string": "「�」の文字が見える不思議な球体。[LINE]\n全ての「アーマー」を知りし者のみ[LINE]\n答えを知る。[END]",
+            "translation": "「�」의 문자가 보이는 이상한 구체.[LINE]\n모든「갑옷」을 알고 있는 자만[LINE]\n답을 알 수 있다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1760976,
+            "string": "[Sign_Box]エプタスフィア[END]",
+            "translation": "[Sign_Box]헵타 스피어[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1760888,
+            "string": "「�」の文字が見える不思議な球体。[LINE]\n全ての「プレート」を知りし者のみ[LINE]\n答えを知る。[END]",
+            "translation": "「�」의 문자가 보이는 이상한 구체.[LINE]\n모든「판금」을 알고 있는 자만[LINE]\n답을 알 수 있다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1760864,
+            "string": "[Sign_Box]オクトスフィア[END]",
+            "translation": "[Sign_Box]옥타 스피아[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1760784,
+            "string": "「�」の文字が見える不思議な球体。[LINE]\n全ての「ウェア」を知りし者のみ[LINE]\n答えを知る。[END]",
+            "translation": "「�」의 문자가 보이는 이상한 구체.[LINE]\n모든「의상」을 알고 있는 자만[LINE]\n답을 알 수 있다.[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1760760,
+            "string": "[Sign_Box]エンネアスフィア[END]",
+            "translation": "[Sign_Box]에네아 스피어[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1760672,
+            "string": "「�」の文字が見える不思議な球体。[LINE]\n全ての「クローク」を知りし者のみ[LINE]\n答えを知る。[END]",
+            "translation": "「�」의 문자가 보이는 이상한 구체.[LINE]\n모든「망토」를 알고 있는 자만[LINE]\n답을 알 수 있다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1760648,
+            "string": "[Sign_Box]デカスフィア[END]",
+            "translation": "[Sign_Box]데카 스피어[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1760568,
+            "string": "「�」の文字が見える不思議な球体。[LINE]\n全ての「ローブ」を知りし者のみ[LINE]\n答えを知る。[END]",
+            "translation": "「�」의 문자가 보이는 이상한 구체.[LINE]\n모든「로브」를 알고 있는 자만[LINE]\n답을 알 수 있다.[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1760552,
+            "string": "[Sign_Box]まんぼう[END]",
+            "translation": "[Sign_Box]맘보[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1760480,
+            "string": "まんぼう……所持数に応じて[LINE]\nリリスのまんぼう戦吼の威力が[LINE]\nアップ！[END]",
+            "translation": "맘보…… 소지 수에 따라[LINE]\n리리스의 맘보전후의 힘이[LINE]\n상승![END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1760456,
+            "string": "[Sign_Box]フェザーワッペン[END]",
+            "translation": "[Sign_Box]페더 와펜[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1760392,
+            "string": "羽の紋様が入ったワッペン。[LINE]\nなりふり構わず英雄になりたくなる。[LINE]\n[END]",
+            "translation": "깃털 문양이 들어간 와펜.[LINE]\n남의 시선에 관계 없이 멋대로[LINE]\n영웅이 되고 싶어진다.[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1760368,
+            "string": "[Sign_Box]丸いペンダント[END]",
+            "translation": "[Sign_Box]둥근 펜던트[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1760296,
+            "string": "誰かが落としたと思われる[LINE]\nペンダント。[LINE]\n時をかけるとかかけないとか……[END]",
+            "translation": "누군가 떨어뜨린 것 같은[LINE]\n펜던트.[LINE]\n시간을 넘는다던가 안 넘는다던가……[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1760272,
+            "string": "[Sign_Box]青いスカーフ[END]",
+            "translation": "[Sign_Box]파란 스카프[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1760192,
+            "string": "透き通るような青が美しいスカーフ。[LINE]\n身に着けている人は[LINE]\nさぞかし心が美しかろう。[END]",
+            "translation": "투명한 파란색이 아름다운 스카프.[LINE]\n매고 있는 사람은[LINE]\n분명히 마음이 아름답겠지.[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1760168,
+            "string": "[Sign_Box]仮面のようなもの[END]",
+            "translation": "[Sign_Box]가면 같은 것[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1760104,
+            "string": "仮面のようであって仮面でない？[LINE]\nつけてるやつの顔が見たい……[LINE]\n[END]",
+            "translation": "가면 같은데 가면이 아닌가?[LINE]\n쓰고 있는 놈의 얼굴을 보고 싶다……[LINE]\n[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1760080,
+            "string": "[Sign_Box]レッドウイッグ[END]",
+            "translation": "[Sign_Box]레드 윙[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1760000,
+            "string": "着ける人を選ぶぐらい長いウイッグ。[LINE]\nウイッグとは[LINE]\n女性用かつらみたいなものです。[END]",
+            "translation": "쓰는 사람을 고르는 정도로 긴 윙.[LINE]\n윙은[LINE]\n여성용 가발 같은 것입니다.[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1759976,
+            "string": "[Sign_Box]漆黒のボンボン[END]",
+            "translation": "[Sign_Box]칠흑의 볼[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1759912,
+            "string": "悪巧みし放題な黒いボンボン。[LINE]\nどこに着けるかはお好みで！[LINE]\n[END]",
+            "translation": "나쁜 짓을 마음껏 할 수 있는 검은 볼.[LINE]\n어디에 쓸지는 취향대로![LINE]\n[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1759888,
+            "string": "[Sign_Box]巨大ではない人形[END]",
+            "translation": "[Sign_Box]거대하지 않은 인형[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1759808,
+            "string": "かわいくはないが憎めない人形。[LINE]\nおなかを押すと[LINE]\n「ドスッ」と鈍い音がする。[END]",
+            "translation": "귀엽지는 않지만 미워할 수 없는 인형.[LINE]\n배를 누르면[LINE]\n「두둑」거리는 둔탁한 소리가 난다.[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1759784,
+            "string": "[Sign_Box]火を噴く人形[END]",
+            "translation": "[Sign_Box]불을 뿜는 인형[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1759712,
+            "string": "おなかを押すと、[LINE]\n火を噴く危険な人形。[LINE]\nなぜだか蹴飛ばしたくなる……[END]",
+            "translation": "배를 누르면,[LINE]\n불을 뿜는 위험한 인형.[LINE]\n왜인지 차고 싶어진다……[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1759688,
+            "string": "[Sign_Box]みごとな弁髪[END]",
+            "translation": "[Sign_Box]멋진 머리카락[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1759616,
+            "string": "便利！取り外し可！自己発育！[LINE]\n１６個のまりもが生み出す[LINE]\nハーモニー！[END]",
+            "translation": "편리! 분리 가능! 자가 발육![LINE]\n16개의 해초가 만들어내는[LINE]\n하모니![END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1759592,
+            "string": "[Sign_Box]高そうな王冠[END]",
+            "translation": "[Sign_Box]비싼 왕관[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1759536,
+            "string": "いかにも高そうな王冠。[LINE]\n頭の上にどうやって載せるのか？[LINE]\n[END]",
+            "translation": "정말 비싼 왕관.[LINE]\n머리 위에 어떻게 올리는 걸까?[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1759520,
+            "string": "[Sign_Box]くずレンズ[END]",
+            "translation": "[Sign_Box]쓰레기 렌즈[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1759448,
+            "string": "レンズの欠片。使い道はないが[LINE]\n一応引き取ってもらえる。[LINE]\n換金アイテム。[END]",
+            "translation": "렌즈의 조각. 사용할 방법은 없지만[LINE]\n일단 가져가도 된다.[LINE]\n환금 아이템.[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1759424,
+            "string": "[Sign_Box]レンズの結晶[END]",
+            "translation": "[Sign_Box]렌즈 결정[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1759344,
+            "string": "加工されていないレンズの結晶。[LINE]\n非常に珍しいので高値で売れる[LINE]\n換金アイテム。[END]",
+            "translation": "가공되지 않은 렌즈 결정.[LINE]\n매우 드물기 때문에 높은 가격에 팔린다.[LINE]\n환금 아이템.[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1759328,
+            "string": "[Sign_Box]石ころ[END]",
+            "translation": "[Sign_Box]돌멩이[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1759256,
+            "string": "１ガルドを笑う者は１ガルドに泣く。[LINE]\n一応１ガルドで売れる換金アイテム。[LINE]\n[END]",
+            "translation": "1가르드를 비웃는 사람은 1가르드에 울게 된다.[LINE]\n일단은 1가르드에 팔 수 있는 환금 아이템.[LINE]\n[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1759240,
+            "string": "[Sign_Box]天地鉱[END]",
+            "translation": "[Sign_Box]천지광[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1759168,
+            "string": "天地戦争時代の建物に[LINE]\n使用されていたとされる鉱石。[LINE]\n換金アイテム。[END]",
+            "translation": "천지 전쟁 시대의 건물에[LINE]\n사용되었다고 알려진 광석.[LINE]\n환금 아이템.[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1759152,
+            "string": "[Sign_Box]金香草[END]",
+            "translation": "[Sign_Box]금향초[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1759080,
+            "string": "金の香りがする雑草。[LINE]\n金に対する執着心がよく分かる一品。[LINE]\n換金アイテム。[END]",
+            "translation": "금의 향기가 나는 잡초.[LINE]\n금에 대한 집착심이 잘 드러나는 제품.[LINE]\n환금 아이템.[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1759064,
+            "string": "[Sign_Box]隕石の欠片[END]",
+            "translation": "[Sign_Box]운석 조각[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1758992,
+            "string": "天地戦争の発端たる隕石の欠片……[LINE]\nということにして売れる[LINE]\n換金アイテム。[END]",
+            "translation": "천지 전쟁의 발단이었던 운석 조각……[LINE]\n으로 팔 수 있는[LINE]\n환금 아이템.[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1758968,
+            "string": "[Sign_8]ポイズンマテリアル[END]",
+            "translation": "[Sign_8]포이즌 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1758888,
+            "string": "リライズで、ＨＰが減少していく[LINE]\n状態異常「熱毒」を防止する宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, HP가 감소해 가는[LINE]\n상태이상「열독」을 방지하는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1758864,
+            "string": "[Sign_8]スリープマテリアル[END]",
+            "translation": "[Sign_8]슬립 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1758792,
+            "string": "リライズで、行動不能になる[LINE]\n状態異常「睡眠」を防止する宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, 행동 불능이 되는[LINE]\n상태이상「수면」을 방지하는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1758768,
+            "string": "[Sign_8]ストーンマテリアル[END]",
+            "translation": "[Sign_8]스톤 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1758696,
+            "string": "リライズで、行動不能になる[LINE]\n状態異常「石化」を防止する宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, 행동 불능이 되는[LINE]\n상태이상「석화」를 방지하는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1758664,
+            "string": "[Sign_8]ウェイストマテリアル[END]",
+            "translation": "[Sign_8]웨이스트 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1758584,
+            "string": "リライズで、ＣＣの回復が遅くなる[LINE]\n状態異常「衰弱」を防止する宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, CC의 회복이 느려지는[LINE]\n상태이상「쇠약」을 방지하는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1758560,
+            "string": "[Sign_8]パラライマテリアル[END]",
+            "translation": "[Sign_8]패럴라이 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1758488,
+            "string": "リライズで、行動時に痺れる[LINE]\n状態異常「マヒ」を防止する宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, 행동 시에 마비되는[LINE]\n상태이상「마비」를 방지하는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1758464,
+            "string": "[Sign_8]シールマテリアル[END]",
+            "translation": "[Sign_8]실 머티리얼[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1758384,
+            "string": "リライズで、術技が使用不可になる[LINE]\n状態異常「封印」を防止する宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, 술기가 사용 불가능이 되는[LINE]\n상태이상「봉인」을 방지하는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1758360,
+            "string": "[Sign_8]フレアマテリアル[END]",
+            "translation": "[Sign_8]플레어 머티리얼[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1758272,
+            "string": "リライズで、火属性ダメージを半減[LINE]\nできる「火属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
+            "translation": "리라이즈로, 불속성 데미지를 반감[LINE]\n할 수 있는「불속성 내성」을 부여하는[LINE]\n보석으로 변화한다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1758248,
+            "string": "[Sign_8]アクアマテリアル[END]",
+            "translation": "[Sign_8]아쿠아 머티리얼[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1758160,
+            "string": "リライズで、水属性ダメージを半減[LINE]\nできる「水属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
+            "translation": "리라이즈로, 물속성 데미지를 반감[LINE]\n할 수 있는「물속성 내성」을 부여하는[LINE]\n보석으로 변화한다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1758136,
+            "string": "[Sign_8]アースマテリアル[END]",
+            "translation": "[Sign_8]어스 머티리얼[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1758048,
+            "string": "リライズで、地属性ダメージを半減[LINE]\nできる「地属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
+            "translation": "리라이즈로, 땅속성 데미지를 반감[LINE]\n할 수 있는「땅속성 내성」을 부여하는[LINE]\n보석으로 변화한다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1758024,
+            "string": "[Sign_8]ゲイルマテリアル[END]",
+            "translation": "[Sign_8]게일 머티리얼[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1757936,
+            "string": "リライズで、風属性ダメージを半減[LINE]\nできる「風属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
+            "translation": "리라이즈로, 바람속성 데미지를 반감[LINE]\n할 수 있는「바람속성 내성」을 부여하는[LINE]\n보석으로 변화한다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1757912,
+            "string": "[Sign_8]ライトマテリアル[END]",
+            "translation": "[Sign_8]라이트 머티리얼[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1757824,
+            "string": "リライズで、光属性ダメージを半減[LINE]\nできる「光属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
+            "translation": "리라이즈로, 빛속성 데미지를 반감[LINE]\n할 수 있는「빛속성 내성」을 부여하는[LINE]\n보석으로 변화한다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1757800,
+            "string": "[Sign_8]ダークマテリアル[END]",
+            "translation": "[Sign_8]다크 머티리얼[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1757712,
+            "string": "リライズで、闇属性ダメージを半減[LINE]\nできる「闇属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
+            "translation": "리라이즈로, 어둠속성 데미지를 반감[LINE]\n할 수 있는「어둠속성 내성」을 부여하는[LINE]\n보석으로 변화한다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1757680,
+            "string": "[Sign_8]スラッシュマテリアル[END]",
+            "translation": "[Sign_8]슬래시 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1757592,
+            "string": "リライズで、斬属性ダメージを半減[LINE]\nできる「斬属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
+            "translation": "리라이즈로, 참속성 데미지를 반감[LINE]\n할 수 있는「참속성 내성」을 부여하는[LINE]\n보석으로 변화한다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1757568,
+            "string": "[Sign_8]ブロウマテリアル[END]",
+            "translation": "[Sign_8]블로우 머티리얼[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1757480,
+            "string": "リライズで、打属性ダメージを半減[LINE]\nできる「打属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
+            "translation": "리라이즈로, 타격속성 데미지를 반감[LINE]\n할 수 있는「타격속성 내성」을 부여하는[LINE]\n보석으로 변화한다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1757456,
+            "string": "[Sign_8]ショットマテリアル[END]",
+            "translation": "[Sign_8]샷 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1757368,
+            "string": "リライズで、射属性ダメージを半減[LINE]\nできる「射属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
+            "translation": "리라이즈로, 사속성 데미지를 반감[LINE]\n할 수 있는「사속성 내성」을 부여하는[LINE]\n보석으로 변화한다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1757344,
+            "string": "[Sign_8]ソニックマテリアル[END]",
+            "translation": "[Sign_8]소닉 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1757256,
+            "string": "リライズで、音属性ダメージを半減[LINE]\nできる「音属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
+            "translation": "리라이즈로, 소리속성 데미지를 반감[LINE]\n할 수 있는「소리속성 내성」을 부여하는[LINE]\n보석으로 변화한다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1757232,
+            "string": "[Sign_8]アタックマテリアル[END]",
+            "translation": "[Sign_8]어택 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1757152,
+            "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\n攻撃力を一定時間上昇する宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, 전투 중, [Square_ani2]＋[Down_blink]로,[LINE]\n공격력을 일정 시간 상승하는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1757128,
+            "string": "[Sign_8]マインドマテリアル[END]",
+            "translation": "[Sign_8]마인드 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1757040,
+            "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\n術攻撃力を一定時間上昇する宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, 전투 중, [Square_ani2]＋[Down_blink]로,[LINE]\n술 공격력을 일정 시간 상승하는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1757008,
+            "string": "[Sign_8]プロテクトマテリアル[END]",
+            "translation": "[Sign_8]프로텍트 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1756928,
+            "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\n防御力を一定時間上昇する宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, 전투 중, [Square_ani2]＋[Down_blink]로,[LINE]\n방어력을 일정 시간 상승하는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1756904,
+            "string": "[Sign_8]レジストマテリアル[END]",
+            "translation": "[Sign_8]레지스트 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1756816,
+            "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\n術防御力を一定時間上昇する宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, 전투 중, [Square_ani2]＋[Down_blink]로,[LINE]\n술 방어력을 일정 시간 상승하는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1756792,
+            "string": "[Sign_8]リカバーマテリアル[END]",
+            "translation": "[Sign_8]리커버 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1756704,
+            "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\n高確率で状態異常を解除する宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, 전투 중, [Square_ani2]＋[Down_blink]로,[LINE]\n고확률로 상태이상을 해제하는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1756680,
+            "string": "[Sign_8]チェインマテリアル[END]",
+            "translation": "[Sign_8]체인 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1756608,
+            "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\nＣＣを１加算する宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, 전투 중, [Square_ani2]＋[Down_blink]로,[LINE]\nCC를 1 추가하는 보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1756576,
+            "string": "[Sign_8]フラッシュマテリアル[END]",
+            "translation": "[Sign_8]플래시 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1756496,
+            "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\n短時間完全回避する宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, 전투 중, [Square_ani2]＋[Down_blink]로,[LINE]\n단시간 완전 회피하는 보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1756472,
+            "string": "[Sign_8]ブラストマテリアル[END]",
+            "translation": "[Sign_8]블라스트 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1756392,
+            "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\nブラストゲージを加算する宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, 전투 중, [Square_ani2]＋[Down_blink]로,[LINE]\n블라스트 게이지를 추가하는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1756368,
+            "string": "[Sign_8]サプライマテリアル[END]",
+            "translation": "[Sign_8]서플라이 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1756280,
+            "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\n自分以外の味方のＣＣを[LINE]\n加算させる宝石に変化する。[END]",
+            "translation": "리라이즈로, 전투 중, [Square_ani2]＋[Down_blink]로,[LINE]\n자신 이외의 아군의 CC를[LINE]\n추가하는 보석으로 변화한다.[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1756256,
+            "string": "[Sign_8]キュアマテリアル[END]",
+            "translation": "[Sign_8]큐어 머티리얼[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1756184,
+            "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\nＨＰを回復する宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, 전투 중, [Square_ani2]＋[Down_blink]로,[LINE]\nHP를 회복하는 보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1756152,
+            "string": "[Sign_8]フィジカルマテリアル[END]",
+            "translation": "[Sign_8]피지컬 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1756064,
+            "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\n敵の防御を崩す攻撃判定が[LINE]\n発生する宝石に変化する。[END]",
+            "translation": "리라이즈로, 전투 중, [Square_ani2]＋[Down_blink]로,[LINE]\n적의 방어를 무너뜨리는 공격 판정이[LINE]\n발생하는 보석으로 변화한다.[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87
+        },
+        {
+            "offset": 1756032,
+            "string": "[Sign_8]ディスペルマテリアル[END]",
+            "translation": "[Sign_8]디스펠 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1755952,
+            "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\n減少効果を打ち消す宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, 전투 중, [Square_ani2]＋[Down_blink]로,[LINE]\n감소 효과를 상쇄하는 보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1755928,
+            "string": "[Sign_8]ライズマテリアル[END]",
+            "translation": "[Sign_8]라이즈 머티리얼[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1755872,
+            "string": "リライズで、最小ＣＣを１増やす[LINE]\n宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, 최소 CC를 1 증가하는[LINE]\n보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1755840,
+            "string": "[Sign_8]エクシードマテリアル[END]",
+            "translation": "[Sign_8]엑시드 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1755784,
+            "string": "リライズで、最大ＣＣを１増やす[LINE]\n宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, 최대 CC를 1 증가하는[LINE]\n보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1755752,
+            "string": "[Sign_8]ゼクシードマテリアル[END]",
+            "translation": "[Sign_8]제크시드 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1755696,
+            "string": "リライズで、最大ＣＣを２増やす[LINE]\n宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, 최대 CC를 2 증가하는[LINE]\n보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1755664,
+            "string": "[Sign_8]バリアブルマテリアル[END]",
+            "translation": "[Sign_8]베리어블 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1755600,
+            "string": "リライズで、最小ＣＣと最大ＣＣを[LINE]\n１増やす宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, 최소 CC와 최대 CC를[LINE]\n1 증가하는 보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1755568,
+            "string": "[Sign_8]フィックスマテリアル[END]",
+            "translation": "[Sign_8]픽스 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1755512,
+            "string": "リライズで、ＣＣを常に１５にする[LINE]\n宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, CC를 항상 15로 하는[LINE]\n보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1755488,
+            "string": "[Sign_8]フラットマテリアル[END]",
+            "translation": "[Sign_8]플랫 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1755432,
+            "string": "リライズで、ＣＣを平均で固定に[LINE]\nする宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, CC를 평균으로 고정하는[LINE]\n보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1755400,
+            "string": "[Sign_8]チェイサーマテリアル[END]",
+            "translation": "[Sign_8]체이서 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1755336,
+            "string": "リライズで、クリティカル時に[LINE]\nＣＣを＋１する宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, 크리티컬 시에[LINE]\nCC를 +1 하는 보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1755312,
+            "string": "[Sign_8]ホーリィマテリアル[END]",
+            "translation": "[Sign_8]홀리 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1755248,
+            "string": "リライズで、一定時間毎に[LINE]\nＨＰが微量回復する宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, 일정 시간마다[LINE]\nHP가 미량 회복하는 보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1755224,
+            "string": "[Sign_8]ゲインマテリアル[END]",
+            "translation": "[Sign_8]게인 머티리얼[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1755160,
+            "string": "リライズで、敵を倒したときに、[LINE]\nＨＰが回復する宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, 적을 쓰러트렸을 때,[LINE]\nHP가 회복하는 보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1755136,
+            "string": "[Sign_8]ラピッドマテリアル[END]",
+            "translation": "[Sign_8]래피드 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1755072,
+            "string": "リライズで、敵を倒したときに、[LINE]\nＣＣを＋２する宝石に変化する。[LINE]\n[END]",
+            "translation": "리라이즈로, 적을 쓰러트렸을 때,[LINE]\nCC를 +2 하는 보석으로 변화한다.[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1755040,
+            "string": "[Sign_8]テンションマテリアル[END]",
+            "translation": "[Sign_8]텐션 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1754960,
+            "string": "リライズで、敵を倒したときに、[LINE]\nブラストゲージが加算される宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, 적을 쓰러트렸을 때,[LINE]\n블라스트 게이지가 추가되는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1754928,
+            "string": "[Sign_8]アドバンスマテリアル[END]",
+            "translation": "[Sign_8]어드밴스 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1754856,
+            "string": "リライズで、エイミングダッシュ中[LINE]\n物理攻撃を防御できる宝石に[LINE]\n変化する。[END]",
+            "translation": "리라이즈로, 에이밍 대쉬 중[LINE]\n물리 공격을 방어할 수 있는 보석으로[LINE]\n변화한다.[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1754824,
+            "string": "[Sign_8]ストリクトマテリアル[END]",
+            "translation": "[Sign_8]스트릭트 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1754728,
+            "string": "リライズで、フラッシュガード[LINE]\n（敵の攻撃をひきつけてガード）[LINE]\nでＣＣが２加算する宝石に変化する。[END]",
+            "translation": "리라이즈로, 플래시 가드[LINE]\n(적의 공격을 끌어들여 가드)[LINE]\n로 CC가 2 추가하는 보석으로 변화한다.[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95
+        },
+        {
+            "offset": 1754696,
+            "string": "[Sign_8]アブソーブマテリアル[END]",
+            "translation": "[Sign_8]앱소브 머티리얼[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1754600,
+            "string": "リライズで、フラッシュガード[LINE]\n（敵の攻撃をひきつけてガード）[LINE]\nでＨＰが回復する宝石に変化する。[END]",
+            "translation": "리라이즈로, 플래시 가드[LINE]\n(적의 공격을 끌어들여 가드)[LINE]\n로 HP가 회복하는 보석으로 변화한다.[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95
+        },
+        {
+            "offset": 1754576,
+            "string": "[Sign_8]デモンズマテリアル[END]",
+            "translation": "[Sign_8]데몬즈 머티리얼[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1754512,
+            "string": "リライズで、獲得経験値が２倍に[LINE]\nなる宝石に変化する。ただし……[LINE]\n[END]",
+            "translation": "리라이즈로, 획득 경험치가 2배로[LINE]\n되는 보석으로 변화한다. 다만……[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1754488,
+            "string": "[Sign_8]エッジマテリアル[END]",
+            "translation": "[Sign_8]에지 머티리얼[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        }
+    ]
+}
