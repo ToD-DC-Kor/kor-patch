@@ -684,7 +684,7 @@
             "string": "目指すは外殻大地[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "목표는 외껍질 대지[END]"
+            "translation": "목표는 외각 대지[END]"
         },
         {
             "offset": 1680232,
@@ -719,7 +719,7 @@
             "string": "再びセインガルドへ[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "다시 세인갈드로[END]"
+            "translation": "다시 세인가르드로[END]"
         },
         {
             "offset": 1680320,
@@ -1664,7 +1664,7 @@
             "string": "イレーヌ……仇はとったぞ……[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "일레네… 복수는 했다…[END]"
+            "translation": "일레느… 복수는 했다…[END]"
         },
         {
             "offset": 1686536,
@@ -5479,7 +5479,7 @@
             "string": "ヘルレイオス・対イレーヌ戦[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "헬레리오스・이레느 전투[END]"
+            "translation": "헬레리오스・일레느 전투[END]"
         },
         {
             "offset": 1715264,
@@ -5598,7 +5598,7 @@
             "string": "ダリルシェイド街中・外殻完全閉じ後[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
-            "translation": "다릴쉐이드 거리・외껍질 완전 폐쇄 후[END]"
+            "translation": "다릴쉐이드 거리・외각 완전 폐쇄 후[END]"
         },
         {
             "offset": 1715776,
@@ -5633,28 +5633,28 @@
             "string": "クレスタ（外殻完成後）・孤児院前[END]",
             "original_bytes_length": 33,
             "available_bytes_size": 39,
-            "translation": "크레스타(외껍질 완성 후)・고아원 앞[END]"
+            "translation": "크레스타(외각 완성 후)・고아원 앞[END]"
         },
         {
             "offset": 1715960,
             "string": "外殻第三段階上・通路[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "외껍질 3단계 위・통로[END]"
+            "translation": "외각 3단계 위・통로[END]"
         },
         {
             "offset": 1715984,
             "string": "外殻第二段階上・通路[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "외껍질 2단계 위・통로[END]"
+            "translation": "외각 2단계 위・통로[END]"
         },
         {
             "offset": 1716008,
             "string": "外殻第一段階上・通路[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "외껍질 1단계 위・통로[END]"
+            "translation": "외각 1단계 위・통로[END]"
         },
         {
             "offset": 1716032,
@@ -5696,14 +5696,14 @@
             "string": "ハイデルベルグ城・通路2外殻後[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "하이델베르크 성・통로 2 외껍질 후[END]"
+            "translation": "하이델베르크 성・통로 2 외각 후[END]"
         },
         {
             "offset": 1716208,
             "string": "ハイデルベルグ城・通路1外殻前[END]",
             "original_bytes_length": 32,
             "available_bytes_size": 32,
-            "translation": "하이델베르크 성・통로 1 외껍질 전[END]"
+            "translation": "하이델베르크 성・통로 1 외각 전[END]"
         },
         {
             "offset": 1716240,
@@ -6704,14 +6704,14 @@
             "string": "にせコングマン戦[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "가짜 콩그맨 전투[END]"
+            "translation": "가짜 콩맨 전투[END]"
         },
         {
             "offset": 1720504,
             "string": "マイティ・コングマン戦[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "마이티 콩그맨 전투[END]"
+            "translation": "마이티 콩맨 전투[END]"
         },
         {
             "offset": 1720528,
@@ -6921,14 +6921,14 @@
             "string": "ミクトランイグゼシブ戦[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "미크트란 이그제시브 전투[END]"
+            "translation": "믹트란 이그제시브 전투[END]"
         },
         {
             "offset": 1721288,
             "string": "ミクトラン戦[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "미크트란 전투[END]"
+            "translation": "믹트란 전투[END]"
         },
         {
             "offset": 1721304,
@@ -7012,7 +7012,7 @@
             "string": "ダリルシェイド・天上軍兵器戦１[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "다릴 쉐이드・천상군 무기 전투 1[END]"
+            "translation": "다릴쉐이드・천상군 무기 전투 1[END]"
         },
         {
             "offset": 1721632,
@@ -7054,14 +7054,14 @@
             "string": "ファンダリアF3(ハイデルベルグ周辺)[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
-            "translation": "판다리아 F3 (하이델베르크 주변)[END]"
+            "translation": "팬더리아 F3 (하이델베르크 주변)[END]"
         },
         {
             "offset": 1721816,
             "string": "ファンダリアF3(ジェノス周辺）[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "판다리아 F3 (제노스 주변)[END]"
+            "translation": "팬더리아 F3 (제노스 주변)[END]"
         },
         {
             "offset": 1721848,
@@ -7096,7 +7096,7 @@
             "string": "ミクトラン敗戦[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "미크트란 패배[END]"
+            "translation": "믹트란 패배[END]"
         },
         {
             "offset": 1722016,
@@ -7117,7 +7117,7 @@
             "string": "レンブラント戦[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "렌브란트 전투[END]"
+            "translation": "렘브란트 전투[END]"
         },
         {
             "offset": 1722064,
@@ -7327,14 +7327,14 @@
             "string": "ファンダリアF2[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "판다리아 F2[END]"
+            "translation": "팬더리아 F2[END]"
         },
         {
             "offset": 1722856,
             "string": "ファンダリアF2(ジェノス周辺）[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "판다리아 F2 (제노스 주변)[END]"
+            "translation": "팬더리아 F2 (제노스 주변)[END]"
         },
         {
             "offset": 1722888,
@@ -7397,7 +7397,7 @@
             "string": "ファンダリアF1[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "판다리아 F1[END]"
+            "translation": "팬더리아 F1[END]"
         },
         {
             "offset": 1723120,
@@ -7502,7 +7502,7 @@
             "string": "コングマン戦[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "콩그맨 전투[END]"
+            "translation": "콩맨 전투[END]"
         },
         {
             "offset": 1723424,
@@ -7642,7 +7642,7 @@
             "string": "ファンダリアF1(ジェノス周辺）[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "판다리아 F1 (제노스 주변)[END]"
+            "translation": "팬더리아 F1 (제노스 주변)[END]"
         },
         {
             "offset": 1724008,
@@ -7656,21 +7656,21 @@
             "string": "ファンダリアの山道(後半)[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "판다리아의 산길 (후반)[END]"
+            "translation": "팬더리아의 산길 (후반)[END]"
         },
         {
             "offset": 1724056,
             "string": "ファンダリアの山道(前半)[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "판다리아의 산길 (전반)[END]"
+            "translation": "팬더리아의 산길 (전반)[END]"
         },
         {
             "offset": 1724128,
             "string": "ねこにんの村[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "고양이닌의 마을[END]"
+            "translation": "고양이맨 마을[END]"
         },
         {
             "offset": 1724144,
@@ -8160,7 +8160,7 @@
             "string": "ねこにん基地A[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "고양이닌자 기지 A[END]"
+            "translation": "고양이맨 기지 A[END]"
         },
         {
             "offset": 1728272,
@@ -8867,28 +8867,28 @@
             "string": "ファンダリアの山道B(夜)[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "판다리아의 산길B(밤)[END]"
+            "translation": "팬더리아의 산길B(밤)[END]"
         },
         {
             "offset": 1730224,
             "string": "ファンダリアの山道A(夜)[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "판다리아의 산길A(밤)[END]"
+            "translation": "팬더리아의 산길A(밤)[END]"
         },
         {
             "offset": 1730248,
             "string": "ファンダリアの山道B[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "판다리아의 산길B[END]"
+            "translation": "팬더리아의 산길B[END]"
         },
         {
             "offset": 1730272,
             "string": "ファンダリアの山道A[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "판다리아의 산길A[END]"
+            "translation": "팬더리아의 산길A[END]"
         },
         {
             "offset": 1730296,
@@ -8951,7 +8951,7 @@
             "string": "ファンダリアの山道[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "판다리아의 산길[END]"
+            "translation": "팬더리아의 산길[END]"
         },
         {
             "offset": 1730776,
@@ -9028,7 +9028,7 @@
             "string": "ファンダリア東部と西部をつなぐ雪深い森。[END]",
             "original_bytes_length": 41,
             "available_bytes_size": 47,
-            "translation": "판다리아 동부와 서부를 잇는 눈이 깊은 숲.[END]"
+            "translation": "팬더리아 동부와 서부를 잇는 눈이 깊은 숲.[END]"
         },
         {
             "offset": 1731416,
@@ -9119,7 +9119,7 @@
             "string": "ファンダリアの東部にある港町。[LINE]\n温泉があるため、他国からも湯治目的の[LINE]\n観光客が訪れる。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "판다리아의 동부에 위치한 항구 도시.[LINE]\n온천이 있어, 다른 나라에서도 요양을 목적으로[LINE]\n관광객이 방문함.[END]"
+            "translation": "팬더리아의 동부에 위치한 항구 도시.[LINE]\n온천이 있어, 다른 나라에서도 요양을 목적으로[LINE]\n관광객이 방문함.[END]"
         },
         {
             "offset": 1732000,
@@ -9133,7 +9133,7 @@
             "string": "ファンダリアの南部にある街。[LINE]\n２年前に王家の軍が派遣されて街は戦場と[LINE]\n化したが、現在は復興を遂げている。[END]",
             "original_bytes_length": 103,
             "available_bytes_size": 103,
-            "translation": "판다리아의 남부에 위치한 도시.[LINE]\n2년 전 왕가의 군대가 파견되어 도시는 전장이 되었지만,[LINE]\n현재는 복구를 이루고 있다.[END]"
+            "translation": "팬더리아의 남부에 위치한 도시.[LINE]\n2년 전 왕가의 군대가 파견되어 도시는 전장이 되었지만,[LINE]\n현재는 복구를 이루고 있다.[END]"
         },
         {
             "offset": 1732136,
@@ -9315,7 +9315,7 @@
             "string": "ファンダリアの首都。[LINE]\n整備された町並みに降り積もる雪が[LINE]\n人々の喧騒を吸収してくれる。[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "판다리아의 수도.[LINE]\n정비된 거리 위에 쌓인 눈이[LINE]\n사람들의 소란을 흡수해준다.[END]"
+            "translation": "팬더리아의 수도.[LINE]\n정비된 거리 위에 쌓인 눈이[LINE]\n사람들의 소란을 흡수해준다.[END]"
         },
         {
             "offset": 1733624,
@@ -9329,7 +9329,7 @@
             "string": "ファンダリアの北部にある国境の街。[LINE]\nジェノスを境に南がファンダリア、[LINE]\n北がセインガルドの領土に分かれている。[END]",
             "original_bytes_length": 107,
             "available_bytes_size": 111,
-            "translation": "판다리아의 북부에 위치한 국경 도시.[LINE]\n제노스를 경계로 남쪽은 판다리아,[LINE]\n북쪽은 세인갈드의 영토로 나뉘어 있다.[END]"
+            "translation": "팬더리아의 북부에 위치한 국경 도시.[LINE]\n제노스를 경계로 남쪽은 팬더리아,[LINE]\n북쪽은 세인갈드의 영토로 나뉘어 있다.[END]"
         },
         {
             "offset": 1733768,
@@ -9357,7 +9357,7 @@
             "string": "ラディスロウのあった場所を[LINE]\nレンズ砲で打ち抜いてできた穴。[LINE]\n地上と外殻大地を繋ぐ唯一にして希望の道。[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "라디슬로우가 있었던 장소를[LINE]\n렌즈포로 쏘아 뚫린 구멍.[LINE]\n지상과 외껍질 대지를 연결하는 유일하고 희망의 길.[END]"
+            "translation": "라디슬로우가 있었던 장소를[LINE]\n렌즈포로 쏘아 뚫린 구멍.[LINE]\n지상과 외각 대지를 연결하는 유일하고 희망의 길.[END]"
         },
         {
             "offset": 1734024,
@@ -9371,14 +9371,14 @@
             "string": "外殻にきてしまったねこにんが造った基地。[END]",
             "original_bytes_length": 41,
             "available_bytes_size": 47,
-            "translation": "외껍질에 도착한 고양이족이 만든 기지.[END]"
+            "translation": "외각에 도착한 고양이맨이 만든 기지.[END]"
         },
         {
             "offset": 1734104,
             "string": "ねこにん基地[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "고양이족 기지[END]"
+            "translation": "고양이맨 기지[END]"
         },
         {
             "offset": 1734120,
@@ -9483,7 +9483,7 @@
             "string": "かつて勇名を馳せた船。[LINE]\n天地戦争で用いた電撃作戦を再び敢行して[LINE]\n外殻に浮上した。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "한때 명성을 떨쳤던 배.[LINE]\n천지 전쟁에서 사용한 전격 작전을 다시 감행하여[LINE]\n외껍질로 떠올랐다.[END]"
+            "translation": "한때 명성을 떨쳤던 배.[LINE]\n천지 전쟁에서 사용한 전격 작전을 다시 감행하여[LINE]\n외각으로 떠올랐다.[END]"
         },
         {
             "offset": 1734856,
@@ -9623,7 +9623,7 @@
             "string": "外殻で突然変異を起こした、動物や昆虫の[LINE]\n血を吸うカエル。[LINE]\n体は小さいが動きは遅い。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "외피에서 돌연변이를 일으킨, 동물이나 곤충의[LINE]\n피를 빨아먹는 개구리.[LINE]\n몸은 작지만 움직임은 느리다.[END]"
+            "translation": "외각에서 돌연변이를 일으킨, 동물이나 곤충의[LINE]\n피를 빨아먹는 개구리.[LINE]\n몸은 작지만 움직임은 느리다.[END]"
         },
         {
             "offset": 1736288,
@@ -9686,7 +9686,7 @@
             "string": "土砂と共に巻き上げられて外殻で突然変異を[LINE]\n起こしたネズミ。[LINE]\n長い体毛は常に濡れている。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "토사와 함께 휘말려 외피에서 돌연변이를[LINE]\n일으킨 쥐.[LINE]\n긴 털은 항상 젖어 있다.[END]"
+            "translation": "토사와 함께 휘말려 외각에서 돌연변이를[LINE]\n일으킨 쥐.[LINE]\n긴 털은 항상 젖어 있다.[END]"
         },
         {
             "offset": 1736904,
@@ -9763,14 +9763,14 @@
             "string": "なぜかはわからないが、イグナシーの[LINE]\n近くに、ファンダリア王家から所在が[LINE]\nわからなくなっていた宝があるらしい。[END]",
             "original_bytes_length": 107,
             "available_bytes_size": 111,
-            "translation": "왜인지는 모르겠지만, 이그나시 근처에, 판다리아 왕가의 행방불명[LINE]\n보물이 있다고 한다.[END]"
+            "translation": "왜인지는 모르겠지만, 이그나시 근처에, 팬더리아 왕가의 행방불명[LINE]\n보물이 있다고 한다.[END]"
         },
         {
             "offset": 1737688,
             "string": "エメラルドの原石に王の心得が刻まれた秘宝。[LINE]\n先の戦乱によってファンダリア王家から[LINE]\n消失し、行方がわからなくなっていた。[END]",
             "original_bytes_length": 117,
             "available_bytes_size": 119,
-            "translation": "에메랄드 원석에 왕의 마음가짐이 새겨진 비보.[LINE]\n이전의 전란으로 판다리아 왕가에서[LINE]\n사라져, 행방을 알 수 없게 되었다.[END]"
+            "translation": "에메랄드 원석에 왕의 마음가짐이 새겨진 비보.[LINE]\n이전의 전란으로 팬더리아 왕가에서[LINE]\n사라져, 행방을 알 수 없게 되었다.[END]"
         },
         {
             "offset": 1737808,
@@ -9910,7 +9910,7 @@
             "string": "ファンダリアとセインガルドを隔てている[LINE]\n川では、根性のある魚を見る事ができる[LINE]\nらしい。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "판다리아와 세인갈드를 가르는[LINE]\n강에서는, 근성이 있는 물고기를 볼 수 있다고 한다.[LINE]\n[END]"
+            "translation": "팬더리아와 세인갈드를 가르는[LINE]\n강에서는, 근성이 있는 물고기를 볼 수 있다고 한다.[LINE]\n[END]"
         },
         {
             "offset": 1739168,
@@ -10211,7 +10211,7 @@
             "string": "外殻で突然変異を起こしたミミズ。[LINE]\n色が黒く、俊敏な動きをする。[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "외피에서 갑작스러운 돌연변이를 일으킨 지렁이.[LINE]\n색이 검고, 민첩한 움직임을 한다.[LINE]\n[END]"
+            "translation": "외각에서 갑작스러운 돌연변이를 일으킨 지렁이.[LINE]\n색이 검고, 민첩한 움직임을 한다.[LINE]\n[END]"
         },
         {
             "offset": 1742216,
@@ -10687,7 +10687,7 @@
             "string": "緑の外殻には昆虫もいるらしい。[LINE]\n確か技術研究施設のある空中都市の近く[LINE]\nだったような気がしたそうだ。[END]",
             "original_bytes_length": 97,
             "available_bytes_size": 103,
-            "translation": "초록색 외피에는 곤충도 있는 것 같다.[LINE]\n확실히 기술 연구 시설이 있는 공중 도시 근처[LINE]\n였던 것 같은 기분이 든다고.[END]"
+            "translation": "초록색 외각에는 곤충도 있는 것 같다.[LINE]\n확실히 기술 연구 시설이 있는 공중 도시 근처[LINE]\n였던 것 같은 기분이 든다고.[END]"
         },
         {
             "offset": 1746968,
@@ -10988,49 +10988,49 @@
             "string": "リライズを行いたいマテリアルを選択します。[LINE]\n[turquoise]ポイズンマテリアル[/color]を選択してください。[END]",
             "original_bytes_length": 92,
             "available_bytes_size": 95,
-            "translation": "리라이즈를 진행할 재료를 선택합니다.[LINE]\n[turquoise]포이즌 재료[/color]를 선택해 주세요.[END]"
+            "translation": "리라이즈를 진행할 재료를 선택합니다.[LINE]\n[turquoise]포이즌 머티리얼[/color]을 선택해 주세요.[END]"
         },
         {
             "offset": 1751792,
             "string": "宝石のリライズは、武具のリライズと同じく[LINE]\n[yellow]リライズ[/color]メニューから行うことができます。[END]",
             "original_bytes_length": 92,
             "available_bytes_size": 95,
-            "translation": "보석의 리라이지는, 무기의 리라이지와 마찬가지로[LINE]\n[yellow]리라이지[/color] 메뉴에서 진행할 수 있습니다.[END]"
+            "translation": "보석의 리라이즈는, 무기의 리라이즈와 마찬가지로[LINE]\n[yellow]리라이즈[/color] 메뉴에서 진행할 수 있습니다.[END]"
         },
         {
             "offset": 1751888,
             "string": "[turquoise]宝石[/color]は[turquoise]マテリアル[/color]をリライズすることでのみ入手でき、[LINE]\nリライズの際には、攻撃力上昇や防御力上昇などの[LINE]\n[turquoise]特殊効果を加える[/color]ことができます。[END]",
             "original_bytes_length": 161,
             "available_bytes_size": 167,
-            "translation": "[turquoise]보석[/color]은[turquoise]재료[/color]를 리라이지함으로써만 획득할 수 있으며, [LINE]\n리라이즈 시에는 공격력 상승이나 방어력 상승 등의[LINE]\n[turquoise]특수 효과를 추가할 수 있습니다.[/color][END]"
+            "translation": "[turquoise]보석[/color]은[turquoise]재료[/color]를 리라이즈함으로써만 획득할 수 있으며, [LINE]\n리라이즈 시에는 공격력 상승이나 방어력 상승 등의[LINE]\n[turquoise]특수 효과를 추가할 수 있습니다.[/color][END]"
         },
         {
             "offset": 1752056,
             "string": "リライズを行うには、レンズのほかに[LINE]\n[yellow]パーティレベル[/color]が必要です。[LINE]\n[turquoise]各キャラのレベルを上げる[/color]ことで、[LINE]\nパーティレベルも上がります。[LINE]\n強力な武具ほど必要なパーティレベルが高く、[LINE]\nこれを満たすことでリライズができるようになります。[END]",
             "original_bytes_length": 238,
             "available_bytes_size": 239,
-            "translation": "리라이지를 진행하려면, 렌즈 외에[LINE]\n[yellow]파티 레벨[/color]이 필요합니다.[LINE]\n[turquoise]각 캐릭터의 레벨을 올리는[/color] 것으로,[LINE]\n파티 레벨도 올라갑니다.[LINE]\n강력한 무구일수록 필요한 파티 레벨이 높고,[LINE]\n이를 충족함으로써 리라이지가 가능해집니다.[END]"
+            "translation": "리라이즈를 진행하려면, 렌즈 외에[LINE]\n[yellow]파티 레벨[/color]이 필요합니다.[LINE]\n[turquoise]각 캐릭터의 레벨을 올리는[/color] 것으로,[LINE]\n파티 레벨도 올라갑니다.[LINE]\n강력한 무구일수록 필요한 파티 레벨이 높고,[LINE]\n이를 충족함으로써 리라이즈가 가능해집니다.[END]"
         },
         {
             "offset": 1752296,
             "string": "あとはリライズ後の武具を選ぶだけです。[LINE]\n好きな装備品を選んでください。[END]",
             "original_bytes_length": 70,
             "available_bytes_size": 71,
-            "translation": "이제 리라이지 후의 무구를 선택하기만 하면 됩니다.[LINE]\n원하는 장비를 선택해 주세요.[END]"
+            "translation": "이제 리라이즈 후의 무구를 선택하기만 하면 됩니다.[LINE]\n원하는 장비를 선택해 주세요.[END]"
         },
         {
             "offset": 1752368,
             "string": "リライズを行いたい武具を選択します。[LINE]\n[turquoise]スタン[/color]が装備中の[turquoise]レザーアーマー[/color]を選択してください。[END]",
             "original_bytes_length": 108,
             "available_bytes_size": 111,
-            "translation": "리라이지를 진행할 무구를 선택합니다.[LINE]\n[turquoise]스탄[/color]이 장착 중인[turquoise]가죽 갑옷[/color]을 선택해 주세요.[END]"
+            "translation": "리라이즈를 진행할 무구를 선택합니다.[LINE]\n[turquoise]스탄[/color]이 장착 중인[turquoise]레더 아머[/color]를 선택해 주세요.[END]"
         },
         {
             "offset": 1752480,
             "string": "[yellow]リライズ[/color]を選択してください。[END]",
             "original_bytes_length": 39,
             "available_bytes_size": 39,
-            "translation": "[yellow]리라이지[/color]를 선택해 주세요.[END]"
+            "translation": "[yellow]리라이즈[/color]를 선택해 주세요.[END]"
         },
         {
             "offset": 1752520,
@@ -11394,7 +11394,7 @@
             "string": "ねこにんの村[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "고양이닌 마을[END]"
+            "translation": "고양이맨 마을[END]"
         },
         {
             "offset": 1815824,
@@ -13060,21 +13060,21 @@
             "string": "雪国ファンダリアの王。[LINE]\n賢王イザークの後を継ぎ、[LINE]\n国と国民の頂点に鎮座する。[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "눈의 나라 판다리아의 왕.[LINE]\n현명한 왕 이자크의 뒤를 이어,[LINE]\n국과 국민의 정점에 군림한다.[END]"
+            "translation": "눈의 나라 팬더리아의 왕.[LINE]\n현명한 왕 이자크의 뒤를 이어,[LINE]\n국과 국민의 정점에 군림한다.[END]"
         },
         {
             "offset": 1825720,
             "string": "ファンダリア王[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "판다리아 왕[END]"
+            "translation": "팬더리아 왕[END]"
         },
         {
             "offset": 1825736,
             "string": "ファンダリア王イザークの息子。[LINE]\n文武両道にくわえ眉目秀麗と、[LINE]\nまさに、国の象徴的な存在。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "판다리아 왕 이자크의 아들.[LINE]\n문무를 겸비하고 용모도 빼어나,[LINE]\n정말로, 나라의 상징적인 존재.[END]"
+            "translation": "팬더리아 왕 이자크의 아들.[LINE]\n문무를 겸비하고 용모도 빼어나,[LINE]\n정말로, 나라의 상징적인 존재.[END]"
         },
         {
             "offset": 1825824,
@@ -16516,7 +16516,7 @@
         {
             "offset": 1722160,
             "string": "イレーヌ[END]",
-            "translation": "이레인[END]",
+            "translation": "일레느[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
