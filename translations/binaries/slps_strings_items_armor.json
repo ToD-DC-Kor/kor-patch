@@ -684,7 +684,7 @@
             "string": "天頂の名を冠する胸当て。[LINE]\n触れることすら叶わない。羽のよう[LINE]\nに軽く、光と風の守護を得る。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "천정이라는 이름이 붙은 흉갑.[LINE]\n적의 공격은 스치지도 않는다.[LINE]\n깃털처럼 가볍고, 빛과 바람의 수호를 받는다.[END]"
+            "translation": "천정이라는 이름이 붙은 흉갑.[LINE]\n손댈 수 없을 만큼 귀하다.[LINE]\n깃털처럼 가볍고, 빛과 바람의 수호를 받는다.[END]"
         },
         {
             "offset": 1788776,
@@ -978,7 +978,7 @@
             "string": "[Sign_Shield]レザークローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]레더 클라우크[END]"
+            "translation": "[Sign_Shield]레더 클로크[END]"
         },
         {
             "offset": 1786544,
@@ -992,7 +992,7 @@
             "string": "[Sign_Shield]ホワイトクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]화이트 클라우크[END]"
+            "translation": "[Sign_Shield]화이트 클로크[END]"
         },
         {
             "offset": 1786456,
@@ -1006,7 +1006,7 @@
             "string": "[Sign_Shield]フェザークローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]페더 클라우크[END]"
+            "translation": "[Sign_Shield]페더 클로크[END]"
         },
         {
             "offset": 1786376,
@@ -1020,7 +1020,7 @@
             "string": "[Sign_Shield]ブラッククローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]블랙 클라우크[END]"
+            "translation": "[Sign_Shield]블랙 클로크[END]"
         },
         {
             "offset": 1786288,
@@ -1034,7 +1034,7 @@
             "string": "[Sign_Shield]シルククローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]실크 클라우크[END]"
+            "translation": "[Sign_Shield]실크 클로크[END]"
         },
         {
             "offset": 1786192,
@@ -1048,7 +1048,7 @@
             "string": "[Sign_Shield]シルバークローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]실버 클라우크[END]"
+            "translation": "[Sign_Shield]실버 클로크[END]"
         },
         {
             "offset": 1786112,
@@ -1062,7 +1062,7 @@
             "string": "[Sign_Shield]ゴールドクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]골드 클라우크[END]"
+            "translation": "[Sign_Shield]골드 클로크[END]"
         },
         {
             "offset": 1786032,
@@ -1076,7 +1076,7 @@
             "string": "[Sign_Shield]ミスリルクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]미스릴 클라우크[END]"
+            "translation": "[Sign_Shield]미스릴 클로크[END]"
         },
         {
             "offset": 1785936,
@@ -1090,7 +1090,7 @@
             "string": "[Sign_Shield]メッシュクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]메쉬 클라우크[END]"
+            "translation": "[Sign_Shield]메쉬 클로크[END]"
         },
         {
             "offset": 1785848,
@@ -1104,21 +1104,21 @@
             "string": "[Sign_Shield]メイジクローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]메이지 클라우크[END]"
+            "translation": "[Sign_Shield]메이지 클로크[END]"
         },
         {
             "offset": 1785760,
             "string": "術士のために作られたクローク。[LINE]\n身に付けた者の精神力を高める。[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "마법사를 위해 만들어진 외투.[LINE]\n착용자의 정신력을 높여준다.[LINE]\n[END]"
+            "translation": "술사를 위해 만들어진 외투.[LINE]\n착용자의 정신력을 높여준다.[LINE]\n[END]"
         },
         {
             "offset": 1785736,
             "string": "[Sign_Shield]ファンシークローク[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "[Sign_Shield]팬시 클라우크[END]"
+            "translation": "[Sign_Shield]팬시 클로크[END]"
         },
         {
             "offset": 1785656,
@@ -1132,7 +1132,7 @@
             "string": "[Sign_Shield]ムーンクローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]문 클라우크[END]"
+            "translation": "[Sign_Shield]문 클로크[END]"
         },
         {
             "offset": 1785568,
@@ -1146,7 +1146,7 @@
             "string": "[Sign_Shield]スタークローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]스타 클라우크[END]"
+            "translation": "[Sign_Shield]스타 클로크[END]"
         },
         {
             "offset": 1785464,
@@ -1160,7 +1160,7 @@
             "string": "[Sign_Shield]ウォーロッククローク[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Sign_Shield]워록 클라우크[END]"
+            "translation": "[Sign_Shield]워록 클로크[END]"
         },
         {
             "offset": 1785344,
@@ -1174,7 +1174,7 @@
             "string": "[Sign_Shield]スピリットクローク[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "[Sign_Shield]스피릿 클라우크[END]"
+            "translation": "[Sign_Shield]스피릿 클로크[END]"
         },
         {
             "offset": 1785248,
@@ -1188,14 +1188,14 @@
             "string": "[Sign_Shield]レアクローク[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]레어 클라우크[END]"
+            "translation": "[Sign_Shield]레어 클로크[END]"
         },
         {
             "offset": 1785200,
             "string": "[Sign_Shield]アンバークローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]앰버 클라우크[END]"
+            "translation": "[Sign_Shield]앰버 클로크[END]"
         },
         {
             "offset": 1785128,
@@ -1209,7 +1209,7 @@
             "string": "[Sign_Shield]ホーリィクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]홀리 클라우크[END]"
+            "translation": "[Sign_Shield]홀리 클로크[END]"
         },
         {
             "offset": 1785024,
@@ -1223,7 +1223,7 @@
             "string": "[Sign_Shield]エルダークローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]엘더 클라우크[END]"
+            "translation": "[Sign_Shield]엘더 클로크[END]"
         },
         {
             "offset": 1784912,
@@ -1237,7 +1237,7 @@
             "string": "[Sign_Shield]ミスティクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]미스티 클라우크[END]"
+            "translation": "[Sign_Shield]미스티 클로크[END]"
         },
         {
             "offset": 1784824,
@@ -1251,7 +1251,7 @@
             "string": "[Sign_Shield]ルーンクローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]룬 클라우크[END]"
+            "translation": "[Sign_Shield]룬 클로크[END]"
         },
         {
             "offset": 1784704,
@@ -1265,21 +1265,21 @@
             "string": "[Sign_Shield]ウィッチクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]위치 클라우크[END]"
+            "translation": "[Sign_Shield]위치 클로크[END]"
         },
         {
             "offset": 1784584,
             "string": "位の高い術士が着るクローク。[LINE]\n精神量を増加させ、練りこまれた[LINE]\n呪術が敵の攻撃から身を守る。[END]",
             "original_bytes_length": 89,
             "available_bytes_size": 95,
-            "translation": "지위가 높은 마법사가 착용하는 외투.[LINE]\n정신량을 증가시키고, 정교한 주술이[LINE]\n적의 공격으로부터 몸을 지켜준다.[END]"
+            "translation": "지위가 높은 술사가 착용하는 외투.[LINE]\n정신량을 증가시키고, 정교한 주술이[LINE]\n적의 공격으로부터 몸을 지켜준다.[END]"
         },
         {
             "offset": 1784560,
             "string": "[Sign_Shield]プリズムクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]프리즘 클라우크[END]"
+            "translation": "[Sign_Shield]프리즘 클로크[END]"
         },
         {
             "offset": 1784496,
@@ -1293,7 +1293,7 @@
             "string": "[Sign_Shield]グリムクローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]그림 클라우크[END]"
+            "translation": "[Sign_Shield]그림 클로크[END]"
         },
         {
             "offset": 1784384,
@@ -1405,7 +1405,7 @@
             "string": "[Sign_Shield]ネージアクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]네이더 클라우크[END]"
+            "translation": "[Sign_Shield]네이더 클로크[END]"
         },
         {
             "offset": 1783560,
@@ -1524,7 +1524,7 @@
             "string": "術士のために作られたローブ。[LINE]\n身に付けた者の精神力を高める。[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "마법사를 위해 만들어진 로브.[LINE]\n착용자의 정신력을 높여준다.[LINE]\n[END]"
+            "translation": "술사를 위해 만들어진 로브.[LINE]\n착용자의 정신력을 높여준다.[LINE]\n[END]"
         },
         {
             "offset": 1782848,
@@ -1671,7 +1671,7 @@
             "string": "位の高い術士が着るローブ。[LINE]\n精神量を増加させ、練りこまれた[LINE]\n呪術が敵の攻撃から身を守る。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "지위가 높은 마법사가 착용하는 로브.[LINE]\n정신량을 증가시키고, 정교한 주술이[LINE]\n적의 공격으로부터 몸을 지켜준다.[END]"
+            "translation": "지위가 높은 술사가 착용하는 로브.[LINE]\n정신량을 증가시키고, 정교한 주술이[LINE]\n적의 공격으로부터 몸을 지켜준다.[END]"
         },
         {
             "offset": 1781808,
