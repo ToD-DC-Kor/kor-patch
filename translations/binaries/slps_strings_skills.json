@@ -38,7 +38,7 @@
         {
             "offset": 1692808,
             "string": "[Sign_10]バリアー[END]",
-            "translation": "[Sign_10]바리어[END]",
+            "translation": "[Sign_10]배리어[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15
         },
@@ -1335,7 +1335,7 @@
             "string": "[Sign_5]星覇[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "[Sign_5]별패[END]"
+            "translation": "[Sign_5]성패[END]"
         },
         {
             "offset": 1700256,
