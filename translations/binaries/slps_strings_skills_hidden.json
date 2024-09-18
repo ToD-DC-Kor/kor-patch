@@ -264,14 +264,14 @@
             "string": "[Sign_7]斬空天翔剣[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_7]잔공천상검[END]"
+            "translation": "[Sign_7]참공천상검[END]"
         },
         {
             "offset": 1689824,
             "string": "[Sign_7]緋凰絶炎衝[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_7]피황절염충[END]"
+            "translation": "[Sign_7]비황절염충[END]"
         },
         {
             "offset": 1689840,
@@ -285,7 +285,7 @@
             "string": "[Sign_7]ゴッツァブロゥ[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]고츠아브로우[END]"
+            "translation": "[Sign_7]갓챠블로우[END]"
         },
         {
             "offset": 1689952,
@@ -411,7 +411,7 @@
             "string": "[Sign_7]刹華斬[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "[Sign_7]설화참[END]"
+            "translation": "[Sign_7]찰화참[END]"
         },
         {
             "offset": 1690800,
@@ -453,7 +453,7 @@
             "string": "[Sign_7]裂衝蒼破塵[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_7]열충청파진[END]"
+            "translation": "[Sign_7]열충창파진[END]"
         },
         {
             "offset": 1691056,
@@ -495,7 +495,7 @@
             "string": "[Sign_7]セイクリッドブレイム[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Sign_7]세이크리드블레임[END]"
+            "translation": "[Sign_7]세이크리드브레임[END]"
         },
         {
             "offset": 1691408,
@@ -537,7 +537,7 @@
             "string": "[Sign_7]トリックスター[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]트릭스터[END]"
+            "translation": "[Sign_7]트릭스타[END]"
         },
         {
             "offset": 1691744,

@@ -24,7 +24,7 @@
         {
             "offset": 1692704,
             "string": "[Sign_10]シャープネス[END]",
-            "translation": "[Sign_10]샵네스[END]",
+            "translation": "[Sign_10]샤프네스[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -66,7 +66,7 @@
         {
             "offset": 1692968,
             "string": "[Sign_6]アシッドレイン[END]",
-            "translation": "[Sign_6]애시드레인[END]",
+            "translation": "[Sign_6]애시드 레인[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -94,7 +94,7 @@
         {
             "offset": 1693160,
             "string": "[Sign_6]ピコピコハンマー[END]",
-            "translation": "[Sign_6]피코피코망치[END]",
+            "translation": "[Sign_6]피코피코 해머[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -150,7 +150,7 @@
         {
             "offset": 1693472,
             "string": "[Sign_10]アンチドート[END]",
-            "translation": "[Sign_10]안티독트[END]",
+            "translation": "[Sign_10]안티도트[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -388,7 +388,7 @@
         {
             "offset": 1694704,
             "string": "[Sign_6]サンダーブレード[END]",
-            "translation": "[Sign_6]선더블레이드[END]",
+            "translation": "[Sign_6]썬더 블레이드[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -472,7 +472,7 @@
         {
             "offset": 1695160,
             "string": "[Sign_6]ストーンブラスト[END]",
-            "translation": "[Sign_6]스톤블라스트[END]",
+            "translation": "[Sign_6]스톤블래스트[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -486,7 +486,7 @@
         {
             "offset": 1695240,
             "string": "[Sign_6]ゴッドブレス[END]",
-            "translation": "[Sign_6]갓블레스[END]",
+            "translation": "[Sign_6]갓브레스[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -514,7 +514,7 @@
         {
             "offset": 1695400,
             "string": "[Sign_6]エアスラスト[END]",
-            "translation": "[Sign_6]에어슬러스트[END]",
+            "translation": "[Sign_6]에어스라스트[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -584,7 +584,7 @@
         {
             "offset": 1695776,
             "string": "[Sign_6]タイダルウェーブ[END]",
-            "translation": "[Sign_6]타이달웨이브[END]",
+            "translation": "[Sign_6]타이달 웨이브[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -682,7 +682,7 @@
         {
             "offset": 1696320,
             "string": "[Sign_6]エクスプロード[END]",
-            "translation": "[Sign_6]엑스플로드[END]",
+            "translation": "[Sign_6]익스플로드[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -696,7 +696,7 @@
         {
             "offset": 1696384,
             "string": "[Sign_6]フレアトルネード[END]",
-            "translation": "[Sign_6]플레어토네이드[END]",
+            "translation": "[Sign_6]플레어토네이도[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -752,7 +752,7 @@
         {
             "offset": 1696696,
             "string": "[Sign_6]イラプション[END]",
-            "translation": "[Sign_6]이라프션[END]",
+            "translation": "[Sign_6]이럽션[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -780,7 +780,7 @@
         {
             "offset": 1696848,
             "string": "[Sign_4]まんぼうストライド[END]",
-            "translation": "[Sign_4]만보스트라이드[END]",
+            "translation": "[Sign_4]개복치 스트라이드[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1475,7 +1475,7 @@
             "string": "[Sign_5]迅雷[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "[Sign_5]질뢰[END]"
+            "translation": "[Sign_5]신뢰[END]"
         },
         {
             "offset": 1700840,
@@ -1531,7 +1531,7 @@
             "string": "[Sign_4]瞬刃狼牙[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_4]순검늑牙[END]"
+            "translation": "[Sign_4]순인랑아[END]"
         },
         {
             "offset": 1701176,
@@ -1552,7 +1552,7 @@
             "string": "[Sign_5]真・剛雷剣[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_5]진・고강뢰검[END]"
+            "translation": "[Sign_5]진・강뢰검[END]"
         },
         {
             "offset": 1701272,
@@ -1657,7 +1657,7 @@
             "string": "[Sign_4]疾刀蹴[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "[Sign_4]질도격[END]"
+            "translation": "[Sign_4]질도축[END]"
         },
         {
             "offset": 1701776,
@@ -2175,7 +2175,7 @@
             "string": "[Sign_5]臥竜滅破[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_5]가룡멸파[END]"
+            "translation": "[Sign_5]와룡멸파[END]"
         },
         {
             "offset": 1704216,
@@ -2231,7 +2231,7 @@
             "string": "[Sign_5]臥竜閃[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "[Sign_5]가룡섬[END]"
+            "translation": "[Sign_5]와룡섬[END]"
         },
         {
             "offset": 1704400,
@@ -2306,7 +2306,7 @@
         {
             "offset": 1704688,
             "string": "[Sign_5]魔人闇[END]",
-            "translation": "[Sign_5]마인야미[END]",
+            "translation": "[Sign_5]마인암[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15
         },
@@ -2418,7 +2418,7 @@
         {
             "offset": 1705216,
             "string": "[Sign_4]ブラッディローズ[END]",
-            "translation": "[Sign_4]블러디로즈[END]",
+            "translation": "[Sign_4]블러디 로즈[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -2488,7 +2488,7 @@
         {
             "offset": 1705640,
             "string": "[Sign_4]サーチガルド[END]",
-            "translation": "[Sign_4]서치가르도[END]",
+            "translation": "[Sign_4]서치 가르드[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -2588,7 +2588,7 @@
             "string": "[Sign_5]翔凰烈火[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_5]비상여烈火[END]"
+            "translation": "[Sign_5]상황열화[END]"
         },
         {
             "offset": 1706104,
@@ -2609,7 +2609,7 @@
             "string": "[Sign_5]獅吼爆炎陣[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_5]사호폭염진[END]"
+            "translation": "[Sign_5]사후폭염진[END]"
         },
         {
             "offset": 1706192,
@@ -2714,7 +2714,7 @@
             "string": "[Sign_5]鳳凰天駆[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_5]봉황천주[END]"
+            "translation": "[Sign_5]봉황천구[END]"
         },
         {
             "offset": 1706680,
