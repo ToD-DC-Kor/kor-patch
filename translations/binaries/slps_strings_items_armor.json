@@ -3,7 +3,7 @@
         {
             "offset": 1793632,
             "string": "革を繋ぎ合わせて作られた上半身鎧。[LINE]\n軽くてそこそこ丈夫なため、[LINE]\n冒険者たちに長年愛用されている。[END]",
-            "translation": "가죽을 이어붙여 만든 상반신 갑옷.[LINE]\n가볍고 어느 정도 튼튼하기 때문에,[LINE]\n모험가들에게 오랫동안 애용되고 있다.[END]",
+            "translation": "가죽을 이어붙여 만든 갑옷.[LINE]\n적당히 가볍고 튼튼해서,[LINE]\n많은 모험가가 오랫동안 애용하고 있다.[END]",
             "original_bytes_length": 95,
             "available_bytes_size": 95
         },
@@ -17,7 +17,7 @@
         {
             "offset": 1793528,
             "string": "薄い銅板で作られた上半身鎧。[LINE]\n天地戦争時代から使われていた、[LINE]\n伝統ある鎧。[END]",
-            "translation": "얇은 구리판으로 만든 상반신 갑옷.[LINE]\n천지전쟁 시대부터 사용되어온,[LINE]\n전통 있는 갑옷.[END]",
+            "translation": "얇은 구리판으로 만든 갑옷.[LINE]\n천지전쟁 시대부터 사용된[LINE]\n전통 있는 물건.[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79
         },
@@ -31,7 +31,7 @@
         {
             "offset": 1793432,
             "string": "鉄板で作られた上半身鎧。[LINE]\n重いが硬くて頑丈。[LINE]\nもっとも身近な金属。[END]",
-            "translation": "철판으로 만든 상반신 갑옷.[LINE]\n무겁지만 단단하고 견고하다.[LINE]\n가장 가까운 금속.[END]",
+            "translation": "철판으로 만든 갑옷.[LINE]\n무겁지만 단단하고 튼튼하다.[LINE]\n철은 사람과 가장 친한 금속이다.[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71
         },
@@ -45,21 +45,21 @@
         {
             "offset": 1793344,
             "string": "複数枚の鋼板で作られた上半身鎧。[LINE]\n騎士見習たちの愛用品。[LINE]\n[END]",
-            "translation": "여러 장의 강판으로 만든 상반신 갑옷.[LINE]\n기사 견습생들의 애용품.[LINE]\n[END]",
+            "translation": "여러 장의 강철판으로 만든 갑옷.[LINE]\n견습 기사의 애용품.[LINE]\n[END]",
             "original_bytes_length": 57,
             "available_bytes_size": 63
         },
         {
             "offset": 1793320,
             "string": "[Sign_Shield]チタンアーマー[END]",
-            "translation": "[Sign_Shield]타이탄 아머[END]",
+            "translation": "[Sign_Shield]티타늄 아머[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
         {
             "offset": 1793248,
             "string": "チタン合金で強化した上半身鎧。[LINE]\n非常に軽く、並外れた耐食性を持つ。[LINE]\n[END]",
-            "translation": "타이탄 합금으로 강화한 상반신 갑옷.[LINE]\n매우 가볍고, 비벼지는 내식성을 가진다.[LINE]\n[END]",
+            "translation": "티타늄 합금으로 강화한 갑옷.[LINE]\n매우 가볍고 내식성이 뛰어나다.[LINE]\n[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
@@ -73,7 +73,7 @@
         {
             "offset": 1793144,
             "string": "銀細工で装飾された上半身鎧。[LINE]\n白い輝きが美しい。[LINE]\n聖なる祈りが込められている。[END]",
-            "translation": "은공예로 장식된 상반신 갑옷.[LINE]\n하얀 빛이 아름답다.[LINE]\n성스러운 기도가 담겨있다.[END]",
+            "translation": "은세공으로 장식된 갑옷.[LINE]\n하얀 빛이 아름답다.[LINE]\n성스러운 기도가 담겨있다.[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79
         },
@@ -87,7 +87,7 @@
         {
             "offset": 1793064,
             "string": "金細工で装飾した上半身鎧。[LINE]\n別名「豪華な上半身鎧」。[LINE]\n[END]",
-            "translation": "금공예로 장식한 상반신 갑옷.[LINE]\n별명「호화로운 상반신 갑옷」.[LINE]\n[END]",
+            "translation": "금세공으로 장식된 갑옷.[LINE]\n일명 「호화로운 갑옷」.[LINE]\n[END]",
             "original_bytes_length": 53,
             "available_bytes_size": 55
         },
@@ -101,7 +101,7 @@
         {
             "offset": 1792968,
             "string": "ミスリル細工で装飾された上半身鎧。[LINE]\nドワーフ族の芸術作品といわれる。[LINE]\n[END]",
-            "translation": "미스릴공예로 장식한 상반신 갑옷.[LINE]\n드워프족의 예술작품이라고 한다.[LINE]\n[END]",
+            "translation": "미스릴공예로 장식된 갑옷.[LINE]\n드워프족의 예술작품이라고 한다.[LINE]\n[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71
         },
@@ -115,7 +115,7 @@
         {
             "offset": 1792880,
             "string": "金属の環を縫い合わせた上半身鎧。[LINE]\n刀剣等の攻撃から身を守る。[LINE]\n[END]",
-            "translation": "금속의 고리를 이어붙인 상반신 갑옷.[LINE]\n검검 등의 공격으로부터 몸을 지킨다.[LINE]\n[END]",
+            "translation": "금속 고리를 엮어 만든 갑옷.[LINE]\n날붙이로부터 몸을 지켜준다.[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63
         },
@@ -131,7 +131,7 @@
             "string": "鋼糸で縫製された上半身鎧。[LINE]\nすぐに着ることができるのが特徴。[LINE]\n多くの戦士たちに愛用されている。[END]",
             "original_bytes_length": 93,
             "available_bytes_size": 95,
-            "translation": "강철 실로 제작된 상반신 갑옷입니다.[LINE]\n즉시 착용할 수 있는 것이 특징입니다.[LINE]\n많은 전사들에게 사랑받고 있습니다.[END]"
+            "translation": "강철 실로 만든 갑옷.[LINE]\n바로 입을 수 있다는 특징 덕에[LINE]\n많은 전사가 애용하고 있다.[END]"
         },
         {
             "offset": 1792736,
@@ -145,7 +145,7 @@
             "string": "美しく磨かれた白い上半身鎧。[LINE]\n祭儀用に使われる純白の鎧。[LINE]\n光の加護を受けると言われている。[END]",
             "original_bytes_length": 89,
             "available_bytes_size": 95,
-            "translation": "아름답게 다듬어진 흰색 상반신 갑옷입니다.[LINE]\n제사용으로 사용되는 순백의 갑옷입니다.[LINE]\n빛의 가호를 받는다고 전해집니다.[END]"
+            "translation": "아름답게 연마된 흰 갑옷.[LINE]\n제사용으로 사용되며,[LINE]\n빛의 가호를 받고 있다고 한다.[END]"
         },
         {
             "offset": 1792616,
@@ -159,7 +159,7 @@
             "string": "王国騎士団が装備する上半身鎧。[LINE]\n頑強な作りであり品のある色。[LINE]\nこれであなたも騎士気分。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "왕국 기사단이 장착하는 상반신 갑옷입니다.[LINE]\n튼튼하게 제작되었으며 품위 있는 색상입니다.[LINE]\n이로써 당신도 기사 기분을 느낄 수 있습니다.[END]"
+            "translation": "왕국 기사단 제식 갑옷.[LINE]\n견고한 만듦새와 품위 있는 색상으로[LINE]\n기사가 된 기분을 느낄 수 있다.[END]"
         },
         {
             "offset": 1792504,
@@ -173,7 +173,7 @@
             "string": "特殊加工して作られた非常に軽い[LINE]\n上半身鎧。流星のように速く動ける。[LINE]\nと、宣伝されている。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "특수 가공으로 제작된 매우 가벼운[LINE]\n상반신 갑옷입니다. 유성처럼 빠르게 움직일 수 있습니다.[LINE]\n라고 광고되고 있습니다.[END]"
+            "translation": "특수 가공된 매우 가벼운[LINE]\n갑옷. 유성처럼 빠르게 움직일 수 있다며[LINE]\n홍보되고 있다.[END]"
         },
         {
             "offset": 1792392,
@@ -187,7 +187,7 @@
             "string": "ダイヤモンドで装飾された上半身鎧。[LINE]\nその輝きは敵の目を眩ます。[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "다이아몬드로 장식된 상반신 갑옷입니다.[LINE]\n그 빛은 적의 눈을 멀게 합니다.[LINE]\n[END]"
+            "translation": "다이아몬드로 장식된 갑옷.[LINE]\n그 빛은 적의 눈을 멀게 한다.[LINE]\n[END]"
         },
         {
             "offset": 1792304,
@@ -201,7 +201,7 @@
             "string": "戦闘用に特化した上半身鎧。[LINE]\n機能性を重視して作られているため、[LINE]\nどんな動きも遮らない。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "전투용으로 특화된 상반신 갑옷입니다.[LINE]\n기능성을 중시하여 제작되었기 때문에,[LINE]\n어떤 움직임도 방해받지 않습니다.[END]"
+            "translation": "전투용으로 특화된 갑옷.[LINE]\n기능성을 중시해 만들었기 때문에,[LINE]\n어떤 움직임도 방해하지 않는다.[END]"
         },
         {
             "offset": 1792192,
@@ -215,7 +215,7 @@
             "string": "名工ギースの魂のこもった[LINE]\n無二の傑作。[LINE]\nきわめて希少価値が高い。[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "명공 기스의 영혼이 담긴[LINE]\n무이한 걸작입니다.[LINE]\n매우 희귀한 가치가 높습니다.[END]"
+            "translation": "명공 기스의 혼이 담긴[LINE]\n둘도 없는 걸작.[LINE]\n매우 희소가치가 높다.[END]"
         },
         {
             "offset": 1792104,
@@ -229,21 +229,21 @@
             "string": "鉄板を鱗状に縫いつけた上半身鎧。[LINE]\n古くから存在する歴史のある鎧。[LINE]\n歩くと音が響くのが難点。[END]",
             "original_bytes_length": 89,
             "available_bytes_size": 95,
-            "translation": "철판을 비늘처럼 꿰맨 상반신 갑옷입니다.[LINE]\n오래전부터 존재하는 역사 깊은 갑옷입니다.[LINE]\n걷는 소리가 울리는 것이 단점입니다.[END]"
+            "translation": "철판을 비늘 모양으로 꿰매어 만든 갑옷.[LINE]\n오래전부터 존재한 전통 있는 물건.[LINE]\n걸을 때 소리가 울리는 게 단점.[END]"
         },
         {
             "offset": 1791984,
             "string": "[Sign_Shield]スプリントアーマー[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "[Sign_Shield]스프린트 아머[END]"
+            "translation": "[Sign_Shield]스플린트 아머[END]"
         },
         {
             "offset": 1791904,
             "string": "チェインアーマーを鋼板で強化した[LINE]\n上半身鎧。チェインより堅いが[LINE]\nより重い。[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79,
-            "translation": "체인 아머를 강판으로 강화한[LINE]\n상반신 갑옷입니다. 체인보다 단단하지만[LINE]\n더 무겁습니다.[END]"
+            "translation": "체인 아머에 강철판을 덧댄 갑옷.[LINE]\n체인 아머보다 튼튼하지만[LINE]\n더 무겁다.[END]"
         },
         {
             "offset": 1791880,
@@ -257,7 +257,7 @@
             "string": "黒く輝く美しい上半身鎧。[LINE]\n祭儀用に使われる漆黒の鎧。[LINE]\n[END]",
             "original_bytes_length": 53,
             "available_bytes_size": 55,
-            "translation": "검고 빛나는 아름다운 상반신 갑옷입니다.[LINE]\n제사용으로 사용되는 칠흑의 갑옷입니다.[LINE]\n[END]"
+            "translation": "검게 빛나는 아름다운 갑옷.[LINE]\n제사용으로 사용된다.[LINE]\n[END]"
         },
         {
             "offset": 1791800,
@@ -271,7 +271,7 @@
             "string": "簡素でいて典雅な造りの上半身鎧。[LINE]\n過去に興った美術様式を汲んだ[LINE]\n作品。[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71,
-            "translation": "간결하면서도 우아한 디자인의 상반신 갑옷입니다.[LINE]\n과거에 일어난 미술 양식을 반영한[LINE]\n작품입니다.[END]"
+            "translation": "간결하면서도 우아한 디자인의 갑옷.[LINE]\n과거에 유행한 미술 양식을[LINE]\n반영한 작품.[END]"
         },
         {
             "offset": 1791704,
@@ -285,7 +285,7 @@
             "string": "希望のルーンが刻まれた上半身鎧。[LINE]\nどんな時でも挫けない[LINE]\n強い心を身に付けた者に与えられる。[END]",
             "original_bytes_length": 89,
             "available_bytes_size": 95,
-            "translation": "희망의 룬이 새겨진 상반신 갑옷입니다.[LINE]\n어떤 상황에서도 굴하지 않는[LINE]\n강한 마음을 가진 자에게 주어집니다.[END]"
+            "translation": "희망의 룬이 새겨진 갑옷.[LINE]\n어떤 때에도 굴하지 않는[LINE]\n강한 마음을 지닌 자에게 주어진다.[END]"
         },
         {
             "offset": 1791584,
@@ -299,7 +299,7 @@
             "string": "プラチナで装飾された上半身鎧。[LINE]\n上位の騎士達が身に付ける、[LINE]\n美麗でいて堅固な鎧。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "플래티넘으로 장식된 상반신 갑옷입니다.[LINE]\n상위 기사들이 착용하는,[LINE]\n아름답고 견고한 갑옷입니다.[END]"
+            "translation": "백금으로 장식된 갑옷.[LINE]\n상위 기사가 착용하며,[LINE]\n아름답고 견고하다.[END]"
         },
         {
             "offset": 1791480,
@@ -313,7 +313,7 @@
             "string": "ドラゴンの鱗で強化した上半身鎧。[LINE]\nドラゴンの鋭い爪から身を守り、[LINE]\n吐く炎をも遮る。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "드래곤의 비늘로 강화된 상반신 갑옷입니다.[LINE]\n드래곤의 날카로운 발톱으로부터 자신을 보호하고,[LINE]\n내뿜는 불길도 막아줍니다.[END]"
+            "translation": "드래곤 비늘로 강화한 갑옷.[LINE]\n드래곤의 날카로운 발톱과[LINE]\n내뿜는 불길로부터 몸을 보호해준다.[END]"
         },
         {
             "offset": 1791368,
@@ -327,7 +327,7 @@
             "string": "伝説に登場する幻想の力を秘めた[LINE]\n上半身鎧。口伝を書物にまとめた[LINE]\n兄弟の名を冠する。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "전설에 등장하는 환상의 힘을 간직한[LINE]\n상반신 갑옷입니다. 구술을 문서로 정리한[LINE]\n형제의 이름을 따릅니다.[END]"
+            "translation": "전설 속에 등장하는 환상의 힘이 깃든 갑옷.[LINE]\n이야기를 책으로 엮은[LINE]\n형제의 이름이 붙었다.[END]"
         },
         {
             "offset": 1791256,
@@ -341,7 +341,7 @@
             "string": "名も無き鍛冶屋の無二の傑作。[LINE]\nどんな衝撃でも皹すら入らない。[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "이름 없는 대장장이의 유일무이한 걸작입니다.[LINE]\n어떤 충격에도 금이 가지 않습니다.[LINE]\n[END]"
+            "translation": "무명의 대장장이가 만든 둘도 없는 걸작.[LINE]\n어떤 충격에도 금이 가지 않는다.[LINE]\n[END]"
         },
         {
             "offset": 1791168,
@@ -355,21 +355,21 @@
             "string": "要塞と呼ばれる堅固な上半身鎧。[LINE]\n死角のない鉄壁な守りを誇る。[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "요새라고 불리는 견고한 상반신 갑옷입니다.[LINE]\n사각지대 없는 철벽 방어를 자랑합니다.[LINE]\n[END]"
+            "translation": "요새라고 불리는 견고한 갑옷.[LINE]\n사각지대 없는 철벽 방어를 자랑한다.[LINE]\n[END]"
         },
         {
             "offset": 1791080,
             "string": "[Sign_Shield]シュラハトフェルト[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "[Sign_Shield]슈라하트펠트[END]"
+            "translation": "[Sign_Shield]슐라하트페르트[END]"
         },
         {
             "offset": 1791008,
             "string": "戦場を駆ける兵士達の守護神の名。[LINE]\n必ず生還する鎧として[LINE]\n賞賛されている。[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "전장을 누비는 병사들의 수호신의 이름입니다.[LINE]\n반드시 생환하는 갑옷으로[LINE]\n칭송받고 있습니다.[END]"
+            "translation": "전장의 병사를 수호하는 신의 이름.[LINE]\n입으면 반드시 살아 돌아올 수 있다고[LINE]\n칭송받고 있다.[END]"
         },
         {
             "offset": 1790984,
@@ -383,7 +383,7 @@
             "string": "力が倍増する魔力を秘めている帯。[LINE]\n雷神の持ち物と言われている。[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "힘이 배가되는 마력을 지닌 띠입니다.[LINE]\n천둥의 신의 소지품이라고 전해집니다.[LINE]\n[END]"
+            "translation": "힘이 배가 되는 마력이 깃든 허리띠.[LINE]\n천둥의 신의 소지품이라고 한다.[LINE]\n[END]"
         },
         {
             "offset": 1790896,
@@ -397,21 +397,21 @@
             "string": "攻撃を反射すると言われる上半身鎧。[LINE]\n天地戦争時代の天才科学者が[LINE]\n作ったと言われている。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "공격을 반사한다고 알려진 상반신 갑옷입니다.[LINE]\n천지전쟁 시대의 천재 과학자가[LINE]\n제작했다고 전해집니다.[END]"
+            "translation": "공격을 반사한다는 갑옷.[LINE]\n천지전쟁 시대의 천재 과학자가[LINE]\n만들었다고 한다.[END]"
         },
         {
             "offset": 1790784,
             "string": "[Sign_Shield]マム・ベイン[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]맘 베인[END]"
+            "translation": "[Sign_Shield]맘베인[END]"
         },
         {
             "offset": 1790712,
             "string": "大地母神の守護を受けた上半身鎧。[LINE]\n聖なるオーラが外敵から身を守る。[LINE]\n[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "대지의 여신의 보호를 받은 상반신 갑옷입니다.[LINE]\n신성한 오라가 외적으로부터 몸을 지킵니다.[LINE]\n[END]"
+            "translation": "대지모신의 수호를 받는 갑옷.[LINE]\n성스러운 오라가[LINE]\n적으로부터 몸을 지켜준다.[END]"
         },
         {
             "offset": 1790688,
@@ -425,7 +425,7 @@
             "string": "聖戦に赴く騎士のための上半身鎧。[LINE]\n装備した者は、信仰の力で[LINE]\n守護される。[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "성전으로 떠나는 기사들을 위한 상반신 갑옷입니다.[LINE]\n장착한 자는 신앙의 힘으로[LINE]\n보호받습니다.[END]"
+            "translation": "성전을 벌이는 기사를 위한 갑옷.[LINE]\n입고 있는 자를 신앙의 힘으로[LINE]\n보호한다.[END]"
         },
         {
             "offset": 1790584,
@@ -439,21 +439,21 @@
             "string": "「調和」を意味する上半身鎧。[LINE]\n全ての均衡を正す使徒となる。[LINE]\n選ばれた者のみが手にできる。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "‘조화’를 의미하는 상반신 갑옷입니다.[LINE]\n모든 균형을 바로잡는 사도가 됩니다.[LINE]\n선택된 자만이 손에 쥘 수 있습니다.[END]"
+            "translation": "「조화」를 의미하는 갑옷.[LINE]\n모든 균형을 바로잡는 사도가 된다.[LINE]\n선택받은 자만이 손에 넣을 수 있다.[END]"
         },
         {
             "offset": 1790472,
             "string": "[Sign_Shield]レザープレート[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]레자 플레이트[END]"
+            "translation": "[Sign_Shield]레더 플레이트[END]"
         },
         {
             "offset": 1790392,
             "string": "革製の胸当て。[LINE]\n軽くてそこそこ丈夫なため、[LINE]\n冒険者たちに長年愛用されている。[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "가죽으로 만들어진 가슴 보호대입니다.[LINE]\n가볍고 적당히 튼튼하여,[LINE]\n모험가들에게 오랫동안 애용되고 있습니다.[END]"
+            "translation": "가죽으로 만든 흉갑.[LINE]\n적당히 가볍고 튼튼해서,[LINE]\n많은 모험가가 오랫동안 애용하고 있다.[END]"
         },
         {
             "offset": 1790368,
@@ -467,7 +467,7 @@
             "string": "鉄板で強化した胸当て。[LINE]\n重いが硬くて頑丈。[LINE]\n伝統ある胸当て。[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63,
-            "translation": "철판으로 강화한 가슴 보호대입니다.[LINE]\n무겁지만 단단하고 튼튼합니다.[LINE]\n전통 있는 가슴 보호대입니다.[END]"
+            "translation": "철판으로 강화한 흉갑.[LINE]\n무겁지만 단단하고 튼튼하다.[LINE]\n전통 있는 물건.[END]"
         },
         {
             "offset": 1790280,
@@ -481,21 +481,21 @@
             "string": "鋼板で強化した胸当て。[LINE]\n兵士達の愛用品。[LINE]\n[END]",
             "original_bytes_length": 41,
             "available_bytes_size": 47,
-            "translation": "강판으로 강화한 가슴 보호대입니다.[LINE]\n병사들의 애용품입니다.[LINE]\n[END]"
+            "translation": "강철판으로 강화한 가슴 흉갑.[LINE]\n병사의 애용품.[LINE]\n[END]"
         },
         {
             "offset": 1790208,
             "string": "[Sign_Shield]チタンプレート[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]타이타늄 플레이트[END]"
+            "translation": "[Sign_Shield]티타늄 플레이트[END]"
         },
         {
             "offset": 1790136,
             "string": "チタン合金で強化した胸当て。[LINE]\n非常に軽く、並外れた耐食性を持つ。[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "타이타늄 합금으로 강화한 가슴 보호대입니다.[LINE]\n매우 가볍고, 뛰어난 내식성을 가지고 있습니다.[LINE]\n[END]"
+            "translation": "티타늄 합금으로 강화한 흉갑.[LINE]\n매우 가볍고 내식성이 뛰어나다[LINE]\n[END]"
         },
         {
             "offset": 1790112,
@@ -509,7 +509,7 @@
             "string": "銀細工で装飾された胸当て。[LINE]\n白い輝きが美しい。[LINE]\n聖なる祈りが込められている。[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "은세공으로 장식된 가슴 보호대입니다.[LINE]\n흰빛이 아름답습니다.[LINE]\n신성한 기도가 담겨 있습니다.[END]"
+            "translation": "은세공으로 장식된 흉갑.[LINE]\n하얀 빛이 아름답다.[LINE]\n성스러운 기도가 담겨있다.[END]"
         },
         {
             "offset": 1790008,
@@ -523,7 +523,7 @@
             "string": "金細工で装飾された胸当て。[LINE]\n別名「豪華な胸当て」。[LINE]\n[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "금세공으로 장식된 가슴 보호대입니다.[LINE]\n별칭 ‘호화로운 가슴 보호대’입니다.[LINE]\n[END]"
+            "translation": "금세공으로 장식된 흉갑.[LINE]\n일명 「호화로운 흉갑」[LINE]\n[END]"
         },
         {
             "offset": 1789928,
@@ -537,7 +537,7 @@
             "string": "ミスリル細工で装飾された胸当て。[LINE]\nドワーフ族の芸術作品といわれる。[LINE]\n[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "미스릴 세공으로 장식된 가슴 보호대입니다.[LINE]\n드워프족의 예술 작품이라고 알려져 있습니다.[LINE]\n[END]"
+            "translation": "미스릴 세공으로 장식된 흉갑.[LINE]\n드워프족의 예술작품이라고 한다.[LINE]\n[END]"
         },
         {
             "offset": 1789832,
@@ -551,7 +551,7 @@
             "string": "特殊加工して作られた非常に軽い[LINE]\n胸当て。流星のように速く動ける。[LINE]\nと、宣伝されている。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "특수 가공으로 만들어진 매우 가벼운[LINE]\n가슴 보호대입니다. 유성처럼 빠르게 움직일 수 있습니다.[LINE]\n라고 광고되고 있습니다.[END]"
+            "translation": "특수 가공된 매우 가벼운 흉갑.[LINE]\n유성처럼 빠르게 움직일 수 있다며[LINE]\n홍보되고 있다.[END]"
         },
         {
             "offset": 1789720,
@@ -565,7 +565,7 @@
             "string": "ダイヤモンドで装飾された胸当て。[LINE]\nその輝きは敵の目を眩ます。[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "다이아몬드로 장식된 가슴 보호대입니다.[LINE]\n그 빛은 적의 눈을 부시게 합니다.[LINE]\n[END]"
+            "translation": "다이아몬드로 장식된 흉갑.[LINE]\n그 빛은 적의 눈을 멀게 한다.[LINE]\n[END]"
         },
         {
             "offset": 1789632,
@@ -579,7 +579,7 @@
             "string": "戦闘用に特化した胸当て。[LINE]\n機能性重視で作られたため、[LINE]\nとても丈夫で動きやすい。[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "전투용으로 특화된 가슴 보호대입니다.[LINE]\n기능성을 중시하여 제작되었기 때문에,[LINE]\n매우 튼튼하고 움직임이 쉽습니다.[END]"
+            "translation": "전투용으로 특화된 흉갑.[LINE]\n기능성을 중시해 만들었기 때문에,[LINE]\n매우 튼튼하고 움직이기 편하다.[END]"
         },
         {
             "offset": 1789528,
@@ -600,7 +600,7 @@
             "string": "勇気のルーンが刻まれた胸当て。[LINE]\nどんな時でも怯まない、[LINE]\n強い心を身に付けた者に与える。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "용기의 룬이 새겨진 가슴 보호대입니다.[LINE]\n어떤 상황에서도 두려워하지 않으며,[LINE]\n강한 마음을 가진 자에게 주어집니다.[END]"
+            "translation": "용기의 룬이 새겨진 흉갑.[LINE]\n어떤 상황에서도 두려워하지 않는,[LINE]\n강한 마음을 지닌 자에게 주어진다.[END]"
         },
         {
             "offset": 1789392,
@@ -614,7 +614,7 @@
             "string": "プラチナで装飾された胸当て。[LINE]\n高価で美しいのみならず、[LINE]\n堅く機能性に優れた一品。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "플래티넘으로 장식된 가슴 보호대입니다.[LINE]\n비싸고 아름다울 뿐만 아니라,[LINE]\n견고하고 기능성이 뛰어난 아이템입니다.[END]"
+            "translation": "백금으로 장식된 갑옷.[LINE]\n비싸고 아름다울 뿐만 아니라,[LINE]\n견고하고 기능성이 뛰어나다.[END]"
         },
         {
             "offset": 1789288,
@@ -628,7 +628,7 @@
             "string": "ドラゴンの鱗で強化した胸当て。[LINE]\nドラゴンの鋭い爪から身を守り、[LINE]\n吐く炎をも遮る。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "드래곤의 비늘로 강화된 가슴 보호대입니다.[LINE]\n드래곤의 날카로운 발톱으로부터 몸을 보호하고,[LINE]\n내뿜는 불꽃도 막아줍니다.[END]"
+            "translation": "드래곤 비늘로 강화한 흉갑.[LINE]\n드래곤의 날카로운 발톱과[LINE]\n내뿜는 불길로부터 몸을 보호해준다.[END]"
         },
         {
             "offset": 1789184,
@@ -642,21 +642,21 @@
             "string": "伝説に登場する幻想の力を秘めた[LINE]\n胸当て。口伝を書物にまとめた[LINE]\n兄弟の名を冠する。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "전설에 등장하는 환상의 힘을 지닌[LINE]\n가슴 보호대입니다. 구술을 책으로 정리한[LINE]\n형제의 이름을 따릅니다.[END]"
+            "translation": "전설 속에 등장하는 환상의 힘이 깃든 흉갑.[LINE]\n이야기를 책으로 엮은[LINE]\n형제의 이름이 붙었다.[END]"
         },
         {
             "offset": 1789088,
             "string": "[Sign_Shield]ランパート[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_Shield]람파트[END]"
+            "translation": "[Sign_Shield]램파트[END]"
         },
         {
             "offset": 1789024,
             "string": "城壁という名の胸当て。[LINE]\n強固な守りは、強弓を用いても[LINE]\n貫けない。[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "성벽이라는 이름의 가슴 보호대입니다.[LINE]\n강력한 방어는, 강궁을 사용해도[LINE]\n뚫을 수 없습니다.[END]"
+            "translation": "성벽이라는 이름의 흉갑.[LINE]\n강력한 방어는 강궁으로도[LINE]\n뚫을 수 없다.[END]"
         },
         {
             "offset": 1789000,
@@ -670,7 +670,7 @@
             "string": "装備者に活力を与える胸当て。[LINE]\n激戦、乱戦にも折れない心を[LINE]\n身に付けた者に与える。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "장비자에게 활력을 주는 가슴 보호대입니다.[LINE]\n격렬한 전투와 난전에도 꺾이지 않는 마음을[LINE]\n가진 자에게 부여합니다.[END]"
+            "translation": "입고 있는 자에게 활력을 주는 흉갑.[LINE]\n격렬한 전투와 난전에도 꺾이지 않는[LINE]\n마음을 지닌 자에게 주어진다.[END]"
         },
         {
             "offset": 1788896,
@@ -684,7 +684,7 @@
             "string": "天頂の名を冠する胸当て。[LINE]\n触れることすら叶わない。羽のよう[LINE]\nに軽く、光と風の守護を得る。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "천정의 이름을 가진 가슴 보호대입니다.[LINE]\n닿는 것조차 불가능합니다.羽처럼[LINE]\n가볍고, 빛과 바람의 수호를 얻습니다.[END]"
+            "translation": "천정이라는 이름이 붙은 흉갑.[LINE]\n적의 공격은 스치지도 않는다.[LINE]\n깃털처럼 가볍고, 빛과 바람의 수호를 받는다.[END]"
         },
         {
             "offset": 1788776,
@@ -698,7 +698,7 @@
             "string": "「再生」を意味する胸当て。[LINE]\n倒れることすら許されない。[LINE]\n選ばれた者のみが手にできる。[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "‘재생’을 의미하는 가슴 보호대입니다.[LINE]\n倒れることすら許されない.[LINE]\n선택된 자만이 손에 넣을 수 있습니다.[END]"
+            "translation": "「재생」을 의미하는 흉갑.[LINE]\n쓰러지는 일조차 허용되지 않는다.[LINE]\n선택받은 자만이 손에 넣을 수 있다.[END]"
         },
         {
             "offset": 1788664,
@@ -712,7 +712,7 @@
             "string": "銅板を縫い付けた男性用衣装。[LINE]\n軽くてそこそこ丈夫なため、[LINE]\n旅人に好まれている。[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "구리판을 꿰맨 남성용 의상입니다.[LINE]\n가볍고 적당히 튼튼하여,[LINE]\n여행자에게 인기가 많습니다.[END]"
+            "translation": "구리판을 꿰매어 만든 의상.[LINE]\n적당히 가볍고 튼튼해서,[LINE]\n여행자에게 인기가 많다.[END]"
         },
         {
             "offset": 1788560,
@@ -726,7 +726,7 @@
             "string": "鉄板を縫い付けた男性用衣装。[LINE]\n重いが堅く、戦闘仕様な作りに[LINE]\nなっている。[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "철판을 꿰맨 남성용 의상입니다.[LINE]\n무겁지만 견고하고, 전투 용도로[LINE]\n제작되었습니다.[END]"
+            "translation": "철판을 꿰매어 만든 의상.[LINE]\n무겁지만 튼튼하고,[LINE]\n전투용으로 제작되었다.[END]"
         },
         {
             "offset": 1788464,
@@ -740,7 +740,7 @@
             "string": "鋼板を縫い付けた男性用衣装。[LINE]\n護衛や警備を生業としている人々に[LINE]\n使われている。[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "강판을 꿰맨 남성용 의상입니다.[LINE]\n호위나 경비를 직업으로 하는 사람들에게[LINE]\n사용되고 있습니다.[END]"
+            "translation": "강철판을 꿰매어 만든 의상.[LINE]\n주로 호위나 경비병이 입는다.[LINE]\n[END]"
         },
         {
             "offset": 1788360,
@@ -754,7 +754,7 @@
             "string": "金細工で装飾した男性用衣装。[LINE]\n別名「豪華な衣装」。[LINE]\n[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "금세공으로 장식된 남성용 의상입니다.[LINE]\n별명은 ‘호화로운 의상’입니다.[LINE]\n[END]"
+            "translation": "금세공으로 장식된 의상.[LINE]\n일명 「호화로운 의상」.[LINE]\n[END]"
         },
         {
             "offset": 1788280,
@@ -768,7 +768,7 @@
             "string": "ミスリルで装飾した男性用衣装。[LINE]\nドワーフ族の芸術作品といわれる。[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "미스릴로 장식된 남성용 의상입니다.[LINE]\n드워프족의 예술 작품이라고 알려져 있습니다.[LINE]\n[END]"
+            "translation": "미스릴로 장식된 의상.[LINE]\n드워프족의 예술작품이라고 한다.[LINE]\n[END]"
         },
         {
             "offset": 1788184,
@@ -782,7 +782,7 @@
             "string": "胸部の防御が強化されている衣装。[LINE]\n防御力は高いが、[LINE]\nバランスがやや悪い。[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "가슴 부위의 방어가 강화된 의상입니다.[LINE]\n방어력은 높지만,[LINE]\n균형이 다소 좋지 않습니다.[END]"
+            "translation": "가슴 부위를 강화한 의상.[LINE]\n방어력은 높지만,[LINE]\n밸런스가 약간 무너졌다.[END]"
         },
         {
             "offset": 1788088,
@@ -796,7 +796,7 @@
             "string": "白く美しい男性用衣装。[LINE]\n祭儀用に使われる神聖な衣。[LINE]\n光の加護を受けると言われている。[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "흰색으로 아름다운 남성용 의상입니다.[LINE]\n제사용으로 사용되는 신성한 옷입니다.[LINE]\n빛의 보호를 받는다고 전해집니다.[END]"
+            "translation": "희고 아름다운 의상.[LINE]\n제사용으로 사용되며,[LINE]\n빛의 가호를 받고 있다고 한다.[END]"
         },
         {
             "offset": 1787976,
@@ -810,7 +810,7 @@
             "string": "王国騎士団御用達の男性用衣装。[LINE]\n簡素な作りに見えるが、[LINE]\nとても頑強な作りになっている。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "왕국 기사단의 전용 남성용 의상입니다.[LINE]\n간소한 구조처럼 보이지만,[LINE]\n매우 튼튼하게 제작되어 있습니다.[END]"
+            "translation": "왕국 기사단 제식 의상.[LINE]\n간소해 보이지만[LINE]\n매우 견고하게 만들어졌다.[END]"
         },
         {
             "offset": 1787864,
@@ -824,84 +824,84 @@
             "string": "戦闘用に特化した男性用衣装。[LINE]\n機能性重視で作られたため、[LINE]\nとても丈夫で動きやすい。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "전투용으로 특화된 남성용 의상입니다.[LINE]\n기능성을 중시하여 제작되었기 때문에,[LINE]\n매우 튼튼하고 움직이기 쉽습니다.[END]"
+            "translation": "전투용으로 특화된 의상.[LINE]\n기능성을 중시해 만들었기 때문에,[LINE]\n매우 튼튼하고 움직이기 편하다.[END]"
         },
         {
             "offset": 1787760,
             "string": "[Sign_Shield]レアウェア[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_Shield]레어웨어[END]"
+            "translation": "[Sign_Shield]레어 웨어[END]"
         },
         {
             "offset": 1787736,
             "string": "[Sign_Shield]ホーリィウェア[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]홀리웨어[END]"
+            "translation": "[Sign_Shield]홀리 웨어[END]"
         },
         {
             "offset": 1787632,
             "string": "聖なる力に祝福された男性用衣装。[LINE]\n聖なる加護に守られたその衣装は、[LINE]\n身に付ける者の命を守るという。[END]",
             "original_bytes_length": 97,
             "available_bytes_size": 103,
-            "translation": "신성한 힘으로 축복받은 남성용 의상입니다.[LINE]\n신성한 보호에 의해 지켜진 그 의상은,[LINE]\n착용자의 생명을 지킨다고 합니다.[END]"
+            "translation": "성스러운 힘으로 축복받은 의상.[LINE]\n성스러운 가호로 지켜지는 의상은,[LINE]\n착용자의 생명을 지킨다고 한다.[END]"
         },
         {
             "offset": 1787608,
             "string": "[Sign_Shield]ブラックウェア[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]블랙웨어[END]"
+            "translation": "[Sign_Shield]블랙 웨어[END]"
         },
         {
             "offset": 1787512,
             "string": "黒生地に銀刺繍の美しい衣装。[LINE]\n祭儀用に使われる神聖な衣。[LINE]\n闇の加護を受けると言われている。[END]",
             "original_bytes_length": 89,
             "available_bytes_size": 95,
-            "translation": "검은 천에 은 자수가 아름다운 의상입니다.[LINE]\n제전용으로 사용되는 신성한 옷입니다.[LINE]\n어둠의 보호를 받는다고 전해집니다.[END]"
+            "translation": "검은 천에 은빛 자수를 놓은 아름다운 의상.[LINE]\n제사용으로 사용되며,[LINE]\n어둠의 가호를 받고 있다고 한다.[END]"
         },
         {
             "offset": 1787488,
             "string": "[Sign_Shield]ゴシックウェア[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]고딕웨어[END]"
+            "translation": "[Sign_Shield]고딕 웨어[END]"
         },
         {
             "offset": 1787416,
             "string": "簡素で典雅な造りの男性用衣装。[LINE]\n過去に興った美術様式を汲んだ[LINE]\n作品。[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "소박하면서도 우아한 디자인의 남성용 의상입니다.[LINE]\n과거에 유행했던 미술 양식을 반영한[LINE]\n작품입니다.[END]"
+            "translation": "간결하면서도 우아한 디자인의 의상.[LINE]\n과거에 유행한 미술 양식을[LINE]\n반영한 작품.[END]"
         },
         {
             "offset": 1787392,
             "string": "[Sign_Shield]ドラゴンウェア[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]드래곤웨어[END]"
+            "translation": "[Sign_Shield]드래곤 웨어[END]"
         },
         {
             "offset": 1787312,
             "string": "ドラゴンの鱗で強化した衣装。[LINE]\nドラゴンの鋭い爪から身を守り、[LINE]\n吐く炎をも遮る。[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "드래곤의 비늘로 강화된 의상입니다.[LINE]\n드래곤의 날카로운 발톱으로부터 몸을 지키고,[LINE]\n내뿜는 불꽃조차 막아냅니다.[END]"
+            "translation": "드래곤 비늘로 강화한 의상.[LINE]\n드래곤의 날카로운 발톱과[LINE]\n내뿜는 불길로부터 몸을 보호해준다.[END]"
         },
         {
             "offset": 1787288,
             "string": "[Sign_Shield]グリムウェア[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]그림웨어[END]"
+            "translation": "[Sign_Shield]그림 웨어[END]"
         },
         {
             "offset": 1787200,
             "string": "伝説に登場する幻想の力を秘めた[LINE]\n男性用衣装。口伝を書物にまとめた[LINE]\n兄弟の名を冠する。[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "전설에 등장하는 환상의 힘을 지닌[LINE]\n남성용 의상입니다. 구술을 문서로 정리한[LINE]\n형제의 이름을 따릅니다.[END]"
+            "translation": "전설 속에 등장하는 환상의 힘이 깃든 의상.[LINE]\n이야기를 책으로 엮은[LINE]\n형제의 이름이 붙었다.[END]"
         },
         {
             "offset": 1787176,
@@ -915,7 +915,7 @@
             "string": "二重構造の男性用衣装。[LINE]\n衝撃から身を守るだけではなく、[LINE]\nあらゆる毒からも身を守る。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "이중 구조의 남성용 의상입니다.[LINE]\n충격으로부터 몸을 보호할 뿐만 아니라,[LINE]\n모든 독으로부터도 몸을 지킵니다.[END]"
+            "translation": "이중 구조로 된 의상.[LINE]\n충격으로부터 몸을 보호하며,[LINE]\n온갖 독을 막아낸다.[END]"
         },
         {
             "offset": 1787064,
@@ -929,392 +929,392 @@
             "string": "道化の名を冠した男性用衣装。[LINE]\nその昔、笑いで世界を救おうと[LINE]\n旅をした道化人の衣装。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "광대의 이름을 딴 남성용 의상입니다.[LINE]\n한때, 웃음으로 세상을 구하려고[LINE]\n여행했던 광대의 의상입니다.[END]"
+            "translation": "광대라는 이름이 붙은 의상.[LINE]\n먼 옛날, 웃음으로 세상을 구하려고[LINE]\n여행했던 광대가 입었다.[END]"
         },
         {
             "offset": 1786952,
             "string": "[Sign_Shield]ヴァーミリオン[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]버미리온[END]"
+            "translation": "[Sign_Shield]버밀리온[END]"
         },
         {
             "offset": 1786880,
             "string": "美しい朱色の紋章入りの衣装。[LINE]\n朱色が血のようにも見える[LINE]\n怪しげな服。[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "아름다운 주황색 문장이 있는 의상입니다.[LINE]\n주황색이 피처럼 보이는[LINE]\n수상한 옷입니다.[END]"
+            "translation": "문양이 새겨진 아름다운 붉은색 의상.[LINE]\n붉은색이 피처럼 보여서[LINE]\n어쩐지 수상하다.[END]"
         },
         {
             "offset": 1786856,
             "string": "[Sign_Shield]エグゼキュータント[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "[Sign_Shield]엑제큐턴트[END]"
+            "translation": "[Sign_Shield]엑시큐던트[END]"
         },
         {
             "offset": 1786760,
             "string": "演奏者の名を冠する男性用衣装。[LINE]\n演奏者の邪魔にならないように[LINE]\n衣擦れの音はまったくしない。[END]",
             "original_bytes_length": 89,
             "available_bytes_size": 95,
-            "translation": "연주자의 이름을 딴 남성용 의상입니다.[LINE]\n연주자의 방해가 되지 않도록[LINE]\n옷이 스치는 소리는 전혀 나지 않습니다.[END]"
+            "translation": "연주자라는 이름이 붙은 의상.[LINE]\n연주자에게 방해가 되지 않도록[LINE]\n옷이 스치는 소리는 나지 않는다.[END]"
         },
         {
             "offset": 1786744,
             "string": "[Sign_Shield]ミスウェア[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_Shield]미스웨어[END]"
+            "translation": "[Sign_Shield]미스 웨어[END]"
         },
         {
             "offset": 1786648,
             "string": "「伝説」を意味する男性用衣装。[LINE]\n身に纏った者は英雄と謳われる。[LINE]\n選ばれた者のみが手にできる。[END]",
             "original_bytes_length": 91,
             "available_bytes_size": 95,
-            "translation": "‘전설’을 의미하는 남성용 의상입니다.[LINE]\n몸에 걸친 자는 영웅으로 불립니다.[LINE]\n선택된 자만이 손에 넣을 수 있습니다.[END]"
+            "translation": "「전설」을 의미하는 의상.[LINE]\n걸친 자는 영웅이라고 칭송받게 된다.[LINE]\n선택받은 자만이 손에 넣을 수 있다.[END]"
         },
         {
             "offset": 1786624,
             "string": "[Sign_Shield]レザークローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]레더 망토[END]"
+            "translation": "[Sign_Shield]레더 클라우크[END]"
         },
         {
             "offset": 1786544,
             "string": "革製のクローク。[LINE]\n軽くてそこそこ丈夫なため、[LINE]\n女性の冒険者に愛用されている。[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "가죽으로 만들어진 망토입니다.[LINE]\n가볍고 꽤 튼튼하여,[LINE]\n여성 모험가들에게 사랑받고 있습니다.[END]"
+            "translation": "가죽으로 만든 외투.[LINE]\n적당히 가볍고 튼튼해서,[LINE]\n여성 모험가가 애용하고 있다.[END]"
         },
         {
             "offset": 1786520,
             "string": "[Sign_Shield]ホワイトクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]화이트 망토[END]"
+            "translation": "[Sign_Shield]화이트 클라우크[END]"
         },
         {
             "offset": 1786456,
             "string": "白い布地であしらえたクローク。[LINE]\n清楚なスタイルで街娘にも人気。[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "흰색 천으로 장식된 망토입니다.[LINE]\n청순한 스타일로 거리의 소녀들에게도 인기입니다.[LINE]\n[END]"
+            "translation": "흰 천으로 장식된 외투.[LINE]\n청초한 스타일로 아가씨에게 인기가 많다.[LINE]\n[END]"
         },
         {
             "offset": 1786432,
             "string": "[Sign_Shield]フェザークローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]페더 망토[END]"
+            "translation": "[Sign_Shield]페더 클라우크[END]"
         },
         {
             "offset": 1786376,
             "string": "水鳥の羽毛で縫製されたクローク。[LINE]\n羽のように軽い。[LINE]\n[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "물새의 깃털로 제작된 망토입니다.[LINE]\n깃털처럼 가볍습니다.[LINE]\n[END]"
+            "translation": "물새 깃털로 만든 외투.[LINE]\n깃털처럼 가볍다.[LINE]\n[END]"
         },
         {
             "offset": 1786352,
             "string": "[Sign_Shield]ブラッククローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]블랙 망토[END]"
+            "translation": "[Sign_Shield]블랙 클라우크[END]"
         },
         {
             "offset": 1786288,
             "string": "黒い布地であしらえたクローク。[LINE]\n夜遊びする街娘にも人気な一品。[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "검은 천으로 장식된 망토입니다.[LINE]\n밤에 놀러 다니는 거리의 소녀들에게도 인기 있는 아이템입니다.[LINE]\n[END]"
+            "translation": "검은 천으로 장식된 외투.[LINE]\n밤산책을 다니는 아가씨에게 인기가 많다.[LINE]\n[END]"
         },
         {
             "offset": 1786264,
             "string": "[Sign_Shield]シルククローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]실크 망토[END]"
+            "translation": "[Sign_Shield]실크 클라우크[END]"
         },
         {
             "offset": 1786192,
             "string": "絹で縫製されたクローク。[LINE]\n光沢が美しく、滑らかな肌触りで[LINE]\n着心地も良い。[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "비단으로 제작된 망토입니다.[LINE]\n광택이 아름답고, 부드러운 촉감으로[LINE]\n착용감도 좋습니다.[END]"
+            "translation": "비단으로 만든 외투.[LINE]\n광택이 아름답고, 촉감이 부드러우며[LINE]\n착용감도 좋다.[END]"
         },
         {
             "offset": 1786168,
             "string": "[Sign_Shield]シルバークローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]실버 망토[END]"
+            "translation": "[Sign_Shield]실버 클라우크[END]"
         },
         {
             "offset": 1786112,
             "string": "銀細工で装飾されたクローク。[LINE]\n白い輝きが美しい。[LINE]\n[END]",
             "original_bytes_length": 49,
             "available_bytes_size": 55,
-            "translation": "은세공으로 장식된 망토입니다.[LINE]\n하얀 빛이 아름답습니다.[LINE]\n[END]"
+            "translation": "은세공으로 장식된 외투.[LINE]\n하얀 빛이 아름답다.[LINE]\n[END]"
         },
         {
             "offset": 1786088,
             "string": "[Sign_Shield]ゴールドクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]골드 망토[END]"
+            "translation": "[Sign_Shield]골드 클라우크[END]"
         },
         {
             "offset": 1786032,
             "string": "金細工で装飾されたクローク。[LINE]\n別名「豪華なクローク」。[LINE]\n[END]",
             "original_bytes_length": 55,
             "available_bytes_size": 55,
-            "translation": "금세공으로 장식된 망토입니다.[LINE]\n별명은 ‘호화로운 망토’입니다.[LINE]\n[END]"
+            "translation": "금세공으로 장식된 외투.[LINE]\n일명 「호화로운 외투」.[LINE]\n[END]"
         },
         {
             "offset": 1786008,
             "string": "[Sign_Shield]ミスリルクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]미스릴 망토[END]"
+            "translation": "[Sign_Shield]미스릴 클라우크[END]"
         },
         {
             "offset": 1785936,
             "string": "ミスリル細工装飾されたクローク。[LINE]\nドワーフ族の芸術作品といわれる。[LINE]\n[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "미스릴 세공으로 장식된 망토입니다.[LINE]\n드워프족의 예술 작품이라고 알려져 있습니다.[LINE]\n[END]"
+            "translation": "미스릴 세공으로 장식된 외투.[LINE]\n드워프족의 예술작품이라고 한다.[LINE]\n[END]"
         },
         {
             "offset": 1785912,
             "string": "[Sign_Shield]メッシュクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]메쉬 망토[END]"
+            "translation": "[Sign_Shield]메쉬 클라우크[END]"
         },
         {
             "offset": 1785848,
             "string": "網目状に編んだクローク。[LINE]\n通気性が良く、[LINE]\n軽い作りになっている。[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "그물 모양으로 짜여진 망토입니다.[LINE]\n통기성이 좋고,[LINE]\n가벼운 구조로 되어 있습니다.[END]"
+            "translation": "그물 모양으로 엮은 외투.[LINE]\n통기성이 좋고,[LINE]\n가벼운 구조로 되어 있다.[END]"
         },
         {
             "offset": 1785824,
             "string": "[Sign_Shield]メイジクローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]메이지 망토[END]"
+            "translation": "[Sign_Shield]메이지 클라우크[END]"
         },
         {
             "offset": 1785760,
             "string": "術士のために作られたクローク。[LINE]\n身に付けた者の精神力を高める。[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "마법사를 위해 만들어진 망토입니다.[LINE]\n착용자의 정신력을 높여줍니다.[LINE]\n[END]"
+            "translation": "마법사를 위해 만들어진 외투.[LINE]\n착용자의 정신력을 높여준다.[LINE]\n[END]"
         },
         {
             "offset": 1785736,
             "string": "[Sign_Shield]ファンシークローク[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "[Sign_Shield]판타지 망토[END]"
+            "translation": "[Sign_Shield]팬시 클라우크[END]"
         },
         {
             "offset": 1785656,
             "string": "可愛さを追求したクローク。[LINE]\nふわふわなピンクのスカートは、[LINE]\n女の子の憧れ。[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79,
-            "translation": "귀여움을 추구한 망토입니다.[LINE]\n보송보송한 핑크 스커트는,[LINE]\n소녀들의 동경입니다.[END]"
+            "translation": "귀여움을 추구한 외투.[LINE]\n하늘하늘한 핑크 스커트는,[LINE]\n소녀가 동경하는 대상.[END]"
         },
         {
             "offset": 1785632,
             "string": "[Sign_Shield]ムーンクローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]문 망토[END]"
+            "translation": "[Sign_Shield]문 클라우크[END]"
         },
         {
             "offset": 1785568,
             "string": "月夜を意匠して作られたクローク。[LINE]\n聖なる月の力が宿っている。[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "달밤을 모티브로 만들어진 망토입니다.[LINE]\n신성한 달의 힘이 깃들어 있습니다.[LINE]\n[END]"
+            "translation": "달밤을 모티브로 만들어진 외투.[LINE]\n성스러운 달의 힘이 깃들어 있다.[LINE]\n[END]"
         },
         {
             "offset": 1785544,
             "string": "[Sign_Shield]スタークローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]스타 망토[END]"
+            "translation": "[Sign_Shield]스타 클라우크[END]"
         },
         {
             "offset": 1785464,
             "string": "星を意匠して作られたクローク。[LINE]\n流星のように速く動ける。[LINE]\nと、宣伝されている。[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "별을 모티브로 만들어진 망토입니다.[LINE]\n유성처럼 빠르게 움직일 수 있다고,[LINE]\n홍보되고 있습니다.[END]"
+            "translation": "별을 모티브로 만들어진 외투.[LINE]\n유성처럼 빠르게 움직일 수 있다며[LINE]\n홍보되고 있다.[END]"
         },
         {
             "offset": 1785432,
             "string": "[Sign_Shield]ウォーロッククローク[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Sign_Shield]워록 망토[END]"
+            "translation": "[Sign_Shield]워록 클라우크[END]"
         },
         {
             "offset": 1785344,
             "string": "熟練の術士のためのクローク。[LINE]\n精神力を高めるだけではなく、[LINE]\n身を守ることにも長けている。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "숙련된 마법사를 위한 망토입니다.[LINE]\n정신력을 높이는 것뿐만 아니라,[LINE]\n자신을 보호하는 데에도 능숙합니다.[END]"
+            "translation": "숙련된 마법사를 위한 외투.[LINE]\n정신력을 높일 뿐만 아니라,[LINE]\n몸을 보호하는 성능도 좋다.[END]"
         },
         {
             "offset": 1785320,
             "string": "[Sign_Shield]スピリットクローク[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "[Sign_Shield]스피릿 망토[END]"
+            "translation": "[Sign_Shield]스피릿 클라우크[END]"
         },
         {
             "offset": 1785248,
             "string": "霊的な加護が施されたクローク。[LINE]\n身に付けた者に不屈の精神を与える。[LINE]\n[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "영적인 가호가 부여된 망토입니다.[LINE]\n착용자에게 불굴의 정신을 줍니다.[LINE]\n[END]"
+            "translation": "영적인 가호가 부여된 외투.[LINE]\n착용자에게 불굴의 정신을 준다.[LINE]\n[END]"
         },
         {
             "offset": 1785224,
             "string": "[Sign_Shield]レアクローク[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]레어 망토[END]"
+            "translation": "[Sign_Shield]레어 클라우크[END]"
         },
         {
             "offset": 1785200,
             "string": "[Sign_Shield]アンバークローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]앰버 망토[END]"
+            "translation": "[Sign_Shield]앰버 클라우크[END]"
         },
         {
             "offset": 1785128,
             "string": "琥珀の装飾が施されたクローク。[LINE]\n琥珀の宝石が装備者に加護を与える。[LINE]\n[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "호박 장식이施된 망토입니다.[LINE]\n호박 보석이 착용자에게 가호를 줍니다.[LINE]\n[END]"
+            "translation": "호박으로 장식된 외투.[LINE]\n호박 보석이 착용자에게 가호를 준다.[LINE]\n[END]"
         },
         {
             "offset": 1785104,
             "string": "[Sign_Shield]ホーリィクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]홀리 망토[END]"
+            "translation": "[Sign_Shield]홀리 클라우크[END]"
         },
         {
             "offset": 1785024,
             "string": "聖なる力に祝福されたクローク。[LINE]\n身に纏うと敵が寄り付かなくなると[LINE]\n言われている。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "신성한 힘에 축복받은 망토입니다.[LINE]\n몸에 감으면 적이 가까이 오지 못한다고[LINE]\n전해지고 있습니다.[END]"
+            "translation": "성스러운 힘으로 축복받은 외투.[LINE]\n걸치면 적이 가까이 오지 못한다고 한다.[LINE]\n[END]"
         },
         {
             "offset": 1785000,
             "string": "[Sign_Shield]エルダークローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]엘더 망토[END]"
+            "translation": "[Sign_Shield]엘더 클라우크[END]"
         },
         {
             "offset": 1784912,
             "string": "偉大なる聖職者の名がつけられた[LINE]\nクローク。彼の愛したニワトコの花で[LINE]\n染められている。[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "위대한 성직자의 이름이 붙여진[LINE]\n망토입니다. 그가 사랑했던 엘더플라워로[LINE]\n염색되어 있습니다.[END]"
+            "translation": "위대한 성직자의 이름이 붙은 외투.[LINE]\n그가 사랑한 딱총나무 꽃으로[LINE]\n염색되어 있다.[END]"
         },
         {
             "offset": 1784888,
             "string": "[Sign_Shield]ミスティクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]미스티 망토[END]"
+            "translation": "[Sign_Shield]미스티 클라우크[END]"
         },
         {
             "offset": 1784824,
             "string": "原料や生成が不明なクローク。[LINE]\n見る角度により色が変化する。[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63,
-            "translation": "재료와 생성이 불명한 망토입니다.[LINE]\n보는 각도에 따라 색상이 변합니다.[LINE]\n[END]"
+            "translation": "재료도 제조법도 불명인 외투.[LINE]\n보는 각도에 따라 색상이 변한다.[LINE]\n[END]"
         },
         {
             "offset": 1784800,
             "string": "[Sign_Shield]ルーンクローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]룬 망토[END]"
+            "translation": "[Sign_Shield]룬 클라우크[END]"
         },
         {
             "offset": 1784704,
             "string": "祝福のルーンが刺繍されたクローク。[LINE]\nどんな困難でも恐れない、暖かな光を[LINE]\n身に付けた者に与える。[END]",
             "original_bytes_length": 93,
             "available_bytes_size": 95,
-            "translation": "축복의 룬이 자수로 새겨진 망토입니다.[LINE]\n어떤 어려움도 두려워하지 않게, 따뜻한 빛을[LINE]\n착용자에게 줍니다.[END]"
+            "translation": "축복의 룬이 수놓인 외투.[LINE]\n어떤 고난도 두려워하지 않도록,[LINE]\n착용자에게 따뜻한 빛을 준다.[END]"
         },
         {
             "offset": 1784680,
             "string": "[Sign_Shield]ウィッチクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]위치 망토[END]"
+            "translation": "[Sign_Shield]위치 클라우크[END]"
         },
         {
             "offset": 1784584,
             "string": "位の高い術士が着るクローク。[LINE]\n精神量を増加させ、練りこまれた[LINE]\n呪術が敵の攻撃から身を守る。[END]",
             "original_bytes_length": 89,
             "available_bytes_size": 95,
-            "translation": "위치가 높은 마법사가 착용하는 망토입니다.[LINE]\n정신량을 증가시키고, 정교한[LINE]\n주술이 적의 공격으로부터 보호합니다.[END]"
+            "translation": "지위가 높은 마법사가 착용하는 외투.[LINE]\n정신량을 증가시키고, 정교한 주술이[LINE]\n적의 공격으로부터 몸을 지켜준다.[END]"
         },
         {
             "offset": 1784560,
             "string": "[Sign_Shield]プリズムクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]프리즘 망토[END]"
+            "translation": "[Sign_Shield]프리즘 클라우크[END]"
         },
         {
             "offset": 1784496,
             "string": "虹色の光を放つクローク。[LINE]\n光の屈折により敵の目を惑わす。[LINE]\n[END]",
             "original_bytes_length": 57,
             "available_bytes_size": 63,
-            "translation": "무지개빛 광채를 방출하는 망토입니다.[LINE]\n빛의 굴절로 적의 시선을 혼란스럽게 합니다.[LINE]\n[END]"
+            "translation": "무지개색으로 빛나는 외투.[LINE]\n빛의 굴절로 적의 시선을 혼란시킨다.[LINE]\n[END]"
         },
         {
             "offset": 1784472,
             "string": "[Sign_Shield]グリムクローク[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]그림 망토[END]"
+            "translation": "[Sign_Shield]그림 클라우크[END]"
         },
         {
             "offset": 1784384,
             "string": "伝説に登場する幻想の力を秘めた[LINE]\nクローク。口伝を書物にまとめた[LINE]\n兄弟の名を冠する。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "전설에 등장하는 환상의 힘을 간직한[LINE]\n망토입니다. 구술을 문서로 정리한[LINE]\n형제의 이름을 따릅니다.[END]"
+            "translation": "전설 속에 등장하는 환상의 힘이 깃든 외투.[LINE]\n이야기를 책으로 엮은[LINE]\n형제의 이름이 붙었다.[END]"
         },
         {
             "offset": 1784368,
             "string": "[Sign_Shield]ラバーブル[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_Shield]라바블[END]"
+            "translation": "[Sign_Shield]러버블[END]"
         },
         {
             "offset": 1784288,
             "string": "愛らしいデザインのクローク。[LINE]\nその愛らしさは、[LINE]\n攻撃の手が緩んでしまうほど。[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "사랑스러운 디자인의 망토입니다.[LINE]\n그 사랑스러움은,[LINE]\n공격의 손이 느슨해질 정도입니다.[END]"
+            "translation": "사랑스러운 디자인의 외투.[LINE]\n그 사랑스러움은,[LINE]\n공격하는 자의 손에 힘이 빠질 정도.[END]"
         },
         {
             "offset": 1784272,
@@ -1328,7 +1328,7 @@
             "string": "上質な生地でしつらえたクローク。[LINE]\nストレイライズ聖職者の祭服。[LINE]\nアタモニ神の加護を受ける。[END]",
             "original_bytes_length": 89,
             "available_bytes_size": 95,
-            "translation": "고급 원단으로 제작된 망토입니다.[LINE]\n스트레이라이즈 성직자의 제전입니다.[LINE]\n아타모니 신의 가호를 받습니다.[END]"
+            "translation": "고급 원단으로 제작된 외투.[LINE]\n스트레이라이즈 성직자의 제의.[LINE]\n아타모니 신의 가호를 받는다.[END]"
         },
         {
             "offset": 1784152,
@@ -1342,21 +1342,21 @@
             "string": "船乗りの服をアレンジしたクローク。[LINE]\nマニアが多い。[LINE]\n[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "선원 의상을 변형한 망토입니다.[LINE]\n매니아가 많습니다.[LINE]\n[END]"
+            "translation": "선원 의상을 어레인지한 외투.[LINE]\n매니아가 많다.[LINE]\n[END]"
         },
         {
             "offset": 1784072,
             "string": "[Sign_Shield]ボディスーツ[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]바디수트[END]"
+            "translation": "[Sign_Shield]바디 수트[END]"
         },
         {
             "offset": 1783968,
             "string": "上下ひと続きにしたクローク。[LINE]\n肌に密着し、動作の邪魔にならない。[LINE]\n女性のボディラインを美しく見せる。[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "상하가 하나로 연결된 망토입니다.[LINE]\n피부에 밀착되어, 동작의 방해가 없습니다.[LINE]\n여성의 바디라인을 아름답게 보여줍니다.[END]"
+            "translation": "상하의 일체형 외투.[LINE]\n피부에 밀착되어 움직임을 방해하지 않는다.[LINE]\n여성의 바디라인을 아름답게 보여준다.[END]"
         },
         {
             "offset": 1783944,
@@ -1370,21 +1370,21 @@
             "string": "防風、防寒のためのクローク。[LINE]\n寒い日でもかさばらずに暖かい。[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "바람과 추위를 막기 위한 망토입니다.[LINE]\n추운 날에도 부피가 크지 않고 따뜻합니다.[LINE]\n[END]"
+            "translation": "바람과 추위를 막기 위한 외투.[LINE]\n추운 날에도 두껍게 입을 필요 없이[LINE]\n 따뜻해질 수 있다.[END]"
         },
         {
             "offset": 1783856,
             "string": "[Sign_Shield]アンステイブル[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]언스테이벌[END]"
+            "translation": "[Sign_Shield]언스테이블[END]"
         },
         {
             "offset": 1783784,
             "string": "動きやすさに特化したクローク。[LINE]\n身に付けた者の身体能力を向上する。[LINE]\n[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "움직이기 편리하게 설계된 망토입니다.[LINE]\n착용자의 신체 능력을 향상시킵니다.[LINE]\n[END]"
+            "translation": "편한 움직임에 특화된 외투.[LINE]\n착용자의 신체 능력을 향상시킨다.[LINE]\n[END]"
         },
         {
             "offset": 1783760,
@@ -1398,21 +1398,21 @@
             "string": "天国の名を冠する神秘のクローク。[LINE]\n楽園に住まう者達の服。[LINE]\n全ての痛みを緩和する。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "천국의 이름을 가진 신비로운 망토입니다.[LINE]\n낙원에 사는 자들의 옷입니다.[LINE]\n모든 고통을 완화합니다.[END]"
+            "translation": "천국이라는 이름이 붙은 신비한 외투.[LINE]\n낙원에 사는 자들의 옷.[LINE]\n모든 고통을 완화한다.[END]"
         },
         {
             "offset": 1783656,
             "string": "[Sign_Shield]ネージアクローク[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]네이저 망토[END]"
+            "translation": "[Sign_Shield]네이더 클라우크[END]"
         },
         {
             "offset": 1783560,
             "string": "「奈落」を意味するクローク。[LINE]\n全てを最果てへと導く誘い手となる。[LINE]\n選ばれた者のみが手にできる。[END]",
             "original_bytes_length": 93,
             "available_bytes_size": 95,
-            "translation": "‘나락’을 의미하는 망토입니다.[LINE]\n모든 것을 최후의 곳으로 인도하는 유인자가 됩니다.[LINE]\n선택된 자만이 가질 수 있습니다.[END]"
+            "translation": "「나락」을 의미하는 외투.[LINE]\n모든 것을 끝으로 인도하는 유인자가 된다.[LINE]\n선택받은 자만이 손에 넣을 수 있다.[END]"
         },
         {
             "offset": 1783536,
@@ -1426,7 +1426,7 @@
             "string": "白い布地であしらえたローブ。[LINE]\n清楚なスタイルで街娘にも人気。[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "흰색 천으로 장식된 로브입니다.[LINE]\n단정한 스타일로 거리의 소녀들에게도 인기가 많습니다.[LINE]\n[END]"
+            "translation": "흰 천으로 장식된 로브.[LINE]\n단정한 스타일로 아가씨에게 인기가 많다.[LINE]\n[END]"
         },
         {
             "offset": 1783448,
@@ -1440,7 +1440,7 @@
             "string": "水鳥の羽毛で縫製されたローブ。[LINE]\n羽のように軽い。[LINE]\n[END]",
             "original_bytes_length": 49,
             "available_bytes_size": 55,
-            "translation": "물새의 깃털로 제작된 로브입니다.[LINE]\n날개처럼 가볍습니다.[LINE]\n[END]"
+            "translation": "물새 깃털로 만든 로브.[LINE]\n깃털처럼 가볍다.[LINE]\n[END]"
         },
         {
             "offset": 1783368,
@@ -1454,7 +1454,7 @@
             "string": "黒い布地であしらえたローブ。[LINE]\n夜遊びする街娘にも人気な一品。[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "검은 천으로 장식된 로브입니다.[LINE]\n야외에서 놀기 좋아하는 거리의 소녀들에게도 인기 있는 아이템입니다.[LINE]\n[END]"
+            "translation": "검은 천으로 장식된 로브.[LINE]\n밤산책을 다니는 아가씨에게 인기가 많다.[LINE]\n[END]"
         },
         {
             "offset": 1783280,
@@ -1468,7 +1468,7 @@
             "string": "絹で縫製されたローブ。[LINE]\n光沢が美しく、滑らかな肌触りで[LINE]\n着心地も良い。[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71,
-            "translation": "실크로 제작된 로브입니다.[LINE]\n광택이 아름답고 부드러운 촉감으로[LINE]\n착용감도 좋습니다.[END]"
+            "translation": "비단으로 만든 로브.[LINE]\n광택이 아름답고, 촉감이 부드러우며[LINE]\n착용감도 좋다.[END]"
         },
         {
             "offset": 1783184,
@@ -1482,7 +1482,7 @@
             "string": "銀細工で装飾されたローブ。[LINE]\n白い輝きが美しい。[LINE]\n[END]",
             "original_bytes_length": 47,
             "available_bytes_size": 47,
-            "translation": "은세공으로 장식된 로브입니다.[LINE]\n흰색의 빛이 아름답습니다.[LINE]\n[END]"
+            "translation": "은세공으로 장식된 로브.[LINE]\n하얀 빛이 아름답다.[LINE]\n[END]"
         },
         {
             "offset": 1783112,
@@ -1496,7 +1496,7 @@
             "string": "金細工で装飾されたローブ。[LINE]\n別名「豪華なローブ」。[LINE]\n[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "금세공으로 장식된 로브입니다.[LINE]\n별칭은 ‘호화로운 로브’입니다.[LINE]\n[END]"
+            "translation": "금세공으로 장식된 로브.[LINE]\n일명 「호화로운 로브」.[LINE]\n[END]"
         },
         {
             "offset": 1783032,
@@ -1510,7 +1510,7 @@
             "string": "ミスリル細工装飾されたローブ。[LINE]\nドワーフ族の芸術作品といわれる。[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "미스릴 세공으로 장식된 로브입니다.[LINE]\n드워프족의 예술 작품이라고 불립니다.[LINE]\n[END]"
+            "translation": "미스릴 세공으로 장식된 로브.[LINE]\n드워프족의 예술작품이라고 한다.[LINE]\n[END]"
         },
         {
             "offset": 1782936,
@@ -1524,21 +1524,21 @@
             "string": "術士のために作られたローブ。[LINE]\n身に付けた者の精神力を高める。[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "술사를 위해 만들어진 로브입니다.[LINE]\n착용한 자의 정신력을 높여줍니다.[LINE]\n[END]"
+            "translation": "마법사를 위해 만들어진 로브.[LINE]\n착용자의 정신력을 높여준다.[LINE]\n[END]"
         },
         {
             "offset": 1782848,
             "string": "[Sign_Shield]ファンシーローブ[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]판시 로브[END]"
+            "translation": "[Sign_Shield]팬시 로브[END]"
         },
         {
             "offset": 1782776,
             "string": "可愛さを追求したローブ。[LINE]\nふわふわなロングスカートは、[LINE]\n女の子の憧れ。[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71,
-            "translation": "귀여움을 추구한 로브입니다.[LINE]\n푹신한 롱 스커트는,[LINE]\n여자아이들의憧れ입니다.[END]"
+            "translation": "귀여움을 추구한 로브.[LINE]\n하늘하늘한 롱 스커트는,[LINE]\n소녀가 동경하는 대상.[END]"
         },
         {
             "offset": 1782752,
@@ -1552,7 +1552,7 @@
             "string": "月夜を意匠して作られたローブ。[LINE]\n聖なる月の力が宿っている。[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63,
-            "translation": "달밤을 디자인하여 만들어진 로브입니다.[LINE]\n신성한 달의 힘이 깃들어 있습니다.[LINE]\n[END]"
+            "translation": "달밤을 모티브로 만들어진 로브.[LINE]\n성스러운 달의 힘이 깃들어 있다.[LINE]\n[END]"
         },
         {
             "offset": 1782664,
@@ -1566,7 +1566,7 @@
             "string": "星を意匠して作られたローブ。[LINE]\n流星のように速く動ける。[LINE]\nと、宣伝されている。[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "별을 디자인하여 만들어진 로브입니다.[LINE]\n유성처럼 빠르게 움직일 수 있다고,[LINE]\n홍보되고 있습니다.[END]"
+            "translation": "별을 모티브로 만들어진 로브.[LINE]\n유성처럼 빠르게 움직일 수 있다며[LINE]\n홍보되고 있다.[END]"
         },
         {
             "offset": 1782560,
@@ -1580,7 +1580,7 @@
             "string": "熟練の術士のためのローブ。[LINE]\n精神力を高めるだけではなく、[LINE]\n身を守ることにも長けている。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "숙련된 술사를 위한 로브입니다.[LINE]\n정신력을 높일 뿐만 아니라,[LINE]\n자신을 보호하는 데에도 능숙합니다.[END]"
+            "translation": "숙련된 술사를 위한 로브.[LINE]\n정신력을 높일 뿐만 아니라,[LINE]\n몸을 보호하는 성능도 좋다.[END]"
         },
         {
             "offset": 1782448,
@@ -1594,7 +1594,7 @@
             "string": "霊的な加護の施されたローブ。[LINE]\n身に付けた者に不屈の精神を与える。[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "영적인 보호가 부여된 로브입니다.[LINE]\n착용한 자에게 불굴의 정신을 줍니다.[LINE]\n[END]"
+            "translation": "영적인 가호가 부여된 로브.[LINE]\n착용자에게 불굴의 정신을 준다.[LINE]\n[END]"
         },
         {
             "offset": 1782360,
@@ -1615,7 +1615,7 @@
             "string": "ストレイライズ神殿のローブ。[LINE]\n神の使徒となった日に[LINE]\n渡される制服。[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "스트레이라이즈 신전의 로브입니다.[LINE]\n신의 사도가 된 날에[LINE]\n전해지는 제복입니다.[END]"
+            "translation": "스트레이라이즈 신전의 로브.[LINE]\n신의 사도가 된 날에[LINE]\n전달되는 제의.[END]"
         },
         {
             "offset": 1782240,
@@ -1629,7 +1629,7 @@
             "string": "偉大なる聖職者の名がつけられた[LINE]\nローブ。彼の愛したニワトコの花で[LINE]\n染められている。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "위대한 성직자의 이름이 붙여진[LINE]\n로브입니다. 그가 사랑했던 쐐기풀꽃으로[LINE]\n염색되어 있습니다.[END]"
+            "translation": "위대한 성직자의 이름이 붙은 로브.[LINE]\n그가 사랑한 딱총나무 꽃으로[LINE]\n염색되어 있다.[END]"
         },
         {
             "offset": 1782128,
@@ -1643,7 +1643,7 @@
             "string": "原料や生成が不明なローブ。[LINE]\n見る角度により色が変化する。[LINE]\n[END]",
             "original_bytes_length": 57,
             "available_bytes_size": 63,
-            "translation": "원료나 생성이 불명한 로브입니다.[LINE]\n보는 각도에 따라 색이 변합니다.[LINE]\n[END]"
+            "translation": "재료도 제조법도 불명인 로브.[LINE]\n보는 각도에 따라 색상이 변한다.[LINE]\n[END]"
         },
         {
             "offset": 1782040,
@@ -1657,7 +1657,7 @@
             "string": "安息のルーンが刺繍されたローブ。[LINE]\nどんな辛い苦行でも、耐えられる[LINE]\n力を身につけた者に与える。[END]",
             "original_bytes_length": 91,
             "available_bytes_size": 95,
-            "translation": "안식의 룬이 자수된 로브입니다.[LINE]\n어떤 힘든 고행이라도 견딜 수 있는[LINE]\n힘을 몸에 지닌 자에게 줍니다.[END]"
+            "translation": "안식의 룬이 수놓인 로브.[LINE]\n아무리 힘든 고행이라도 견딜 수 있도록[LINE]\n착용자에게 힘을 준다.[END]"
         },
         {
             "offset": 1781920,
@@ -1671,7 +1671,7 @@
             "string": "位の高い術士が着るローブ。[LINE]\n精神量を増加させ、練りこまれた[LINE]\n呪術が敵の攻撃から身を守る。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "위치가 높은 술사가 입는 로브입니다.[LINE]\n정신량을 증가시키고, 정교하게[LINE]\n주술이 적의 공격으로부터 몸을 보호합니다.[END]"
+            "translation": "지위가 높은 마법사가 착용하는 로브.[LINE]\n정신량을 증가시키고, 정교한 주술이[LINE]\n적의 공격으로부터 몸을 지켜준다.[END]"
         },
         {
             "offset": 1781808,
@@ -1685,7 +1685,7 @@
             "string": "虹色の光を放つローブ。[LINE]\n光の屈折により敵を惑わす。[LINE]\n[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "무지개빛의 빛을 발하는 로브입니다.[LINE]\n빛의 굴절로 적을 혼란스럽게 합니다.[LINE]\n[END]"
+            "translation": "무지개색으로 빛나는 로브.[LINE]\n빛의 굴절로 적의 시선을 혼란시킨다.[LINE]\n[END]"
         },
         {
             "offset": 1781728,
@@ -1699,21 +1699,21 @@
             "string": "伝説に登場する幻想の力を秘めた[LINE]\nローブ。口伝を書物にまとめた[LINE]\n兄弟の名を冠する。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "전설에 등장하는 환상의 힘을 지닌[LINE]\n로브입니다. 구술로 기록한[LINE]\n형제의 이름을 따릅니다.[END]"
+            "translation": "전설 속에 등장하는 환상의 힘이 깃든 로브.[LINE]\n이야기를 책으로 엮은[LINE]\n형제의 이름이 붙었다.[END]"
         },
         {
             "offset": 1781624,
             "string": "[Sign_Shield]エプロンドレス[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Shield]에이프론 드레스[END]"
+            "translation": "[Sign_Shield]에이프런 드레스[END]"
         },
         {
             "offset": 1781536,
             "string": "フィッツガルドで密かなブームに[LINE]\nなっている服。家事の時でも[LINE]\n可愛さを忘れないアイテム。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "피츠가르드에서 몰래 유행하고 있는 옷입니다.[LINE]\n집안일을 할 때도[LINE]\n귀여움을 잊지 않는 아이템입니다.[END]"
+            "translation": "피츠가르드에서 비밀리에 유행하는 옷.[LINE]\n집안일을 할 때도[LINE]\n귀여움을 잊지 않는 아이템.[END]"
         },
         {
             "offset": 1781512,
@@ -1727,7 +1727,7 @@
             "string": "細身で透け感の際どいドレス。[LINE]\n涼しく着心地が良くて快適。[LINE]\n少し勇気はいる。[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79,
-            "translation": "슬림하고 비침이 있는 드레스입니다.[LINE]\n시원하고 착용감이 좋으며 편안합니다.[LINE]\n조금 용기가 필요합니다.[END]"
+            "translation": "몸에 딱 붙고 안이 비치는 위험한 드레스.[LINE]\n시원하고 착용감이 좋으며 편안하다.[LINE]\n조금 용기가 필요하다.[END]"
         },
         {
             "offset": 1781408,
@@ -1741,7 +1741,7 @@
             "string": "田園調の素朴なドレス。[LINE]\n懐古趣味な貴族たちに人気。[LINE]\n[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "전원풍의 소박한 드레스입니다.[LINE]\n향수를 느끼는 귀족들에게 인기가 많습니다.[LINE]\n[END]"
+            "translation": "시골 느낌의 소박한 드레스.[LINE]\n향수를 느끼는 귀족에게 인기가 많다.[LINE]\n[END]"
         },
         {
             "offset": 1781328,
@@ -1755,7 +1755,7 @@
             "string": "アクアヴェイルで生まれたドレス。[LINE]\n女性のボディラインを美しく[LINE]\n見せてくれる。[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "아쿠아베일에서 태어난 드레스입니다.[LINE]\n여성의 바디라인을 아름답게[LINE]\n보여줍니다.[END]"
+            "translation": "아쿠아베일에서 유래한 드레스.[LINE]\n여성의 바디라인을 아름답게 보여준다.[LINE]\n[END]"
         },
         {
             "offset": 1781224,
@@ -1769,7 +1769,7 @@
             "string": "粋な情緒の夜会用ドレス。[LINE]\nパーティーの必需品。[LINE]\n胸元の開きが勝負所。[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "세련된 정서를 가진 야회용 드레스입니다.[LINE]\n파티의 필수품입니다.[LINE]\n가슴의 오픈이 승부처입니다.[END]"
+            "translation": "세련된 분위기의 야회용 드레스.[LINE]\n파티의 필수품.[LINE]\n가슴의 오픈이 승부처.[END]"
         },
         {
             "offset": 1781128,
@@ -1783,7 +1783,7 @@
             "string": "純白の花嫁衣裳。[LINE]\n女の子の憧れ、幸せの象徴。[LINE]\n[END]",
             "original_bytes_length": 45,
             "available_bytes_size": 47,
-            "translation": "순백의 신부 의상입니다.[LINE]\n여자아이의 동경, 행복의 상징입니다.[LINE]\n[END]"
+            "translation": "순백의 신부 의상.[LINE]\n소녀가 동경하는 대상이자 행복의 상징.[LINE]\n[END]"
         },
         {
             "offset": 1781056,
@@ -1797,7 +1797,7 @@
             "string": "「最後」を意味するローブ。[LINE]\n世界を滅するほどの力を身に宿す。[LINE]\n選ばれた者のみが手にできる。[END]",
             "original_bytes_length": 89,
             "available_bytes_size": 95,
-            "translation": "「마지막」이라는 의미의 로브입니다.[LINE]\n세계를 멸망시킬 정도의 힘을 지니고 있습니다.[LINE]\n선택된 자만이 가질 수 있습니다.[END]"
+            "translation": "「마지막」을 의미하는 로브.[LINE]\n세계를 멸망시킬 정도의 힘이 깃들어 있다.[LINE]\n선택받은 자만이 손에 넣을 수 있다.[END]"
         }
     ]
 }
