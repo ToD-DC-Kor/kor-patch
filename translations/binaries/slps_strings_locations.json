@@ -1,0 +1,2636 @@
+{
+    "SLPS": [
+        {
+            "offset": 1714264,
+            "string": "カルビオラ神殿・神の眼前戦[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "칼비올라 신전・신의 눈앞 전투[END]"
+        },
+        {
+            "offset": 1714296,
+            "string": "モリュウ城・対バティスタ戦[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "모리유 성・바티스타 전투[END]"
+        },
+        {
+            "offset": 1714328,
+            "string": "ティルソの森・3[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "틸소의 숲・3[END]"
+        },
+        {
+            "offset": 1714344,
+            "string": "ティルソの森・2[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "틸소의 숲・2[END]"
+        },
+        {
+            "offset": 1714360,
+            "string": "ティルソの森・1[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "틸소의 숲・1[END]"
+        },
+        {
+            "offset": 1714376,
+            "string": "ティルソの森・0[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "틸소의 숲・0[END]"
+        },
+        {
+            "offset": 1714392,
+            "string": "ハイデルベルグ城・対グレバム戦[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "하이델베르크 성・그레밤 전투[END]"
+        },
+        {
+            "offset": 1714424,
+            "string": "ストレイライズ神殿へ続く森・山頂　3[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전으로 이어지는 숲・산정 3[END]"
+        },
+        {
+            "offset": 1714464,
+            "string": "ストレイライズ神殿へ続く森・山頂　2[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전으로 이어지는 숲・산정 2[END]"
+        },
+        {
+            "offset": 1714504,
+            "string": "ストレイライズ神殿へ続く森・山頂　1[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전으로 이어지는 숲・산정 1[END]"
+        },
+        {
+            "offset": 1714544,
+            "string": "ストレイライズ神殿へ続く森・山頂　0[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전으로 이어지는 숲・산정 0[END]"
+        },
+        {
+            "offset": 1714584,
+            "string": "ストレイライズ神殿へ続く森・中腹　3[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전으로 이어지는 숲・중턱 3[END]"
+        },
+        {
+            "offset": 1714624,
+            "string": "ストレイライズ神殿へ続く森・中腹　2[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전으로 이어지는 숲・중턱 2[END]"
+        },
+        {
+            "offset": 1714664,
+            "string": "ストレイライズ神殿へ続く森・中腹　1[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전으로 이어지는 숲・중턱 1[END]"
+        },
+        {
+            "offset": 1714704,
+            "string": "ストレイライズ神殿へ続く森・中腹　0[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전으로 이어지는 숲・중턱 0[END]"
+        },
+        {
+            "offset": 1714744,
+            "string": "ストレイライズ神殿へ続く森・ふもと　3[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전으로 이어지는 숲・기슭 3[END]"
+        },
+        {
+            "offset": 1714784,
+            "string": "ストレイライズ神殿へ続く森・ふもと　2[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전으로 이어지는 숲・기슭 2[END]"
+        },
+        {
+            "offset": 1714824,
+            "string": "ストレイライズ神殿へ続く森・ふもと　1[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전으로 이어지는 숲・기슭 1[END]"
+        },
+        {
+            "offset": 1714864,
+            "string": "ストレイライズ神殿へ続く森・ふもと　0[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전으로 이어지는 숲・기슭 0[END]"
+        },
+        {
+            "offset": 1714904,
+            "string": "南海の隠し神殿・対ドラゴンナイト戦[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "남해의 숨겨진 신전・드래곤 나이트 전투[END]"
+        },
+        {
+            "offset": 1714944,
+            "string": "シデン海底洞窟・対オーガスクィーン戦[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "시덴 해저 동굴・오우거 퀸 전투[END]"
+        },
+        {
+            "offset": 1714984,
+            "string": "秘奥義用背景[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "비급의 배경[END]"
+        },
+        {
+            "offset": 1715000,
+            "string": "隠しダンジョン・ボス[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "숨겨진 던전・보스[END]"
+        },
+        {
+            "offset": 1715024,
+            "string": "ベルクラント・対ヒューゴ戦[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "벨클란트・휴고 전투[END]"
+        },
+        {
+            "offset": 1715056,
+            "string": "ベルクラント・通路[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "벨클란트・통로[END]"
+        },
+        {
+            "offset": 1715080,
+            "string": "クラウディス・対バルック戦[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "클라우디스・발룩 전투[END]"
+        },
+        {
+            "offset": 1715112,
+            "string": "船（沈没）・ボス部屋[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "배(침몰)・보스 방[END]"
+        },
+        {
+            "offset": 1715136,
+            "string": "クラウディス・通路1[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "클라우디스・통로 1[END]"
+        },
+        {
+            "offset": 1715160,
+            "string": "アンズスーン・広間[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "안즈순・대홀[END]"
+        },
+        {
+            "offset": 1715184,
+            "string": "船（沈没）・船倉[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "배(침몰)・선창[END]"
+        },
+        {
+            "offset": 1715208,
+            "string": "アンズスーン・通路1[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "안즈순・통로 1[END]"
+        },
+        {
+            "offset": 1715232,
+            "string": "ヘルレイオス・対イレーヌ戦[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "헬레리오스・일레느 전투[END]"
+        },
+        {
+            "offset": 1715264,
+            "string": "ヘルレイオス・対イーレ戦[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "헬레리오스・이레 전투[END]"
+        },
+        {
+            "offset": 1715296,
+            "string": "ヘルレイオス・通路[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "헬레리오스・통로[END]"
+        },
+        {
+            "offset": 1715320,
+            "string": "船（沈没）・船室[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "배(침몰)・선실[END]"
+        },
+        {
+            "offset": 1715344,
+            "string": "ロディオン・通路1[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "로디온・통로 1[END]"
+        },
+        {
+            "offset": 1715368,
+            "string": "ミックハイル・対レンブラント戦[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "믹하일・렌브란트 전투[END]"
+        },
+        {
+            "offset": 1715400,
+            "string": "船（沈没）・通路[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "배(침몰)・통로[END]"
+        },
+        {
+            "offset": 1715424,
+            "string": "ミックハイル・通路1[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "믹하일・통로 1[END]"
+        },
+        {
+            "offset": 1715448,
+            "string": "シュサイア・通路1[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "슈사이아・통로 1[END]"
+        },
+        {
+            "offset": 1715472,
+            "string": "隠しダンジョン・通路[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "숨겨진 던전・통로[END]"
+        },
+        {
+            "offset": 1715496,
+            "string": "イグナシー・通路1[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "이그나시・통로 1[END]"
+        },
+        {
+            "offset": 1715520,
+            "string": "ネオ・ミクトラン戦（不思議空間？）[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "네오・믹트란 전투(신비한 공간？)[END]"
+        },
+        {
+            "offset": 1715560,
+            "string": "ダイクロフト中枢・ミクトラン戦[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "다이크로프트 중추・믹트란 전투[END]"
+        },
+        {
+            "offset": 1715592,
+            "string": "オベロン秘密工場・通路ボロボロ[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "오베론 비밀 공장・통로 너덜너덜[END]"
+        },
+        {
+            "offset": 1715632,
+            "string": "ダイクロフト・通路3（クリスタル）[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "다이크로프트・통로 3(크리스탈)[END]"
+        },
+        {
+            "offset": 1715672,
+            "string": "ダイクロフト・通路2　地下[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "다이크로프트・통로 2 지하[END]"
+        },
+        {
+            "offset": 1715704,
+            "string": "ダイクロフト・通路1　お城[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "다이크로프트・통로 1 성[END]"
+        },
+        {
+            "offset": 1715736,
+            "string": "ダリルシェイド街中・外殻完全閉じ後[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "다릴쉐이드 거리・외각 완전 폐쇄 후[END]"
+        },
+        {
+            "offset": 1715776,
+            "string": "トラッシュマウンテン・通路[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "트래시 마운틴・통로[END]"
+        },
+        {
+            "offset": 1715808,
+            "string": "ソーディアン研究所・通路[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "소드리안 연구소・통로[END]"
+        },
+        {
+            "offset": 1715840,
+            "string": "ダイクロフト・通路2　お城・おばけ屋敷[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "다이크로프트・통로 2 성・유령의 집[END]"
+        },
+        {
+            "offset": 1715880,
+            "string": "ハイデルベルグ城・通路4　時計塔内部[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "하이델베르크 성・통로 4 시계탑 내부[END]"
+        },
+        {
+            "offset": 1715920,
+            "string": "クレスタ（外殻完成後）・孤児院前[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "크레스타(외각 완성 후)・고아원 앞[END]"
+        },
+        {
+            "offset": 1715960,
+            "string": "外殻第三段階上・通路[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "외각 3단계 위・통로[END]"
+        },
+        {
+            "offset": 1715984,
+            "string": "外殻第二段階上・通路[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "외각 2단계 위・통로[END]"
+        },
+        {
+            "offset": 1716008,
+            "string": "外殻第一段階上・通路[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "외각 1단계 위・통로[END]"
+        },
+        {
+            "offset": 1716032,
+            "string": "南海の隠し神殿・通路[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "남해의 숨겨진 신전・통로[END]"
+        },
+        {
+            "offset": 1716056,
+            "string": "オベロン海底洞窟・広間　対リオン戦[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "오베론 해저 동굴・홀 대 리온 전투[END]"
+        },
+        {
+            "offset": 1716096,
+            "string": "オベロン海底洞窟・通路[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "오베론 해저 동굴・통로[END]"
+        },
+        {
+            "offset": 1716120,
+            "string": "オベロン秘密工場・通路[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "오베론 비밀 공장・통로[END]"
+        },
+        {
+            "offset": 1716144,
+            "string": "ハイデルベルグ城・通路3　城外壁[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "하이델베르크 성・통로 3 성 외벽[END]"
+        },
+        {
+            "offset": 1716176,
+            "string": "ハイデルベルグ城・通路2 外殻後[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "하이델베르크 성・통로 2 외각 후[END]"
+        },
+        {
+            "offset": 1716208,
+            "string": "ハイデルベルグ城・通路1　外殻前[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "하이델베르크 성・통로 1 외각 전[END]"
+        },
+        {
+            "offset": 1716240,
+            "string": "ハイデルベルグ地下通路・滑る通路[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "하이델베르크 지하 통로・미끄러운 통로[END]"
+        },
+        {
+            "offset": 1716280,
+            "string": "ハイデルベルグ地下通路・通路[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "하이델베르크 지하 통로・통로[END]"
+        },
+        {
+            "offset": 1716312,
+            "string": "ハイデルベルグ詰め所二階・対ダリス戦[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "하이델베르크 구비소 2층・대 다리스 전투[END]"
+        },
+        {
+            "offset": 1716352,
+            "string": "トウケイ城・対ティベリウス戦[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "토케이 성・대 티베리우스 전투[END]"
+        },
+        {
+            "offset": 1716384,
+            "string": "トウケイ城・通路[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "토케이 성・통로[END]"
+        },
+        {
+            "offset": 1716408,
+            "string": "モリュウ城・通路2(水路・水あり）[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "모리유 성・통로 2(수로・물 있음)[END]"
+        },
+        {
+            "offset": 1716448,
+            "string": "モリュウ城・通路1(水路・水なし）[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "모리유 성・통로 1(수로・물 없음)[END]"
+        },
+        {
+            "offset": 1716488,
+            "string": "不思議空間・ディムロス戦[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "불가사의한 공간・딤로스 전투[END]"
+        },
+        {
+            "offset": 1716520,
+            "string": "シデン海底洞窟・通路[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "시덴 해저 동굴・통로[END]"
+        },
+        {
+            "offset": 1716544,
+            "string": "闘技場[END]",
+            "translation": "투기장[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1716552,
+            "string": "カルビオラ神殿・地下牢[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "カル비オ라 신전・지하 감옥[END]"
+        },
+        {
+            "offset": 1716576,
+            "string": "カルビオラ神殿・通路[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "カル비オ라 신전・통로[END]"
+        },
+        {
+            "offset": 1716600,
+            "string": "海底都市（ラディスロウ）・通路[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "해저 도시(라디슬로우)・통로[END]"
+        },
+        {
+            "offset": 1716632,
+            "string": "船（海賊船共用）・対クラーケン戦[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "배(해적선 공용)・대 크라켄 전투[END]"
+        },
+        {
+            "offset": 1716672,
+            "string": "船（海賊船共用）・対バティスタ戦[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "배(해적선 공용)・대 바티스타 전투[END]"
+        },
+        {
+            "offset": 1716712,
+            "string": "船（海賊船共用）・船倉[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "배(해적선 공용)・선창[END]"
+        },
+        {
+            "offset": 1716736,
+            "string": "船（海賊船共用）・船室（接触エンカウント）[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "배(해적선 공용)・선실(접촉 인카운트)[END]"
+        },
+        {
+            "offset": 1716784,
+            "string": "船（海賊船共用）・通路[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "배(해적선 공용)・통로[END]"
+        },
+        {
+            "offset": 1716808,
+            "string": "ストレイライズ神殿・神の眼安置部屋（破壊）[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "스트레이라이즈 신전・신의 눈 안치 방(파괴)[END]"
+        },
+        {
+            "offset": 1716856,
+            "string": "カルビオラ神殿・通路夜[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "칼비올라 신전・통로 밤[END]"
+        },
+        {
+            "offset": 1716880,
+            "string": "ストレイライズ神殿・礼拝堂[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "스트레이라이즈 신전・예배당[END]"
+        },
+        {
+            "offset": 1716912,
+            "string": "ストレイライズ神殿・通路2[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "스트레이라이즈 신전・통로 2[END]"
+        },
+        {
+            "offset": 1716944,
+            "string": "ストレイライズ神殿・通路1[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "스트레이라이즈 신전・통로 1[END]"
+        },
+        {
+            "offset": 1716976,
+            "string": "ハーメンツの宿屋前・対一般兵士、リオン戦[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "하메츠의 여관 앞・대 일반 병사, 리온 전투[END]"
+        },
+        {
+            "offset": 1717024,
+            "string": "ジェノスの洞窟・神殿[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "제노스의 동굴・신전[END]"
+        },
+        {
+            "offset": 1717048,
+            "string": "ジェノスの洞窟・通路[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "제노스의 동굴・통로[END]"
+        },
+        {
+            "offset": 1717072,
+            "string": "飛行竜・甲板2首[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "비행룡・갑판 2수[END]"
+        },
+        {
+            "offset": 1717088,
+            "string": "飛行竜・船倉ディムロスイベント[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "비행룡・선창 딤로스 이벤트[END]"
+        },
+        {
+            "offset": 1717120,
+            "string": "飛行竜・船倉[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "비행룡・선창[END]"
+        },
+        {
+            "offset": 1717136,
+            "string": "飛行竜・通路[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "비행룡・통로[END]"
+        },
+        {
+            "offset": 1717152,
+            "string": "各地共通海岸3[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "각지 공통 해안 3[END]"
+        },
+        {
+            "offset": 1717168,
+            "string": "各地共通海岸2[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "각지 공통 해안 2[END]"
+        },
+        {
+            "offset": 1717184,
+            "string": "各地共通海岸1[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "각지 공통 해안 1[END]"
+        },
+        {
+            "offset": 1717200,
+            "string": "各地共通海岸0[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "각지 공통 해안 0[END]"
+        },
+        {
+            "offset": 1717216,
+            "string": "ストレイライズ・アルメイダ街道3[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "스트레이라이지・알메이다 도로 3[END]"
+        },
+        {
+            "offset": 1717248,
+            "string": "ストレイライズ・アルメイダ街道2[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "스트레이라이지・알메이다 도로 2[END]"
+        },
+        {
+            "offset": 1717280,
+            "string": "ストレイライズ・アルメイダ街道1[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "스트레이라이지・알메이다 도로 1[END]"
+        },
+        {
+            "offset": 1717312,
+            "string": "ストレイライズ・アルメイダ街道0[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "스트레이라이지・알메이다 도로 0[END]"
+        },
+        {
+            "offset": 1717344,
+            "string": "クレスタ・ダリルシェイド・ハーメンツ街道3[END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "크레스타・다릴쉐이드・하멘츠 도로 3[END]"
+        },
+        {
+            "offset": 1717392,
+            "string": "クレスタ・ダリルシェイド・ハーメンツ街道2[END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "크레스타・다릴쉐이드・하멘츠 도로 2[END]"
+        },
+        {
+            "offset": 1717440,
+            "string": "クレスタ・ダリルシェイド・ハーメンツ街道1[END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "크레스타・다릴쉐이드・하멘츠 도로 1[END]"
+        },
+        {
+            "offset": 1717488,
+            "string": "クレスタ・ダリルシェイド・ハーメンツ街道0[END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "크레스타・다릴쉐이드・하멘츠 도로 0[END]"
+        },
+        {
+            "offset": 1717536,
+            "string": "モリュウ・シデン・トウケイ各領街道3[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "모리유・시덴・토케이 각 영 도로 3[END]"
+        },
+        {
+            "offset": 1717576,
+            "string": "モリュウ・シデン・トウケイ各領街道2[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "모리유・시덴・토케이 각 영 도로 2[END]"
+        },
+        {
+            "offset": 1717616,
+            "string": "モリュウ・シデン・トウケイ各領街道1[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "모리유・시덴・토케이 각 영 도로 1[END]"
+        },
+        {
+            "offset": 1717656,
+            "string": "モリュウ・シデン・トウケイ各領街道0[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "모리유・시덴・토우케이 각 영 도로 0[END]"
+        },
+        {
+            "offset": 1717696,
+            "string": "ノイシュタット街道3[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트 도로 3[END]"
+        },
+        {
+            "offset": 1717720,
+            "string": "ノイシュタット街道2[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트 도로 2[END]"
+        },
+        {
+            "offset": 1717744,
+            "string": "ノイシュタット街道1[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트 도로 1[END]"
+        },
+        {
+            "offset": 1717768,
+            "string": "ノイシュタット街道0[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트 도로 0[END]"
+        },
+        {
+            "offset": 1717792,
+            "string": "ハイデルベルク雪・街道3[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "하이델베르크 눈・도로 3[END]"
+        },
+        {
+            "offset": 1717816,
+            "string": "ハイデルベルク雪・街道2[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "하이델베르크 눈・도로 2[END]"
+        },
+        {
+            "offset": 1717840,
+            "string": "ハイデルベルク雪・街道1[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "하이델베르크 눈・도로 1[END]"
+        },
+        {
+            "offset": 1717864,
+            "string": "ハイデルベルク雪・街道0[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "하이델베르크 눈・도로 0[END]"
+        },
+        {
+            "offset": 1717888,
+            "string": "リーネ村街道3[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "리네 마을 도로 3[END]"
+        },
+        {
+            "offset": 1717904,
+            "string": "リーネ村街道2[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "리네 마을 도로 2[END]"
+        },
+        {
+            "offset": 1717920,
+            "string": "リーネ村街道1[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "리네 마을 도로 1[END]"
+        },
+        {
+            "offset": 1717936,
+            "string": "リーネ村街道0[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "리네 마을 도로 0[END]"
+        },
+        {
+            "offset": 1717952,
+            "string": "ストレイライズ・アルメイダ森 　3[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이지・알메이다 숲 3[END]"
+        },
+        {
+            "offset": 1717992,
+            "string": "ストレイライズ・アルメイダ森 　2[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이지・알메이다 숲 2[END]"
+        },
+        {
+            "offset": 1718032,
+            "string": "ストレイライズ・アルメイダ森 　1[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이지・알메이다 숲 1[END]"
+        },
+        {
+            "offset": 1718072,
+            "string": "ストレイライズ・アルメイダ森 　0[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이지・알메이다 숲 0[END]"
+        },
+        {
+            "offset": 1718112,
+            "string": "クレスタ・ダリルシェイド・ハーメンツ森3[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "크레스타 다릴쉐이드 하멘츠 숲3[END]"
+        },
+        {
+            "offset": 1718152,
+            "string": "クレスタ・ダリルシェイド・ハーメンツ森2[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "크레스타 다릴쉐이드 하멘츠 숲2[END]"
+        },
+        {
+            "offset": 1718192,
+            "string": "クレスタ・ダリルシェイド・ハーメンツ森1[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "크레스타 다릴쉐이드 하멘츠 숲1[END]"
+        },
+        {
+            "offset": 1718232,
+            "string": "クレスタ・ダリルシェイド・ハーメンツ森0[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "크레스타 다릴쉐이드 하멘츠 숲0[END]"
+        },
+        {
+            "offset": 1718272,
+            "string": "モリュウ・シデン・トウケイ各領森3[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "모리유 시덴 토케이 각령 숲3[END]"
+        },
+        {
+            "offset": 1718312,
+            "string": "モリュウ・シデン・トウケイ各領森2[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "모리유 시덴 토케이 각령 숲2[END]"
+        },
+        {
+            "offset": 1718352,
+            "string": "モリュウ・シデン・トウケイ各領森1[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "모리유 시덴 토케이 각령 숲1[END]"
+        },
+        {
+            "offset": 1718392,
+            "string": "モリュウ・シデン・トウケイ各領森0[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "모리유 시덴 토케이 각령 숲0[END]"
+        },
+        {
+            "offset": 1718432,
+            "string": "ノイシュタット森3[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트 숲3[END]"
+        },
+        {
+            "offset": 1718456,
+            "string": "ノイシュタット森2[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트 숲2[END]"
+        },
+        {
+            "offset": 1718480,
+            "string": "ノイシュタット森1[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트 숲1[END]"
+        },
+        {
+            "offset": 1718504,
+            "string": "ノイシュタット森0[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트 숲0[END]"
+        },
+        {
+            "offset": 1718528,
+            "string": "ハイデルベルク雪森3[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 눈 숲3[END]"
+        },
+        {
+            "offset": 1718552,
+            "string": "ハイデルベルク雪森2[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 눈 숲2[END]"
+        },
+        {
+            "offset": 1718576,
+            "string": "ハイデルベルク雪森1[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 눈 숲1[END]"
+        },
+        {
+            "offset": 1718600,
+            "string": "ハイデルベルク雪森0[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 눈 숲0[END]"
+        },
+        {
+            "offset": 1718624,
+            "string": "リーネ村森3[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "리네 마을 숲3[END]"
+        },
+        {
+            "offset": 1718640,
+            "string": "リーネ村森2[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "리네 마을 숲2[END]"
+        },
+        {
+            "offset": 1718656,
+            "string": "リーネ村森1[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "리네 마을 숲1[END]"
+        },
+        {
+            "offset": 1718672,
+            "string": "リーネ村森0[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "리네 마을 숲0[END]"
+        },
+        {
+            "offset": 1718688,
+            "string": "ジャンクランド・岩砂漠3[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "정크랜드 암모래 사막3[END]"
+        },
+        {
+            "offset": 1718712,
+            "string": "ジャンクランド・岩砂漠2[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "정크랜드 암모래 사막2[END]"
+        },
+        {
+            "offset": 1718736,
+            "string": "ジャンクランド・岩砂漠1[END]",
+            "translation": "정크랜드・암사막1[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1718760,
+            "string": "ジャンクランド・岩砂漠0[END]",
+            "translation": "정크랜드・암사막0[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1718784,
+            "string": "カルビオラ・チェリク・砂砂漠3[END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "칼비올라 체릭 모래 사막3[END]"
+        },
+        {
+            "offset": 1718816,
+            "string": "カルビオラ・チェリク・砂砂漠2[END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "칼비올라 체릭 모래 사막2[END]"
+        },
+        {
+            "offset": 1718848,
+            "string": "カルビオラ・チェリク・砂砂漠1[END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "칼비올라 체릭 모래 사막1[END]"
+        },
+        {
+            "offset": 1718880,
+            "string": "カルビオラ・チェリク・砂砂漠0[END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "칼비올라 체릭 모래 사막0[END]"
+        },
+        {
+            "offset": 1718912,
+            "string": "ストレイライズ・アルメイダ草原3[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "스트레이라이스 알메이다 초원3[END]"
+        },
+        {
+            "offset": 1718944,
+            "string": "ストレイライズ・アルメイダ草原2[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "스트레이라이스 알메이다 초원2[END]"
+        },
+        {
+            "offset": 1718976,
+            "string": "ストレイライズ・アルメイダ草原1[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "스트레이라이스 알메이다 초원1[END]"
+        },
+        {
+            "offset": 1719008,
+            "string": "ストレイライズ・アルメイダ草原0[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "스트레이라이즈 알메이다 초원0[END]"
+        },
+        {
+            "offset": 1719040,
+            "string": "クレスタ・ダリルシェイド・ハーメンツ草原3[END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "크레스타 다릴쉐이드 하멘츠 초원3[END]"
+        },
+        {
+            "offset": 1719088,
+            "string": "クレスタ・ダリルシェイド・ハーメンツ草原2[END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "크레스타 다릴쉐이드 하멘츠 초원2[END]"
+        },
+        {
+            "offset": 1719136,
+            "string": "クレスタ・ダリルシェイド・ハーメンツ草原1[END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "크레스타 다릴쉐이드 하멘츠 초원1[END]"
+        },
+        {
+            "offset": 1719184,
+            "string": "クレスタ・ダリルシェイド・ハーメンツ草原0[END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "크레스타 다릴쉐이드 하멘츠 초원0[END]"
+        },
+        {
+            "offset": 1719232,
+            "string": "モリュウ・シデン・トウケイ各領草原3[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "모리유 시덴 토케이 각 영토 초원3[END]"
+        },
+        {
+            "offset": 1719272,
+            "string": "モリュウ・シデン・トウケイ各領草原2[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "모리유 시덴 토케이 각 영토 초원2[END]"
+        },
+        {
+            "offset": 1719312,
+            "string": "モリュウ・シデン・トウケイ各領草原1[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "모리유 시덴 토케이 각 영토 초원1[END]"
+        },
+        {
+            "offset": 1719352,
+            "string": "モリュウ・シデン・トウケイ各領草原0[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "모리유 시덴 토케이 각 영토 초원0[END]"
+        },
+        {
+            "offset": 1719392,
+            "string": "ノイシュタット草原3[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트 초원3[END]"
+        },
+        {
+            "offset": 1719416,
+            "string": "ノイシュタット草原2[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트 초원2[END]"
+        },
+        {
+            "offset": 1719440,
+            "string": "ノイシュタット草原1[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트 초원1[END]"
+        },
+        {
+            "offset": 1719464,
+            "string": "ノイシュタット草原0[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트 초원0[END]"
+        },
+        {
+            "offset": 1719488,
+            "string": "ハイデルベルク雪原3[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 눈밭3[END]"
+        },
+        {
+            "offset": 1719512,
+            "string": "ハイデルベルク雪原2[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 눈밭2[END]"
+        },
+        {
+            "offset": 1719536,
+            "string": "ハイデルベルク雪原1[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 눈밭1[END]"
+        },
+        {
+            "offset": 1719560,
+            "string": "ハイデルベルク雪原0[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 눈밭0[END]"
+        },
+        {
+            "offset": 1719584,
+            "string": "リーネ村草原3[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "리네 마을 초원3[END]"
+        },
+        {
+            "offset": 1719600,
+            "string": "リーネ村草原2[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "리네 마을 초원2[END]"
+        },
+        {
+            "offset": 1719616,
+            "string": "リーネ村草原1[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "리네 마을 초원1[END]"
+        },
+        {
+            "offset": 1719632,
+            "string": "リーネ村草原0[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "리네 마을 초원0[END]"
+        },
+        {
+            "offset": 1719648,
+            "string": "リリスサイド戦[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "리리스 사이드 전투[END]"
+        },
+        {
+            "offset": 1719664,
+            "string": "にんじん戦[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "당근 전투[END]"
+        },
+        {
+            "offset": 1719680,
+            "string": "リオン、オベロンエクストラ、８[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "리온, 오베론 엑스트라, 8[END]"
+        },
+        {
+            "offset": 1719712,
+            "string": "リオン、オベロンエクストラ、７[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "리온, 오베론 엑스트라, 7[END]"
+        },
+        {
+            "offset": 1719744,
+            "string": "リオン、オベロンエクストラ、６[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "리온, 오베론 엑스트라, 6[END]"
+        },
+        {
+            "offset": 1719776,
+            "string": "リオン、オベロンエクストラ、５[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "리온, 오베론 엑스트라, 5[END]"
+        },
+        {
+            "offset": 1719808,
+            "string": "リオン、オベロンエクストラ、４[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "리온, 오베론 엑스트라, 4[END]"
+        },
+        {
+            "offset": 1719840,
+            "string": "リオン、オベロンエクストラ、３[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "리온, 오베론 엑스트라, 3[END]"
+        },
+        {
+            "offset": 1719872,
+            "string": "リオン、オベロンエクストラ、２[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "리온, 오베론 엑스트라, 2[END]"
+        },
+        {
+            "offset": 1719904,
+            "string": "リオン、オベロンエクストラ、１[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "리온, 오베론 엑스트라, 1[END]"
+        },
+        {
+            "offset": 1719936,
+            "string": "ノイシュタット追加戦闘[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트 추가 전투[END]"
+        },
+        {
+            "offset": 1719960,
+            "string": "闘技場レベル６[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "투기장 레벨 6[END]"
+        },
+        {
+            "offset": 1719976,
+            "string": "神の眼封印施設[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "신의 눈 봉인 시설[END]"
+        },
+        {
+            "offset": 1719992,
+            "string": "フォースアーマー戦[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "포스 아머 전투[END]"
+        },
+        {
+            "offset": 1720016,
+            "string": "セインガルド上級兵戦[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "세인갈드 상급 병 전투[END]"
+        },
+        {
+            "offset": 1720040,
+            "string": "オベロン社海底洞窟モンスター戦３[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "오베론사 해저 동굴 몬스터 전투 3[END]"
+        },
+        {
+            "offset": 1720080,
+            "string": "オベロン社海底洞窟モンスター戦２[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "오베론사 해저 동굴 몬스터 전투 2[END]"
+        },
+        {
+            "offset": 1720120,
+            "string": "オベロン社海底洞窟モンスター戦１[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "오베론사 해저 동굴 몬스터 전투 1[END]"
+        },
+        {
+            "offset": 1720160,
+            "string": "モンスター戦[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "몬스터 전투[END]"
+        },
+        {
+            "offset": 1720176,
+            "string": "バジリスク戦[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "바실리스크 전투[END]"
+        },
+        {
+            "offset": 1720192,
+            "string": "スタン・ルーティ・フィリア・他戦[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "스탄, 루티, 필리아, 기타 전투[END]"
+        },
+        {
+            "offset": 1720232,
+            "string": "スタン・ルーティ・マリー戦[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "스탄, 루티, 마리 전투[END]"
+        },
+        {
+            "offset": 1720264,
+            "string": "ジェントル集団戦[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "젠틀 집단 전투[END]"
+        },
+        {
+            "offset": 1720288,
+            "string": "ジェントルカズノコ戦[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "젠틀 카즈노코 전투[END]"
+        },
+        {
+            "offset": 1720312,
+            "string": "ジェントルピータン戦[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "젠틀 피탄 전투[END]"
+        },
+        {
+            "offset": 1720336,
+            "string": "ジェントルワカメ戦[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "젠틀 와카메 전투[END]"
+        },
+        {
+            "offset": 1720360,
+            "string": "ジェントルメンタイ戦[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "젠틀 멘타이 전투[END]"
+        },
+        {
+            "offset": 1720384,
+            "string": "フィールドバルバトス戦[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "필드 바르바토스 전투[END]"
+        },
+        {
+            "offset": 1720408,
+            "string": "SS_87神妖の森イベント戦[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "SS_87 신요의 숲 이벤트 전투[END]"
+        },
+        {
+            "offset": 1720432,
+            "string": "SS_85一年島イベント戦[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "SS_85 일년 섬 이벤트 전투[END]"
+        },
+        {
+            "offset": 1720456,
+            "string": "SS_57誘拐事件イベント戦[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "SS_57 유괴 사건 이벤트 전투[END]"
+        },
+        {
+            "offset": 1720480,
+            "string": "にせコングマン戦[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "가짜 콩맨 전투[END]"
+        },
+        {
+            "offset": 1720504,
+            "string": "マイティ・コングマン戦[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "마이티 콩맨 전투[END]"
+        },
+        {
+            "offset": 1720528,
+            "string": "リリス戦（２回目以降）[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "리리스 전투 (2회차 이후)[END]"
+        },
+        {
+            "offset": 1720552,
+            "string": "リリス戦（初回）[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "리리스 전투 (첫 회)[END]"
+        },
+        {
+            "offset": 1720576,
+            "string": "闘技場レベル５[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "투기장 레벨 5[END]"
+        },
+        {
+            "offset": 1720592,
+            "string": "闘技場レベル４[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "투기장 레벨 4[END]"
+        },
+        {
+            "offset": 1720608,
+            "string": "闘技場レベル３[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "투기장 레벨 3[END]"
+        },
+        {
+            "offset": 1720624,
+            "string": "闘技場レベル２[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "투기장 레벨 2[END]"
+        },
+        {
+            "offset": 1720640,
+            "string": "闘技場レベル１[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "투기장 레벨 1[END]"
+        },
+        {
+            "offset": 1720656,
+            "string": "ＥＸダンジョンボス戦[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "EX 던전 보스 전투[END]"
+        },
+        {
+            "offset": 1720680,
+            "string": "ＥＸダンジョン１０Ｆボス戦[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "EX 던전 10F 보스 전투[END]"
+        },
+        {
+            "offset": 1720712,
+            "string": "ＥＸダンジョン９Ｆボス戦[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "EX 던전 9F 보스 전투[END]"
+        },
+        {
+            "offset": 1720744,
+            "string": "ＥＸダンジョン８Ｆボス戦[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "EX 던전 8F 보스 전투[END]"
+        },
+        {
+            "offset": 1720776,
+            "string": "ＥＸダンジョン７Ｆボス戦[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "EX 던전 7F 보스 전투[END]"
+        },
+        {
+            "offset": 1720808,
+            "string": "ＥＸダンジョン６Ｆボス戦[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "EX 던전 6F 보스 전투[END]"
+        },
+        {
+            "offset": 1720840,
+            "string": "ＥＸダンジョン５Ｆボス戦[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "EX 던전 5F 보스 전투[END]"
+        },
+        {
+            "offset": 1720872,
+            "string": "ＥＸダンジョン４Ｆボス戦[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "EX 던전 4F 보스 전투[END]"
+        },
+        {
+            "offset": 1720904,
+            "string": "ＥＸダンジョン３Ｆボス戦[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "EX 던전 3F 보스 전투[END]"
+        },
+        {
+            "offset": 1720936,
+            "string": "ＥＸダンジョン２Ｆボス戦[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "EX 던전 2F 보스 전투[END]"
+        },
+        {
+            "offset": 1720968,
+            "string": "ＥＸダンジョン１Ｆボス戦[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "EX 던전 1F 보스 전투[END]"
+        },
+        {
+            "offset": 1721000,
+            "string": "ＥＸダンジョン１０Ｆ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "EX 던전 10F[END]"
+        },
+        {
+            "offset": 1721024,
+            "string": "ＥＸダンジョン９Ｆ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "EX 던전 9F[END]"
+        },
+        {
+            "offset": 1721048,
+            "string": "ＥＸダンジョン８Ｆ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "EX 던전 8F[END]"
+        },
+        {
+            "offset": 1721072,
+            "string": "ＥＸダンジョン７Ｆ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "EX 던전 7F[END]"
+        },
+        {
+            "offset": 1721096,
+            "string": "ＥＸダンジョン６Ｆ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "EX 던전 6F[END]"
+        },
+        {
+            "offset": 1721120,
+            "string": "ＥＸダンジョン５Ｆ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "EX 던전 5F[END]"
+        },
+        {
+            "offset": 1721144,
+            "string": "ＥＸダンジョン４Ｆ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "EX 던전 4F[END]"
+        },
+        {
+            "offset": 1721168,
+            "string": "ＥＸダンジョン３Ｆ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "EX 던전 3F[END]"
+        },
+        {
+            "offset": 1721192,
+            "string": "ＥＸダンジョン２Ｆ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "EX 던전 2F[END]"
+        },
+        {
+            "offset": 1721216,
+            "string": "ＥＸダンジョン１Ｆ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "EX 던전 1F[END]"
+        },
+        {
+            "offset": 1721240,
+            "string": "沈没船ボス戦[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "침몰선 보스 전투[END]"
+        },
+        {
+            "offset": 1721256,
+            "string": "沈没船[END]",
+            "translation": "침몰선[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1721264,
+            "string": "ミクトランイグゼシブ戦[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "믹트란 이그제시브 전투[END]"
+        },
+        {
+            "offset": 1721288,
+            "string": "ミクトラン戦[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "믹트란 전투[END]"
+        },
+        {
+            "offset": 1721304,
+            "string": "シャドウ戦３(パーティコピー)[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "섀도우 전투 3 (파티 복사)[END]"
+        },
+        {
+            "offset": 1721336,
+            "string": "シャドウ戦２(ウッドロウ)[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "섀도우 전투 2 (우드로우)[END]"
+        },
+        {
+            "offset": 1721368,
+            "string": "シャドウ戦１(スタン)[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "섀도우 전투 1 (스탄)[END]"
+        },
+        {
+            "offset": 1721392,
+            "string": "ダイクロフト(第２階層)[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "다이크로프트 (제 2 계층)[END]"
+        },
+        {
+            "offset": 1721416,
+            "string": "ダイクロフト(クリスタル)[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "다이크로프트 (크리스탈)[END]"
+        },
+        {
+            "offset": 1721448,
+            "string": "ダイクロフト(第１階層)[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "다이크로프트 (제 1 계층)[END]"
+        },
+        {
+            "offset": 1721472,
+            "string": "ガスクラウド戦[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "가스 클라우드 전투[END]"
+        },
+        {
+            "offset": 1721488,
+            "string": "トラッシュマウンテン(後半)[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "트래쉬 마운틴 (후반)[END]"
+        },
+        {
+            "offset": 1721520,
+            "string": "トラッシュマウンテン(前半)[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "트래쉬 마운틴 (전반)[END]"
+        },
+        {
+            "offset": 1721552,
+            "string": "ディムロス戦[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "딤로스 전투[END]"
+        },
+        {
+            "offset": 1721568,
+            "string": "ダリルシェイド・天上軍兵器戦２[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "다릴 쉐이드・천상군 무기 전투 2[END]"
+        },
+        {
+            "offset": 1721600,
+            "string": "ダリルシェイド・天上軍兵器戦１[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "다릴쉐이드・천상군 무기 전투 1[END]"
+        },
+        {
+            "offset": 1721632,
+            "string": "クレスタ・天上軍兵器戦[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "클레스타・천상군 무기 전투[END]"
+        },
+        {
+            "offset": 1721656,
+            "string": "ソーディアン研究所[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "소디언 연구소[END]"
+        },
+        {
+            "offset": 1721680,
+            "string": "アクアヴェイルF3[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "아쿠아베일 F3[END]"
+        },
+        {
+            "offset": 1721704,
+            "string": "カルバレイスF3(ジャンクランド周辺)[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "칼바레이스 F3 (정크랜드 주변)[END]"
+        },
+        {
+            "offset": 1721744,
+            "string": "カルバレイスF3(カルビオラ周辺)[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "칼바레이스 F3 (칼비올라 주변)[END]"
+        },
+        {
+            "offset": 1721776,
+            "string": "ファンダリアF3(ハイデルベルグ周辺)[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "팬더리아 F3 (하이델베르크 주변)[END]"
+        },
+        {
+            "offset": 1721816,
+            "string": "ファンダリアF3(ジェノス周辺）[END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "팬더리아 F3 (제노스 주변)[END]"
+        },
+        {
+            "offset": 1721848,
+            "string": "フィッツガルドF3(リーネ周辺)[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "피츠가르드 F3 (리네 주변)[END]"
+        },
+        {
+            "offset": 1721880,
+            "string": "フィッツガルドF3(ノイシュタット周辺)[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "피츠가르드 F3 (노이슈타트 주변)[END]"
+        },
+        {
+            "offset": 1721920,
+            "string": "セインガルドF3(ストレイライズの森周辺)[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "세인갈드 F3 (스트레이라이즈의 숲 주변)[END]"
+        },
+        {
+            "offset": 1721960,
+            "string": "セインガルドF3(ダリルシェイド周辺)[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "세인갈드 F3 (다릴쉐이드 주변)[END]"
+        },
+        {
+            "offset": 1722000,
+            "string": "ミクトラン敗戦[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "믹트란 패배[END]"
+        },
+        {
+            "offset": 1722016,
+            "string": "ヒューゴ戦[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "휴고 전투[END]"
+        },
+        {
+            "offset": 1722032,
+            "string": "ベルクラント[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "벨클란트[END]"
+        },
+        {
+            "offset": 1722048,
+            "string": "レンブラント戦[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "렘브란트 전투[END]"
+        },
+        {
+            "offset": 1722064,
+            "string": "ミックハイル(後半)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "믹 하일 (후반)[END]"
+        },
+        {
+            "offset": 1722088,
+            "string": "ミックハイル(前半)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "믹 하일 (전반)[END]"
+        },
+        {
+            "offset": 1722112,
+            "string": "外殻・ミックハイル周辺１[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "외각・믹 하일 주변 1[END]"
+        },
+        {
+            "offset": 1722144,
+            "string": "シュサイア[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "슈사이아[END]"
+        },
+        {
+            "offset": 1722160,
+            "string": "イレーヌ[END]",
+            "translation": "일레느[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1722176,
+            "string": "ヘルレイオス(後半)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "헬 레이오스 (후반)[END]"
+        },
+        {
+            "offset": 1722200,
+            "string": "ヘルレイオス(前半)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "헬 레이오스 (전반)[END]"
+        },
+        {
+            "offset": 1722224,
+            "string": "外殻・ヘルレイオス周辺１[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "외각・헬 레이오스 주변 1[END]"
+        },
+        {
+            "offset": 1722256,
+            "string": "ロディオン[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "로디온[END]"
+        },
+        {
+            "offset": 1722272,
+            "string": "バルック戦[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "발룩 전투[END]"
+        },
+        {
+            "offset": 1722288,
+            "string": "クラウディス(後半)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "클라우디스 (후반)[END]"
+        },
+        {
+            "offset": 1722312,
+            "string": "クラウディス(前半)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "클라우디스 (전반)[END]"
+        },
+        {
+            "offset": 1722336,
+            "string": "外殻・クラウディス周辺１[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "외각・클라우디스 주변 1[END]"
+        },
+        {
+            "offset": 1722368,
+            "string": "アンスズーン(ENG5)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "안수존 (ENG5)[END]"
+        },
+        {
+            "offset": 1722392,
+            "string": "アンスズーン(ENG4)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "안수존 (ENG4)[END]"
+        },
+        {
+            "offset": 1722416,
+            "string": "アンスズーン(ENG3)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "안수존 (ENG3)[END]"
+        },
+        {
+            "offset": 1722440,
+            "string": "アンスズーン(ENG2)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "안수존 (ENG2)[END]"
+        },
+        {
+            "offset": 1722464,
+            "string": "アンスズーン(ENG1)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "안수존 (ENG1)[END]"
+        },
+        {
+            "offset": 1722488,
+            "string": "アンスズーン(ENG0)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "안수존 (ENG0)[END]"
+        },
+        {
+            "offset": 1722512,
+            "string": "イグナシー[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "이그나시[END]"
+        },
+        {
+            "offset": 1722528,
+            "string": "外殻・ラディスロウ周辺１[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "외각・라디슬로우 주변 1[END]"
+        },
+        {
+            "offset": 1722560,
+            "string": "隠された神殿・イベント戦[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "숨겨진 신전・이벤트 전투[END]"
+        },
+        {
+            "offset": 1722592,
+            "string": "隠された神殿[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "숨겨진 신전[END]"
+        },
+        {
+            "offset": 1722608,
+            "string": "リオン戦２[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "리온 전투 2[END]"
+        },
+        {
+            "offset": 1722624,
+            "string": "海底洞窟[END]",
+            "translation": "해저동굴[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1722640,
+            "string": "オベロン社秘密工場[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "오베론사 비밀 공장[END]"
+        },
+        {
+            "offset": 1722664,
+            "string": "アクアヴェイルF2[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "아쿠아베일 F2[END]"
+        },
+        {
+            "offset": 1722688,
+            "string": "カルバレイスF2(ジャンクランド周辺)[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "칼바레이스 F2 (정크랜드 주변)[END]"
+        },
+        {
+            "offset": 1722728,
+            "string": "カルバレイスF2(カルビオラ周辺)[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "칼바레이스 F2 (칼비올라 주변)[END]"
+        },
+        {
+            "offset": 1722760,
+            "string": "セインガルドF2(ストレイライズの森周辺)[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "세인갈드 F2 (스트레이라이즈의 숲 주변)[END]"
+        },
+        {
+            "offset": 1722800,
+            "string": "セインガルドF2(ダリルシェイド周辺)[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "세인갈드 F2 (다릴쉐이드 주변)[END]"
+        },
+        {
+            "offset": 1722840,
+            "string": "ファンダリアF2[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "팬더리아 F2[END]"
+        },
+        {
+            "offset": 1722856,
+            "string": "ファンダリアF2(ジェノス周辺）[END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "팬더리아 F2 (제노스 주변)[END]"
+        },
+        {
+            "offset": 1722888,
+            "string": "フィッツガルドF2(リーネ周辺)[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "피츠가르드 F2 (리네 주변)[END]"
+        },
+        {
+            "offset": 1722920,
+            "string": "フィッツガルドF2(ノイシュタット周辺)[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "피츠가르드 F2 (노이슈타트 주변)[END]"
+        },
+        {
+            "offset": 1722960,
+            "string": "グレバム戦[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "그레밤 전투[END]"
+        },
+        {
+            "offset": 1722976,
+            "string": "ハイデルベルグ城[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 성[END]"
+        },
+        {
+            "offset": 1723000,
+            "string": "ダリス戦[END]",
+            "translation": "다리스전[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1723016,
+            "string": "ハイデルベルグ地下通路[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 지하 통로[END]"
+        },
+        {
+            "offset": 1723040,
+            "string": "ティルソの森(部屋)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "티르소의 숲 (방)[END]"
+        },
+        {
+            "offset": 1723064,
+            "string": "ティルソの森(通路)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "티르소의 숲 (통로)[END]"
+        },
+        {
+            "offset": 1723088,
+            "string": "反乱軍兵士戦[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "반란군 병사 전투[END]"
+        },
+        {
+            "offset": 1723104,
+            "string": "ファンダリアF1[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "팬더리아 F1[END]"
+        },
+        {
+            "offset": 1723120,
+            "string": "ティベリウス戦[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "티베리우스 전투[END]"
+        },
+        {
+            "offset": 1723136,
+            "string": "トウケイ城(後半)[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "토케이 성 (후반)[END]"
+        },
+        {
+            "offset": 1723160,
+            "string": "トウケイ城(前半)[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "토케이 성 (전반)[END]"
+        },
+        {
+            "offset": 1723184,
+            "string": "クラーケン戦[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "크라켄 전투[END]"
+        },
+        {
+            "offset": 1723200,
+            "string": "バティスタ戦２[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "바티스타 전투 2[END]"
+        },
+        {
+            "offset": 1723216,
+            "string": "モリュウ城(後半)[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "모리유 성 (후반)[END]"
+        },
+        {
+            "offset": 1723240,
+            "string": "モリュウ城(前半)[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "모리유 성 (전반)[END]"
+        },
+        {
+            "offset": 1723264,
+            "string": "ケイブキング戦[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "케이브 킹 전투[END]"
+        },
+        {
+            "offset": 1723280,
+            "string": "シデンの海底洞窟(後半)[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "시덴의 해저 동굴 (후반)[END]"
+        },
+        {
+            "offset": 1723304,
+            "string": "シデンの海底洞窟(前半)[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "시덴의 해저 동굴 (전반)[END]"
+        },
+        {
+            "offset": 1723328,
+            "string": "アクアヴェイルF1[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "아쿠아베일 F1[END]"
+        },
+        {
+            "offset": 1723352,
+            "string": "バティスタ戦１[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "바티스타 전투 1[END]"
+        },
+        {
+            "offset": 1723368,
+            "string": "海賊船(不利)[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "해적선 (불리)[END]"
+        },
+        {
+            "offset": 1723384,
+            "string": "海賊船(有利)[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "해적선 (유리)[END]"
+        },
+        {
+            "offset": 1723400,
+            "string": "ボア戦[END]",
+            "translation": "보아전[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1723408,
+            "string": "コングマン戦[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "콩맨 전투[END]"
+        },
+        {
+            "offset": 1723424,
+            "string": "フィッツガルドF1(リーネ周辺)[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "피츠가르드 F1 (리네 주변)[END]"
+        },
+        {
+            "offset": 1723456,
+            "string": "フィッツガルドF1(ノイシュタット周辺)[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "피츠가르드 F1 (노이슈타트 주변)[END]"
+        },
+        {
+            "offset": 1723496,
+            "string": "石化モンスター戦[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "석화 몬스터 전투[END]"
+        },
+        {
+            "offset": 1723520,
+            "string": "カルビオラ神殿[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "칼비오라 신전[END]"
+        },
+        {
+            "offset": 1723536,
+            "string": "カルバレイスF1(ジャンクランド周辺)[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "칼바레이스 F1 (정크랜드 주변)[END]"
+        },
+        {
+            "offset": 1723576,
+            "string": "カルバレイスF1(カルビオラ周辺)[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "칼바레이스 F1 (칼비오라 주변)[END]"
+        },
+        {
+            "offset": 1723608,
+            "string": "海底都市(後半)[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "해저 도시 (후반)[END]"
+        },
+        {
+            "offset": 1723624,
+            "string": "海底都市(前半)[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "해저 도시 (전반)[END]"
+        },
+        {
+            "offset": 1723640,
+            "string": "ローパー戦[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "로퍼 전투[END]"
+        },
+        {
+            "offset": 1723656,
+            "string": "ストレイライズ神殿(イベント用)[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "스트레이라이즈 신전 (이벤트용)[END]"
+        },
+        {
+            "offset": 1723688,
+            "string": "ストレイライズ神殿[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "스트레이라이즈 신전[END]"
+        },
+        {
+            "offset": 1723712,
+            "string": "ストレイライズの森・山頂[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "스트레이라이즈의 숲・산정[END]"
+        },
+        {
+            "offset": 1723744,
+            "string": "ストレイライズの森・中腹[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "스트레이라이즈의 숲・중턱[END]"
+        },
+        {
+            "offset": 1723776,
+            "string": "ストレイライズの森・ふもと[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "스트레이라이즈의 숲・기슭[END]"
+        },
+        {
+            "offset": 1723808,
+            "string": "セインガルドF1(ストレイライズの森周辺)[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "세인갈드 F1 (스트레이라이즈의 숲 주변)[END]"
+        },
+        {
+            "offset": 1723848,
+            "string": "リオン戦１[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "리온 전투 1[END]"
+        },
+        {
+            "offset": 1723864,
+            "string": "セインガルド兵士戦２[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "세인갈드 병사 전투 2[END]"
+        },
+        {
+            "offset": 1723888,
+            "string": "セインガルド兵士戦１[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "세인갈드 병사 전투 1[END]"
+        },
+        {
+            "offset": 1723912,
+            "string": "セインガルドF1(ダリルシェイド周辺)[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "세인갈드 F1 (다릴쉐이드 주변)[END]"
+        },
+        {
+            "offset": 1723952,
+            "string": "ファンダリアF1(ジェノス周辺）[END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "팬더리아 F1 (제노스 주변)[END]"
+        },
+        {
+            "offset": 1723984,
+            "string": "警備兵戦[END]",
+            "translation": "경비병전[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1724000,
+            "string": "神殿[END]",
+            "translation": "신전[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724008,
+            "string": "神殿へ続く洞窟[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "신전으로 이어지는 동굴[END]"
+        },
+        {
+            "offset": 1724024,
+            "string": "ファンダリアの山道(後半)[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "팬더리아의 산길 (후반)[END]"
+        },
+        {
+            "offset": 1724056,
+            "string": "ファンダリアの山道(前半)[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "팬더리아의 산길 (전반)[END]"
+        },
+        {
+            "offset": 1724088,
+            "string": "飛行竜[END]",
+            "translation": "비행룡[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724096,
+            "string": "ウルフ戦[END]",
+            "translation": "울프전[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1724112,
+            "string": "任意選択[END]",
+            "translation": "임의선택[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1724128,
+            "string": "ねこにんの村[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "고양이맨 마을[END]"
+        },
+        {
+            "offset": 1724144,
+            "string": "ラディスロウ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "라디슬로우[END]"
+        },
+        {
+            "offset": 1724160,
+            "string": "ジャンクランド[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "정크랜드[END]"
+        },
+        {
+            "offset": 1724176,
+            "string": "リーネ[END]",
+            "translation": "리네[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724184,
+            "string": "ハイデルベルグ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "하이델베르크[END]"
+        },
+        {
+            "offset": 1724200,
+            "string": "サイリル[END]",
+            "translation": "사이릴[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1724216,
+            "string": "スノーフリア[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "스노우플리아[END]"
+        },
+        {
+            "offset": 1724232,
+            "string": "トウケイ領[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "토케이 영토[END]"
+        },
+        {
+            "offset": 1724248,
+            "string": "モリュウ領[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "모리유 영토[END]"
+        },
+        {
+            "offset": 1724264,
+            "string": "シデン領[END]",
+            "translation": "시덴령[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1724280,
+            "string": "ノイシュタット[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "노이슈타트[END]"
+        },
+        {
+            "offset": 1724296,
+            "string": "カルビオラ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "칼비오라[END]"
+        },
+        {
+            "offset": 1724312,
+            "string": "チェリク[END]",
+            "translation": "체리크[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1724328,
+            "string": "アルメイダ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "알메이다[END]"
+        },
+        {
+            "offset": 1724344,
+            "string": "ダリルシェイド[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "다릴쉐이드[END]"
+        },
+        {
+            "offset": 1724360,
+            "string": "クレスタ[END]",
+            "translation": "크레스타[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1724376,
+            "string": "ハーメンツ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "하멘츠[END]"
+        },
+        {
+            "offset": 1724392,
+            "string": "ジェノス[END]",
+            "translation": "제노스[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1724408,
+            "string": "オベロン社[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "오베론사[END]"
+        }
+    ]
+}
