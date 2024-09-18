@@ -2252,7 +2252,7 @@
             "string": "[Sign_5]幻影刃[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "[Sign_5]환영검[END]"
+            "translation": "[Sign_5]환영인[END]"
         },
         {
             "offset": 1704480,
@@ -2777,7 +2777,7 @@
             "string": "[Sign_4]爪竜連牙斬[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_4]爪룡연가참[END]"
+            "translation": "[Sign_4]조룡연아참[END]"
         },
         {
             "offset": 1706952,
@@ -2945,7 +2945,7 @@
             "string": "[Sign_5]蒼破刃[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "[Sign_5]청파검[END]"
+            "translation": "[Sign_5]창파인[END]"
         },
         {
             "offset": 1707632,
