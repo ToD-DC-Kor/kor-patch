@@ -282,16 +282,16 @@
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-오빠들, 여행하는 사람들이야?
+형들, 여행하는 사람들이야?
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-아, 검사 오빠.
+아, 검사 형.
 기억하고 있지?
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-언니들, 여행하는 사람들이야?
+누나들, 여행하는 사람들이야?
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
@@ -311,7 +311,7 @@
 남자아이
 [ENDBLOCK]
 대단해 대단해!
-오빠는 성의 기사님이야?
+형은 성의 기사님이야?
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
@@ -320,11 +320,11 @@
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-오빠들, 여행하는 사람들이야?
+형들, 여행하는 사람들이야?
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-언니들, 여행하는 사람들이야?
+누나들, 여행하는 사람들이야?
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
@@ -598,7 +598,7 @@
 <Rutee>
 [ENDBLOCK]
 월트 그 자식…… 돈이 탐나서
-날 팔아넘긴 거구만?
+날 팔아넘긴 거야?
 
 [ENDBLOCK]
 <Stahn>
@@ -698,7 +698,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-사정도 모르면서 정의의 味方인 척하는군.
+사정도 모르면서 정의의 편인 척하는군.
 너, 어디 바보야?
 
 [ENDBLOCK]
