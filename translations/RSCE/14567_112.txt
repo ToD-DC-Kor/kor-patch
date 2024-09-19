@@ -1,8 +1,8 @@
 빨강
 [ENDBLOCK]
-<xE4>
+파랑
 [ENDBLOCK]
-N
+<IGNORE>
 [ENDBLOCK]
 노랑
 [ENDBLOCK]
