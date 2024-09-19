@@ -1121,6 +1121,13 @@
             "translation": "[Sign_3]샌드위치[END]"
         },
         {
+            "offset": 1810968,
+            "string": "[Sign_3]おにぎり[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]주먹밥[END]"
+        },
+        {
             "offset": 1810632,
             "string": "[Sign_3]ハンバーガー[END]",
             "original_bytes_length": 18,

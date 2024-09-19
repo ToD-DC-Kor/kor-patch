@@ -1,6 +1,13 @@
 {
     "SLPS": [
         {
+            "offset": 1803248,
+            "string": "[Sign_1]レザーガントレット[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]레더 건틀렛[END]"
+        },
+        {
             "offset": 1803176,
             "string": "革で繋ぎ合わせたガントレット。[LINE]\n軽くてそこそこ丈夫。[LINE]\n見習剣士の必需品。[END]",
             "original_bytes_length": 71,

@@ -1,6 +1,27 @@
 {
     "SLPS": [
         {
+            "offset": 1772072,
+            "string": "[Sign_2]ポイズン[END]",
+            "translation": "[Sign_2]포이즌[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1772016,
+            "string": "ＨＰが減少していく状態異常[LINE]\n「熱毒」を防止する宝石。[LINE]\n[END]",
+            "translation": "HP가 감소하는 상태이상[LINE]\n「열독」을 방지하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1772000,
+            "string": "[Sign_2]スリープ[END]",
+            "translation": "[Sign_2]슬립[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1771944,
             "string": "行動不能になる状態異常[LINE]\n「睡眠」を防止する宝石。[LINE]\n[END]",
             "translation": "행동 불능이 되는 상태이상[LINE]\n「수면」을 방지하는 보석.[LINE]\n[END]",

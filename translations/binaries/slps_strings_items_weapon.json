@@ -15,6 +15,13 @@
             "translation": "전설에 등장하는 환상의 힘을 지닌[LINE]\n너클입니다. 구술로 전해진 내용을 책으로 정리한[LINE]\n형제의 이름을 따릅니다.[END]"
         },
         {
+            "offset": 1780944,
+            "string": "[Sign_Sword]ディムロス[END]",
+            "translation": "[Sign_Sword]딤로스[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
             "offset": 1780864,
             "string": "火属性の知能ある剣。[LINE]\n人格は、熱血漢の切り込み隊長。[LINE]\nディムロス・ティンバー。[END]",
             "translation": "불 속성의 지능을 가진 검.[LINE]\n성격은 열혈 칼질 대장.[LINE]\n딤로스 팀버.[END]",

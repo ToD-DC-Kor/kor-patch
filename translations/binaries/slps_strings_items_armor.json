@@ -1,6 +1,13 @@
 {
     "SLPS": [
         {
+            "offset": 1793728,
+            "string": "[Sign_Shield]レザーアーマー[END]",
+            "translation": "[Sign_Shield]레더 아머[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
             "offset": 1793632,
             "string": "革を繋ぎ合わせて作られた上半身鎧。[LINE]\n軽くてそこそこ丈夫なため、[LINE]\n冒険者たちに長年愛用されている。[END]",
             "translation": "가죽을 이어붙여 만든 갑옷.[LINE]\n적당히 가볍고 튼튼해서,[LINE]\n많은 모험가가 오랫동안 애용하고 있다.[END]",

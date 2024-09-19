@@ -239,6 +239,13 @@
             "translation": "적과의 조우 확률이 높아집니다.[LINE]\n일정 시간 경과 후, [LINE]\n성령의 병을 사용하면 원래 상태로 돌아갑니다.[END]"
         },
         {
+            "offset": 1768696,
+            "string": "[Sign_Apple_Gel]アップルグミ[END]",
+            "translation": "[Sign_Apple_Gel]사과 젤리[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
             "offset": 1768616,
             "string": "フレッシュな甘さ、[LINE]\nアップル味のグミ。[LINE]\n最大ＨＰの３０％分ＨＰが回復する。[END]",
             "translation": "신선한 달콤함,[LINE]\n사과맛의 젤리.[LINE]\n최대 HP의 30%만큼 HP가 회복된다.[END]",

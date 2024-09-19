@@ -1,6 +1,20 @@
 {
     "SLPS": [
         {
+            "offset": 1810984,
+            "string": "[Sign_Key]天地神明の石版・明[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_Key]천지신명 석판・명[END]"
+        },
+        {
+            "offset": 1811008,
+            "string": "[Sign_Key]天地神明の石版・神[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_Key]천지신명 석판・신[END]"
+        },
+        {
             "offset": 1811056,
             "string": "何かの紋章が書かれている石版。[LINE]\n不思議な力を感じる……[LINE]\n[END]",
             "original_bytes_length": 55,
