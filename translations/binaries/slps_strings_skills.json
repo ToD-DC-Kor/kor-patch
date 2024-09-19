@@ -220,7 +220,7 @@
         {
             "offset": 1693832,
             "string": "[Sign_10]ファーストエイド[END]",
-            "translation": "[Sign_10]퍼스트에이드[END]",
+            "translation": "[Sign_10]퍼스트 에이드[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -598,7 +598,7 @@
         {
             "offset": 1695872,
             "string": "[Sign_6]メイルシュトローム[END]",
-            "translation": "[Sign_6]메일슈트롬[END]",
+            "translation": "[Sign_6]메일스트롬[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -654,7 +654,7 @@
         {
             "offset": 1696144,
             "string": "[Sign_6]アイストルネード[END]",
-            "translation": "[Sign_6]아이스토네이드[END]",
+            "translation": "[Sign_6]아이스 토네이도[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -668,7 +668,7 @@
         {
             "offset": 1696232,
             "string": "[Sign_6]アイスニードル[END]",
-            "translation": "[Sign_6]아이스니들[END]",
+            "translation": "[Sign_6]아이스 니들[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -852,7 +852,7 @@
             "string": "シシャノメザメ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "시샤노 메자메[END]"
+            "translation": "사자의 각성[END]"
         },
         {
             "offset": 1697304,
@@ -1144,7 +1144,7 @@
         {
             "offset": 1699264,
             "string": "[Sign_5]まわれロンド[END]",
-            "translation": "[Sign_5]마와레론도[END]",
+            "translation": "[Sign_5]돌아라 론도[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -1200,7 +1200,7 @@
         {
             "offset": 1699568,
             "string": "[Sign_5]なかよしワルツ[END]",
-            "translation": "[Sign_5]나카요시와루츠[END]",
+            "translation": "[Sign_5]사이좋게 왈츠[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1214,7 +1214,7 @@
         {
             "offset": 1699624,
             "string": "[Sign_5]ねむれララバイ[END]",
-            "translation": "[Sign_5]네무레라라바이[END]",
+            "translation": "[Sign_5]잠드는 럴러바이[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1228,7 +1228,7 @@
         {
             "offset": 1699696,
             "string": "[Sign_5]しびれルンバ[END]",
-            "translation": "[Sign_5]시비레룬바[END]",
+            "translation": "[Sign_5]짜릿한 룸바[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -1242,7 +1242,7 @@
         {
             "offset": 1699784,
             "string": "[Sign_5]かわせマーチ[END]",
-            "translation": "[Sign_5]카와세마치[END]",
+            "translation": "[Sign_5]바뀌는 마치[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -1389,7 +1389,7 @@
         {
             "offset": 1700464,
             "string": "[Sign_5]キューピッドアロゥ[END]",
-            "translation": "[Sign_5]큐피드알로우[END]",
+            "translation": "[Sign_5]큐피드 애로우[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1405,7 +1405,7 @@
             "string": "シュレン[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "슈렌[END]"
+            "translation": "주련[END]"
         },
         {
             "offset": 1700576,
@@ -1426,7 +1426,7 @@
             "string": "シテンメッサツキュウ[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "시텐멧사츠큐[END]"
+            "translation": "사천멸살궁[END]"
         },
         {
             "offset": 1700664,
@@ -1447,7 +1447,7 @@
             "string": "ヒエン[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "히엔[END]"
+            "translation": "비련[END]"
         },
         {
             "offset": 1700744,
@@ -1468,7 +1468,7 @@
             "string": "ジンライ[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "진라이[END]"
+            "translation": "신뢰[END]"
         },
         {
             "offset": 1700824,
@@ -1503,7 +1503,7 @@
             "string": "シシオウメッサイ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "시시오우멧사이[END]"
+            "translation": "사자왕멸쇄[END]"
         },
         {
             "offset": 1701040,
@@ -1524,7 +1524,7 @@
             "string": "シュンジンロウガ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "슌진로우가[END]"
+            "translation": "순인랑아[END]"
         },
         {
             "offset": 1701160,
@@ -1545,7 +1545,7 @@
             "string": "シン・ゴウライケン[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "신・고우라이켄[END]"
+            "translation": "진・광뢰검[END]"
         },
         {
             "offset": 1701256,
@@ -1566,7 +1566,7 @@
             "string": "センホウショウ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "센호쇼우[END]"
+            "translation": "선봉충[END]"
         },
         {
             "offset": 1701360,
@@ -1587,7 +1587,7 @@
             "string": "カッパバクソウゲキ[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "카파바쿠소우게키[END]"
+            "translation": "할파폭주격[END]"
         },
         {
             "offset": 1701456,
@@ -1608,7 +1608,7 @@
             "string": "ホウツイショウ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "호우츠이쇼우[END]"
+            "translation": "봉추종[END]"
         },
         {
             "offset": 1701552,
@@ -1629,14 +1629,14 @@
             "string": "バクジンキョウサツ[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "바쿠진쿄우살[END]"
+            "translation": "폭신광찰[END]"
         },
         {
             "offset": 1701656,
             "string": "[Sign_5]爆神狂刹[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_5]폭신광살[END]"
+            "translation": "[Sign_5]폭신광찰[END]"
         },
         {
             "offset": 1701672,
@@ -1650,7 +1650,7 @@
             "string": "シットウシュウ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "싯토우슈우[END]"
+            "translation": "질도축[END]"
         },
         {
             "offset": 1701760,
@@ -1671,7 +1671,7 @@
             "string": "レツ・マジンケン[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "레츠 마진켄[END]"
+            "translation": "열・마신검[END]"
         },
         {
             "offset": 1701880,
@@ -1699,7 +1699,7 @@
             "string": "ゴウ・マジンケン[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "고우 마진켄[END]"
+            "translation": "강・마신검[END]"
         },
         {
             "offset": 1702056,
@@ -1720,7 +1720,7 @@
             "string": "ゴウライケン[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "고우라이켄[END]"
+            "translation": "강뢰검[END]"
         },
         {
             "offset": 1702136,
@@ -1741,7 +1741,7 @@
             "string": "マジンケン・カイ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "마진켄 카이[END]"
+            "translation": "마신검・개[END]"
         },
         {
             "offset": 1702248,
@@ -1762,7 +1762,7 @@
             "string": "モウシュウケン[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "모우슈켄[END]"
+            "translation": "맹습검[END]"
         },
         {
             "offset": 1702352,
@@ -1783,7 +1783,7 @@
             "string": "コフウ[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "코후우[END]"
+            "translation": "허봉[END]"
         },
         {
             "offset": 1702424,
@@ -1804,7 +1804,7 @@
             "string": "セツナ[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "세츠나[END]"
+            "translation": "찰나[END]"
         },
         {
             "offset": 1702496,
@@ -1825,14 +1825,14 @@
             "string": "コウレンショウ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "코우렌쇼우[END]"
+            "translation": "황인승[END]"
         },
         {
             "offset": 1702600,
             "string": "[Sign_4]煌憐昇[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "[Sign_4]煌연승[END]"
+            "translation": "[Sign_4]황인승[END]"
         },
         {
             "offset": 1702616,
@@ -1846,7 +1846,7 @@
             "string": "クウハゼッショウゲキ[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "쿠우하제쇼우게키[END]"
+            "translation": "공파절장격[END]"
         },
         {
             "offset": 1702704,
@@ -1867,7 +1867,7 @@
             "string": "ゼツエイ[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "제츠에이[END]"
+            "translation": "절영[END]"
         },
         {
             "offset": 1702800,
@@ -1888,7 +1888,7 @@
             "string": "バッサイガ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "바싸이가[END]"
+            "translation": "발쇄아[END]"
         },
         {
             "offset": 1702912,
@@ -1909,7 +1909,7 @@
             "string": "アキサザメ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "아키사자메[END]"
+            "translation": "추사우[END]"
         },
         {
             "offset": 1702984,
@@ -1930,14 +1930,14 @@
             "string": "レックウジン[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "레크우진[END]"
+            "translation": "열공인[END]"
         },
         {
             "offset": 1703072,
             "string": "[Sign_4]烈空刃[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "[Sign_4]열공검[END]"
+            "translation": "[Sign_4]열공인[END]"
         },
         {
             "offset": 1703088,
@@ -1951,14 +1951,14 @@
             "string": "ハクウ[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "하쿠우[END]"
+            "translation": "박우[END]"
         },
         {
             "offset": 1703144,
             "string": "[Sign_5]雹雨[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "[Sign_5]우박비[END]"
+            "translation": "[Sign_5]박우[END]"
         },
         {
             "offset": 1703160,
@@ -1972,7 +1972,7 @@
             "string": "カゲロウ[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "카게로우[END]"
+            "translation": "양염[END]"
         },
         {
             "offset": 1703256,
@@ -1993,7 +1993,7 @@
             "string": "ハヤテ[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "하야테[END]"
+            "translation": "질풍[END]"
         },
         {
             "offset": 1703312,
@@ -2014,7 +2014,7 @@
             "string": "フウジンケン[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "후우진켄[END]"
+            "translation": "풍신검[END]"
         },
         {
             "offset": 1703384,
@@ -2035,7 +2035,7 @@
             "string": "ゴウレツ[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "고우레츠[END]"
+            "translation": "호열[END]"
         },
         {
             "offset": 1703480,
@@ -2068,7 +2068,7 @@
         {
             "offset": 1703632,
             "string": "[Sign_5]ボムレイン[END]",
-            "translation": "[Sign_5]봄레인[END]",
+            "translation": "[Sign_5]봄 레인[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16
         },
@@ -2082,7 +2082,7 @@
         {
             "offset": 1703720,
             "string": "[Sign_5]ハイドパーティ[END]",
-            "translation": "[Sign_5]하이드파티[END]",
+            "translation": "[Sign_5]하이드 파티[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -2096,8 +2096,8 @@
         {
             "offset": 1703808,
             "string": "[Sign_5]ツインボム[END]",
-            "translation": "[Sign_5]트윈봄[END]",
-            "original_bytes_length": 16,
+            "translation": "[Sign_5]트윈 봄[END]",
+            "쿠우하제쇼우게키original_bytes_length": 16,
             "available_bytes_size": 16
         },
         {
@@ -2110,7 +2110,7 @@
         {
             "offset": 1703904,
             "string": "[Sign_5]フォースフィールド[END]",
-            "translation": "[Sign_5]포스필드[END]",
+            "translation": "[Sign_5]포스 필드[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -2154,7 +2154,7 @@
             "string": "ホウリュウザンコウケン[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "호류잔공검[END]"
+            "translation": "봉룡참광검[END]"
         },
         {
             "offset": 1704168,
@@ -2168,7 +2168,7 @@
             "string": "ガリュウメッパ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "가류멧파[END]"
+            "translation": "와룡멸파[END]"
         },
         {
             "offset": 1704200,
@@ -2182,7 +2182,7 @@
             "string": "ゲッセンコホウ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "겟센코호우[END]"
+            "translation": "월섬허붕[END]"
         },
         {
             "offset": 1704232,
@@ -2203,7 +2203,7 @@
             "string": "ゲッセンコウ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "겟센코우[END]"
+            "translation": "월섬광[END]"
         },
         {
             "offset": 1704312,
@@ -2224,7 +2224,7 @@
             "string": "ガリュウセン[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "가류센[END]"
+            "translation": "와룡섬[END]"
         },
         {
             "offset": 1704384,
@@ -2245,7 +2245,7 @@
             "string": "ゲンエイジン[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "겐에이지[END]"
+            "translation": "환영인[END]"
         },
         {
             "offset": 1704464,
@@ -2266,7 +2266,7 @@
             "string": "ソウガザン[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "소우가잔[END]"
+            "translation": "쌍아참[END]"
         },
         {
             "offset": 1704544,
@@ -2287,7 +2287,7 @@
             "string": "マジンメッサツエン[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "마진멧살엔[END]"
+            "translation": "마인멸살암[END]"
         },
         {
             "offset": 1704624,
@@ -2322,7 +2322,7 @@
             "string": "クウシュウケン[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "쿠우슈켄[END]"
+            "translation": "공습검[END]"
         },
         {
             "offset": 1704776,
@@ -2343,14 +2343,14 @@
             "string": "ヒエンレンザン[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "히엔렌잔[END]"
+            "translation": "비련연참[END]"
         },
         {
             "offset": 1704872,
             "string": "[Sign_4]飛燕連斬[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_4]비연연참[END]"
+            "translation": "[Sign_4]비련연참[END]"
         },
         {
             "offset": 1704888,
@@ -2364,7 +2364,7 @@
             "string": "マジンケンソウガ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "마진켄소우가[END]"
+            "translation": "마신검・쌍아[END]"
         },
         {
             "offset": 1704928,
@@ -2390,7 +2390,7 @@
         {
             "offset": 1705088,
             "string": "[Sign_5]サーペントエッジ[END]",
-            "translation": "[Sign_5]서펜트에지[END]",
+            "translation": "[Sign_5]서펜트 엣지[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -2404,7 +2404,7 @@
         {
             "offset": 1705144,
             "string": "[Sign_5]スラッシュレイン[END]",
-            "translation": "[Sign_5]슬래시레인[END]",
+            "translation": "[Sign_5]슬래시 레인[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -2432,7 +2432,7 @@
         {
             "offset": 1705296,
             "string": "[Sign_4]スナイプロア[END]",
-            "translation": "[Sign_4]스나이프로아[END]",
+            "translation": "[Sign_4]스나이프 로워[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -2446,7 +2446,7 @@
         {
             "offset": 1705384,
             "string": "[Sign_4]エスケープ・エア[END]",
-            "translation": "[Sign_4]에스케이프・에어[END]",
+            "translation": "[Sign_4]이스케이프・에어[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -2474,7 +2474,7 @@
         {
             "offset": 1705552,
             "string": "[Sign_4]スナイプエア[END]",
-            "translation": "[Sign_4]스나이프에어[END]",
+            "translation": "[Sign_4]스나이프 에어[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -2504,14 +2504,14 @@
             "string": "マジンケン・ショウガ[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "마진켄・쇼우가[END]"
+            "translation": "마신검・상아[END]"
         },
         {
             "offset": 1705752,
             "string": "[Sign_4]魔神剣・翔牙[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_4]마신검・쇼우가[END]"
+            "translation": "[Sign_4]마신검・상아[END]"
         },
         {
             "offset": 1705776,
@@ -2546,7 +2546,7 @@
             "string": "シャッコウケン[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "샤코우켄[END]"
+            "translation": "작광권[END]"
         },
         {
             "offset": 1705944,
@@ -2581,7 +2581,7 @@
             "string": "ショウオウレッカ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "쇼우오우레카[END]"
+            "translation": "상황열화[END]"
         },
         {
             "offset": 1706088,
@@ -2602,7 +2602,7 @@
             "string": "シコウバクエンジン[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "시코우바쿠엔진[END]"
+            "translation": "사후폭염진[END]"
         },
         {
             "offset": 1706176,
@@ -2623,7 +2623,7 @@
             "string": "マオウエンゲキハ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "마오우엔게키하[END]"
+            "translation": "마왕염격파[END]"
         },
         {
             "offset": 1706272,
@@ -2644,7 +2644,7 @@
             "string": "ネッパセンプウジン[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "넵파센푸우진[END]"
+            "translation": "열파선풍진[END]"
         },
         {
             "offset": 1706352,
@@ -2665,14 +2665,14 @@
             "string": "クウガショウリュウキャク[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "쿠우가쇼우류쿄쿠[END]"
+            "translation": "공아승룡각[END]"
         },
         {
             "offset": 1706464,
             "string": "[Sign_5]空牙昇竜脚[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_5]공가승룡각[END]"
+            "translation": "[Sign_5]공아승룡각[END]"
         },
         {
             "offset": 1706480,
@@ -2686,7 +2686,7 @@
             "string": "グレンケン[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "그렌켄[END]"
+            "translation": "홍련검[END]"
         },
         {
             "offset": 1706560,
@@ -2707,7 +2707,7 @@
             "string": "ホウオウテンク[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "호우오우텐크[END]"
+            "translation": "봉황천구[END]"
         },
         {
             "offset": 1706664,
@@ -2728,7 +2728,7 @@
             "string": "センクウレツハ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "센쿠우레츠하[END]"
+            "translation": "섬공열파[END]"
         },
         {
             "offset": 1706744,
@@ -2749,7 +2749,7 @@
             "string": "センコウレッパ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "센코우렛파[END]"
+            "translation": "섬광열파[END]"
         },
         {
             "offset": 1706848,
@@ -2770,7 +2770,7 @@
             "string": "ソウリュウレンガザン[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "소류연가잔[END]"
+            "translation": "조룡연아참[END]"
         },
         {
             "offset": 1706936,
@@ -2791,7 +2791,7 @@
             "string": "シシセンコウ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "시시센코우[END]"
+            "translation": "사자전후[END]"
         },
         {
             "offset": 1707032,
@@ -2812,7 +2812,7 @@
             "string": "マジンソウハザン[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "마신소하잔[END]"
+            "translation": "마신쌍파참[END]"
         },
         {
             "offset": 1707128,
@@ -2833,7 +2833,7 @@
             "string": "ダンクウケン[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "단궁검[END]"
+            "translation": "단공검[END]"
         },
         {
             "offset": 1707224,
@@ -2854,7 +2854,7 @@
             "string": "トリュウセン[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "토류센[END]"
+            "translation": "도룡섬[END]"
         },
         {
             "offset": 1707296,
@@ -2875,14 +2875,14 @@
             "string": "コガハザン[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "코가하잔[END]"
+            "translation": "호아파참[END]"
         },
         {
             "offset": 1707376,
             "string": "[Sign_4]虎牙破斬[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_4]호가파참[END]"
+            "translation": "[Sign_4]호아파참[END]"
         },
         {
             "offset": 1707392,
@@ -2896,14 +2896,14 @@
             "string": "シンクウレツザン[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "신쿠우레츠잔[END]"
+            "translation": "신공열참[END]"
         },
         {
             "offset": 1707456,
             "string": "[Sign_4]真空裂斬[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_4]진공열참[END]"
+            "translation": "[Sign_4]신공열참[END]"
         },
         {
             "offset": 1707472,
@@ -2917,7 +2917,7 @@
             "string": "レックウザン[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "레크우잔[END]"
+            "translation": "열공참[END]"
         },
         {
             "offset": 1707528,
@@ -2938,7 +2938,7 @@
             "string": "ソウハジン[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "소우하지[END]"
+            "translation": "창파인[END]"
         },
         {
             "offset": 1707616,
@@ -2959,7 +2959,7 @@
             "string": "ヒエンレンキャク[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "히에엔렌쿄쿠[END]"
+            "translation": "비연연각[END]"
         },
         {
             "offset": 1707712,
@@ -2980,7 +2980,7 @@
             "string": "マジンケン[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "마진검[END]"
+            "translation": "마신검[END]"
         },
         {
             "offset": 1707816,

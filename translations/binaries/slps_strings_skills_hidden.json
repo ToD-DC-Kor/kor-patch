@@ -47,7 +47,7 @@
             "string": "マジンケン・セツガ[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "마진검・세츠가[END]"
+            "translation": "마신검・찰아[END]"
         },
         {
             "offset": 1688672,
@@ -68,7 +68,7 @@
             "string": "ガリュウザンゲツ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "가류잔월[END]"
+            "translation": "와룡참월[END]"
         },
         {
             "offset": 1688768,
@@ -89,7 +89,7 @@
             "string": "ジュウショウライ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "주쇼우라이[END]"
+            "translation": "유초래[END]"
         },
         {
             "offset": 1688888,
@@ -110,7 +110,7 @@
             "string": "レッシンテンショウ[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "레신텐쇼우[END]"
+            "translation": "열진천충[END]"
         },
         {
             "offset": 1689000,
@@ -131,14 +131,14 @@
             "string": "ヒョウゲツショウセン[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "표월쇼센[END]"
+            "translation": "빙월상섬[END]"
         },
         {
             "offset": 1689120,
             "string": "[Sign_5]氷月翔閃[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_5]빙월비상[END]"
+            "translation": "[Sign_5]빙월상섬[END]"
         },
         {
             "offset": 1689136,
@@ -173,7 +173,7 @@
             "string": "[Sign_7]トレビアンヒップ[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]트레비안힙[END]"
+            "translation": "[Sign_7]트레비앙 힙[END]"
         },
         {
             "offset": 1689344,
@@ -201,14 +201,14 @@
             "string": "シラナギ・トウガ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "시라나기 토우가[END]"
+            "translation": "백체・동화[END]"
         },
         {
             "offset": 1689560,
             "string": "[Sign_7]白薙・凍華[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_7]백치・동화[END]"
+            "translation": "[Sign_7]백체・동화[END]"
         },
         {
             "offset": 1689576,
@@ -222,7 +222,7 @@
             "string": "シンラバッサイ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "신라박쇄[END]"
+            "translation": "삼라폭쇄[END]"
         },
         {
             "offset": 1689680,
@@ -285,7 +285,7 @@
             "string": "[Sign_7]ゴッツァブロゥ[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]갓챠블로우[END]"
+            "translation": "[Sign_7]고저 블로우[END]"
         },
         {
             "offset": 1689952,
@@ -313,7 +313,7 @@
             "string": "ザン！[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "쨘![END]"
+            "translation": "참![END]"
         },
         {
             "offset": 1690168,
@@ -362,7 +362,7 @@
             "string": "マジンレンゴクサツ[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "마진렌고쿠살[END]"
+            "translation": "마신연옥살[END]"
         },
         {
             "offset": 1690528,
@@ -383,7 +383,7 @@
             "string": "ジョウハメッショウエン[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "조우하멧쇼엔[END]"
+            "translation": "정파멸소암[END]"
         },
         {
             "offset": 1690656,
@@ -404,7 +404,7 @@
             "string": "セッカザン[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "세카잔[END]"
+            "translation": "찰화참[END]"
         },
         {
             "offset": 1690784,
@@ -425,7 +425,7 @@
             "string": "コウブセンコウセン[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "코우부센코우센[END]"
+            "translation": "황무선황섬[END]"
         },
         {
             "offset": 1690912,
@@ -446,14 +446,14 @@
             "string": "レッショウソウハジン[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "레쇼우소우하지인[END]"
+            "translation": "열충창파인[END]"
         },
         {
             "offset": 1691040,
             "string": "[Sign_7]裂衝蒼破塵[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Sign_7]열충창파진[END]"
+            "translation": "[Sign_7]열충창파인[END]"
         },
         {
             "offset": 1691056,
@@ -495,7 +495,7 @@
             "string": "[Sign_7]セイクリッドブレイム[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Sign_7]세이크리드브레임[END]"
+            "translation": "[Sign_7]세이크리드 블레임[END]"
         },
         {
             "offset": 1691408,
@@ -509,7 +509,7 @@
             "string": "[Sign_7]インブレイスエンド[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "[Sign_7]인브레이스엔드[END]"
+            "translation": "[Sign_7]임브레이스 엔드[END]"
         },
         {
             "offset": 1691512,
@@ -523,7 +523,7 @@
             "string": "[Sign_7]ライフディスチャージ[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Sign_7]라이프디스차지[END]"
+            "translation": "[Sign_7]라이프 디스차지[END]"
         },
         {
             "offset": 1691632,
@@ -551,7 +551,7 @@
             "string": "ゴウマカイジンケン[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "고우마 카이지ン켄[END]"
+            "translation": "업마회진검[END]"
         },
         {
             "offset": 1691856,
@@ -572,7 +572,7 @@
             "string": "サツゲキブコウケン[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "사츠게키 부코켄[END]"
+            "translation": "살극무황검[END]"
         },
         {
             "offset": 1691976,
@@ -593,7 +593,7 @@
             "string": "コウオウテンショウヨク[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "코우오우 텐쇼우요쿠[END]"
+            "translation": "황왕천상익[END]"
         },
         {
             "offset": 1692096,
