@@ -619,7 +619,7 @@ debug
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-<Lion>자네가 출세했으면 좋겠네.
+<Lion> 자네가 출세했으면 좋겠네.
 이제 칠장군 시대는 아니니까 말이야.
 [ENDBLOCK]
 어머니
@@ -628,12 +628,12 @@ debug
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-<Lion>자네도 곧 칠장군으로
+<Lion> 자네도 곧 칠장군으로
 선발되지 않을까?
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-<Lion>자네가 출세했으면 좋겠어.
+<Lion> 자네가 출세했으면 좋겠어.
 이제 칠장군 시대는 아니야.
 [ENDBLOCK]
 어머니
@@ -664,62 +664,62 @@ debug
 [ENDBLOCK]
 부탁이야. 세계를 원래대로 돌려놓아 줘.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 소문에 의하면, 군대의 비행룡이라는 탈것이
 몬스터에게 습격당했다더라.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 그게 엄청 중요한 기밀을
 운반하는 중이었다고 해!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 재미있는 소문 없을까?
 심심해 죽겠어.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 세인가르드와 팬더리아의 국경 근처에
 양국이 공동으로 뭔가를 묻었다는 소문이 있어.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 요즘은 거리 어디를 가도
 <Lion> 매그너스 얘기뿐이야.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 정체불명의 미소년에, 실력까지 좋다면
 소문이 안 날 리가 없지.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 재미있는 소문 없을까?
 심심해 죽겠어.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 비행룡이 산에 추락한 것 같은데……
 괜찮은 걸까?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 너희들, 사정을 알고 있지?
 무슨 일이 일어나고 있는지 말해줘!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 햇빛이 내리쬐지 않게 되면
 지상은 순식간에 얼어버릴 거야……
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 성에서 외각을 뚫기 위한
 비밀 병기를 만들고 있대?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 젠장, 왜 그런지 모르겠어……
 그 빛을 보고 있으니 눈물이 나더라고.
@@ -809,7 +809,7 @@ select
 <Lion>
 [ENDBLOCK]
 나는 너처럼 뻔뻔하고,
-능청맞고, 친근한 척하는 놈이 대嫌いだ。
+능청맞고, 친근한 척하는 놈이 정말 싫어。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
