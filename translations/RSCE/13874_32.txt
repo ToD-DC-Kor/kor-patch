@@ -203,7 +203,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-스스로 깨닫지 못하고 있나. 뭐 좋아.
+스스로 깨닫지 못하고 있나. 
 뭐 좋아. 그것도 너다운 모습이겠지.
 [ENDBLOCK]
 <Philia>
