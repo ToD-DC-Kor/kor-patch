@@ -24,7 +24,7 @@
         {
             "offset": 1692704,
             "string": "[Sign_10]シャープネス[END]",
-            "translation": "[Sign_10]샤프네스[END]",
+            "translation": "[Sign_10]샤프니스[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -2343,14 +2343,14 @@
             "string": "ヒエンレンザン[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "비련연참[END]"
+            "translation": "비연연참[END]"
         },
         {
             "offset": 1704872,
             "string": "[Sign_4]飛燕連斬[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_4]비련연참[END]"
+            "translation": "[Sign_4]비연연참[END]"
         },
         {
             "offset": 1704888,
@@ -3001,7 +3001,7 @@
             "string": "バクエンケン[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "바쿠엔검[END]"
+            "translation": "폭염검[END]"
         }
     ]
 }
