@@ -663,7 +663,7 @@ debug
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-<Lion>자네가 출세했으면 좋겠네.
+<Lion> 자네가 출세했으면 좋겠네.
 이제 칠장군 시대는 아니니까 말이야.
 [ENDBLOCK]
 어머니
@@ -677,7 +677,7 @@ debug
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-<Lion>자네가 출세했으면 좋겠어.
+<Lion> 자네가 출세했으면 좋겠어.
 이제 칠장군 시대는 아니야.
 [ENDBLOCK]
 어머니

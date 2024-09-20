@@ -463,7 +463,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 선원
 [ENDBLOCK]
 칼바레이스로 가고 싶으세요?
-마침 방금 전에 배가 출발했어요.
+방금 전에 배가 출발했어요.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -573,7 +573,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Stahn>
 [ENDBLOCK]
 그렇게 말하면 안 되지.
-<Philia>나름대로 결심한 거잖아.
+<Philia> 나름대로 결심한 거잖아.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

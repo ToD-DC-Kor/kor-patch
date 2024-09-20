@@ -532,41 +532,41 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 문은 닫혀 있다.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 오베론 사 총수의 저택에
 아주 예쁜 미인이 있다더라.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 이름이 <Marian>…… 이었던가?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 <Marian>을 꼬셔볼까 했더니,
 요즘 모습을 볼 수가 없네.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 그렇게 대단한 번개는 처음 봤어.
 그게 도시에 떨어졌다면……
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 젠장, 하늘이 완전히 뒤덮여 버렸어.
 이래서는 어쩔 수가 없군.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 오베론 사 총수의 저택에
 <Marian>이 돌아온 것 같아.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 표정에 근심이 생겼다고 할까……
 예전과는 분위기가 달라졌어.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 <Marian>을 꼬셔볼까 했지만,
 저건 무리겠어.
@@ -881,7 +881,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 야, 오랜만이다!
 [ENDBLOCK]
@@ -894,7 +894,7 @@ select
 <TAG_007>당신 누구세요?
 어, 으응! 오랜만…… 이네?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 아니, 그러니까 어렸을 때
 자주 같이 놀았잖아……
@@ -904,40 +904,40 @@ select
 죄송해요.
 당신이 누구였는지……
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
-정말…… 보통은 그 자리에서
+정말…… 보통은 그 상황에서
 상대방 말에 맞춰주는 법인데.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 그래서야
 도시에서 살아남을 수 없다고.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 넌 정말 시골뜨기구나!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 ……하지만 너 같은 정직한 사람을
 보면 안심이 돼.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 아아, 시골에 계신 엄마
 잘 계실까?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 있잖아, 내 말 좀 들어봐.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 아픈 어머니를 대신해서
 내가 젤리를 팔고 있어.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 부탁이야,
 좀 사주지 않을래?
@@ -946,26 +946,26 @@ select
 [ENDBLOCK]
 음……
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 감사합니다~
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 돈이 없나…… 그래, 
 이제 저리 가도 돼.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 칫, 더 이상 가질 수 없잖아.
 운 좋은 녀석.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
-7장군 중에도
+칠장군 중에도
 실력이 아닌 녀석이 있다고.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 그 녀석의 이름?
 그건 <Ashley>라는 녀석이야.

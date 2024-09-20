@@ -748,27 +748,27 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 승리를 기원하고 있어요.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 쉽게 돈 버는 방법은 없을까?
 
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 하늘에 떠 있는 우산 같은 거,
 그게 뭘까?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 농작물 가격이 오르는군……
 지금 사재기해볼까.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 지금이라면 렌즈를 사재기해서
 돈을 벌 수 있을 것 같은데……
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 렌즈는 이제 필요 없는 건가?
 사재기했는데 말이야!
@@ -776,7 +776,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 아저씨
 [ENDBLOCK]
 어때, 이 나라의 성은.
-감탄하겠지?
+감탄스럽지?
 [ENDBLOCK]
 아저씨
 [ENDBLOCK]
