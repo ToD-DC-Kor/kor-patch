@@ -125,7 +125,7 @@
 <Stahn>
 [ENDBLOCK]
 가출은 안 좋지.
-남 얘기 하기는 그렇지만.
+남 얘기 하기도 뭐하지만.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
