@@ -1,1257 +1,11 @@
 {
     "SLPS": [
         {
-            "offset": 1803248,
-            "string": "[Sign_1]レザーガントレット[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]레더 건틀렛[END]"
-        },
-        {
-            "offset": 1803176,
-            "string": "革で繋ぎ合わせたガントレット。[LINE]\n軽くてそこそこ丈夫。[LINE]\n見習剣士の必需品。[END]",
-            "original_bytes_length": 71,
-            "available_bytes_size": 71,
-            "translation": "가죽으로 연결된 건틀렛입니다.[LINE]\n가볍고 어느 정도 튼튼합니다.[LINE]\n견습 검사의 필수품입니다.[END]"
-        },
-        {
-            "offset": 1803144,
-            "string": "[Sign_1]ブロンズガントレット[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]브론즈 건틀렛[END]"
-        },
-        {
-            "offset": 1803064,
-            "string": "薄い銅板で作られたガントレット。[LINE]\n天地戦争時代から使われていた、[LINE]\n伝統ある篭手。[END]",
-            "original_bytes_length": 79,
-            "available_bytes_size": 79,
-            "translation": "얇은 구리판으로 만들어진 건틀렛입니다.[LINE]\n천지전쟁 시대부터 사용되었던,[LINE]\n전통 있는 장갑입니다.[END]"
-        },
-        {
-            "offset": 1803032,
-            "string": "[Sign_1]アイアンガントレット[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]아이언 건틀렛[END]"
-        },
-        {
-            "offset": 1802960,
-            "string": "鉄板で作られたガントレット。[LINE]\n重いが堅くて丈夫。[LINE]\nもっとも身近な金属。[END]",
-            "original_bytes_length": 69,
-            "available_bytes_size": 71,
-            "translation": "철판으로 만들어진 건틀렛입니다.[LINE]\n무겁지만 단단하고 튼튼합니다.[LINE]\n가장 가까운 금속입니다.[END]"
-        },
-        {
-            "offset": 1802928,
-            "string": "[Sign_1]スチールガントレット[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]스틸 건틀렛[END]"
-        },
-        {
-            "offset": 1802872,
-            "string": "鋼板で作られたガントレット。[LINE]\n騎士見習たちの愛用品。[LINE]\n[END]",
-            "original_bytes_length": 53,
-            "available_bytes_size": 55,
-            "translation": "강판으로 만들어진 건틀렛입니다.[LINE]\n기사 견습생들의 애용품입니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1802848,
-            "string": "[Sign_1]チタンガントレット[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]타이타늄 건틀렛[END]"
-        },
-        {
-            "offset": 1802776,
-            "string": "チタン合金で強化したガントレット。[LINE]\n非常に軽く、並外れた耐食性を持つ。[LINE]\n[END]",
-            "original_bytes_length": 71,
-            "available_bytes_size": 71,
-            "translation": "타이타늄 합금으로 강화된 건틀렛입니다.[LINE]\n매우 가볍고 뛰어난 내식성을 가지고 있습니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1802744,
-            "string": "[Sign_1]シルバーガントレット[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]실버 건틀렛[END]"
-        },
-        {
-            "offset": 1802688,
-            "string": "銀細工で装飾されたガントレット。[LINE]\n白い輝きが美しい。[LINE]\n[END]",
-            "original_bytes_length": 53,
-            "available_bytes_size": 55,
-            "translation": "은세공으로 장식된 건틀렛입니다.[LINE]\n흰 빛이 아름답습니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1802656,
-            "string": "[Sign_1]ゴールドガントレット[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]골드 건틀렛[END]"
-        },
-        {
-            "offset": 1802592,
-            "string": "金細工で装飾したガントレット。[LINE]\n別名「豪華なガントレット」。[LINE]\n[END]",
-            "original_bytes_length": 61,
-            "available_bytes_size": 63,
-            "translation": "금세공으로 장식한 건틀렛입니다.[LINE]\n별명은 '호화로운 건틀렛'입니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1802560,
-            "string": "[Sign_1]ミスリルガントレット[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]미스릴 건틀렛[END]"
-        },
-        {
-            "offset": 1802496,
-            "string": "ミスリル細工のガントレット。[LINE]\nドワーフ族の芸術作品といわれる。[LINE]\n[END]",
-            "original_bytes_length": 63,
-            "available_bytes_size": 63,
-            "translation": "미스릴 세공의 건틀렛입니다.[LINE]\n드워프족의 예술 작품이라고 불립니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1802464,
-            "string": "[Sign_1]ハイパーガントレット[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]하이퍼 건틀렛[END]"
-        },
-        {
-            "offset": 1802384,
-            "string": "獅子の牙と火鼠の皮で加工した[LINE]\nガントレット。[LINE]\n百獣の王の力が込められている。[END]",
-            "original_bytes_length": 75,
-            "available_bytes_size": 79,
-            "translation": "사자의 이빨과 불쥐의 가죽으로 가공한[LINE]\n건틀렛입니다.[LINE]\n백수의 왕의 힘이 담겨 있습니다.[END]"
-        },
-        {
-            "offset": 1802360,
-            "string": "[Sign_1]レアガントレット[END]",
-            "original_bytes_length": 22,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]레어 건틀렛[END]"
-        },
-        {
-            "offset": 1802336,
-            "string": "[Sign_1]バトルガントレット[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]배틀 건틀렛[END]"
-        },
-        {
-            "offset": 1802240,
-            "string": "戦闘用に特化したガントレット。[LINE]\n機能性が良いだけではなく、[LINE]\n装備者の力を限界まで引き上げる。[END]",
-            "original_bytes_length": 91,
-            "available_bytes_size": 95,
-            "translation": "전투용으로 특화된 건틀렛입니다.[LINE]\n기능성이 좋을 뿐만 아니라,[LINE]\n장비자의 힘을 한계까지 끌어올립니다.[END]"
-        },
-        {
-            "offset": 1802216,
-            "string": "[Sign_1]グリムガントレット[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]그림 건틀렛[END]"
-        },
-        {
-            "offset": 1802128,
-            "string": "伝説に登場する幻想の力を秘めた[LINE]\nガントレット。口伝を書物に[LINE]\nまとめた兄弟の名を冠する。[END]",
-            "original_bytes_length": 85,
-            "available_bytes_size": 87,
-            "translation": "전설에 등장하는 환상의 힘을秘めた[LINE]\n건틀렛입니다. 구술을 문서로[LINE]\n정리한 형제의 이름을 따릅니다.[END]"
-        },
-        {
-            "offset": 1802104,
-            "string": "[Sign_1]レザーグローブ[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]레더 글러브[END]"
-        },
-        {
-            "offset": 1802032,
-            "string": "革で繋ぎ合わせたグローブ。[LINE]\n少し固いが丈夫で安全。[LINE]\n女性の旅のお供に。[END]",
-            "original_bytes_length": 69,
-            "available_bytes_size": 71,
-            "translation": "가죽으로 연결한 글러브입니다.[LINE]\n조금 딱딱하지만 튼튼하고 안전합니다.[LINE]\n여성의 여행 동반자로.[END]"
-        },
-        {
-            "offset": 1802008,
-            "string": "[Sign_1]プリティグローブ[END]",
-            "original_bytes_length": 22,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]프리티 글러브[END]"
-        },
-        {
-            "offset": 1801920,
-            "string": "まふまふの毛で作られたファーが[LINE]\nついてる可愛い手袋。[LINE]\n寒くてもお洒落したいあなたへ。[END]",
-            "original_bytes_length": 83,
-            "available_bytes_size": 87,
-            "translation": "마후마후의 털로 만들어진 퍼가[LINE]\n붙어 있는 귀여운 장갑입니다.[LINE]\n추워도 멋내고 싶은 당신에게.[END]"
-        },
-        {
-            "offset": 1801896,
-            "string": "[Sign_1]ホワイトグローブ[END]",
-            "original_bytes_length": 22,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]화이트 글러브[END]"
-        },
-        {
-            "offset": 1801800,
-            "string": "シルクで作られた美しいグローブ。[LINE]\n滑らかな手触りに上品な刺繍。[LINE]\n身に付けるだけであなたも淑女に。[END]",
-            "original_bytes_length": 95,
-            "available_bytes_size": 95,
-            "translation": "실크로 만들어진 아름다운 글러브입니다.[LINE]\n부드러운 촉감과 우아한 자수.[LINE]\n착용하는 것만으로도 당신도 숙녀가 됩니다.[END]"
-        },
-        {
-            "offset": 1801776,
-            "string": "[Sign_1]ムーングローブ[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]문 글러브[END]"
-        },
-        {
-            "offset": 1801688,
-            "string": "月夜を意匠して作られたグローブ。[LINE]\n聖なる月の力が宿っている。[LINE]\nクロークとセットでどうぞ。[END]",
-            "original_bytes_length": 87,
-            "available_bytes_size": 87,
-            "translation": "달밤을 디자인하여 만들어진 글러브입니다.[LINE]\n신성한 달의 힘이 깃들어 있습니다.[LINE]\n망토와 세트로 사용하세요.[END]"
-        },
-        {
-            "offset": 1801664,
-            "string": "[Sign_1]スターグローブ[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]스타 글러브[END]"
-        },
-        {
-            "offset": 1801576,
-            "string": "星を意匠して作られたグローブ。[LINE]\n指先はまるで流星のよう。[LINE]\nクロークとセットでどうぞ。[END]",
-            "original_bytes_length": 83,
-            "available_bytes_size": 87,
-            "translation": "별을 디자인하여 만들어진 글러브입니다.[LINE]\n손끝은 마치 유성처럼.[LINE]\n망토와 세트로 사용하세요.[END]"
-        },
-        {
-            "offset": 1801552,
-            "string": "[Sign_1]ルーングローブ[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]룬 글러브[END]"
-        },
-        {
-            "offset": 1801464,
-            "string": "慈愛のルーンが刺繍されたグローブ。[LINE]\n触れる者全てを癒す力を、[LINE]\n身に付けた者に与える。[END]",
-            "original_bytes_length": 83,
-            "available_bytes_size": 87,
-            "translation": "자애의 룬이 자수로 새겨진 글러브입니다.[LINE]\n접촉하는 모든 이들을 치유하는 힘을,[LINE]\n착용한 이에게 부여합니다.[END]"
-        },
-        {
-            "offset": 1801440,
-            "string": "[Sign_1]ミスティグローブ[END]",
-            "original_bytes_length": 22,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]미스티 글러브[END]"
-        },
-        {
-            "offset": 1801352,
-            "string": "原料や生成が不明なグローブ。[LINE]\n見る角度により色が変化する。[LINE]\nクロークとセットでどうぞ。[END]",
-            "original_bytes_length": 85,
-            "available_bytes_size": 87,
-            "translation": "원료와 생성이 불명확한 글러브입니다.[LINE]\n보는 각도에 따라 색이 변합니다.[LINE]\n망토와 세트로 사용하세요.[END]"
-        },
-        {
-            "offset": 1801328,
-            "string": "[Sign_1]ミスリルグローブ[END]",
-            "original_bytes_length": 22,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]미스릴 글러브[END]"
-        },
-        {
-            "offset": 1801264,
-            "string": "ミスリル細工のグローブ。[LINE]\nドワーフ族の芸術作品といわれる。[LINE]\n[END]",
-            "original_bytes_length": 59,
-            "available_bytes_size": 63,
-            "translation": "미스릴 세공의 글러브입니다.[LINE]\n드워프족의 예술 작품이라고 합니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1801240,
-            "string": "[Sign_1]スティールグローブ[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]스틸 글러브[END]"
-        },
-        {
-            "offset": 1801152,
-            "string": "伝承で伝わる伝説の義賊が使って[LINE]\nいたグローブ。気配を絶ち相手の[LINE]\n懐を掠め取る神業を得る。[END]",
-            "original_bytes_length": 87,
-            "available_bytes_size": 87,
-            "translation": "전설로 전해지는 의적이 사용하던 글러브입니다.[LINE]\n기척을 없애고 상대의[LINE]\n주머니를 훔치는 신기한 능력을 얻습니다.[END]"
-        },
-        {
-            "offset": 1801128,
-            "string": "[Sign_1]グリムグローブ[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]그림 글러브[END]"
-        },
-        {
-            "offset": 1801040,
-            "string": "伝説に登場する幻想の力を秘めた[LINE]\nグローブ。口伝を書物にまとめた[LINE]\n兄弟の名を冠する。[END]",
-            "original_bytes_length": 81,
-            "available_bytes_size": 87,
-            "translation": "전설에 등장하는 환상의 힘을 지닌[LINE]\n글러브입니다. 구술로 전해진 내용을[LINE]\n서적으로 정리한 형제의 이름을 따릅니다.[END]"
-        },
-        {
-            "offset": 1801016,
-            "string": "[Sign_1]ストレイネックレス[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]스트레인 목걸이[END]"
-        },
-        {
-            "offset": 1800936,
-            "string": "ストレイライズ神殿の司祭に[LINE]\n与えられるネックレス。[LINE]\n集中力を高める効果がある。[END]",
-            "original_bytes_length": 77,
-            "available_bytes_size": 79,
-            "translation": "스트레이라이즈 신전의 사제에게[LINE]\n주어지는 목걸이입니다.[LINE]\n집중력을 높이는 효과가 있습니다.[END]"
-        },
-        {
-            "offset": 1800904,
-            "string": "[Sign_1]ウィズダムネックレス[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]지혜의 목걸이[END]"
-        },
-        {
-            "offset": 1800800,
-            "string": "地の精霊の加護を受けたネックレス。[LINE]\n揺るがぬ冷静な心を与える。[LINE]\n地属性晶術のダメージがアップする。[END]",
-            "original_bytes_length": 97,
-            "available_bytes_size": 103,
-            "translation": "대지의 정령의 가호를 받은 목걸이입니다.[LINE]\n흔들리지 않는 차분한 마음을 줍니다.[LINE]\n대지 속성 마법의 피해량이 증가합니다.[END]"
-        },
-        {
-            "offset": 1800768,
-            "string": "[Sign_1]アバタールネックレス[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]아바타 목걸이[END]"
-        },
-        {
-            "offset": 1800656,
-            "string": "風の精霊の加護を受けたネックレス。[LINE]\n理想を現実へと導く行動力を与える。[LINE]\n風属性晶術のダメージがアップする。[END]",
-            "original_bytes_length": 105,
-            "available_bytes_size": 111,
-            "translation": "바람의 정령의 가호를 받은 목걸이입니다.[LINE]\n이상을 현실로 이끄는 행동력을 줍니다.[LINE]\n바람 속성 마법의 피해량이 증가합니다.[END]"
-        },
-        {
-            "offset": 1800624,
-            "string": "[Sign_1]アーケインネックレス[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]아케인 목걸이[END]"
-        },
-        {
-            "offset": 1800520,
-            "string": "火の精霊の加護を受けたネックレス。[LINE]\n神秘なる者の声を聞く力を与える。[LINE]\n火属性晶術のダメージがアップする。[END]",
-            "original_bytes_length": 103,
-            "available_bytes_size": 103,
-            "translation": "불의 정령의 가호를 받은 목걸이입니다.[LINE]\n신비한 존재의 목소리를 듣는 힘을 줍니다.[LINE]\n불 속성 마법의 피해량이 증가합니다.[END]"
-        },
-        {
-            "offset": 1800496,
-            "string": "[Sign_1]マジカルネックレス[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]매지컬 목걸이[END]"
-        },
-        {
-            "offset": 1800392,
-            "string": "水の精霊の加護を受けたネックレス。[LINE]\n精神力をより鋭く研ぎ澄まされる。[LINE]\n水属性晶術のダメージがアップする。[END]",
-            "original_bytes_length": 103,
-            "available_bytes_size": 103,
-            "translation": "물의 정령의 가호를 받은 목걸이입니다.[LINE]\n정신력이 더욱 날카롭게 다듬어집니다.[LINE]\n물 속성 마법의 피해량이 증가합니다.[END]"
-        },
-        {
-            "offset": 1800368,
-            "string": "[Sign_1]マインドネックレス[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]마인드 목걸이[END]"
-        },
-        {
-            "offset": 1800264,
-            "string": "光の精霊の加護を受けたネックレス。[LINE]\n心に秘めた力を増加させる。[LINE]\n光属性晶術のダメージがアップする。[END]",
-            "original_bytes_length": 97,
-            "available_bytes_size": 103,
-            "translation": "빛의 정령의 가호를 받은 목걸이입니다.[LINE]\n마음에 숨겨진 힘을 증가시킵니다.[LINE]\n빛 속성 마법의 피해량이 증가합니다.[END]"
-        },
-        {
-            "offset": 1800240,
-            "string": "[Sign_1]メンタルネックレス[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]멘탈 목걸이[END]"
-        },
-        {
-            "offset": 1800144,
-            "string": "大地母神の祝福を受けたネックレス。[LINE]\n大いなる祝福と深い慈愛を。[LINE]\n地属性晶術の詠唱時間が減少する。[END]",
-            "original_bytes_length": 95,
-            "available_bytes_size": 95,
-            "translation": "대지 모신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 깊은 자애를.[LINE]\n지속성 속성 마법의 시전 시간이 감소합니다.[END]"
-        },
-        {
-            "offset": 1800112,
-            "string": "[Sign_1]トランキルネックレス[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]트랑킬 목걸이[END]"
-        },
-        {
-            "offset": 1800016,
-            "string": "風の王の祝福を受けたネックレス。[LINE]\n大いなる祝福と歪まぬ心を。[LINE]\n風属性晶術の詠唱時間が減少する。[END]",
-            "original_bytes_length": 93,
-            "available_bytes_size": 95,
-            "translation": "바람의 왕의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 왜곡되지 않는 마음을.[LINE]\n바람 속성 마법의 시전 시간이 감소합니다.[END]"
-        },
-        {
-            "offset": 1799992,
-            "string": "[Sign_1]ミューズネックレス[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]뮤즈 목걸이[END]"
-        },
-        {
-            "offset": 1799896,
-            "string": "炎の女神の祝福を受けたネックレス。[LINE]\n大いなる祝福と貫く意思を。[LINE]\n火属性晶術の詠唱時間が減少する。[END]",
-            "original_bytes_length": 95,
-            "available_bytes_size": 95,
-            "translation": "불의 여신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 관통하는 의지를.[LINE]\n불 속성 마법의 시전 시간이 감소합니다.[END]"
-        },
-        {
-            "offset": 1799864,
-            "string": "[Sign_1]フェアリィネックレス[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]페어리 목걸이[END]"
-        },
-        {
-            "offset": 1799768,
-            "string": "海の神の祝福を受けたネックレス。[LINE]\n大いなる祝福と惑わぬ心を。[LINE]\n水属性晶術の詠唱時間が減少する。[END]",
-            "original_bytes_length": 93,
-            "available_bytes_size": 95,
-            "translation": "바다의 신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 흔들리지 않는 마음을.[LINE]\n물 속성 마법의 시전 시간이 감소합니다.[END]"
-        },
-        {
-            "offset": 1799736,
-            "string": "[Sign_1]リチュアルネックレス[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]리추얼 목걸이[END]"
-        },
-        {
-            "offset": 1799632,
-            "string": "光の大神の祝福を受けたネックレス。[LINE]\n大いなる祝福と永久の忠誠を。[LINE]\n光属性晶術の詠唱時間が減少する。[END]",
-            "original_bytes_length": 97,
-            "available_bytes_size": 103,
-            "translation": "빛의 대신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 영원의 충성을.[LINE]\n빛 속성 마법의 시전 시간이 감소합니다.[END]"
-        },
-        {
-            "offset": 1799616,
-            "string": "[Sign_1]セルフボウ[END]",
-            "original_bytes_length": 16,
-            "available_bytes_size": 16,
-            "translation": "[Sign_1]셀프 보우[END]"
-        },
-        {
-            "offset": 1799536,
-            "string": "1本の木材で構成された長弓。[LINE]\n弓の道に進むのなら、[LINE]\nまずは自分の弓作りから。[END]",
-            "original_bytes_length": 74,
-            "available_bytes_size": 79,
-            "translation": "1개의 목재로 구성된 장궁입니다.[LINE]\n활의 길로 나아가려면,[LINE]\n우선 자신의 활을 만드는 것부터 시작하세요.[END]"
-        },
-        {
-            "offset": 1799512,
-            "string": "[Sign_1]コンポジットボウ[END]",
-            "original_bytes_length": 22,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]컴포지트 보우[END]"
-        },
-        {
-            "offset": 1799432,
-            "string": "複数の材料と材質を合わせた長弓。[LINE]\n軸がぶれず適度に柔軟。[LINE]\n弓に慣れてきた狩人用。[END]",
-            "original_bytes_length": 79,
-            "available_bytes_size": 79,
-            "translation": "여러 재료와 소재를 결합한 장궁입니다.[LINE]\n축이 흔들리지 않고 적당히 유연합니다.[LINE]\n활에 익숙해진 사냥꾼을 위한 것입니다.[END]"
-        },
-        {
-            "offset": 1799408,
-            "string": "[Sign_1]ラップドボウ[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]랩드 보우[END]"
-        },
-        {
-            "offset": 1799320,
-            "string": "風よりも速く、駆ける獣をも射る。[LINE]\n自らが狩った獣の体の一部を[LINE]\n使用して作るのが伝統。[END]",
-            "original_bytes_length": 83,
-            "available_bytes_size": 87,
-            "translation": "바람보다 빠르고, 달리는 짐승을 쏠 수 있습니다.[LINE]\n스스로 사냥한 짐승의 신체 일부를[LINE]\n사용해 만드는 것이 전통입니다.[END]"
-        },
-        {
-            "offset": 1799296,
-            "string": "[Sign_1]カスタムボウ[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]커스텀 보우[END]"
-        },
-        {
-            "offset": 1799208,
-            "string": "錬金術から生まれた特殊金属の長弓。[LINE]\n獲物の存在を感知すると、[LINE]\n熱を持って伝えるという。[END]",
-            "original_bytes_length": 85,
-            "available_bytes_size": 87,
-            "translation": "연금술에서 태어난 특수 금속으로 만든 장궁입니다.[LINE]\n먹잇감의 존재를 감지하면,[LINE]\n열을 가지고 전달한다고 합니다.[END]"
-        },
-        {
-            "offset": 1799184,
-            "string": "[Sign_1]ラピッドボウ[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]래피드 보우[END]"
-        },
-        {
-            "offset": 1799096,
-            "string": "草原を駆ける獣よりも速く。[LINE]\n天高く飛ぶ鳥よりも遠くへ。[LINE]\n最高の腕を持つ狩人のための長弓。[END]",
-            "original_bytes_length": 87,
-            "available_bytes_size": 87,
-            "translation": "초원을 달리는 짐승보다 빠릅니다.[LINE]\n하늘 높이 나는 새보다 더 멀리.[LINE]\n최고의 실력을 가진 사냥꾼을 위한 장궁입니다.[END]"
-        },
-        {
-            "offset": 1799080,
-            "string": "[Sign_1]キラーボウ[END]",
-            "original_bytes_length": 16,
-            "available_bytes_size": 16,
-            "translation": "[Sign_1]킬러 보우[END]"
-        },
-        {
-            "offset": 1799016,
-            "string": "一撃必中。[LINE]\n暗殺に特化された長弓。[LINE]\n音もなく放たれる死の一撃。[END]",
-            "original_bytes_length": 61,
-            "available_bytes_size": 63,
-            "translation": "한 방에 적중합니다.[LINE]\n암살에 특화된 장궁입니다.[LINE]\n소리 없이 발사되는 죽음의 일격입니다.[END]"
-        },
-        {
-            "offset": 1799000,
-            "string": "[Sign_1]バトルボウ[END]",
-            "original_bytes_length": 16,
-            "available_bytes_size": 16,
-            "translation": "[Sign_1]배틀 보우[END]"
-        },
-        {
-            "offset": 1798920,
-            "string": "その名の通り戦闘に特化した長弓。[LINE]\n強度もあり、その一撃は敵の装甲を[LINE]\n貫くほど。[END]",
-            "original_bytes_length": 77,
-            "available_bytes_size": 79,
-            "translation": "그 이름 그대로 전투에 특화된 장궁입니다.[LINE]\n강도가 있으며, 그 일격은 적의 갑옷을[LINE]\n관통할 정도입니다.[END]"
-        },
-        {
-            "offset": 1798904,
-            "string": "[Sign_1]グリムボウ[END]",
-            "original_bytes_length": 16,
-            "available_bytes_size": 16,
-            "translation": "[Sign_1]그림 보우[END]"
-        },
-        {
-            "offset": 1798824,
-            "string": "伝説に登場する幻想の力を秘めた[LINE]\n長弓。口伝を書物にまとめた[LINE]\n兄弟の名を冠する。[END]",
-            "original_bytes_length": 77,
-            "available_bytes_size": 79,
-            "translation": "전설에 등장하는 환상의 힘을 지닌[LINE]\n장궁입니다. 구술로 전해진 내용을 책으로 정리한[LINE]\n형제의 이름을 따릅니다.[END]"
-        },
-        {
-            "offset": 1798808,
-            "string": "[Sign_1]ねぎ[END]",
-            "original_bytes_length": 10,
-            "available_bytes_size": 15,
-            "translation": "[Sign_1]파[END]"
-        },
-        {
-            "offset": 1798728,
-            "string": "古くから薬用植物として重宝され、[LINE]\n体を温めたり、[LINE]\n疲労回復などの効果がある。[END]",
-            "original_bytes_length": 75,
-            "available_bytes_size": 79,
-            "translation": "오래전부터 약용 식물로 귀하게 여겨져,[LINE]\n몸을 따뜻하게 하거나,[LINE]\n피로 회복 등의 효과가 있습니다.[END]"
-        },
-        {
-            "offset": 1798704,
-            "string": "[Sign_1]リングダガー[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]링 다거[END]"
-        },
-        {
-            "offset": 1798624,
-            "string": "柄頭の形状がリングになっている[LINE]\n短剣。輪に紐を通して[LINE]\n投げて使うことも可能。[END]",
-            "original_bytes_length": 75,
-            "available_bytes_size": 79,
-            "translation": "손잡이 끝의 형태가 링으로 되어 있는[LINE]\n단검입니다. 링에 끈을 통과시켜[LINE]\n던져서 사용할 수도 있습니다.[END]"
-        },
-        {
-            "offset": 1798600,
-            "string": "[Sign_1]キドニーダガー[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]키드니 다거[END]"
-        },
-        {
-            "offset": 1798504,
-            "string": "騎士達が持つ切っ先の尖った短剣。[LINE]\n相手を傷つけることよりも[LINE]\n儀礼的なことで使われる事が多い。[END]",
-            "original_bytes_length": 91,
-            "available_bytes_size": 95,
-            "translation": "기사들이 사용하는 끝이 뾰족한 단검입니다.[LINE]\n상대를 다치게 하기보다는[LINE]\n의례적인 용도로 사용되는 경우가 많습니다.[END]"
-        },
-        {
-            "offset": 1798480,
-            "string": "[Sign_1]イヤードダガー[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]이어드 다거[END]"
-        },
-        {
-            "offset": 1798408,
-            "string": "柄頭が耳のような形状をした短剣。[LINE]\n握りやすく、優れた貫通力を持つ。[LINE]\n[END]",
-            "original_bytes_length": 67,
-            "available_bytes_size": 71,
-            "translation": "손잡이 끝이 귀처럼 생긴 단검입니다.[LINE]\n잡기 쉬우며, 뛰어난 관통력을 가지고 있습니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1798384,
-            "string": "[Sign_1]パリーイングダガー[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]파링 다거[END]"
-        },
-        {
-            "offset": 1798296,
-            "string": "二刀流剣士の必需品、左手用短剣。[LINE]\n硬い刀身を持ち、[LINE]\n相手の剣を受け止めることも可能。[END]",
-            "original_bytes_length": 83,
-            "available_bytes_size": 87,
-            "translation": "두 개의 검을 사용하는 검사의 필수품, 왼손용 단검입니다.[LINE]\n단단한 칼날을 가지고 있으며,[LINE]\n상대의 검을 막는 것도 가능합니다.[END]"
-        },
-        {
-            "offset": 1798272,
-            "string": "[Sign_1]ポニャードダガー[END]",
-            "original_bytes_length": 22,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]포니야드 다거[END]"
-        },
-        {
-            "offset": 1798200,
-            "string": "刺すことに力点を置いた短剣。[LINE]\n決闘で使われる殺傷能力の高い武器。[LINE]\n[END]",
+            "offset": 1793752,
+            "string": "非常に古くから栽培されている野菜。[LINE]\n漬物にして食べるのが一般的。[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "찌르는 데 중점을 둔 단검입니다.[LINE]\n결투에서 사용되는 살상 능력이 높은 무기입니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1798176,
-            "string": "[Sign_1]クリスダガー[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]크리스 다거[END]"
-        },
-        {
-            "offset": 1798072,
-            "string": "世界中でもっとも洗練された武器。[LINE]\n刃は両刃で波形にうねっている。[LINE]\n身を守り、邪悪を退ける力を持つ。[END]",
-            "original_bytes_length": 97,
-            "available_bytes_size": 103,
-            "translation": "전 세계에서 가장 세련된 무기입니다.[LINE]\n칼날은 양날이며 물결 모양으로 구부러져 있습니다.[LINE]\n몸을 보호하고, 악을 물리칠 힘을 가지고 있습니다.[END]"
-        },
-        {
-            "offset": 1798056,
-            "string": "[Sign_1]まつたけ[END]",
-            "original_bytes_length": 14,
-            "available_bytes_size": 15,
-            "translation": "[Sign_1]송이버섯[END]"
-        },
-        {
-            "offset": 1797984,
-            "string": "非常に高価なきのこの王様。[LINE]\n傘が開ききると[LINE]\n香りも味も落ちてしまう。[END]",
-            "original_bytes_length": 67,
-            "available_bytes_size": 71,
-            "translation": "매우 비싼 버섯의 왕입니다.[LINE]\n갓이 완전히 펴지면[LINE]\n향과 맛이 떨어져 버립니다.[END]"
-        },
-        {
-            "offset": 1797960,
-            "string": "[Sign_1]必勝バンダナ[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]필승 반다나[END]"
-        },
-        {
-            "offset": 1797896,
-            "string": "『必勝』と描かれたバンダナ。[LINE]\n気が引き締まり、攻撃力アップ！[LINE]\n[END]",
-            "original_bytes_length": 61,
-            "available_bytes_size": 63,
-            "translation": "‘필승’이라고 쓰인 반다나입니다.[LINE]\n기분이 단단해지고, 공격력이 상승합니다![LINE]\n[END]"
-        },
-        {
-            "offset": 1797872,
-            "string": "[Sign_1]激烈バンダナ[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]격렬 반다나[END]"
-        },
-        {
-            "offset": 1797800,
-            "string": "『激烈』と描かれたバンダナ。[LINE]\n熱毒を防止し、攻撃力を上昇させる。[LINE]\n[END]",
-            "original_bytes_length": 65,
-            "available_bytes_size": 71,
-            "translation": "‘격렬’이라고 쓰인 반다나입니다.[LINE]\n열독을 방지하고, 공격력을 상승시킵니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1797776,
-            "string": "[Sign_1]堅牢バンダナ[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]견고 반다나[END]"
-        },
-        {
-            "offset": 1797704,
-            "string": "『堅牢』と描かれたバンダナ。[LINE]\n石化を防止し、防御力を上昇させる。[LINE]\n[END]",
-            "original_bytes_length": 65,
-            "available_bytes_size": 71,
-            "translation": "‘견고’라고 쓰인 반다나입니다.[LINE]\n석화를 방지하고, 방어력을 상승시킵니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1797680,
-            "string": "[Sign_1]天空バンダナ[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]천공 반다나[END]"
-        },
-        {
-            "offset": 1797616,
-            "string": "『天空』と描かれたバンダナ。[LINE]\n麻痺を防止し、体力を上昇させる。[LINE]\n[END]",
-            "original_bytes_length": 63,
-            "available_bytes_size": 63,
-            "translation": "‘천공’이라고 쓰인 반다나입니다.[LINE]\n마비를 방지하고, 체력을 상승시킵니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1797592,
-            "string": "[Sign_1]覚醒バンダナ[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]각성 반다나[END]"
-        },
-        {
-            "offset": 1797520,
-            "string": "『覚醒』と描かれたバンダナ。[LINE]\n睡眠を防止し、集中力を上昇させる。[LINE]\n[END]",
-            "original_bytes_length": 65,
-            "available_bytes_size": 71,
-            "translation": "‘각성’이라고 쓰인 반다나입니다.[LINE]\n수면을 방지하고, 집중력을 상승시킵니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1797496,
-            "string": "[Sign_1]疾風バンダナ[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]질풍 반다나[END]"
-        },
-        {
-            "offset": 1797424,
-            "string": "『疾風』と描かれたバンダナ。[LINE]\n衰弱を防止し、回避率を上昇させる。[LINE]\n[END]",
-            "original_bytes_length": 65,
-            "available_bytes_size": 71,
-            "translation": "‘질풍’이라고 쓰인 반다나입니다.[LINE]\n쇠약을 방지하고, 회피율을 상승시킵니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1797400,
-            "string": "[Sign_1]滅殺バンダナ[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]멸살 반다나[END]"
-        },
-        {
-            "offset": 1797328,
-            "string": "『滅殺』と描かれたバンダナ。[LINE]\n封印を防止し、命中率を上昇させる。[LINE]\n[END]",
-            "original_bytes_length": 65,
-            "available_bytes_size": 71,
-            "translation": "‘멸살’이라고 쓰인 반다나입니다.[LINE]\n봉인을 방지하고, 명중률을 상승시킵니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1797304,
-            "string": "[Sign_1]豪傑バンダナ[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]호걸 반다나[END]"
-        },
-        {
-            "offset": 1797248,
-            "string": "『豪傑』と描かれたバンダナ。[LINE]\n攻撃力が大幅に上昇する。[LINE]\n[END]",
-            "original_bytes_length": 55,
-            "available_bytes_size": 55,
-            "translation": "‘호걸’이라고 쓰인 반다나입니다.[LINE]\n공격력이 대폭 상승합니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1797224,
-            "string": "[Sign_1]革命バンダナ[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]혁명 반다나[END]"
-        },
-        {
-            "offset": 1797136,
-            "string": "『革命』と描かれたバンダナ。[LINE]\nどんな事でも揺るがない！[LINE]\n全ての状態異常を防止する。[END]",
-            "original_bytes_length": 81,
-            "available_bytes_size": 87,
-            "translation": "‘혁명’이라고 쓰인 반다나입니다.[LINE]\n어떤 일이든 흔들리지 않습니다![LINE]\n모든 상태 이상을 방지합니다.[END]"
-        },
-        {
-            "offset": 1797112,
-            "string": "[Sign_1]レッドリボン[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]레드 리본[END]"
-        },
-        {
-            "offset": 1797040,
-            "string": "真っ赤なシンプルなリボン。[LINE]\n女の子の必需品。[LINE]\n火属性耐性を付加する。[END]",
-            "original_bytes_length": 67,
-            "available_bytes_size": 71,
-            "translation": "선명한 빨간색의 심플한 리본입니다.[LINE]\n여자아이의 필수품입니다.[LINE]\n화속성 저항을 부여합니다.[END]"
-        },
-        {
-            "offset": 1797016,
-            "string": "[Sign_1]ブルーリボン[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]블루 리본[END]"
-        },
-        {
-            "offset": 1796936,
-            "string": "水色のプリーツ状リボン。[LINE]\nちょっとおしゃまな女の子向け。[LINE]\n水属性耐性を付加する。[END]",
-            "original_bytes_length": 79,
-            "available_bytes_size": 79,
-            "translation": "수색의 주름진 리본입니다.[LINE]\n조금 발랄한 여자아이를 위한 것입니다.[LINE]\n수속성 저항을 부여합니다.[END]"
-        },
-        {
-            "offset": 1796912,
-            "string": "[Sign_1]オレンジリボン[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]오렌지 리본[END]"
-        },
-        {
-            "offset": 1796832,
-            "string": "サテン生地のオレンジリボン。[LINE]\nお姉さんに憧れる女の子へ。[LINE]\n地属性耐性を付加する。[END]",
-            "original_bytes_length": 79,
-            "available_bytes_size": 79,
-            "translation": "새틴 소재의 오렌지 리본입니다.[LINE]\n언니를 동경하는 여자아이를 위한 것입니다.[LINE]\n지속성 저항을 부여합니다.[END]"
-        },
-        {
-            "offset": 1796808,
-            "string": "[Sign_1]グリーンリボン[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]그린 리본[END]"
-        },
-        {
-            "offset": 1796720,
-            "string": "南国ちっくな緑のリボン。[LINE]\n人とは違った物をつけたい女の子向け。[LINE]\n風属性耐性を付加する。[END]",
-            "original_bytes_length": 85,
-            "available_bytes_size": 87,
-            "translation": "남국풍의 초록색 리본입니다.[LINE]\n남들과 다른 것을 착용하고 싶은 여자아이를 위한 것입니다.[LINE]\n풍속성 저항을 부여합니다.[END]"
-        },
-        {
-            "offset": 1796696,
-            "string": "[Sign_1]ホワイトリボン[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]화이트 리본[END]"
-        },
-        {
-            "offset": 1796608,
-            "string": "天使のような羽つきリボン。[LINE]\nワンランク上の女の子になれる！[LINE]\n光属性耐性を付加する。[END]",
-            "original_bytes_length": 81,
-            "available_bytes_size": 87,
-            "translation": "천사 같은 날개가 달린 리본입니다.[LINE]\n한 단계 높은 여자아이가 될 수 있습니다![LINE]\n광속성 저항을 부여합니다.[END]"
-        },
-        {
-            "offset": 1796584,
-            "string": "[Sign_1]ブラックリボン[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]블랙 리본[END]"
-        },
-        {
-            "offset": 1796504,
-            "string": "神秘的な黒いリボン。[LINE]\n大人の女性も越えたいあなたへ。[LINE]\n闇属性耐性を付加する。[END]",
-            "original_bytes_length": 75,
-            "available_bytes_size": 79,
-            "translation": "신비로운 검은색 리본입니다.[LINE]\n어른 여성도 넘고 싶은 당신에게.[LINE]\n암속성 저항을 부여합니다.[END]"
-        },
-        {
-            "offset": 1796480,
-            "string": "[Sign_1]ウィアードリボン[END]",
-            "original_bytes_length": 22,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]위어드 리본[END]"
-        },
-        {
-            "offset": 1796384,
-            "string": "子供だけが身に付けられるリボン。[LINE]\n愛と夢と希望がいっぱい。[LINE]\n高ぶる気持ちでいっぱい動ける。[END]",
-            "original_bytes_length": 89,
-            "available_bytes_size": 95,
-            "translation": "아이들만 착용할 수 있는 리본입니다.[LINE]\n사랑과 꿈, 희망이 가득합니다.[LINE]\n부풀어 오르는 마음으로 가득 움직일 수 있습니다.[END]"
-        },
-        {
-            "offset": 1796360,
-            "string": "[Sign_1]フェザーハット[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]페더 햇[END]"
-        },
-        {
-            "offset": 1796272,
-            "string": "大きな羽を飾りにつけた帽子。[LINE]\n洒落た帽子でワンランク上の男を[LINE]\n目指す。それがジョニー流。[END]",
-            "original_bytes_length": 87,
-            "available_bytes_size": 87,
-            "translation": "큰 날개를 장식으로 단 모자입니다.[LINE]\n세련된 모자로 한 단계 높은 남자를[LINE]\n목표로 합니다. 그게 죠니 스타일입니다.[END]"
-        },
-        {
-            "offset": 1796248,
-            "string": "[Sign_1]アクレイムハット[END]",
-            "original_bytes_length": 22,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]어클레임 햇[END]"
-        },
-        {
-            "offset": 1796152,
-            "string": "強者のみが被ることを許される。[LINE]\n被れば称賛を浴びること間違いなし。[LINE]\n火属性の攻撃属性を付加する。[END]",
-            "original_bytes_length": 95,
-            "available_bytes_size": 95,
-            "translation": "강자만이 착용할 수 있습니다.[LINE]\n착용하면 칭찬을 받을 것이 틀림없습니다.[LINE]\n화속성 공격을 부여합니다.[END]"
-        },
-        {
-            "offset": 1796128,
-            "string": "[Sign_1]エグザイルハット[END]",
-            "original_bytes_length": 22,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]엑자일 햇[END]"
-        },
-        {
-            "offset": 1796024,
-            "string": "世界を旅する冒険家が被っていたと[LINE]\n言われている帽子。放浪癖がつきます。[LINE]\n地属性の攻撃属性を付加する。[END]",
-            "original_bytes_length": 99,
-            "available_bytes_size": 103,
-            "translation": "세계 여행을 하는 모험가가 착용했다고[LINE]\n전해지는 모자입니다. 방랑癖이 생깁니다.[LINE]\n지속성 공격을 부여합니다.[END]"
-        },
-        {
-            "offset": 1796000,
-            "string": "[Sign_1]ハッピーハット[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]해피 햇[END]"
-        },
-        {
-            "offset": 1795896,
-            "string": "老いた魔術師が、帽子が風に飛ば[LINE]\nされないように作った帽子。それが幸せ。[LINE]\n風属性の攻撃属性を付加する。[END]",
-            "original_bytes_length": 99,
-            "available_bytes_size": 103,
-            "translation": "늙은 마법사가 모자가 바람에 날리지 않도록[LINE]\n만든 모자입니다. 그것이 행복입니다.[LINE]\n바람 속성 공격을 부여합니다.[END]"
-        },
-        {
-            "offset": 1795872,
-            "string": "[Sign_1]ストリークハット[END]",
-            "original_bytes_length": 22,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]스트릭 햇[END]"
-        },
-        {
-            "offset": 1795776,
-            "string": "常に謎と戦う探求者のための帽子。[LINE]\n答えを導くと頭の上に何かが出る。[LINE]\n水属性の攻撃属性を付加する。[END]",
-            "original_bytes_length": 95,
-            "available_bytes_size": 95,
-            "translation": "항상 수수께끼와 싸우는 탐구자를 위한 모자입니다.[LINE]\n답을 이끌어내면 머리 위에 무언가가 나타납니다.[LINE]\n수속성 공격을 부여합니다.[END]"
-        },
-        {
-            "offset": 1795752,
-            "string": "[Sign_1]シンガーハット[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]싱어 햇[END]"
-        },
-        {
-            "offset": 1795656,
-            "string": "かつて「天使の合唱団」と呼ばれた[LINE]\n聖歌隊が被っていた由緒ある帽子。[LINE]\n光属性の攻撃属性を付加する。[END]",
-            "original_bytes_length": 95,
-            "available_bytes_size": 95,
-            "translation": "한때 '천사의 합창단'이라고 불렸던[LINE]\n성가대가 착용했던 유서 깊은 모자입니다.[LINE]\n빛 속성 공격을 부여합니다.[END]"
-        },
-        {
-            "offset": 1795632,
-            "string": "[Sign_1]シャイフハット[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]샤이프 햇[END]"
-        },
-        {
-            "offset": 1795536,
-            "string": "その声は、混沌で眠る不死の王をも[LINE]\n魅了する。伝説に残る詩人の帽子。[LINE]\n闇属性の攻撃属性を付加する。[END]",
-            "original_bytes_length": 95,
-            "available_bytes_size": 95,
-            "translation": "그 목소리는 혼돈에서 잠자는 불사의 왕조차도[LINE]\n매료시킵니다. 전설에 남는 시인의 모자입니다.[LINE]\n암속성 공격을 부여합니다.[END]"
-        },
-        {
-            "offset": 1795512,
-            "string": "[Sign_1]レプリカベルト[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]레플리카 벨트[END]"
-        },
-        {
-            "offset": 1795424,
-            "string": "街を離れるため返還した[LINE]\nチャンピオンベルトのレプリカ。[LINE]\nまた取り戻しゃーいいのよ！[END]",
-            "original_bytes_length": 81,
-            "available_bytes_size": 87,
-            "translation": "도시를 떠나기 위해 반환한[LINE]\n챔피언 벨트의 레플리카입니다.[LINE]\n다시 되찾으면 되지! [END]"
-        },
-        {
-            "offset": 1795400,
-            "string": "[Sign_1]フライベルト[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]플라이 벨트[END]"
-        },
-        {
-            "offset": 1795336,
-            "string": "闘技場フライ級を制覇した証。[LINE]\n通常攻撃にダウン効果が少しつく。[LINE]\n[END]",
-            "original_bytes_length": 63,
-            "available_bytes_size": 63,
-            "translation": "투기장 플라이급을 제패한 증거입니다.[LINE]\n일반 공격에 다운 효과가 조금 붙습니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1795312,
-            "string": "[Sign_1]バンタムベルト[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]밴텀 벨트[END]"
-        },
-        {
-            "offset": 1795240,
-            "string": "闘技場バンタム級を制覇した証。[LINE]\n通常攻撃にダウン効果がそこそこつく。[LINE]\n[END]",
-            "original_bytes_length": 69,
-            "available_bytes_size": 71,
-            "translation": "투기장 밴텀급을 제패한 증거입니다.[LINE]\n일반 공격에 다운 효과가 꽤 붙습니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1795216,
-            "string": "[Sign_1]ライトベルト[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]라이트 벨트[END]"
-        },
-        {
-            "offset": 1795144,
-            "string": "闘技場ライト級を制覇した証。[LINE]\n通常攻撃にダウン効果がだいぶつく。[LINE]\n[END]",
-            "original_bytes_length": 65,
-            "available_bytes_size": 71,
-            "translation": "투기장 라이트급을 제패한 증거입니다.[LINE]\n일반 공격에 다운 효과가 꽤 붙습니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1795120,
-            "string": "[Sign_1]ミドルベルト[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]미들 벨트[END]"
-        },
-        {
-            "offset": 1795048,
-            "string": "闘技場ミドル級を制覇した証。[LINE]\n通常攻撃にダウン効果がけっこうつく。[LINE]\n[END]",
-            "original_bytes_length": 67,
-            "available_bytes_size": 71,
-            "translation": "투기장 미들급을 제패한 증거입니다.[LINE]\n일반 공격에 다운 효과가 꽤 붙습니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1795024,
-            "string": "[Sign_1]ヘビーベルト[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]헤비 벨트[END]"
-        },
-        {
-            "offset": 1794952,
-            "string": "闘技場ヘビー級を制覇した証。[LINE]\n通常攻撃にダウン効果がかなりつく。[LINE]\n[END]",
-            "original_bytes_length": 65,
-            "available_bytes_size": 71,
-            "translation": "투기장 헤비급을 제패한 증거입니다.[LINE]\n일반 공격에 다운 효과가 상당히 붙습니다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1794928,
-            "string": "[Sign_1]チャンピオンベルト[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]챔피언 벨트[END]"
-        },
-        {
-            "offset": 1794856,
-            "string": "闘技場を制覇した者に贈られる[LINE]\n最強の証！[LINE]\n不屈の闘志でピンチを跳ね返す！[END]",
-            "original_bytes_length": 71,
-            "available_bytes_size": 71,
-            "translation": "투기장을 제패한 자에게 주어지는[LINE]\n최강의 증거![LINE]\n불굴의 투지로 위기를 넘겨라![END]"
-        },
-        {
-            "offset": 1794832,
-            "string": "[Sign_1]セインガルドベルト[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]세인갈드 벨트[END]"
-        },
-        {
-            "offset": 1794776,
-            "string": "セインガルド地方に生息する[LINE]\nモンスターを制覇した証！[LINE]\n[END]",
-            "original_bytes_length": 53,
-            "available_bytes_size": 55,
-            "translation": "세인갈드 지역에 서식하는[LINE]\n몬스터를 제패한 증거![LINE]\n[END]"
-        },
-        {
-            "offset": 1794744,
-            "string": "[Sign_1]フィッツガルドベルト[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]피츠갈드 벨트[END]"
-        },
-        {
-            "offset": 1794688,
-            "string": "フィッツガルド地方に生息する[LINE]\nモンスターを制覇した証！[LINE]\n[END]",
-            "original_bytes_length": 55,
-            "available_bytes_size": 55,
-            "translation": "피츠갈드 지역에 서식하는[LINE]\n몬스터를 제패한 증거![LINE]\n[END]"
-        },
-        {
-            "offset": 1794664,
-            "string": "[Sign_1]カルバレイスベルト[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]칼바레이스 벨트[END]"
-        },
-        {
-            "offset": 1794608,
-            "string": "カルバレイス地方に生息する[LINE]\nモンスターを制覇した証！[LINE]\n[END]",
-            "original_bytes_length": 53,
-            "available_bytes_size": 55,
-            "translation": "칼바레이스 지역에 서식하는[LINE]\n몬스터를 제패한 증거![LINE]\n[END]"
-        },
-        {
-            "offset": 1794576,
-            "string": "[Sign_1]アクアヴェイルベルト[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]아쿠아베일 벨트[END]"
-        },
-        {
-            "offset": 1794520,
-            "string": "アクアヴェイル地方に生息する[LINE]\nモンスターを制覇した証！[LINE]\n[END]",
-            "original_bytes_length": 55,
-            "available_bytes_size": 55,
-            "translation": "아쿠아베일 지역에 서식하는[LINE]\n몬스터를 제패한 증거![LINE]\n[END]"
-        },
-        {
-            "offset": 1794496,
-            "string": "[Sign_1]ファンダリアベルト[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]판달리아 벨트[END]"
-        },
-        {
-            "offset": 1794440,
-            "string": "ファンダリア地方に生息する[LINE]\nモンスターを制覇した証！[LINE]\n[END]",
-            "original_bytes_length": 53,
-            "available_bytes_size": 55,
-            "translation": "판달리아 지역에 서식하는[LINE]\n몬스터를 제패한 증거![LINE]\n[END]"
-        },
-        {
-            "offset": 1794408,
-            "string": "[Sign_1]Ｗチャンピオンベルト[END]",
-            "original_bytes_length": 26,
-            "available_bytes_size": 31,
-            "translation": "[Sign_1]W 챔피언 벨트[END]"
-        },
-        {
-            "offset": 1794328,
-            "string": "全世界のモンスターを制覇した[LINE]\nチャンピオンの証！[LINE]\nどんなことにも屈しなくなる。[END]",
-            "original_bytes_length": 77,
-            "available_bytes_size": 79,
-            "translation": "전 세계의 몬스터를 제패한[LINE]\n챔피언의 증거![LINE]\n어떤 일에도 굴하지 않게 된다.[END]"
-        },
-        {
-            "offset": 1794312,
-            "string": "[Sign_1]すいか[END]",
-            "original_bytes_length": 12,
-            "available_bytes_size": 15,
-            "translation": "[Sign_1]수박[END]"
-        },
-        {
-            "offset": 1794232,
-            "string": "砂漠では水の供給源ともなるすいか。[LINE]\n昔は種も食用として扱われていたとか……[LINE]\n[END]",
-            "original_bytes_length": 75,
-            "available_bytes_size": 79,
-            "translation": "사막에서는 물의 공급원 역할을 하는 수박.[LINE]\n예전에는 씨앗도 식용으로 사용되었다고 하더라……[LINE]\n[END]"
-        },
-        {
-            "offset": 1794208,
-            "string": "[Sign_1]鉄のフライパン[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]철 프라이팬[END]"
-        },
-        {
-            "offset": 1794152,
-            "string": "鉄で作られたフライパン。[LINE]\n使い込むほど味が出る。[LINE]\n[END]",
-            "original_bytes_length": 49,
-            "available_bytes_size": 55,
-            "translation": "철로 만들어진 프라이팬.[LINE]\n사용할수록 맛이 난다.[LINE]\n[END]"
-        },
-        {
-            "offset": 1794128,
-            "string": "[Sign_1]銅のフライパン[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]구리 프라이팬[END]"
-        },
-        {
-            "offset": 1794056,
-            "string": "銅で作られたフライパン。[LINE]\n熱伝導がすばらしい。[LINE]\n料理時間が短縮されます。[END]",
-            "original_bytes_length": 71,
-            "available_bytes_size": 71,
-            "translation": "구리로 만들어진 프라이팬.[LINE]\n열 전도율이 뛰어나다.[LINE]\n요리 시간이 단축된다.[END]"
-        },
-        {
-            "offset": 1794032,
-            "string": "[Sign_1]銀のフライパン[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]은 프라이팬[END]"
-        },
-        {
-            "offset": 1793952,
-            "string": "銀で作られたフライパン。[LINE]\n白い輝きが美しい。[LINE]\n焦がしてしまうのがもったいない。[END]",
-            "original_bytes_length": 77,
-            "available_bytes_size": 79,
-            "translation": "은으로 만들어진 프라이팬.[LINE]\n하얀 광채가 아름답다.[LINE]\n태우기에는 아까운 존재다.[END]"
-        },
-        {
-            "offset": 1793928,
-            "string": "[Sign_1]金のフライパン[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23,
-            "translation": "[Sign_1]금 프라이팬[END]"
-        },
-        {
-            "offset": 1793840,
-            "string": "金で作られたフライパン。[LINE]\n別名「豪華なフライパン」。[LINE]\nこれであなたも王族専属シェフ。[END]",
-            "original_bytes_length": 83,
-            "available_bytes_size": 87,
-            "translation": "금으로 만들어진 프라이팬.[LINE]\n별칭 ‘호화로운 프라이팬’.[LINE]\n이걸로 당신도 왕족 전속 셰프가 될 수 있다.[END]"
+            "translation": "아주 오래전부터 재배되어온 채소.[LINE]\n절임으로 먹는 것이 일반적이다.[LINE]\n[END]"
         },
         {
             "offset": 1793824,
@@ -1261,11 +15,1257 @@
             "translation": "[Sign_1]무[END]"
         },
         {
-            "offset": 1793752,
-            "string": "非常に古くから栽培されている野菜。[LINE]\n漬物にして食べるのが一般的。[LINE]\n[END]",
+            "offset": 1793840,
+            "string": "金で作られたフライパン。[LINE]\n別名「豪華なフライパン」。[LINE]\nこれであなたも王族専属シェフ。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "금으로 만들어진 프라이팬.[LINE]\n별칭 ‘호화로운 프라이팬’.[LINE]\n이걸로 당신도 왕족 전속 셰프가 될 수 있다.[END]"
+        },
+        {
+            "offset": 1793928,
+            "string": "[Sign_1]金のフライパン[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]금 프라이팬[END]"
+        },
+        {
+            "offset": 1793952,
+            "string": "銀で作られたフライパン。[LINE]\n白い輝きが美しい。[LINE]\n焦がしてしまうのがもったいない。[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "은으로 만들어진 프라이팬.[LINE]\n하얀 광채가 아름답다.[LINE]\n태우기에는 아까운 존재다.[END]"
+        },
+        {
+            "offset": 1794032,
+            "string": "[Sign_1]銀のフライパン[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]은 프라이팬[END]"
+        },
+        {
+            "offset": 1794056,
+            "string": "銅で作られたフライパン。[LINE]\n熱伝導がすばらしい。[LINE]\n料理時間が短縮されます。[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "구리로 만들어진 프라이팬.[LINE]\n열 전도율이 뛰어나다.[LINE]\n요리 시간이 단축된다.[END]"
+        },
+        {
+            "offset": 1794128,
+            "string": "[Sign_1]銅のフライパン[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]구리 프라이팬[END]"
+        },
+        {
+            "offset": 1794152,
+            "string": "鉄で作られたフライパン。[LINE]\n使い込むほど味が出る。[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "철로 만들어진 프라이팬.[LINE]\n사용할수록 맛이 난다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1794208,
+            "string": "[Sign_1]鉄のフライパン[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]철 프라이팬[END]"
+        },
+        {
+            "offset": 1794232,
+            "string": "砂漠では水の供給源ともなるすいか。[LINE]\n昔は種も食用として扱われていたとか……[LINE]\n[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "사막에서는 물의 공급원 역할을 하는 수박.[LINE]\n예전에는 씨앗도 식용으로 사용되었다고 하더라……[LINE]\n[END]"
+        },
+        {
+            "offset": 1794312,
+            "string": "[Sign_1]すいか[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_1]수박[END]"
+        },
+        {
+            "offset": 1794328,
+            "string": "全世界のモンスターを制覇した[LINE]\nチャンピオンの証！[LINE]\nどんなことにも屈しなくなる。[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "전 세계의 몬스터를 제패한[LINE]\n챔피언의 증거![LINE]\n어떤 일에도 굴하지 않게 된다.[END]"
+        },
+        {
+            "offset": 1794408,
+            "string": "[Sign_1]Ｗチャンピオンベルト[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]W 챔피언 벨트[END]"
+        },
+        {
+            "offset": 1794440,
+            "string": "ファンダリア地方に生息する[LINE]\nモンスターを制覇した証！[LINE]\n[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55,
+            "translation": "판달리아 지역에 서식하는[LINE]\n몬스터를 제패한 증거![LINE]\n[END]"
+        },
+        {
+            "offset": 1794496,
+            "string": "[Sign_1]ファンダリアベルト[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]판달리아 벨트[END]"
+        },
+        {
+            "offset": 1794520,
+            "string": "アクアヴェイル地方に生息する[LINE]\nモンスターを制覇した証！[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55,
+            "translation": "아쿠아베일 지역에 서식하는[LINE]\n몬스터를 제패한 증거![LINE]\n[END]"
+        },
+        {
+            "offset": 1794576,
+            "string": "[Sign_1]アクアヴェイルベルト[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]아쿠아베일 벨트[END]"
+        },
+        {
+            "offset": 1794608,
+            "string": "カルバレイス地方に生息する[LINE]\nモンスターを制覇した証！[LINE]\n[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55,
+            "translation": "칼바레이스 지역에 서식하는[LINE]\n몬스터를 제패한 증거![LINE]\n[END]"
+        },
+        {
+            "offset": 1794664,
+            "string": "[Sign_1]カルバレイスベルト[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]칼바레이스 벨트[END]"
+        },
+        {
+            "offset": 1794688,
+            "string": "フィッツガルド地方に生息する[LINE]\nモンスターを制覇した証！[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55,
+            "translation": "피츠갈드 지역에 서식하는[LINE]\n몬스터를 제패한 증거![LINE]\n[END]"
+        },
+        {
+            "offset": 1794744,
+            "string": "[Sign_1]フィッツガルドベルト[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]피츠갈드 벨트[END]"
+        },
+        {
+            "offset": 1794776,
+            "string": "セインガルド地方に生息する[LINE]\nモンスターを制覇した証！[LINE]\n[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55,
+            "translation": "세인갈드 지역에 서식하는[LINE]\n몬스터를 제패한 증거![LINE]\n[END]"
+        },
+        {
+            "offset": 1794832,
+            "string": "[Sign_1]セインガルドベルト[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]세인갈드 벨트[END]"
+        },
+        {
+            "offset": 1794856,
+            "string": "闘技場を制覇した者に贈られる[LINE]\n最強の証！[LINE]\n不屈の闘志でピンチを跳ね返す！[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "투기장을 제패한 자에게 주어지는[LINE]\n최강의 증거![LINE]\n불굴의 투지로 위기를 넘겨라![END]"
+        },
+        {
+            "offset": 1794928,
+            "string": "[Sign_1]チャンピオンベルト[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]챔피언 벨트[END]"
+        },
+        {
+            "offset": 1794952,
+            "string": "闘技場ヘビー級を制覇した証。[LINE]\n通常攻撃にダウン効果がかなりつく。[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "아주 오래전부터 재배되어온 채소.[LINE]\n절임으로 먹는 것이 일반적이다.[LINE]\n[END]"
+            "translation": "투기장 헤비급을 제패한 증거입니다.[LINE]\n일반 공격에 다운 효과가 상당히 붙습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1795024,
+            "string": "[Sign_1]ヘビーベルト[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]헤비 벨트[END]"
+        },
+        {
+            "offset": 1795048,
+            "string": "闘技場ミドル級を制覇した証。[LINE]\n通常攻撃にダウン効果がけっこうつく。[LINE]\n[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "투기장 미들급을 제패한 증거입니다.[LINE]\n일반 공격에 다운 효과가 꽤 붙습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1795120,
+            "string": "[Sign_1]ミドルベルト[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]미들 벨트[END]"
+        },
+        {
+            "offset": 1795144,
+            "string": "闘技場ライト級を制覇した証。[LINE]\n通常攻撃にダウン効果がだいぶつく。[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "투기장 라이트급을 제패한 증거입니다.[LINE]\n일반 공격에 다운 효과가 꽤 붙습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1795216,
+            "string": "[Sign_1]ライトベルト[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]라이트 벨트[END]"
+        },
+        {
+            "offset": 1795240,
+            "string": "闘技場バンタム級を制覇した証。[LINE]\n通常攻撃にダウン効果がそこそこつく。[LINE]\n[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71,
+            "translation": "투기장 밴텀급을 제패한 증거입니다.[LINE]\n일반 공격에 다운 효과가 꽤 붙습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1795312,
+            "string": "[Sign_1]バンタムベルト[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]밴텀 벨트[END]"
+        },
+        {
+            "offset": 1795336,
+            "string": "闘技場フライ級を制覇した証。[LINE]\n通常攻撃にダウン効果が少しつく。[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "투기장 플라이급을 제패한 증거입니다.[LINE]\n일반 공격에 다운 효과가 조금 붙습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1795400,
+            "string": "[Sign_1]フライベルト[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]플라이 벨트[END]"
+        },
+        {
+            "offset": 1795424,
+            "string": "街を離れるため返還した[LINE]\nチャンピオンベルトのレプリカ。[LINE]\nまた取り戻しゃーいいのよ！[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "도시를 떠나기 위해 반환한[LINE]\n챔피언 벨트의 레플리카입니다.[LINE]\n다시 되찾으면 되지! [END]"
+        },
+        {
+            "offset": 1795512,
+            "string": "[Sign_1]レプリカベルト[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]레플리카 벨트[END]"
+        },
+        {
+            "offset": 1795536,
+            "string": "その声は、混沌で眠る不死の王をも[LINE]\n魅了する。伝説に残る詩人の帽子。[LINE]\n闇属性の攻撃属性を付加する。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "그 목소리는 혼돈에서 잠자는 불사의 왕조차도[LINE]\n매료시킵니다. 전설에 남는 시인의 모자입니다.[LINE]\n암속성 공격을 부여합니다.[END]"
+        },
+        {
+            "offset": 1795632,
+            "string": "[Sign_1]シャイフハット[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]샤이프 햇[END]"
+        },
+        {
+            "offset": 1795656,
+            "string": "かつて「天使の合唱団」と呼ばれた[LINE]\n聖歌隊が被っていた由緒ある帽子。[LINE]\n光属性の攻撃属性を付加する。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "한때 '천사의 합창단'이라고 불렸던[LINE]\n성가대가 착용했던 유서 깊은 모자입니다.[LINE]\n빛 속성 공격을 부여합니다.[END]"
+        },
+        {
+            "offset": 1795752,
+            "string": "[Sign_1]シンガーハット[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]싱어 햇[END]"
+        },
+        {
+            "offset": 1795776,
+            "string": "常に謎と戦う探求者のための帽子。[LINE]\n答えを導くと頭の上に何かが出る。[LINE]\n水属性の攻撃属性を付加する。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "항상 수수께끼와 싸우는 탐구자를 위한 모자입니다.[LINE]\n답을 이끌어내면 머리 위에 무언가가 나타납니다.[LINE]\n수속성 공격을 부여합니다.[END]"
+        },
+        {
+            "offset": 1795872,
+            "string": "[Sign_1]ストリークハット[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]스트릭 햇[END]"
+        },
+        {
+            "offset": 1795896,
+            "string": "老いた魔術師が、帽子が風に飛ば[LINE]\nされないように作った帽子。それが幸せ。[LINE]\n風属性の攻撃属性を付加する。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "늙은 마법사가 모자가 바람에 날리지 않도록[LINE]\n만든 모자입니다. 그것이 행복입니다.[LINE]\n바람 속성 공격을 부여합니다.[END]"
+        },
+        {
+            "offset": 1796000,
+            "string": "[Sign_1]ハッピーハット[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]해피 햇[END]"
+        },
+        {
+            "offset": 1796024,
+            "string": "世界を旅する冒険家が被っていたと[LINE]\n言われている帽子。放浪癖がつきます。[LINE]\n地属性の攻撃属性を付加する。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "세계 여행을 하는 모험가가 착용했다고[LINE]\n전해지는 모자입니다. 방랑癖이 생깁니다.[LINE]\n지속성 공격을 부여합니다.[END]"
+        },
+        {
+            "offset": 1796128,
+            "string": "[Sign_1]エグザイルハット[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]엑자일 햇[END]"
+        },
+        {
+            "offset": 1796152,
+            "string": "強者のみが被ることを許される。[LINE]\n被れば称賛を浴びること間違いなし。[LINE]\n火属性の攻撃属性を付加する。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "강자만이 착용할 수 있습니다.[LINE]\n착용하면 칭찬을 받을 것이 틀림없습니다.[LINE]\n화속성 공격을 부여합니다.[END]"
+        },
+        {
+            "offset": 1796248,
+            "string": "[Sign_1]アクレイムハット[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]어클레임 햇[END]"
+        },
+        {
+            "offset": 1796272,
+            "string": "大きな羽を飾りにつけた帽子。[LINE]\n洒落た帽子でワンランク上の男を[LINE]\n目指す。それがジョニー流。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "큰 날개를 장식으로 단 모자입니다.[LINE]\n세련된 모자로 한 단계 높은 남자를[LINE]\n목표로 합니다. 그게 죠니 스타일입니다.[END]"
+        },
+        {
+            "offset": 1796360,
+            "string": "[Sign_1]フェザーハット[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]페더 햇[END]"
+        },
+        {
+            "offset": 1796384,
+            "string": "子供だけが身に付けられるリボン。[LINE]\n愛と夢と希望がいっぱい。[LINE]\n高ぶる気持ちでいっぱい動ける。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "아이들만 착용할 수 있는 리본입니다.[LINE]\n사랑과 꿈, 희망이 가득합니다.[LINE]\n부풀어 오르는 마음으로 가득 움직일 수 있습니다.[END]"
+        },
+        {
+            "offset": 1796480,
+            "string": "[Sign_1]ウィアードリボン[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]위어드 리본[END]"
+        },
+        {
+            "offset": 1796504,
+            "string": "神秘的な黒いリボン。[LINE]\n大人の女性も越えたいあなたへ。[LINE]\n闇属性耐性を付加する。[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "신비로운 검은색 리본입니다.[LINE]\n어른 여성도 넘고 싶은 당신에게.[LINE]\n암속성 저항을 부여합니다.[END]"
+        },
+        {
+            "offset": 1796584,
+            "string": "[Sign_1]ブラックリボン[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]블랙 리본[END]"
+        },
+        {
+            "offset": 1796608,
+            "string": "天使のような羽つきリボン。[LINE]\nワンランク上の女の子になれる！[LINE]\n光属性耐性を付加する。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "천사 같은 날개가 달린 리본입니다.[LINE]\n한 단계 높은 여자아이가 될 수 있습니다![LINE]\n광속성 저항을 부여합니다.[END]"
+        },
+        {
+            "offset": 1796696,
+            "string": "[Sign_1]ホワイトリボン[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]화이트 리본[END]"
+        },
+        {
+            "offset": 1796720,
+            "string": "南国ちっくな緑のリボン。[LINE]\n人とは違った物をつけたい女の子向け。[LINE]\n風属性耐性を付加する。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "남국풍의 초록색 리본입니다.[LINE]\n남들과 다른 것을 착용하고 싶은 여자아이를 위한 것입니다.[LINE]\n풍속성 저항을 부여합니다.[END]"
+        },
+        {
+            "offset": 1796808,
+            "string": "[Sign_1]グリーンリボン[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]그린 리본[END]"
+        },
+        {
+            "offset": 1796832,
+            "string": "サテン生地のオレンジリボン。[LINE]\nお姉さんに憧れる女の子へ。[LINE]\n地属性耐性を付加する。[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "새틴 소재의 오렌지 리본입니다.[LINE]\n언니를 동경하는 여자아이를 위한 것입니다.[LINE]\n지속성 저항을 부여합니다.[END]"
+        },
+        {
+            "offset": 1796912,
+            "string": "[Sign_1]オレンジリボン[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]오렌지 리본[END]"
+        },
+        {
+            "offset": 1796936,
+            "string": "水色のプリーツ状リボン。[LINE]\nちょっとおしゃまな女の子向け。[LINE]\n水属性耐性を付加する。[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "수색의 주름진 리본입니다.[LINE]\n조금 발랄한 여자아이를 위한 것입니다.[LINE]\n수속성 저항을 부여합니다.[END]"
+        },
+        {
+            "offset": 1797016,
+            "string": "[Sign_1]ブルーリボン[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]블루 리본[END]"
+        },
+        {
+            "offset": 1797040,
+            "string": "真っ赤なシンプルなリボン。[LINE]\n女の子の必需品。[LINE]\n火属性耐性を付加する。[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "선명한 빨간색의 심플한 리본입니다.[LINE]\n여자아이의 필수품입니다.[LINE]\n화속성 저항을 부여합니다.[END]"
+        },
+        {
+            "offset": 1797112,
+            "string": "[Sign_1]レッドリボン[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]레드 리본[END]"
+        },
+        {
+            "offset": 1797136,
+            "string": "『革命』と描かれたバンダナ。[LINE]\nどんな事でも揺るがない！[LINE]\n全ての状態異常を防止する。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "‘혁명’이라고 쓰인 반다나입니다.[LINE]\n어떤 일이든 흔들리지 않습니다![LINE]\n모든 상태 이상을 방지합니다.[END]"
+        },
+        {
+            "offset": 1797224,
+            "string": "[Sign_1]革命バンダナ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]혁명 반다나[END]"
+        },
+        {
+            "offset": 1797248,
+            "string": "『豪傑』と描かれたバンダナ。[LINE]\n攻撃力が大幅に上昇する。[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55,
+            "translation": "‘호걸’이라고 쓰인 반다나입니다.[LINE]\n공격력이 대폭 상승합니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1797304,
+            "string": "[Sign_1]豪傑バンダナ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]호걸 반다나[END]"
+        },
+        {
+            "offset": 1797328,
+            "string": "『滅殺』と描かれたバンダナ。[LINE]\n封印を防止し、命中率を上昇させる。[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "‘멸살’이라고 쓰인 반다나입니다.[LINE]\n봉인을 방지하고, 명중률을 상승시킵니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1797400,
+            "string": "[Sign_1]滅殺バンダナ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]멸살 반다나[END]"
+        },
+        {
+            "offset": 1797424,
+            "string": "『疾風』と描かれたバンダナ。[LINE]\n衰弱を防止し、回避率を上昇させる。[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "‘질풍’이라고 쓰인 반다나입니다.[LINE]\n쇠약을 방지하고, 회피율을 상승시킵니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1797496,
+            "string": "[Sign_1]疾風バンダナ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]질풍 반다나[END]"
+        },
+        {
+            "offset": 1797520,
+            "string": "『覚醒』と描かれたバンダナ。[LINE]\n睡眠を防止し、集中力を上昇させる。[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "‘각성’이라고 쓰인 반다나입니다.[LINE]\n수면을 방지하고, 집중력을 상승시킵니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1797592,
+            "string": "[Sign_1]覚醒バンダナ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]각성 반다나[END]"
+        },
+        {
+            "offset": 1797616,
+            "string": "『天空』と描かれたバンダナ。[LINE]\n麻痺を防止し、体力を上昇させる。[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "‘천공’이라고 쓰인 반다나입니다.[LINE]\n마비를 방지하고, 체력을 상승시킵니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1797680,
+            "string": "[Sign_1]天空バンダナ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]천공 반다나[END]"
+        },
+        {
+            "offset": 1797704,
+            "string": "『堅牢』と描かれたバンダナ。[LINE]\n石化を防止し、防御力を上昇させる。[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "‘견고’라고 쓰인 반다나입니다.[LINE]\n석화를 방지하고, 방어력을 상승시킵니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1797776,
+            "string": "[Sign_1]堅牢バンダナ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]견고 반다나[END]"
+        },
+        {
+            "offset": 1797800,
+            "string": "『激烈』と描かれたバンダナ。[LINE]\n熱毒を防止し、攻撃力を上昇させる。[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "‘격렬’이라고 쓰인 반다나입니다.[LINE]\n열독을 방지하고, 공격력을 상승시킵니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1797872,
+            "string": "[Sign_1]激烈バンダナ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]격렬 반다나[END]"
+        },
+        {
+            "offset": 1797896,
+            "string": "『必勝』と描かれたバンダナ。[LINE]\n気が引き締まり、攻撃力アップ！[LINE]\n[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "‘필승’이라고 쓰인 반다나입니다.[LINE]\n기분이 단단해지고, 공격력이 상승합니다![LINE]\n[END]"
+        },
+        {
+            "offset": 1797960,
+            "string": "[Sign_1]必勝バンダナ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]필승 반다나[END]"
+        },
+        {
+            "offset": 1797984,
+            "string": "非常に高価なきのこの王様。[LINE]\n傘が開ききると[LINE]\n香りも味も落ちてしまう。[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "매우 비싼 버섯의 왕입니다.[LINE]\n갓이 완전히 펴지면[LINE]\n향과 맛이 떨어져 버립니다.[END]"
+        },
+        {
+            "offset": 1798056,
+            "string": "[Sign_1]まつたけ[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_1]송이버섯[END]"
+        },
+        {
+            "offset": 1798072,
+            "string": "世界中でもっとも洗練された武器。[LINE]\n刃は両刃で波形にうねっている。[LINE]\n身を守り、邪悪を退ける力を持つ。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "전 세계에서 가장 세련된 무기입니다.[LINE]\n칼날은 양날이며 물결 모양으로 구부러져 있습니다.[LINE]\n몸을 보호하고, 악을 물리칠 힘을 가지고 있습니다.[END]"
+        },
+        {
+            "offset": 1798176,
+            "string": "[Sign_1]クリスダガー[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]크리스 다거[END]"
+        },
+        {
+            "offset": 1798200,
+            "string": "刺すことに力点を置いた短剣。[LINE]\n決闘で使われる殺傷能力の高い武器。[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "찌르는 데 중점을 둔 단검입니다.[LINE]\n결투에서 사용되는 살상 능력이 높은 무기입니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1798272,
+            "string": "[Sign_1]ポニャードダガー[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]포니야드 다거[END]"
+        },
+        {
+            "offset": 1798296,
+            "string": "二刀流剣士の必需品、左手用短剣。[LINE]\n硬い刀身を持ち、[LINE]\n相手の剣を受け止めることも可能。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "두 개의 검을 사용하는 검사의 필수품, 왼손용 단검입니다.[LINE]\n단단한 칼날을 가지고 있으며,[LINE]\n상대의 검을 막는 것도 가능합니다.[END]"
+        },
+        {
+            "offset": 1798384,
+            "string": "[Sign_1]パリーイングダガー[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]파링 다거[END]"
+        },
+        {
+            "offset": 1798408,
+            "string": "柄頭が耳のような形状をした短剣。[LINE]\n握りやすく、優れた貫通力を持つ。[LINE]\n[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "손잡이 끝이 귀처럼 생긴 단검입니다.[LINE]\n잡기 쉬우며, 뛰어난 관통력을 가지고 있습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1798480,
+            "string": "[Sign_1]イヤードダガー[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]이어드 다거[END]"
+        },
+        {
+            "offset": 1798504,
+            "string": "騎士達が持つ切っ先の尖った短剣。[LINE]\n相手を傷つけることよりも[LINE]\n儀礼的なことで使われる事が多い。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "기사들이 사용하는 끝이 뾰족한 단검입니다.[LINE]\n상대를 다치게 하기보다는[LINE]\n의례적인 용도로 사용되는 경우가 많습니다.[END]"
+        },
+        {
+            "offset": 1798600,
+            "string": "[Sign_1]キドニーダガー[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]키드니 다거[END]"
+        },
+        {
+            "offset": 1798624,
+            "string": "柄頭の形状がリングになっている[LINE]\n短剣。輪に紐を通して[LINE]\n投げて使うことも可能。[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "손잡이 끝의 형태가 링으로 되어 있는[LINE]\n단검입니다. 링에 끈을 통과시켜[LINE]\n던져서 사용할 수도 있습니다.[END]"
+        },
+        {
+            "offset": 1798704,
+            "string": "[Sign_1]リングダガー[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]링 다거[END]"
+        },
+        {
+            "offset": 1798728,
+            "string": "古くから薬用植物として重宝され、[LINE]\n体を温めたり、[LINE]\n疲労回復などの効果がある。[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "오래전부터 약용 식물로 귀하게 여겨져,[LINE]\n몸을 따뜻하게 하거나,[LINE]\n피로 회복 등의 효과가 있습니다.[END]"
+        },
+        {
+            "offset": 1798808,
+            "string": "[Sign_1]ねぎ[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Sign_1]파[END]"
+        },
+        {
+            "offset": 1798824,
+            "string": "伝説に登場する幻想の力を秘めた[LINE]\n長弓。口伝を書物にまとめた[LINE]\n兄弟の名を冠する。[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "전설에 등장하는 환상의 힘을 지닌[LINE]\n장궁입니다. 구술로 전해진 내용을 책으로 정리한[LINE]\n형제의 이름을 따릅니다.[END]"
+        },
+        {
+            "offset": 1798904,
+            "string": "[Sign_1]グリムボウ[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_1]그림 보우[END]"
+        },
+        {
+            "offset": 1798920,
+            "string": "その名の通り戦闘に特化した長弓。[LINE]\n強度もあり、その一撃は敵の装甲を[LINE]\n貫くほど。[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "그 이름 그대로 전투에 특화된 장궁입니다.[LINE]\n강도가 있으며, 그 일격은 적의 갑옷을[LINE]\n관통할 정도입니다.[END]"
+        },
+        {
+            "offset": 1799000,
+            "string": "[Sign_1]バトルボウ[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_1]배틀 보우[END]"
+        },
+        {
+            "offset": 1799016,
+            "string": "一撃必中。[LINE]\n暗殺に特化された長弓。[LINE]\n音もなく放たれる死の一撃。[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "한 방에 적중합니다.[LINE]\n암살에 특화된 장궁입니다.[LINE]\n소리 없이 발사되는 죽음의 일격입니다.[END]"
+        },
+        {
+            "offset": 1799080,
+            "string": "[Sign_1]キラーボウ[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_1]킬러 보우[END]"
+        },
+        {
+            "offset": 1799096,
+            "string": "草原を駆ける獣よりも速く。[LINE]\n天高く飛ぶ鳥よりも遠くへ。[LINE]\n最高の腕を持つ狩人のための長弓。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "초원을 달리는 짐승보다 빠릅니다.[LINE]\n하늘 높이 나는 새보다 더 멀리.[LINE]\n최고의 실력을 가진 사냥꾼을 위한 장궁입니다.[END]"
+        },
+        {
+            "offset": 1799184,
+            "string": "[Sign_1]ラピッドボウ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]래피드 보우[END]"
+        },
+        {
+            "offset": 1799208,
+            "string": "錬金術から生まれた特殊金属の長弓。[LINE]\n獲物の存在を感知すると、[LINE]\n熱を持って伝えるという。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "연금술에서 태어난 특수 금속으로 만든 장궁입니다.[LINE]\n먹잇감의 존재를 감지하면,[LINE]\n열을 가지고 전달한다고 합니다.[END]"
+        },
+        {
+            "offset": 1799296,
+            "string": "[Sign_1]カスタムボウ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]커스텀 보우[END]"
+        },
+        {
+            "offset": 1799320,
+            "string": "風よりも速く、駆ける獣をも射る。[LINE]\n自らが狩った獣の体の一部を[LINE]\n使用して作るのが伝統。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "바람보다 빠르고, 달리는 짐승을 쏠 수 있습니다.[LINE]\n스스로 사냥한 짐승의 신체 일부를[LINE]\n사용해 만드는 것이 전통입니다.[END]"
+        },
+        {
+            "offset": 1799408,
+            "string": "[Sign_1]ラップドボウ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]랩드 보우[END]"
+        },
+        {
+            "offset": 1799432,
+            "string": "複数の材料と材質を合わせた長弓。[LINE]\n軸がぶれず適度に柔軟。[LINE]\n弓に慣れてきた狩人用。[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "여러 재료와 소재를 결합한 장궁입니다.[LINE]\n축이 흔들리지 않고 적당히 유연합니다.[LINE]\n활에 익숙해진 사냥꾼을 위한 것입니다.[END]"
+        },
+        {
+            "offset": 1799512,
+            "string": "[Sign_1]コンポジットボウ[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]컴포지트 보우[END]"
+        },
+        {
+            "offset": 1799536,
+            "string": "1本の木材で構成された長弓。[LINE]\n弓の道に進むのなら、[LINE]\nまずは自分の弓作りから。[END]",
+            "original_bytes_length": 74,
+            "available_bytes_size": 79,
+            "translation": "1개의 목재로 구성된 장궁입니다.[LINE]\n활의 길로 나아가려면,[LINE]\n우선 자신의 활을 만드는 것부터 시작하세요.[END]"
+        },
+        {
+            "offset": 1799616,
+            "string": "[Sign_1]セルフボウ[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_1]셀프 보우[END]"
+        },
+        {
+            "offset": 1799632,
+            "string": "光の大神の祝福を受けたネックレス。[LINE]\n大いなる祝福と永久の忠誠を。[LINE]\n光属性晶術の詠唱時間が減少する。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "빛의 대신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 영원의 충성을.[LINE]\n빛 속성 마법의 시전 시간이 감소합니다.[END]"
+        },
+        {
+            "offset": 1799736,
+            "string": "[Sign_1]リチュアルネックレス[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]리추얼 목걸이[END]"
+        },
+        {
+            "offset": 1799768,
+            "string": "海の神の祝福を受けたネックレス。[LINE]\n大いなる祝福と惑わぬ心を。[LINE]\n水属性晶術の詠唱時間が減少する。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "바다의 신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 흔들리지 않는 마음을.[LINE]\n물 속성 마법의 시전 시간이 감소합니다.[END]"
+        },
+        {
+            "offset": 1799864,
+            "string": "[Sign_1]フェアリィネックレス[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]페어리 목걸이[END]"
+        },
+        {
+            "offset": 1799896,
+            "string": "炎の女神の祝福を受けたネックレス。[LINE]\n大いなる祝福と貫く意思を。[LINE]\n火属性晶術の詠唱時間が減少する。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "불의 여신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 관통하는 의지를.[LINE]\n불 속성 마법의 시전 시간이 감소합니다.[END]"
+        },
+        {
+            "offset": 1799992,
+            "string": "[Sign_1]ミューズネックレス[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]뮤즈 목걸이[END]"
+        },
+        {
+            "offset": 1800016,
+            "string": "風の王の祝福を受けたネックレス。[LINE]\n大いなる祝福と歪まぬ心を。[LINE]\n風属性晶術の詠唱時間が減少する。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "바람의 왕의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 왜곡되지 않는 마음을.[LINE]\n바람 속성 마법의 시전 시간이 감소합니다.[END]"
+        },
+        {
+            "offset": 1800112,
+            "string": "[Sign_1]トランキルネックレス[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]트랑킬 목걸이[END]"
+        },
+        {
+            "offset": 1800144,
+            "string": "大地母神の祝福を受けたネックレス。[LINE]\n大いなる祝福と深い慈愛を。[LINE]\n地属性晶術の詠唱時間が減少する。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "대지 모신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 깊은 자애를.[LINE]\n지속성 속성 마법의 시전 시간이 감소합니다.[END]"
+        },
+        {
+            "offset": 1800240,
+            "string": "[Sign_1]メンタルネックレス[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]멘탈 목걸이[END]"
+        },
+        {
+            "offset": 1800264,
+            "string": "光の精霊の加護を受けたネックレス。[LINE]\n心に秘めた力を増加させる。[LINE]\n光属性晶術のダメージがアップする。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "빛의 정령의 가호를 받은 목걸이입니다.[LINE]\n마음에 숨겨진 힘을 증가시킵니다.[LINE]\n빛 속성 마법의 피해량이 증가합니다.[END]"
+        },
+        {
+            "offset": 1800368,
+            "string": "[Sign_1]マインドネックレス[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]마인드 목걸이[END]"
+        },
+        {
+            "offset": 1800392,
+            "string": "水の精霊の加護を受けたネックレス。[LINE]\n精神力をより鋭く研ぎ澄まされる。[LINE]\n水属性晶術のダメージがアップする。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "물의 정령의 가호를 받은 목걸이입니다.[LINE]\n정신력이 더욱 날카롭게 다듬어집니다.[LINE]\n물 속성 마법의 피해량이 증가합니다.[END]"
+        },
+        {
+            "offset": 1800496,
+            "string": "[Sign_1]マジカルネックレス[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]매지컬 목걸이[END]"
+        },
+        {
+            "offset": 1800520,
+            "string": "火の精霊の加護を受けたネックレス。[LINE]\n神秘なる者の声を聞く力を与える。[LINE]\n火属性晶術のダメージがアップする。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "불의 정령의 가호를 받은 목걸이입니다.[LINE]\n신비한 존재의 목소리를 듣는 힘을 줍니다.[LINE]\n불 속성 마법의 피해량이 증가합니다.[END]"
+        },
+        {
+            "offset": 1800624,
+            "string": "[Sign_1]アーケインネックレス[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]아케인 목걸이[END]"
+        },
+        {
+            "offset": 1800656,
+            "string": "風の精霊の加護を受けたネックレス。[LINE]\n理想を現実へと導く行動力を与える。[LINE]\n風属性晶術のダメージがアップする。[END]",
+            "original_bytes_length": 105,
+            "available_bytes_size": 111,
+            "translation": "바람의 정령의 가호를 받은 목걸이입니다.[LINE]\n이상을 현실로 이끄는 행동력을 줍니다.[LINE]\n바람 속성 마법의 피해량이 증가합니다.[END]"
+        },
+        {
+            "offset": 1800768,
+            "string": "[Sign_1]アバタールネックレス[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]아바타 목걸이[END]"
+        },
+        {
+            "offset": 1800800,
+            "string": "地の精霊の加護を受けたネックレス。[LINE]\n揺るがぬ冷静な心を与える。[LINE]\n地属性晶術のダメージがアップする。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "대지의 정령의 가호를 받은 목걸이입니다.[LINE]\n흔들리지 않는 차분한 마음을 줍니다.[LINE]\n대지 속성 마법의 피해량이 증가합니다.[END]"
+        },
+        {
+            "offset": 1800904,
+            "string": "[Sign_1]ウィズダムネックレス[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]지혜의 목걸이[END]"
+        },
+        {
+            "offset": 1800936,
+            "string": "ストレイライズ神殿の司祭に[LINE]\n与えられるネックレス。[LINE]\n集中力を高める効果がある。[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "스트레이라이즈 신전의 사제에게[LINE]\n주어지는 목걸이입니다.[LINE]\n집중력을 높이는 효과가 있습니다.[END]"
+        },
+        {
+            "offset": 1801016,
+            "string": "[Sign_1]ストレイネックレス[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]스트레인 목걸이[END]"
+        },
+        {
+            "offset": 1801040,
+            "string": "伝説に登場する幻想の力を秘めた[LINE]\nグローブ。口伝を書物にまとめた[LINE]\n兄弟の名を冠する。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "전설에 등장하는 환상의 힘을 지닌[LINE]\n글러브입니다. 구술로 전해진 내용을[LINE]\n서적으로 정리한 형제의 이름을 따릅니다.[END]"
+        },
+        {
+            "offset": 1801128,
+            "string": "[Sign_1]グリムグローブ[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]그림 글러브[END]"
+        },
+        {
+            "offset": 1801152,
+            "string": "伝承で伝わる伝説の義賊が使って[LINE]\nいたグローブ。気配を絶ち相手の[LINE]\n懐を掠め取る神業を得る。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "전설로 전해지는 의적이 사용하던 글러브입니다.[LINE]\n기척을 없애고 상대의[LINE]\n주머니를 훔치는 신기한 능력을 얻습니다.[END]"
+        },
+        {
+            "offset": 1801240,
+            "string": "[Sign_1]スティールグローブ[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]스틸 글러브[END]"
+        },
+        {
+            "offset": 1801264,
+            "string": "ミスリル細工のグローブ。[LINE]\nドワーフ族の芸術作品といわれる。[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "미스릴 세공의 글러브입니다.[LINE]\n드워프족의 예술 작품이라고 합니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1801328,
+            "string": "[Sign_1]ミスリルグローブ[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]미스릴 글러브[END]"
+        },
+        {
+            "offset": 1801352,
+            "string": "原料や生成が不明なグローブ。[LINE]\n見る角度により色が変化する。[LINE]\nクロークとセットでどうぞ。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "원료와 생성이 불명확한 글러브입니다.[LINE]\n보는 각도에 따라 색이 변합니다.[LINE]\n망토와 세트로 사용하세요.[END]"
+        },
+        {
+            "offset": 1801440,
+            "string": "[Sign_1]ミスティグローブ[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]미스티 글러브[END]"
+        },
+        {
+            "offset": 1801464,
+            "string": "慈愛のルーンが刺繍されたグローブ。[LINE]\n触れる者全てを癒す力を、[LINE]\n身に付けた者に与える。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "자애의 룬이 자수로 새겨진 글러브입니다.[LINE]\n접촉하는 모든 이들을 치유하는 힘을,[LINE]\n착용한 이에게 부여합니다.[END]"
+        },
+        {
+            "offset": 1801552,
+            "string": "[Sign_1]ルーングローブ[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]룬 글러브[END]"
+        },
+        {
+            "offset": 1801576,
+            "string": "星を意匠して作られたグローブ。[LINE]\n指先はまるで流星のよう。[LINE]\nクロークとセットでどうぞ。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "별을 디자인하여 만들어진 글러브입니다.[LINE]\n손끝은 마치 유성처럼.[LINE]\n망토와 세트로 사용하세요.[END]"
+        },
+        {
+            "offset": 1801664,
+            "string": "[Sign_1]スターグローブ[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]스타 글러브[END]"
+        },
+        {
+            "offset": 1801688,
+            "string": "月夜を意匠して作られたグローブ。[LINE]\n聖なる月の力が宿っている。[LINE]\nクロークとセットでどうぞ。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "달밤을 디자인하여 만들어진 글러브입니다.[LINE]\n신성한 달의 힘이 깃들어 있습니다.[LINE]\n망토와 세트로 사용하세요.[END]"
+        },
+        {
+            "offset": 1801776,
+            "string": "[Sign_1]ムーングローブ[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]문 글러브[END]"
+        },
+        {
+            "offset": 1801800,
+            "string": "シルクで作られた美しいグローブ。[LINE]\n滑らかな手触りに上品な刺繍。[LINE]\n身に付けるだけであなたも淑女に。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "실크로 만들어진 아름다운 글러브입니다.[LINE]\n부드러운 촉감과 우아한 자수.[LINE]\n착용하는 것만으로도 당신도 숙녀가 됩니다.[END]"
+        },
+        {
+            "offset": 1801896,
+            "string": "[Sign_1]ホワイトグローブ[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]화이트 글러브[END]"
+        },
+        {
+            "offset": 1801920,
+            "string": "まふまふの毛で作られたファーが[LINE]\nついてる可愛い手袋。[LINE]\n寒くてもお洒落したいあなたへ。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "마후마후의 털로 만들어진 퍼가[LINE]\n붙어 있는 귀여운 장갑입니다.[LINE]\n추워도 멋내고 싶은 당신에게.[END]"
+        },
+        {
+            "offset": 1802008,
+            "string": "[Sign_1]プリティグローブ[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]프리티 글러브[END]"
+        },
+        {
+            "offset": 1802032,
+            "string": "革で繋ぎ合わせたグローブ。[LINE]\n少し固いが丈夫で安全。[LINE]\n女性の旅のお供に。[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71,
+            "translation": "가죽으로 연결한 글러브입니다.[LINE]\n조금 딱딱하지만 튼튼하고 안전합니다.[LINE]\n여성의 여행 동반자로.[END]"
+        },
+        {
+            "offset": 1802104,
+            "string": "[Sign_1]レザーグローブ[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]레더 글러브[END]"
+        },
+        {
+            "offset": 1802128,
+            "string": "伝説に登場する幻想の力を秘めた[LINE]\nガントレット。口伝を書物に[LINE]\nまとめた兄弟の名を冠する。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "전설에 등장하는 환상의 힘을秘めた[LINE]\n건틀렛입니다. 구술을 문서로[LINE]\n정리한 형제의 이름을 따릅니다.[END]"
+        },
+        {
+            "offset": 1802216,
+            "string": "[Sign_1]グリムガントレット[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]그림 건틀렛[END]"
+        },
+        {
+            "offset": 1802240,
+            "string": "戦闘用に特化したガントレット。[LINE]\n機能性が良いだけではなく、[LINE]\n装備者の力を限界まで引き上げる。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "전투용으로 특화된 건틀렛입니다.[LINE]\n기능성이 좋을 뿐만 아니라,[LINE]\n장비자의 힘을 한계까지 끌어올립니다.[END]"
+        },
+        {
+            "offset": 1802336,
+            "string": "[Sign_1]バトルガントレット[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]배틀 건틀렛[END]"
+        },
+        {
+            "offset": 1802360,
+            "string": "[Sign_1]レアガントレット[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_1]레어 건틀렛[END]"
+        },
+        {
+            "offset": 1802384,
+            "string": "獅子の牙と火鼠の皮で加工した[LINE]\nガントレット。[LINE]\n百獣の王の力が込められている。[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "사자의 이빨과 불쥐의 가죽으로 가공한[LINE]\n건틀렛입니다.[LINE]\n백수의 왕의 힘이 담겨 있습니다.[END]"
+        },
+        {
+            "offset": 1802464,
+            "string": "[Sign_1]ハイパーガントレット[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]하이퍼 건틀렛[END]"
+        },
+        {
+            "offset": 1802496,
+            "string": "ミスリル細工のガントレット。[LINE]\nドワーフ族の芸術作品といわれる。[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "미스릴 세공의 건틀렛입니다.[LINE]\n드워프족의 예술 작품이라고 불립니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1802560,
+            "string": "[Sign_1]ミスリルガントレット[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]미스릴 건틀렛[END]"
+        },
+        {
+            "offset": 1802592,
+            "string": "金細工で装飾したガントレット。[LINE]\n別名「豪華なガントレット」。[LINE]\n[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "금세공으로 장식한 건틀렛입니다.[LINE]\n별명은 '호화로운 건틀렛'입니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1802656,
+            "string": "[Sign_1]ゴールドガントレット[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]골드 건틀렛[END]"
+        },
+        {
+            "offset": 1802688,
+            "string": "銀細工で装飾されたガントレット。[LINE]\n白い輝きが美しい。[LINE]\n[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55,
+            "translation": "은세공으로 장식된 건틀렛입니다.[LINE]\n흰 빛이 아름답습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1802744,
+            "string": "[Sign_1]シルバーガントレット[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]실버 건틀렛[END]"
+        },
+        {
+            "offset": 1802776,
+            "string": "チタン合金で強化したガントレット。[LINE]\n非常に軽く、並外れた耐食性を持つ。[LINE]\n[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "타이타늄 합금으로 강화된 건틀렛입니다.[LINE]\n매우 가볍고 뛰어난 내식성을 가지고 있습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1802848,
+            "string": "[Sign_1]チタンガントレット[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]타이타늄 건틀렛[END]"
+        },
+        {
+            "offset": 1802872,
+            "string": "鋼板で作られたガントレット。[LINE]\n騎士見習たちの愛用品。[LINE]\n[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55,
+            "translation": "강판으로 만들어진 건틀렛입니다.[LINE]\n기사 견습생들의 애용품입니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1802928,
+            "string": "[Sign_1]スチールガントレット[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]스틸 건틀렛[END]"
+        },
+        {
+            "offset": 1802960,
+            "string": "鉄板で作られたガントレット。[LINE]\n重いが堅くて丈夫。[LINE]\nもっとも身近な金属。[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71,
+            "translation": "철판으로 만들어진 건틀렛입니다.[LINE]\n무겁지만 단단하고 튼튼합니다.[LINE]\n가장 가까운 금속입니다.[END]"
+        },
+        {
+            "offset": 1803032,
+            "string": "[Sign_1]アイアンガントレット[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]아이언 건틀렛[END]"
+        },
+        {
+            "offset": 1803064,
+            "string": "薄い銅板で作られたガントレット。[LINE]\n天地戦争時代から使われていた、[LINE]\n伝統ある篭手。[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "얇은 구리판으로 만들어진 건틀렛입니다.[LINE]\n천지전쟁 시대부터 사용되었던,[LINE]\n전통 있는 장갑입니다.[END]"
+        },
+        {
+            "offset": 1803144,
+            "string": "[Sign_1]ブロンズガントレット[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_1]브론즈 건틀렛[END]"
+        },
+        {
+            "offset": 1803176,
+            "string": "革で繋ぎ合わせたガントレット。[LINE]\n軽くてそこそこ丈夫。[LINE]\n見習剣士の必需品。[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "가죽으로 연결된 건틀렛입니다.[LINE]\n가볍고 어느 정도 튼튼합니다.[LINE]\n견습 검사의 필수품입니다.[END]"
+        },
+        {
+            "offset": 1803248,
+            "string": "[Sign_1]レザーガントレット[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]레더 건틀렛[END]"
         }
     ]
 }
