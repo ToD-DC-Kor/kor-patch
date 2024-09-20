@@ -688,8 +688,8 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-빨리 광장에 가요.
-아이스캔디 사야 해요.
+빨리 광장에 가자.
+아이스캔디 사야 해.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
