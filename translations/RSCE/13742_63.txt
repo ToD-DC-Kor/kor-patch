@@ -963,7 +963,7 @@ select
 남자
 [ENDBLOCK]
 칠장군 중에도
-실력이 아닌 녀석이 있다고.
+실력이 없는 녀석이 있다고.
 [ENDBLOCK]
 남자
 [ENDBLOCK]
