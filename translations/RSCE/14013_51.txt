@@ -734,7 +734,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 부인
 [ENDBLOCK]
-<Ilene>은 도망갔잖아!
+<Ilene>는 도망갔잖아!
 말뿐인 이상주의자일 뿐이야.
 [ENDBLOCK]
 거리 사람
