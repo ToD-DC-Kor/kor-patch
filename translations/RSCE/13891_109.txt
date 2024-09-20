@@ -178,7 +178,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-실은…… 신의 눈이 빼앗겼어요.
+실은…… 신의 눈을 빼앗겼어요.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -264,8 +264,8 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-목소리가 들렸다고…… 설마
-그게 클레멘테의……?
+목소리가 들렸다고……
+설마, 클레멘테의……?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
