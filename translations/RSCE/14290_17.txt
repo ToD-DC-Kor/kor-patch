@@ -1,8 +1,8 @@
 <Mary>
 [ENDBLOCK]
-어딘가 나<x99>
+어딘가 나간 것 같군……
 [ENDBLOCK]
-<xB2>간 것 같군……
+<IGNORE>
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]

@@ -1,199 +1,199 @@
-×××××× 공<x9E>
+××××××空<x9E>
 [ENDBLOCK]
-V시×××××××
+V始××××××
 
 [ENDBLOCK]
-단계 없음: D1R_EPI001START 	～	D1R_032_030_000
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
 
 [ENDBLOCK]
-제1단계: D1R_032_040_000	～	D1R_034_020_000
+第一段階：D1R_032_040_000	～	D1R_034_020_000
 
 [ENDBLOCK]
-제2단계: D1R_034_030_000	～	D1R_038_080_000
+第二段階：D1R_034_030_000	～	D1R_038_080_000
 
 [ENDBLOCK]
-제3단계: D1R_038_090_000	～	D1R_040_040_000
+第三段階：D1R_038_090_000	～	D1R_040_040_000
 
 [ENDBLOCK]
-최종 단계: D1R_EPI040_END	～	D1R_EPI052_END
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
 
 [ENDBLOCK]
-전체 시계열: D1R_EPI001START	～	D1R_EPI052_END
+全時系列：D1R_EPI001START	～	D1R_EPI052_END
 
 [ENDBLOCK]
-시간은 낮입니다.
+時間は昼です。
 
 [ENDBLOCK]
-설원: no_bg_sora_snow
+雪原：no_bg_sora_snow
 
 [ENDBLOCK]
-하늘 생성 실패 (반환값: <TAG_062>)
+空の作成失敗（戻り値：<TAG_062>）
 
 [ENDBLOCK]
-×××××× 하늘 종료 ×××××××
+××××××空終了××××××
 
 [ENDBLOCK]
-★★★★★★ 외각 시작 ★★★★★★
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
 
 [ENDBLOCK]
-단계 없음: D1R_EPI001START 	～	D1R_032_030_000
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
 
 [ENDBLOCK]
-제1단계: D1R_032_040_000	～	D1R_034_020_000
+第一段階：D1R_032_040_000	～	D1R_034_020_000
 
 [ENDBLOCK]
-제2단계: D1R_034_030_000	～	D1R_038_080_000
+第二段階：D1R_034_030_000	～	D1R_038_080_000
 
 [ENDBLOCK]
-제3단계: D1R_038_090_000	～	D1R_040_040_000
+第三段階：D1R_038_090_000	～	D1R_040_040_000
 
 [ENDBLOCK]
-최종 단계: D1R_EPI040_END	～	D1R_EPI052_END
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
 
 [ENDBLOCK]
-전체 단계: D1R_032_040_000	～	D1R_EPI052_END
+全段階：D1R_032_040_000	～	D1R_EPI052_END
 
 [ENDBLOCK]
-시간은 낮입니다. <TAG_062>>=<TAG_059>>=<TAG_061>
+時間は昼です。<TAG_062>>=<TAG_059>>=<TAG_061>
 
 [ENDBLOCK]
-설원 제1: no_bg_gaikaku1_snow <TAG_064>
+雪原第一：no_bg_gaikaku1_snow <TAG_064>
 
 [ENDBLOCK]
-설원 제2: no_bg_gaikaku1_snow <TAG_064>
+雪原第二：no_bg_gaikaku1_snow <TAG_064>
 
 [ENDBLOCK]
 = <TAG_060>
 
 [ENDBLOCK]
-외각 생성 실패 (반환값: <TAG_063>)
+外殻の作成失敗（戻り値：<TAG_063>）
 
 [ENDBLOCK]
-★★★★★★ 외각 종료 ★★★★★★
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
 
 [ENDBLOCK]
-●●●●●● 구름 시작 ●●●●●●
+●●●●●●雲開始●●●●●●
 
 [ENDBLOCK]
-단계 없음: D1R_EPI001START 	～	D1R_032_030_000
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
 
 [ENDBLOCK]
-제1단계: D1R_032_040_000	～	D1R_034_020_000
+第一段階：D1R_032_040_000	～	D1R_034_020_000
 
 [ENDBLOCK]
-제2단계: D1R_034_030_000	～	D1R_038_080_000
+第二段階：D1R_034_030_000	～	D1R_038_080_000
 
 [ENDBLOCK]
-제3단계: D1R_038_090_000	～	D1R_040_040_000
+第三段階：D1R_038_090_000	～	D1R_040_040_000
 
 [ENDBLOCK]
-최종 단계: D1R_EPI040_END	～	D1R_EPI052_END
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
 
 [ENDBLOCK]
-전체 시계열: D1R_EPI001START	～	D1R_EPI052_END
+全時系列：D1R_EPI001START	～	D1R_EPI052_END
 
 [ENDBLOCK]
-시간은 낮입니다.
+時間は昼です。
 
 [ENDBLOCK]
-설원: no_bg_kumo03
+雪原：no_bg_kumo03
 
 [ENDBLOCK]
-구름 생성 실패 (반환값: <TAG_063>)
+雲の作成失敗（戻り値：<TAG_063>）
 
 [ENDBLOCK]
-●●●●●● 구름 종료 ●●●●●●
+●●●●●●雲終了●●●●●●
 
 [ENDBLOCK]
-오브젝트 조작 모드 시작
+オブジェクト操作モード開始
 Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 
 [ENDBLOCK]
-오브젝트 조작 시작
+オブジェクト操作開始
 
 [ENDBLOCK]
-인수로 주어진 파라미터→<TAG_047>, <TAG_048>, <TAG_049>
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
-인수로 주어진 파라미터→<TAG_047>, <TAG_048>, <TAG_049>
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
-인수로 주어진 파라미터→<TAG_047>, <TAG_048>, <TAG_049>
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
-오브젝트 조작 모드 종료
+オブジェクト操作モード終了
 [ENDBLOCK]
-오브젝트 조작 종료
+オブジェクト操作終了
 
 [ENDBLOCK]
-오브젝트 재선택
+オブジェクト再選択
 
 [ENDBLOCK]
-스테이터스 선택
+ステータス選択
 
 [ENDBLOCK]
-안개 스테이터스
+フォグステータス
 [ENDBLOCK]
-<TAG_007>안개 시작 거리: <D_FOG_START>
-안개 종료 거리: <D_FOG_END>
-시작점의 안개 비율: <D_FOG_RATE_START>
-종료점의 안개 비율: <D_FOG_RATE_END>
-안개 색상 빨강: <D_FOG_COLOR_R>
-안개 색상 초록: <D_FOG_COLOR_G>
-안개 색상 파랑: <D_FOG_COLOR_B>
+<TAG_007>フォグ始点距離：<D_FOG_START>
+フォグ終点距離：<D_FOG_END>
+始点のフォグ率：<D_FOG_RATE_START>
+終点のフォグ率：<D_FOG_RATE_END>
+フォグカラー赤：<D_FOG_COLOR_R>
+フォグカラー緑：<D_FOG_COLOR_G>
+フォグカラー青：<D_FOG_COLOR_B>
 
 [ENDBLOCK]
-<TAG_069>의 스테이터스
+<TAG_069>のステータス
 [ENDBLOCK]
-좌표(x) = <D_COORD_X>
-좌표(y) = <D_COORD_Y>
-좌표(z) = <D_COORD_Z>
-색상(빨강) = <D_COLOR_R>
-색상(초록) = <D_COLOR_G>
-색상(파랑) = <D_COLOR_B>
-색상(α) = <D_COLOR_A>
-확대율(x) = <D_ZOOM_X>
-확대율(y) = <D_ZOOM_Y>
-확대율(z) = <D_ZOOM_Z>
-확대율(a) = <D_ZOOM_A>
-각도(x) = <D_ANGLE_X>
-각도(y) = <D_ANGLE_Y>
-각도(z) = <D_ANGLE_Z>
+座標(x) = <D_COORD_X>
+座標(y) = <D_COORD_Y>
+座標(z) = <D_COORD_Z>
+色値(赤) = <D_COLOR_R>
+色値(緑) = <D_COLOR_G>
+色値(青) = <D_COLOR_B>
+色値(α) = <D_COLOR_A>
+拡大率(x) = <D_ZOOM_X>
+拡大率(y) = <D_ZOOM_Y>
+拡大率(z) = <D_ZOOM_Z>
+拡大率(a) = <D_ZOOM_A>
+角度(x) = <D_ANGLE_X>
+角度(y) = <D_ANGLE_Y>
+角度(z) = <D_ANGLE_Z>
 
 [ENDBLOCK]
-좌표(x) = <D_COORD_X>
-좌표(y) = <D_COORD_Y>
-좌표(z) = <D_COORD_Z>
-색상(빨강) = <D_COLOR_R>
-색상(초록) = <D_COLOR_G>
-색상(파랑) = <D_COLOR_B>
-색상(α) = <D_COLOR_A>
-확대율(x) = <D_ZOOM_X>
-확대율(y) = <D_ZOOM_Y>
-확대율(z) = <D_ZOOM_Z>
-확대율(a) = <D_ZOOM_A>
-각도(x) = <D_ANGLE_X>
-각도(y) = <D_ANGLE_Y>
-각도(z) = <D_ANGLE_Z>
+座標(x) = <D_COORD_X>
+座標(y) = <D_COORD_Y>
+座標(z) = <D_COORD_Z>
+色値(赤) = <D_COLOR_R>
+色値(緑) = <D_COLOR_G>
+色値(青) = <D_COLOR_B>
+色値(α) = <D_COLOR_A>
+拡大率(x) = <D_ZOOM_X>
+拡大率(y) = <D_ZOOM_Y>
+拡大率(z) = <D_ZOOM_Z>
+拡大率(a) = <D_ZOOM_A>
+角度(x) = <D_ANGLE_X>
+角度(y) = <D_ANGLE_Y>
+角度(z) = <D_ANGLE_Z>
 
 [ENDBLOCK]
-하늘
+空
 [ENDBLOCK]
-<grey1>하늘(존재하지 않음)</color>
+<grey1>空（存在しません）</color>
 [ENDBLOCK]
-외각
+外殻
 [ENDBLOCK]
-<grey1>외각(존재하지 않음)</color>
+<grey1>外殻（存在しません）</color>
 [ENDBLOCK]
-구름1
+雲１
 [ENDBLOCK]
-<grey1>구름1(존재하지 않음)</color>
+<grey1>雲１（存在しません）</color>
 [ENDBLOCK]
-구름2
+雲２
 [ENDBLOCK]
-<grey1>구름2(존재하지 않음)</color>
+<grey1>雲２（存在しません）</color>
 [ENDBLOCK]
-오브젝트 선택
+オブジェクト選択
 [ENDBLOCK]
 <x18><x66><x1C><x00><x80>（<x17><x66><x10><x1B><x70><x08><xAB><x20><x8B><x80>）
 <TAG_052>（<x17><x66><x10><x1B><x70><x08><xAB><x21><x8B><x80>）
@@ -204,262 +204,262 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <TAG_070>(<TAG_071>, <TAG_072> x <TAG_074> + <TAG_033>)
 
 [ENDBLOCK]
-스테이터스 선택
+ステータス選択
 [ENDBLOCK]
-좌표
-색상
-확대율
-각도
+座標
+色値
+拡大率
+角度
 
 [ENDBLOCK]
 <TAG_073>, <TAG_072>
 
 [ENDBLOCK]
-하늘
+空
 [ENDBLOCK]
-외각
+外殻
 [ENDBLOCK]
-구름1
+雲１
 [ENDBLOCK]
-구름2
+雲２
 [ENDBLOCK]
-잘못된 오브젝트
+不正なオブジェクト
 [ENDBLOCK]
-과거의 좌표(x)→<TAG_078>
+過去の座標(x)→<TAG_078>
 
 [ENDBLOCK]
-현재의 좌표(x)→<TAG_078>
+現在の座標(x)→<TAG_078>
 
 [ENDBLOCK]
-과거의 좌표(x)→<TAG_078>
+過去の座標(x)→<TAG_078>
 
 [ENDBLOCK]
-현재의 좌표(x)→<TAG_078>
+現在の座標(x)→<TAG_078>
 
 [ENDBLOCK]
-과거의 좌표(z)→<TAG_080>
+過去の座標(z)→<TAG_080>
 
 [ENDBLOCK]
-현재의 좌표(z)→<TAG_080>
+現在の座標(z)→<TAG_080>
 
 [ENDBLOCK]
-과거의 좌표(z)→<TAG_080>
+過去の座標(z)→<TAG_080>
 
 [ENDBLOCK]
-현재의 좌표(z)→<TAG_080>
+現在の座標(z)→<TAG_080>
 
 [ENDBLOCK]
-과거의 좌표(y)→<TAG_079>
+過去の座標(y)→<TAG_079>
 
 [ENDBLOCK]
-현재의 좌표(y)→<TAG_079>
+現在の座標(y)→<TAG_079>
 
 [ENDBLOCK]
-과거의 좌표(y)→<TAG_079>
+過去の座標(y)→<TAG_079>
 
 [ENDBLOCK]
-현재의 좌표(y)→<TAG_079>
+現在の座標(y)→<TAG_079>
 
 [ENDBLOCK]
-<TAG_054>의 좌표
+<TAG_054>の座標
 [ENDBLOCK]
-번호（<TAG_033>）, 인물 번호（<TAG_034>）
-좌표(x) = <TAG_078>
-좌표(y) = <TAG_079>
-좌표(z) = <TAG_080>
-가산 = <TAG_051>
+番号（<TAG_033>）、人番号（<TAG_034>）
+座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
+加算 = <TAG_051>
 
 [ENDBLOCK]
-번호（<TAG_033>）: 좌표(x) = <TAG_078>
-좌표(y) = <TAG_079>
-좌표(z) = <TAG_080>
+番号（<TAG_033>）：座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
 
 [ENDBLOCK]
-가산 변경→<TAG_050>
+加算変更→<TAG_050>
 
 [ENDBLOCK]
-가산 변경→<TAG_050>
+加算変更→<TAG_050>
 
 [ENDBLOCK]
-과거의 색상(빨강)→<TAG_036>
+過去の色値(赤)→<TAG_036>
 
 [ENDBLOCK]
-현재의 색상(빨강)→<TAG_036>
+現在の色値(赤)→<TAG_036>
 
 [ENDBLOCK]
-과거의 색상(빨강)→<TAG_036>
+過去の色値(赤)→<TAG_036>
 
 [ENDBLOCK]
-현재의 색상(빨강)→<TAG_036>
+現在の色値(赤)→<TAG_036>
 
 [ENDBLOCK]
-과거의 색상(초록)→<TAG_037>
+過去の色値(緑)→<TAG_037>
 
 [ENDBLOCK]
-현재의 색상(초록)→<TAG_037>
+現在の色値(緑)→<TAG_037>
 
 [ENDBLOCK]
-과거의 색상(초록)→<TAG_037>
+過去の色値(緑)→<TAG_037>
 
 [ENDBLOCK]
-현재의 색상(초록)→<TAG_037>
+現在の色値(緑)→<TAG_037>
 
 [ENDBLOCK]
-과거의 색상(파랑)→<TAG_038>
+過去の色値(青)→<TAG_038>
 
 [ENDBLOCK]
-현재의 색상(파랑)→<TAG_038>
+現在の色値(青)→<TAG_038>
 
 [ENDBLOCK]
-과거의 색상(파랑)→<TAG_038>
+過去の色値(青)→<TAG_038>
 
 [ENDBLOCK]
-현재의 색상(파랑)→<TAG_038>
+現在の色値(青)→<TAG_038>
 
 [ENDBLOCK]
-과거의 색상(α)→<TAG_039>
+過去の色値(α)→<TAG_039>
 
 [ENDBLOCK]
-현재의 색상(α)→<TAG_039>
+現在の色値(α)→<TAG_039>
 
 [ENDBLOCK]
-과거의 색상(α)→<TAG_039>
+過去の色値(α)→<TAG_039>
 
 [ENDBLOCK]
-현재의 색상(α)→<TAG_039>
+現在の色値(α)→<TAG_039>
 
 [ENDBLOCK]
-<TAG_054>의 색상
+<TAG_054>の色値
 [ENDBLOCK]
-※128이 표준 색상입니다
-번호（<TAG_033>）, 인물 번호（<TAG_034>）
-색상(빨강) = <TAG_036>
-색상(초록) = <TAG_037>
-색상(파랑) = <TAG_038>
-색상(α) = <TAG_039>
+※128が標準の色値です
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
 
 [ENDBLOCK]
-번호（<TAG_033>）, 인물 번호（<TAG_034>）
-색상(빨강) = <TAG_036>
-색상(초록) = <TAG_037>
-색상(파랑) = <TAG_038>
-색상(α) = <TAG_039>
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
 
 [ENDBLOCK]
-과거의 확대율(x)→<TAG_040>
+過去の拡大率(x)→<TAG_040>
 
 [ENDBLOCK]
-현재의 확대율(x)→<TAG_040>
+現在の拡大率(x)→<TAG_040>
 
 [ENDBLOCK]
-과거의 확대율(x)→<TAG_040>
+過去の拡大率(x)→<TAG_040>
 
 [ENDBLOCK]
-현재의 확대율(x)→<TAG_040>
+現在の拡大率(x)→<TAG_040>
 
 [ENDBLOCK]
-과거의 확대율(y)→<TAG_041>
+過去の拡大率(y)→<TAG_041>
 
 [ENDBLOCK]
-현재의 확대율(y)→<TAG_041>
+現在の拡大率(y)→<TAG_041>
 
 [ENDBLOCK]
-과거의 확대율(y)→<TAG_041>
+過去の拡大率(y)→<TAG_041>
 
 [ENDBLOCK]
-현재의 확대율(y)→<TAG_041>
+現在の拡大率(y)→<TAG_041>
 
 [ENDBLOCK]
-과거의 확대율(z)→<TAG_042>
+過去の拡大率(z)→<TAG_042>
 
 [ENDBLOCK]
-현재의 확대율(z)→<TAG_042>
+現在の拡大率(z)→<TAG_042>
 
 [ENDBLOCK]
-과거의 확대율(z)→<TAG_042>
+過去の拡大率(z)→<TAG_042>
 
 [ENDBLOCK]
-현재의 확대율(z)→<TAG_042>
+現在の拡大率(z)→<TAG_042>
 
 [ENDBLOCK]
-과거의 확대율(a)→<TAG_043>
+過去の拡大率(a)→<TAG_043>
 
 [ENDBLOCK]
-현재의 확대율(a)→<TAG_043>
+現在の拡大率(a)→<TAG_043>
 
 [ENDBLOCK]
-과거의 확대율(a)→<TAG_043>
+過去の拡大率(a)→<TAG_043>
 
 [ENDBLOCK]
-현재의 확대율(a)→<TAG_043>
+現在の拡大率(a)→<TAG_043>
 
 [ENDBLOCK]
-<TAG_054>의 확대율
+<TAG_054>の拡大率
 [ENDBLOCK]
-※4096이 표준 크기입니다
-번호（<TAG_033>）, 인물 번호（<TAG_034>）
-확대율(x) = <TAG_040>
-확대율(y) = <TAG_041>
-확대율(z) = <TAG_042>
-확대율(a) = <TAG_043>
+※4096が標準のサイズです
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
 
 [ENDBLOCK]
-번호（<TAG_033>）, 인물 번호（<TAG_034>）
-확대율(x) = <TAG_040>
-확대율(y) = <TAG_041>
-확대율(z) = <TAG_042>
-확대율(a) = <TAG_043>
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
 
 [ENDBLOCK]
-과거의 각도(x)→<TAG_044>
+過去の角度(x)→<TAG_044>
 
 [ENDBLOCK]
-현재의 각도(x)→<TAG_044>
+現在の角度(x)→<TAG_044>
 
 [ENDBLOCK]
-과거의 각도(x)→<TAG_044>
+過去の角度(x)→<TAG_044>
 
 [ENDBLOCK]
-현재의 각도(x)→<TAG_044>
+現在の角度(x)→<TAG_044>
 
 [ENDBLOCK]
-과거의 각도(y)→<TAG_045>
+過去の角度(y)→<TAG_045>
 
 [ENDBLOCK]
-현재의 각도(y)→<TAG_045>
+現在の角度(y)→<TAG_045>
 
 [ENDBLOCK]
-과거의 각도(y)→<TAG_045>
+過去の角度(y)→<TAG_045>
 
 [ENDBLOCK]
-현재의 각도(y)→<TAG_045>
+現在の角度(y)→<TAG_045>
 
 [ENDBLOCK]
-과거의 각도(z)→<TAG_046>
+過去の角度(z)→<TAG_046>
 
 [ENDBLOCK]
-현재의 각도(z)→<TAG_046>
+現在の角度(z)→<TAG_046>
 
 [ENDBLOCK]
-과거의 각도(z)→<TAG_046>
+過去の角度(z)→<TAG_046>
 
 [ENDBLOCK]
-현재의 각도(z)→<TAG_046>
+現在の角度(z)→<TAG_046>
 
 [ENDBLOCK]
-<TAG_054>의 회전 각도
+<TAG_054>の回転角度
 [ENDBLOCK]
-※360도=4096입니다
-번호（<TAG_033>）, 인물 번호（<TAG_034>）
-각도(x) = <TAG_044>
-각도(y) = <TAG_045>
-각도(z) = <TAG_046>
+※360度＝4096です
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
 
 [ENDBLOCK]
-번호（<TAG_033>）, 인물 번호（<TAG_034>）
-각도(x) = <TAG_044>
-각도(y) = <TAG_045>
-각도(z) = <TAG_046>
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
 
 [ENDBLOCK]
 

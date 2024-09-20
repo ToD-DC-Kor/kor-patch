@@ -1,10 +1,10 @@
 
 [ENDBLOCK]
-<TAG_005>아무것도 들어
+<TAG_005>아무것
 [ENDBLOCK]
 
 [ENDBLOCK]
-있지 않다.
+도 들어 있지 않다.
 
 [ENDBLOCK]
 

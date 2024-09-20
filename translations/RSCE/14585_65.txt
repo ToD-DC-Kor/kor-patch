@@ -1,8 +1,8 @@
-no
+notice
 [ENDBLOCK]
-ti
+<IGNORE>
 [ENDBLOCK]
-ce
+<IGNORE>
 [ENDBLOCK]
 <TAG_007>현재
 [ENDBLOCK]

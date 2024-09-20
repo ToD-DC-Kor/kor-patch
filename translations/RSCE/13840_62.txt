@@ -1,38 +1,37 @@
 
 [ENDBLOCK]
-<TAG_005>「누구나
-[ENDBLOCK]
-알 수 있는 렌즈 이야기」
+<TAG_005>「누구나 알 수 있는 렌즈 이야기」
 라는 책이 있다.
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-알 수 있는 렌즈 이야기」
-라는 책이 있다.
+<IGNORE>
+[ENDBLOCK]
+<IGNORE>
 [ENDBLOCK]
 select
 [ENDBLOCK]
