@@ -22,7 +22,8 @@
 [ENDBLOCK]
 루웨인
 [ENDBLOCK]
-이런 곳에서 무슨 일이십니까?
+이런 곳에서
+무슨 일이십니까?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
