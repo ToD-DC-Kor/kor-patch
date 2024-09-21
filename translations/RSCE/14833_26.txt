@@ -379,8 +379,7 @@ EP11：<x00>
 [ENDBLOCK]
 EP12：<x00>
 [ENDBLOCK]
-EP13：
-<x00>
+EP13：<x00>
 [ENDBLOCK]
 EP14：<x00>
 [ENDBLOCK]
