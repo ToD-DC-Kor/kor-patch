@@ -8,7 +8,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 ……
 [ENDBLOCK]
 <Chelsea>를 회복시켜야 해.
-라이프 보틀을 사용하자.
+생명의 병을 사용하자.
 [ENDBLOCK]
 그렇네요.
 [ENDBLOCK]
