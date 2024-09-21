@@ -289,7 +289,7 @@ crctsel -> <x17><x71><x4A><x54><x80>
 다음으로
 
 [ENDBLOCK]
-다음으로
+이전으로
 
 [ENDBLOCK]
 에피소드 선택으로
