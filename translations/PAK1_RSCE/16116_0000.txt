@@ -9,7 +9,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 <Johnny> 씨, 정신 차리세요.
 [ENDBLOCK]
-라이프 보틀을 사용합시다.
+생명의 병을 사용합시다.
 [ENDBLOCK]
 그래, 격려의 노래를 부르자.
 [ENDBLOCK]
@@ -20,5 +20,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 누굴 격려한다는 거야, 정말!
 <Johnny> 씨가 들을 리가 없잖아.
 [ENDBLOCK]
-치료에 방해되니까 비키세요!
+치료에 방해되니까 거기서 비키세요!
 [ENDBLOCK]
