@@ -9,14 +9,14 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 <Rutee>, 정신 차려, <Rutee>!
 [ENDBLOCK]
-당황하지 마. 라이프 보틀을 사용해.
+당황하지 마. 생명의 병을 사용해.
 [ENDBLOCK]
 그래. 좋아.
 [ENDBLOCK]
 ……자, 이거 먹어 <Rutee>.
 [ENDBLOCK]
 누가 사과 젤리를 꺼내라고 했어.
-라이프 보틀이야.
+생명의 병이야.
 [ENDBLOCK]
 걱정해주는 건 고맙지만,
 좀 더 침착해졌으면 좋겠네요.
