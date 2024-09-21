@@ -445,15 +445,18 @@
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-이 마을은 반드시 우리가 지킬게. 안심해.
+이 마을은 반드시 우리가 지킬게.
+안심해.
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
-언젠가 진정한 용사를 내가 키워낼 거야!
+언젠가 진정한 용사를
+내가 키워낼 거야!
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-왠지 두 사람 다 의욕이 넘치는데.
+왠지,
+두 사람 다 의욕이 넘치는데.
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
@@ -461,7 +464,8 @@
 [ENDBLOCK]
 <Millie>
 [ENDBLOCK]
-이렇게 마을의 안전을 지키고 있는 거야.
+이렇게 마을의 안전을
+지키고 있는 거야.
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
