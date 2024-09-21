@@ -82,14 +82,14 @@
             "string": "デバイスポイントはデバイスを外せば戻ってきます。[LINE]\n[turquoise]アタック[/color]をはずしてみましょう。[END]",
             "original_bytes_length": 90,
             "available_bytes_size": 95,
-            "translation": "디바이스 포인트는 디바이스를 분리하면 돌아옵니다.[LINE]\n[turquoise]공격[/color]을 빼보세요.[END]"
+            "translation": "디바이스 포인트는 디바이스를 분리하면 돌아옵니다.[LINE]\n[turquoise]어택[/color]을 빼보세요.[END]"
         },
         {
             "offset": 1752856,
             "string": "デバイスは[yellow]デバイスポイント[/color]を割り振ることで[LINE]\nセットできます。[turquoise]アタック[/color]をセットしてみましょう。[END]",
             "original_bytes_length": 112,
             "available_bytes_size": 112,
-            "translation": "디바이스는 [yellow]디바이스 포인트[/color]를 할당함으로써 [LINE]\n설정할 수 있습니다.[turquoise]공격[/color]을 설정해보세요.[END]"
+            "translation": "디바이스는 [yellow]디바이스 포인트[/color]를 할당함으로써 [LINE]\n설정할 수 있습니다.[turquoise]어택[/color]을 설정해보세요.[END]"
         },
         {
             "offset": 1752968,
