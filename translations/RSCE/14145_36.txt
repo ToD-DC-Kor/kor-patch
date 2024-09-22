@@ -188,7 +188,7 @@ WALL_2다!!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-게다가 이 나도
+게다가, 나도
 함께 갈 거니까.
 [ENDBLOCK]
 <Stahn>
@@ -197,7 +197,7 @@ WALL_2다!!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-싫다고는 못 하게 해주지?
+싫다고 해도 소용없어, 알겠지?
 함께 싸우자고 한 건 너야.
 [ENDBLOCK]
 <Fayte>
