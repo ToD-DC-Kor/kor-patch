@@ -5,42 +5,42 @@
             "string": "マテリアルから宝石へとリライズした後も、[LINE]\n宝石を[turquoise]さらにリライズ[/color]し、[LINE]\n特殊効果のステータスを上げることができます。[LINE]\nまた、リライズごとに特殊効果を[LINE]\n[turquoise]候補の中から選びなおす[/color]こともできます。[LINE]\n[END]",
             "original_bytes_length": 202,
             "available_bytes_size": 207,
-            "translation": "재료에서 보석으로 리라이즈한 후에도, [LINE]\n보석을[turquoise]더 리라이즈[/color]하고, [LINE]\n특수 효과의 스탯을 올릴 수 있습니다.[LINE]\n또한, 리라이즈마다 특수 효과를[LINE]\n[turquoise]후보 중에서 다시 선택할 수 있습니다.[/color][LINE]\n[END]"
+            "translation": "머티리얼에서 보석으로 리라이즈한 후에도, [LINE]\n보석을[turquoise]더 리라이즈[/color]하여, [LINE]\n특수 효과의 스탯을 올릴 수 있습니다.[LINE]\n또한, 리라이즈마다 특수 효과를[LINE]\n[turquoise]후보 중에서 다시 선택할 수 있습니다.[/color][LINE]\n[END]"
         },
         {
             "offset": 1751616,
             "string": "宝石に加える[turquoise]特殊効果[/color]を選択します。[LINE]\n好きな宝石を選んでください。[END]",
             "original_bytes_length": 74,
             "available_bytes_size": 79,
-            "translation": "보석에 추가할[turquoise]특수 효과[/color]를 선택합니다.[LINE]\n원하는 보석을 선택해 주세요.[END]"
+            "translation": "보석에 부여할[turquoise]특수 효과[/color]를 선택합니다.[LINE]\n원하는 보석을 선택해 주세요.[END]"
         },
         {
             "offset": 1751696,
             "string": "リライズを行いたいマテリアルを選択します。[LINE]\n[turquoise]ポイズンマテリアル[/color]を選択してください。[END]",
             "original_bytes_length": 92,
             "available_bytes_size": 95,
-            "translation": "리라이즈를 진행할 재료를 선택합니다.[LINE]\n[turquoise]포이즌 머티리얼[/color]을 선택해 주세요.[END]"
+            "translation": "리라이즈를 진행할 머티리얼을 선택합니다.[LINE]\n[turquoise]포이즌 머티리얼[/color]을 선택해 주세요.[END]"
         },
         {
             "offset": 1751792,
             "string": "宝石のリライズは、武具のリライズと同じく[LINE]\n[yellow]リライズ[/color]メニューから行うことができます。[END]",
             "original_bytes_length": 92,
             "available_bytes_size": 95,
-            "translation": "보석의 리라이즈는, 무기의 리라이즈와 마찬가지로[LINE]\n[yellow]리라이즈[/color] 메뉴에서 진행할 수 있습니다.[END]"
+            "translation": "보석의 리라이즈는, 무구의 리라이즈와 마찬가지로[LINE]\n[yellow]리라이즈[/color] 메뉴에서 진행할 수 있습니다.[END]"
         },
         {
             "offset": 1751888,
             "string": "[turquoise]宝石[/color]は[turquoise]マテリアル[/color]をリライズすることでのみ入手でき、[LINE]\nリライズの際には、攻撃力上昇や防御力上昇などの[LINE]\n[turquoise]特殊効果を加える[/color]ことができます。[END]",
             "original_bytes_length": 161,
             "available_bytes_size": 167,
-            "translation": "[turquoise]보석[/color]은[turquoise]재료[/color]를 리라이즈함으로써만 획득할 수 있으며, [LINE]\n리라이즈 시에는 공격력 상승이나 방어력 상승 등의[LINE]\n[turquoise]특수 효과를 추가할 수 있습니다.[/color][END]"
+            "translation": "[turquoise]보석[/color]은[turquoise]머티리얼[/color]을 리라이즈로만 획득할 수 있으며, [LINE]\n리라이즈 시에는 공격력 상승이나 방어력 상승 등의[LINE]\n[turquoise]특수 효과를 부여[/color]할 수 있습니다.[END]"
         },
         {
             "offset": 1752056,
             "string": "リライズを行うには、レンズのほかに[LINE]\n[yellow]パーティレベル[/color]が必要です。[LINE]\n[turquoise]各キャラのレベルを上げる[/color]ことで、[LINE]\nパーティレベルも上がります。[LINE]\n強力な武具ほど必要なパーティレベルが高く、[LINE]\nこれを満たすことでリライズができるようになります。[END]",
             "original_bytes_length": 238,
             "available_bytes_size": 239,
-            "translation": "리라이즈를 진행하려면, 렌즈 외에[LINE]\n[yellow]파티 레벨[/color]이 필요합니다.[LINE]\n[turquoise]각 캐릭터의 레벨을 올리는[/color] 것으로,[LINE]\n파티 레벨도 올라갑니다.[LINE]\n강력한 무구일수록 필요한 파티 레벨이 높고,[LINE]\n이를 충족함으로써 리라이즈가 가능해집니다.[END]"
+            "translation": "리라이즈를 하려면, 렌즈 외에[LINE]\n[yellow]파티 레벨[/color]이 필요합니다.[LINE]\n[turquoise]각 캐릭터의 레벨을 올리는[/color] 것으로,[LINE]\n파티 레벨도 올라갑니다.[LINE]\n강력한 무구일수록 필요한 파티 레벨이 높고,[LINE]\n이를 충족해야 리라이즈가 가능해집니다.[END]"
         },
         {
             "offset": 1752296,
