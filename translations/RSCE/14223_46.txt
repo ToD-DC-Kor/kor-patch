@@ -581,8 +581,8 @@
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-ひどい！
-어째서 그런 말씀을 하시는 거예요!
+너무해요!
+어떻게 그런 말씀을 하시는 거예요!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
