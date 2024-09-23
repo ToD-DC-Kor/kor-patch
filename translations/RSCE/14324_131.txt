@@ -78,7 +78,7 @@
 <Darzen>
 [ENDBLOCK]
 <Greybum> 때문에,
-성 아래 사람들은 공포에 떨고 있습니다.
+백성들은 공포에 떨고 있습니다.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
@@ -197,13 +197,13 @@
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-나는 그의 일을
+나는 그에 대해
 정말로 아무것도 몰랐던 걸까……?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Mary>, 정신 차려요.
-여기까지 왔으니 진실을 확인해야 해요.
+<Mary>, 정신 차려.
+여기까지 왔으니 진실을 확인해야 해.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -211,7 +211,7 @@
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-아, 네……
+아, 응……
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -247,8 +247,8 @@
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-그 하시는 일에는 단 한 번도
-실수가 없으셨습니다.
+그 모든 행동에 있어,
+단 한 번의 실수도 없으셨습니다.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -267,7 +267,7 @@
 <Woodrow>
 [ENDBLOCK]
 나는…… 아무것도 몰랐어.
-그게 얼마나 죄깊은 일인지……
+그게 얼마나 큰 잘못인지……
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
