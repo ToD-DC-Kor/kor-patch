@@ -421,7 +421,7 @@ select
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-방어상 최중요 기밀 아닙니까.
+그건 성 방어의 가장 중요한 기밀이 아닌가?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -430,8 +430,8 @@ select
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-도시 동쪽에 있는 민가로 가주세요.
-거기가 비상 통로의 입구예요.
+도시 동쪽에 있는 민가로 향해 주게.
+거기가 비상 통로의 입구다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
