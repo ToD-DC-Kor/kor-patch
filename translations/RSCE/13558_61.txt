@@ -23,7 +23,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-졸고 있는 걸 발견당해서
+졸고 있다가 발각돼서
 스파이로 오해받았어. 바보 같지?
 [ENDBLOCK]
 <Chelsea>
@@ -32,11 +32,11 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-네놈의 무철포함은 정말 대단하군.
+너의 무모함은 정말 대단하군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-괜찮잖아, 별로. 결과적으로는
+괜찮잖아. 결과적으로,
 다 잘 됐으니까.
 [ENDBLOCK]
 <Stahn>
@@ -55,7 +55,7 @@
 <Stahn>
 [ENDBLOCK]
 큰일이네.
-내가 가서 상태를 봐올게.
+내가 가서 상태를 보고 올게.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
