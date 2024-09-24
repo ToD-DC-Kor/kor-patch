@@ -122,7 +122,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 <Johnny>
 [ENDBLOCK]
 나도 끼어들어도 될까.
-하나, 개선 리사이틀을 해볼까.
+멋진 개선 독창회를 열어볼까.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -136,8 +136,8 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-저희야말로요. <Johnny> 씨 덕분에
-살아났습니다.
+저희야말로 <Johnny> 씨 덕분에
+많은 도움 받았습니다.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
