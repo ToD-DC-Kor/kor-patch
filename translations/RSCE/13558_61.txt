@@ -45,7 +45,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-아까 안색이 안 좋아 보여서
+아까 창백한 얼굴로
 안으로 들어간 것 같던데.
 [ENDBLOCK]
 <Philia>
