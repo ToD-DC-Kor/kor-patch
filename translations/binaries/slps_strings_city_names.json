@@ -5,7 +5,7 @@
             "string": "ジェノスの街とトーンの山小屋を結ぶ[LINE]\n雪の降り積もった山道。[END]",
             "original_bytes_length": 58,
             "available_bytes_size": 63,
-            "translation": "제노스의 마을과 톤의 산막을 연결하는[LINE]\n눈이 쌓인 산길.[END]"
+            "translation": "제노스와 톤의 산장을 연결하는[LINE]\n눈이 쌓인 산길.[END]"
         },
         {
             "offset": 1730736,
@@ -26,7 +26,7 @@
             "string": "生態金属ベルセリウムによって造られた[LINE]\n輸送施設。[END]",
             "original_bytes_length": 48,
             "available_bytes_size": 48,
-            "translation": "생태 금속 벨세리움으로 만들어진[LINE]\n수송 시설.[END]"
+            "translation": "생태 금속 베르셀리움으로 만들어진[LINE]\n수송 시설.[END]"
         },
         {
             "offset": 1730824,
@@ -68,7 +68,7 @@
             "string": "旅する者が休息に立ち寄る小屋。[LINE]\nここでは不思議な出会いがあるかも。[END]",
             "original_bytes_length": 66,
             "available_bytes_size": 71,
-            "translation": "여행하는 자가 휴식에 들르는 작은 집.[LINE]\n여기에서는 신비한 만남이 있을지도 모른다.[END]"
+            "translation": "여행자가 휴식하기 위해 들르는 오두막.[LINE]\n여기에서는 신비한 만남이 있을지도 모른다.[END]"
         },
         {
             "offset": 1731024,
@@ -82,14 +82,14 @@
             "string": "旅人の小屋[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "여행자의 작은 집[END]"
+            "translation": "여행자의 오두막[END]"
         },
         {
             "offset": 1731064,
             "string": "地底深くにある地上軍の研究施設。[LINE]\nベルクラントの砲撃によって地中から[LINE]\n姿を現した。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "지하 깊숙이 있는 지상군의 연구 시설.[LINE]\n벨클란트의 포격으로 지하에서[LINE]\n모습을 드러냈다.[END]"
+            "translation": "지하 깊숙이 있는 지상군의 연구 시설.[LINE]\n벨크란트의 포격으로 지하에서[LINE]\n모습을 드러냈다.[END]"
         },
         {
             "offset": 1731152,
@@ -124,14 +124,14 @@
             "string": "ストレイライズの森[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "스트레이라이스의 숲[END]"
+            "translation": "스트레이라이즈 숲[END]"
         },
         {
             "offset": 1731352,
             "string": "ファンダリア東部と西部をつなぐ雪深い森。[END]",
             "original_bytes_length": 41,
             "available_bytes_size": 47,
-            "translation": "팬더리아 동부와 서부를 잇는 눈이 깊은 숲.[END]"
+            "translation": "팬더리아 동부와 서부를 잇는 눈이 많이 쌓인 숲.[END]"
         },
         {
             "offset": 1731400,
@@ -145,7 +145,7 @@
             "string": "ティルソの森[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "틸소의 숲[END]"
+            "translation": "틸소 숲[END]"
         },
         {
             "offset": 1731432,
@@ -180,7 +180,7 @@
             "string": "フィッツガルドの南部にある新興の街。[LINE]\n闘技場では日夜激闘が繰り広げられている。[END]",
             "original_bytes_length": 78,
             "available_bytes_size": 79,
-            "translation": "피츠갈드의 남부에 있는 신흥 도시.[LINE]\n투기장에서는 낮과 밤에 격렬한 전투가 이어지고 있다.[END]"
+            "translation": "피츠가르드 남부에 있는 신흥 도시.[LINE]\n투기장에서는 밤낮없이 격렬한 전투가 이어지고 있다.[END]"
         },
         {
             "offset": 1731616,
@@ -194,7 +194,7 @@
             "string": "ノイシュタットの街[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "노이슈타트의 도시[END]"
+            "translation": "노이슈타트[END]"
         },
         {
             "offset": 1731656,
@@ -264,7 +264,7 @@
             "string": "ファンダリアの東部にある港町。[LINE]\n温泉があるため、他国からも湯治目的の[LINE]\n観光客が訪れる。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "팬더리아의 동부에 위치한 항구 도시.[LINE]\n온천이 있어, 다른 나라에서도 요양을 목적으로[LINE]\n관광객이 방문함.[END]"
+            "translation": "팬더리아 동부에 위치한 항구 도시.[LINE]\n온천이 있어, 다른 나라에서도 요양을 목적으로[LINE]\n관광객이 찾아온다.[END]"
         },
         {
             "offset": 1731984,
@@ -278,14 +278,14 @@
             "string": "港町スノーフリア[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "항구 도시 스노우플리아[END]"
+            "translation": "항구 도시 스노우프리아[END]"
         },
         {
             "offset": 1732024,
             "string": "ファンダリアの南部にある街。[LINE]\n２年前に王家の軍が派遣されて街は戦場と[LINE]\n化したが、現在は復興を遂げている。[END]",
             "original_bytes_length": 103,
             "available_bytes_size": 103,
-            "translation": "팬더리아의 남부에 위치한 도시.[LINE]\n2년 전 왕가의 군대가 파견되어 도시는 전장이 되었지만,[LINE]\n현재는 복구를 이루고 있다.[END]"
+            "translation": "팬더리아 남부에 위치한 도시.[LINE]\n2년 전 왕가의 군대가 파견되어 도시는 전장이 되었지만,[LINE]\n현재는 다시 부흥하고 있다.[END]"
         },
         {
             "offset": 1732128,
@@ -299,7 +299,7 @@
             "string": "サイリルの街[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "사이릴의 도시[END]"
+            "translation": "사이릴[END]"
         },
         {
             "offset": 1732152,
@@ -320,14 +320,14 @@
             "string": "ストレイライズ神殿[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "스트레이라이스 신전[END]"
+            "translation": "스트레이라이즈 신전[END]"
         },
         {
             "offset": 1732288,
             "string": "セインガルドの北部にある村。[LINE]\nストレイライズ神殿への巡礼者が立ち寄る[LINE]\n憩いの村。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "세인갈드의 북부에 있는 마을.[LINE]\n스트레이라이스 신전으로의 순례자가 들르는[LINE]\n휴식의 마을.[END]"
+            "translation": "세인가르드 북부에 있는 마을.[LINE]\n스트레이라이즈 신전을 향하는 순례자가[LINE]\n들러서 쉬는 곳.[END]"
         },
         {
             "offset": 1732368,
@@ -341,14 +341,14 @@
             "string": "アルメイダの村[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "알메이다의 마을[END]"
+            "translation": "알메이다[END]"
         },
         {
             "offset": 1732392,
             "string": "セインガルドの西部にある村。[LINE]\n質素な村には不釣合いな大きな屋敷がある。[END]",
             "original_bytes_length": 70,
             "available_bytes_size": 71,
-            "translation": "세인갈드의 서부에 위치한 마을.[LINE]\n소박한 마을에는 어울리지 않는 큰 저택이 있다.[END]"
+            "translation": "세인가르드 서부에 위치한 마을.[LINE]\n소박한 마을에는 어울리지 않는 큰 저택이 있다.[END]"
         },
         {
             "offset": 1732464,
@@ -362,14 +362,14 @@
             "string": "ハーメンツの村[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "하멘츠의 마을[END]"
+            "translation": "하멘츠[END]"
         },
         {
             "offset": 1732496,
             "string": "かつて勇名を馳せた船。[LINE]\n現在は海中深くに沈み、[LINE]\nその存在を知る者はいない。[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79,
-            "translation": "한때 용명으로 이름을 날렸던 배.[LINE]\n현재는 바다 깊숙이 가라앉아,[LINE]\n그 존재를 아는 자는 없다.[END]"
+            "translation": "먼 옛날 용맹을 떨친 배.[LINE]\n현재는 바다 깊숙이 가라앉아,[LINE]\n그 존재를 아는 자는 없다.[END]"
         },
         {
             "offset": 1732576,
@@ -425,7 +425,7 @@
             "string": "首都カルビオラ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "수도 칼비올라[END]"
+            "translation": "수도 까르비올라[END]"
         },
         {
             "offset": 1732864,
@@ -453,7 +453,7 @@
             "string": "フィッツガルドの北部の内湾部にある遺跡。[END]",
             "original_bytes_length": 41,
             "available_bytes_size": 47,
-            "translation": "피츠갈드의 북부 내만에 위치한 유적.[END]"
+            "translation": "피츠가르드 북부 바닷가에 위치한 유적.[END]"
         },
         {
             "offset": 1733048,
@@ -474,7 +474,7 @@
             "string": "フィッツガルドの北部にある村。[LINE]\nほとんどの村民が農業と牧畜を営んでいる。[END]",
             "original_bytes_length": 72,
             "available_bytes_size": 72,
-            "translation": "피츠갈드의 북부에 위치한 마을.[LINE]\n거의 모든 마을 주민이 농업과 목축을 하고 있다.[END]"
+            "translation": "피츠가르드 북부에 위치한 마을.[LINE]\n거의 모든 마을 주민이 농업과 목축을 하고 있다.[END]"
         },
         {
             "offset": 1733160,
@@ -488,14 +488,14 @@
             "string": "リーネの村[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "리네의 마을[END]"
+            "translation": "리네[END]"
         },
         {
             "offset": 1733184,
             "string": "セインガルドの北東海域の島に造られた[LINE]\nオベロン社の工場。[LINE]\n現在は閉鎖されている。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "세인갈드의 북동 해역에 세워진[LINE]\n오베론사의 공장.[LINE]\n현재는 폐쇄되어 있다.[END]"
+            "translation": "세인가르드 북동 해역에 세워진[LINE]\n오베론사의 공장.[LINE]\n현재는 폐쇄되어 있다.[END]"
         },
         {
             "offset": 1733264,
@@ -516,7 +516,7 @@
             "string": "セインガルドの東部にある街。[LINE]\n郊外の街らしく、ゆっくりとした時間が[LINE]\n流れている。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "세인갈드의 동부에 위치한 도시.[LINE]\n교외의 도시답게, 느긋한 시간이[LINE]\n흘러가고 있다.[END]"
+            "translation": "세인가르드 동부에 위치한 도시.[LINE]\n교외의 도시답게, 느긋한 시간이[LINE]\n흘러가고 있다.[END]"
         },
         {
             "offset": 1733392,
@@ -530,14 +530,14 @@
             "string": "クレスタの街[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "크레스타의 도시[END]"
+            "translation": "크레스타[END]"
         },
         {
             "offset": 1733416,
             "string": "セインガルドの首都。[LINE]\n整備された城下町は、人々で賑わっている。[END]",
             "original_bytes_length": 62,
             "available_bytes_size": 63,
-            "translation": "세인갈드의 수도.[LINE]\n정비된 성곽 마을은 사람들로 북적이고 있다.[END]"
+            "translation": "세인가르드의 수도.[LINE]\n성을 중심으로 정비된 도시는 사람들로 북적이고 있다.[END]"
         },
         {
             "offset": 1733480,
@@ -572,14 +572,14 @@
             "string": "首都ハイデルベルグ[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "수도 하이델베르크[END]"
+            "translation": "수도 하이델베르그[END]"
         },
         {
             "offset": 1733648,
             "string": "ファンダリアの北部にある国境の街。[LINE]\nジェノスを境に南がファンダリア、[LINE]\n北がセインガルドの領土に分かれている。[END]",
             "original_bytes_length": 107,
             "available_bytes_size": 111,
-            "translation": "팬더리아의 북부에 위치한 국경 도시.[LINE]\n제노스를 경계로 남쪽은 팬더리아,[LINE]\n북쪽은 세인갈드의 영토로 나뉘어 있다.[END]"
+            "translation": "팬더리아 북부에 위치한 국경 도시.[LINE]\n제노스를 경계로 남쪽은 팬더리아,[LINE]\n북쪽은 세인가르드의 영토로 나뉘어 있다.[END]"
         },
         {
             "offset": 1733760,
@@ -614,14 +614,14 @@
             "string": "トーンの山小屋[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "톤의 산 오두막[END]"
+            "translation": "톤의 산장[END]"
         },
         {
             "offset": 1733896,
             "string": "ラディスロウのあった場所を[LINE]\nレンズ砲で打ち抜いてできた穴。[LINE]\n地上と外殻大地を繋ぐ唯一にして希望の道。[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "라디슬로우가 있었던 장소를[LINE]\n렌즈포로 쏘아 뚫린 구멍.[LINE]\n지상과 외각 대지를 연결하는 유일하고 희망의 길.[END]"
+            "translation": "라디슬로우가 있던 장소를[LINE]\n렌즈포로 꿰뚫어 만든 구멍.[LINE]\n지상과 외각 대지를 연결하는 유일한 희망의 길.[END]"
         },
         {
             "offset": 1734000,
@@ -719,7 +719,7 @@
             "string": "空中都市群の中でも重要な拠点のひとつ。[LINE]\n天上軍の技術研究施設がある。[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71,
-            "translation": "공중 도시 군 중에서도 중요한 거점 중 하나.[LINE]\n천상의 군대의 기술 연구 시설이 있다.[END]"
+            "translation": "공중 도시 군 중에서도 중요한 거점 중 하나.[LINE]\n천상군의 기술 연구 시설이 있다.[END]"
         },
         {
             "offset": 1734448,
@@ -754,7 +754,7 @@
             "string": "空中都市群を空路で結んでいた[LINE]\n浮遊クルーザーがある。[END]",
             "original_bytes_length": 52,
             "available_bytes_size": 55,
-            "translation": "공중 도시 군을 공중으로 연결하고 있었던[LINE]\n부유 크루저가 있다.[END]"
+            "translation": "공중 도시 군 사이의 항공로를 잇는[LINE]\n부유 크루저가 있다.[END]"
         },
         {
             "offset": 1734560,
