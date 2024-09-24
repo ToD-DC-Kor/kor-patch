@@ -211,7 +211,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-그래도 왕족이라고.
+저런게 왕족이라니.
 정말, 한심하군.
 [ENDBLOCK]
 <Lion>
