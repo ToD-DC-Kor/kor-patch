@@ -29,8 +29,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-잠깐, 내보내라고요!
-언제까지 이런 곳에 가둬둘 생각이에요!
+잠깐, 꺼내줘!
+언제까지 이런 곳에 가둬둘 생각이야!
 
 [ENDBLOCK]
 <Rutee>
