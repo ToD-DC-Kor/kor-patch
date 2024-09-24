@@ -8,7 +8,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-방, 정신 차려.
+도련님, 정신 차리세요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
