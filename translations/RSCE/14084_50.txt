@@ -1,10 +1,10 @@
 <Rutee>
 [ENDBLOCK]
-모두들, <xE2>
+모두들, 잠깐 기다려.
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-E잠깐.
+<IGNORE>
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
