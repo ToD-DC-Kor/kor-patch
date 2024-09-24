@@ -649,8 +649,8 @@ destination_rot = <x17><x71><x47><x1C><x80>
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-여기는 모류 영지예요. 당신들,
-안 좋은 때에 왔네요.
+여기는 모류 영지예요.
+당신들, 안 좋은 때에 왔네요.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
