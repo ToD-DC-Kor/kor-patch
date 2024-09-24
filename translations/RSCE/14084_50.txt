@@ -38,7 +38,7 @@ E잠깐.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-휴, 어떻게 될 뻔했네.
+휴, 큰일 날 뻔했네.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -115,20 +115,20 @@ E잠깐.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-고마워. 여러분에게도
+고마워. 모두에게
 폐 끼치지 않도록 할게.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……그다지.
+……조금은
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그다지라고!
+조금은이라고!?!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-그다지라고?
+조금은이라고?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
