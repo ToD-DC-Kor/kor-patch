@@ -41,7 +41,7 @@
 <Rutee>
 [ENDBLOCK]
 아트와이트는 그렇다 치지만,
-왜 돈까지 뺏기는 거야.
+왜 돈까지 가져가는 거야.
 
 [ENDBLOCK]
 <Mary>
@@ -52,12 +52,12 @@
 <Rutee>
 [ENDBLOCK]
 그야 <Mary>한테는
-뭐든 재밌겠지만요.
+뭐든 재밌겠지만.
 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>! 왜 그래요.
+<Stahn>! 왜 그래
 아까부터 말도 없고.
 
 [ENDBLOCK]

@@ -853,7 +853,7 @@
 <King>
 [ENDBLOCK]
 음. 우리 양국의 힘을 합치면
-만전의 경비 체제를 갖출 수 있을 것이다.
+완벽한 경비 체제를 갖출 수 있을 것이오.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
