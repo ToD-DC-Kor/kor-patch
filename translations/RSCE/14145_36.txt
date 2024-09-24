@@ -157,7 +157,7 @@ WALL_2다!!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-곧바로 부탁이 있어.
+바로 본론으로 들어가서 부탁이 있어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -210,7 +210,7 @@ WALL_2다!!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-말하지 마. 별로 그런 게 아니야.
+그건 말하지 마. 그런 거 아니야.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
