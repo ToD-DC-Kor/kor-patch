@@ -1213,7 +1213,7 @@ select
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Mary> 씨들의 일도
+<Mary> 씨에 대한 일도
 맡겨주게.
 [ENDBLOCK]
 <Stahn>
@@ -1232,7 +1232,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>…… 정말 힘들었겠다.
+<Philia>…… 정말 힘들었었지.
 수고했어.
 [ENDBLOCK]
 <Philia>
@@ -1364,7 +1364,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-난 네처럼 낙천적이고
+난 너처럼 낙천적이고
 뻔뻔스럽고 친근한 놈이 정말 싫어.
 [ENDBLOCK]
 <Lion>
