@@ -701,7 +701,7 @@ select
 과일을 파는 상인
 [ENDBLOCK]
 그냥 지나치면 안 돼, <Stahn>.
-구경해 가.
+한번 구경해 보고 가.
 [ENDBLOCK]
 과일을 파는 상인
 [ENDBLOCK]
