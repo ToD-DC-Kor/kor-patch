@@ -613,8 +613,8 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-내가 있으면 분위기 깰까 봐.
-자, 금방 비꼬는 말 할 거잖아.
+내가 있으면 분위기 깰 거 같아서.
+봐, 바로 비꼬는 말을 하잖아.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
