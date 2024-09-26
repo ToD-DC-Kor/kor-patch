@@ -110,14 +110,14 @@
             "string": "ベルクラントB[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "벨클란트 B[END]"
+            "translation": "벨크란트 B[END]"
         },
         {
             "offset": 1728520,
             "string": "ベルクラントA[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "벨클란트 A[END]"
+            "translation": "벨크란트 A[END]"
         },
         {
             "offset": 1728536,
@@ -537,42 +537,42 @@
             "string": "カルビオラ神殿B(夜)[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "칼비오라 신전B(밤)[END]"
+            "translation": "까르비올라 신전B(밤)[END]"
         },
         {
             "offset": 1729592,
             "string": "カルビオラ神殿A(夜)[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "칼비오라 신전A(밤)[END]"
+            "translation": "까르비올라 신전A(밤)[END]"
         },
         {
             "offset": 1729616,
             "string": "カルビオラ神殿B[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "칼비오라 신전B[END]"
+            "translation": "까르비올라 신전B[END]"
         },
         {
             "offset": 1729632,
             "string": "カルビオラ神殿A[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "칼비오라 신전A[END]"
+            "translation": "까르비올라 신전A[END]"
         },
         {
             "offset": 1729648,
             "string": "首都カルビオラA(夜)[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "수도 칼비오라A(밤)[END]"
+            "translation": "수도 까르비올라A(밤)[END]"
         },
         {
             "offset": 1729672,
             "string": "首都カルビオラA[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "수도 칼비오라A[END]"
+            "translation": "수도 까르비올라A[END]"
         },
         {
             "offset": 1729688,
@@ -796,42 +796,42 @@
             "string": "トーンの山小屋・裏山B(夜)[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "톤의 산막・뒷산B(밤)[END]"
+            "translation": "톤의 산장・뒷산B(밤)[END]"
         },
         {
             "offset": 1730328,
             "string": "トーンの山小屋・裏山A(夜)[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "톤의 산막・뒷산A(밤)[END]"
+            "translation": "톤의 산장・뒷산A(밤)[END]"
         },
         {
             "offset": 1730360,
             "string": "トーンの山小屋・裏山B[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "톤의 산막・뒷산B[END]"
+            "translation": "톤의 산장・뒷산B[END]"
         },
         {
             "offset": 1730384,
             "string": "トーンの山小屋・裏山A[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "톤의 산막・뒷산A[END]"
+            "translation": "톤의 산장・뒷산A[END]"
         },
         {
             "offset": 1730408,
             "string": "トーンの山小屋(夜)[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "톤의 산막(밤)[END]"
+            "translation": "톤의 산장(밤)[END]"
         },
         {
             "offset": 1730432,
             "string": "トーンの山小屋[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "톤의 산막[END]"
+            "translation": "톤의 산장[END]"
         },
         {
             "offset": 1730448,

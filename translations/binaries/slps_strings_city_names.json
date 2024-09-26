@@ -306,7 +306,7 @@
             "string": "森の奥に整然とたたずむ神殿。[LINE]\n神殿としてだけでなく、研究施設としての[LINE]\n役割も担っている。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "숲 깊숙이 정돈되어 있는 신전.[LINE]\n신전으로만이 아니라 연구 시설로서의[LINE]\n역할도 맡고 있다.[END]"
+            "translation": "숲 깊숙이 정연하게 자리 잡은 신전.[LINE]\n신전만이 아니라 연구 시설로서의[LINE]\n역할도 맡고 있다.[END]"
         },
         {
             "offset": 1732240,
