@@ -466,13 +466,13 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-왜 그러지?
+왜 그래?
 모두 날 쳐다보고.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-당신, <Woodrow>의 지인이죠?
-그런데 아무것도 모르는 거예요?
+너, <Woodrow>랑 아는 사이잖아?
+그런데 아무것도 모르는 거야?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -549,7 +549,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-……<Greybum>의 손에 떨어졌다.
+……<Greybum>의 손에 넘어갔다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -596,8 +596,8 @@
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-<Woodrow>가 아버지의 뒤를
-따르지 않아도 됐으니까.
+<Woodrow>가 아버지를 뒤따르지
+않게 할 수 있었으니까.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -651,7 +651,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-이번 소요를 초래한 원인은
+이번 소란을 초래한 원인은
 우리 왕가가 안전을 과신한 데 있어.
 [ENDBLOCK]
 <Woodrow>
@@ -666,7 +666,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-네 같은 아이가 무얼 할 수 있겠니.
+너 같은 아이가 뭘 할 수 있겠어.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
