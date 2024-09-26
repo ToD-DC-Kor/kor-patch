@@ -42,7 +42,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-가르드가 1개 모자라. 어디지!?
+1 가르드가 모자라. 어딨지!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -55,7 +55,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-땅보다는 돈이지. 당연하잖아.
+땅보다는 돈이 더 중요해. 당연하잖아.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -132,17 +132,17 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-아하하, 말이 똑같네.
+아하하, 똑같이 말하네.
 역시 비슷한 사람들이야!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 나와 <Stahn>이 어디가 비슷하다는 거지.
-실례되는 말을 하지 마.
+무례한 소리 하지 마라.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-네 말투가 더 실례인 것 같은데.
+네 말투가 더 무례한 것 같은데.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -181,7 +181,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-매번 매번 사람 걱정시키는 여자야.
+매번 사람 걱정시키는 여자야.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -195,8 +195,8 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-일단 시덴 영지로 돌아가서 로프를
-구해오자.
+일단 시덴 영지로 돌아가서
+로프를 구해오자.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
