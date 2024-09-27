@@ -3,7 +3,8 @@
 [ENDBLOCK]
 난폭한 병사
 [ENDBLOCK]
-우오오! 좋은 여자잖아!
+우와아!
+꽤 괜찮은 여자잖아!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -11,15 +12,18 @@
 [ENDBLOCK]
 난폭한 병사
 [ENDBLOCK]
-이봐, 너. 내 여자가 되라고.
+이봐, 너.
+내 여자가 되라고.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-하아? 너 자신의 얼굴 본 적 있어?
+뭐어? 너 자신의 얼굴은
+본 적 있어?
 [ENDBLOCK]
 난폭한 병사
 [ENDBLOCK]
-호오, 꽤나 당찬 여자군.
+호오, 꽤나
+당찬 여자군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -27,15 +31,18 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-예이! 그래, <Stahn>. 혼내줘!
+예이! 그래, <Stahn>.
+혼내줘!
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-뭐야 이 꼬마는? 우리랑 싸우겠다는 거야?
+뭐야 이 꼬마는?
+우리랑 싸우겠다는 거야?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-이봐, 이런 곳에서 싸움은 그만둬.
+이봐, 이런 곳에서
+싸움은 그만둬.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -51,11 +58,13 @@
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-바보 자식! 객원 검사 <Lion> 매그너스다!!
+바보 자식!
+객원 검사 <Lion> 매그너스라고!!
 [ENDBLOCK]
 난폭한 병사
 [ENDBLOCK]
-이 녀석이…… 그 <Lion>!?
+이 녀석이……
+그 <Lion>!?
 [ENDBLOCK]
 병사
 [ENDBLOCK]
@@ -63,11 +72,13 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-야호! 활짝 웃어라!
+야호!
+꼴좋다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-고마워, <Lion>. 덕분에 살았어.
+고마워, <Lion>.
+덕분에 살았어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -75,11 +86,12 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그나저나, 넌 어떤 평판을 갖고 있는 거야.
+그나저나,
+넌 어떤 평판을 갖고 있는 거야.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-내가 알 리가 있나.
+내가 알 게 뭐야.
 [ENDBLOCK]
 난폭한 병사
 [ENDBLOCK]
@@ -87,19 +99,23 @@
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-어라? 오늘은 <Lion>이 같이 안 왔나?
+어라? 오늘은 <Lion>이
+같이 안 왔나?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-또 너희냐! 적당히 좀 해!
+또 너희냐!
+적당히 좀 해!
 [ENDBLOCK]
 난폭한 병사
 [ENDBLOCK]
-어차피 그 녀석이 있어봤자, 아버지 <Hugo>한테 울며 매달릴 거잖아.
+어차피 그 녀석이 있어봤자,
+아버지 <Hugo>한테 울며 매달릴 거잖아.
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-그래. 게다가 소문에 의하면 아버지랑 둘이서 군에 쫓기고 있다더라.
+그래. 게다가 소문에 의하면, 아버지랑 둘이서
+군에 쫓기고 있다더라.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -107,11 +123,13 @@
 [ENDBLOCK]
 난폭한 병사
 [ENDBLOCK]
-뭐야? 잘 안 들리는데.
+뭐?
+잘 안 들리는데?
 [ENDBLOCK]
 난폭한 병사
 [ENDBLOCK]
-기뻐해. 오늘이야말로 내 여자로 만들어주지.
+기뻐해. 오늘이야말로
+내 여자로 만들어주지.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -139,15 +157,18 @@
 [ENDBLOCK]
 병사
 [ENDBLOCK]
-여자주제에, 싸우자는 거냐!
+여자 주제에,
+싸우자는 거냐!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너희가 검을 들 때까지는 기다려줄게.
+너희가 검을
+들 때까지는 기다려줄게.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-다만, 그 이후엔…… 진심으로 갈 거야!
+다만, 그 이후엔……
+진심으로 갈 거야!
 [ENDBLOCK]
 병사
 [ENDBLOCK]
@@ -171,7 +192,8 @@
 [ENDBLOCK]
 점장
 [ENDBLOCK]
-그러고 보니, 최근에 너한테 들이대던 난폭한 병사를 못 봤네.
+그러고 보니, 최근에 너한테 들이대던
+난폭한 병사를 못 봤네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -179,11 +201,13 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-여자애한테 검을 들이댔다가 혼났겠지.
+여자애한테 검을 들이댔다가
+혼났으니까.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그런 옛날 얘기, 별로 상관없잖아요.
+그런 옛날 얘기,
+이제 상관없잖아요.
 [ENDBLOCK]
 점장
 [ENDBLOCK]
@@ -207,11 +231,13 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-네? 어디서 만난 적이……
+네? 어디서
+만난 적이……?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-무슨 소리야, <Stahn>. 그 난폭한 병사잖아.
+무슨 소리야, <Stahn>.
+그 난폭한 병사잖아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -219,7 +245,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-갑옷을 벗으니까 완전히 달라 보이네.
+갑옷을 벗으니까
+완전히 달라 보이네.
 [ENDBLOCK]
 남
 [ENDBLOCK]
@@ -227,7 +254,8 @@
 [ENDBLOCK]
 남
 [ENDBLOCK]
-지금은 병사를 그만두고, 시골에서 가업을 돕고 있습니다.
+지금은 병사를 그만두고,
+시골에서 가업을 돕고 있습니다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -239,11 +267,12 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭐야? 확실히 말해봐.
+뭐야? 할 말 있으면 똑바로 해.
 [ENDBLOCK]
 남
 [ENDBLOCK]
-저, 저의 고향에…… 같이 가주시지 않겠습니까!
+저, 저의 고향에……
+같이 가주시지 않겠습니까!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -251,7 +280,8 @@
 [ENDBLOCK]
 남
 [ENDBLOCK]
-부모님께 당신을 소개하고 싶어서……
+부모님께 당신을
+소개하고 싶어서……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -287,7 +317,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-함께 당신의 고향에는 갈 수 없지만……
+함께 당신의 고향에는
+갈 수 없지만……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -320,7 +351,8 @@
 [ENDBLOCK]
 점장
 [ENDBLOCK]
-죄송합니다. 오늘 밤은 영업 종료입니다.
+죄송합니다.
+오늘 밤은 영업 종료입니다.
 [ENDBLOCK]
 점장
 [ENDBLOCK]
@@ -332,7 +364,8 @@
 [ENDBLOCK]
 점장
 [ENDBLOCK]
-방금 방송을 내보낸 건, 오베론 사 총수 아닙니까?
+방금 방송을 내보낸 건,
+오베론 사 총수 아닙니까?
 [ENDBLOCK]
 점장
 [ENDBLOCK]
@@ -340,31 +373,38 @@
 [ENDBLOCK]
 점장
 [ENDBLOCK]
-최근에 손님 수가 늘고 있어요. 술 마시지 않고는 못 견디는 모양이죠.
+최근에 손님 수가 늘고 있어요.
+술 마시지 않고는 못 견디는 모양이죠.
 [ENDBLOCK]
 점장
 [ENDBLOCK]
-저희 가게는 미성년자를 위해 우유도 판매하고 있습니다.
+저희 가게는 미성년자 분들을 위해,
+우유도 판매하고 있습니다.
 [ENDBLOCK]
 점장
 [ENDBLOCK]
-무사히 돌아오시면, 특별한 빈티지를 대접하겠습니다.
+무사히 돌아오시면, 특별한
+빈티지를 대접하겠습니다.
 [ENDBLOCK]
 마스터
 [ENDBLOCK]
-최근에 난폭한 병사를 못 봤네. 현실을 깨달은 걸까?
+최근에 난폭한 병사를 못 봤네.
+현실을 깨달은 걸까?
 [ENDBLOCK]
 점원
 [ENDBLOCK]
-이건 도시에서 유행하는 코스프레라는 영업 방식이에요.
+이건 도시에서 유행하는
+코스프레라는 영업 방식이에요.
 [ENDBLOCK]
 점원
 [ENDBLOCK]
-준비 중일 때는 보통 제복이 있어도 좋을 것 같은데.
+준비 중일 때는 그냥 평범한 유니폼을
+입어도 괜찮을 것 같은데.
 [ENDBLOCK]
 점원
 [ENDBLOCK]
-이런 곳에서 이런 차림, 하고 있을 때가 아닌 것 같지만……
+이런 곳에서 이런 복장을
+하고 있을 때가 아닌 것 같지만……
 [ENDBLOCK]
 점원
 [ENDBLOCK]
@@ -372,11 +412,13 @@
 [ENDBLOCK]
 점원
 [ENDBLOCK]
-성에서 렌즈를 매입해 준다는 게 정말이야?
+성에서 렌즈를 매입해
+준다는 게 정말이야?
 [ENDBLOCK]
 점원
 [ENDBLOCK]
-내 새 의상을 보고 싶다면, 꼭 이기고 돌아와야 해!
+내 새 의상을 보고 싶다면,
+꼭 이기고 돌아와야 해!
 [ENDBLOCK]
 알림
 [ENDBLOCK]
