@@ -53,7 +53,7 @@ select
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-오빠, 이자크 왕의 아들
+형은, 이자크 왕의 아들
 <Woodrow> 아니야?
 [ENDBLOCK]
 <Woodrow>
@@ -154,7 +154,7 @@ select
 아저씨
 [ENDBLOCK]
 매정하네요.
-아저씨 실망이에요.
+아가씨 실망이에요.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
