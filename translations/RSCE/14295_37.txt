@@ -380,7 +380,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-여기가 하이델베르크 도시인가……
+여기가 하이델베르크인가……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -390,7 +390,7 @@ select
 <Philia>
 [ENDBLOCK]
 마치 도시 전체가,
-상을 치르는 것 같아요……
+깊은 슬픔에 빠진 것 같아요……
 [ENDBLOCK]
 팬더리아 병사
 [ENDBLOCK]
