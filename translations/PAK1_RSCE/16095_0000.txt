@@ -12,10 +12,10 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 잘 부탁한다구.
 [ENDBLOCK]
-제 오빠가 나쁜 짓을 하면,
+저희 오빠가 나쁜 짓을 하면,
 저에게 말씀해 주세요.
 [ENDBLOCK]
-혼내드리겠습니다.
+혼내주겠습니다.
 [ENDBLOCK]
 체면 구겨졌네, <Stahn>.
 [ENDBLOCK]
