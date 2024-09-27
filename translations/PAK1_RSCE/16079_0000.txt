@@ -1,12 +1,12 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-이게 마지막 전투다.
+이것이 마지막 전투다.
 [ENDBLOCK]
-믹트란에게 이기고,
+믹트란을 이기고,
 우리의 세계를 되찾자!
 [ENDBLOCK]
