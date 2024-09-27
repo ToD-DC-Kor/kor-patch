@@ -33,7 +33,7 @@
 [ENDBLOCK]
 장신구점
 [ENDBLOCK]
-이런 때에 무슨 말인지 모르겠지만……
+이런 때에 뭐하는 짓인지 모르겠습니다만……
 [ENDBLOCK]
 장신구점
 [ENDBLOCK]
@@ -92,7 +92,7 @@
 <Darzen>
 [ENDBLOCK]
 그래도 한심한 건
-반란군 놈들이에요.
+반란군 놈들입니다.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
@@ -101,8 +101,8 @@
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-이제는 그자의 말대로
-마을에서 못된 짓만 하고 있어요!
+이제는 그자의 말을 따르며
+마을에서 나쁜 짓만 하고 있습니다!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
