@@ -1,6 +1,6 @@
 병사
 [ENDBLOCK]
-수상한 녀석들め!
+수상한 녀석들이다!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -8,20 +8,20 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-너희들, 대체 무슨 생각이야?
+너희들, 도대체 무슨 짓을 하는 거냐?
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-너희들! 	얌전히
-<Queen>을 돌려주면 봐주겠다!
+너희들! 얌전히 <Queen>를
+돌려주면 봐주겠다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-엥? 	<Queen>을 돌려준다고……?
+엥? <Queen>를 돌려달라고……?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-뭐라고!? 	<Queen>이
+뭐라고!? <Queen>가
 납치당했다고?
 [ENDBLOCK]
 세인가르드 병사
@@ -35,7 +35,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-그럼, 정말로 납치당한 건가요?
+그럼, 정말로 납치당한 건가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -50,13 +50,13 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-그렇군요, <Queen>을 납치했다는
-협박 편지가 있었군요……
+그렇군, <Queen>를 납치했다는
+협박 편지가 있었군……
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
 네…… 사실, 그 후로
-<Queen>의 모습을 본 사람이 아무도 없습니다.
+<Queen>님의 모습을 본 사람이 아무도 없습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -64,7 +64,7 @@
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-만약 정말로 <Queen>을 납치한 자가
+만약 정말 <Queen>를 납치한 자가
 있다면, 사람 눈에 띄지 않는 곳으로
 데려갔을 거야……
 [ENDBLOCK]
@@ -89,7 +89,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-아무래도 <Queen>을 데리고 국경을
+아무래도 <Queen>님을 데리고 국경을
 넘는 건 어려울 것 같습니다.
 [ENDBLOCK]
 세인가르드 병사
@@ -158,7 +158,7 @@
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-모두, 부탁드렸습니다.
+여러분, 부탁드립니다.
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
