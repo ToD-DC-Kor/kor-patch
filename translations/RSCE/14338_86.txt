@@ -59,8 +59,8 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 행상인
 [ENDBLOCK]
-하지만 팔 물건은 몰래
-숨겨두고 있을지도 모르죠.
+하지만 팔 물건은 살짝
+숨겨뒀다고 하면 어떨까요?
 [ENDBLOCK]
 행상인
 [ENDBLOCK]
