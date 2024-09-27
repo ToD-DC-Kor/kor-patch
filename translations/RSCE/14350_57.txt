@@ -409,7 +409,7 @@
 <Rutee>
 [ENDBLOCK]
 그럼 어쩔 수 없네. 
-이걸 세인가드로 가져가자.
+이걸 세인가르드로 가져가자.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
