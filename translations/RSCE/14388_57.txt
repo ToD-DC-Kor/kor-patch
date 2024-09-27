@@ -760,7 +760,7 @@ openflag -><x17><x71><x4A><x24><x80>
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-자, 이건 전별금이야.
+자, 이건 작별 선물이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -772,7 +772,7 @@ openflag -><x17><x71><x4A><x24><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아아.
+응.
 [ENDBLOCK]
 알림
 [ENDBLOCK]
