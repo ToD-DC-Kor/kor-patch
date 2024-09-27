@@ -397,8 +397,8 @@
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-하지만 결국 과반수를 이기지 못했어……
-의용군은 패배하고 동지들은 흩어졌지……
+하지만 결국 수적 열세였어……
+의용군은 패배하고, 동지들은 흩어지고 말았어……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -530,7 +530,7 @@
 <Philia>
 [ENDBLOCK]
 하이델베르크로 가죠.
-여기서 생각해봐야 시작도 못 해요.
+여기서 고민해 봐야 아무 소용 없어요.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
