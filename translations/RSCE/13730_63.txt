@@ -8,7 +8,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-으악! 뭔가, 나를 보고 있지 않아?
+으엑! 뭐야,
+날 보고 있는 거야?
 [ENDBLOCK]
 난폭한 병사
 [ENDBLOCK]
@@ -46,7 +47,8 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-하지만, <Lion>. 이 녀석들이……
+하지만, <Lion>.
+이 녀석들이……
 [ENDBLOCK]
 병사
 [ENDBLOCK]
