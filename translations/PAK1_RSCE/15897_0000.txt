@@ -1,25 +1,25 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-그런데, <Rutee>의 꿈은 뭐야?
+있잖아, <Rutee>의 꿈은 뭐야?
 [ENDBLOCK]
 음……
 [ENDBLOCK]
-귀여운 아내가 되는 거야.
+귀여운 신부가 되는 거지.
 [ENDBLOCK]
-와…!
+큭……!
 [ENDBLOCK]
-뭐… 뭘 그렇게 놀라워하는 거야, 딤로스.
+뭐……뭐 때문에 말문이 막힌 거야, 딤로스.
 [ENDBLOCK]
-……아무튼, 농담이었어.
+……뭐, 당연히 농담이지만.
 [ENDBLOCK]
 그렇구나……
 [ENDBLOCK]
 꿈이 이루어지면 좋겠다!
 [ENDBLOCK]
-……보통 믿고 있는 것 같아?
+……순순히 믿고 있는 것 같네?
 [ENDBLOCK]
