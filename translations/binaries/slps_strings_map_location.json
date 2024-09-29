@@ -1,0 +1,851 @@
+{
+    "SLPS": [
+        {
+            "offset": 1728232,
+            "string": "保険用A[END]",
+            "translation": "보험용A[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
+            "offset": 1728240,
+            "string": "戦闘汎用A[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "전투 범용 A[END]"
+        },
+        {
+            "offset": 1728256,
+            "string": "ねこにん基地A[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "고양이맨 기지 A[END]"
+        },
+        {
+            "offset": 1728272,
+            "string": "旅人の小屋A(夜)[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "여행자의 오두막 A(밤)[END]"
+        },
+        {
+            "offset": 1728288,
+            "string": "旅人の小屋A[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "여행자의 오두막 A[END]"
+        },
+        {
+            "offset": 1728304,
+            "string": "ＥＸダンジョンB[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "EX 던전 B[END]"
+        },
+        {
+            "offset": 1728320,
+            "string": "ＥＸダンジョンA[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "EX 던전 A[END]"
+        },
+        {
+            "offset": 1728336,
+            "string": "ダイクロフトB[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "다이크로프트 B[END]"
+        },
+        {
+            "offset": 1728352,
+            "string": "ダイクロフトA[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "다이크로프트 A[END]"
+        },
+        {
+            "offset": 1728368,
+            "string": "トラッシュマウンテンB[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "트래시 마운틴 B[END]"
+        },
+        {
+            "offset": 1728392,
+            "string": "トラッシュマウンテンA[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "트래시 마운틴 A[END]"
+        },
+        {
+            "offset": 1728416,
+            "string": "ジャンクランドA(夜)[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "정크랜드 A(밤)[END]"
+        },
+        {
+            "offset": 1728440,
+            "string": "ジャンクランドA[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "정크랜드 A[END]"
+        },
+        {
+            "offset": 1728456,
+            "string": "ソーディアン研究所B[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "소디언 연구소 B[END]"
+        },
+        {
+            "offset": 1728480,
+            "string": "ソーディアン研究所A[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "소디언 연구소 A[END]"
+        },
+        {
+            "offset": 1728504,
+            "string": "ベルクラントB[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "벨크란트 B[END]"
+        },
+        {
+            "offset": 1728520,
+            "string": "ベルクラントA[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "벨크란트 A[END]"
+        },
+        {
+            "offset": 1728536,
+            "string": "浮遊クルーザーA[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "부유 크루저 A[END]"
+        },
+        {
+            "offset": 1728552,
+            "string": "ミックハイルB[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "믹하일 B[END]"
+        },
+        {
+            "offset": 1728568,
+            "string": "ミックハイルA[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "믹하일 A[END]"
+        },
+        {
+            "offset": 1728584,
+            "string": "シュサイアB[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "슈사이아 B[END]"
+        },
+        {
+            "offset": 1728600,
+            "string": "シュサイアA[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "슈사이아 A[END]"
+        },
+        {
+            "offset": 1728616,
+            "string": "ヘルレイオスB[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "헬레오스 B[END]"
+        },
+        {
+            "offset": 1728632,
+            "string": "ヘルレイオスA[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "헬레오스 A[END]"
+        },
+        {
+            "offset": 1728648,
+            "string": "ロディオンB[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "로디온 B[END]"
+        },
+        {
+            "offset": 1728664,
+            "string": "ロディオンA[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "로디온 A[END]"
+        },
+        {
+            "offset": 1728680,
+            "string": "クラウディスB[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "클라우디스 B[END]"
+        },
+        {
+            "offset": 1728696,
+            "string": "クラウディスA[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "클라우디스 A[END]"
+        },
+        {
+            "offset": 1728712,
+            "string": "アンスズーンB[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "안스즌 B[END]"
+        },
+        {
+            "offset": 1728728,
+            "string": "アンスズーンA[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "안스즌 A[END]"
+        },
+        {
+            "offset": 1728744,
+            "string": "イグナシーB[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "이그나시 B[END]"
+        },
+        {
+            "offset": 1728760,
+            "string": "イグナシーA[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "이그나시 A[END]"
+        },
+        {
+            "offset": 1728776,
+            "string": "隠された神殿A[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "숨겨진 신전 A[END]"
+        },
+        {
+            "offset": 1728792,
+            "string": "海底洞窟B[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "해저 동굴 B[END]"
+        },
+        {
+            "offset": 1728808,
+            "string": "海底洞窟A[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "해저 동굴 A[END]"
+        },
+        {
+            "offset": 1728824,
+            "string": "オベロン秘密工場B[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "오베론 비밀 공장 B[END]"
+        },
+        {
+            "offset": 1728848,
+            "string": "オベロン秘密工場A[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "오베론 비밀 공장 A[END]"
+        },
+        {
+            "offset": 1728872,
+            "string": "クレスタA(夜)[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "클레스타 A(밤)[END]"
+        },
+        {
+            "offset": 1728888,
+            "string": "クレスタA[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "클레스타 A[END]"
+        },
+        {
+            "offset": 1728904,
+            "string": "リーネ(夜)[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "리네(밤)[END]"
+        },
+        {
+            "offset": 1728920,
+            "string": "リーネ[END]",
+            "translation": "리네[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1728928,
+            "string": "飛行竜セインガルド周りA[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "비행룡 세인갈드 주변 A[END]"
+        },
+        {
+            "offset": 1728952,
+            "string": "ハイデルベルグ城B(夜)[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 성B(밤)[END]"
+        },
+        {
+            "offset": 1728976,
+            "string": "ハイデルベルグ城A(夜)[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 성A(밤)[END]"
+        },
+        {
+            "offset": 1729000,
+            "string": "ハイデルベルグ城B[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 성B[END]"
+        },
+        {
+            "offset": 1729024,
+            "string": "ハイデルベルグ城A[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 성A[END]"
+        },
+        {
+            "offset": 1729048,
+            "string": "ハイデルベルグ地下通路B[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "하이델베르크 지하 통로B[END]"
+        },
+        {
+            "offset": 1729072,
+            "string": "ハイデルベルグ地下通路A[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "하이델베르크 지하 통로A[END]"
+        },
+        {
+            "offset": 1729096,
+            "string": "ハイデルベルグ街(夜)[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 거리(밤)[END]"
+        },
+        {
+            "offset": 1729120,
+            "string": "ハイデルベルグ街[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크 거리[END]"
+        },
+        {
+            "offset": 1729144,
+            "string": "サイリルA(夜)[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "사이릴A(밤)[END]"
+        },
+        {
+            "offset": 1729160,
+            "string": "サイリルA[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "사이릴A[END]"
+        },
+        {
+            "offset": 1729176,
+            "string": "ティルソの森B(夜)[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "틸소의 숲B(밤)[END]"
+        },
+        {
+            "offset": 1729200,
+            "string": "ティルソの森A(夜)[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "틸소의 숲A(밤)[END]"
+        },
+        {
+            "offset": 1729224,
+            "string": "ティルソの森B[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "틸소의 숲B[END]"
+        },
+        {
+            "offset": 1729240,
+            "string": "ティルソの森A[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "틸소의 숲A[END]"
+        },
+        {
+            "offset": 1729256,
+            "string": "スノーフリアA(夜)[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "스노우플리아A(밤)[END]"
+        },
+        {
+            "offset": 1729280,
+            "string": "スノーフリアA[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "스노우플리아A[END]"
+        },
+        {
+            "offset": 1729296,
+            "string": "トウケイ城B[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "토케이 성B[END]"
+        },
+        {
+            "offset": 1729312,
+            "string": "トウケイ城A[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "토케이 성A[END]"
+        },
+        {
+            "offset": 1729328,
+            "string": "トウケイ領A(夜)[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "토케이 영지A(밤)[END]"
+        },
+        {
+            "offset": 1729344,
+            "string": "トウケイ領A[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "토케이 영지A[END]"
+        },
+        {
+            "offset": 1729360,
+            "string": "モリュウ城B[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "모리우 성B[END]"
+        },
+        {
+            "offset": 1729376,
+            "string": "モリュウ城A[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "모리우 성A[END]"
+        },
+        {
+            "offset": 1729392,
+            "string": "モリュウ領A(夜)[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "모리우 영지A(밤)[END]"
+        },
+        {
+            "offset": 1729408,
+            "string": "モリュウ領A[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "모리우 영지A[END]"
+        },
+        {
+            "offset": 1729424,
+            "string": "シデン海底洞窟B[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "시덴 해저 동굴B[END]"
+        },
+        {
+            "offset": 1729440,
+            "string": "シデン海底洞窟A[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "시덴 해저 동굴A[END]"
+        },
+        {
+            "offset": 1729456,
+            "string": "シデン領A(夜)[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "시덴 영지A(밤)[END]"
+        },
+        {
+            "offset": 1729472,
+            "string": "シデン領A[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "시덴 영지A[END]"
+        },
+        {
+            "offset": 1729488,
+            "string": "海賊船B[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8,
+            "translation": "해적선B[END]"
+        },
+        {
+            "offset": 1729496,
+            "string": "海賊船A[END]",
+            "translation": "해적선A[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
+            "offset": 1729504,
+            "string": "闘技場A(夜)[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "투기장A(밤)[END]"
+        },
+        {
+            "offset": 1729520,
+            "string": "闘技場A[END]",
+            "translation": "투기장A[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
+            "offset": 1729528,
+            "string": "ノイシュタットA(夜)[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "노이슈타트A(밤)[END]"
+        },
+        {
+            "offset": 1729552,
+            "string": "ノイシュタットA[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "노이슈타트A[END]"
+        },
+        {
+            "offset": 1729568,
+            "string": "カルビオラ神殿B(夜)[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "까르비올라 신전B(밤)[END]"
+        },
+        {
+            "offset": 1729592,
+            "string": "カルビオラ神殿A(夜)[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "까르비올라 신전A(밤)[END]"
+        },
+        {
+            "offset": 1729616,
+            "string": "カルビオラ神殿B[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "까르비올라 신전B[END]"
+        },
+        {
+            "offset": 1729632,
+            "string": "カルビオラ神殿A[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "까르비올라 신전A[END]"
+        },
+        {
+            "offset": 1729648,
+            "string": "首都カルビオラA(夜)[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "수도 까르비올라A(밤)[END]"
+        },
+        {
+            "offset": 1729672,
+            "string": "首都カルビオラA[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "수도 까르비올라A[END]"
+        },
+        {
+            "offset": 1729688,
+            "string": "チェリクA(夜)[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "체리크A(밤)[END]"
+        },
+        {
+            "offset": 1729704,
+            "string": "チェリクA[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "체리크A[END]"
+        },
+        {
+            "offset": 1729720,
+            "string": "ラディスロウB[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "라디슬로우B[END]"
+        },
+        {
+            "offset": 1729736,
+            "string": "ラディスロウA[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "라디슬로우A[END]"
+        },
+        {
+            "offset": 1729752,
+            "string": "船A[END]",
+            "translation": "선박A[END]",
+            "original_bytes_length": 4,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1729760,
+            "string": "ストレイライズ神殿B(夜)[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "스트레이라이즈 신전B(밤)[END]"
+        },
+        {
+            "offset": 1729784,
+            "string": "ストレイライズ神殿B[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "스트레이라이즈 신전B[END]"
+        },
+        {
+            "offset": 1729808,
+            "string": "ストレイライズ神殿A(夜)[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "스트레이라이즈 신전A(밤)[END]"
+        },
+        {
+            "offset": 1729832,
+            "string": "ストレイライズ神殿A[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "스트레이라이즈 신전A[END]"
+        },
+        {
+            "offset": 1729856,
+            "string": "ストレイライズの森B(夜)[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "스트레이라이즈의 숲B(밤)[END]"
+        },
+        {
+            "offset": 1729880,
+            "string": "ストレイライズの森A(夜)[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "스트레이라이즈의 숲A(밤)[END]"
+        },
+        {
+            "offset": 1729904,
+            "string": "ストレイライズの森B[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "스트레이라이즈의 숲B[END]"
+        },
+        {
+            "offset": 1729928,
+            "string": "ストレイライズの森A[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "스트레이라이즈의 숲A[END]"
+        },
+        {
+            "offset": 1729952,
+            "string": "アルメイダA(夜)[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "알메이다A(밤)[END]"
+        },
+        {
+            "offset": 1729968,
+            "string": "アルメイダA[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "알메이다A[END]"
+        },
+        {
+            "offset": 1729984,
+            "string": "ダリルシェイドA(夜)[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "다릴쉐이드A(밤)[END]"
+        },
+        {
+            "offset": 1730008,
+            "string": "ダリルシェイドA[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "다릴쉐이드A[END]"
+        },
+        {
+            "offset": 1730024,
+            "string": "セインガルド城A(夜)[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "세인갈드 성A(밤)[END]"
+        },
+        {
+            "offset": 1730048,
+            "string": "セインガルド城A[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "세인갈드 성A[END]"
+        },
+        {
+            "offset": 1730064,
+            "string": "ハーメンツA(夜)[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "하멘츠A(밤)[END]"
+        },
+        {
+            "offset": 1730080,
+            "string": "ハーメンツA[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "하멘츠A[END]"
+        },
+        {
+            "offset": 1730096,
+            "string": "神殿A(夜)[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "신전A(밤)[END]"
+        },
+        {
+            "offset": 1730112,
+            "string": "神殿A[END]",
+            "translation": "신전A[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1730120,
+            "string": "神殿へと続く洞窟A(夜)[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "신전으로 이어지는 동굴A(밤)[END]"
+        },
+        {
+            "offset": 1730144,
+            "string": "神殿へと続く洞窟A[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "신전으로 이어지는 동굴A[END]"
+        },
+        {
+            "offset": 1730168,
+            "string": "ジェノスA(夜)[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "제노스A(밤)[END]"
+        },
+        {
+            "offset": 1730184,
+            "string": "ジェノスA[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "제노스A[END]"
+        },
+        {
+            "offset": 1730200,
+            "string": "ファンダリアの山道B(夜)[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "팬더리아의 산길B(밤)[END]"
+        },
+        {
+            "offset": 1730224,
+            "string": "ファンダリアの山道A(夜)[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "팬더리아의 산길A(밤)[END]"
+        },
+        {
+            "offset": 1730248,
+            "string": "ファンダリアの山道B[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "팬더리아의 산길B[END]"
+        },
+        {
+            "offset": 1730272,
+            "string": "ファンダリアの山道A[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "팬더리아의 산길A[END]"
+        },
+        {
+            "offset": 1730296,
+            "string": "トーンの山小屋・裏山B(夜)[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "톤의 산장・뒷산B(밤)[END]"
+        },
+        {
+            "offset": 1730328,
+            "string": "トーンの山小屋・裏山A(夜)[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "톤의 산장・뒷산A(밤)[END]"
+        },
+        {
+            "offset": 1730360,
+            "string": "トーンの山小屋・裏山B[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "톤의 산장・뒷산B[END]"
+        },
+        {
+            "offset": 1730384,
+            "string": "トーンの山小屋・裏山A[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "톤의 산장・뒷산A[END]"
+        },
+        {
+            "offset": 1730408,
+            "string": "トーンの山小屋(夜)[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "톤의 산장(밤)[END]"
+        },
+        {
+            "offset": 1730432,
+            "string": "トーンの山小屋[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "톤의 산장[END]"
+        },
+        {
+            "offset": 1730448,
+            "string": "飛行竜(夜)[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "비행룡(밤)[END]"
+        },
+        {
+            "offset": 1730464,
+            "string": "飛行竜[END]",
+            "translation": "비행룡[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        }
+    ]
+}
