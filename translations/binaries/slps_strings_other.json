@@ -2066,6 +2066,13 @@
             "translation": "노릴 적을 매번 바꾸며, 필드를[LINE]\n뛰어다닙니다.[END]"
         },
         {
+            "offset": 1708040,
+            "string": "走り回れ[END]",
+            "translation": "뛰어다녀라[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1708056,
             "string": "後退を控え、前進しながら[LINE]\n防御重視で敵の突破を防ぎます。[END]",
             "original_bytes_length": 56,
@@ -2197,6 +2204,13 @@
             "original_bytes_length": 44,
             "available_bytes_size": 47,
             "translation": "리더의 공격에 맞춰 공격을[LINE]\n시작합니다.[END]"
+        },
+        {
+            "offset": 1708712,
+            "string": "後に続け[END]",
+            "translation": "뒤를 따라[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
         },
         {
             "offset": 1708728,
@@ -2437,6 +2451,13 @@
             "translation": "어쨌든 돌진하라[END]"
         },
         {
+            "offset": 1710080,
+            "string": "CUPID[END]",
+            "translation": "CUPID[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1710088,
             "string": "ライフ１０％回復[END]",
             "original_bytes_length": 17,
@@ -2444,11 +2465,25 @@
             "translation": "생명 10% 회복[END]"
         },
         {
+            "offset": 1710112,
+            "string": "スタミナ[END]",
+            "translation": "스타미나[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1710128,
             "string": "最大HP＋1000[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
             "translation": "최대 HP +1000[END]"
+        },
+        {
+            "offset": 1710144,
+            "string": "セイント[END]",
+            "translation": "세인트[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
         },
         {
             "offset": 1710160,
@@ -2472,11 +2507,25 @@
             "translation": "전투 불능 상태에서 확률로 자동 부활[END]"
         },
         {
+            "offset": 1710240,
+            "string": "シールド[END]",
+            "translation": "쉴드[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1710256,
             "string": "クリティカルを受けなくなる[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
             "translation": "크리티컬을 받지 않게 된다[END]"
+        },
+        {
+            "offset": 1710288,
+            "string": "GETITEM[END]",
+            "translation": "GETITEM[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
         },
         {
             "offset": 1710304,
@@ -2493,6 +2542,13 @@
             "translation": "CC를 평균화한다[END]"
         },
         {
+            "offset": 1710360,
+            "string": "BONUSHEAL[END]",
+            "translation": "BONUSHEAL[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1710376,
             "string": "アイテムの回復量が[TAG_015]％上昇[END]",
             "original_bytes_length": 30,
@@ -2500,11 +2556,25 @@
             "translation": "아이템의 회복량이 [TAG_015]％ 증가[END]"
         },
         {
+            "offset": 1710408,
+            "string": "REDUSETIME[END]",
+            "translation": "REDUSETIME[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1710424,
             "string": "アイテム使用不可時間が[TAG_015]％減少[END]",
             "original_bytes_length": 34,
             "available_bytes_size": 39,
             "translation": "아이템 사용 불가 시간이 [TAG_015]％ 감소[END]"
+        },
+        {
+            "offset": 1710464,
+            "string": "FULLHEAL[END]",
+            "translation": "FULLHEAL[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
         },
         {
             "offset": 1710480,
@@ -2547,6 +2617,13 @@
             "original_bytes_length": 29,
             "available_bytes_size": 31,
             "translation": "차지가 서치 가드로 변한다[END]"
+        },
+        {
+            "offset": 1710672,
+            "string": "SUPPORTPLUS[END]",
+            "translation": "SUPPORTPLUS[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
         },
         {
             "offset": 1710688,
@@ -2626,11 +2703,25 @@
             "translation": "청파검: 대시 중에 마신검[END]"
         },
         {
+            "offset": 1711016,
+            "string": "CHARGEFOOD[END]",
+            "translation": "CHARGEFOOD[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1711032,
             "string": "一定時間でフードが回復する[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
             "translation": "일정 시간에 후드가 회복된다[END]"
+        },
+        {
+            "offset": 1711064,
+            "string": "PIYO[END]",
+            "translation": "PIYO[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7
         },
         {
             "offset": 1711072,
@@ -2654,6 +2745,13 @@
             "translation": "공유[END]"
         },
         {
+            "offset": 1711136,
+            "string": "SHAREHP[END]",
+            "translation": "SHAREHP[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1711152,
             "string": "回復晶術使用時に、術者もHP回復[END]",
             "original_bytes_length": 31,
@@ -2668,11 +2766,25 @@
             "translation": "공격할 때마다 HP 회복[END]"
         },
         {
+            "offset": 1711200,
+            "string": "EVADEDOWN[END]",
+            "translation": "EVADEDOWN[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1711216,
             "string": "回避率低下攻撃[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
             "translation": "회피율 저하 공격[END]"
+        },
+        {
+            "offset": 1711232,
+            "string": "HITRATEDOWN[END]",
+            "translation": "HITRATEDOWN[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
         },
         {
             "offset": 1711248,
@@ -2682,11 +2794,25 @@
             "translation": "명중률 저하 공격[END]"
         },
         {
+            "offset": 1711264,
+            "string": "RESISTDOWN[END]",
+            "translation": "RESISTDOWN[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1711280,
             "string": "術防御力低下攻撃[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "translation": "술 방어력 저하 공격[END]"
+        },
+        {
+            "offset": 1711304,
+            "string": "MINDDOWN[END]",
+            "translation": "MINDDOWN[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
         },
         {
             "offset": 1711320,
@@ -2696,11 +2822,25 @@
             "translation": "술 공격력 저하 공격[END]"
         },
         {
+            "offset": 1711344,
+            "string": "DEFENCEDOWN[END]",
+            "translation": "DEFENCEDOWN[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1711360,
             "string": "防御力低下攻撃[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
             "translation": "방어력 저하 공격[END]"
+        },
+        {
+            "offset": 1711376,
+            "string": "ATTACKDOWN[END]",
+            "translation": "ATTACKDOWN[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
         },
         {
             "offset": 1711392,
@@ -2785,6 +2925,13 @@
             "original_bytes_length": 11,
             "available_bytes_size": 15,
             "translation": "디아스[END]"
+        },
+        {
+            "offset": 1711664,
+            "string": "HIGHSPEED[END]",
+            "translation": "HIGHSPEED[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
         },
         {
             "offset": 1711680,
@@ -2906,6 +3053,13 @@
             "translation": "적의 물리 공격으로 인한 경화 시간을 줄인다[END]"
         },
         {
+            "offset": 1712112,
+            "string": "ブレス[END]",
+            "translation": "브레스[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1712120,
             "string": "晶術による敵硬化時間を延ばす[END]",
             "original_bytes_length": 29,
@@ -2913,11 +3067,25 @@
             "translation": "결정술로 적의 경화 시간을 늘린다[END]"
         },
         {
+            "offset": 1712152,
+            "string": "ヘヴィ[END]",
+            "translation": "헤비[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1712160,
             "string": "特技・術技による敵硬化時間を延ばす[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
             "translation": "특기・술기로 적의 경화 시간을 늘린다[END]"
+        },
+        {
+            "offset": 1712200,
+            "string": "GUARD[END]",
+            "translation": "GUARD[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7
         },
         {
             "offset": 1712208,
@@ -2934,11 +3102,32 @@
             "translation": "체이서[END]"
         },
         {
+            "offset": 1712272,
+            "string": "ADDCAPA[END]",
+            "translation": "ADDCAPA[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1712288,
             "string": "クリティカル時にCC＋[TAG_015][END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
             "translation": "크리티컬 시 CC＋[TAG_015][END]"
+        },
+        {
+            "offset": 1712320,
+            "string": "＊削除＊[END]",
+            "translation": "＊삭제＊[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1712336,
+            "string": "ADDSTUN[END]",
+            "translation": "ADDSTUN[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
         },
         {
             "offset": 1712352,
@@ -2960,6 +3149,13 @@
             "original_bytes_length": 20,
             "available_bytes_size": 23,
             "translation": "최대 CC를 [TAG_015] 늘린다[END]"
+        },
+        {
+            "offset": 1712432,
+            "string": "ライズ[END]",
+            "translation": "라이즈[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
         },
         {
             "offset": 1712440,
@@ -2997,6 +3193,13 @@
             "translation": "주어지는 데미지가 2배가 된다. 단, ...[END]"
         },
         {
+            "offset": 1712576,
+            "string": "CRUSH![END]",
+            "translation": "CRUSH![END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1712584,
             "string": "獲得経験値２倍。ただし・・・[END]",
             "original_bytes_length": 29,
@@ -3009,6 +3212,13 @@
             "original_bytes_length": 11,
             "available_bytes_size": 15,
             "translation": "텐션[END]"
+        },
+        {
+            "offset": 1712632,
+            "string": "GAINBLAST[END]",
+            "translation": "GAINBLAST[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
         },
         {
             "offset": 1712648,
@@ -3025,6 +3235,13 @@
             "translation": "래피드[END]"
         },
         {
+            "offset": 1712704,
+            "string": "GAINCAPA[END]",
+            "translation": "GAINCAPA[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1712720,
             "string": "敵を倒したときにＣＣ＋[TAG_015][END]",
             "original_bytes_length": 28,
@@ -3039,6 +3256,13 @@
             "translation": "게인[END]"
         },
         {
+            "offset": 1712760,
+            "string": "GAINHP[END]",
+            "translation": "GAINHP[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
             "offset": 1712768,
             "string": "敵を倒したときにHPが回復[END]",
             "original_bytes_length": 25,
@@ -3051,6 +3275,13 @@
             "original_bytes_length": 11,
             "available_bytes_size": 15,
             "translation": "레스큐[END]"
+        },
+        {
+            "offset": 1712816,
+            "string": "RESCURE[END]",
+            "translation": "RESCURE[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
         },
         {
             "offset": 1712824,
@@ -3081,11 +3312,25 @@
             "translation": "일정 시간마다 HP가 미량 회복된다[END]"
         },
         {
+            "offset": 1712936,
+            "string": "DESPELEFFECT[END]",
+            "translation": "DESPELEFFECT[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1712952,
             "string": "チャージ：減少効果を打ち消し[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
             "translation": "차지: 감소 효과를 무효화[END]"
+        },
+        {
+            "offset": 1712984,
+            "string": "CHARGEATTACK[END]",
+            "translation": "CHARGEATTACK[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
         },
         {
             "offset": 1713000,
@@ -3102,11 +3347,25 @@
             "translation": "차지: HP 회복[END]"
         },
         {
+            "offset": 1713056,
+            "string": "CHAINSUPPLY[END]",
+            "translation": "CHAINSUPPLY[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1713072,
             "string": "チャージ：味方のＣＣ増加[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
             "translation": "차지: 아군의 CC 증가[END]"
+        },
+        {
+            "offset": 1713104,
+            "string": "BLASTPLUS[END]",
+            "translation": "BLASTPLUS[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
         },
         {
             "offset": 1713120,
@@ -3116,11 +3375,25 @@
             "translation": "차지: 블라스트 게이지 추가[END]"
         },
         {
+            "offset": 1713152,
+            "string": "FLASH[END]",
+            "translation": "FLASH[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1713160,
             "string": "チャージ：短時間完全回避[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
             "translation": "차지: 짧은 시간 완전 회피[END]"
+        },
+        {
+            "offset": 1713192,
+            "string": "CHAINCAPA+1[END]",
+            "translation": "CHAINCAPA+1[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
         },
         {
             "offset": 1713208,
@@ -3130,11 +3403,25 @@
             "translation": "차지: CC가 1 추가[END]"
         },
         {
+            "offset": 1713232,
+            "string": "ALLCLEAR[END]",
+            "translation": "ALLCLEAR[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1713248,
             "string": "チャージ：確率で状態異常解除[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
             "translation": "차지: 확률로 상태 이상 해제[END]"
+        },
+        {
+            "offset": 1713280,
+            "string": "RESISTUP[END]",
+            "translation": "RESISTUP[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
         },
         {
             "offset": 1713296,
@@ -3144,11 +3431,25 @@
             "translation": "차지: 주술 방어력 상승[END]"
         },
         {
+            "offset": 1713320,
+            "string": "DEFENCEUP[END]",
+            "translation": "DEFENCEUP[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1713336,
             "string": "チャージ：防御力上昇[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
             "translation": "차지: 방어력 상승[END]"
+        },
+        {
+            "offset": 1713360,
+            "string": "MINDUP[END]",
+            "translation": "MINDUP[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
         },
         {
             "offset": 1713368,
@@ -3158,6 +3459,13 @@
             "translation": "차지: 주술 공격력 상승[END]"
         },
         {
+            "offset": 1713392,
+            "string": "ATTACKUP[END]",
+            "translation": "ATTACKUP[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1713408,
             "string": "チャージ：攻撃力上昇[END]",
             "original_bytes_length": 21,
@@ -3165,11 +3473,25 @@
             "translation": "차지: 공격력 상승[END]"
         },
         {
+            "offset": 1713432,
+            "string": "HEALHP[END]",
+            "translation": "HEALHP[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
             "offset": 1713440,
             "string": "フラッシュガードでＨＰ回復[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
             "translation": "플래시 가드로 HP 회복[END]"
+        },
+        {
+            "offset": 1713472,
+            "string": "PLUSCAPA[END]",
+            "translation": "PLUSCAPA[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
         },
         {
             "offset": 1713488,
@@ -3228,6 +3550,146 @@
             "translation": "땅 속성 경감[END]"
         },
         {
+            "offset": 1713632,
+            "string": "音波軽減[END]",
+            "translation": "음파경감[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713648,
+            "string": "射撃軽減[END]",
+            "translation": "사격경감[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713664,
+            "string": "打撃軽減[END]",
+            "translation": "타격경감[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713680,
+            "string": "斬撃軽減[END]",
+            "translation": "참격경감[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713696,
+            "string": "封印防止[END]",
+            "translation": "봉인방지[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713712,
+            "string": "マヒ防止[END]",
+            "translation": "마비방지[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713728,
+            "string": "睡眠防止[END]",
+            "translation": "수면방지[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713744,
+            "string": "熱毒防止[END]",
+            "translation": "열독방지[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713760,
+            "string": "衰弱防止[END]",
+            "translation": "쇠약방지[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713776,
+            "string": "石化防止[END]",
+            "translation": "석화방지[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713792,
+            "string": "停止攻撃[END]",
+            "translation": "정지공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713808,
+            "string": "小型攻撃[END]",
+            "translation": "소형공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713824,
+            "string": "シール[END]",
+            "translation": "쉘[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1713832,
+            "string": "封印攻撃[END]",
+            "translation": "봉인공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713848,
+            "string": "パラライ[END]",
+            "translation": "파라라이[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713864,
+            "string": "マヒ攻撃[END]",
+            "translation": "마비공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713880,
+            "string": "スリープ[END]",
+            "translation": "슬립[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713896,
+            "string": "睡眠攻撃[END]",
+            "translation": "수면공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713912,
+            "string": "ポイズン[END]",
+            "translation": "포이즌[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713928,
+            "string": "熱毒攻撃[END]",
+            "translation": "열독공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1713944,
             "string": "ウェイスト[END]",
             "original_bytes_length": 11,
@@ -3235,11 +3697,39 @@
             "translation": "웨이스트[END]"
         },
         {
+            "offset": 1713960,
+            "string": "衰弱攻撃[END]",
+            "translation": "쇠약공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713976,
+            "string": "ストーン[END]",
+            "translation": "스톤[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713992,
+            "string": "石化攻撃[END]",
+            "translation": "석화공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1714008,
             "string": "ヴァイタル[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
             "translation": "바이탈[END]"
+        },
+        {
+            "offset": 1714024,
+            "string": "体力＋[TAG_015][END]",
+            "translation": "체력＋[TAG_015][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
         },
         {
             "offset": 1714040,
@@ -3270,11 +3760,25 @@
             "translation": "회피율＋[TAG_015][END]"
         },
         {
+            "offset": 1714104,
+            "string": "ヒット[END]",
+            "translation": "히트[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1714112,
             "string": "命中率＋[TAG_015][END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
             "translation": "명중률＋[TAG_015][END]"
+        },
+        {
+            "offset": 1714128,
+            "string": "レジスト[END]",
+            "translation": "레지스트[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
         },
         {
             "offset": 1714144,
@@ -3298,11 +3802,25 @@
             "translation": "방어력＋[TAG_015][END]"
         },
         {
+            "offset": 1714192,
+            "string": "マインド[END]",
+            "translation": "마인드[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1714208,
             "string": "術攻撃力＋[TAG_015][END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
             "translation": "주술 공격력＋[TAG_015][END]"
+        },
+        {
+            "offset": 1714224,
+            "string": "アタック[END]",
+            "translation": "어택[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
         },
         {
             "offset": 1714240,
@@ -3823,6 +4341,13 @@
             "translation": "시덴 해저 동굴・통로[END]"
         },
         {
+            "offset": 1716544,
+            "string": "闘技場[END]",
+            "translation": "투기장[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1716552,
             "string": "カルビオラ神殿・地下牢[END]",
             "original_bytes_length": 23,
@@ -4339,6 +4864,20 @@
             "original_bytes_length": 24,
             "available_bytes_size": 24,
             "translation": "정크랜드 암모래 사막2[END]"
+        },
+        {
+            "offset": 1718736,
+            "string": "ジャンクランド・岩砂漠1[END]",
+            "translation": "정크랜드・암사막1[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1718760,
+            "string": "ジャンクランド・岩砂漠0[END]",
+            "translation": "정크랜드・암사막0[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
         },
         {
             "offset": 1718784,
@@ -4971,6 +5510,13 @@
             "translation": "침몰선 보스 전투[END]"
         },
         {
+            "offset": 1721256,
+            "string": "沈没船[END]",
+            "translation": "침몰선[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1721264,
             "string": "ミクトランイグゼシブ戦[END]",
             "original_bytes_length": 23,
@@ -5202,6 +5748,13 @@
             "translation": "슈사이아[END]"
         },
         {
+            "offset": 1722160,
+            "string": "イレーヌ[END]",
+            "translation": "일레느[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1722176,
             "string": "ヘルレイオス(後半)[END]",
             "original_bytes_length": 19,
@@ -5335,6 +5888,13 @@
             "translation": "리온 전투 2[END]"
         },
         {
+            "offset": 1722624,
+            "string": "海底洞窟[END]",
+            "translation": "해저동굴[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1722640,
             "string": "オベロン社秘密工場[END]",
             "original_bytes_length": 19,
@@ -5417,6 +5977,13 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "translation": "하이델베르크 성[END]"
+        },
+        {
+            "offset": 1723000,
+            "string": "ダリス戦[END]",
+            "translation": "다리스전[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
         },
         {
             "offset": 1723016,
@@ -5550,6 +6117,13 @@
             "original_bytes_length": 13,
             "available_bytes_size": 15,
             "translation": "해적선 (유리)[END]"
+        },
+        {
+            "offset": 1723400,
+            "string": "ボア戦[END]",
+            "translation": "보아전[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
         },
         {
             "offset": 1723408,
@@ -5699,6 +6273,20 @@
             "translation": "팬더리아 F1 (제노스 주변)[END]"
         },
         {
+            "offset": 1723984,
+            "string": "警備兵戦[END]",
+            "translation": "경비병전[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1724000,
+            "string": "神殿[END]",
+            "translation": "신전[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1724008,
             "string": "神殿へ続く洞窟[END]",
             "original_bytes_length": 15,
@@ -5718,6 +6306,27 @@
             "original_bytes_length": 25,
             "available_bytes_size": 31,
             "translation": "팬더리아의 산길 (전반)[END]"
+        },
+        {
+            "offset": 1724088,
+            "string": "飛行竜[END]",
+            "translation": "비행룡[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724096,
+            "string": "ウルフ戦[END]",
+            "translation": "울프전[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1724112,
+            "string": "任意選択[END]",
+            "translation": "임의선택[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
         },
         {
             "offset": 1724128,
@@ -5741,11 +6350,25 @@
             "translation": "정크랜드[END]"
         },
         {
+            "offset": 1724176,
+            "string": "リーネ[END]",
+            "translation": "리네[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1724184,
             "string": "ハイデルベルグ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
             "translation": "하이델베르크[END]"
+        },
+        {
+            "offset": 1724200,
+            "string": "サイリル[END]",
+            "translation": "사이릴[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
         },
         {
             "offset": 1724216,
@@ -5769,6 +6392,13 @@
             "translation": "모리유 영토[END]"
         },
         {
+            "offset": 1724264,
+            "string": "シデン領[END]",
+            "translation": "시덴령[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1724280,
             "string": "ノイシュタット[END]",
             "original_bytes_length": 15,
@@ -5781,6 +6411,13 @@
             "original_bytes_length": 11,
             "available_bytes_size": 15,
             "translation": "칼비오라[END]"
+        },
+        {
+            "offset": 1724312,
+            "string": "チェリク[END]",
+            "translation": "체리크[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
         },
         {
             "offset": 1724328,
@@ -5797,11 +6434,25 @@
             "translation": "다릴쉐이드[END]"
         },
         {
+            "offset": 1724360,
+            "string": "クレスタ[END]",
+            "translation": "크레스타[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1724376,
             "string": "ハーメンツ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
             "translation": "하멘츠[END]"
+        },
+        {
+            "offset": 1724392,
+            "string": "ジェノス[END]",
+            "translation": "제노스[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
         },
         {
             "offset": 1724408,
@@ -5872,6 +6523,13 @@
             "original_bytes_length": 9,
             "available_bytes_size": 15,
             "translation": "＋공격력[END]"
+        },
+        {
+            "offset": 1724584,
+            "string": "？[END]",
+            "translation": "？[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
         },
         {
             "offset": 1724592,
@@ -6000,6 +6658,13 @@
             "translation": "불정형[END]"
         },
         {
+            "offset": 1724824,
+            "string": "獣[END]",
+            "translation": "獣[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1724832,
             "string": "植物[END]",
             "original_bytes_length": 5,
@@ -6040,6 +6705,13 @@
             "original_bytes_length": 5,
             "available_bytes_size": 7,
             "translation": "불명[END]"
+        },
+        {
+            "offset": 1724888,
+            "string": "-PAUSE-[END]",
+            "translation": "-PAUSE-[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
         },
         {
             "offset": 1724896,
@@ -6096,6 +6768,83 @@
             "original_bytes_length": 5,
             "available_bytes_size": 7,
             "translation": "석화[END]"
+        },
+        {
+            "offset": 1724960,
+            "string": "--[END]",
+            "translation": "--[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724968,
+            "string": "闇[END]",
+            "translation": "闇[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724976,
+            "string": "光[END]",
+            "translation": "光[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724984,
+            "string": "風[END]",
+            "translation": "風[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724992,
+            "string": "火[END]",
+            "translation": "火[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1725000,
+            "string": "水[END]",
+            "translation": "水[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1725008,
+            "string": "地[END]",
+            "translation": "地[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1725016,
+            "string": "音[END]",
+            "translation": "音[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1725024,
+            "string": "射[END]",
+            "translation": "射[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1725032,
+            "string": "打[END]",
+            "translation": "打[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1725040,
+            "string": "斬[END]",
+            "translation": "斬[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
         },
         {
             "offset": 1725048,
@@ -6201,6 +6950,13 @@
             "original_bytes_length": 11,
             "available_bytes_size": 11,
             "translation": "딤로스[END]"
+        },
+        {
+            "offset": 1728232,
+            "string": "保険用A[END]",
+            "translation": "보험용A[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
         },
         {
             "offset": 1728240,
@@ -6476,6 +7232,13 @@
             "translation": "리네(밤)[END]"
         },
         {
+            "offset": 1728920,
+            "string": "リーネ[END]",
+            "translation": "리네[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1728928,
             "string": "飛行竜セインガルド周りA[END]",
             "original_bytes_length": 24,
@@ -6679,11 +7442,25 @@
             "translation": "시덴 영지A[END]"
         },
         {
+            "offset": 1729496,
+            "string": "海賊船A[END]",
+            "translation": "해적선A[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
             "offset": 1729504,
             "string": "闘技場A(夜)[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
             "translation": "투기장A(밤)[END]"
+        },
+        {
+            "offset": 1729520,
+            "string": "闘技場A[END]",
+            "translation": "투기장A[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
         },
         {
             "offset": 1729528,
@@ -6768,6 +7545,13 @@
             "original_bytes_length": 14,
             "available_bytes_size": 15,
             "translation": "라디슬로우A[END]"
+        },
+        {
+            "offset": 1729752,
+            "string": "船A[END]",
+            "translation": "선박A[END]",
+            "original_bytes_length": 4,
+            "available_bytes_size": 7
         },
         {
             "offset": 1729760,
@@ -6889,6 +7673,13 @@
             "translation": "신전A(밤)[END]"
         },
         {
+            "offset": 1730112,
+            "string": "神殿A[END]",
+            "translation": "신전A[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1730120,
             "string": "神殿へと続く洞窟A(夜)[END]",
             "original_bytes_length": 22,
@@ -6994,11 +7785,25 @@
             "translation": "비행룡(밤)[END]"
         },
         {
+            "offset": 1730464,
+            "string": "飛行竜[END]",
+            "translation": "비행룡[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1730672,
             "string": "ジェノスの街とトーンの山小屋を結ぶ[LINE]\n雪の降り積もった山道。[END]",
             "original_bytes_length": 58,
             "available_bytes_size": 63,
             "translation": "제노스의 마을과 톤의 산막을 연결하는[LINE]\n눈이 쌓인 산길.[END]"
+        },
+        {
+            "offset": 1730736,
+            "string": "PhandariaPass[END]",
+            "translation": "PhandariaPass[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15
         },
         {
             "offset": 1730752,
@@ -7015,6 +7820,13 @@
             "translation": "생태 금속 벨세리움으로 만들어진[LINE]\n수송 시설.[END]"
         },
         {
+            "offset": 1730824,
+            "string": "LuminaDraconis[END]",
+            "translation": "LuminaDraconis[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
             "offset": 1730840,
             "string": "飛行竜[END]",
             "original_bytes_length": 12,
@@ -7027,6 +7839,13 @@
             "original_bytes_length": 37,
             "available_bytes_size": 39,
             "translation": "음식 주머니 만들기를 극복한 자가 사는 암자.[END]"
+        },
+        {
+            "offset": 1730896,
+            "string": "FoodSackMaster'sHermitage[END]",
+            "translation": "FoodSackMaster'sHermitage[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31
         },
         {
             "offset": 1730928,
@@ -7043,6 +7862,13 @@
             "translation": "여행하는 자가 휴식에 들르는 작은 집.[LINE]\n여기에서는 신비한 만남이 있을지도 모른다.[END]"
         },
         {
+            "offset": 1731024,
+            "string": "Traveler'sLodge[END]",
+            "translation": "Traveler'sLodge[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23
+        },
+        {
             "offset": 1731048,
             "string": "旅人の小屋[END]",
             "original_bytes_length": 12,
@@ -7055,6 +7881,13 @@
             "original_bytes_length": 81,
             "available_bytes_size": 87,
             "translation": "지하 깊숙이 있는 지상군의 연구 시설.[LINE]\n벨클란트의 포격으로 지하에서[LINE]\n모습을 드러냈다.[END]"
+        },
+        {
+            "offset": 1731152,
+            "string": "SwordianR&DLab[END]",
+            "translation": "SwordianR&DLab[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23
         },
         {
             "offset": 1731176,
@@ -7071,6 +7904,13 @@
             "translation": "산 정상에 있는 숲.[LINE]\n신전으로 향하는 길이기 때문에, 신전 관계자가 아닌 사람들이[LINE]\n이용하는 모습을 볼 기회는 적다.[END]"
         },
         {
+            "offset": 1731304,
+            "string": "StraylizeForest[END]",
+            "translation": "StraylizeForest[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23
+        },
+        {
             "offset": 1731328,
             "string": "ストレイライズの森[END]",
             "original_bytes_length": 19,
@@ -7083,6 +7923,13 @@
             "original_bytes_length": 41,
             "available_bytes_size": 47,
             "translation": "팬더리아 동부와 서부를 잇는 눈이 깊은 숲.[END]"
+        },
+        {
+            "offset": 1731400,
+            "string": "TilsoForest[END]",
+            "translation": "TilsoForest[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
         },
         {
             "offset": 1731416,
@@ -7106,6 +7953,13 @@
             "translation": "시덴령과 모리유령을 잇는 해저 동굴.[END]"
         },
         {
+            "offset": 1731496,
+            "string": "SeaCave[END]",
+            "translation": "SeaCave[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1731512,
             "string": "海底洞窟(モリュウ領)[END]",
             "original_bytes_length": 21,
@@ -7118,6 +7972,13 @@
             "original_bytes_length": 78,
             "available_bytes_size": 79,
             "translation": "피츠갈드의 남부에 있는 신흥 도시.[LINE]\n투기장에서는 낮과 밤에 격렬한 전투가 이어지고 있다.[END]"
+        },
+        {
+            "offset": 1731616,
+            "string": "Noischtat[END]",
+            "translation": "Noischtat[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
         },
         {
             "offset": 1731632,
@@ -7134,6 +7995,13 @@
             "translation": "아쿠아베일의 서부에 위치한[LINE]\n모리유 가문이 다스리는 영내의 도시.[END]"
         },
         {
+            "offset": 1731712,
+            "string": "Moreau[END]",
+            "translation": "Moreau[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1731720,
             "string": "モリュウ領[END]",
             "original_bytes_length": 11,
@@ -7146,6 +8014,13 @@
             "original_bytes_length": 56,
             "available_bytes_size": 56,
             "translation": "아쿠아베일의 남부에 위치한[LINE]\n토케이 가문이 다스리는 영내의 도시.[END]"
+        },
+        {
+            "offset": 1731792,
+            "string": "Toukei[END]",
+            "translation": "Toukei[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
         },
         {
             "offset": 1731800,
@@ -7162,6 +8037,13 @@
             "translation": "아쿠아베일의 북부에 위치한[LINE]\n시덴 가문이 다스리는 영내의 도시.[END]"
         },
         {
+            "offset": 1731872,
+            "string": "Shiden[END]",
+            "translation": "Shiden[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1731880,
             "string": "シデン領[END]",
             "original_bytes_length": 9,
@@ -7174,6 +8056,13 @@
             "original_bytes_length": 85,
             "available_bytes_size": 87,
             "translation": "팬더리아의 동부에 위치한 항구 도시.[LINE]\n온천이 있어, 다른 나라에서도 요양을 목적으로[LINE]\n관광객이 방문함.[END]"
+        },
+        {
+            "offset": 1731984,
+            "string": "Snowfreer[END]",
+            "translation": "Snowfreer[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
         },
         {
             "offset": 1732000,
@@ -7190,6 +8079,13 @@
             "translation": "팬더리아의 남부에 위치한 도시.[LINE]\n2년 전 왕가의 군대가 파견되어 도시는 전장이 되었지만,[LINE]\n현재는 복구를 이루고 있다.[END]"
         },
         {
+            "offset": 1732128,
+            "string": "Cyril[END]",
+            "translation": "Cyril[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1732136,
             "string": "サイリルの街[END]",
             "original_bytes_length": 13,
@@ -7202,6 +8098,13 @@
             "original_bytes_length": 87,
             "available_bytes_size": 87,
             "translation": "숲 깊숙이 정돈되어 있는 신전.[LINE]\n신전으로만이 아니라 연구 시설로서의[LINE]\n역할도 맡고 있다.[END]"
+        },
+        {
+            "offset": 1732240,
+            "string": "StraylizeTemple[END]",
+            "translation": "StraylizeTemple[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23
         },
         {
             "offset": 1732264,
@@ -7218,6 +8121,13 @@
             "translation": "세인갈드의 북부에 있는 마을.[LINE]\n스트레이라이스 신전으로의 순례자가 들르는[LINE]\n휴식의 마을.[END]"
         },
         {
+            "offset": 1732368,
+            "string": "Armeida[END]",
+            "translation": "Armeida[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
             "offset": 1732376,
             "string": "アルメイダの村[END]",
             "original_bytes_length": 15,
@@ -7230,6 +8140,13 @@
             "original_bytes_length": 70,
             "available_bytes_size": 71,
             "translation": "세인갈드의 서부에 위치한 마을.[LINE]\n소박한 마을에는 어울리지 않는 큰 저택이 있다.[END]"
+        },
+        {
+            "offset": 1732464,
+            "string": "Harmentz[END]",
+            "translation": "Harmentz[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
         },
         {
             "offset": 1732480,
@@ -7246,6 +8163,13 @@
             "translation": "한때 용명으로 이름을 날렸던 배.[LINE]\n현재는 바다 깊숙이 가라앉아,[LINE]\n그 존재를 아는 자는 없다.[END]"
         },
         {
+            "offset": 1732576,
+            "string": "Radislowe[END]",
+            "translation": "Radislowe[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1732592,
             "string": "ラディスロウ[END]",
             "original_bytes_length": 13,
@@ -7258,6 +8182,13 @@
             "original_bytes_length": 97,
             "available_bytes_size": 103,
             "translation": "칼바레이스의 서부에 위치한 도시.[LINE]\n퇴적된 아주 오래된 산업 폐기물의 산을 재활용하여[LINE]\n생활하는 사람들이 살고 있다.[END]"
+        },
+        {
+            "offset": 1732712,
+            "string": "Junkland[END]",
+            "translation": "Junkland[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
         },
         {
             "offset": 1732728,
@@ -7274,6 +8205,13 @@
             "translation": "칼바레이스의 수도.[LINE]\n상점의 처마에는 밤이 되면 다채로운[LINE]\n네온사인이 빛난다.[END]"
         },
         {
+            "offset": 1732832,
+            "string": "Kalviola[END]",
+            "translation": "Kalviola[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1732848,
             "string": "首都カルビオラ[END]",
             "original_bytes_length": 15,
@@ -7286,6 +8224,13 @@
             "original_bytes_length": 107,
             "available_bytes_size": 111,
             "translation": "칼바레이스의 남부에 위치한 항구 도시.[LINE]\n엄격한 환경의 칼바레이스에 있어[LINE]\n타국의 물자가 보급될 수 있는 항구는, 생명선이다.[END]"
+        },
+        {
+            "offset": 1732976,
+            "string": "Cherik[END]",
+            "translation": "Cherik[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
         },
         {
             "offset": 1732984,
@@ -7302,6 +8247,13 @@
             "translation": "피츠갈드의 북부 내만에 위치한 유적.[END]"
         },
         {
+            "offset": 1733048,
+            "string": "TheHiddenTemple[END]",
+            "translation": "TheHiddenTemple[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
             "offset": 1733072,
             "string": "隠された神殿[END]",
             "original_bytes_length": 14,
@@ -7314,6 +8266,13 @@
             "original_bytes_length": 72,
             "available_bytes_size": 72,
             "translation": "피츠갈드의 북부에 위치한 마을.[LINE]\n거의 모든 마을 주민이 농업과 목축을 하고 있다.[END]"
+        },
+        {
+            "offset": 1733160,
+            "string": "Leane[END]",
+            "translation": "Leane[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7
         },
         {
             "offset": 1733168,
@@ -7330,6 +8289,13 @@
             "translation": "세인갈드의 북동 해역에 세워진[LINE]\n오베론사의 공장.[LINE]\n현재는 폐쇄되어 있다.[END]"
         },
         {
+            "offset": 1733264,
+            "string": "Oberon'sHiddenFactory[END]",
+            "translation": "Oberon'sHiddenFactory[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
             "offset": 1733288,
             "string": "オベロン秘密工場[END]",
             "original_bytes_length": 18,
@@ -7342,6 +8308,13 @@
             "original_bytes_length": 79,
             "available_bytes_size": 79,
             "translation": "세인갈드의 동부에 위치한 도시.[LINE]\n교외의 도시답게, 느긋한 시간이[LINE]\n흘러가고 있다.[END]"
+        },
+        {
+            "offset": 1733392,
+            "string": "Cresta[END]",
+            "translation": "Cresta[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
         },
         {
             "offset": 1733400,
@@ -7358,6 +8331,13 @@
             "translation": "세인갈드의 수도.[LINE]\n정비된 성곽 마을은 사람들로 북적이고 있다.[END]"
         },
         {
+            "offset": 1733480,
+            "string": "Darilsheid[END]",
+            "translation": "Darilsheid[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1733496,
             "string": "首都ダリルシェイド[END]",
             "original_bytes_length": 19,
@@ -7370,6 +8350,13 @@
             "original_bytes_length": 83,
             "available_bytes_size": 87,
             "translation": "팬더리아의 수도.[LINE]\n정비된 거리 위에 쌓인 눈이[LINE]\n사람들의 소란을 흡수해준다.[END]"
+        },
+        {
+            "offset": 1733608,
+            "string": "Heidelberg[END]",
+            "translation": "Heidelberg[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
         },
         {
             "offset": 1733624,
@@ -7386,6 +8373,13 @@
             "translation": "팬더리아의 북부에 위치한 국경 도시.[LINE]\n제노스를 경계로 남쪽은 팬더리아,[LINE]\n북쪽은 세인갈드의 영토로 나뉘어 있다.[END]"
         },
         {
+            "offset": 1733760,
+            "string": "Janos[END]",
+            "translation": "Janos[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7
+        },
+        {
             "offset": 1733768,
             "string": "国境の街ジェノス[END]",
             "original_bytes_length": 17,
@@ -7398,6 +8392,13 @@
             "original_bytes_length": 60,
             "available_bytes_size": 63,
             "translation": "눈 덮인 산림에 위치한 오두막.[LINE]\n궁술의 명수 알바 톤이 은거하고 있다.[END]"
+        },
+        {
+            "offset": 1733856,
+            "string": "Torn'sCabin[END]",
+            "translation": "Torn'sCabin[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
         },
         {
             "offset": 1733872,
@@ -7414,6 +8415,13 @@
             "translation": "라디슬로우가 있었던 장소를[LINE]\n렌즈포로 쏘아 뚫린 구멍.[LINE]\n지상과 외각 대지를 연결하는 유일하고 희망의 길.[END]"
         },
         {
+            "offset": 1734000,
+            "string": "Holetotheground[END]",
+            "translation": "Holetotheground[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23
+        },
+        {
             "offset": 1734024,
             "string": "地上への穴[END]",
             "original_bytes_length": 13,
@@ -7426,6 +8434,13 @@
             "original_bytes_length": 41,
             "available_bytes_size": 47,
             "translation": "외각에 도착한 고양이맨이 만든 기지.[END]"
+        },
+        {
+            "offset": 1734088,
+            "string": "Nekonin'sBase[END]",
+            "translation": "Nekonin'sBase[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15
         },
         {
             "offset": 1734104,
@@ -7442,6 +8457,13 @@
             "translation": "공중 도시 군의 가장 중요한 거점.[LINE]\n다이크로프트에 있는 신의 눈에 의해[LINE]\n모든 공중 도시의 기능이 제어되고 있다.[END]"
         },
         {
+            "offset": 1734224,
+            "string": "Dycroft[END]",
+            "translation": "Dycroft[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
             "offset": 1734232,
             "string": "ダイクロフト[END]",
             "original_bytes_length": 13,
@@ -7456,11 +8478,25 @@
             "translation": "공중 도시 군 중에서도 중요한 거점 중 하나.[LINE]\n수호용의 제어 시설이 있다.[END]"
         },
         {
+            "offset": 1734320,
+            "string": "Cloudius[END]",
+            "translation": "Cloudius[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1734336,
             "string": "クラウディス[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
             "translation": "클라우디스[END]"
+        },
+        {
+            "offset": 1734352,
+            "string": "Anszoon[END]",
+            "translation": "Anszoon[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
         },
         {
             "offset": 1734360,
@@ -7477,11 +8513,25 @@
             "translation": "공중 도시 군 중에서도 중요한 거점 중 하나.[LINE]\n천상의 군대의 기술 연구 시설이 있다.[END]"
         },
         {
+            "offset": 1734448,
+            "string": "Helraios[END]",
+            "translation": "Helraios[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
             "offset": 1734464,
             "string": "ヘルレイオス[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
             "translation": "헬레리오스[END]"
+        },
+        {
+            "offset": 1734480,
+            "string": "Rodeon[END]",
+            "translation": "Rodeon[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
         },
         {
             "offset": 1734488,
@@ -7498,6 +8548,13 @@
             "translation": "공중 도시 군을 공중으로 연결하고 있었던[LINE]\n부유 크루저가 있다.[END]"
         },
         {
+            "offset": 1734560,
+            "string": "Mikheil[END]",
+            "translation": "Mikheil[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
             "offset": 1734568,
             "string": "ミックハイル[END]",
             "original_bytes_length": 13,
@@ -7512,6 +8569,13 @@
             "translation": "이그나시와 전송 장치로 연결된[LINE]\n공중 도시 중 하나.[END]"
         },
         {
+            "offset": 1734640,
+            "string": "Shusaia[END]",
+            "translation": "Shusaia[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
             "offset": 1734648,
             "string": "シュサイア[END]",
             "original_bytes_length": 11,
@@ -7524,6 +8588,13 @@
             "original_bytes_length": 85,
             "available_bytes_size": 87,
             "translation": "라디슬로우에서 가장 가까운 공중 도시.[LINE]\n공중 도시끼리 연결하는 전송 장치의[LINE]\n터미널이 있다.[END]"
+        },
+        {
+            "offset": 1734752,
+            "string": "Ignasea[END]",
+            "translation": "Ignasea[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
         },
         {
             "offset": 1734760,
@@ -9136,6 +10207,76 @@
             "translation": "[yellow]소디언 디바이스[/color]란 [yellow]디바이스[/color]를 설정함으로써 [LINE]\n소디언의 능력을 강화할 수 있는 기능입니다.[END]"
         },
         {
+            "offset": 1768696,
+            "string": "[Sign_Apple_Gel]アップルグミ[END]",
+            "translation": "[Sign_Apple_Gel]사과젤리[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1772000,
+            "string": "[Sign_2]スリープ[END]",
+            "translation": "[Sign_2]슬립[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1772016,
+            "string": "ＨＰが減少していく状態異常[LINE]\n「熱毒」を防止する宝石。[LINE]\n[END]",
+            "translation": "HP가 감소하는 상태이상[LINE]\n「열독」을 방지하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1772072,
+            "string": "[Sign_2]ポイズン[END]",
+            "translation": "[Sign_2]포이즌[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1780944,
+            "string": "[Sign_Sword]ディムロス[END]",
+            "translation": "[Sign_Sword]딤로스[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1793728,
+            "string": "[Sign_Shield]レザーアーマー[END]",
+            "translation": "[Sign_Shield]레더 아머[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1803248,
+            "string": "[Sign_1]レザーガントレット[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_1]레더 건틀렛[END]"
+        },
+        {
+            "offset": 1810968,
+            "string": "[Sign_3]おにぎり[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]주먹밥[END]"
+        },
+        {
+            "offset": 1810984,
+            "string": "[Sign_Key]天地神明の石版・明[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_Key]천지신명 석판・명[END]"
+        },
+        {
+            "offset": 1811008,
+            "string": "[Sign_Key]天地神明の石版・神[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_Key]천지신명 석판・신[END]"
+        },
+        {
             "offset": 1814560,
             "string": "白晶[END]",
             "original_bytes_length": 5,
@@ -9206,6 +10347,20 @@
             "translation": "주문 제작[END]"
         },
         {
+            "offset": 1814720,
+            "string": "機能美[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "기능미[END]"
+        },
+        {
+            "offset": 1814728,
+            "string": "秘密兵器[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "비밀병기[END]"
+        },
+        {
             "offset": 1814744,
             "string": "コレクター[END]",
             "original_bytes_length": 11,
@@ -9218,6 +10373,13 @@
             "original_bytes_length": 15,
             "available_bytes_size": 15,
             "translation": "균형 상승[END]"
+        },
+        {
+            "offset": 1814776,
+            "string": "にゃも[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "냐모[END]"
         },
         {
             "offset": 1814784,
@@ -9255,11 +10417,46 @@
             "translation": "꽃 화관[END]"
         },
         {
+            "offset": 1814864,
+            "string": "なかよし[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "친구[END]"
+        },
+        {
             "offset": 1814880,
             "string": "にわとり館[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
             "translation": "닭집[END]"
+        },
+        {
+            "offset": 1814896,
+            "string": "安息角[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "안식각[END]"
+        },
+        {
+            "offset": 1814904,
+            "string": "商売根性[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "장사 근성[END]"
+        },
+        {
+            "offset": 1814920,
+            "string": "雪国支店[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "눈나라 지점[END]"
+        },
+        {
+            "offset": 1814936,
+            "string": "永劫回帰[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "영겁회귀[END]"
         },
         {
             "offset": 1814952,
@@ -9290,11 +10487,144 @@
             "translation": "파벤트[END]"
         },
         {
+            "offset": 1815016,
+            "string": "氷大河[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "얼음 대하[END]"
+        },
+        {
+            "offset": 1815024,
+            "string": "硝子の森[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "유리의 숲[END]"
+        },
+        {
+            "offset": 1815040,
+            "string": "雪解け水[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "눈녹은 물[END]"
+        },
+        {
+            "offset": 1815056,
+            "string": "雪景色[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "눈경치[END]"
+        },
+        {
+            "offset": 1815064,
+            "string": "雪月花[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "설월화[END]"
+        },
+        {
+            "offset": 1815072,
+            "string": "雪迷宮[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "눈미궁[END]"
+        },
+        {
+            "offset": 1815080,
+            "string": "雪割草[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "눈갈래꽃[END]"
+        },
+        {
+            "offset": 1815088,
+            "string": "非常口[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "비상구[END]"
+        },
+        {
+            "offset": 1815096,
+            "string": "花鳥風月[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "화조풍월[END]"
+        },
+        {
+            "offset": 1815112,
+            "string": "大器晩成[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "대기만성[END]"
+        },
+        {
+            "offset": 1815128,
+            "string": "武陵桃源[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "무릉도원[END]"
+        },
+        {
+            "offset": 1815144,
+            "string": "明鏡止水[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "명경지수[END]"
+        },
+        {
+            "offset": 1815160,
+            "string": "うまい屋[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "맛있는 집[END]"
+        },
+        {
+            "offset": 1815176,
+            "string": "名称未定[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "이름 미정[END]"
+        },
+        {
+            "offset": 1815192,
+            "string": "彩の色[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "다양한 색[END]"
+        },
+        {
+            "offset": 1815200,
+            "string": "海神[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "바다의 신[END]"
+        },
+        {
+            "offset": 1815208,
+            "string": "水月花[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "수월화[END]"
+        },
+        {
             "offset": 1815216,
             "string": "やどかり堂[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
             "translation": "게 하우스[END]"
+        },
+        {
+            "offset": 1815232,
+            "string": "家内安全[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "가내 안전[END]"
+        },
+        {
+            "offset": 1815248,
+            "string": "黄金郷[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "황금의 고향[END]"
         },
         {
             "offset": 1815256,
@@ -9304,11 +10634,32 @@
             "translation": "오리엔트[END]"
         },
         {
+            "offset": 1815272,
+            "string": "けもの道[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "짐승의 길[END]"
+        },
+        {
+            "offset": 1815288,
+            "string": "船上出張[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "배 위 출장[END]"
+        },
+        {
             "offset": 1815304,
             "string": "西大陸支店[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
             "translation": "서대륙 지점[END]"
+        },
+        {
+            "offset": 1815320,
+            "string": "銀の糸[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "은의 실[END]"
         },
         {
             "offset": 1815328,
@@ -9325,11 +10676,60 @@
             "translation": "주고받기[END]"
         },
         {
+            "offset": 1815368,
+            "string": "満腹亭[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "포만정[END]"
+        },
+        {
+            "offset": 1815376,
+            "string": "北西支店[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "북서 지점[END]"
+        },
+        {
             "offset": 1815392,
             "string": "シルクロード[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
             "translation": "실크로드[END]"
+        },
+        {
+            "offset": 1815408,
+            "string": "月の砂漠[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "달의 사막[END]"
+        },
+        {
+            "offset": 1815424,
+            "string": "月夜道[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "달밤 길[END]"
+        },
+        {
+            "offset": 1815432,
+            "string": "元気一発[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "힘차게 한 방[END]"
+        },
+        {
+            "offset": 1815448,
+            "string": "砂の嵐[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "모래 폭풍[END]"
+        },
+        {
+            "offset": 1815456,
+            "string": "オアシス[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "오아시스[END]"
         },
         {
             "offset": 1815472,
@@ -9353,6 +10753,13 @@
             "translation": "라이트닝[END]"
         },
         {
+            "offset": 1815520,
+            "string": "旅人の友[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "여행자의 친구[END]"
+        },
+        {
             "offset": 1815536,
             "string": "腹ごしらえ[END]",
             "original_bytes_length": 11,
@@ -9360,11 +10767,81 @@
             "translation": "배를 채우기[END]"
         },
         {
+            "offset": 1815552,
+            "string": "中央本店[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "중앙 본점[END]"
+        },
+        {
+            "offset": 1815568,
+            "string": "自分自身[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "자신[END]"
+        },
+        {
+            "offset": 1815584,
+            "string": "騎士勲章[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "기사 훈장[END]"
+        },
+        {
+            "offset": 1815600,
+            "string": "七将軍[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "칠장군[END]"
+        },
+        {
+            "offset": 1815608,
+            "string": "天下太平[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "천하태평[END]"
+        },
+        {
+            "offset": 1815624,
+            "string": "ピッコロ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "피콜로[END]"
+        },
+        {
+            "offset": 1815640,
+            "string": "白騎士[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "백기사[END]"
+        },
+        {
+            "offset": 1815648,
+            "string": "極楽鳥[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "극락조[END]"
+        },
+        {
+            "offset": 1815656,
+            "string": "いっぷく[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "일푸크[END]"
+        },
+        {
             "offset": 1815672,
             "string": "サイグローグ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
             "translation": "사이그로그[END]"
+        },
+        {
+            "offset": 1815688,
+            "string": "スノイ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "스노이[END]"
         },
         {
             "offset": 1815696,
@@ -9577,6 +11054,20 @@
             "translation": "제노스[END]"
         },
         {
+            "offset": 1816104,
+            "string": "闇鍋[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "어둠전골[END]"
+        },
+        {
+            "offset": 1816112,
+            "string": "闇丼[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "어둠덮밥[END]"
+        },
+        {
             "offset": 1816120,
             "string": "半生ケバブ[END]",
             "original_bytes_length": 11,
@@ -9589,6 +11080,13 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "translation": "축축한 브리또[END]"
+        },
+        {
+            "offset": 1816160,
+            "string": "炭ドッグ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "숯불핫도그[END]"
         },
         {
             "offset": 1816176,
@@ -9633,6 +11131,20 @@
             "translation": "망둥어 꼬치구이[END]"
         },
         {
+            "offset": 1816304,
+            "string": "魚鍋[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "생선전골[END]"
+        },
+        {
+            "offset": 1816312,
+            "string": "肉鍋[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "육전골[END]"
+        },
+        {
             "offset": 1816320,
             "string": "フルーツとうふ[END]",
             "original_bytes_length": 15,
@@ -9654,6 +11166,27 @@
             "translation": "과일 파르페[END]"
         },
         {
+            "offset": 1816368,
+            "string": "舟盛り[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "배접시[END]"
+        },
+        {
+            "offset": 1816376,
+            "string": "お刺身[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "생선회[END]"
+        },
+        {
+            "offset": 1816384,
+            "string": "すき焼き[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "스키야키[END]"
+        },
+        {
             "offset": 1816400,
             "string": "お好み焼き[END]",
             "original_bytes_length": 11,
@@ -9661,11 +11194,32 @@
             "translation": "오코노미야키[END]"
         },
         {
+            "offset": 1816416,
+            "string": "ステーキ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "스테이크[END]"
+        },
+        {
             "offset": 1816432,
             "string": "ハンバーグ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
             "translation": "햄버그[END]"
+        },
+        {
+            "offset": 1816448,
+            "string": "グラスパ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "그라스파[END]"
+        },
+        {
+            "offset": 1816464,
+            "string": "グラタン[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "그라탱[END]"
         },
         {
             "offset": 1816480,
@@ -9682,6 +11236,13 @@
             "translation": "비프 스트로가노프[END]"
         },
         {
+            "offset": 1816520,
+            "string": "リゾット[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "리조또[END]"
+        },
+        {
             "offset": 1816536,
             "string": "クラムチャウダー[END]",
             "original_bytes_length": 17,
@@ -9689,11 +11250,67 @@
             "translation": "클램 차우더[END]"
         },
         {
+            "offset": 1816560,
+            "string": "海鮮丼[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "해산물덮밥[END]"
+        },
+        {
+            "offset": 1816568,
+            "string": "親子丼[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "오야코돈[END]"
+        },
+        {
+            "offset": 1816576,
+            "string": "牛丼[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "규동[END]"
+        },
+        {
+            "offset": 1816584,
+            "string": "ロコモコ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "로코모코[END]"
+        },
+        {
+            "offset": 1816600,
+            "string": "肉まん[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "육만[END]"
+        },
+        {
+            "offset": 1816608,
+            "string": "キムチ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "김치[END]"
+        },
+        {
+            "offset": 1816616,
+            "string": "マフィン[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "머핀[END]"
+        },
+        {
             "offset": 1816632,
             "string": "オリエンタルライス[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "translation": "오리엔탈 라이스[END]"
+        },
+        {
+            "offset": 1816656,
+            "string": "パエリア[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "빠에야[END]"
         },
         {
             "offset": 1816672,
@@ -9724,11 +11341,39 @@
             "translation": "볶음밥[END]"
         },
         {
+            "offset": 1816736,
+            "string": "お茶漬け[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "차즈케[END]"
+        },
+        {
+            "offset": 1816752,
+            "string": "一夜漬け[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "하룻밤 절임[END]"
+        },
+        {
             "offset": 1816768,
             "string": "いなり寿司[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
             "translation": "이나리 스시[END]"
+        },
+        {
+            "offset": 1816784,
+            "string": "ケバブ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "케밥[END]"
+        },
+        {
+            "offset": 1816792,
+            "string": "ブリトー[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "브리또[END]"
         },
         {
             "offset": 1816808,
@@ -9750,6 +11395,13 @@
             "original_bytes_length": 13,
             "available_bytes_size": 15,
             "translation": "샌드위치[END]"
+        },
+        {
+            "offset": 1816864,
+            "string": "おにぎり[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "주먹밥[END]"
         },
         {
             "offset": 1816880,
@@ -10331,6 +11983,13 @@
             "original_bytes_length": 97,
             "available_bytes_size": 103,
             "translation": "기상천외한 플레이 스타일로,[LINE]\n전무후무한 전설로 승화된다.[LINE]\nHDRX는 사람들을 매료시키는 최강의 증거.[END]"
+        },
+        {
+            "offset": 1820056,
+            "string": "[Johnny]HDRX[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Johnny]HDRX[END]"
         },
         {
             "offset": 1820072,
@@ -12179,1665 +13838,6 @@
             "original_bytes_length": 9,
             "available_bytes_size": 15,
             "translation": "특수효과[END]"
-        },
-        {
-            "offset": 1708712,
-            "string": "後に続け[END]",
-            "translation": "뒤를 따라[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1708040,
-            "string": "走り回れ[END]",
-            "translation": "뛰어다녀라[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1714224,
-            "string": "アタック[END]",
-            "translation": "어택[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1714192,
-            "string": "マインド[END]",
-            "translation": "마인드[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1714128,
-            "string": "レジスト[END]",
-            "translation": "레지스트[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1714104,
-            "string": "ヒット[END]",
-            "translation": "히트[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1714024,
-            "string": "体力＋[TAG_015][END]",
-            "translation": "체력＋[TAG_015][END]",
-            "original_bytes_length": 12,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713992,
-            "string": "石化攻撃[END]",
-            "translation": "석화공격[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713976,
-            "string": "ストーン[END]",
-            "translation": "스톤[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713960,
-            "string": "衰弱攻撃[END]",
-            "translation": "쇠약공격[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713928,
-            "string": "熱毒攻撃[END]",
-            "translation": "열독공격[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713912,
-            "string": "ポイズン[END]",
-            "translation": "포이즌[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713896,
-            "string": "睡眠攻撃[END]",
-            "translation": "수면공격[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713880,
-            "string": "スリープ[END]",
-            "translation": "슬립[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713864,
-            "string": "マヒ攻撃[END]",
-            "translation": "마비공격[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713848,
-            "string": "パラライ[END]",
-            "translation": "파라라이[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713832,
-            "string": "封印攻撃[END]",
-            "translation": "봉인공격[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713824,
-            "string": "シール[END]",
-            "translation": "쉘[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1713808,
-            "string": "小型攻撃[END]",
-            "translation": "소형공격[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713792,
-            "string": "停止攻撃[END]",
-            "translation": "정지공격[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713776,
-            "string": "石化防止[END]",
-            "translation": "석화방지[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713760,
-            "string": "衰弱防止[END]",
-            "translation": "쇠약방지[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713744,
-            "string": "熱毒防止[END]",
-            "translation": "열독방지[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713728,
-            "string": "睡眠防止[END]",
-            "translation": "수면방지[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713712,
-            "string": "マヒ防止[END]",
-            "translation": "마비방지[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713696,
-            "string": "封印防止[END]",
-            "translation": "봉인방지[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713680,
-            "string": "斬撃軽減[END]",
-            "translation": "참격경감[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713664,
-            "string": "打撃軽減[END]",
-            "translation": "타격경감[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713648,
-            "string": "射撃軽減[END]",
-            "translation": "사격경감[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713632,
-            "string": "音波軽減[END]",
-            "translation": "음파경감[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713472,
-            "string": "PLUSCAPA[END]",
-            "translation": "PLUSCAPA[END]",
-            "original_bytes_length": 10,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713432,
-            "string": "HEALHP[END]",
-            "translation": "HEALHP[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1713392,
-            "string": "ATTACKUP[END]",
-            "translation": "ATTACKUP[END]",
-            "original_bytes_length": 10,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713360,
-            "string": "MINDUP[END]",
-            "translation": "MINDUP[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1713320,
-            "string": "DEFENCEUP[END]",
-            "translation": "DEFENCEUP[END]",
-            "original_bytes_length": 11,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713280,
-            "string": "RESISTUP[END]",
-            "translation": "RESISTUP[END]",
-            "original_bytes_length": 10,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713232,
-            "string": "ALLCLEAR[END]",
-            "translation": "ALLCLEAR[END]",
-            "original_bytes_length": 10,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713192,
-            "string": "CHAINCAPA+1[END]",
-            "translation": "CHAINCAPA+1[END]",
-            "original_bytes_length": 14,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713152,
-            "string": "FLASH[END]",
-            "translation": "FLASH[END]",
-            "original_bytes_length": 6,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1713104,
-            "string": "BLASTPLUS[END]",
-            "translation": "BLASTPLUS[END]",
-            "original_bytes_length": 11,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1713056,
-            "string": "CHAINSUPPLY[END]",
-            "translation": "CHAINSUPPLY[END]",
-            "original_bytes_length": 13,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1712984,
-            "string": "CHARGEATTACK[END]",
-            "translation": "CHARGEATTACK[END]",
-            "original_bytes_length": 14,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1712936,
-            "string": "DESPELEFFECT[END]",
-            "translation": "DESPELEFFECT[END]",
-            "original_bytes_length": 14,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1712816,
-            "string": "RESCURE[END]",
-            "translation": "RESCURE[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1712760,
-            "string": "GAINHP[END]",
-            "translation": "GAINHP[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1712704,
-            "string": "GAINCAPA[END]",
-            "translation": "GAINCAPA[END]",
-            "original_bytes_length": 10,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1712632,
-            "string": "GAINBLAST[END]",
-            "translation": "GAINBLAST[END]",
-            "original_bytes_length": 11,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1712576,
-            "string": "CRUSH![END]",
-            "translation": "CRUSH![END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1712432,
-            "string": "ライズ[END]",
-            "translation": "라이즈[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1712336,
-            "string": "ADDSTUN[END]",
-            "translation": "ADDSTUN[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1712320,
-            "string": "＊削除＊[END]",
-            "translation": "＊삭제＊[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1712272,
-            "string": "ADDCAPA[END]",
-            "translation": "ADDCAPA[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1712200,
-            "string": "GUARD[END]",
-            "translation": "GUARD[END]",
-            "original_bytes_length": 6,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1712152,
-            "string": "ヘヴィ[END]",
-            "translation": "헤비[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1712112,
-            "string": "ブレス[END]",
-            "translation": "브레스[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1711664,
-            "string": "HIGHSPEED[END]",
-            "translation": "HIGHSPEED[END]",
-            "original_bytes_length": 11,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1711376,
-            "string": "ATTACKDOWN[END]",
-            "translation": "ATTACKDOWN[END]",
-            "original_bytes_length": 12,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1711344,
-            "string": "DEFENCEDOWN[END]",
-            "translation": "DEFENCEDOWN[END]",
-            "original_bytes_length": 13,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1711304,
-            "string": "MINDDOWN[END]",
-            "translation": "MINDDOWN[END]",
-            "original_bytes_length": 10,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1711264,
-            "string": "RESISTDOWN[END]",
-            "translation": "RESISTDOWN[END]",
-            "original_bytes_length": 12,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1711232,
-            "string": "HITRATEDOWN[END]",
-            "translation": "HITRATEDOWN[END]",
-            "original_bytes_length": 13,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1711200,
-            "string": "EVADEDOWN[END]",
-            "translation": "EVADEDOWN[END]",
-            "original_bytes_length": 11,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1711136,
-            "string": "SHAREHP[END]",
-            "translation": "SHAREHP[END]",
-            "original_bytes_length": 10,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1711064,
-            "string": "PIYO[END]",
-            "translation": "PIYO[END]",
-            "original_bytes_length": 5,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1711016,
-            "string": "CHARGEFOOD[END]",
-            "translation": "CHARGEFOOD[END]",
-            "original_bytes_length": 13,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1710672,
-            "string": "SUPPORTPLUS[END]",
-            "translation": "SUPPORTPLUS[END]",
-            "original_bytes_length": 13,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1710464,
-            "string": "FULLHEAL[END]",
-            "translation": "FULLHEAL[END]",
-            "original_bytes_length": 11,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1710408,
-            "string": "REDUSETIME[END]",
-            "translation": "REDUSETIME[END]",
-            "original_bytes_length": 13,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1710360,
-            "string": "BONUSHEAL[END]",
-            "translation": "BONUSHEAL[END]",
-            "original_bytes_length": 12,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1710288,
-            "string": "GETITEM[END]",
-            "translation": "GETITEM[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1710240,
-            "string": "シールド[END]",
-            "translation": "쉴드[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1710144,
-            "string": "セイント[END]",
-            "translation": "세인트[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1710112,
-            "string": "スタミナ[END]",
-            "translation": "스타미나[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1710080,
-            "string": "CUPID[END]",
-            "translation": "CUPID[END]",
-            "original_bytes_length": 6,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1724392,
-            "string": "ジェノス[END]",
-            "translation": "제노스[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1724360,
-            "string": "クレスタ[END]",
-            "translation": "크레스타[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1724312,
-            "string": "チェリク[END]",
-            "translation": "체리크[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1724264,
-            "string": "シデン領[END]",
-            "translation": "시덴령[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1724200,
-            "string": "サイリル[END]",
-            "translation": "사이릴[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1724176,
-            "string": "リーネ[END]",
-            "translation": "리네[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1724112,
-            "string": "任意選択[END]",
-            "translation": "임의선택[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1724096,
-            "string": "ウルフ戦[END]",
-            "translation": "울프전[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1724088,
-            "string": "飛行竜[END]",
-            "translation": "비행룡[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1724000,
-            "string": "神殿[END]",
-            "translation": "신전[END]",
-            "original_bytes_length": 5,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1723984,
-            "string": "警備兵戦[END]",
-            "translation": "경비병전[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1723400,
-            "string": "ボア戦[END]",
-            "translation": "보아전[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1723000,
-            "string": "ダリス戦[END]",
-            "translation": "다리스전[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1722624,
-            "string": "海底洞窟[END]",
-            "translation": "해저동굴[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1722160,
-            "string": "イレーヌ[END]",
-            "translation": "일레느[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1721256,
-            "string": "沈没船[END]",
-            "translation": "침몰선[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1718760,
-            "string": "ジャンクランド・岩砂漠0[END]",
-            "translation": "정크랜드・암사막0[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24
-        },
-        {
-            "offset": 1718736,
-            "string": "ジャンクランド・岩砂漠1[END]",
-            "translation": "정크랜드・암사막1[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24
-        },
-        {
-            "offset": 1716544,
-            "string": "闘技場[END]",
-            "translation": "투기장[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1725040,
-            "string": "斬[END]",
-            "translation": "斬[END]",
-            "original_bytes_length": 3,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1725032,
-            "string": "打[END]",
-            "translation": "打[END]",
-            "original_bytes_length": 3,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1725024,
-            "string": "射[END]",
-            "translation": "射[END]",
-            "original_bytes_length": 3,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1725016,
-            "string": "音[END]",
-            "translation": "音[END]",
-            "original_bytes_length": 3,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1725008,
-            "string": "地[END]",
-            "translation": "地[END]",
-            "original_bytes_length": 3,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1725000,
-            "string": "水[END]",
-            "translation": "水[END]",
-            "original_bytes_length": 3,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1724992,
-            "string": "火[END]",
-            "translation": "火[END]",
-            "original_bytes_length": 3,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1724984,
-            "string": "風[END]",
-            "translation": "風[END]",
-            "original_bytes_length": 3,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1724976,
-            "string": "光[END]",
-            "translation": "光[END]",
-            "original_bytes_length": 3,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1724968,
-            "string": "闇[END]",
-            "translation": "闇[END]",
-            "original_bytes_length": 3,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1724960,
-            "string": "--[END]",
-            "translation": "--[END]",
-            "original_bytes_length": 3,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1724888,
-            "string": "-PAUSE-[END]",
-            "translation": "-PAUSE-[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1724824,
-            "string": "獣[END]",
-            "translation": "獣[END]",
-            "original_bytes_length": 3,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1724584,
-            "string": "？[END]",
-            "translation": "？[END]",
-            "original_bytes_length": 3,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1730464,
-            "string": "飛行竜[END]",
-            "translation": "비행룡[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1730112,
-            "string": "神殿A[END]",
-            "translation": "신전A[END]",
-            "original_bytes_length": 6,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1729752,
-            "string": "船A[END]",
-            "translation": "선박A[END]",
-            "original_bytes_length": 4,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1729520,
-            "string": "闘技場A[END]",
-            "translation": "투기장A[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1729496,
-            "string": "海賊船A[END]",
-            "translation": "해적선A[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1728920,
-            "string": "リーネ[END]",
-            "translation": "리네[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1728232,
-            "string": "保険用A[END]",
-            "translation": "보험용A[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1733856,
-            "string": "Torn'sCabin[END]",
-            "translation": "Torn'sCabin[END]",
-            "original_bytes_length": 13,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1733760,
-            "string": "Janos[END]",
-            "translation": "Janos[END]",
-            "original_bytes_length": 6,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1733608,
-            "string": "Heidelberg[END]",
-            "translation": "Heidelberg[END]",
-            "original_bytes_length": 11,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1733480,
-            "string": "Darilsheid[END]",
-            "translation": "Darilsheid[END]",
-            "original_bytes_length": 11,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1733392,
-            "string": "Cresta[END]",
-            "translation": "Cresta[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1733264,
-            "string": "Oberon'sHiddenFactory[END]",
-            "translation": "Oberon'sHiddenFactory[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24
-        },
-        {
-            "offset": 1733160,
-            "string": "Leane[END]",
-            "translation": "Leane[END]",
-            "original_bytes_length": 6,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1733048,
-            "string": "TheHiddenTemple[END]",
-            "translation": "TheHiddenTemple[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23
-        },
-        {
-            "offset": 1732976,
-            "string": "Cherik[END]",
-            "translation": "Cherik[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1732832,
-            "string": "Kalviola[END]",
-            "translation": "Kalviola[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1732712,
-            "string": "Junkland[END]",
-            "translation": "Junkland[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1732576,
-            "string": "Radislowe[END]",
-            "translation": "Radislowe[END]",
-            "original_bytes_length": 10,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1732464,
-            "string": "Harmentz[END]",
-            "translation": "Harmentz[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1732368,
-            "string": "Armeida[END]",
-            "translation": "Armeida[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1732240,
-            "string": "StraylizeTemple[END]",
-            "translation": "StraylizeTemple[END]",
-            "original_bytes_length": 17,
-            "available_bytes_size": 23
-        },
-        {
-            "offset": 1732128,
-            "string": "Cyril[END]",
-            "translation": "Cyril[END]",
-            "original_bytes_length": 6,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1731984,
-            "string": "Snowfreer[END]",
-            "translation": "Snowfreer[END]",
-            "original_bytes_length": 10,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1731872,
-            "string": "Shiden[END]",
-            "translation": "Shiden[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1731792,
-            "string": "Toukei[END]",
-            "translation": "Toukei[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1731712,
-            "string": "Moreau[END]",
-            "translation": "Moreau[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1731616,
-            "string": "Noischtat[END]",
-            "translation": "Noischtat[END]",
-            "original_bytes_length": 10,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1731496,
-            "string": "SeaCave[END]",
-            "translation": "SeaCave[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1731400,
-            "string": "TilsoForest[END]",
-            "translation": "TilsoForest[END]",
-            "original_bytes_length": 13,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1731304,
-            "string": "StraylizeForest[END]",
-            "translation": "StraylizeForest[END]",
-            "original_bytes_length": 17,
-            "available_bytes_size": 23
-        },
-        {
-            "offset": 1731152,
-            "string": "SwordianR&DLab[END]",
-            "translation": "SwordianR&DLab[END]",
-            "original_bytes_length": 17,
-            "available_bytes_size": 23
-        },
-        {
-            "offset": 1731024,
-            "string": "Traveler'sLodge[END]",
-            "translation": "Traveler'sLodge[END]",
-            "original_bytes_length": 17,
-            "available_bytes_size": 23
-        },
-        {
-            "offset": 1730896,
-            "string": "FoodSackMaster'sHermitage[END]",
-            "translation": "FoodSackMaster'sHermitage[END]",
-            "original_bytes_length": 29,
-            "available_bytes_size": 31
-        },
-        {
-            "offset": 1730824,
-            "string": "LuminaDraconis[END]",
-            "translation": "LuminaDraconis[END]",
-            "original_bytes_length": 16,
-            "available_bytes_size": 16
-        },
-        {
-            "offset": 1730736,
-            "string": "PhandariaPass[END]",
-            "translation": "PhandariaPass[END]",
-            "original_bytes_length": 15,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1734752,
-            "string": "Ignasea[END]",
-            "translation": "Ignasea[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1734640,
-            "string": "Shusaia[END]",
-            "translation": "Shusaia[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1734560,
-            "string": "Mikheil[END]",
-            "translation": "Mikheil[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1734480,
-            "string": "Rodeon[END]",
-            "translation": "Rodeon[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7
-        },
-        {
-            "offset": 1734448,
-            "string": "Helraios[END]",
-            "translation": "Helraios[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1734352,
-            "string": "Anszoon[END]",
-            "translation": "Anszoon[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1734320,
-            "string": "Cloudius[END]",
-            "translation": "Cloudius[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1734224,
-            "string": "Dycroft[END]",
-            "translation": "Dycroft[END]",
-            "original_bytes_length": 8,
-            "available_bytes_size": 8
-        },
-        {
-            "offset": 1734088,
-            "string": "Nekonin'sBase[END]",
-            "translation": "Nekonin'sBase[END]",
-            "original_bytes_length": 15,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1734000,
-            "string": "Holetotheground[END]",
-            "translation": "Holetotheground[END]",
-            "original_bytes_length": 19,
-            "available_bytes_size": 23
-        },
-        {
-            "offset": 1768696,
-            "string": "[Sign_Apple_Gel]アップルグミ[END]",
-            "translation": "[Sign_Apple_Gel]사과젤리[END]",
-            "original_bytes_length": 18,
-            "available_bytes_size": 23
-        },
-        {
-            "offset": 1772072,
-            "string": "[Sign_2]ポイズン[END]",
-            "translation": "[Sign_2]포이즌[END]",
-            "original_bytes_length": 14,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1772016,
-            "string": "ＨＰが減少していく状態異常[LINE]\n「熱毒」を防止する宝石。[LINE]\n[END]",
-            "translation": "HP가 감소하는 상태이상[LINE]\n「열독」을 방지하는 보석.[LINE]\n[END]",
-            "original_bytes_length": 53,
-            "available_bytes_size": 55
-        },
-        {
-            "offset": 1772000,
-            "string": "[Sign_2]スリープ[END]",
-            "translation": "[Sign_2]슬립[END]",
-            "original_bytes_length": 14,
-            "available_bytes_size": 15
-        },
-        {
-            "offset": 1780944,
-            "string": "[Sign_Sword]ディムロス[END]",
-            "translation": "[Sign_Sword]딤로스[END]",
-            "original_bytes_length": 16,
-            "available_bytes_size": 16
-        },
-        {
-            "offset": 1793728,
-            "string": "[Sign_Shield]レザーアーマー[END]",
-            "translation": "[Sign_Shield]레더 아머[END]",
-            "original_bytes_length": 20,
-            "available_bytes_size": 23
-        },
-        {
-            "offset": 1803248,
-            "string": "[Sign_1]レザーガントレット[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_1]레더 건틀렛[END]"
-        },
-        {
-            "offset": 1810968,
-            "string": "[Sign_3]おにぎり[END]",
-            "original_bytes_length": 14,
-            "available_bytes_size": 15,
-            "translation": "[Sign_3]주먹밥[END]"
-        },
-        {
-            "offset": 1811008,
-            "string": "[Sign_Key]天地神明の石版・神[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_Key]천지신명 석판・신[END]"
-        },
-        {
-            "offset": 1810984,
-            "string": "[Sign_Key]天地神明の石版・明[END]",
-            "original_bytes_length": 24,
-            "available_bytes_size": 24,
-            "translation": "[Sign_Key]천지신명 석판・명[END]"
-        },
-        {
-            "offset": 1815688,
-            "string": "スノイ[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "스노이[END]"
-        },
-        {
-            "offset": 1815656,
-            "string": "いっぷく[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "일푸크[END]"
-        },
-        {
-            "offset": 1815648,
-            "string": "極楽鳥[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "극락조[END]"
-        },
-        {
-            "offset": 1815640,
-            "string": "白騎士[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "백기사[END]"
-        },
-        {
-            "offset": 1815624,
-            "string": "ピッコロ[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "피콜로[END]"
-        },
-        {
-            "offset": 1815608,
-            "string": "天下太平[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "천하태평[END]"
-        },
-        {
-            "offset": 1815600,
-            "string": "七将軍[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "칠장군[END]"
-        },
-        {
-            "offset": 1815584,
-            "string": "騎士勲章[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "기사 훈장[END]"
-        },
-        {
-            "offset": 1815568,
-            "string": "自分自身[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "자신[END]"
-        },
-        {
-            "offset": 1815552,
-            "string": "中央本店[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "중앙 본점[END]"
-        },
-        {
-            "offset": 1815520,
-            "string": "旅人の友[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "여행자의 친구[END]"
-        },
-        {
-            "offset": 1815456,
-            "string": "オアシス[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "오아시스[END]"
-        },
-        {
-            "offset": 1815448,
-            "string": "砂の嵐[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "모래 폭풍[END]"
-        },
-        {
-            "offset": 1815432,
-            "string": "元気一発[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "힘차게 한 방[END]"
-        },
-        {
-            "offset": 1815424,
-            "string": "月夜道[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "달밤 길[END]"
-        },
-        {
-            "offset": 1815408,
-            "string": "月の砂漠[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "달의 사막[END]"
-        },
-        {
-            "offset": 1815376,
-            "string": "北西支店[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "북서 지점[END]"
-        },
-        {
-            "offset": 1815368,
-            "string": "満腹亭[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "포만정[END]"
-        },
-        {
-            "offset": 1815320,
-            "string": "銀の糸[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "은의 실[END]"
-        },
-        {
-            "offset": 1815288,
-            "string": "船上出張[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "배 위 출장[END]"
-        },
-        {
-            "offset": 1815272,
-            "string": "けもの道[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "짐승의 길[END]"
-        },
-        {
-            "offset": 1815248,
-            "string": "黄金郷[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "황금의 고향[END]"
-        },
-        {
-            "offset": 1815232,
-            "string": "家内安全[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "가내 안전[END]"
-        },
-        {
-            "offset": 1815208,
-            "string": "水月花[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "수월화[END]"
-        },
-        {
-            "offset": 1815200,
-            "string": "海神[END]",
-            "original_bytes_length": 5,
-            "available_bytes_size": 7,
-            "translation": "바다의 신[END]"
-        },
-        {
-            "offset": 1815192,
-            "string": "彩の色[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "다양한 색[END]"
-        },
-        {
-            "offset": 1815176,
-            "string": "名称未定[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "이름 미정[END]"
-        },
-        {
-            "offset": 1815160,
-            "string": "うまい屋[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "맛있는 집[END]"
-        },
-        {
-            "offset": 1815144,
-            "string": "明鏡止水[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "명경지수[END]"
-        },
-        {
-            "offset": 1815128,
-            "string": "武陵桃源[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "무릉도원[END]"
-        },
-        {
-            "offset": 1815112,
-            "string": "大器晩成[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "대기만성[END]"
-        },
-        {
-            "offset": 1815096,
-            "string": "花鳥風月[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "화조풍월[END]"
-        },
-        {
-            "offset": 1815088,
-            "string": "非常口[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "비상구[END]"
-        },
-        {
-            "offset": 1815080,
-            "string": "雪割草[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "눈갈래꽃[END]"
-        },
-        {
-            "offset": 1815072,
-            "string": "雪迷宮[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "눈미궁[END]"
-        },
-        {
-            "offset": 1815064,
-            "string": "雪月花[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "설월화[END]"
-        },
-        {
-            "offset": 1815056,
-            "string": "雪景色[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "눈경치[END]"
-        },
-        {
-            "offset": 1815040,
-            "string": "雪解け水[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "눈녹은 물[END]"
-        },
-        {
-            "offset": 1815024,
-            "string": "硝子の森[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "유리의 숲[END]"
-        },
-        {
-            "offset": 1815016,
-            "string": "氷大河[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "얼음 대하[END]"
-        },
-        {
-            "offset": 1814936,
-            "string": "永劫回帰[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "영겁회귀[END]"
-        },
-        {
-            "offset": 1814920,
-            "string": "雪国支店[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "눈나라 지점[END]"
-        },
-        {
-            "offset": 1814904,
-            "string": "商売根性[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "장사 근성[END]"
-        },
-        {
-            "offset": 1814896,
-            "string": "安息角[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "안식각[END]"
-        },
-        {
-            "offset": 1814864,
-            "string": "なかよし[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "친구[END]"
-        },
-        {
-            "offset": 1814776,
-            "string": "にゃも[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "냐모[END]"
-        },
-        {
-            "offset": 1814728,
-            "string": "秘密兵器[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "비밀병기[END]"
-        },
-        {
-            "offset": 1814720,
-            "string": "機能美[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "기능미[END]"
-        },
-        {
-            "offset": 1816864,
-            "string": "おにぎり[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "주먹밥[END]"
-        },
-        {
-            "offset": 1816792,
-            "string": "ブリトー[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "브리또[END]"
-        },
-        {
-            "offset": 1816784,
-            "string": "ケバブ[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "케밥[END]"
-        },
-        {
-            "offset": 1816752,
-            "string": "一夜漬け[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "하룻밤 절임[END]"
-        },
-        {
-            "offset": 1816736,
-            "string": "お茶漬け[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "차즈케[END]"
-        },
-        {
-            "offset": 1816656,
-            "string": "パエリア[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "빠에야[END]"
-        },
-        {
-            "offset": 1816616,
-            "string": "マフィン[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "머핀[END]"
-        },
-        {
-            "offset": 1816608,
-            "string": "キムチ[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "김치[END]"
-        },
-        {
-            "offset": 1816600,
-            "string": "肉まん[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "육만[END]"
-        },
-        {
-            "offset": 1816584,
-            "string": "ロコモコ[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "로코모코[END]"
-        },
-        {
-            "offset": 1816576,
-            "string": "牛丼[END]",
-            "original_bytes_length": 5,
-            "available_bytes_size": 7,
-            "translation": "규동[END]"
-        },
-        {
-            "offset": 1816568,
-            "string": "親子丼[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "오야코돈[END]"
-        },
-        {
-            "offset": 1816560,
-            "string": "海鮮丼[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "해산물덮밥[END]"
-        },
-        {
-            "offset": 1816520,
-            "string": "リゾット[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "리조또[END]"
-        },
-        {
-            "offset": 1816464,
-            "string": "グラタン[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "그라탱[END]"
-        },
-        {
-            "offset": 1816448,
-            "string": "グラスパ[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "그라스파[END]"
-        },
-        {
-            "offset": 1816416,
-            "string": "ステーキ[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "스테이크[END]"
-        },
-        {
-            "offset": 1816384,
-            "string": "すき焼き[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "스키야키[END]"
-        },
-        {
-            "offset": 1816376,
-            "string": "お刺身[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "생선회[END]"
-        },
-        {
-            "offset": 1816368,
-            "string": "舟盛り[END]",
-            "original_bytes_length": 7,
-            "available_bytes_size": 7,
-            "translation": "배접시[END]"
-        },
-        {
-            "offset": 1816312,
-            "string": "肉鍋[END]",
-            "original_bytes_length": 5,
-            "available_bytes_size": 7,
-            "translation": "육전골[END]"
-        },
-        {
-            "offset": 1816304,
-            "string": "魚鍋[END]",
-            "original_bytes_length": 5,
-            "available_bytes_size": 7,
-            "translation": "생선전골[END]"
-        },
-        {
-            "offset": 1816160,
-            "string": "炭ドッグ[END]",
-            "original_bytes_length": 9,
-            "available_bytes_size": 15,
-            "translation": "숯불핫도그[END]"
-        },
-        {
-            "offset": 1816112,
-            "string": "闇丼[END]",
-            "original_bytes_length": 5,
-            "available_bytes_size": 7,
-            "translation": "어둠덮밥[END]"
-        },
-        {
-            "offset": 1816104,
-            "string": "闇鍋[END]",
-            "original_bytes_length": 5,
-            "available_bytes_size": 7,
-            "translation": "어둠전골[END]"
-        },
-        {
-            "offset": 1820056,
-            "string": "[Johnny]HDRX[END]",
-            "original_bytes_length": 10,
-            "available_bytes_size": 15,
-            "translation": "[Johnny]HDRX[END]"
         }
     ]
 }

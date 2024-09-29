@@ -1,13 +1,6 @@
 {
     "SLPS": [
         {
-            "offset": 1688520,
-            "string": "[LINE]\n[END]",
-            "original_bytes_length": 2,
-            "available_bytes_size": 7,
-            "translation": "[LINE]\n[END]"
-        },
-        {
             "offset": 1688448,
             "string": "[Sign_5]デビルスピアー[END]",
             "original_bytes_length": 20,
@@ -27,6 +20,13 @@
             "original_bytes_length": 18,
             "available_bytes_size": 23,
             "translation": "[Sign_6]데드블루[END]"
+        },
+        {
+            "offset": 1688520,
+            "string": "[LINE]\n[END]",
+            "original_bytes_length": 2,
+            "available_bytes_size": 7,
+            "translation": "[LINE]\n[END]"
         },
         {
             "offset": 1688528,
