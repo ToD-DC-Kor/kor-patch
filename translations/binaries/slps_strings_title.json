@@ -19,14 +19,14 @@
             "string": "トリプルスターに輝くテクニックで[LINE]\n世界中の憧れを一身に纏う。[LINE]\n世界最高峰に相応しい最強の証。[END]",
             "original_bytes_length": 91,
             "available_bytes_size": 95,
-            "translation": "쓰리스타에 빛나는 테크닉으로[LINE]\n전 세계의 동경을 한 몸에 받는다.[LINE]\n세계 최고에 걸맞은 최강의 증거.[END]"
+            "translation": "트리플 스타에 빛나는 테크닉으로[LINE]\n전 세계의 동경을 한 몸에 받는다.[LINE]\n세계 최고에 걸맞은 최강의 증거.[END]"
         },
         {
             "offset": 1817792,
             "string": "トリプルスター[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "쓰리스타[END]"
+            "translation": "트리플 스타[END]"
         },
         {
             "offset": 1817808,
@@ -684,7 +684,7 @@
             "string": "小弓ガール[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "단궁소녀[END]"
+            "translation": "단궁 소녀[END]"
         },
         {
             "offset": 1822280,
@@ -803,7 +803,7 @@
             "string": "主婦として必要な事、[LINE]\nそれは近所付き合いや井戸端会議への列席。[LINE]\nという場合もあるにはあるらしい。[END]",
             "original_bytes_length": 95,
             "available_bytes_size": 95,
-            "translation": "주부에게 필요한 일은[LINE]\n이웃과 친해지는 것과 아줌마 수다 떨기.[LINE]\n라고 하는 경우도 있다고 한다.[END]"
+            "translation": "주부에게 필요한 일은[LINE]\n이웃과 친해지는 것과 수다 떨기.[LINE]\n라고 하는 경우도 있다고 한다.[END]"
         },
         {
             "offset": 1823280,
@@ -964,7 +964,7 @@
             "string": "セインガルドの薔薇[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "세인가르드드의 장미[END]"
+            "translation": "세인가르드의 장미[END]"
         },
         {
             "offset": 1824432,
