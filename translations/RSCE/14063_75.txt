@@ -56,7 +56,7 @@
 아이
 [ENDBLOCK]
 너무해요……흑……
-오빠는 내 마음을……
+형아는 내 마음을……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -666,7 +666,7 @@ openflag -><x17><x71><x48><xA0><x80>
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-나, 돌차기 대좋아 소녀야.
+나, 돌차기를 정말 좋아해.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
@@ -680,7 +680,7 @@ openflag -><x17><x71><x48><xA0><x80>
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
-나, 돌차기 대좋아 소녀야.
+나, 돌차기를 정말 좋아해.
 [ENDBLOCK]
 젊은 여자아이
 [ENDBLOCK]
