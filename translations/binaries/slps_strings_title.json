@@ -306,7 +306,7 @@
             "string": "トップレスマン[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "상탈남[END]"
+            "translation": "상의 없음[END]"
         },
         {
             "offset": 1819760,
@@ -411,14 +411,14 @@
             "string": "太鼓を叩いてカツカツカツ[MUSIC][LINE]\n一緒に叩いてカツカツカツ[MUSIC][LINE]\nはい、カツカツカツ[MUSIC][END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "큰북을 치며 캇캇캇[MUSIC][LINE]\n함께 치며 캇캇캇[MUSIC][LINE]\n네, 캇캇캇[MUSIC][END]"
+            "translation": "큰북을 치며 딱딱딱[MUSIC][LINE]\n함께 치며 딱딱딱[MUSIC][LINE]\n네, 딱딱딱[MUSIC][END]"
         },
         {
             "offset": 1820600,
             "string": "ジョニカツ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "죠니캇[END]"
+            "translation": "죠니딱[END]"
         },
         {
             "offset": 1820616,
@@ -460,7 +460,7 @@
             "string": "哀闘楽士[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "슬피 싸우는 악사[END]"
+            "translation": "비운의 악사[END]"
         },
         {
             "offset": 1820824,
@@ -600,7 +600,7 @@
             "string": "猿号擁柱[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "천양관슬[END]"
+            "translation": "백발백중[END]"
         },
         {
             "offset": 1821752,
@@ -824,7 +824,7 @@
             "string": "ねこバーニン[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "고양이 버닝 중[END]"
+            "translation": "고양이 집사[END]"
         },
         {
             "offset": 1823416,
@@ -1734,14 +1734,14 @@
             "string": "太鼓を叩いてドンドンドン[MUSIC][LINE]\n[Stahn]が叩いてドンドンドン[MUSIC][LINE]\nはい、ドドンガドン[MUSIC][END]",
             "original_bytes_length": 76,
             "available_bytes_size": 79,
-            "translation": "큰북을 치며 동동동[MUSIC][LINE]\n[Stahn]이 치며 동동동[MUSIC][LINE]\n네, 도동가동[MUSIC][END]"
+            "translation": "큰북을 치며 쿵쿵쿵[MUSIC][LINE]\n[Stahn]이 치며 쿵쿵쿵[MUSIC][LINE]\n네, 쿵딱쿵[MUSIC][END]"
         },
         {
             "offset": 1829992,
             "string": "スタドン[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "스탄동[END]"
+            "translation": "스탄쿵[END]"
         },
         {
             "offset": 1830008,
