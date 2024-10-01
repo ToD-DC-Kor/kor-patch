@@ -1,0 +1,1803 @@
+{
+    "SLPS": [
+        {
+            "offset": 1707920,
+            "string": "[Sign_5]爆炎剣[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_5]폭염검[END]"
+        },
+        {
+            "offset": 1707936,
+            "string": "ラベルをTAC_DOUBLEにかえてください[LINE]\n[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "라벨을 TAC_DOUBLE로 변경해 주세요.[LINE]\n[END]"
+        },
+        {
+            "offset": 1707976,
+            "string": "まちがえた[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "잘못했어요[END]"
+        },
+        {
+            "offset": 1707992,
+            "string": "狙う敵を毎回変え、フィールドを[LINE]\n駆け回ります。[END]",
+            "original_bytes_length": 46,
+            "available_bytes_size": 47,
+            "translation": "노릴 적을 매번 바꾸며, 필드를[LINE]\n뛰어다닙니다.[END]"
+        },
+        {
+            "offset": 1708040,
+            "string": "走り回れ[END]",
+            "translation": "뛰어다녀라[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1708056,
+            "string": "後退を控え、前進しながら[LINE]\n防御重視で敵の突破を防ぎます。[END]",
+            "original_bytes_length": 56,
+            "available_bytes_size": 56,
+            "translation": "후퇴를 자제하고, 전진하면서[LINE]\n방어를 중시해 적의 돌파를 막습니다.[END]"
+        },
+        {
+            "offset": 1708112,
+            "string": "巨大な壁となれ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "거대한 벽이 되어라[END]"
+        },
+        {
+            "offset": 1708128,
+            "string": "通常攻撃をあまり使わず、特技主体で[LINE]\n攻撃します。[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 48,
+            "translation": "보통 공격을 많이 사용하지 않고, 특기를 주로 하여[LINE]\n공격합니다.[END]"
+        },
+        {
+            "offset": 1708176,
+            "string": "大技でキメろ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "대기술로 결정하라[END]"
+        },
+        {
+            "offset": 1708192,
+            "string": "敵との距離があるときは支援技を使い、[LINE]\n敵との距離が近いときは攻撃をします。[END]",
+            "original_bytes_length": 74,
+            "available_bytes_size": 79,
+            "translation": "적과의 거리가 있을 때는 지원 기술을 사용하고,[LINE]\n적과의 거리가 가까울 때는 공격합니다.[END]"
+        },
+        {
+            "offset": 1708272,
+            "string": "間合いで戦え[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "간격으로 싸워라[END]"
+        },
+        {
+            "offset": 1708288,
+            "string": "攻撃効果のある技を優先して使用[LINE]\nします。[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "공격 효과가 있는 기술을 우선 사용[LINE]\n합니다.[END]"
+        },
+        {
+            "offset": 1708328,
+            "string": "魂を響かせろ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "영혼을 울려라[END]"
+        },
+        {
+            "offset": 1708344,
+            "string": "支援効果のある技を優先して使用[LINE]\nします。[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "지원 효과가 있는 기술을 우선 사용[LINE]\n합니다.[END]"
+        },
+        {
+            "offset": 1708384,
+            "string": "支援してくれ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "지원해 줘[END]"
+        },
+        {
+            "offset": 1708400,
+            "string": "位置やHPが安全なときにのみちくちく[LINE]\n攻撃します。[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 48,
+            "translation": "위치나 HP가 안전할 때만 찔찔[LINE]\n공격합니다.[END]"
+        },
+        {
+            "offset": 1708448,
+            "string": "ちまちま攻めろ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "조금씩 공격하라[END]"
+        },
+        {
+            "offset": 1708464,
+            "string": "間接攻撃主体で、防御を考えずに[LINE]\nひたすら攻撃します。[END]",
+            "original_bytes_length": 52,
+            "available_bytes_size": 55,
+            "translation": "간접 공격을 주로 하여, 방어를 생각하지 않고[LINE]\n그저 공격합니다.[END]"
+        },
+        {
+            "offset": 1708520,
+            "string": "やたらと撃て[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "무작정 쏴라[END]"
+        },
+        {
+            "offset": 1708536,
+            "string": "レベルが高い敵を狙い、全力で攻撃を[LINE]\n行います。[END]",
+            "original_bytes_length": 46,
+            "available_bytes_size": 47,
+            "translation": "레벨이 높은 적을 노려, 전력을 다해 공격을[LINE]\n실행합니다.[END]"
+        },
+        {
+            "offset": 1708584,
+            "string": "強敵をしとめろ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "강적을 처치하라[END]"
+        },
+        {
+            "offset": 1708600,
+            "string": "敵の背後をつくように行動し、奥の敵を[LINE]\n狙います。[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 48,
+            "translation": "적의 뒤를 노리듯 행동하고, 깊숙한 적을[LINE]\n노립니다.[END]"
+        },
+        {
+            "offset": 1708648,
+            "string": "敵をかく乱せよ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "적을 혼란시켜라[END]"
+        },
+        {
+            "offset": 1708664,
+            "string": "リーダーの攻撃に合わせて攻撃を[LINE]\n開始します。[END]",
+            "original_bytes_length": 44,
+            "available_bytes_size": 47,
+            "translation": "리더의 공격에 맞춰 공격을[LINE]\n시작합니다.[END]"
+        },
+        {
+            "offset": 1708712,
+            "string": "後に続け[END]",
+            "translation": "뒤를 따라[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1708728,
+            "string": "リーダーの背後の敵を優先して[LINE]\n狙います。[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "리더의 뒤쪽 적을 우선하여[LINE]\n노립니다.[END]"
+        },
+        {
+            "offset": 1708768,
+            "string": "背中は預けた[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "등은 맡겼다[END]"
+        },
+        {
+            "offset": 1708784,
+            "string": "近接攻撃と晶術・間接攻撃をパーティ[LINE]\n構成や戦況に応じて切り替えます。[END]",
+            "original_bytes_length": 68,
+            "available_bytes_size": 71,
+            "translation": "근접 공격과 결정술・간접 공격을 파티[LINE]\n구성이나 전황에 맞춰 전환합니다.[END]"
+        },
+        {
+            "offset": 1708856,
+            "string": "攻守の要となれ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "공수의 요체가 되어라[END]"
+        },
+        {
+            "offset": 1708872,
+            "string": "間接攻撃主体で、空中の敵を優先して[LINE]\n狙います。[END]",
+            "original_bytes_length": 46,
+            "available_bytes_size": 47,
+            "translation": "간접 공격을 주로 하여, 공중의 적을 우선하여[LINE]\n노립니다.[END]"
+        },
+        {
+            "offset": 1708920,
+            "string": "空の敵を狙え[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "하늘의 적을 노려라[END]"
+        },
+        {
+            "offset": 1708936,
+            "string": "積極的には攻撃せず、近くの敵の攻撃に[LINE]\n合わせて攻撃します。[END]",
+            "original_bytes_length": 58,
+            "available_bytes_size": 63,
+            "translation": "적극적으로 공격하지 않고, 가까운 적의 공격에[LINE]\n맞춰 공격합니다.[END]"
+        },
+        {
+            "offset": 1709000,
+            "string": "牽制射撃だ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "견제 사격이다[END]"
+        },
+        {
+            "offset": 1709016,
+            "string": "中衛・後衛に回り、弓矢攻撃主体で[LINE]\n戦います。[END]",
+            "original_bytes_length": 44,
+            "available_bytes_size": 47,
+            "translation": "중위・후위로 돌아가, 활 공격을 주로 하여[LINE]\n전투합니다.[END]"
+        },
+        {
+            "offset": 1709064,
+            "string": "援護につとめろ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "지원에 힘써라[END]"
+        },
+        {
+            "offset": 1709080,
+            "string": "詠唱時間の短い晶術や近接攻撃で、[LINE]\n詠唱中・攻撃中の敵を狙います。[END]",
+            "original_bytes_length": 64,
+            "available_bytes_size": 64,
+            "translation": "시전 시간이 짧은 결정술이나 근접 공격으로,[LINE]\n시전 중・공격 중인 적을 노립니다.[END]"
+        },
+        {
+            "offset": 1709144,
+            "string": "敵の邪魔をしろ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "적의 방해를 해라[END]"
+        },
+        {
+            "offset": 1709160,
+            "string": "攻撃晶術を一番近い敵に行いますが、[LINE]\n敵が近くに来れば近接攻撃を行います。[END]",
+            "original_bytes_length": 72,
+            "available_bytes_size": 72,
+            "translation": "공격 결정술을 가장 가까운 적에게 사용하지만,[LINE]\n적이 가까이 오면 근접 공격을 합니다.[END]"
+        },
+        {
+            "offset": 1709232,
+            "string": "防戦も頑張れ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "방어전도 열심히 해라[END]"
+        },
+        {
+            "offset": 1709248,
+            "string": "攻撃晶術優先で、高レベルの敵を狙い、[LINE]\nHPが半分を切ると防御主体になります。[END]",
+            "original_bytes_length": 74,
+            "available_bytes_size": 79,
+            "translation": "공격 결정술을 우선으로 하여, 고레벨의 적을 노리고,[LINE]\nHP가 반 이하로 떨어지면 방어 중심이 됩니다.[END]"
+        },
+        {
+            "offset": 1709328,
+            "string": "危険な敵を狙え[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "위험한 적을 노려라[END]"
+        },
+        {
+            "offset": 1709344,
+            "string": "攻撃晶術優先で、HPが少ない敵を狙い、[LINE]\nHPが１／４以下では防御主体になります。[END]",
+            "original_bytes_length": 76,
+            "available_bytes_size": 79,
+            "translation": "공격 결정술을 우선으로 하여, HP가 적은 적을 노리고,[LINE]\nHP가 1/4 이하가 되면 방어 중심이 됩니다.[END]"
+        },
+        {
+            "offset": 1709424,
+            "string": "敵の数を減らせ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "적의 수를 줄여라[END]"
+        },
+        {
+            "offset": 1709440,
+            "string": "サーチガルドとかを優先して使い、[LINE]\n回復も気分で使います。[END]",
+            "original_bytes_length": 56,
+            "available_bytes_size": 56,
+            "translation": "서치 가드 등을 우선 사용하고,[LINE]\n회복도 기분에 따라 사용합니다.[END]"
+        },
+        {
+            "offset": 1709496,
+            "string": "好き勝手してよい[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "마음대로 해도 좋다[END]"
+        },
+        {
+            "offset": 1709520,
+            "string": "ある程度ダメージを受けた味方が[LINE]\nいれば、回復技を重視して使用します。[END]",
+            "original_bytes_length": 68,
+            "available_bytes_size": 71,
+            "translation": "어느 정도 피해를 입은 아군이[LINE]\n있으면, 회복 기술을 중시하여 사용합니다.[END]"
+        },
+        {
+            "offset": 1709592,
+            "string": "回復につとめろ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "회복에 힘써라[END]"
+        },
+        {
+            "offset": 1709608,
+            "string": "HPが半分を切った味方がいれば、回復技[LINE]\nを重視して使用します。[END]",
+            "original_bytes_length": 60,
+            "available_bytes_size": 63,
+            "translation": "HP가 반 이하로 떨어진 아군이 있다면, 회복 기술[LINE]\n을 중시하여 사용합니다.[END]"
+        },
+        {
+            "offset": 1709672,
+            "string": "適度に回復せよ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "적절히 회복하라[END]"
+        },
+        {
+            "offset": 1709688,
+            "string": "攻撃をせず、防御・回復技のみ行います。[LINE]\n[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "공격을 하지 않고, 방어 및 회복 기술만 사용합니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1709728,
+            "string": "防御に専念しろ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "방어에 전념하라[END]"
+        },
+        {
+            "offset": 1709744,
+            "string": "HPが一番少ない味方のそばへ行き、[LINE]\nその近くにいる敵を狙います。[END]",
+            "original_bytes_length": 62,
+            "available_bytes_size": 63,
+            "translation": "HP가 가장 적은 아군 곁으로 가서,[LINE]\n그 근처에 있는 적을 노립니다.[END]"
+        },
+        {
+            "offset": 1709808,
+            "string": "味方を護れ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "아군을 보호하라[END]"
+        },
+        {
+            "offset": 1709824,
+            "string": "近接攻撃主体で戦い、HPが半分を切った[LINE]\n場合は防御と間接攻撃を使い分けます。[END]",
+            "original_bytes_length": 74,
+            "available_bytes_size": 79,
+            "translation": "근접 공격을 주로 하여 전투하고, HP가 반 이하로 떨어진[LINE]\n경우 방어와 간접 공격을 구분하여 사용합니다.[END]"
+        },
+        {
+            "offset": 1709904,
+            "string": "バランス重視[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "균형 중시[END]"
+        },
+        {
+            "offset": 1709920,
+            "string": "近接攻撃のみで戦いますが、HPがかなり[LINE]\n低くなった場合は防御に回ります。[END]",
+            "original_bytes_length": 70,
+            "available_bytes_size": 71,
+            "translation": "근접 공격만으로 전투하지만, HP가 상당히[LINE]\n낮아진 경우 방어로 돌아갑니다.[END]"
+        },
+        {
+            "offset": 1709992,
+            "string": "敵陣に切り込め[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "적진에 돌입하라[END]"
+        },
+        {
+            "offset": 1710008,
+            "string": "防御は考えずに、ひたすら近接攻撃を[LINE]\nします。[END]",
+            "original_bytes_length": 44,
+            "available_bytes_size": 47,
+            "translation": "방어는 생각하지 않고, 오로지 근접 공격을[LINE]\n합니다.[END]"
+        },
+        {
+            "offset": 1710056,
+            "string": "とにかく突っ込め[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "어쨌든 돌진하라[END]"
+        },
+        {
+            "offset": 1710080,
+            "string": "CUPID[END]",
+            "translation": "CUPID[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1710088,
+            "string": "ライフ１０％回復[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "생명 10% 회복[END]"
+        },
+        {
+            "offset": 1710112,
+            "string": "スタミナ[END]",
+            "translation": "스타미나[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1710128,
+            "string": "最大HP＋1000[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "최대 HP +1000[END]"
+        },
+        {
+            "offset": 1710144,
+            "string": "セイント[END]",
+            "translation": "세인트[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1710160,
+            "string": "瀕死時にブラストゲージ増加[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "위험 상태일 때 블라스트 게이지 증가[END]"
+        },
+        {
+            "offset": 1710192,
+            "string": "フェニックス[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "피닉스[END]"
+        },
+        {
+            "offset": 1710208,
+            "string": "戦闘不能から確率で自動復活[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "전투 불능 상태에서 확률로 자동 부활[END]"
+        },
+        {
+            "offset": 1710240,
+            "string": "シールド[END]",
+            "translation": "쉴드[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1710256,
+            "string": "クリティカルを受けなくなる[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "크리티컬을 받지 않게 된다[END]"
+        },
+        {
+            "offset": 1710288,
+            "string": "GETITEM[END]",
+            "translation": "GETITEM[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1710304,
+            "string": "クリティカル時に確率でアイテムを盗む[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "크리티컬 시 확률로 아이템을 훔친다[END]"
+        },
+        {
+            "offset": 1710344,
+            "string": "CCを平均化する[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "CC를 평균화한다[END]"
+        },
+        {
+            "offset": 1710360,
+            "string": "BONUSHEAL[END]",
+            "translation": "BONUSHEAL[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1710376,
+            "string": "アイテムの回復量が[TAG_015]％上昇[END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "아이템의 회복량이 [TAG_015]％ 증가[END]"
+        },
+        {
+            "offset": 1710408,
+            "string": "REDUSETIME[END]",
+            "translation": "REDUSETIME[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1710424,
+            "string": "アイテム使用不可時間が[TAG_015]％減少[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "아이템 사용 불가 시간이 [TAG_015]％ 감소[END]"
+        },
+        {
+            "offset": 1710464,
+            "string": "FULLHEAL[END]",
+            "translation": "FULLHEAL[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1710480,
+            "string": "ライフボトルで回復時、HPが全快する[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "생명 병으로 회복할 때, HP가 완전 회복된다[END]"
+        },
+        {
+            "offset": 1710520,
+            "string": "通常攻撃でダウンさせる[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "일반 공격으로 다운시킨다[END]"
+        },
+        {
+            "offset": 1710544,
+            "string": "敵の物理攻撃を[TAG_015]回耐える[END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "적의 물리 공격을 [TAG_015]회 견딘다[END]"
+        },
+        {
+            "offset": 1710576,
+            "string": "全状態異常を防止[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "모든 상태 이상을 방지한다[END]"
+        },
+        {
+            "offset": 1710600,
+            "string": "アイテムを盗む確率を[TAG_015]％アップ[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "아이템을 훔칠 확률을 [TAG_015]％ 증가[END]"
+        },
+        {
+            "offset": 1710640,
+            "string": "チャージがサーチガルドに変化[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "차지가 서치 가드로 변한다[END]"
+        },
+        {
+            "offset": 1710672,
+            "string": "SUPPORTPLUS[END]",
+            "translation": "SUPPORTPLUS[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1710688,
+            "string": "支援歌技の効果が上昇[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "지원가 기술의 효과가 상승한다[END]"
+        },
+        {
+            "offset": 1710712,
+            "string": "翔凰烈火：閃光裂破中に鳳凰天駆[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "창황열화: 섬광열파 중에 봉황천구[END]"
+        },
+        {
+            "offset": 1710744,
+            "string": "獅子戦吼：エイミングステップ中に灼光拳[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "사자전구: 에이밍 스텝 중에 작광권[END]"
+        },
+        {
+            "offset": 1710784,
+            "string": "獅吼爆炎陣：紅蓮剣中に獅子戦吼[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "사후폭염진: 홍련검 중에 사자전구[END]"
+        },
+        {
+            "offset": 1710816,
+            "string": "真空裂斬：空中で烈空斬[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "진공열참: 공중에서 열공참[END]"
+        },
+        {
+            "offset": 1710840,
+            "string": "魔神双破斬：魔神剣中に虎牙破斬[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "마신쌍파참: 마신검 중에 호가파참[END]"
+        },
+        {
+            "offset": 1710872,
+            "string": "チャージが剛招来に変化[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "차지가 강소환으로 변한다[END]"
+        },
+        {
+            "offset": 1710896,
+            "string": "空牙昇竜脚：断空剣中に飛燕連脚[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "공가승룡각: 단공검 중에 비연연각[END]"
+        },
+        {
+            "offset": 1710928,
+            "string": "魔王炎撃波：爆炎剣中に魔神剣[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "마왕염격파: 폭염검 중에 마신검[END]"
+        },
+        {
+            "offset": 1710960,
+            "string": "紅蓮剣：空中で屠龍閃[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "홍련검: 공중에서 도룡섬[END]"
+        },
+        {
+            "offset": 1710984,
+            "string": "蒼破刃：ダッシュ中に魔神剣[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "청파검: 대시 중에 마신검[END]"
+        },
+        {
+            "offset": 1711016,
+            "string": "CHARGEFOOD[END]",
+            "translation": "CHARGEFOOD[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1711032,
+            "string": "一定時間でフードが回復する[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "일정 시간에 후드가 회복된다[END]"
+        },
+        {
+            "offset": 1711064,
+            "string": "PIYO[END]",
+            "translation": "PIYO[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1711072,
+            "string": "一定確率で気絶させる[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "일정 확률로 기절시킨다[END]"
+        },
+        {
+            "offset": 1711096,
+            "string": "なりきりの力が宿っている？[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "변신의 힘이 깃들어 있는가?[END]"
+        },
+        {
+            "offset": 1711128,
+            "string": "シェア[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "공유[END]"
+        },
+        {
+            "offset": 1711136,
+            "string": "SHAREHP[END]",
+            "translation": "SHAREHP[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1711152,
+            "string": "回復晶術使用時に、術者もHP回復[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "회복 결정술 사용 시, 시전자도 HP 회복[END]"
+        },
+        {
+            "offset": 1711184,
+            "string": "攻撃毎にHP回復[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "공격할 때마다 HP 회복[END]"
+        },
+        {
+            "offset": 1711200,
+            "string": "EVADEDOWN[END]",
+            "translation": "EVADEDOWN[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1711216,
+            "string": "回避率低下攻撃[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "회피율 저하 공격[END]"
+        },
+        {
+            "offset": 1711232,
+            "string": "HITRATEDOWN[END]",
+            "translation": "HITRATEDOWN[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1711248,
+            "string": "命中率低下攻撃[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "명중률 저하 공격[END]"
+        },
+        {
+            "offset": 1711264,
+            "string": "RESISTDOWN[END]",
+            "translation": "RESISTDOWN[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1711280,
+            "string": "術防御力低下攻撃[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "술 방어력 저하 공격[END]"
+        },
+        {
+            "offset": 1711304,
+            "string": "MINDDOWN[END]",
+            "translation": "MINDDOWN[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1711320,
+            "string": "術攻撃力低下攻撃[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "술 공격력 저하 공격[END]"
+        },
+        {
+            "offset": 1711344,
+            "string": "DEFENCEDOWN[END]",
+            "translation": "DEFENCEDOWN[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1711360,
+            "string": "防御力低下攻撃[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "방어력 저하 공격[END]"
+        },
+        {
+            "offset": 1711376,
+            "string": "ATTACKDOWN[END]",
+            "translation": "ATTACKDOWN[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1711392,
+            "string": "攻撃力低下攻撃[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "공격력 저하 공격[END]"
+        },
+        {
+            "offset": 1711408,
+            "string": "ディダーク[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "디다크[END]"
+        },
+        {
+            "offset": 1711424,
+            "string": "闇属性晶術の詠唱時間短縮[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "어둠 속성 결정술의 주문 시간 단축[END]"
+        },
+        {
+            "offset": 1711456,
+            "string": "ディライト[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "디라이트[END]"
+        },
+        {
+            "offset": 1711472,
+            "string": "光属性晶術の詠唱時間短縮[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "빛 속성 결정술의 주문 시간 단축[END]"
+        },
+        {
+            "offset": 1711504,
+            "string": "ディウォータ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "디워터[END]"
+        },
+        {
+            "offset": 1711520,
+            "string": "水属性晶術の詠唱時間短縮[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "물 속성 결정술의 주문 시간 단축[END]"
+        },
+        {
+            "offset": 1711552,
+            "string": "ディファイア[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "디파이어[END]"
+        },
+        {
+            "offset": 1711568,
+            "string": "火属性晶術の詠唱時間短縮[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "불 속성 결정술의 주문 시간 단축[END]"
+        },
+        {
+            "offset": 1711600,
+            "string": "ディウィンド[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "디윈드[END]"
+        },
+        {
+            "offset": 1711616,
+            "string": "風属性晶術の詠唱時間短縮[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "바람 속성 결정술의 주문 시간 단축[END]"
+        },
+        {
+            "offset": 1711648,
+            "string": "ディアース[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "디아스[END]"
+        },
+        {
+            "offset": 1711664,
+            "string": "HIGHSPEED[END]",
+            "translation": "HIGHSPEED[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1711680,
+            "string": "地属性晶術の詠唱時間短縮[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "땅 속성 결정술의 주문 시간 단축[END]"
+        },
+        {
+            "offset": 1711712,
+            "string": "闇属性晶術のダメージアップ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "어둠 속성 결정술의 데미지 증가[END]"
+        },
+        {
+            "offset": 1711744,
+            "string": "光属性晶術のダメージアップ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "빛 속성 결정술의 데미지 증가[END]"
+        },
+        {
+            "offset": 1711776,
+            "string": "水属性晶術のダメージアップ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "물 속성 결정술의 데미지 증가[END]"
+        },
+        {
+            "offset": 1711808,
+            "string": "火属性晶術のダメージアップ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "불 속성 결정술의 데미지 증가[END]"
+        },
+        {
+            "offset": 1711840,
+            "string": "風属性晶術のダメージアップ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "바람 속성 결정술의 데미지 증가[END]"
+        },
+        {
+            "offset": 1711872,
+            "string": "地属性晶術のダメージアップ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "땅 속성 결정술의 데미지 증가[END]"
+        },
+        {
+            "offset": 1711904,
+            "string": "闇属性攻撃[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "어둠 속성 공격[END]"
+        },
+        {
+            "offset": 1711920,
+            "string": "光属性攻撃[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "빛 속성 공격[END]"
+        },
+        {
+            "offset": 1711936,
+            "string": "水属性攻撃[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "물 속성 공격[END]"
+        },
+        {
+            "offset": 1711952,
+            "string": "火属性攻撃[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "불 속성 공격[END]"
+        },
+        {
+            "offset": 1711968,
+            "string": "風属性攻撃[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "바람 속성 공격[END]"
+        },
+        {
+            "offset": 1711984,
+            "string": "地属性攻撃[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "땅 속성 공격[END]"
+        },
+        {
+            "offset": 1712000,
+            "string": "ディストート[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "디스토트[END]"
+        },
+        {
+            "offset": 1712016,
+            "string": "敵の術攻撃による硬化時間を縮める[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "적의 술 공격으로 인한 경화 시간을 줄인다[END]"
+        },
+        {
+            "offset": 1712056,
+            "string": "プリベント[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "프리벤트[END]"
+        },
+        {
+            "offset": 1712072,
+            "string": "敵の物理攻撃による硬化時間を縮める[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "적의 물리 공격으로 인한 경화 시간을 줄인다[END]"
+        },
+        {
+            "offset": 1712112,
+            "string": "ブレス[END]",
+            "translation": "브레스[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1712120,
+            "string": "晶術による敵硬化時間を延ばす[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "결정술로 적의 경화 시간을 늘린다[END]"
+        },
+        {
+            "offset": 1712152,
+            "string": "ヘヴィ[END]",
+            "translation": "헤비[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1712160,
+            "string": "特技・術技による敵硬化時間を延ばす[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "특기・술기로 적의 경화 시간을 늘린다[END]"
+        },
+        {
+            "offset": 1712200,
+            "string": "GUARD[END]",
+            "translation": "GUARD[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1712208,
+            "string": "エイミングステップ中、物理攻撃を防御できる[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "에이밍 스텝 중, 물리 공격을 방어할 수 있다[END]"
+        },
+        {
+            "offset": 1712256,
+            "string": "チェイサー[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "체이서[END]"
+        },
+        {
+            "offset": 1712272,
+            "string": "ADDCAPA[END]",
+            "translation": "ADDCAPA[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1712288,
+            "string": "クリティカル時にCC＋[TAG_015][END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "크리티컬 시 CC＋[TAG_015][END]"
+        },
+        {
+            "offset": 1712320,
+            "string": "＊削除＊[END]",
+            "translation": "＊삭제＊[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1712336,
+            "string": "ADDSTUN[END]",
+            "translation": "ADDSTUN[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1712352,
+            "string": "クリティカル時の敵の気絶時間を増やす[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "크리티컬 시 적의 기절 시간을 늘린다[END]"
+        },
+        {
+            "offset": 1712392,
+            "string": "エクシード[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "엑시드[END]"
+        },
+        {
+            "offset": 1712408,
+            "string": "最大CCを[TAG_015]増やす[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "최대 CC를 [TAG_015] 늘린다[END]"
+        },
+        {
+            "offset": 1712432,
+            "string": "ライズ[END]",
+            "translation": "라이즈[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1712440,
+            "string": "最小CCを[TAG_015]増やす[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "최소 CC를 [TAG_015] 늘린다[END]"
+        },
+        {
+            "offset": 1712464,
+            "string": "CCを常に[TAG_015]にする[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "CC를 항상 [TAG_015]로 설정한다[END]"
+        },
+        {
+            "offset": 1712488,
+            "string": "バリアブル[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "베리어블[END]"
+        },
+        {
+            "offset": 1712504,
+            "string": "最小CC、最大CCを１増やす[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "최소 CC, 최대 CC를 1 늘린다[END]"
+        },
+        {
+            "offset": 1712536,
+            "string": "与えるダメージが２倍に。ただし・・・[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "주어지는 데미지가 2배가 된다. 단, ...[END]"
+        },
+        {
+            "offset": 1712576,
+            "string": "CRUSH![END]",
+            "translation": "CRUSH![END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1712584,
+            "string": "獲得経験値２倍。ただし・・・[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "획득 경험치 2배. 단, ...[END]"
+        },
+        {
+            "offset": 1712616,
+            "string": "テンション[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "텐션[END]"
+        },
+        {
+            "offset": 1712632,
+            "string": "GAINBLAST[END]",
+            "translation": "GAINBLAST[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1712648,
+            "string": "敵を倒したときにブラストゲージ加算[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "적을 처치했을 때 블라스트 게이지가 추가된다[END]"
+        },
+        {
+            "offset": 1712688,
+            "string": "ラピッド[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "래피드[END]"
+        },
+        {
+            "offset": 1712704,
+            "string": "GAINCAPA[END]",
+            "translation": "GAINCAPA[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1712720,
+            "string": "敵を倒したときにＣＣ＋[TAG_015][END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "적을 처치했을 때 CC＋[TAG_015][END]"
+        },
+        {
+            "offset": 1712752,
+            "string": "ゲイン[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "게인[END]"
+        },
+        {
+            "offset": 1712760,
+            "string": "GAINHP[END]",
+            "translation": "GAINHP[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
+            "offset": 1712768,
+            "string": "敵を倒したときにHPが回復[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "적을 처치했을 때 HP가 회복된다[END]"
+        },
+        {
+            "offset": 1712800,
+            "string": "レスキュー[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "레스큐[END]"
+        },
+        {
+            "offset": 1712816,
+            "string": "RESCURE[END]",
+            "translation": "RESCURE[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
+            "offset": 1712824,
+            "string": "瀕死時に時々HPが[TAG_015]％回復[END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "핍사 상태에서 가끔 HP가 [TAG_015]％ 회복된다[END]"
+        },
+        {
+            "offset": 1712856,
+            "string": "一定時間毎にブラストゲージ加算[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "일정 시간마다 블라스트 게이지가 추가된다[END]"
+        },
+        {
+            "offset": 1712888,
+            "string": "ホーリィ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "홀리[END]"
+        },
+        {
+            "offset": 1712904,
+            "string": "一定時間毎にHPが微量回復[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "일정 시간마다 HP가 미량 회복된다[END]"
+        },
+        {
+            "offset": 1712936,
+            "string": "DESPELEFFECT[END]",
+            "translation": "DESPELEFFECT[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1712952,
+            "string": "チャージ：減少効果を打ち消し[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "차지: 감소 효과를 무효화[END]"
+        },
+        {
+            "offset": 1712984,
+            "string": "CHARGEATTACK[END]",
+            "translation": "CHARGEATTACK[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713000,
+            "string": "チャージ：攻撃判定が発生[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "차지: 공격 판정이 발생[END]"
+        },
+        {
+            "offset": 1713032,
+            "string": "チャージ：HP回復[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "차지: HP 회복[END]"
+        },
+        {
+            "offset": 1713056,
+            "string": "CHAINSUPPLY[END]",
+            "translation": "CHAINSUPPLY[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713072,
+            "string": "チャージ：味方のＣＣ増加[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "차지: 아군의 CC 증가[END]"
+        },
+        {
+            "offset": 1713104,
+            "string": "BLASTPLUS[END]",
+            "translation": "BLASTPLUS[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713120,
+            "string": "チャージ：ブラストゲージ加算[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "차지: 블라스트 게이지 추가[END]"
+        },
+        {
+            "offset": 1713152,
+            "string": "FLASH[END]",
+            "translation": "FLASH[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1713160,
+            "string": "チャージ：短時間完全回避[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "차지: 짧은 시간 완전 회피[END]"
+        },
+        {
+            "offset": 1713192,
+            "string": "CHAINCAPA+1[END]",
+            "translation": "CHAINCAPA+1[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713208,
+            "string": "チャージ：ＣＣが１加算[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "차지: CC가 1 추가[END]"
+        },
+        {
+            "offset": 1713232,
+            "string": "ALLCLEAR[END]",
+            "translation": "ALLCLEAR[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713248,
+            "string": "チャージ：確率で状態異常解除[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "차지: 확률로 상태 이상 해제[END]"
+        },
+        {
+            "offset": 1713280,
+            "string": "RESISTUP[END]",
+            "translation": "RESISTUP[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713296,
+            "string": "チャージ：術防御力上昇[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "차지: 주술 방어력 상승[END]"
+        },
+        {
+            "offset": 1713320,
+            "string": "DEFENCEUP[END]",
+            "translation": "DEFENCEUP[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713336,
+            "string": "チャージ：防御力上昇[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "차지: 방어력 상승[END]"
+        },
+        {
+            "offset": 1713360,
+            "string": "MINDUP[END]",
+            "translation": "MINDUP[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
+            "offset": 1713368,
+            "string": "チャージ：術攻撃力上昇[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "차지: 주술 공격력 상승[END]"
+        },
+        {
+            "offset": 1713392,
+            "string": "ATTACKUP[END]",
+            "translation": "ATTACKUP[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713408,
+            "string": "チャージ：攻撃力上昇[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "차지: 공격력 상승[END]"
+        },
+        {
+            "offset": 1713432,
+            "string": "HEALHP[END]",
+            "translation": "HEALHP[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
+            "offset": 1713440,
+            "string": "フラッシュガードでＨＰ回復[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "플래시 가드로 HP 회복[END]"
+        },
+        {
+            "offset": 1713472,
+            "string": "PLUSCAPA[END]",
+            "translation": "PLUSCAPA[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713488,
+            "string": "フラッシュガードでＣＣ＋[TAG_015][END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "플래시 가드로 CC＋[TAG_015][END]"
+        },
+        {
+            "offset": 1713520,
+            "string": "HP回復攻撃[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "HP 회복 공격[END]"
+        },
+        {
+            "offset": 1713536,
+            "string": "闇属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "어둠 속성 경감[END]"
+        },
+        {
+            "offset": 1713552,
+            "string": "光属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "빛 속성 경감[END]"
+        },
+        {
+            "offset": 1713568,
+            "string": "水属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "물 속성 경감[END]"
+        },
+        {
+            "offset": 1713584,
+            "string": "火属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "불 속성 경감[END]"
+        },
+        {
+            "offset": 1713600,
+            "string": "風属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "바람 속성 경감[END]"
+        },
+        {
+            "offset": 1713616,
+            "string": "地属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "땅 속성 경감[END]"
+        },
+        {
+            "offset": 1713632,
+            "string": "音波軽減[END]",
+            "translation": "음파경감[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713648,
+            "string": "射撃軽減[END]",
+            "translation": "사격경감[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713664,
+            "string": "打撃軽減[END]",
+            "translation": "타격경감[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713680,
+            "string": "斬撃軽減[END]",
+            "translation": "참격경감[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713696,
+            "string": "封印防止[END]",
+            "translation": "봉인방지[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713712,
+            "string": "マヒ防止[END]",
+            "translation": "마비방지[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713728,
+            "string": "睡眠防止[END]",
+            "translation": "수면방지[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713744,
+            "string": "熱毒防止[END]",
+            "translation": "열독방지[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713760,
+            "string": "衰弱防止[END]",
+            "translation": "쇠약방지[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713776,
+            "string": "石化防止[END]",
+            "translation": "석화방지[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713792,
+            "string": "停止攻撃[END]",
+            "translation": "정지공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713808,
+            "string": "小型攻撃[END]",
+            "translation": "소형공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713824,
+            "string": "シール[END]",
+            "translation": "실[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1713832,
+            "string": "封印攻撃[END]",
+            "translation": "봉인공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713848,
+            "string": "パラライ[END]",
+            "translation": "패럴라이[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713864,
+            "string": "マヒ攻撃[END]",
+            "translation": "마비공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713880,
+            "string": "スリープ[END]",
+            "translation": "슬립[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713896,
+            "string": "睡眠攻撃[END]",
+            "translation": "수면공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713912,
+            "string": "ポイズン[END]",
+            "translation": "포이즌[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713928,
+            "string": "熱毒攻撃[END]",
+            "translation": "열독공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713944,
+            "string": "ウェイスト[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "웨이스트[END]"
+        },
+        {
+            "offset": 1713960,
+            "string": "衰弱攻撃[END]",
+            "translation": "쇠약공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713976,
+            "string": "ストーン[END]",
+            "translation": "스톤[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1713992,
+            "string": "石化攻撃[END]",
+            "translation": "석화공격[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1714008,
+            "string": "ヴァイタル[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "바이탈[END]"
+        },
+        {
+            "offset": 1714024,
+            "string": "体力＋[TAG_015][END]",
+            "translation": "체력＋[TAG_015][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1714040,
+            "string": "クリティカル[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "크리티컬[END]"
+        },
+        {
+            "offset": 1714056,
+            "string": "集中力＋[TAG_015][END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "집중력＋[TAG_015][END]"
+        },
+        {
+            "offset": 1714072,
+            "string": "エヴォイド[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "에보이드[END]"
+        },
+        {
+            "offset": 1714088,
+            "string": "回避率＋[TAG_015][END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "회피율＋[TAG_015][END]"
+        },
+        {
+            "offset": 1714104,
+            "string": "ヒット[END]",
+            "translation": "히트[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1714112,
+            "string": "命中率＋[TAG_015][END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "명중률＋[TAG_015][END]"
+        },
+        {
+            "offset": 1714128,
+            "string": "レジスト[END]",
+            "translation": "레지스트[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1714144,
+            "string": "術防御力＋[TAG_015][END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "주술 방어력＋[TAG_015][END]"
+        },
+        {
+            "offset": 1714160,
+            "string": "ディフェンス[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "디펜스[END]"
+        },
+        {
+            "offset": 1714176,
+            "string": "防御力＋[TAG_015][END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "방어력＋[TAG_015][END]"
+        },
+        {
+            "offset": 1714192,
+            "string": "マインド[END]",
+            "translation": "마인드[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1714208,
+            "string": "術攻撃力＋[TAG_015][END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "주술 공격력＋[TAG_015][END]"
+        },
+        {
+            "offset": 1714224,
+            "string": "アタック[END]",
+            "translation": "어택[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1714240,
+            "string": "攻撃力＋[TAG_015][END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "공격력＋[TAG_015][END]"
+        },
+        {
+            "offset": 1714256,
+            "string": "未定[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "미정[END]"
+        }
+    ]
+}

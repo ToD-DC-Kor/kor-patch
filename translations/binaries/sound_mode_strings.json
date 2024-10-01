@@ -1,0 +1,396 @@
+{
+    "00054.md1": [
+        {
+            "offset": 43328,
+            "string": "[TAG_007]メモリーカード差込口１のメモリーカード（ＰＳ２）を[LINE]\nチェック中です。[LINE]\nメモリーカード（ＰＳ２）を抜いたり、電源を切ったり[LINE]\nしないでください。[END]",
+            "original_bytes_length": 143,
+            "available_bytes_size": 143,
+            "translation": "[TAG_007]메모리 카드 슬롯 1에 메모리 카드(PS2)를[LINE]\n확인 중입니다.[LINE]\n메모리 카드(PS2)를 빼거나 전원을 끄지 마십시오.[END]"
+        },
+        {
+            "offset": 43472,
+            "string": "曲[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "곡[END]"
+        },
+        {
+            "offset": 43480,
+            "string": "戦闘音声[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "전투 음성[END]"
+        },
+        {
+            "offset": 43512,
+            "string": "ステレオ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "스테레오[END]"
+        },
+        {
+            "offset": 43528,
+            "string": "音声音量[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "음성 볼륨[END]"
+        },
+        {
+            "offset": 43544,
+            "string": "曲音量[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "볼륨[END]"
+        },
+        {
+            "offset": 43688,
+            "string": "[Circle_ani]一覧[Triangle_ani]再生/一時停止[Square_ani]停止[L1_ani][R1_ani]スキップ[R2_ani]繰返し設定[Cross_ani]戻る[END]",
+            "original_bytes_length": 84,
+            "available_bytes_size": 87,
+            "translation": "[Circle_ani]목록[Triangle_ani]재생/일시정지[Square_ani]정지[L1_ani][R1_ani]스킵[R2_ani]반복 설정[Cross_ani]뒤로[END]"
+        },
+        {
+            "offset": 43776,
+            "string": "[Circle_ani]一覧[Triangle_ani]再生/一時停止[Square_ani]停止[L1_ani][R1_ani]スキップ[Cross_ani]戻る[END]",
+            "original_bytes_length": 68,
+            "available_bytes_size": 71,
+            "translation": "[Circle_ani]목록[Triangle_ani]재생/일시정지[Square_ani]정지[L1_ani][R1_ani]스킵[Cross_ani]뒤로[END]"
+        },
+        {
+            "offset": 43848,
+            "string": "[Left+Right_blink]変更[Cross_ani]戻る[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Left+Right_blink]변경[Cross_ani]뒤로[END]"
+        },
+        {
+            "offset": 43872,
+            "string": "[Circle_ani]決定[Cross_ani]戻る[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Circle_ani]확인[Cross_ani]뒤로[END]"
+        },
+        {
+            "offset": 43896,
+            "string": "[Cross_ani]戻る[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Cross_ani]뒤로[END]"
+        },
+        {
+            "offset": 43912,
+            "string": "一覧[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "목록[END]"
+        },
+        {
+            "offset": 43952,
+            "string": "夢であるように[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "꿈인 것처럼[END]"
+        },
+        {
+            "offset": 45200,
+            "string": "夢であるように-ピアノアレンジ２[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "꿈인 것처럼-피아노 편곡2[END]"
+        },
+        {
+            "offset": 45240,
+            "string": "夢であるように-ピアノアレンジ[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "꿈인 것처럼-피아노 편곡[END]"
+        },
+        {
+            "offset": 45800,
+            "string": "その他[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "기타[END]"
+        },
+        {
+            "offset": 45808,
+            "string": "イベント[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "이벤트[END]"
+        },
+        {
+            "offset": 45824,
+            "string": "バトル[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "배틀[END]"
+        },
+        {
+            "offset": 45832,
+            "string": "ダンジョン[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "던전[END]"
+        },
+        {
+            "offset": 45848,
+            "string": "タウン[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "타운[END]"
+        },
+        {
+            "offset": 45856,
+            "string": "フィールド[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "필드[END]"
+        },
+        {
+            "offset": 45872,
+            "string": "システム[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "시스템[END]"
+        },
+        {
+            "offset": 45888,
+            "string": "テーマ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "테마[END]"
+        },
+        {
+            "offset": 45896,
+            "string": "にせコングマン[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "가짜 콩맨[END]"
+        },
+        {
+            "offset": 45912,
+            "string": "バルバトス[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "발바토스[END]"
+        },
+        {
+            "offset": 45928,
+            "string": "オベロン社員・男[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "오베론 직원 남성[END]"
+        },
+        {
+            "offset": 45952,
+            "string": "シーフ・男[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "도둑 남성[END]"
+        },
+        {
+            "offset": 45968,
+            "string": "グレバム男神官[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "남성 신관[END]"
+        },
+        {
+            "offset": 45984,
+            "string": "グレバム女神官[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "여성 신관[END]"
+        },
+        {
+            "offset": 46000,
+            "string": "セインガルド上級兵・男[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "세인가르드 상급 병사[END]"
+        },
+        {
+            "offset": 46024,
+            "string": "セインガルド兵・男[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "세인가르드 병사[END]"
+        },
+        {
+            "offset": 46048,
+            "string": "ミクトランイグゼシブ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "믹트란 이그제시브[END]"
+        },
+        {
+            "offset": 46072,
+            "string": "ミクトラン[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "믹트란[END]"
+        },
+        {
+            "offset": 46088,
+            "string": "ヒューゴ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "휴고[END]"
+        },
+        {
+            "offset": 46104,
+            "string": "レンブラント[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "렘브란트[END]"
+        },
+        {
+            "offset": 46120,
+            "string": "イレーヌ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "이레네[END]"
+        },
+        {
+            "offset": 46136,
+            "string": "バルック[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "발룩[END]"
+        },
+        {
+            "offset": 46152,
+            "string": "ダリス[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "달리스[END]"
+        },
+        {
+            "offset": 46160,
+            "string": "ティベリウス[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "티베리우스[END]"
+        },
+        {
+            "offset": 46176,
+            "string": "バティスタ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "바티스타[END]"
+        },
+        {
+            "offset": 46192,
+            "string": "グレバム[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "그레밤[END]"
+        },
+        {
+            "offset": 46208,
+            "string": "シャルティエ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "샤르띠에[END]"
+        },
+        {
+            "offset": 46224,
+            "string": "イクティノス[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "익티노스[END]"
+        },
+        {
+            "offset": 46240,
+            "string": "クレメンテ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "클레멘트[END]"
+        },
+        {
+            "offset": 46256,
+            "string": "アトワイト[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "아트와이트[END]"
+        },
+        {
+            "offset": 46272,
+            "string": "ディムロス[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "딤로스[END]"
+        },
+        {
+            "offset": 46288,
+            "string": "リリス[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "릴리스[END]"
+        },
+        {
+            "offset": 46296,
+            "string": "コングマン[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콩맨[END]"
+        },
+        {
+            "offset": 46312,
+            "string": "ジョニー[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "죠니[END]"
+        },
+        {
+            "offset": 46328,
+            "string": "チェルシー[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "첼시[END]"
+        },
+        {
+            "offset": 46344,
+            "string": "マリー[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "마리[END]"
+        },
+        {
+            "offset": 46352,
+            "string": "リオン[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "리온[END]"
+        },
+        {
+            "offset": 46360,
+            "string": "ウッドロウ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "우드로우[END]"
+        },
+        {
+            "offset": 46376,
+            "string": "フィリア[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "필리아[END]"
+        },
+        {
+            "offset": 46392,
+            "string": "ルーティ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "루티[END]"
+        },
+        {
+            "offset": 46408,
+            "string": "スタン[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "스탠[END]"
+        }
+    ]
+}
