@@ -369,7 +369,7 @@
             "string": "シデン家子息の[Johnny]・シデン（２６）。[LINE]\n１７４ｃｍ６１ｋｇ[LINE]\n得意の歌声で敵を蹴散らし、味方を救う。[END]",
             "original_bytes_length": 98,
             "available_bytes_size": 103,
-            "translation": "시덴 가의 아들[Johnny]・시덴(26세).[LINE]\n174cm 61kg[LINE]\n특기인 노래로 적을 물리치고 아군을 구한다.[END]"
+            "translation": "시덴 가의 아들 [Johnny]・시덴(26세).[LINE]\n174cm 61kg[LINE]\n특기인 노래로 적을 물리치고 아군을 구한다.[END]"
         },
         {
             "offset": 1820296,
@@ -383,7 +383,7 @@
             "string": "世界のあらゆる知識に触れてみたいと、[LINE]\n限りない知的欲求から設立された研究会。[LINE]\nよーし、お前ら今日は１００問ノックだ！[END]",
             "original_bytes_length": 115,
             "available_bytes_size": 119,
-            "translation": "세상의 모든 지식을 접하고 싶다는[LINE]\n끝없는 지적 욕구로 설립된 연구회.[LINE]\n좋아 너희들, 오늘은 100문제를 풀기다! [END]"
+            "translation": "세상의 모든 지식을 접하고 싶다는[LINE]\n끝없는 지적 욕구로 설립된 연구회.[LINE]\n좋아 너희들, 오늘은 100문제 풀기다! [END]"
         },
         {
             "offset": 1820432,
@@ -551,7 +551,7 @@
             "string": "弓匠の孫の[Chelsea]・トーン（１４）。[LINE]\n１５１ｃｍ３９ｋｇ[LINE]\n外見離れした弓の腕前を持つ。[END]",
             "original_bytes_length": 84,
             "available_bytes_size": 87,
-            "translation": "활쏘기 장인의 손녀[Chelsea]・톤(14세).[LINE]\n151cm 39kg[LINE]\n외모와는 다른 활솜씨를 가지고 있다.[END]"
+            "translation": "활쏘기 장인의 손녀 [Chelsea]・톤(14세).[LINE]\n151cm 39kg[LINE]\n외모와는 다른 활솜씨를 가지고 있다.[END]"
         },
         {
             "offset": 1821448,
