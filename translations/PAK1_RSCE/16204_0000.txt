@@ -1,5 +1,5 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -19,7 +19,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 <S09>미소
 [ENDBLOCK]
-<S09>황당함
+<S09>황당
 [ENDBLOCK]
 <S09>불만
 [ENDBLOCK]

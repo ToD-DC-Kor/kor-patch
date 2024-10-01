@@ -1,13 +1,13 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-밤까지 아직 시간이 있어.
+밤까지 아직 시간이 있다.
 [ENDBLOCK]
-거리를 둘러볼까.
+거리의 모습을 살펴볼까.
 [ENDBLOCK]
 그렇네요.
 [ENDBLOCK]

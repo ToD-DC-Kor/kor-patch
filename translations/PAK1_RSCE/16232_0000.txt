@@ -1,33 +1,33 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-어, 어……
+도, 도……
 [ENDBLOCK]
-토기 세트.
+뚝배기 세트.
 [ENDBLOCK]
-어, 어……
+토, 토……
 [ENDBLOCK]
-토우케이 영토.
+토케이 영지.
 [ENDBLOCK]
-『우』구나……
+『우』인가……
 [ENDBLOCK]
 우드로우 켈빈……의 모토.
 [ENDBLOCK]
-아, 더럽다. 또『토』야. 정말~.
+아, 더럽네. 또 『토』예요? 정말~
 [ENDBLOCK]
-어, 어……
+토, 토……
 [ENDBLOCK]
-톤 체리.
+톤 첼시.
 [ENDBLOCK]
-잠깐만, 그건 이름과 성이 반대야.
+잠깐만, 그건 이름과 성이 거꾸로야.
 [ENDBLOCK]
-별로 상관없잖아.
+별로 상관없잖아요.
 [ENDBLOCK]
-그래, 괜찮아. 『시』였지.
+뭐, 그렇다 치자. 『시』였지.
 [ENDBLOCK]
 시, 시, 시……
 [ENDBLOCK]
