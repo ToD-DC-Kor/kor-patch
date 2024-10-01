@@ -375,7 +375,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-저기, 오빠?
+저기, 형아?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -388,7 +388,7 @@ select
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-오빠는 음식을 가리지 않을 것 같아.
+형아는 음식을 가리지 않을 것 같아.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -414,7 +414,7 @@ select
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-그래서 오빠한테
+그래서 형아한테
 물어보고 싶은 게 있는데.
 [ENDBLOCK]
 남자아이
@@ -436,7 +436,7 @@ select
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-그치만 오빠가 아이스캔디 가게를
+그치만 형아가 아이스캔디 가게를
 힐끔힐끔 쳐다보고 있던걸.
 [ENDBLOCK]
 <Lion>
@@ -973,7 +973,7 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-보고만 있어도 안 할 거야.
+보고 있어도 안 줄 거야.
 저리 가.
 [ENDBLOCK]
 남자아이

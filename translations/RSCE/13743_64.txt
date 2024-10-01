@@ -832,81 +832,81 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 군을 들어 여러분께 협력하도록,
 명령받았습니다.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 나는 피츠가르드 출신이야.
 아주 서쪽에 있는 나라지.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 나는 피츠가르드 출신이야.
 아주 서쪽에 있는 나라지.
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 챔, 챔피언 <Kongman>!
 사인 주세요!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 너희들이랑 같이 있는 게
 설마 <Kongman>!?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 <Kongman>! 무슨 일이 일어나고 있는지,
 알려주세요!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 무슨 일이 일어나고 있는지,
 알려주세요!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 <Kongman>이 있는 한,
 이 마을은 안전하겠죠!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 <Kongman>이 있는 곳이
 가장 안전하지 않나요?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 피츠가르드가 어떻게 됐는지
 보고 와 주세요, <Kongman>!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 피츠가르드는
 괜찮을까요?
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 마이티! 마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 마이티! 마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 마이티! 마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 마이티! 마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 마이티! 마이티!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 자, 여러분도 같이!
 [ENDBLOCK]
-남
+남자
 [ENDBLOCK]
 마이티! 마이티! 마이티!
 [ENDBLOCK]

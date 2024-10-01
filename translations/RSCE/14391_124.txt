@@ -225,7 +225,7 @@ select
 <Lilith>
 [ENDBLOCK]
 울려라! 엘론가 비기,
-「죽은 자의 깨움」!
+「사자의 기상」!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -241,7 +241,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-매일 아침 깨워줘서 미안해.
+매일 아침 깨우게 해서 미안해.
 앞으로도 부탁해.
 [ENDBLOCK]
 <Lilith>

@@ -103,7 +103,7 @@
 남자아이
 [ENDBLOCK]
 이 정원, 예쁘지?
-내 아빠가 정비하셨어.
+우리 아빠가 정비하셨어.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
@@ -113,7 +113,7 @@
 남자아이
 [ENDBLOCK]
 이 정원, 예쁘지?
-내 아빠가 정비하셨어.
+우리 아빠가 정비하셨어.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
@@ -197,7 +197,7 @@
 <Reynolds>
 [ENDBLOCK]
 수고했어!
-일부러 고마웠어.
+다녀와줘서 고마워.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -263,7 +263,7 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-기대, 인가……
+기대… 된다라…
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -358,8 +358,8 @@
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-그건 <Ritora>에게
-틀림없이 죽음을 의미해요.
+그건 <Ritora>가
+틀림없이 죽는다는 의미예요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -388,7 +388,7 @@
 <Ritora>
 [ENDBLOCK]
 자책하지 마라, <Reynolds>.
-네가 잘 해냈다.
+넌 정말 잘 해냈다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -521,31 +521,31 @@
 오오ー!
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-구,
+9,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-구, 팔,
+9, 8,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-구, 팔, 칠,
+9, 8, 7,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-구, 팔, 칠, 육,
+9, 8, 7, 6,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-구, 팔, 칠, 육, 오,
+9, 8, 7, 6, 5,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-구, 팔, 칠, 육, 오, 사,
+9, 8, 7, 6, 5, 4,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-구, 팔, 칠, 육, 오, 사, 삼,
+9, 8, 7, 6, 5, 4, 3,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-구, 팔, 칠, 육, 오, 사, 삼, 이,
+9, 8, 7, 6, 5, 4, 3, 2,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-구, 팔, 칠, 육, 오, 사, 삼, 이, 일.
+9, 8, 7, 6, 5, 4, 3, 2, 1.
 [ENDBLOCK]
 <x18><x65><x58><x74><x00><x80>
 [ENDBLOCK]

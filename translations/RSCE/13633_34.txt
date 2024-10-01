@@ -192,19 +192,19 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-미안해. 안 좋지만
+미안하지만
 <Rutee>의 부탁은 들어줄 수 없어.
 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-왜야!?
+어째서!?
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-딤로스는 그냥 검이 아니야.
-주거나 팔 수 있는 게 아니라고.
+딤로스는 보통 검이 아니야.
+주거나 팔거나 하는 게 아니라고.
 
 [ENDBLOCK]
 <Dymlos>
@@ -329,7 +329,7 @@
 <Rutee>
 [ENDBLOCK]
 흥, 놓칠 리가 없지.
-틈을 보여 딤로스를 빼앗아 줄 테야.
+틈을 봐서 딤로스를 빼앗아 줄 테야.
 
 [ENDBLOCK]
 <Rutee>

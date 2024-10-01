@@ -499,20 +499,20 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-이 근처에는 흉폭한 몬스터도 많아.
-방심하지 마.
+이 근처에는 흉폭한 몬스터가 많네.
+방심하지 않도록 하게.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나, 검에는 자신 있어요.
+저, 검에는 자신 있어요.
 맡겨주세요!
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-내가 마스터가 됐다고 해서
-우쭐대지 마.
+내 마스터가 됐다고 해서
+우쭐대지 마라.
 
 [ENDBLOCK]
 <Stahn>
@@ -528,7 +528,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런 거 안 들어도 알겠는데.
+그런 거 듣지 않아도 알겠는데.
 베고 찌르는 거잖아?
 
 [ENDBLOCK]
@@ -540,7 +540,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-우선, 「정술」을 사용할 수 있어.
+우선, 「정술」을 사용할 수 있다.
 내 경우엔 불과 관련된 거지.
 [ENDBLOCK]
 <Dymlos>
@@ -564,7 +564,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Dymlos>
 [ENDBLOCK]
 「정술」도「소디언 디바이스」도,
-나를 다루는 걸로 폭이 넓어져.
+나를 사용해 나갈수록 폭이 넓어진다.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -577,13 +577,13 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-지금의 너는 아직 실력이 부족해.
-그걸 자각하고 정진해야 해.
+지금의 너는 아직 실력이 부족하다.
+그걸 자각하고 수련해야 된다.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-너, 시끄럽다.
+너, 무지 시끄럽구나.
 
 [ENDBLOCK]
 <Woodrow>
@@ -594,7 +594,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Woodrow>
 [ENDBLOCK]
 아니, 꽤 재밌어 보여서 말이야.
-준비는 다 됐어?
+준비는 다 되었나?
 
 [ENDBLOCK]
 <Stahn>
@@ -617,36 +617,36 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Chelsea>
 [ENDBLOCK]
 정말! 그런 일 때문에
-저를 불러들인 거예요?
+저를 찾으신 거예요?
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
 바지 고무줄 정도는
-혼자서 고치세요!
+직접 고치세요!
 
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-괜찮지 않나.
-줄어들 일은 없을 거야.
+그러지 말고,
+닳는 것도 아니잖냐. 
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-그런 문제가 아니에요!
+그런 문제가 아니잖아요!
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-그런 걸 가족의 스킨십이라고
-하는 거겠지.
+저런 걸 보고
+가족이라고 하는 거겠지.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-우리 집도 비슷해요.
-할아버지랑 여동생이 있으니까.
+저희 집도 비슷해요.
+할아버지와 여동생이 있거든요.
 
 [ENDBLOCK]
 <Stahn>
@@ -663,8 +663,8 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-……밖에서 얘기하는 것도 뭐하네.
-우리도 안으로 들어가자.
+……밖에서 얘기하는 것도 좀 그러니까
+우리도 안으로 들어가지.
 
 [ENDBLOCK]
 <Stahn>

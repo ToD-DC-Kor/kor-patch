@@ -554,7 +554,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-그렇네……
+그렇지요……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -572,7 +572,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-예를 들어, 내가 집에 데려가서
+예를 들어, 제가 집에 데려가서
 돌봐준다든지 말이에요.
 [ENDBLOCK]
 할머니
@@ -587,9 +587,9 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-정말 그럴까?	인간도 어느 정도
-살아가기 위해 생각을 바꾸는 일이
-있을 거야.
+정말 그럴까요? 인간도 살기 위해
+어느정도 생각을 바꾸는 일이
+있을거에요.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
@@ -601,13 +601,13 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-나처럼 오래 살다 보면,
+저처럼 오래 살다 보면,
 젊은 생명은 그저 살아있는 것만으로도
 기쁜 거예요.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]
-별로 상관없어. 남에게 폐를 끼쳐도,
+별로 상관없어요. 남에게 폐를 끼쳐도,
 자신에게 거짓말을 해도.
 [ENDBLOCK]
 할머니
@@ -616,7 +616,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-……그렇군, 네.
+……그렇군, 알겠네.
 [ENDBLOCK]
 할머니
 [ENDBLOCK]

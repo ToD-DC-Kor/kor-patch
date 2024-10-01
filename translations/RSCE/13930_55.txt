@@ -264,7 +264,7 @@
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-뭐든지 신의 눈…… 이란 걸
+뭔가 신의 눈…… 이란 걸
 찾고 있다더군.
 [ENDBLOCK]
 <Stahn>
@@ -342,12 +342,12 @@
 <Lion>
 [ENDBLOCK]
 나는 너처럼 뻔뻔하고,
-능청맞고, 친근한 척하는 놈이 대嫌いだ。
+능청맞고, 친근한 척하는 놈이 정말 싫어。
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
 기분 나빠하지 마.
-예전부터 좀 까다로워 보이긴 했거든.
+예전부터 좀 까다롭게 굴긴 했거든.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

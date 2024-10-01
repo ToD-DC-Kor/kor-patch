@@ -35,8 +35,8 @@
 [ENDBLOCK]
 ????
 [ENDBLOCK]
-설마 어리석은 민중들과 행동하면서
-쓸데없는 정에 빠진 건가?
+설마 어리석은 무리들과 어울리다 보니
+쓸데없는 정에 휘둘리게 된 건가?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -95,12 +95,12 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그 가면은 무슨 뜻입니까?
+그 가면은 무슨 뜻이지?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 난 그런 장난에
-付き合うつもりは……
+어울릴 생각은 없는데……
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -224,8 +224,8 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-설마 어리석은 민중들과 행동하면서
-쓸데없는 정에 빠진 건가?
+설마 어리석은 무리들과 어울리다 보니
+쓸데없는 정에 휘둘리게 된 건가?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

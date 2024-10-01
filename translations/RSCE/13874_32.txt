@@ -12,7 +12,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-구경꾼 여행이 아니다.
+관광 여행이 아니다.
 그렇게 들뜨지 마라.
 [ENDBLOCK]
 <Stahn>
@@ -177,7 +177,7 @@
 <Philia>
 [ENDBLOCK]
 <Stahn> 님의 배려 덕분에
-많이 마음이 진정되었어요.
+마음이 많이 진정되었어요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -195,7 +195,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-네게는 꽤 잘한 편이다.
+너 치고는 제법 잘한 편이다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -203,8 +203,8 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-스스로 깨닫지 못하고 있나. 뭐 좋아.
-그것도 네다운 모습이겠지.
+스스로 깨닫지 못하고 있나. 
+뭐 좋아. 그것도 너다운 모습이겠지.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

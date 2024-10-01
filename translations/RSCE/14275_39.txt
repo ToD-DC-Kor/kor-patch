@@ -218,17 +218,17 @@
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-오빠들도
+형들도
 같이 눈사람 만들래?
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-오빠도
+형도
 같이 눈사람 만들고 싶어?
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-언니들도
+누나들도
 같이 눈사람 만들래?
 [ENDBLOCK]
 남자아이
@@ -288,7 +288,7 @@
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-내 일을 알고 있나?
+나에 대한 일을 알고 있나?
 [ENDBLOCK]
 무슨 소리야.
 함께 싸웠던 사이잖아?
@@ -384,7 +384,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Philia>, <Woodrow>네 일행을 불러와.
+<Philia>, <Woodrow> 일행을 불러와.
 지금이라면 눈에 띄지 않고 마을에 들어갈 수 있어.
 [ENDBLOCK]
 <Philia>
@@ -460,7 +460,7 @@
 <Clemente>
 [ENDBLOCK]
 이 마을은
-반란군의 거점일지도 모르겠습니다.
+반란군의 거점일지도 모르겠군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

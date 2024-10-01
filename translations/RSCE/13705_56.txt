@@ -307,7 +307,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 <Mary>
 [ENDBLOCK]
 오오! 저기 있는 분은 시민들에게
-인기 많은 <Dryden> 장군이군요!
+인기 많은 <Dryden> 장군!
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -321,7 +321,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 <Stahn>
 [ENDBLOCK]
 <Mary> 씨, 정말로
-놀리려고 한 건 아니었어요!
+놀릴거라곤 생각 못했어요!
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -334,7 +334,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-여러분, 국민의 안전과 행복을
+모두들 국민의 안전과 행복을
 가장 먼저 생각하시는 분이라고요.
 [ENDBLOCK]
 <Dryden>

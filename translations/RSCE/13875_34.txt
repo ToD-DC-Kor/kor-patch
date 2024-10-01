@@ -35,7 +35,7 @@
 <Johnny>
 [ENDBLOCK]
 너무 여기저기 손을 대면
-대개 반작용을 맛보게 되는 법이지.
+대개는 되돌려 받는 법이지.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
@@ -70,7 +70,7 @@
 <Dymlos>
 [ENDBLOCK]
 나로서도 뭐라 말하기 어렵군.
-판단할 재료가 너무 부족해.
+판단할 자료가 너무 부족해.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

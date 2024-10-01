@@ -204,7 +204,7 @@
 <Dryden>
 [ENDBLOCK]
 왕국 관리하의 유적을 훼손했을 뿐만 아니라,
-거리에서 소동을 일으켰으니 말도 안 된다.
+거리에서 소동을 일으켰으니 말이 필요 없다.
 
 [ENDBLOCK]
 <Dryden>
@@ -307,7 +307,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-말씀드리겠습니다!
+보고드리겠습니다!
 
 [ENDBLOCK]
 <Dryden>
@@ -853,7 +853,7 @@
 <King>
 [ENDBLOCK]
 음. 우리 양국의 힘을 합치면
-만전의 경비 체제를 갖출 수 있을 것이다.
+완벽한 경비 체제를 갖출 수 있을 것이오.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]

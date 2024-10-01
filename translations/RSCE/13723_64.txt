@@ -897,7 +897,7 @@ select
 [ENDBLOCK]
 남
 [ENDBLOCK]
-정말…… 보통은 그 자리에서
+정말…… 보통은 그 상황에서
 상대방 말에 맞춰주는 법인데.
 [ENDBLOCK]
 남
@@ -953,8 +953,8 @@ select
 [ENDBLOCK]
 남
 [ENDBLOCK]
-7장군 중에도
-실력이 아닌 녀석이 있다고.
+칠장군 중에도
+실력이 없는 녀석이 있다고.
 [ENDBLOCK]
 남
 [ENDBLOCK]

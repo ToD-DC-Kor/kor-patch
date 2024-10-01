@@ -875,7 +875,7 @@ set_drgn
 [ENDBLOCK]
 남
 [ENDBLOCK]
-이 마을은 좋네요. 시골에 흔한
+이 마을은 좋네요. 시골에서 흔히 있는
 폐쇄적인 면이 없어요.
 [ENDBLOCK]
 남

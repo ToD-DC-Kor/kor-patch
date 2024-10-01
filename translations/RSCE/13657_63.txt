@@ -184,7 +184,7 @@
 <Mary>
 [ENDBLOCK]
 이 쓰러진 기둥을 발판 삼아
-위로 올라갔던 거야.
+위로 올라갔었어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -192,7 +192,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그럼 앞으로 가볼까요.
+그럼 계속 가볼까요.
 <Mary> 씨.
 [ENDBLOCK]
 알림

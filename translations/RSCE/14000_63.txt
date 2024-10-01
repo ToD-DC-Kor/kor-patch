@@ -129,7 +129,7 @@
 <Lion>
 [ENDBLOCK]
 오늘은 여기까지다.
-계속은 내일이다.
+내일 계속하도록 하겠다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

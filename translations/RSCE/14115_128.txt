@@ -629,8 +629,8 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-여기는 모류 영지예요. 당신들,
-안 좋은 때에 왔네요.
+여기는 모류 영지예요.
+당신들, 안 좋은 때에 왔네요.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
@@ -1048,8 +1048,8 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……그러니까, 조력자가 뭐냐고요?
-전혀 상황이 안 보이는데.
+……그러니까, 조력자라는 게 무슨 말이야??
+전혀 상황이 이해가 안 되는데.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

@@ -387,8 +387,8 @@
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-……확실히 <Dalis>의 말씀이
-틀리지는 않아요.
+……확실히 <Dalis>의 말도
+틀리지는 않아.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -419,8 +419,8 @@
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-……알겠어요. 저는 이제부터
-<Stahn>네와 행동을 함께 하겠어요.
+……알겠어. 나는 이제부터
+<Stahn> 일행과 함께 하겠어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

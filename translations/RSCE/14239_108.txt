@@ -435,7 +435,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Woodrow>
 [ENDBLOCK]
 ……미안하다.
-이런 말을 해봤자 시작도 안 되겠지.
+이런 말을 해봤자 달라질 게 없겠군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -468,7 +468,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dymlos>한테는 안 물어봤겠지?
+<Dymlos>한테는 안 물어봤잖아?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -482,7 +482,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그러니까, 안 물어봤겠지.
+그러니까, 안 물어봤잖아.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -565,13 +565,13 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-드물게 열 대사를 계속하는
+간혹 열을 계속 발산하는
 특수한 렌즈가 있어.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
 이건 그 렌즈를
-박아 넣은 반지야.
+끼워 넣은 반지야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

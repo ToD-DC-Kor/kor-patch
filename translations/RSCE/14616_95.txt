@@ -101,7 +101,7 @@
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-헬레이오스에 있던 <Ilene>은
+헬레이오스에 있던 <Ilene>는
 제 딸입니다.
 [ENDBLOCK]
 <Stahn>

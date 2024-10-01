@@ -39,7 +39,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-엥? 그게?
+엥? 그거라니?
 
 [ENDBLOCK]
 ????
@@ -51,13 +51,13 @@
 ????
 [ENDBLOCK]
 아 정말!
-왜 이렇게 계속해서 일이 터지는 거야!
+왜 이렇게 계속 나오는 거야!
 
 [ENDBLOCK]
 ????
 [ENDBLOCK]
 설마 이 녀석들도,
-검을 노리고 있는 건 아니겠죠!
+검을 노리고 있는 건 아니겠지!
 
 [ENDBLOCK]
 <Stahn>
@@ -72,7 +72,7 @@
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-승무원이 전멸했다.
+승무원이 전멸했어.
 이대로라면 추락한다!
 
 [ENDBLOCK]
@@ -89,7 +89,7 @@
 <Rutee>
 [ENDBLOCK]
 아, 잠, 잠깐만 기다려!
-아직 핵심의 검이!
+아직 중요한 검이!
 
 [ENDBLOCK]
 ???

@@ -211,7 +211,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇군요…… 죄송합니다.
+그렇군…… 미안해.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -356,8 +356,8 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그래요. 그렇게 고백받았는데
-안 된다고 하는 것도 야박하죠.
+그래. 그렇게까지 말했는데
+안 된다고 하면 야박하지.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

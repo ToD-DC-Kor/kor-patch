@@ -619,7 +619,7 @@ debug
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-<Lion>자네가 출세했으면 좋겠네.
+<Lion> 자네가 출세했으면 좋겠네.
 이제 칠장군 시대는 아니니까 말이야.
 [ENDBLOCK]
 어머니
@@ -628,12 +628,12 @@ debug
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-<Lion>자네도 곧 칠장군으로
+<Lion> 자네도 곧 칠장군으로
 선발되지 않을까?
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-<Lion>자네가 출세했으면 좋겠어.
+<Lion> 자네가 출세했으면 좋겠어.
 이제 칠장군 시대는 아니야.
 [ENDBLOCK]
 어머니
@@ -726,8 +726,8 @@ debug
 [ENDBLOCK]
 렌즈 상점
 [ENDBLOCK]
-당신 총수와 아는 사이인가요?
-보통으로 대화하고 있어서 놀랐어요.
+당신은 총수와 아는 사이인가요?
+평범하게 대화하고 있어서 놀랐어요.
 [ENDBLOCK]
 렌즈 상점
 [ENDBLOCK]
@@ -735,8 +735,8 @@ debug
 [ENDBLOCK]
 렌즈 상점
 [ENDBLOCK]
-당신 총수와 아는 사이인가요?
-보통으로 대화하고 있어서 놀랐어요.
+당신은 총수와 아는 사이인가요?
+평범하게 대화하고 있어서 놀랐어요.
 [ENDBLOCK]
 렌즈 상점
 [ENDBLOCK]
@@ -809,7 +809,7 @@ select
 <Lion>
 [ENDBLOCK]
 나는 너처럼 뻔뻔하고,
-능청맞고, 친근한 척하는 놈이 대嫌いだ。
+능청맞고, 친근한 척하는 놈이 정말 싫어。
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -1213,7 +1213,7 @@ select
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Mary> 씨들의 일도
+<Mary> 씨에 대한 일도
 맡겨주게.
 [ENDBLOCK]
 <Stahn>
@@ -1232,7 +1232,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>…… 정말 힘들었겠다.
+<Philia>…… 정말 힘들었었지.
 수고했어.
 [ENDBLOCK]
 <Philia>
@@ -1364,7 +1364,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-난 네처럼 낙천적이고
+난 너처럼 낙천적이고
 뻔뻔스럽고 친근한 놈이 정말 싫어.
 [ENDBLOCK]
 <Lion>

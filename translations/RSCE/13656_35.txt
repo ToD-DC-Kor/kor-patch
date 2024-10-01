@@ -49,7 +49,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그냥 오해였겠죠.
+그냥 오해겠지.
 
 [ENDBLOCK]
 <Stahn>
@@ -80,7 +80,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그렇네요. 얼른 빠지죠.
+그렇네. 얼른 돌아가자.
 
 [ENDBLOCK]
 알림

@@ -248,7 +248,7 @@
 <Stahn>
 [ENDBLOCK]
 헤에, 소디언이
-다른 세 개도 있다고?
+다른 세 개가 더 있다고?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -289,8 +289,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-누군가에게 길들여지는 건 정말 싫어.
-<Rutee> 님을 얕보지 말아주셨으면 해요.
+누군가에게 휘둘리는 건 정말 싫어.
+<Rutee> 님을 얕보지 말았으면 해.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -316,15 +316,15 @@
 <Rutee>
 [ENDBLOCK]
 음, 그 정도 주신다면.
-해도……괜찮을까.
+해볼……만하겠네.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-아까 그 호언장담은 어디로 갔나?
+아까 그 기세는 어디로 갔나?
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-……정말, 억세게 자랐구나.
+……정말, 강하게 자랐구나.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]

@@ -37,13 +37,13 @@
 
 [ENDBLOCK]
 혹시 렌즈 가지고 계신가요?
-있다면 팔아주세요.
+괜찮다면 팔아주세요.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
 렌즈라…… 그래,
-매입해 볼까.
+판매해 볼까.
 [ENDBLOCK]
 좋아, 거래 성사!
 

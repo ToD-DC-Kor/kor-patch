@@ -23,7 +23,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-졸고 있는 걸 발견당해서
+졸고 있다가 발각돼서
 스파이로 오해받았어. 바보 같지?
 [ENDBLOCK]
 <Chelsea>
@@ -32,11 +32,11 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-네놈의 무철포함은 정말 대단하군.
+너의 무모함은 정말 대단하군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-괜찮잖아, 별로. 결과적으로는
+괜찮잖아. 결과적으로,
 다 잘 됐으니까.
 [ENDBLOCK]
 <Stahn>
@@ -45,7 +45,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-아까 안색이 안 좋아 보여서
+아까 창백한 얼굴로
 안으로 들어간 것 같던데.
 [ENDBLOCK]
 <Philia>
@@ -55,7 +55,7 @@
 <Stahn>
 [ENDBLOCK]
 큰일이네.
-내가 가서 상태를 봐올게.
+내가 가서 상태를 보고 올게.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -87,8 +87,8 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 그저 세인가드로
-가고 싶었을 뿐인데!
+나는 단지 세인가르드로
+가고 싶었던 것뿐이라고!
 
 [ENDBLOCK]
 <Stahn>
@@ -96,20 +96,20 @@
 제발, 기다려 줘!
 
 [ENDBLOCK]
-그것을 운반하고 있을 때가 아니었다면
-이 정도로 심하게 당하지는 않았겠지.
+그것을 운반하는 중이 아니었다면
+이렇게까진 안 했겠지만.
 
 [ENDBLOCK]
-누구야, 물건을 던진 건!?
+누구냐, 물건을 던진 게!?
 
 [ENDBLOCK]
 너…… !
-다른 동료가 있나?
+다른 동료가 있는거냐?
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-모, 모르겠어.
+나, 나도 몰라.
 
 [ENDBLOCK]
 무슨 일이냐!?
@@ -125,8 +125,8 @@
 엄청난 수입니다!
 
 [ENDBLOCK]
-바보 같은! 몬스터가 비행룡을 습격한다니,
-있을 수 없는 일인데……
+말도 안 돼! 몬스터가 비행룡을 습격한다니,
+있을 수 없는 일이야……
 
 [ENDBLOCK]
 명령을 내려주십시오!

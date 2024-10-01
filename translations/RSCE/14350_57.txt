@@ -80,7 +80,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-휴. 어떻게 될 줄 알았네.
+휴. 어떻게 되는 줄 알았네.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -159,8 +159,8 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-우리는 우리의 직분을 다했을 뿐입니다. 
-감사할 이유는 없습니다.
+우리는 우리의 본분을 다했을 뿐이다. 
+감사를 받을 이유는 없다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -200,7 +200,7 @@
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-자신이 말 그대로 말에 불과하다는 걸 
+자신이 단지 장기말에 불과하다는 걸 
 자각하지 못하는 놈은 행복하군……
 [ENDBLOCK]
 <Lion>
@@ -214,7 +214,7 @@
 <Woodrow>
 [ENDBLOCK]
 신의 눈의 향후 처리는…… 
-세인가드로 가져갈 생각인가?
+세인가르드로 가져갈 생각인가?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -231,7 +231,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-신의 눈에 관해서는 세인가드에만 
+신의 눈에 관해서는 세인가르드에만 
 맡길 수는 없으니까……
 [ENDBLOCK]
 <Philia>
@@ -408,8 +408,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그럼 어쩔 수 없네요. 
-이걸 세인가드로 가져가죠.
+그럼 어쩔 수 없네. 
+이걸 세인가르드로 가져가자.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -436,7 +436,7 @@
 <Stahn>
 [ENDBLOCK]
 그렇군…… 응, 그래!
- 당당하게 세인가드로 돌아가자.
+당당하게 세인가르드로 돌아가자.
 [ENDBLOCK]
 알림
 [ENDBLOCK]

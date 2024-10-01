@@ -27,7 +27,7 @@
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-뭐, 뭐라고요!? 전하!?
+저, 전하!?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]

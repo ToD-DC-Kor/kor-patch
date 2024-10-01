@@ -160,7 +160,7 @@
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]
-칼의 녹으로 만들어주마!
+네 놈들의 피로 칼날을 물들여주마!
 [ENDBLOCK]
 <Tiberius>
 [ENDBLOCK]

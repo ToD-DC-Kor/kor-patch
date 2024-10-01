@@ -1582,7 +1582,7 @@ select
 살려주세요! 살려주세요!
 [ENDBLOCK]
 비키세요!
-가난뱅이 주제에 방해예요!
+가난뱅이 주제에 걸리적거려!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]

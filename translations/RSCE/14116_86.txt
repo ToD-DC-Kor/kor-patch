@@ -693,11 +693,11 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 남
 [ENDBLOCK]
 여러분, 내 말이 맞았죠?
-정의의 味方이 어떻게든 해결했잖아.
+정의의 편이 어떻게든 해결했잖아.
 [ENDBLOCK]
 남
 [ENDBLOCK]
-정의의 味方의 정체는 비밀이야.
+정의의 편의 정체는 비밀이야.
 아니아니, 나는 아니라고.
 [ENDBLOCK]
 남
@@ -768,8 +768,8 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-잠깐만요.
-저 사람, 뭔가 수상하지 않아요?
+잠깐 기다려!
+저 녀석, 뭔가 수상하지 않아?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -790,7 +790,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 ????
 [ENDBLOCK]
-어이쿠, 무신경한 녀석이 등장했군.
+어이쿠, 무례한 녀석이 등장했군.
 [ENDBLOCK]
 황공하옵게도 <Tiberius> 대왕 폐하께서
 귀국을 맞아 말씀을 하사하신다!

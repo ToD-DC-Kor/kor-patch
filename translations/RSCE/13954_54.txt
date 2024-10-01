@@ -359,8 +359,8 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Lion>, 이 기회다.
-예의 그 전기 충격을 줘보는 게 어때?
+<Lion>, 지금이다.
+전의 그 전기 충격을 줘보는 게 어때?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

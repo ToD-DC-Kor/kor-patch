@@ -37,7 +37,7 @@
 ?????
 [ENDBLOCK]
 호오, 내 목소리가 들리는 모양이군.
-재능이 있다는 거로군.
+자질은 있다는 건가.
 
 [ENDBLOCK]
 <Stahn>
@@ -48,7 +48,7 @@
 ?????
 [ENDBLOCK]
 알고 싶나?
-그렇다면 안쪽까지 오는 게 좋겠어.
+그렇다면 안쪽까지 와라.
 
 [ENDBLOCK]
 <Stahn>
@@ -73,25 +73,25 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-이상한 모양을 하고 있지만,
+특이하게 생겼지만,
 쓸 수 있는 건가……?
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-에잇!	신경 쓸 때가 아니야!
+에잇! 그런 거 신경 쓸 때가 아니야!
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무기만 있다면,
-너 따위한테 질 리가 없어!
+무기만 있으면,
+너 따위한테 지지않아!
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 뭐지, 이 검?
-묘하게 손에 익숙해……
+묘하게 손에 잘 맞는데……
 
 [ENDBLOCK]
 <Stahn>

@@ -66,7 +66,7 @@ reset---------
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그래. <Ilene>은 있나?
+그래. <Ilene>는 있나?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -120,7 +120,7 @@ reset---------
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-여기서 <Ilene>을 기다릴게.
+여기서 <Ilene>를 기다릴게.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

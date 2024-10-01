@@ -8,7 +8,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-방, 정신 차려.
+도련님, 정신 차리세요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -25,8 +25,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너…… 설마 비행룡에
-취한 거 아니야?
+너…… 설마 비행룡
+멀미하는 거 아니야?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]

@@ -178,7 +178,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-실은…… 신의 눈이 빼앗겼어요.
+실은…… 신의 눈을 빼앗겼어요.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -264,8 +264,8 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-목소리가 들렸다고…… 설마
-그게 클레멘테의……?
+목소리가 들렸다고……
+설마, 클레멘테의……?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -493,8 +493,8 @@
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-앞으로 세 번 더 벨크란트가 발사되면
-하늘이 외각으로 뒤덮일 계산이야.
+앞으로 벨크란트가 세 번만 더 발사되면
+하늘이 외각으로 뒤덮일 거라는 계산이야.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -541,7 +541,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-요는 우리가 비행룡을 사용해서
+결국 우리가 비행룡을 사용해
 하려고 했던 일과 같은 거군.
 [ENDBLOCK]
 <Dymlos>
@@ -703,7 +703,7 @@ R키를 가지러 가자.
 <Ritora>
 [ENDBLOCK]
 음. 이 장치를 소디언에 연결해
-거울면 배리어를 중화하는 거다.
+경면 배리어를 중화하는 거다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
@@ -740,7 +740,7 @@ R키 입수, 수고했다.
 <Ritora>
 [ENDBLOCK]
 여러분은 다가올 결전을 위해
-영기를 양해두길 바란다.
+체력을 보충해두길 바란다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -774,7 +774,7 @@ R키 입수, 수고했다.
 <Kongman>
 [ENDBLOCK]
 <Lion>이 없어진 건 꿈이 아니야.
-절대로 원수를 갚아주겠어.
+반드시 원수를 갚아주겠어.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -836,7 +836,7 @@ R키 입수, 수고했다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-아이참, 그렇게 어두워지지 마.
+아이참, 그렇게 침울해지지 마.
 너희들이 신경 쓸 일이 아니야.
 [ENDBLOCK]
 <Rutee>
@@ -924,13 +924,13 @@ R키 입수, 수고했다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-물론 지금도 생각나는 게 있어요.
+물론 지금도 생각나는 게 있어.
 하지만 지금은 무엇보다……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 자신이 마스터라는 책임을
-다해야 한다고 생각해요.
+다해야 한다고 생각해.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1075,7 +1075,7 @@ R키 입수, 수고했다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-거울면 배리어가 전면에 전개되어 있습니다.
+경면 배리어가 전면에 전개 되어있다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
@@ -1140,13 +1140,13 @@ R키 입수, 수고했다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-우선 제가 곧바로
-거울면 배리어의 중화장치를 제작하겠습니다.
+우선 내가 곧바로
+경면 배리어의 중화장치를 제작하겠다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
 장치가 완성될 때까지 여러분은
-각지의 공중도시를 공략해 주셨으면 합니다.
+각지의 공중도시를 공략해 줬으면 한다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
@@ -1155,16 +1155,16 @@ R키 입수, 수고했다.
 <Ritora>
 [ENDBLOCK]
 여러분이 믹하일에 도달할 때까지
-이쪽에서도 중화장치를 완성시켜 놓겠습니다.
+이쪽에서도 중화장치를 완성시켜 놓겠다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
 서로의 연계를 만전을 기한다면
-단숨에 다이크로프트에 다가갈 수 있을 겁니다.
+단숨에 다이크로프트에 다가갈 수 있을 것이다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-힘든 여정이 되겠지만, 해주겠습니까?
+힘든 여정이 되겠지만, 해주겠나?
 소디언 팀 여러분.
 [ENDBLOCK]
 <Stahn>

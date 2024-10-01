@@ -427,8 +427,8 @@ select
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-아, 아니야. <Stahn>군의 앞날이
-잘 되기를 기도하고 있어.
+아, 아니야. <Stahn>군의 목표가
+잘 되기를 기도하고 있다네.
 
 [ENDBLOCK]
 <Stahn>
@@ -461,7 +461,7 @@ select
 <Woodrow>
 [ENDBLOCK]
 내가 제노스까지 함께 가지.
-마침 고향으로 돌아가려고 했어.
+마침 고향으로 돌아가려고 했거든.
 
 [ENDBLOCK]
 <Chelsea>
@@ -491,12 +491,12 @@ select
 <Alba>
 [ENDBLOCK]
 빨리 결심하고
-아버지의 뒤를 이어라.
+아버지의 뒤를 잇지 그러냐.
 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-정말, 선생님께는 당해내질 못하겠어요.
+이거 참, 선생님께는 당해내질 못하겠습니다.
 
 [ENDBLOCK]
 <Woodrow>
@@ -530,18 +530,18 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-이치지츠……?
+천추……?
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 나는 사전이 아니다.
-……기다리고 있다는 뜻이다.
+……간절히 기다리겠다는 뜻이다.
 
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-그럼 건강히, 꼬마.
+그럼 건강하거라, 꼬마.
 
 [ENDBLOCK]
 <Stahn>

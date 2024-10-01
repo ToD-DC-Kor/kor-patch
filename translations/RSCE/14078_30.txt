@@ -1,22 +1,22 @@
 <Stahn>
 [ENDBLOCK]
-으로
+오호, 여기가 <Johnny> 씨의 방이군요.
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-어, 여기가 <Johnny> 씨의 방이군요.
+<IGNORE>
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
