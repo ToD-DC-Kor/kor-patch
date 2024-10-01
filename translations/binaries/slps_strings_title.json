@@ -61,14 +61,14 @@
             "string": "ナチュレンジャーの妹分のセワヤキジャー。[LINE]\nだらしない毎日の寝起きを、[LINE]\nしっかりサポート？[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "네이처 레인저의 동생 네이처 돌보민저.[LINE]\n칠칠치 못한 오빠가 매일 아침[LINE]\n잠에서 깰 수 있게 확실히 서포트?[END]"
+            "translation": "자연의 수호자의 동생 자연의 돌보미.[LINE]\n칠칠치 못한 오빠가 매일 아침[LINE]\n잠에서 깰 수 있게 확실히 서포트?[END]"
         },
         {
             "offset": 1818072,
             "string": "セワヤキジャー[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "네이처 돌보민저[END]"
+            "translation": "자연의 돌보미[END]"
         },
         {
             "offset": 1818088,
@@ -460,7 +460,7 @@
             "string": "哀闘楽士[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "비운의 악사[END]"
+            "translation": "비련의 악사[END]"
         },
         {
             "offset": 1820824,
@@ -1699,7 +1699,7 @@
             "string": "ナチュレンジャー[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "네이처 레인저[END]"
+            "translation": "자연의 수호자[END]"
         },
         {
             "offset": 1829704,
