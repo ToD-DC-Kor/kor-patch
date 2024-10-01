@@ -703,7 +703,7 @@ R키를 가지러 가자.
 <Ritora>
 [ENDBLOCK]
 음. 이 장치를 소디언에 연결해
-거울면 배리어를 중화하는 거다.
+경면 배리어를 중화하는 거다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
@@ -1075,7 +1075,7 @@ R키 입수, 수고했다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-거울면 배리어가 전면에 전개되어 있습니다.
+경면 배리어가 전면에 전개 되어있다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
@@ -1141,7 +1141,7 @@ R키 입수, 수고했다.
 <Ritora>
 [ENDBLOCK]
 우선 내가 곧바로
-거울면 배리어의 중화장치를 제작하겠다.
+경면 배리어의 중화장치를 제작하겠다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
