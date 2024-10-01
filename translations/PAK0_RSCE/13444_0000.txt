@@ -4,27 +4,25 @@
 [ENDBLOCK]
 <TAG_007><S06><yellow>Lock-On !!
 [ENDBLOCK]
-<S03><yellow>로크온 수：<x17><x71><x46><xDC><x80>날개
+<S03><yellow>록온 수: <x17><x71><x46><xDC><x80>마리
 [ENDBLOCK]
-<S06>돌멩이를 시작 지점으로 되돌립니다.
+<S06>작은 돌을 시작 지점으로 되돌립니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-이 대륙에서의 렌즈레이트가
-1단계 업그레이드되었습니다.
+이 대륙에서의 렌즈 레이트가
+한 단계 올랐습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-축하합니다.
-이 대륙에서의 렌즈레이트가
-최대 횟수로 업그레이드되었습니다.
+축하드립니다.
+이 대륙에서의 렌즈 레이트가
+최대 횟수만큼 올랐습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-이 대륙에서의 렌즈레이트가
-3단계 업그레이드되었습니다.
-[ENDBLOCK]
-<S03><yellow>『돌차기』 시작!!
+이 대륙에서의 렌즈 레이트가
+세 단계만큼 올랐습니다.
 [ENDBLOCK]
 <S03><yellow>『돌차기』 시작!!
 [ENDBLOCK]
@@ -32,25 +30,27 @@ notice
 [ENDBLOCK]
 <S03><yellow>『돌차기』 시작!!
 [ENDBLOCK]
-<S03><yellow>골인!!(렌즈레이트 최대치)
+<S03><yellow>『돌차기』 시작!!
 [ENDBLOCK]
-<S03><yellow>렌즈레이트가 UP했습니다!!
+<S03><yellow>골!!(렌즈 레이트 최대값)
 [ENDBLOCK]
-<S03><yellow>『돌차기』 골인!!
+<S03><yellow>렌즈 레이트가 UP 되었습니다!!
 [ENDBLOCK]
-<S03><yellow>골인!!(렌즈레이트 최대치)
+<S03><yellow>『돌차기』 골!!
 [ENDBLOCK]
-<S03><yellow>렌즈레이트가 UP했습니다!!
+<S03><yellow>골!!(렌즈 레이트 최대값)
 [ENDBLOCK]
-<S03><yellow>『돌차기』 골인!!
+<S03><yellow>렌즈 레이트가 UP 되었습니다!!
 [ENDBLOCK]
-<S03><yellow>골인!!(렌즈레이트 최대치)
+<S03><yellow>『돌차기』 골!!
 [ENDBLOCK]
-<S03><yellow>렌즈레이트가 UP했습니다!!
+<S03><yellow>골!!(렌즈 레이트 최대값)
 [ENDBLOCK]
-<S03><yellow>골인!!(렌즈레이트 최대치)
+<S03><yellow>렌즈 레이트가 UP 되었습니다!!
 [ENDBLOCK]
-<S03><yellow>렌즈레이트가 UP했습니다!!
+<S03><yellow>골!!(렌즈 레이트 최대값)
+[ENDBLOCK]
+<S03><yellow>렌즈 레이트가 UP 되었습니다!!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -58,181 +58,181 @@ notice
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>다릴쉐이드로 돌아가기
+<TAG_007>다릴셰이드로 돌아가기
 안으로 들어가기
 [ENDBLOCK]
 select
 [ENDBLOCK]
 <TAG_007>들어가시겠습니까?
-네
+예
 아니요
 [ENDBLOCK]
 select
 [ENDBLOCK]
 <TAG_007>들어가시겠습니까?
-네
+예
 아니요
 [ENDBLOCK]
 select
 [ENDBLOCK]
 <TAG_007>외각으로 가시겠습니까?
-네
+예
 아니요
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
-남서：하메츠
- 동 ：알메이다 방면
- 남 ：제노스 방면
+남서: 하멘츠
+ 동: 알메이다 방면
+ 남: 제노스 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북 ：알메이다 방면
-남서：하메츠 방면
-남동：다릴쉐이드 방면
+ 북: 알메이다 방면
+남서: 하멘츠 방면
+남동: 다릴셰이드 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북 ：알메이다
- 남 ：하메츠 방면
-남동：다릴쉐이드 방면
+ 북: 알메이다
+ 남: 하멘츠 방면
+남동: 다릴셰이드 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 동 ：다릴쉐이드
- 서 ：하메츠 방면
- 남 ：클레스타 방면
- 북 ：알메이다 방면
+ 동: 다릴셰이드
+ 서: 하멘츠 방면
+ 남: 크레스타 방면
+ 북: 알메이다 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
-북동：다릴쉐이드 방면
-북서：알메이다・하메츠 방면
- 남 ：클레스타 방면
+북동: 다릴셰이드 방면
+북서: 알메이다・하멘츠 방면
+ 남: 크레스타 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 동 ：클레스타 방면
- 서 ：다릴쉐이드 방면
+ 동: 크레스타 방면
+ 서: 다릴셰이드 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북 ：리네 방면
- 남 ：노이슈타트 방면
+ 북: 리네 방면
+ 남: 노이슈타트 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 서쪽 : 여행자의 오두막
+ 서: 여행자의 오두막
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 : 리네 방향
-남동 : 노이슈타트 방향
+ 북: 리네 방면
+남동: 노이슈타트 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 : 리네 방향
-남동 : 노이슈타트 방향
+ 북: 리네 방면
+남동: 노이슈타트 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 : 리네 방향
- 남쪽 : 노이슈타트 방향
- 서쪽 : 피츠가르드 서해안
+ 북: 리네 방면
+ 남: 노이슈타트 방면
+ 서: 피츠가르드 서해안
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 : 해저 동굴 방향
- 남쪽 : 모리유 영토 방향
+ 북: 해저 동굴 방면
+ 남: 모류 영지 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 : 시덴 영토 방향
- 남쪽 : 해저 동굴 방향
+ 북: 시덴 영지 방면
+ 남: 해저 동굴 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 : 칼비올라 방향
- 남쪽 : 체리크 방향
+ 북: 칼비올라 방면
+ 남: 체릭 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
-북동 : 칼비올라 방향
- 남쪽 : 정크랜드 방향
+북동: 칼비올라 방면
+ 남: 정크랜드 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
-북서 : 정크랜드 방향
- 동쪽 : 칼비올라 방향
+북서: 정크랜드 방면
+ 동: 칼비올라 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
-북동 : 하이델베르크 방향
-북서 : 제노스 방향
-남동 : 사이릴 방향
+북동: 하이델베르크 방면
+북서: 제노스 방면
+남동: 사이릴 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 : 사이릴
-북서 : 하이델베르크・제노스 방향
+ 북: 사이릴
+북서: 하이델베르크・제노스 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 : 하이델베르크・제노스 방향
-북동 : 사이릴 방향
+ 북: 하이델베르크・제노스 방면
+북동: 사이릴 방면
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Stahn>	「왼쪽에서 한 척 온다！」
+<TAG_009><Stahn>	「왼쪽에서 한 척이 오고 있어!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009>선장	「알겠습니다, 회피합니다！」
+<TAG_009>선장	「알겠습니다, 회피하겠습니다!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Lion>	「오른쪽에 주의하라, 두 척이다！」
+<TAG_009><Lion>	「우현을 조심해, 두 척이 있어!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009>선장	「맡겨 주세요！」
+<TAG_009>선장	「맡겨주십시오!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xD0><x00><x00><x40><TAG_009><Kongman>	「앞에 큰 배가 있다! 저게 기함이다. 틀림없어！」
+<x06><xD0><x00><x00><x40><TAG_009><Kongman>	「전방에 큰 배가 있어! 저게 기함이다. 틀림없어!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Stahn>	「좋아, 타자！」
+<TAG_009><Stahn>	「좋아, 올라타자!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xC0><x00><x00><x40><TAG_009><Dymlos>	「지체하면 증원이 온다. 목표는 적 장수 단 한 사람이다。」
+<x06><xC0><x00><x00><x40><TAG_009><Dymlos>	「꾸물거리다간 증원이 올 거야. 목표는 적장 단 한 명이다.」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<Stahn><TAG_009>	「기다려, <Greybum>！」
+<Stahn><TAG_009>	「기다려라, <Greybum>!」
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>				 「해룡	조작 설명 １」 				
+<TAG_007>				 「해룡	조작 설명 1」 				
 	
 	<Circle_ani>	전진
 	<Square_ani>	후진
 	<Left+Right_blink>	방향 전환	(<L1_ani><R1_ani>로도 가능)
-	<R_stick_Press>	각도 변경
+	<R_stick_Press>	앵글 변경
 	<Cross_ani>	해룡에서 내리기
-			※ 해변에 가까이 가서, 해룡의 머리를
-				내리고 싶은 방향으로 향하게 한 후
-				버튼을 눌러 주세요.
+			※해변에 가까이 가서 해룡의 머리를
+				내리고 싶은 방향으로 향하게 한 뒤
+				버튼을 눌러주세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>			 「해룡	조작 설명 ２」 			
+<TAG_007>			 「해룡	조작 설명 2」 			
 	
-	최고 속도는 커스터마이즈 메뉴의
+	최고 속도는 커스텀 메뉴의
 	「이동 속도」에서 설정할 수 있습니다.
-	(고속) １ ←(표준)→ ８ (저속)	
-	※ 초기 설정은 ６(느림)으로
-		설정되어 있습니다.
+	(고속) 1 ←(표준)→ 8 (저속)	
+	※초기 설정은 6(느린 편)으로
+		되어 있습니다.
 [ENDBLOCK]
