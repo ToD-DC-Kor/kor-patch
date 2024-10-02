@@ -2117,7 +2117,7 @@
         {
             "offset": 1768424,
             "string": "ジューシーな甘さ、[LINE]\nグレープ味のグミ。[LINE]\n最大ＨＰの７５％分ＨＰが回復する。[END]",
-            "translation": "과즙이 넘치는,[LINE]\n포도맛의 젤리.[LINE]\n최대 HP의 75%만큼 HP가 회복된다.[END]",
+            "translation": "달콤한 과즙이 넘치는,[LINE]\n포도맛의 젤리.[LINE]\n최대 HP의 75%만큼 HP가 회복된다.[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79
         },
