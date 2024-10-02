@@ -176,7 +176,7 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-미안해요.
+미안해.
 잠깐 밖에 나가고 싶어서.
 [ENDBLOCK]
 <Stahn>
