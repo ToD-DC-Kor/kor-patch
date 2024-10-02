@@ -32,8 +32,8 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-설마 벨크란트에 타고 올 줄이야. 
-너희들의 발버둥에는 감탄했다. 
+설마 벨크란트에 침입해 올 줄이야. 
+너희들의 헛된 노력에 감탄했다. 
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -51,8 +51,8 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-너에겐 승산이 없다. 
-천지전쟁은 이걸로 끝이다! 
+너에겐 승산이 없다.
+천지전쟁은 이걸로 끝이다!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -98,8 +98,8 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Lion>의 때는 너무 싱거워서 
-굳이 꺼내 쓸 필요도 없었지만 말이야…… 
+<Lion>의 경우는 너무 싱거워서 
+굳이 꺼낼 필요도 없었지만 말이야…… 
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -388,7 +388,7 @@
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-그래서 네가 거울면 배리어를 
+그래서 네가 경면 배리어를 
 개발할 수 있었던 거로군……! 
 [ENDBLOCK]
 <Miktran>
