@@ -1,0 +1,704 @@
+{
+    "SLPS": [
+        {
+            "offset": 1688448,
+            "string": "[Sign_5]デビルスピアー[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_5]데빌스피어[END]"
+        },
+        {
+            "offset": 1688472,
+            "string": "※ゲーム未使用[LINE]\n0[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "※게임 미사용[LINE]\n0[END]"
+        },
+        {
+            "offset": 1688496,
+            "string": "[Sign_6]デッドブルー[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_6]데드블루[END]"
+        },
+        {
+            "offset": 1688520,
+            "string": "[LINE]\n[END]",
+            "original_bytes_length": 2,
+            "available_bytes_size": 7,
+            "translation": "[LINE]\n[END]"
+        },
+        {
+            "offset": 1688528,
+            "string": "[Sign_5]アースビット[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_5]어스비트[END]"
+        },
+        {
+            "offset": 1688552,
+            "string": "[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n一撃に全晶力を集中させて放つ瞬速奥義。[END]",
+            "original_bytes_length": 94,
+            "available_bytes_size": 95,
+            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise] 계속 누르기＞[/color][LINE]\n한 방에 모든 결정력을 집중시켜 방출하는 순간 필살기.[END]"
+        },
+        {
+            "offset": 1688648,
+            "string": "マジンケン・セツガ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "마신검・찰아[END]"
+        },
+        {
+            "offset": 1688672,
+            "string": "[Sign_7]魔神剣・刹牙[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_7]마신검・찰아[END]"
+        },
+        {
+            "offset": 1688696,
+            "string": "弧を描く斬撃と共に、敵のＨＰを吸収する[LINE]\n術剣技。[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 48,
+            "translation": "호를 그리는 참격과 함께, 적의 HP를 흡수하는[LINE]\n술검기.[END]"
+        },
+        {
+            "offset": 1688744,
+            "string": "ガリュウザンゲツ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "와룡참월[END]"
+        },
+        {
+            "offset": 1688768,
+            "string": "[Sign_5]臥竜斬月[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_5]와룡참월[END]"
+        },
+        {
+            "offset": 1688784,
+            "string": "自身の集中とＨＰが上昇する術剣技。打撃属性[LINE]\nを備え、連携中の使用で効果が高まる。[END]",
+            "original_bytes_length": 80,
+            "available_bytes_size": 80,
+            "translation": "자신의 집중과 HP가 상승하는 술검기. 타격 속성[LINE]\n을 갖추고, 연계 중 사용 시 효과가 높아진다.[END]"
+        },
+        {
+            "offset": 1688864,
+            "string": "ジュウショウライ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "유초래[END]"
+        },
+        {
+            "offset": 1688888,
+            "string": "[Sign_5]柔招来[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_5]유초래[END]"
+        },
+        {
+            "offset": 1688904,
+            "string": "死地をくぐり抜けた者が習得する術剣技。[LINE]\n溢れる気合が大地を揺るがす。[END]",
+            "original_bytes_length": 68,
+            "available_bytes_size": 71,
+            "translation": "죽음의 땅을 뚫고 나아간 자가 습득하는 술검기.[LINE]\n넘치는 기합이 대지를 흔든다.[END]"
+        },
+        {
+            "offset": 1688976,
+            "string": "レッシンテンショウ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "열진천충[END]"
+        },
+        {
+            "offset": 1689000,
+            "string": "[Sign_5]烈震天衝[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_5]열진천충[END]"
+        },
+        {
+            "offset": 1689016,
+            "string": "激しい戦闘を勝ち抜いた者が習得する術剣技。[LINE]\n三日月を描く冷気の斬撃を放つ。[END]",
+            "original_bytes_length": 74,
+            "available_bytes_size": 79,
+            "translation": "치열한 전투를 이겨낸 자가 습득하는 술검기.[LINE]\n초승달을 그리는 냉기의 참격을 날린다.[END]"
+        },
+        {
+            "offset": 1689096,
+            "string": "ヒョウゲツショウセン[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "빙월상섬[END]"
+        },
+        {
+            "offset": 1689120,
+            "string": "[Sign_5]氷月翔閃[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_5]빙월상섬[END]"
+        },
+        {
+            "offset": 1689136,
+            "string": "[Sign_7]セレスティアル・アース[END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "[Sign_7]셀레스티얼・어스[END]"
+        },
+        {
+            "offset": 1689168,
+            "string": "[Sign_7]サバイヴィング・ホリン[END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "[Sign_7]서바이빙・홀린[END]"
+        },
+        {
+            "offset": 1689200,
+            "string": "[Sign_7]レインティブ・オリオン[END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "[Sign_7]레인티브・오리온[END]"
+        },
+        {
+            "offset": 1689232,
+            "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n主観的優雅を極める尻待機。[END]",
+            "original_bytes_length": 82,
+            "available_bytes_size": 87,
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n주관적 우아함을 극한으로 하는 엉덩이대기.[END]"
+        },
+        {
+            "offset": 1689320,
+            "string": "[Sign_7]トレビアンヒップ[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_7]트레비앙 힙[END]"
+        },
+        {
+            "offset": 1689344,
+            "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n多くの敵を巻き込む衝撃音波。[END]",
+            "original_bytes_length": 84,
+            "available_bytes_size": 87,
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n많은 적을 휩쓸어버리는 충격음파.[END]"
+        },
+        {
+            "offset": 1689432,
+            "string": "[Sign_7]ソニックストリーム[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_7]소닉스트림[END]"
+        },
+        {
+            "offset": 1689456,
+            "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n戦場に咲く氷輪の華。[END]",
+            "original_bytes_length": 76,
+            "available_bytes_size": 79,
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n전장에서 피어나는 얼음꽃.[END]"
+        },
+        {
+            "offset": 1689536,
+            "string": "シラナギ・トウガ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "백체・동화[END]"
+        },
+        {
+            "offset": 1689560,
+            "string": "[Sign_7]白薙・凍華[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_7]백체・동화[END]"
+        },
+        {
+            "offset": 1689576,
+            "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n射程内の敵を屠り去る奥義。[END]",
+            "original_bytes_length": 82,
+            "available_bytes_size": 87,
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n사정거리 내의 적을 처치하는 궁극기.[END]"
+        },
+        {
+            "offset": 1689664,
+            "string": "シンラバッサイ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "삼라폭쇄[END]"
+        },
+        {
+            "offset": 1689680,
+            "string": "[Sign_7]森羅爆砕[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_7]삼라폭쇄[END]"
+        },
+        {
+            "offset": 1689696,
+            "string": "※ミク専用[LINE]\n[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "※미쿠 전용[LINE]\n[END]"
+        },
+        {
+            "offset": 1689712,
+            "string": "[Sign_7]メルティアス[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_7]멜티어스[END]"
+        },
+        {
+            "offset": 1689736,
+            "string": "※バル専用[LINE]\n[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "※발 전용[LINE]\n[END]"
+        },
+        {
+            "offset": 1689752,
+            "string": "[Sign_7]ア イ テ ム な ぞ 使 っ て ん じ ゃ ね え ！[END]",
+            "original_bytes_length": 50,
+            "available_bytes_size": 55,
+            "translation": "[Sign_7]아이템따위 쓰지 마![END]"
+        },
+        {
+            "offset": 1689808,
+            "string": "[Sign_7]斬空天翔剣[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_7]참공천상검[END]"
+        },
+        {
+            "offset": 1689824,
+            "string": "[Sign_7]緋凰絶炎衝[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_7]비황절염충[END]"
+        },
+        {
+            "offset": 1689840,
+            "string": "[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n必殺になるまで殴る必勝の拳。[END]",
+            "original_bytes_length": 84,
+            "available_bytes_size": 87,
+            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n필살이 될 때까지 치는 필승의 주먹.[END]"
+        },
+        {
+            "offset": 1689928,
+            "string": "[Sign_7]ゴッツァブロゥ[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_7]고저 블로우[END]"
+        },
+        {
+            "offset": 1689952,
+            "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n浮かし技の連携後に繰り出される迅雷の剣。[END]",
+            "original_bytes_length": 96,
+            "available_bytes_size": 96,
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n띄우기술의 연계 후에 내뿜어지는 신뢰의 검.[END]"
+        },
+        {
+            "offset": 1690048,
+            "string": "[Sign_7]サンダーソード[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_7]선더소드[END]"
+        },
+        {
+            "offset": 1690072,
+            "string": "[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n気合と共に繰り出す一刀両断。[END]",
+            "original_bytes_length": 84,
+            "available_bytes_size": 87,
+            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n기합과 함께 내지르는 일도양단.[END]"
+        },
+        {
+            "offset": 1690160,
+            "string": "ザン！[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "참![END]"
+        },
+        {
+            "offset": 1690168,
+            "string": "[Sign_7]斬！[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Sign_7]참![END]"
+        },
+        {
+            "offset": 1690184,
+            "string": "[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n歌が全てを覆い尽くす星となる。[END]",
+            "original_bytes_length": 86,
+            "available_bytes_size": 87,
+            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n노래가 모든 것을 덮어버리는 별이 되다.[END]"
+        },
+        {
+            "offset": 1690272,
+            "string": "[Sign_7]レイヤースフィア[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_7]레이어스피어[END]"
+        },
+        {
+            "offset": 1690296,
+            "string": "[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n弓技の最高峰に位置する乱舞射撃。[END]",
+            "original_bytes_length": 88,
+            "available_bytes_size": 88,
+            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n활술의 최고봉에 위치하는 난무사격.[END]"
+        },
+        {
+            "offset": 1690384,
+            "string": "[Sign_7]ワイルドギース[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_7]와일드기스[END]"
+        },
+        {
+            "offset": 1690408,
+            "string": "[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n精神力を全て破壊の力に転化した禁呪奥義。[END]",
+            "original_bytes_length": 96,
+            "available_bytes_size": 96,
+            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n정신력을 모두 파괴의 힘으로 전환한 금주 오의.[END]"
+        },
+        {
+            "offset": 1690504,
+            "string": "マジンレンゴクサツ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "마신연옥살[END]"
+        },
+        {
+            "offset": 1690528,
+            "string": "[Sign_7]魔神煉獄殺[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_7]마신연옥살[END]"
+        },
+        {
+            "offset": 1690544,
+            "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n正邪を問わず浄化する双極の炎。[END]",
+            "original_bytes_length": 86,
+            "available_bytes_size": 87,
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n정악을 가리지 않고 정화하는 쌍극의 불꽃.[END]"
+        },
+        {
+            "offset": 1690632,
+            "string": "ジョウハメッショウエン[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "정파멸소암[END]"
+        },
+        {
+            "offset": 1690656,
+            "string": "[Sign_7]浄破滅焼闇[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_7]정파멸소암[END]"
+        },
+        {
+            "offset": 1690672,
+            "string": "[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n護るべき者のために力の全てを解放する。[END]",
+            "original_bytes_length": 94,
+            "available_bytes_size": 95,
+            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n지켜야 할 이를 위해 힘의 모든 것을 해방한다.[END]"
+        },
+        {
+            "offset": 1690768,
+            "string": "セッカザン[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "찰화참[END]"
+        },
+        {
+            "offset": 1690784,
+            "string": "[Sign_7]刹華斬[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_7]찰화참[END]"
+        },
+        {
+            "offset": 1690800,
+            "string": "[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n風の力を解放して放つ乱撃。[END]",
+            "original_bytes_length": 82,
+            "available_bytes_size": 87,
+            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n바람의 힘을 해방하여 쏘는 난격.[END]"
+        },
+        {
+            "offset": 1690888,
+            "string": "コウブセンコウセン[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "황무선황섬[END]"
+        },
+        {
+            "offset": 1690912,
+            "string": "[Sign_7]皇舞旋煌閃[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_7]황무선황섬[END]"
+        },
+        {
+            "offset": 1690928,
+            "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n敵を切り裂く巨大な真空波。[END]",
+            "original_bytes_length": 82,
+            "available_bytes_size": 87,
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n적을 가르는 거대한 진공파.[END]"
+        },
+        {
+            "offset": 1691016,
+            "string": "レッショウソウハジン[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "열충창파인[END]"
+        },
+        {
+            "offset": 1691040,
+            "string": "[Sign_7]裂衝蒼破塵[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_7]열충창파인[END]"
+        },
+        {
+            "offset": 1691056,
+            "string": "[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n「再誕」を冠する最大の攻撃晶術。[END]",
+            "original_bytes_length": 88,
+            "available_bytes_size": 88,
+            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n「재탄생」을 두른 최대의 공격정술.[END]"
+        },
+        {
+            "offset": 1691144,
+            "string": "[Sign_7]リバースクルセイダー[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_7]리버스크루세이더[END]"
+        },
+        {
+            "offset": 1691176,
+            "string": "[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n次々と繰り出される四聖術。[END]",
+            "original_bytes_length": 82,
+            "available_bytes_size": 87,
+            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n차례로 내뿜어지는 사성술.[END]"
+        },
+        {
+            "offset": 1691264,
+            "string": "[Sign_7]ディバインパウア[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_7]디바인파워[END]"
+        },
+        {
+            "offset": 1691288,
+            "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n邪悪な心に裁きを下す神聖なる光。[END]",
+            "original_bytes_length": 88,
+            "available_bytes_size": 88,
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n사악한 마음에 심판을 내리는 성스러운 빛.[END]"
+        },
+        {
+            "offset": 1691376,
+            "string": "[Sign_7]セイクリッドブレイム[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_7]세이크리드 블레임[END]"
+        },
+        {
+            "offset": 1691408,
+            "string": "[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n終焉を与える冷気の抱擁。[END]",
+            "original_bytes_length": 80,
+            "available_bytes_size": 80,
+            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n종말을 주는 냉기의 포옹.[END]"
+        },
+        {
+            "offset": 1691488,
+            "string": "[Sign_7]インブレイスエンド[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_7]임브레이스 엔드[END]"
+        },
+        {
+            "offset": 1691512,
+            "string": "[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n味方全てを全快させる癒しの奇跡。[END]",
+            "original_bytes_length": 88,
+            "available_bytes_size": 88,
+            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n아군 전체를 만회시키는 치유의 기적.[END]"
+        },
+        {
+            "offset": 1691600,
+            "string": "[Sign_7]ライフディスチャージ[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_7]라이프 디스차지[END]"
+        },
+        {
+            "offset": 1691632,
+            "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n盗みの限りを尽くす瞬速斬撃。[END]",
+            "original_bytes_length": 84,
+            "available_bytes_size": 87,
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n도둑질의 한계를 다하는 순속참격.[END]"
+        },
+        {
+            "offset": 1691720,
+            "string": "[Sign_7]トリックスター[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_7]트릭스타[END]"
+        },
+        {
+            "offset": 1691744,
+            "string": "[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n劫炎の剣で全てを焼き尽くす。[END]",
+            "original_bytes_length": 84,
+            "available_bytes_size": 87,
+            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n지옥의 불꽃으로 모든 것을 태워 없애버린다.[END]"
+        },
+        {
+            "offset": 1691832,
+            "string": "ゴウマカイジンケン[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "업마회진검[END]"
+        },
+        {
+            "offset": 1691856,
+            "string": "[Sign_7]業魔灰燼剣[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_7]업마회진검[END]"
+        },
+        {
+            "offset": 1691872,
+            "string": "[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n業火を操る乱舞剣技。[END]",
+            "original_bytes_length": 76,
+            "available_bytes_size": 79,
+            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n업화(業火)를 조종하는 난무 검기.[END]"
+        },
+        {
+            "offset": 1691952,
+            "string": "サツゲキブコウケン[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "살극무황검[END]"
+        },
+        {
+            "offset": 1691976,
+            "string": "[Sign_7]殺劇舞荒剣[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_7]살극무황검[END]"
+        },
+        {
+            "offset": 1691992,
+            "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n天を翔ける紅蓮の鳳凰。[END]",
+            "original_bytes_length": 78,
+            "available_bytes_size": 79,
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n하늘을 나는 홍련의 봉황.[END]"
+        },
+        {
+            "offset": 1692072,
+            "string": "コウオウテンショウヨク[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "황왕천상익[END]"
+        },
+        {
+            "offset": 1692096,
+            "string": "[Sign_7]皇王天翔翼[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_7]황왕천상익[END]"
+        },
+        {
+            "offset": 1692112,
+            "string": "[Sign_6]ヘイトゥレッド[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_6]헤이트레드[END]"
+        },
+        {
+            "offset": 1692136,
+            "string": "[Sign_6]セラフィックフェザー[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_6]세라픽페더[END]"
+        },
+        {
+            "offset": 1692168,
+            "string": "[Sign_6]アークエンジェル[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_6]아크엔젤[END]"
+        },
+        {
+            "offset": 1692192,
+            "string": "[Sign_6]スポイル・レジスト[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_6]스포일・레지스트[END]"
+        },
+        {
+            "offset": 1692216,
+            "string": "[Sign_6]スポイル・マインド[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_6]스포일・마인드[END]"
+        },
+        {
+            "offset": 1692240,
+            "string": "[Sign_6]スポイル・アーマー[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_6]스포일・아머[END]"
+        },
+        {
+            "offset": 1692264,
+            "string": "[Sign_6]スポイル・ウェポン[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_6]스포일・웨폰[END]"
+        },
+        {
+            "offset": 1692288,
+            "string": "魔神の槍を召喚すると共に、禁呪の力を[LINE]\n我が物とする闇系晶術。[END]",
+            "original_bytes_length": 60,
+            "available_bytes_size": 63,
+            "translation": "마신의 창을 소환함과 동시에, 금주(禁呪)의 힘을[LINE]\n내 것으로 하는 어둠 계열의 결정술.[END]"
+        },
+        {
+            "offset": 1692352,
+            "string": "[Sign_6]デモンズランス・ゼロ[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_6]데몬즈랜스・제로[END]"
+        },
+        {
+            "offset": 1692384,
+            "string": "[Sign_6]ブラックウィング[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_6]블랙윙[END]"
+        },
+        {
+            "offset": 1692408,
+            "string": "[Sign_6]アンビバレンス[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_6]암비발런스[END]"
+        },
+        {
+            "offset": 1692432,
+            "string": "３秒間、敵の動きを停止させる晶術。[LINE]\n短時間だし踊るヒマはありません。[END]",
+            "original_bytes_length": 68,
+            "available_bytes_size": 71,
+            "translation": "3초간, 적의 움직임을 정지시키는 결정술.[LINE]\n짧은 시간이라 춤출 여유는 없습니다.[END]"
+        },
+        {
+            "offset": 1692504,
+            "string": "[Sign_6]ストップフロウ[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_6]스톱플로우[END]"
+        },
+        {
+            "offset": 1692528,
+            "string": "[Sign_6]プリズムシャイン[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_6]프리즘샤인[END]"
+        }
+    ]
+}

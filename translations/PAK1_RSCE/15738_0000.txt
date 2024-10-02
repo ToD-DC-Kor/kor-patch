@@ -5,15 +5,15 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-어디에 갔는지 모르겠네……
-<Lion>씨, 내 안경을 보지 못했나요?
+어디로 갔을까……
+<Lion> 씨, 제 안경 보지 않으셨나요?
 [ENDBLOCK]
-저, 나는<Rutee>인데.
+저기, 저는 <Rutee>인데요.
 [ENDBLOCK]
 죄, 죄송합니다……
 [ENDBLOCK]
-아, <Lion>씨.
-내 안경을 보지 못했나요?
+아, <Lion> 씨.
+제 안경 보지 않으셨나요?
 [ENDBLOCK]
-……너, 일부러 이러는 거 아니야?
+……너 일부러 그러는 거 아니야?
 [ENDBLOCK]

@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-안쪽 봉인 장치로 가야 해……
+안쪽에 있는 봉인 장치로 가야 해……
 [ENDBLOCK]
