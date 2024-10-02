@@ -13,8 +13,8 @@
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-그렇소. 각종 무기와 몬스터의 개발,
-제조가 이루어졌지.
+그렇다네. 각종 무기와 몬스터의
+개발, 제조가 이루어졌지.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -94,7 +94,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-이제 정말 시간이 없어지고 있네.
+이제 정말 시간이 없어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

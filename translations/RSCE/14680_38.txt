@@ -502,7 +502,7 @@ openflag -><x17><x71><x48><x78><x80>
 소녀
 [ENDBLOCK]
 파란 돌이 더 필요하면
-遠慮말고 말해줘.
+주저하지 말고 말해줘.
 [ENDBLOCK]
 소녀
 [ENDBLOCK]

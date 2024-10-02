@@ -548,8 +548,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-운이 돌아오는 때라는 건
-대체로 그런 거야.
+운이 돌아오는 때는
+대체로 그런 법이지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

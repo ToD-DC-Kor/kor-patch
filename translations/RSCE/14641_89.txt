@@ -1,13 +1,13 @@
 <Hugo>
 [ENDBLOCK]
-무엇을 위해서? 
-물론, 천상 세계의 영광을 
-다시 이 세상에 가져오기 위해서다! 
+무엇을 위해서?
+물론, 천상 세계의 영광을
+다시 이 세상에 가져오기 위해서다!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-새로운 천지전쟁이 
-바로 지금 막을 올렸다! 
+새로운 천지전쟁이
+바로 지금 막을 올렸다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -15,8 +15,8 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-아니, 저건 입체 영상에 불과해. 
-지금 신의 눈의 상태를 나타내고 있는 거겠지. 
+아니, 저건 입체 영상에 불과해.
+지금 신의 눈의 상태를 나타내고 있는 거겠지.
 [ENDBLOCK]
 ????
 [ENDBLOCK]
@@ -28,83 +28,83 @@
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-여기서 나타났구나…… 
+여기서 나타났구나……
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-설마 벨크란트에 타고 올 줄이야. 
-너희들의 발버둥에는 감탄했다. 
+설마 벨크란트에 침입해 올 줄이야.
+너희들의 헛된 노력에 감탄했다.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Hugo>, 네 야망도 여기까지다. 
-이 이상 마음대로 하게 두지 않겠다. 
+<Hugo>, 네 야망도 여기까지다.
+이 이상 마음대로 하게 두지 않겠다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-당신이 의지하던 측근도 
-이제 없습니다. 남은 건 당신뿐이에요. 
+당신이 의지하던 측근도
+이제 없습니다. 남은 건 당신뿐이에요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-각오는 됐어? 
+각오는 됐어?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-너에겐 승산이 없다. 
-천지전쟁은 이걸로 끝이다! 
+너에겐 승산이 없다.
+천지전쟁은 이걸로 끝이다!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-후후후…… 
+후후후……
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-하하하하하! 
-승산이 없다고? 
+하하하하하!
+승산이 없다고?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭐가 그렇게 우스운 거야!? 
+뭐가 그렇게 우스운 거야!?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-너희들의 순진함이지. 
-<Lion>에게서 듣지 않았나? 
+너희들의 순진함이지.
+<Lion>에게서 듣지 않았나?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>에게서……? 뭘……? 
+<Lion>에게서……? 뭘……?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-내가 얼마나 큰 힘을 가졌는지 말이야. 
-전혀 듣지 못했나? 
+내가 얼마나 큰 힘을 가졌는지 말이야.
+전혀 듣지 못했나?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-그 소년 검사가 바닥에 엎드려 
-울면서 나에게 용서를 빌던 모습을! 
+그 소년 검사가 바닥에 엎드려
+울면서 나에게 용서를 빌던 모습을!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>을 모욕하지 마! 
-그 녀석은 그런 짓을 하지 않아! 
+<Lion>을 모욕하지 마!
+그 녀석은 그런 짓을 하지 않아!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-후후후…… 모처럼 만났으니 
-한번 상대해 주지. 
+후후후…… 모처럼 만났으니
+한번 상대해 주지.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Lion>의 때는 너무 싱거워서 
-굳이 꺼내 쓸 필요도 없었지만 말이야…… 
+<Lion>의 경우는 너무 싱거워서
+굳이 꺼낼 필요도 없었지만 말이야……
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-소디언들아. 
-이 검이 익숙하지 않나! 
+소디언들아.
+이 검이 익숙하지 않나!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -112,117 +112,117 @@
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-설마…… 
+설마……
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-……<Belserius>! 
+……<Belserius>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Belserius>라고……? 
+<Belserius>라고……?
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-이전 천지전쟁 때 잃어버렸던…… 
-여섯 번째 소디언이야…… 
+이전 천지전쟁 때 잃어버렸던……
+여섯 번째 소디언이야……
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-어째서 저기에 있는 거지, 
-저게……! 
+어째서 저기에 있는 거지,
+저게……!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Belserius>는 천상군의 잔당들에 의해 
-몰래 지상으로 운반되었지. 
+<Belserius>는 천상군의 잔당들에 의해
+몰래 지상으로 운반되었지.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-칼바레이스에 보관되어 있던 것을 
-내가 손에 넣었다는 거지! 
+칼바레이스에 보관되어 있던 것을
+내가 손에 넣었다는 거지!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-하지만 <Belserius>는 
-그때의 전투로 파손됐었잖아. 
+하지만 <Belserius>는
+그때의 전투로 파손됐었잖아.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-부서졌는지 아닌지는 
-한번 겨뤄보면 알 수 있겠지. 
+부서졌는지 아닌지는
+한번 겨뤄보면 알 수 있겠지.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Belserius>, 정말 너인가? 
-들리고 있다면 대답해! 
+<Belserius>, 정말 너인가?
+들리고 있다면 대답해!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-<Belserius>! 
+<Belserius>!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-각오는 됐나, 벌레들아. 
+각오는 됐나, 벌레들아.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Belserius>의 칼날에 맞아 
-죽어라! 
+<Belserius>의 칼날에 맞아
+죽어라!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-으악…… 
+으악……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-이걸로…… 끝났어…… 
+이걸로…… 끝났어……
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-설마 <Belserius>와 
-맞서게 될 줄은 몰랐어…… 
+설마 <Belserius>와
+맞서게 될 줄은 몰랐어……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-잠깐, 신의 눈의 모습이 
-이상하지 않아? 
+잠깐, 신의 눈의 모습이
+이상하지 않아?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-그래. 빛이 점점 더 강해지고 있어! 
+그래. 빛이 점점 더 강해지고 있어!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-여러분, 보세요! 
-<Belserius>에서도 빛이! 
+여러분, 보세요!
+<Belserius>에서도 빛이!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Belserius>에 대체 무슨 일이!? 
+<Belserius>에 대체 무슨 일이!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-아직도 일어설 생각이야!? 
+아직도 일어설 생각이야!?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-후후후…… 이 정도 공격으로 
-나를 쓰러뜨릴 수 있다고 생각하지 마. 
+후후후…… 이 정도 공격으로
+나를 쓰러뜨릴 수 있다고 생각하지 마.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-천한 지상의 백성들이 아무리 발버둥 쳐도 
-지고한 존재인 나를 당해낼 수 있겠나! 
+천한 지상의 백성들이 아무리 발버둥 쳐도
+지고한 존재인 나를 당해낼 수 있겠나!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-이 <Belserius>가 있는 한! 
-나는 무적이다! 
+이 <Belserius>가 있는 한!
+나는 무적이다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-너…… 누구냐? 
+너…… 누구냐?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -230,38 +230,38 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아까부터…… 뭔가 이상해. 
+아까부터…… 뭔가 이상해.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-너는 정말로 <Hugo>인가? 
-……실은 다른 누군가 아닌가? 
+너는 정말로 <Hugo>인가?
+……실은 다른 누군가 아닌가?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>, 넌 무슨 소리 하는 거야? 
+<Stahn>, 넌 무슨 소리 하는 거야?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어떤 거냐, 대답해! 
+어떤 거냐, 대답해!
 [ENDBLOCK]
 ?????
 [ENDBLOCK]
-후후후…… 천한 지상의 백성치고는 
-꽤 좋은 감을 가지고 있군. 
+후후후…… 천한 지상의 백성치고는
+꽤 좋은 감을 가지고 있군.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-이, 이 목소리는! 
+이, 이 목소리는!
 [ENDBLOCK]
 ?????
 [ENDBLOCK]
-여기까지 알아챘으니 
-내 진정한 모습을 보여주지! 
+여기까지 알아챘으니
+내 진정한 모습을 보여주지!
 [ENDBLOCK]
 ?????
 [ENDBLOCK]
-으아아아악! 
+으아아아악!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -281,11 +281,11 @@
 [ENDBLOCK]
 ?????
 [ENDBLOCK]
-후후후…… 
+후후후……
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-말도 안 돼, 저건……! 
+말도 안 돼, 저건……!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -297,27 +297,27 @@
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-하하하하하하하하하! 강림이다! 
-천상의 왕인 내가 다시 현세에 강림했다! 
+하하하하하하하하하! 강림이다!
+천상의 왕인 내가 다시 현세에 강림했다!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-어째서…… 어째서……! 
+어째서…… 어째서……!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-그럴 수가…… <Miktran>이…… 
-어떻게 실체화할 수 있는 거야? 
+그럴 수가…… <Miktran>이……
+어떻게 실체화할 수 있는 거야?
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-우리 천상군의 기술력은 
-지상군을 앞서고 있었다는 거지. 
+우리 천상군의 기술력은
+지상군을 앞서고 있었다는 거지.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-재료가 될 육체와 신의 눈의 힘만 있다면 
-죽은 후의 부활도 가능하다고! 
+재료가 될 육체와 신의 눈의 힘만 있다면
+죽은 후의 부활도 가능하다고!
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
@@ -325,7 +325,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-사람의 몸을 재료라고 부르다니…… 
+사람의 몸을 재료라고 부르다니……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -333,16 +333,16 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-전부 네가 한 짓이었구나. 
-모든 게 네 짓이었어! 
+전부 네가 한 짓이었구나.
+모든 게 네 짓이었어!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-그렇다면 어쩔 테냐. 
+그렇다면 어쩔 테냐.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-역시……! 
+역시……!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
@@ -350,116 +350,116 @@
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-너희는 이전 전투에서 내가 
-동반 파멸됐다고 생각했겠지? 
+너희는 이전 전투에서 내가
+동반 파멸됐다고 생각했겠지?
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-어림없다! 그때 나는 내 인격을 
-<Belserius>에 투사하고 있었다! 
+어림없다! 그때 나는 내 인격을
+<Belserius>에 투사하고 있었다!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-그리고 <Belserius>를 내 것으로 삼아 
-그 안에 숨어 있었던 거야! 
+그리고 <Belserius>를 내 것으로 삼아
+그 안에 숨어 있었던 거야!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-뭐라고…… 
+뭐라고……
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-부서진 척하는 건 굴욕이었지만 
-덕분에 재미있는 지식도 얻었지. 
+부서진 척하는 건 굴욕이었지만
+덕분에 재미있는 지식도 얻었지.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-<Belserius>의 원래 인격은 
-꽤나 두뇌가 좋은 녀석이었나? 
+<Belserius>의 원래 인격은
+꽤나 두뇌가 좋은 녀석이었나?
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-카렐 말이군…… 
+카렐 말이군……
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-카렐이라고? 
-……흥, 뭐 좋아. 
+카렐이라고?
+……흥, 뭐 좋아.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-그래서 네가 거울면 배리어를 
-개발할 수 있었던 거로군……! 
+그래서 네가 경면 배리어를
+개발할 수 있었던 거로군……!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-<Hugo>가 나를 손에 넣었을 때 
-나는 그자의 의식을 장악했다. 
+<Hugo>가 나를 손에 넣었을 때
+나는 그자의 의식을 장악했다.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-그리고 지금까지 내 조종 인형으로 
-삼고 있었다는 거지. 
+그리고 지금까지 내 조종 인형으로
+삼고 있었다는 거지.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-<Hugo>도 결국은 천한 지상의 백성. 
-그렇지 않다면 여기까지 올 수 없었을 테니! 
+<Hugo>도 결국은 천한 지상의 백성.
+그렇지 않다면 여기까지 올 수 없었을 테니!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너, 용서 못 해! 
+너, 용서 못 해!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Hugo>의 편을 들려는 건 아니지만…… 
-네가 한 짓은 절대로 용서할 수 없어! 
+<Hugo>의 편을 들려는 건 아니지만……
+네가 한 짓은 절대로 용서할 수 없어!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-후후후…… 벨크란트의 발사 준비가 
-완료된 것 같군. 
+후후후…… 벨크란트의 발사 준비가
+완료된 것 같군.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-이걸로 외각은 완성된다. 
-더러운 지상이 어둠에 잠기는 거지! 
+이걸로 외각은 완성된다.
+더러운 지상이 어둠에 잠기는 거지!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-이후에는 왕인 나의 지배 아래 
-선택받은 자들의 낙원이 천상에 세워질 것이다! 
+이후에는 왕인 나의 지배 아래
+선택받은 자들의 낙원이 천상에 세워질 것이다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런 짓 못 하게 할 거야! 
+그런 짓 못 하게 할 거야!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-흥, 쓸데없는 발버둥이군. 
-……그렇다면 이걸 보아라! 
+흥, 쓸데없는 발버둥이군.
+……그렇다면 이걸 보아라!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-하아아아악! 
+하아아아악!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Belserius>에서 빛이! 
+<Belserius>에서 빛이!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-엄청난 압력이야. 
-이런 <Belserius>는 본 적이 없어……! 
+엄청난 압력이야.
+이런 <Belserius>는 본 적이 없어……!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-몸풀기 삼아 놀아주지. 
+몸풀기 삼아 놀아주지.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-가짜 소디언 마스터가 몇 명이나 있어도 
-내 적수가 되지 못해! 
+가짜 소디언 마스터가 몇 명이나 있어도
+내 적수가 되지 못해!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -479,76 +479,76 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-으…… 윽! 
+으…… 윽!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-말도 안 돼…… 이럴 리가…… 
+말도 안 돼…… 이럴 리가……
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-너희와 나는 격이 다르다. 
-이제 알았느냐! 
+너희와 나는 격이 다르다.
+이제 알았느냐!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-신의 눈이……! 
+신의 눈이……!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-지상이 영원한 어둠에 잠기는 모습을 
-똑똑히 지켜보아라! 
+지상이 영원한 어둠에 잠기는 모습을
+똑똑히 지켜보아라!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그만둬……! 
+그만둬……!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-벨크란트, 발사다! 
+벨크란트, 발사다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그만둬어어어! 
+그만둬어어어!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-외각이…… 
+외각이……
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-후후후…… 
+후후후……
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-완성되어 버린 건가…… 
+완성되어 버린 건가……
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-후후후후…… 
+후후후후……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-여기까지 와놓고…… 
+여기까지 와놓고……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-젠장! 
+젠장!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-아하하하하! 
-이걸로 우리 천상군의 완전한 승리다! 
+아하하하하!
+이걸로 우리 천상군의 완전한 승리다!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-이대로 너희에게 마지막 일격을 가하겠다. 
-고마워하도록 해라. 
+이대로 너희에게 마지막 일격을 가하겠다.
+고마워하도록 해라.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-천상의 왕인 내가 
-직접 손을 쓰는 거니까 말이다! 
+천상의 왕인 내가
+직접 손을 쓰는 거니까 말이다!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
@@ -556,41 +556,41 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>……! 
+<Rutee>……!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-특별 대우해 주는 거야? 
-고마워서 눈물이 나네. 
+특별 대우해 주는 거야?
+고마워서 눈물이 나네.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-<Hugo>는 너의 일을 
-항상 신경 쓰고 있었지. 
+<Hugo>는 너의 일을
+항상 신경 쓰고 있었지.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭐라고요……? 
+뭐라고요……?
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-내가 육체를 장악한 후에도 
-<Hugo>의 의식은 어느 정도 남아 있었다. 
+내가 육체를 장악한 후에도
+<Hugo>의 의식은 어느 정도 남아 있었다.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-그래서 알게 됐지. 
-그 남자는 끊임없이 고민하고 있었어. 
+그래서 알게 됐지.
+그 남자는 끊임없이 고민하고 있었어.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-자신이 아버지라는 사실을 
-어떻게든 전할 수 없을까 하고 말이야. 
+자신이 아버지라는 사실을
+어떻게든 전할 수 없을까 하고 말이야.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-천한 무리가 생각할 법한 일이지! 
-나는 항상 비웃고 있었다고! 
+천한 무리가 생각할 법한 일이지!
+나는 항상 비웃고 있었다고!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -598,16 +598,16 @@
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-그렇게 들었다고 해서 뭘 할 수 있겠나? 
-아쉽겠군. 하하하하하! 
+그렇게 들었다고 해서 뭘 할 수 있겠나?
+아쉽겠군. 하하하하하!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-이 자식아! 
+이 자식아!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-장난하지 마……! 
+장난하지 마……!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
@@ -615,75 +615,75 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-천상인은 지상인과 다르지 않다고 
-들었지만, 너는 예외다. 
+천상인은 지상인과 다르지 않다고
+들었지만, 너는 예외다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-너에겐 인간의 마음이 없어! 
+너에겐 인간의 마음이 없어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-가족이 서로를 소중히 여기는 마음을 
-비웃다니 최악이야! 
+가족이 서로를 소중히 여기는 마음을
+비웃다니 최악이야!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-네가 지상인보다 
-뛰어나다고? 말도 안 돼! 
+네가 지상인보다
+뛰어나다고? 말도 안 돼!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-닥쳐라. 
+닥쳐라.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-으악! 
+으악!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-건방진 벌레 같으니. 
-이번엔 네놈을 처리해 주지. 
+건방진 벌레 같으니.
+이번엔 네놈을 처리해 주지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-으…… 으…… 
+으…… 으……
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>, 정신 차려! 
-<Stahn>! 
+<Stahn>, 정신 차려!
+<Stahn>!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-자, 각오는 됐나? 
-<Rutee> 카틀릿. 
+자, 각오는 됐나?
+<Rutee> 카틀릿.
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-<Hugo> 질크리스트의 
-사랑하는 딸아! 
+<Hugo> 질크리스트의
+사랑하는 딸아!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-아…… 
+아……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-아버지……! 
+아버지……!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-음……? 
+음……?
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-무슨 일이지……? 
-몸이…… 움직이지…… 
+무슨 일이지……?
+몸이…… 움직이지……
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Rutee>…… 들리나…… 
+<Rutee>…… 들리나……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -695,49 +695,49 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-무, 무슨 일이 일어나고 있는 거지……? 
+무, 무슨 일이 일어나고 있는 거지……?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-시간이 없다. 이곳에서 탈출해라. 
+시간이 없다. 이곳에서 탈출해라.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-지금부터 벨크란트를 분리한다. 
-그대로…… 지상으로…… 
+지금부터 벨크란트를 분리한다.
+그대로…… 지상으로……
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-이 자식! <Hugo>의 의식이 
-육체에 남아있었나! 건방지군! 
+이 자식! <Hugo>의 의식이
+육체에 남아있었나! 건방지군!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-<Hugo>…… 네놈……! 
+<Hugo>…… 네놈……!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-내 사념은 곧 사라질 거다…… 
-그전에…… 서둘러…… 
+내 사념은 곧 사라질 거다……
+그전에…… 서둘러……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-기다려요! 
+기다려요!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-이런 나를…… 아버지라고 불러줘서…… 
-기뻤다…… 
+이런 나를…… 아버지라고 불러줘서……
+기뻤다……
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-너에게 아무것도…… 
-해주지…… 못했는데…… 
+너에게 아무것도……
+해주지…… 못했는데……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>, 
-<Hugo> 씨의 말대로 하자. 
+<Rutee>,
+<Hugo> 씨의 말대로 하자.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -745,19 +745,19 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-고마…… 워…… 
+고마…… 워……
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Rutee>…… 무사하길…… 
+<Rutee>…… 무사하길……
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-용서 못 한다아아악! 
+용서 못 한다아아악!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-아버지…… 아버지! 
+아버지…… 아버지!
 [ENDBLOCK]
 radx, rady -- <x1D><x76><x00><x80>, <x1D><x76><x04><x80>
 
