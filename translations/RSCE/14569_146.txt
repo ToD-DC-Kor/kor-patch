@@ -162,7 +162,7 @@
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-상쾌할 정도로 곧바르구나.
+정말로 순수하고 곧은 성격이구나.
 그게 <Stahn>군의 매력인가……
 [ENDBLOCK]
 <Ilene>
@@ -206,8 +206,8 @@
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-얌전하게 만드느라 고생했다.
-정말, 손이 많이 갔군.
+얌전하게 만드느라 애 좀 먹었어.
+정말이지, 손이 많이 가네.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -281,7 +281,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나…… 뭔가 모르겠어졌어.
+나…… 점점 혼란스러워지고 있어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -308,8 +308,9 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-자신의 가까운 사람이라든가, 소중한 무언가라든가.
-그런 것들을 위해서야말로 힘을 낼 수 있는 사람이라고.
+자신의 가까운 사람이나, 소중한 무언가라든가.
+그런 것들을 위해서야말로
+힘을 낼 수 있는 사람이라고.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -449,7 +450,7 @@
 <Woodrow>
 [ENDBLOCK]
 지난번 <Greybum>과의 전투에서
-고생을 끼쳤구나.
+고생을 시켰구나.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
@@ -472,7 +473,7 @@
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-다이크로프트를 감싸는 거울면 배리어를
+다이크로프트를 감싸는 경면 배리어를
 소디언으로 찢으려는 거겠지?
 [ENDBLOCK]
 <Igtenos>
@@ -529,7 +530,7 @@
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-장치 인계의 사정도 있다.
+장치 인계의 사정도 있으니
 일단 라디스로우로 돌아와 주기 바란다.
 [ENDBLOCK]
 <Stahn>

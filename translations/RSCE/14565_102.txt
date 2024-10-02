@@ -94,7 +94,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-이제 정말 시간이 없어지고 있네.
+이제 정말 시간이 없어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

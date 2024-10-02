@@ -46,8 +46,8 @@
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-<Stahn>군, 손을 놓아주지 않겠어요?
-<Hugo> 님의 계획을 방해하지 말아요.
+<Stahn>군, 손을 놓아주지 않겠어?
+<Hugo> 님의 계획을 방해하지 말아줘.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -56,13 +56,13 @@
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-지금 목소리는 <Rutee> 씨인가요.
-역시 여기 있었군요.
+지금 목소리는 <Rutee> 씨인가.
+역시 여기 있었구나.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-들어봐요, <Stahn>군. 나는 <Hugo> 님께
-지상 사람들의 이주를 요청할 생각이에요.
+들어봐, <Stahn>군. 나는 <Hugo> 님께
+지상 사람들의 이주를 요청할 생각이야.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -72,7 +72,7 @@
 <Ilene>
 [ENDBLOCK]
 적성 검사를 실시해서 인정받은 사람이라면
-새로운 세계의 주민이 될 자격이 있다고 생각해요.
+새로운 세계의 주민이 될 자격이 있다고 생각해.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -95,8 +95,8 @@
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-……그래요. 대화는 결렬된 것 같네요.
-유감이에요.
+……그래. 대화는 결렬된 것 같네.
+유감이구나.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -108,7 +108,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>! 어서 그 여자한테로
+<Stahn>! 어서 저 여자한테
 쳐들어가자고!
 [ENDBLOCK]
 <Stahn>
@@ -117,7 +117,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-두고 봐. 부자라서 고생 모르는 애한테
+두고 봐. 부자라서 고생도 모르는 너한테
 인생의 쓴맛을 보여주겠어!
 [ENDBLOCK]
 select
