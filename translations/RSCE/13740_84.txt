@@ -835,7 +835,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-참 ひどい有様ですね……
+정말 끔찍한 상황이네요……
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -843,7 +843,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-뒤를 쫓아!
+뒤를 쫓아가!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -976,7 +976,7 @@ select
 <Johnny>
 [ENDBLOCK]
 찬성이야.
-쉴 수 있을 때 쉬어두지 않으면.
+쉴 수 있을 때 쉬어야 해.
 [ENDBLOCK]
 여러분의 일은 제가 폐하께
 보고해 두겠습니다.
@@ -994,7 +994,7 @@ select
 <Stahn>
 [ENDBLOCK]
 너는 거기서 지상을 내려다보며
-꽤나 기분이 좋겠지!
+정말 기분이 좋겠지!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1153,7 +1153,7 @@ select
 <Stahn>
 [ENDBLOCK]
 나는 원래 마스터였던
-너 자신에 가까워지고 싶어.
+너 자신에게 더 가까워지고 싶어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
