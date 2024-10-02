@@ -26,7 +26,7 @@
             "string": "狙う敵を毎回変え、フィールドを[LINE]\n駆け回ります。[END]",
             "original_bytes_length": 46,
             "available_bytes_size": 47,
-            "translation": "노릴 적을 매번 바꾸며, 필드를[LINE]\n뛰어다닙니다.[END]"
+            "translation": "타킷을 매번 바꾸며, 필드를[LINE]\n뛰어다닙니다.[END]"
         },
         {
             "offset": 1708040,
@@ -54,14 +54,14 @@
             "string": "通常攻撃をあまり使わず、特技主体で[LINE]\n攻撃します。[END]",
             "original_bytes_length": 48,
             "available_bytes_size": 48,
-            "translation": "보통 공격을 많이 사용하지 않고, 특기를 주로 하여[LINE]\n공격합니다.[END]"
+            "translation": "통상공격을 많이 사용하지 않고, 기술을 주로 사용하여[LINE]\n공격합니다.[END]"
         },
         {
             "offset": 1708176,
             "string": "大技でキメろ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "대기술로 결정하라[END]"
+            "translation": "큰 기술로 끝내라[END]"
         },
         {
             "offset": 1708192,
@@ -75,7 +75,7 @@
             "string": "間合いで戦え[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "간격으로 싸워라[END]"
+            "translation": "거리를 유지하며 싸워라[END]"
         },
         {
             "offset": 1708288,
@@ -110,14 +110,14 @@
             "string": "位置やHPが安全なときにのみちくちく[LINE]\n攻撃します。[END]",
             "original_bytes_length": 48,
             "available_bytes_size": 48,
-            "translation": "위치나 HP가 안전할 때만 찔찔[LINE]\n공격합니다.[END]"
+            "translation": "위치나 HP가 안전할 때만 틈틈히[LINE]\n공격합니다.[END]"
         },
         {
             "offset": 1708448,
             "string": "ちまちま攻めろ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "조금씩 공격하라[END]"
+            "translation": "아기자기하게 공격하라[END]"
         },
         {
             "offset": 1708464,
@@ -152,14 +152,14 @@
             "string": "敵の背後をつくように行動し、奥の敵を[LINE]\n狙います。[END]",
             "original_bytes_length": 48,
             "available_bytes_size": 48,
-            "translation": "적의 뒤를 노리듯 행동하고, 깊숙한 적을[LINE]\n노립니다.[END]"
+            "translation": "적의 뒤를 노리듯 행동하며, 안쪽의 적을[LINE]\n노립니다.[END]"
         },
         {
             "offset": 1708648,
             "string": "敵をかく乱せよ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "적을 혼란시켜라[END]"
+            "translation": "적을 교란하라[END]"
         },
         {
             "offset": 1708664,
@@ -171,7 +171,7 @@
         {
             "offset": 1708712,
             "string": "後に続け[END]",
-            "translation": "뒤를 따라[END]",
+            "translation": "리더를 따른다[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
@@ -180,28 +180,28 @@
             "string": "リーダーの背後の敵を優先して[LINE]\n狙います。[END]",
             "original_bytes_length": 40,
             "available_bytes_size": 40,
-            "translation": "리더의 뒤쪽 적을 우선하여[LINE]\n노립니다.[END]"
+            "translation": "리더 배후의 적을 우선하여[LINE]\n노립니다.[END]"
         },
         {
             "offset": 1708768,
             "string": "背中は預けた[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "등은 맡겼다[END]"
+            "translation": "등 뒤를 부탁한다[END]"
         },
         {
             "offset": 1708784,
             "string": "近接攻撃と晶術・間接攻撃をパーティ[LINE]\n構成や戦況に応じて切り替えます。[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71,
-            "translation": "근접 공격과 결정술・간접 공격을 파티[LINE]\n구성이나 전황에 맞춰 전환합니다.[END]"
+            "translation": "근접 공격과 정술・간접 공격을 파티[LINE]\n구성이나 상황에 맞춰 전환합니다.[END]"
         },
         {
             "offset": 1708856,
             "string": "攻守の要となれ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "공수의 요체가 되어라[END]"
+            "translation": "공수의 요소가 되어라[END]"
         },
         {
             "offset": 1708872,
@@ -236,49 +236,49 @@
             "string": "中衛・後衛に回り、弓矢攻撃主体で[LINE]\n戦います。[END]",
             "original_bytes_length": 44,
             "available_bytes_size": 47,
-            "translation": "중위・후위로 돌아가, 활 공격을 주로 하여[LINE]\n전투합니다.[END]"
+            "translation": "중거리・원거리를 돌아가며, 활 공격을 주로 하여[LINE]\n전투합니다.[END]"
         },
         {
             "offset": 1709064,
             "string": "援護につとめろ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "지원에 힘써라[END]"
+            "translation": "지원에 전념하라[END]"
         },
         {
             "offset": 1709080,
             "string": "詠唱時間の短い晶術や近接攻撃で、[LINE]\n詠唱中・攻撃中の敵を狙います。[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64,
-            "translation": "시전 시간이 짧은 결정술이나 근접 공격으로,[LINE]\n시전 중・공격 중인 적을 노립니다.[END]"
+            "translation": "영창 시간이 짧은 정술이나 근접 공격으로,[LINE]\n영창・공격 중인 적을 노립니다.[END]"
         },
         {
             "offset": 1709144,
             "string": "敵の邪魔をしろ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "적의 방해를 해라[END]"
+            "translation": "적을 방해하라[END]"
         },
         {
             "offset": 1709160,
             "string": "攻撃晶術を一番近い敵に行いますが、[LINE]\n敵が近くに来れば近接攻撃を行います。[END]",
             "original_bytes_length": 72,
             "available_bytes_size": 72,
-            "translation": "공격 결정술을 가장 가까운 적에게 사용하지만,[LINE]\n적이 가까이 오면 근접 공격을 합니다.[END]"
+            "translation": "공격 정술을 가장 가까운 적에게 사용하지만,[LINE]\n적이 가까이 오면 근접 공격을 합니다.[END]"
         },
         {
             "offset": 1709232,
             "string": "防戦も頑張れ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "방어전도 열심히 해라[END]"
+            "translation": "방어전도 힘내라[END]"
         },
         {
             "offset": 1709248,
             "string": "攻撃晶術優先で、高レベルの敵を狙い、[LINE]\nHPが半分を切ると防御主体になります。[END]",
             "original_bytes_length": 74,
             "available_bytes_size": 79,
-            "translation": "공격 결정술을 우선으로 하여, 고레벨의 적을 노리고,[LINE]\nHP가 반 이하로 떨어지면 방어 중심이 됩니다.[END]"
+            "translation": "공격 정술을 우선으로 하여, 고레벨의 적을 노리고,[LINE]\nHP가 반 이하로 떨어지면 방어 중심이 됩니다.[END]"
         },
         {
             "offset": 1709328,
@@ -292,7 +292,7 @@
             "string": "攻撃晶術優先で、HPが少ない敵を狙い、[LINE]\nHPが１／４以下では防御主体になります。[END]",
             "original_bytes_length": 76,
             "available_bytes_size": 79,
-            "translation": "공격 결정술을 우선으로 하여, HP가 적은 적을 노리고,[LINE]\nHP가 1/4 이하가 되면 방어 중심이 됩니다.[END]"
+            "translation": "공격 정술을 우선으로 하여, HP가 적은 적을 노리고,[LINE]\nHP가 1/4 이하가 되면 방어 중심이 됩니다.[END]"
         },
         {
             "offset": 1709424,
@@ -306,7 +306,7 @@
             "string": "サーチガルドとかを優先して使い、[LINE]\n回復も気分で使います。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "서치 가드 등을 우선 사용하고,[LINE]\n회복도 기분에 따라 사용합니다.[END]"
+            "translation": "서치 가르드 등을 우선 사용하고,[LINE]\n회복도 기분에 따라 사용합니다.[END]"
         },
         {
             "offset": 1709496,
@@ -362,14 +362,14 @@
             "string": "HPが一番少ない味方のそばへ行き、[LINE]\nその近くにいる敵を狙います。[END]",
             "original_bytes_length": 62,
             "available_bytes_size": 63,
-            "translation": "HP가 가장 적은 아군 곁으로 가서,[LINE]\n그 근처에 있는 적을 노립니다.[END]"
+            "translation": "HP가 가장 적은 동료 곁으로 가서,[LINE]\n그 근처에 있는 적을 노립니다.[END]"
         },
         {
             "offset": 1709808,
             "string": "味方を護れ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "아군을 보호하라[END]"
+            "translation": "동료를 보호하라[END]"
         },
         {
             "offset": 1709824,
@@ -397,7 +397,7 @@
             "string": "敵陣に切り込め[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "적진에 돌입하라[END]"
+            "translation": "적진을 해집어라[END]"
         },
         {
             "offset": 1710008,
@@ -411,7 +411,7 @@
             "string": "とにかく突っ込め[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "어쨌든 돌진하라[END]"
+            "translation": "아무튼 돌진하라[END]"
         },
         {
             "offset": 1710080,
