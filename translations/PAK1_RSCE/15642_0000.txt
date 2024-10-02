@@ -5,31 +5,31 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-눈길도 처음에는 즐거웠지만,
-점점 추워서 싫어지기 시작하네……
+눈길도 처음엔 재밌었는데,
+점점 추워져서 싫어지기 시작했어……
 [ENDBLOCK]
-허튼 짓이다. <Mary>를 봐라.
-평온하게 지내고 있지 않은가.
+나태하구나. <Mary>를 봐라.
+태연하지 않나.
 [ENDBLOCK]
-<Mary>씨,
-추운 건 별로 상관없습니까?
+<Mary> 씨,
+추운 것 정도는 아무렇지도 않으신가요?
 [ENDBLOCK]
 이 정도라면 괜찮아.
-어떤가, 나에게 맞는 기후인 것 같아.
+어쩌면 내게 맞는 기후인 것 같군.
 [ENDBLOCK]
 부럽습니다……
 [ENDBLOCK]
-이
+에
 [ENDBLOCK]
-로
+에
 [ENDBLOCK]
-<S13>로……
+<S13>에……
 [ENDBLOCK]
-하
+에
 [ENDBLOCK]
-니
+에
 [ENDBLOCK]
-<S11>헉!<S15>
+<S11>에취!<S15>
 [ENDBLOCK]
-호
+에
 [ENDBLOCK]

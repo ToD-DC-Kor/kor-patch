@@ -21,9 +21,7 @@
 
 ### 요약
 
-매우 초기 미완성 버전.
-
-시나리오와 아이템은 AI를 통한 기계 번역이 완료되어, 번역 품질에 신경쓰지 않는다면 초반 플레이시 스토리를 이해하는 것은 가능하다고 생각되는 수준. 실제 플레이하면서 이상하게 번역된 문장을 찾아 교정해야 함
+모든 시나리오, 아이템, 스킬, 스킷 자막 AI를 통한 번역 완료. 실제 플레이하면서 캐릭터의 말투 등이 이상하게 번역된 부분을 교정해야 함
 
 ### 스크린샷
 
@@ -40,30 +38,32 @@
 추출된 모든 문자열에 대해서는 AI 기계 번역 완료
 
 - 시나리오 대사
-  - 추출: RSCE 100%, SLPS 90%+?
+  - 추출: 100%
+  - 검수: 1%
+- 전투 튜토리얼: 99%? (불확실)
   - 검수: 0%
-- 전투 튜토리얼: 0%
-- 스킷 자막: 99%
-  - 추출: PAK0 100%, PAK1 99%
+- 스킷 자막: 100%
   - 검수: 0%
-- 스킷 제목: 0%
+- 스킷 제목: 100%
+  - 검수: 0%
 - 영상 자막:
-  - 추출: 99%? (불확실)
+  - 추출: 100%
   - 검수: 0%
-- 지명: 0%
+- 지명: 90%
 - 아이템 설명
-  - 추출: 99%
+  - 추출: 100%
   - 검수: 0%
 - 몬스터 도감: 0%
-- UI 메뉴
-  - 추출: SLPS 99%, PAK 0%
+- UI 메뉴: 99%
   - 검수: 0%
 - 그래픽: ?? (불확실)
   - 메뉴 UI 글자 그래픽: 100%
   - 도감/지도 UI 글자 그래픽: 100%
   - 전투 UI 글자 그래픽: 100%
+  - 미니게임 글자 그래픽: 100%
+  - 아이템 그래픽: 100%
   - 스토리 그래픽: 0%
-  - 엔딩 그래픽: 0%
+  - 엔딩 그래픽: 90%
   - 타이틀 그래픽: 100%
 
 ## 배포 주기 & 다운로드
@@ -101,6 +101,7 @@
 - [Tales of Destiny Driector's Cut Tools](https://www.romhacking.net/utilities/1419/)
 - forked version of [sceWork](https://github.com/lifebottle/sceWork)
 - [Pakcomposer Clone](https://github.com/lifebottle/Tales-of-Destiny-DC/tree/master/pakcomposer)
+- [Aseprite](https://www.aseprite.org/)
 - Hand-maded tools:
   - SLPS string patcher
   - SLPS string find & extractor
@@ -113,9 +114,9 @@
 ## Contributors
 
 - [@kexplo](https://github.com/kexplo/), the maintainer of this translation project.
-  - all the work including reverse engineering, translation, programming, etc.
-- 퍼스트버튼, support for editing graphic resources.
-  - editing the font images, UI graphics.
+  - all the work including reverse engineering, translation, text proofreading, programming, AI engineering, etc.
+- 퍼스트버튼, the grahpic resource editor.
+  - font images and UI graphics modification.
 
 ## Credits
 

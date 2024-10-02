@@ -1,0 +1,298 @@
+{
+    "00057.md1": [
+        {
+            "offset": 30080,
+            "string": "[Circle_ani]購入 [Cross_ani]戻る [Left+Right_blink]増減 [Square_ani]説明変更[END]",
+            "original_bytes_length": 44,
+            "available_bytes_size": 47,
+            "translation": "[Circle_ani]구매 [Cross_ani]뒤로 [Left+Right_blink]증감 [Square_ani]설명 변경[END]"
+        },
+        {
+            "offset": 30128,
+            "string": "[Circle_ani]換金 [Cross_ani]戻る [Square_Press]増減の単位を100にする [Left+Right_blink]増減[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63,
+            "translation": "[Circle_ani]교환 [Cross_ani]뒤로 [Square_Press]증감 단위를 100으로 변경 [Left+Right_blink]증감[END]"
+        },
+        {
+            "offset": 30192,
+            "string": "[Circle_ani]決定 [Cross_ani]戻る[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Circle_ani]결정 [Cross_ani]뒤로[END]"
+        },
+        {
+            "offset": 30216,
+            "string": "[Circle_ani]売却 [Cross_ani]戻る [Left+Right_blink]増減 [Triangle_ani]キャラ変更 [Square_ani]説明変更 [L1_ani][R1_ani]カテゴリ変更[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "[Circle_ani]판매 [Cross_ani]뒤로 [Left+Right_blink]증감 [Triangle_ani]캐릭터 변경 [Square_ani]설명 변경 [L1_ani][R1_ani]카테고리 변경[END]"
+        },
+        {
+            "offset": 30304,
+            "string": "[Circle_ani]購入 [Cross_ani]戻る [Left+Right_blink]増減 [Triangle_ani]キャラ変更 [Square_ani]説明変更[END]",
+            "original_bytes_length": 60,
+            "available_bytes_size": 63,
+            "translation": "[Circle_ani]구매 [Cross_ani]뒤로 [Left+Right_blink]증감 [Triangle_ani]캐릭터 변경 [Square_ani]설명 변경[END]"
+        },
+        {
+            "offset": 30368,
+            "string": "[Circle_ani]決定 [Cross_ani]キャンセル[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]결정 [Cross_ani]취소[END]"
+        },
+        {
+            "offset": 33656,
+            "string": "購入[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "구매[END]"
+        },
+        {
+            "offset": 33664,
+            "string": "選択されたアイテムを購入します。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "선택된 아이템을 구매합니다.[LINE]\n맞습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
+        },
+        {
+            "offset": 33728,
+            "string": "売却[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "판매[END]"
+        },
+        {
+            "offset": 33736,
+            "string": "選択されたアイテムを売却します。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "선택된 아이템을 판매합니다.[LINE]\n맞습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
+        },
+        {
+            "offset": 33800,
+            "string": "既にフードが満タンです。[LINE]\n[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "이미 음식이 가득 찼습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 33832,
+            "string": "所持ガルドが無い為、補充できません。[LINE]\n[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "가르드가 없어서 보충할 수 없습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 33872,
+            "string": "フード補充[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "음식 보충[END]"
+        },
+        {
+            "offset": 33893,
+            "string": "ガルドで[PlaceHolderA]フード補充します。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[LINE]\n[END]",
+            "original_bytes_length": 62,
+            "available_bytes_size": 66,
+            "translation": "가르드로 [PlaceHolderA]음식 보충합니다.[LINE]\n맞습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
+        },
+        {
+            "offset": 33960,
+            "string": "レンズ換金[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "렌즈 환전[END]"
+        },
+        {
+            "offset": 33976,
+            "string": "選択されたレンズを換金します。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[LINE]\n[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "선택된 렌즈를 환전합니다.[LINE]\n맞습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
+        },
+        {
+            "offset": 34048,
+            "string": "合計[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "합계[END]"
+        },
+        {
+            "offset": 34056,
+            "string": "ＧＡＬＤ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "ＧＡＬＤ[END]"
+        },
+        {
+            "offset": 34072,
+            "string": "単価[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "단가[END]"
+        },
+        {
+            "offset": 34080,
+            "string": "所持[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "소지[END]"
+        },
+        {
+            "offset": 34088,
+            "string": "取引価格[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "거래 가격[END]"
+        },
+        {
+            "offset": 34128,
+            "string": "装備中のストラップと交換しますか？[LINE]\nはい[LINE]\nいいえ[LINE]\n[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 48,
+            "translation": "장착 중인 스트랩과 교환하시겠습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
+        },
+        {
+            "offset": 34184,
+            "string": "レンズ換金[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "렌즈 환전[END]"
+        },
+        {
+            "offset": 34200,
+            "string": "装備[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "장비[END]"
+        },
+        {
+            "offset": 34208,
+            "string": "フードサック[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "음식 주머니[END]"
+        },
+        {
+            "offset": 34224,
+            "string": "補充[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "보충[END]"
+        },
+        {
+            "offset": 34232,
+            "string": "売却[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "판매[END]"
+        },
+        {
+            "offset": 34240,
+            "string": "購入[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "구매[END]"
+        },
+        {
+            "offset": 34248,
+            "string": "なし[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "없음[END]"
+        },
+        {
+            "offset": 34256,
+            "string": "体力[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "체력[END]"
+        },
+        {
+            "offset": 34264,
+            "string": "集中力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "집중력[END]"
+        },
+        {
+            "offset": 34272,
+            "string": "回避率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "회피율[END]"
+        },
+        {
+            "offset": 34280,
+            "string": "命中率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "명중률[END]"
+        },
+        {
+            "offset": 34288,
+            "string": "術防御力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "술 방어력[END]"
+        },
+        {
+            "offset": 34304,
+            "string": "防御力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "방어력[END]"
+        },
+        {
+            "offset": 34312,
+            "string": "術攻撃力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "술 공격력[END]"
+        },
+        {
+            "offset": 34328,
+            "string": "攻撃力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "공격력[END]"
+        },
+        {
+            "offset": 34392,
+            "string": "フード残量[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "음식 잔량[END]"
+        },
+        {
+            "offset": 34408,
+            "string": "補充コスト[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "보충 비용[END]"
+        },
+        {
+            "offset": 34424,
+            "string": "ＧＡＬＤ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "ＧＡＬＤ[END]"
+        },
+        {
+            "offset": 34456,
+            "string": "補充する[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "보충[END]"
+        },
+        {
+            "offset": 34472,
+            "string": "やめる[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "멈추기[END]"
+        }
+    ]
+}

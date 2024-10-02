@@ -11,7 +11,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-저런 곳에 신의 눈이!?
+저런 곳에 신의 눈이!? 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -20,7 +20,7 @@
 [ENDBLOCK]
 ????
 [ENDBLOCK]
-여기까지다, 지상군이여.
+여기까지다, 지상군이여. 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -293,7 +293,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Miktran>!
+<Miktran>! 
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
@@ -321,7 +321,7 @@
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-이것도 신의 눈의 힘이라는 건가?
+이것도 신의 눈의 힘이라는 건가? 
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -329,7 +329,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Miktran>!
+<Miktran>! 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -346,7 +346,7 @@
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-소디언들아!
+소디언들아! 
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
@@ -552,7 +552,7 @@
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
-첫 번째는 너다.
+첫 번째는 너다. 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -687,7 +687,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Hugo>의 목소리!?
+<Hugo>의 목소리!? 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
