@@ -1893,7 +1893,7 @@
         {
             "offset": 1766888,
             "string": "敵とほとんど遭遇しなくなる。[LINE]\n一定時間経過か、[LINE]\nダークボトルを使うと元に戻る。[END]",
-            "translation": "적과 거의 조우 하지 않게 된다.[LINE]\n일정 시간이 지나거나,[LINE]\n어둠의 병을 사용하면 원래대로 돌아간다.[END]",
+            "translation": "적과 거의 조우하지 않게 된다.[LINE]\n일정 시간이 지나거나,[LINE]\n어둠의 병을 사용하면 원래대로 돌아간다.[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79
         },
@@ -1921,7 +1921,7 @@
         {
             "offset": 1767080,
             "string": "オベロン社が開発した戦う人の味方。[LINE]\nＨＰが全快するドリンク。[LINE]\n今日のあなたに、この１本！[END]",
-            "translation": "오베론사가 개발한 전투를 위한 든든한 파트너.[LINE]\nHP가 전부 회복되는 드링크.[LINE]\n오늘도 당신을 위한, 한 병![END]",
+            "translation": "오베론사가 개발한 전투를 위한 든든한 파트너.[LINE]\nHP가 전부 회복되는 음료.[LINE]\n오늘도 당신을 위한, 한 병![END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87
         },

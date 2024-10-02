@@ -26,7 +26,7 @@
             "string": "狙う敵を毎回変え、フィールドを[LINE]\n駆け回ります。[END]",
             "original_bytes_length": 46,
             "available_bytes_size": 47,
-            "translation": "타킷을 매번 바꾸며, 필드를[LINE]\n뛰어다닙니다.[END]"
+            "translation": "대상을 매번 바꾸며, 필드를[LINE]\n뛰어다닙니다.[END]"
         },
         {
             "offset": 1708040,
@@ -110,7 +110,7 @@
             "string": "位置やHPが安全なときにのみちくちく[LINE]\n攻撃します。[END]",
             "original_bytes_length": 48,
             "available_bytes_size": 48,
-            "translation": "위치나 HP가 안전할 때만 틈틈히[LINE]\n공격합니다.[END]"
+            "translation": "위치나 HP가 안전할 때만 틈틈이[LINE]\n공격합니다.[END]"
         },
         {
             "offset": 1708448,
@@ -201,7 +201,7 @@
             "string": "攻守の要となれ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "공수의 요소가 되어라[END]"
+            "translation": "공수의 핵심이 되어라[END]"
         },
         {
             "offset": 1708872,
