@@ -119,12 +119,12 @@
 여관
 [ENDBLOCK]
 하지만, 고양이들이
-걱정돼서 걱정돼서……
+걱정되고 걱정돼서……
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 음. 그 마음,
-아프도록 잘 알겠네.
+아프도록 잘 이해합니다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -138,7 +138,7 @@
 [ENDBLOCK]
 여관
 [ENDBLOCK]
-사실, 그럴듯한 고양이를
+사실, 비슷한 고양이를
 틸소의 숲에서 봤다는
 정보가 있어요.
 [ENDBLOCK]
@@ -157,7 +157,7 @@
 [ENDBLOCK]
 여관
 [ENDBLOCK]
-그렇지, 말하는 걸 잊었는데,
+참, 말하는 걸 잊었는데,
 제 고양이는 모두 10마리예요.
 [ENDBLOCK]
 <Rutee>
@@ -288,7 +288,7 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-미안해요.
+미안해.
 잠깐 밖에 나가고 싶어서.
 [ENDBLOCK]
 <Stahn>
@@ -317,7 +317,7 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-밖에 돌아다니다가,
+밖을 돌아다니다가,
 우연히 발견했어.
 [ENDBLOCK]
 <Stahn>
@@ -354,12 +354,12 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-잠, <Lilith> 기다려.
+잠깐, <Lilith> 기다려.
 쓸게, 꼭 쓸 테니까 그것만은!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-좋아요.
+좋아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
