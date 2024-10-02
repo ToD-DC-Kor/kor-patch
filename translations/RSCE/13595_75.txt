@@ -487,7 +487,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Rutee>
 [ENDBLOCK]
 <Mary>는 고양이를 우리 쪽으로
-쪽으로 유도해줘.
+잘 유도해줘.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
