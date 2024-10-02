@@ -68,7 +68,7 @@
 [ENDBLOCK]
 여관
 [ENDBLOCK]
-그렇지, 말하는 걸 잊었는데,
+참, 말하는 걸 잊었는데,
 제 고양이는 모두 10마리예요.
 [ENDBLOCK]
 <Rutee>
