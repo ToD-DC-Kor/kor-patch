@@ -115,7 +115,7 @@
         {
             "offset": 1755248,
             "string": "リライズで、一定時間毎に[LINE]\nＨＰが微量回復する宝石に変化する。[LINE]\n[END]",
-            "translation": "리라이즈하면 일정 시간마다[LINE]\nHP가 미량 회복되는 보석으로 변화한다.[LINE]\n[END]",
+            "translation": "리라이즈하면 일정 시간마다[LINE]\nHP가 소량 회복되는 보석으로 변화한다.[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63
         },
@@ -661,7 +661,7 @@
         {
             "offset": 1759256,
             "string": "１ガルドを笑う者は１ガルドに泣く。[LINE]\n一応１ガルドで売れる換金アイテム。[LINE]\n[END]",
-            "translation": "1가르드를 비웃는 사람은 1가르드에 울게 된다.[LINE]\n일단은 1가르드에 팔 수 있는 환금 아이템.[LINE]\n[END]",
+            "translation": "1가르드를 비웃는 자는 1가르드로 울게 된다.[LINE]\n어쨋든 1가르드에 팔 수 있는 환금 아이템.[LINE]\n[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71
         },
@@ -773,7 +773,7 @@
         {
             "offset": 1760000,
             "string": "着ける人を選ぶぐらい長いウイッグ。[LINE]\nウイッグとは[LINE]\n女性用かつらみたいなものです。[END]",
-            "translation": "쓰는 사람을 고르는 정도로 긴 윙.[LINE]\n윙은[LINE]\n여성용 가발 같은 것입니다.[END]",
+            "translation": "쓰는 사람을 가릴 정도로 긴 윙.[LINE]\n윙은[LINE]\n여성용 가발 같은 것입니다.[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79
         },
@@ -801,7 +801,7 @@
         {
             "offset": 1760192,
             "string": "透き通るような青が美しいスカーフ。[LINE]\n身に着けている人は[LINE]\nさぞかし心が美しかろう。[END]",
-            "translation": "투명한 파란색이 아름다운 스카프.[LINE]\n매고 있는 사람은[LINE]\n분명히 마음이 아름답겠지.[END]",
+            "translation": "투명한 파란색이 아름다운 스카프.[LINE]\n이것을 착용한 사람은[LINE]\n마음이 참 아름다울 것 같다.[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79
         },
@@ -815,7 +815,7 @@
         {
             "offset": 1760296,
             "string": "誰かが落としたと思われる[LINE]\nペンダント。[LINE]\n時をかけるとかかけないとか……[END]",
-            "translation": "누군가 떨어뜨린 것 같은[LINE]\n펜던트.[LINE]\n시간을 넘는다던가 안 넘는다던가……[END]",
+            "translation": "누군가 떨어뜨린 것 같은 펜던트.[LINE]\n시간을 넘나들 수 있다는 소문이 있지만,[LINE]\n진실은 알 수 없다……[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71
         },
@@ -1179,7 +1179,7 @@
         {
             "offset": 1762816,
             "string": "腐ってヌルヌルするモモ。[LINE]\n持っただけで[LINE]\n嫌な液体が漏れてくる……[END]",
-            "translation": "썩어 미끄러지는 복숭아.[LINE]\n들고만 있어도[LINE]\n싫은 액체가 새어 나온다……[END]",
+            "translation": "썩어서 미끈거리는 복숭아.[LINE]\n들고만 있어도[LINE]\n싫은 액체가 새어 나온다……[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },
@@ -1431,7 +1431,7 @@
         {
             "offset": 1764544,
             "string": "超上級者用栽培セットの種。[LINE]\n「種育て」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "초고급자용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "초상급자용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
@@ -1445,7 +1445,7 @@
         {
             "offset": 1764640,
             "string": "上級者用栽培セットの種。[LINE]\n「種育て」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "고급자용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "상급자용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71
         },
@@ -1501,7 +1501,7 @@
         {
             "offset": 1765024,
             "string": "脱初心者用栽培セットの種。[LINE]\n「種育て」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "초보자용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "초보자 탈출용 재배 세트의 씨앗.[LINE]\n「씨앗 키우기」의[LINE]\n서포트 탤런트 아이템.[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
@@ -1536,7 +1536,7 @@
         {
             "offset": 1765248,
             "string": "[Sign_9]レッドジャスミン[END]",
-            "translation": "[Sign_9]레드자스민[END]",
+            "translation": "[Sign_9]레드 자스민[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1550,7 +1550,7 @@
         {
             "offset": 1765304,
             "string": "[Sign_9]レッドセボリー[END]",
-            "translation": "[Sign_9]레드세이보리[END]",
+            "translation": "[Sign_9]레드 세이보리[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1592,7 +1592,7 @@
         {
             "offset": 1765472,
             "string": "[Sign_9]レッドローズマリー[END]",
-            "translation": "[Sign_9]레드로즈마리[END]",
+            "translation": "[Sign_9]레드 로즈마리[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1606,7 +1606,7 @@
         {
             "offset": 1765528,
             "string": "[Sign_9]レッドベルベーヌ[END]",
-            "translation": "[Sign_9]레드버베인[END]",
+            "translation": "[Sign_9]레드 버베인[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1620,7 +1620,7 @@
         {
             "offset": 1765584,
             "string": "[Sign_9]レッドラベンダー[END]",
-            "translation": "[Sign_9]레드라벤더[END]",
+            "translation": "[Sign_9]레드 라벤더[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1648,7 +1648,7 @@
         {
             "offset": 1765696,
             "string": "[Sign_9]ブルージャスミン[END]",
-            "translation": "[Sign_9]블루자스민[END]",
+            "translation": "[Sign_9]블루 자스민[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1685,7 +1685,7 @@
             "string": "術防御力が２上昇する薬草。[LINE]\n[LINE]\n[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "마법 방어력이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
+            "translation": "술 방어력이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
         },
         {
             "offset": 1765864,
@@ -1699,7 +1699,7 @@
             "string": "術攻撃力が２上昇する薬草。[LINE]\n[LINE]\n[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "마법 공격력이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
+            "translation": "술 공격력이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
         },
         {
             "offset": 1765920,
@@ -1797,7 +1797,7 @@
             "string": "術防御力が１上昇する薬草。[LINE]\nサフランライスが有名。[LINE]\n[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "마법 방어력이 1 상승하는 약초입니다.[LINE]\n샤프란 라이스가 유명합니다.[LINE]\n[END]"
+            "translation": "술 방어력이 1 상승하는 약초입니다.[LINE]\n샤프란 라이스가 유명합니다.[LINE]\n[END]"
         },
         {
             "offset": 1766416,
@@ -1811,7 +1811,7 @@
             "string": "術攻撃力が１上昇する薬草。[LINE]\n若返りのハーブと言われる。[LINE]\n[END]",
             "original_bytes_length": 55,
             "available_bytes_size": 55,
-            "translation": "마법 공격력이 1 상승하는 약초입니다.[LINE]\n젊어지게 하는 허브라고 알려져 있습니다.[LINE]\n[END]"
+            "translation": "술 공격력이 1 상승하는 약초입니다.[LINE]\n젊어지게 하는 허브라고 알려져 있습니다.[LINE]\n[END]"
         },
         {
             "offset": 1766488,
@@ -1893,7 +1893,7 @@
         {
             "offset": 1766888,
             "string": "敵とほとんど遭遇しなくなる。[LINE]\n一定時間経過か、[LINE]\nダークボトルを使うと元に戻る。[END]",
-            "translation": "적과 거의 마주치지 않게 된다.[LINE]\n일정 시간이 지나거나,[LINE]\n어둠의 병을 사용하면 원래대로 돌아간다.[END]",
+            "translation": "적과 거의 조우하지 않게 된다.[LINE]\n일정 시간이 지나거나,[LINE]\n어둠의 병을 사용하면 원래대로 돌아간다.[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79
         },
@@ -1921,7 +1921,7 @@
         {
             "offset": 1767080,
             "string": "オベロン社が開発した戦う人の味方。[LINE]\nＨＰが全快するドリンク。[LINE]\n今日のあなたに、この１本！[END]",
-            "translation": "오베론사가 개발한 전투원의 친구.[LINE]\nHP가 전부 회복되는 음료.[LINE]\n오늘의 당신에게, 이 한 병![END]",
+            "translation": "오베론사가 개발한 전투를 위한 든든한 파트너.[LINE]\nHP가 전부 회복되는 음료.[LINE]\n오늘도 당신을 위한, 한 병![END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87
         },
@@ -1977,7 +1977,7 @@
         {
             "offset": 1767520,
             "string": "敵味方が受けるダメージを半減する。[LINE]\nもう一度使うと元に戻る。[LINE]\n[END]",
-            "translation": "적아군이 받는 데미지를 반감한다.[LINE]\n다시 사용하면 원래대로 돌아간다.[LINE]\n[END]",
+            "translation": "적과 아군이 받는 데미지를 반감한다.[LINE]\n다시 사용하면 원래대로 돌아간다.[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63
         },
@@ -2075,7 +2075,7 @@
         {
             "offset": 1768152,
             "string": "ランダムな甘さ、[LINE]\nサイコロ印のグミ。[LINE]\nＨＰがランダムで変動する。[END]",
-            "translation": "랜덤한 달콤함,[LINE]\n주사위 모양의 젤리.[LINE]\nHP가 랜덤하게 변동된다.[END]",
+            "translation": "예측할수 없는 달콤한,[LINE]\n주사위 모양의 젤리.[LINE]\nHP가 랜덤하게 변동된다.[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },
@@ -2089,7 +2089,7 @@
         {
             "offset": 1768232,
             "string": "ヘルシーな甘さ、[LINE]\nドラゴンフルーツ味のグミ。[LINE]\nブラストゲージが増える。[END]",
-            "translation": "건강한 달콤함,[LINE]\n용과 맛 젤리.[LINE]\n블라스트 게이지가 증가한다.[END]",
+            "translation": "건강한 달콤한,[LINE]\n용과 맛 젤리.[LINE]\n블라스트 게이지가 증가한다.[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71
         },
@@ -2103,7 +2103,7 @@
         {
             "offset": 1768328,
             "string": "クセになる甘さ、[LINE]\nドリアン味のグミ。[LINE]\nＨＰが全快するが、まれに……[END]",
-            "translation": "중독되는 달콤함,[LINE]\n두리안 맛 젤리.[LINE]\nHP가 전체 회복되지만, 가끔은……[END]",
+            "translation": "중독성 있는 달콤한,[LINE]\n두리안 맛 젤리.[LINE]\nHP가 전체 회복되지만, 가끔은……[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71
         },
@@ -2117,7 +2117,7 @@
         {
             "offset": 1768424,
             "string": "ジューシーな甘さ、[LINE]\nグレープ味のグミ。[LINE]\n最大ＨＰの７５％分ＨＰが回復する。[END]",
-            "translation": "수분가득한 달콤함,[LINE]\n포도맛의 젤리.[LINE]\n최대 HP의 75%만큼 HP가 회복된다.[END]",
+            "translation": "달콤한 과즙이 넘치는,[LINE]\n포도맛의 젤리.[LINE]\n최대 HP의 75%만큼 HP가 회복된다.[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79
         },
@@ -2131,7 +2131,7 @@
         {
             "offset": 1768528,
             "string": "とろける甘さ、[LINE]\nピーチ味のグミ。[LINE]\n最大ＨＰの５０％分ＨＰが回復する。[END]",
-            "translation": "녹아내리는 달콤함,[LINE]\n복숭아맛의 젤리.[LINE]\n최대 HP의 50%만큼 HP가 회복된다.[END]",
+            "translation": "살살 녹는,[LINE]\n복숭아맛의 젤리.[LINE]\n최대 HP의 50%만큼 HP가 회복된다.[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
@@ -2145,7 +2145,7 @@
         {
             "offset": 1768616,
             "string": "フレッシュな甘さ、[LINE]\nアップル味のグミ。[LINE]\n最大ＨＰの３０％分ＨＰが回復する。[END]",
-            "translation": "신선한 달콤함,[LINE]\n사과맛의 젤리.[LINE]\n최대 HP의 30%만큼 HP가 회복된다.[END]",
+            "translation": "신선하고 상큼한,[LINE]\n사과맛의 젤리.[LINE]\n최대 HP의 30%만큼 HP가 회복된다.[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79
         },
