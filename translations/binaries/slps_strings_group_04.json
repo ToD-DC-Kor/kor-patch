@@ -1,0 +1,81 @@
+{
+    "SLPS": [
+        {
+            "offset": 1683744,
+            "string": "個[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "個[END]"
+        },
+        {
+            "offset": 1683752,
+            "string": "枚[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "枚[END]"
+        },
+        {
+            "offset": 1683760,
+            "string": "フード[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "후드[END]"
+        },
+        {
+            "offset": 1683768,
+            "string": "[TAG_007]「[TAG_015]」を[TAG_016][TAG_019][LINE]\n手に入れました。[END]",
+            "original_bytes_length": 44,
+            "available_bytes_size": 47,
+            "translation": "[TAG_007]「[TAG_015]」를[TAG_016][TAG_019][LINE]\n얻었습니다.[END]"
+        },
+        {
+            "offset": 1683816,
+            "string": "[TAG_007]「[TAG_015]」が[TAG_016][TAG_019]ありましたが[LINE]\n全部は持てません。[LINE]\n[center][TAG_017][TAG_019]取り、[TAG_018][TAG_019]捨てる[LINE]\n取らないで元に戻す[END]",
+            "original_bytes_length": 115,
+            "available_bytes_size": 119,
+            "translation": "[TAG_007]「[TAG_015]」가[TAG_016][TAG_019] 있었지만[LINE]\n전부 가질 수 없음.[LINE]\n[center][TAG_017][TAG_019] 취득,[TAG_018][TAG_019] 버리기[LINE]\n가져가지 않고 되돌리기[END]"
+        },
+        {
+            "offset": 1683936,
+            "string": "[TAG_007]「[TAG_015]」を[LINE]\n手に入れました。[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "[TAG_007]「[TAG_015]」를[LINE]\n얻었습니다.[END]"
+        },
+        {
+            "offset": 1683976,
+            "string": "[TAG_007]「[TAG_015]」がありましたが[LINE]\nいっぱいでこれ以上持てません。[END]",
+            "original_bytes_length": 60,
+            "available_bytes_size": 63,
+            "translation": "[TAG_007]「[TAG_015]」이(가)[LINE]\n가득 차서 더 이상 가질 수 없습니다.[END]"
+        },
+        {
+            "offset": 1684040,
+            "string": "[TAG_007]「[TAG_015]」がありましたが[LINE]\n持つことができません。[END]",
+            "original_bytes_length": 52,
+            "available_bytes_size": 55,
+            "translation": "[TAG_007]「[TAG_015]」을(를)[LINE]\n가질 수 없습니다.[END]"
+        },
+        {
+            "offset": 1684096,
+            "string": "[TAG_007][TAG_015]ガルドを[LINE]\n手に入れました。[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "[TAG_007][TAG_015] 가르드를[LINE]\n얻었습니다.[END]"
+        },
+        {
+            "offset": 1684136,
+            "string": "[TAG_007]「[TAG_015]」を発見しました。[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "[TAG_007]「[TAG_015]」를 발견했습니다.[END]"
+        },
+        {
+            "offset": 1684168,
+            "string": "[TAG_007] [TAG_015]は「[TAG_016]」を習得しました。[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "[TAG_007] [TAG_015]는「[TAG_016]」를 습득했습니다.[END]"
+        }
+    ]
+}

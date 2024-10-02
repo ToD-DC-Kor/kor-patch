@@ -70,6 +70,13 @@
             "original_bytes_length": 9,
             "available_bytes_size": 15,
             "translation": "줄거리[END]"
+        },
+        {
+            "offset": 73920,
+            "string": "中断[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 15,
+            "translation": "중단[END]"
         }
     ]
 }

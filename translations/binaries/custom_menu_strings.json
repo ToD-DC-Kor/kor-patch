@@ -1,0 +1,635 @@
+{
+    "00053.md1":[
+        {
+            "offset": 26784,
+            "string": "[Left+Right_blink]変更[L1_ani]元に戻す[R1_ani]デフォルト[Cross_ani]戻る[END]",
+            "original_bytes_length": 50,
+            "available_bytes_size": 63,
+            "translation": "[Left+Right_blink]변경 [L1_ani]실행취소 [R1_ani]기본값 [Cross_ani]뒤로[END]"
+        },
+        {
+            "offset": 26728,
+            "string": "[Circle_ani]変更[L1_ani]元に戻す[R1_ani]デフォルト[Cross_ani]戻る[END]",
+            "original_bytes_length": 50,
+            "available_bytes_size": 55,
+            "translation": "[Circle_ani]변경 [L1_ani]실행취소 [R1_ani]기본값 [Cross_ani]뒤로[END]"
+        },
+        {
+            "offset": 26664,
+            "string": "[Circle_ani]＋[L+U+R+D_blink]変更[L1_ani]元に戻す[R1_ani]デフォルト[Cross_ani]戻る[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63,
+            "translation": "[Circle_ani]＋[L+U+R+D_blink]변경 [L1_ani]실행취소 [R1_ani]기본값 [Cross_ani]뒤로[END]"
+        },
+        {
+            "offset": 26608,
+            "string": "[Circle_ani][Cross_ani][Square_ani][Triangle_ani][L1_ani][R1_ani][L2_ani][R2_ani]変更[Left_blink]戻る[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55,
+            "translation": "[Circle_ani][Cross_ani][Square_ani][Triangle_ani][L1_ani][R1_ani][L2_ani][R2_ani]변경 [Left_blink]뒤로[END]"
+        },
+        {
+            "offset": 26576,
+            "string": "[Circle_ani]＋[Left+Right_blink]変更[Cross_ani]戻る[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]＋[Left+Right_blink]변경 [Cross_ani]뒤로[END]"
+        },
+        {
+            "offset": 26544,
+            "string": "[Circle_ani]決定[Cross_ani]キャンセル[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]결정 [Cross_ani]취소[END]"
+        },
+        {
+            "offset": 31024,
+            "string": "メッセージ速度[LINE]\n[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "메시지 속도[LINE]\n[END]"
+        },
+        {
+            "offset": 30928,
+            "string": "自動メッセージ送り[LINE]\n[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "자동 메시지 넘김[LINE]\n[END]"
+        },
+        {
+            "offset": 30832,
+            "string": "戦闘ランク[LINE]\n[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "전투 랭크[LINE]\n[END]"
+        },
+        {
+            "offset": 30800,
+            "string": "戦闘キーカスタマイズ[LINE]\n[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "전투 키 커스터마이즈[LINE]\n[END]"
+        }, 
+        {
+            "offset": 30752,
+            "string": "画面位置[LINE]\n[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "화면 위치[LINE]\n[END]"
+        },
+        {
+            "offset": 30712,
+            "string": "振動[LINE]\n[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "진동[LINE]\n[END]"
+        },
+        {
+            "offset": 30664,
+            "string": "字幕[LINE]\n[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "자막[LINE]\n[END]"
+        },
+        {
+            "offset": 30608,
+            "string": "戦闘中カメラ[LINE]\n[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "전투 중 카메라[LINE]\n[END]"
+        },
+        {
+            "offset": 30584,
+            "string": "カメラ左右回転方向[LINE]\n[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "카메라 좌우 회전 방향[LINE]\n[END]"
+        },
+        {
+            "offset": 30504,
+            "string": "上下移動方向[LINE]\n[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "상하 이동 방향[LINE]\n[END]"
+        },
+        {
+            "offset": 30416,
+            "string": "移動速度[LINE]\n[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "이동 속도[LINE]\n[END]"
+        },
+        {
+            "offset": 30336,
+            "string": "ステレオ[LINE]\n[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "스테레오[LINE]\n[END]"
+        },
+        {
+            "offset": 30248,
+            "string": "ボリューム[LINE]\n[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "볼륨[LINE]\n[END]"
+        },
+        {
+            "offset": 30168,
+            "string": "ディフィニットストライク[LINE]\n[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "디피니트 스트라이크[LINE]\n[END]"
+        },
+        {
+            "offset": 30144,
+            "string": "フェイス・ステータス絵[LINE]\n[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "얼굴 상태 그림[LINE]\n[END]"
+        },
+
+        {
+            "offset": 30952,
+            "string": "メッセージの表示速度を変更します。[LINE]\n表示速度１の時はフェードしません。[LINE]\n[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "메시지 표시 속도를 변경합니다.[LINE]\n표시 속도 1일 때는 페이드되지 않습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 30848,
+            "string": "ＯＮにするとボタンを押さなくても自動で[LINE]\nメッセージを送るようになります。[LINE]\n[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "ON으로 하면 버튼을 누르지 않아도 자동으로[LINE]\n메시지를 보내게 됩니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 30824,
+            "string": "dummy[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "dummy[END]"
+        },
+        {
+            "offset": 30768,
+            "string": "戦闘時のキー配置を変更します。[LINE]\n[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "전투 시 키 배치를 변경합니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 30720,
+            "string": "画面の表示位置を調整します。[LINE]\n[END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "화면의 표시 위치를 조정합니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 30672,
+            "string": "コントローラの振動の有無を変更します。[LINE]\n[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "컨트롤러 진동의 유무를 변경합니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 30624,
+            "string": "ムービーの字幕の有無を変更します。[LINE]\n[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "무비 자막의 유무를 변경합니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 30824,
+            "string": "dummy[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "dummy[END]"
+        },
+        {
+            "offset": 30520,
+            "string": "フィールド上での[L1_ani][R1_ani]ボタンによる[LINE]\n回転方向を変更します。[END]",
+            "original_bytes_length": 62,
+            "available_bytes_size": 63,
+            "translation": "필드 상에서 [L1_ani][R1_ani]버튼에 의한[LINE]\n회전 방향을 변경합니다.[END]"
+        },
+        {
+            "offset": 30432,
+            "string": "乗り物の[Up+Down_blink]キー又は左スティックの[LINE]\n上下による移動方向を変更します。[LINE]\n[END]",
+            "original_bytes_length": 70,
+            "available_bytes_size": 71,
+            "translation": "탈것의 [Up+Down_blink]키 또는 왼쪽 스틱의[LINE]\n상하에 의한 이동 방향을 변경합니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 30352,
+            "string": "乗り物の移動速度を変更します。[LINE]\n数値が小さいほど速くなります。[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "탈것의 이동 속도를 변경합니다.[LINE]\n수치가 작을수록 빨라집니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 30264,
+            "string": "音響をステレオ再生にするか、[LINE]\nモノラル再生にするかを変更できます。[LINE]\n[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "음향을 스테레오 재생으로 할지,[LINE]\n모노 재생으로 할지 변경할 수 있습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 30200,
+            "string": "曲や効果音等の再生ボリュームを変更します。[LINE]\n[END]",
+            "original_bytes_length": 44,
+            "available_bytes_size": 47,
+            "translation": "음악이나 효과음 등의 재생 볼륨을 변경합니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 30824,
+            "string": "dummy[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "dummy[END]"
+        },
+        {
+            "offset": 30048,
+            "string": "メニュー内トップに表示されるプレイヤーキャラの[LINE]\n顔と、ステータスメニューの絵を変更できます。[LINE]\n[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "메뉴 내 상단에 표시되는 플레이어 캐릭터의[LINE]\n얼굴과, 스테이터스 메뉴의 그림을 변경할 수 있습니다.[LINE]\n[END]"
+        },
+
+
+        {
+            "offset": 31976,
+            "string": "[SIMPLE][END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "[SIMPLE][END]"
+        },
+        {
+            "offset": 31920,
+            "string": "戦闘難易度が低くなり、[LINE]\n画面表示などが簡略化されます。[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55,
+            "translation": "전투 난이도가 낮아지고,[LINE]\n화면 표시 등이 간소화됩니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 31904,
+            "string": "[NORMAL][END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "[NORMAL][END]"
+        },
+        {
+            "offset": 31880,
+            "string": "通常の戦闘難易度です。[LINE]\n[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "일반적인 전투 난이도입니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 31864,
+            "string": "[SECOND][END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "[SECOND][END]"
+        },
+        {
+            "offset": 31792,
+            "string": "NORMALより、やや高い難易度です。[LINE]\n敵味方とも各ダメージ倍率が変化します。[END]",
+            "original_bytes_length": 72,
+            "available_bytes_size": 72,
+            "translation": "NORMAL보다 약간 높은 난이도.[LINE]\n적, 아군 모두 각 데미지 배율 변화합니다.[END]"
+        },
+        {
+            "offset": 31784,
+            "string": "[HARD][END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "[HARD][END]"
+        },
+        {
+            "offset": 31704,
+            "string": "戦闘難易度が高くなりますが、[LINE]\n経験値やデバイスポイントにボーナスがつきます。[LINE]\n[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "전투 난이도가 높아지지만,[LINE]\n경험치나 디바이스 포인트에 보너스가 붙습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 31696,
+            "string": "[EVIL][END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "[EVIL][END]"
+        },
+        {
+            "offset": 31616,
+            "string": "極悪の戦闘難易度です。連続ヒットによる[LINE]\n経験値ボーナスは更に上昇します。[LINE]\n[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "극악의 전투 난이도입니다. 연속 히트에 의한[LINE]\n경험치 보너스는 더욱 상승합니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 31608,
+            "string": "[CHAOS][END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8,
+            "translation": "[CHAOS][END]"
+        },
+        {
+            "offset": 31520,
+            "string": "最高最悪の戦闘難易度です。敵味方共、[LINE]\nクリティカル倍率に関しては４倍になります。[LINE]\n[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "최고 최악의 전투 난이도입니다. 적, 아군 모두,[LINE]\n크리티컬 배율에 관해서는 4배가 됩니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 32200,
+            "string": "[ターゲット][END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "[타겟][END]"
+        },
+        {
+            "offset": 32152,
+            "string": "プレイヤーのターゲットを画面内に表示します。[LINE]\n[END]",
+            "original_bytes_length": 46,
+            "available_bytes_size": 47,
+            "translation": "플레이어의 타겟을 화면 내에 표시합니다.[LINE]\n[END]"
+
+        },
+        {
+            "offset": 32136,
+            "string": "[パーティ][END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "[파티][END]"
+        },
+        {
+            "offset": 32096,
+            "string": "パーティキャラを画面内に表示します。[LINE]\n[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "파티 캐릭터를 화면 내에 표시합니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 32080,
+            "string": "[エネミー][END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "[적][END]"
+        },
+        {
+            "offset": 32048,
+            "string": "敵全員を画面内に表示します。[LINE]\n[END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "적 전원을 화면 내에 표시.[LINE]\n[END]"
+        },
+        {
+            "offset": 32032,
+            "string": "[オール][END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "[전체][END]"
+        },
+        {
+            "offset": 31992,
+            "string": "キャラクター全員を画面内に表示します。[LINE]\n[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "캐릭터 전원을 화면 내에 표시합니다.[LINE]\n[END]"
+        },
+
+        {
+            "offset": 32216,
+            "string": "ディフィニットストライク表示をＯＦＦにします。[LINE]\n[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 48,
+            "translation": "디피니트 스트라이크 표시를 OFF로 합니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 32264,
+            "string": "[ＯＦＦ][END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "[ＯＦＦ][END]"
+        },
+        {
+            "offset": 32280,
+            "string": "敵に対して指定された連携を決めることで[LINE]\n戦闘を有利に進めることができま す。[LINE]\n[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "적에 대해 지정된 연계를 결정하여[LINE]\n전투를 유리하게 진행할 수 있습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 32360,
+            "string": "[ＯＮ][END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "[ＯＮ][END]"
+        },
+        {
+            "offset": 32368,
+            "string": "術技ショートカット２[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "기술 단축키 2[END]"
+        },
+        {
+            "offset": 32392,
+            "string": "術技ショートカット１[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "기술 단축키 1[END]"
+        },
+        {
+            "offset": 32416,
+            "string": "ターゲット切り替え[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "타겟 전환[END]"
+        },
+        {
+            "offset": 32440,
+            "string": "ブラストキャリバー[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "블래스트 캘리버[END]"
+        },
+        {
+            "offset": 32464,
+            "string": "メニュー[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "메뉴[END]"
+        },
+        {
+            "offset": 32480,
+            "string": "防御[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "방어[END]"
+        },
+        {
+            "offset": 32488,
+            "string": "術技[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "기술[END]"
+        },
+        {
+            "offset": 32496,
+            "string": "攻撃[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "공격[END]"
+        },
+        {
+            "offset": 32504,
+            "string": "戦闘キーカスタマイズ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "전투 키 커스터마이즈[END]"
+        },
+
+        {
+            "offset": 32600,
+            "string": "透明度[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "투명도[END]"
+        },
+
+        {
+            "offset": 32632,
+            "string": "色調整[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "색조[END]"
+        },
+
+        {
+            "offset": 32712,
+            "string": "ムービー[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "무비[END]"
+        },
+
+        {
+            "offset": 32728,
+            "string": "チャット[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "채팅[END]"
+        },
+        {
+            "offset": 32744,
+            "string": "イベント音声[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "이벤트 음성[END]"
+        },
+        {
+            "offset": 32760,
+            "string": "戦闘音声[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "전투 음성[END]"
+        },
+        {
+            "offset": 32776,
+            "string": "効果音[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "효과음[END]"
+        },
+        {
+            "offset": 32784,
+            "string": "曲[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "음악[END]"
+        },
+        {
+            "offset": 32792,
+            "string": "音量調整[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "볼륨 조절[END]"
+        },
+
+        {
+            "offset": 31296,
+            "string": "ターゲット[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "타겟[END]"
+        },
+        {
+            "offset": 31312,
+            "string": "パーティ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "파티[END]"
+        },
+        {
+            "offset": 31328,
+            "string": "エネミー[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "적[END]"
+        },
+        {
+            "offset": 31344,
+            "string": "オール[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "전체[END]"
+        },
+
+
+        {
+            "offset": 31352,
+            "string": "モノラル[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "모노[END]"
+        },
+        {
+            "offset": 31368,
+            "string": "ステレオ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "스테레오[END]"
+        },
+
+        {
+            "offset": 31432,
+            "string": "ウィンドウが開きます[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "창이 열립니다[END]"
+        },
+        
+        {
+            "offset": 32624,
+            "string": "赤[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "빨강[END]"
+        },
+        {
+            "offset": 32616,
+            "string": "緑[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "초록[END]"
+        },
+        {
+            "offset": 32608,
+            "string": "青[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "파랑[END]"
+        }
+
+    ]
+}
