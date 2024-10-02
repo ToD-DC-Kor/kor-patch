@@ -37,17 +37,17 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Hugo>, 네 야망도 여기까지다. 
-이 이상 마음대로 하게 두지 않겠다. 
+<Hugo>, 네 야망도 여기까지다.
+이 이상 마음대로 하게 두지 않겠다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-당신이 의지하던 측근도 
-이제 없습니다. 남은 건 당신뿐이에요. 
+당신이 의지하던 측근도
+이제 없습니다. 남은 건 당신뿐이에요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-각오는 됐어? 
+각오는 됐어?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
