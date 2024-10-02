@@ -1,0 +1,347 @@
+{
+    "SLPS": [
+        {
+            "offset": 1682576,
+            "string": "しっかりしろ！　[Stahn]！[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "정신차려!　[Stahn]![END]"
+        },
+        {
+            "offset": 1682600,
+            "string": "おい！　[Stahn]！[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "이봐！　[Stahn]！[END]"
+        },
+        {
+            "offset": 1682616,
+            "string": "うっ……[END]",
+            "translation": "으윽……[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1682632,
+            "string": "ディムロス!![END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "딤로스!![END]"
+        },
+        {
+            "offset": 1682648,
+            "string": "お前の名は!![END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "너의 이름은!![END]"
+        },
+        {
+            "offset": 1682664,
+            "string": "我が名は[END]",
+            "translation": "내 이름은[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1682680,
+            "string": "聞こえる……[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "들린다…[END]"
+        },
+        {
+            "offset": 1682696,
+            "string": "そして我の名を唱えるがいい[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "그리고 내 이름을 외쳐라[END]"
+        },
+        {
+            "offset": 1682728,
+            "string": "我を強く握りしめろ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "나를 꽉 잡아라[END]"
+        },
+        {
+            "offset": 1682752,
+            "string": "だからお前も我を信じろ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "그러니 너도 나를 믿어라[END]"
+        },
+        {
+            "offset": 1682776,
+            "string": "我はお前に力を貸そう[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "내가 너에게 힘을 빌려주마[END]"
+        },
+        {
+            "offset": 1682800,
+            "string": "いいか[Stahn][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "잘 들어라 [Stahn][END]"
+        },
+        {
+            "offset": 1682816,
+            "string": "[Stahn]……エルロン……[END]",
+            "translation": "[Stahn]……엘론……[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1682840,
+            "string": "お前名前は？[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "너의 이름은？[END]"
+        },
+        {
+            "offset": 1682856,
+            "string": "……さっきと同じ声？[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "…이전과 같은 목소리？[END]"
+        },
+        {
+            "offset": 1682880,
+            "string": "あきらめるな[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "포기하지 마라[END]"
+        },
+        {
+            "offset": 1682896,
+            "string": "ここまでか……[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "여기까지인가…[END]"
+        },
+        {
+            "offset": 1682912,
+            "string": "うわ～っ[END]",
+            "translation": "으아악~[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1682928,
+            "string": "これで良かったんだろう？　マリアン[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "이대로 괜찮은 걸까？ 마리안[END]"
+        },
+        {
+            "offset": 1682968,
+            "string": "これで……[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "이렇게…[END]"
+        },
+        {
+            "offset": 1682984,
+            "string": "僕のマスターは坊ちゃんです[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "제 주인은 도련님입니다[END]"
+        },
+        {
+            "offset": 1683016,
+            "string": "どこまでもお供しますよ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "어디까지든 함께하겠습니다[END]"
+        },
+        {
+            "offset": 1683040,
+            "string": "付き合わせてすまないな　シャル[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "함께하게 해서 미안하다 샤르[END]"
+        },
+        {
+            "offset": 1683072,
+            "string": "ここも間もなく水に飲まれる[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "여기도 곧 물에 잠길 거야[END]"
+        },
+        {
+            "offset": 1683104,
+            "string": "[Lion]！　[Lion]！[END]",
+            "translation": "[Lion]！　[Lion]！[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1683128,
+            "string": "このままベルクラントに突っ込むぞ[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "이대로 벨클란트에 돌진한다[END]"
+        },
+        {
+            "offset": 1683168,
+            "string": "切り裂け[END]",
+            "translation": "찢어라[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1683184,
+            "string": "うおおおお[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "우오오오오[END]"
+        },
+        {
+            "offset": 1683200,
+            "string": "ディムロス……[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "딤로스…[END]"
+        },
+        {
+            "offset": 1683216,
+            "string": "さあ　最後の使命を果たすのだ[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "자, 마지막 임무를 수행하라[END]"
+        },
+        {
+            "offset": 1683248,
+            "string": "我がマスター　[Stahn]・エルロンよ[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "나의 주인 [Stahn]・엘론이여[END]"
+        },
+        {
+            "offset": 1683280,
+            "string": "この世界の未来をお前に託す[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "이 세계의 미래를 너에게 맡긴다[END]"
+        },
+        {
+            "offset": 1683312,
+            "string": "運命の物語だったのかもしれんと[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "운명의 이야기였을지도 모른다[END]"
+        },
+        {
+            "offset": 1683344,
+            "string": "まさに一篇の[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "정말 한 편의[END]"
+        },
+        {
+            "offset": 1683360,
+            "string": "その後の変遷を経て　今に至る過程こそ[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "그 후의 변천을 거쳐 지금에 이르는 과정이야말로[END]"
+        },
+        {
+            "offset": 1683400,
+            "string": "お前との出会い[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "너와의 만남[END]"
+        },
+        {
+            "offset": 1683416,
+            "string": "我は思うのだ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "나는 생각한다[END]"
+        },
+        {
+            "offset": 1683432,
+            "string": "世話のかかる者ほど　愛着がわくというのは本当だな[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "손이 많이 가는 사람일수록 애착이 간다는 게 정말이군[END]"
+        },
+        {
+            "offset": 1683488,
+            "string": "我もだ[END]",
+            "translation": "나도 그래[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1683496,
+            "string": "お前と旅ができて楽しかったよ[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "너와 여행할 수 있어서 즐거웠다[END]"
+        },
+        {
+            "offset": 1683528,
+            "string": "不謹慎な言い方かもしれないけど[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "부적절한 표현일지도 모르지만[END]"
+        },
+        {
+            "offset": 1683560,
+            "string": "我らは長く生きすぎた[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "우리는 너무 오랫동안 살아왔다[END]"
+        },
+        {
+            "offset": 1683584,
+            "string": "いいのだよ[Stahn][END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "괜찮다 [Stahn][END]"
+        },
+        {
+            "offset": 1683600,
+            "string": "そうだ[END]",
+            "translation": "그렇다[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1683608,
+            "string": "本当にこれしか方法はないんだな？[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "정말로 이것밖에 방법이 없는 거야？[END]"
+        },
+        {
+            "offset": 1683648,
+            "string": "初期読み込み中[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "초기 로딩 중[END]"
+        },
+        {
+            "offset": 1683664,
+            "string": "スキップしますか？[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "건너뛰시겠습니까？[END]"
+        },
+        {
+            "offset": 1683688,
+            "string": "はい[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "네[END]"
+        },
+        {
+            "offset": 1683696,
+            "string": "いいえ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "아니요[END]"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "SLPS": [
+        {
+            "offset": 1684336,
+            "string": "フードサックから生まれた料理に、[LINE]\nさらに一工夫。[LINE]\nこんなにおいしくできるので、[LINE]\nＨＰ回復量がアップ。[END]",
+            "original_bytes_length": 98,
+            "available_bytes_size": 103,
+            "translation": "음식 주머니에서 태어난 요리에,[LINE]\n한 가지 더 공들인 요리법[LINE]\n이렇게 맛있게 만들 수 있으니,[LINE]\nHP 회복량이 증가.[END]"
+        },
+        {
+            "offset": 1684440,
+            "string": "調味料の業[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "조미료의 기술[END]"
+        },
+        {
+            "offset": 1684456,
+            "string": "ただただ自分をいじめぬいて、[LINE]\nやっぱり自分のステータスをアップ。[LINE]\nその筋肉はみんなのために使います。[LINE]\n[END]",
+            "original_bytes_length": 100,
+            "available_bytes_size": 103,
+            "translation": "오로지 자신을 혹독히 단련하여,[LINE]\n자신의 스탯을 올리지.[LINE]\n그 근육은 모두를 위해 쓸 거야.[LINE]\n[END]"
+        },
+        {
+            "offset": 1684560,
+            "string": "筋トレ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "근력 훈련[END]"
+        },
+        {
+            "offset": 1684568,
+            "string": "ライブといえば路上。[LINE]\n賑やかすぎて敵も寄ってきますが、[LINE]\nアイテム入手率が上がります。[LINE]\nおひねり？[END]",
+            "original_bytes_length": 94,
+            "available_bytes_size": 95,
+            "translation": "라이브하면 거리 공연.[LINE]\n너무 시끌벅적해서 적도 다가오지만,[LINE]\n아이템 획득률이 상승.[LINE]\n팁인가？[END]"
+        },
+        {
+            "offset": 1684664,
+            "string": "路上ライブ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "거리 공연[END]"
+        },
+        {
+            "offset": 1684680,
+            "string": "知らない種でも丹精込めて[LINE]\n育てます。きっと大きな[LINE]\n実がなるでしょう。[LINE]\n[END]",
+            "original_bytes_length": 68,
+            "available_bytes_size": 71,
+            "translation": "모르는 씨앗이라도 정성을 다해[LINE]\n기릅니다. 분명 큰[LINE]\n열매가 맺힐 거예요.[LINE]\n[END]"
+        },
+        {
+            "offset": 1684752,
+            "string": "種育て[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "씨앗 기르기[END]"
+        },
+        {
+            "offset": 1684760,
+            "string": "所持している宝石を[LINE]\n地味にコツコツ磨き上げることで、[LINE]\nレベルアップを期待できます。[LINE]\n[END]",
+            "original_bytes_length": 82,
+            "available_bytes_size": 87,
+            "translation": "소지하고 있는 보석을[LINE]\n조용히 꾸준히 다듬어가면,[LINE]\n레벨업을 기대할 수 있습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1684848,
+            "string": "宝石練磨[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "보석 연마[END]"
+        },
+        {
+            "offset": 1684864,
+            "string": "移動中もビシビシ教育。[LINE]\n戦闘中の攻撃力を上げることができ[LINE]\nます。[LINE]\n[END]",
+            "original_bytes_length": 64,
+            "available_bytes_size": 64,
+            "translation": "이동 중에도 강력한 교육.[LINE]\n전투 중 공격력을 올릴 수[LINE]있습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1684928,
+            "string": "戦闘指揮[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "전투 지휘[END]"
+        },
+        {
+            "offset": 1684944,
+            "string": "周囲の索敵を行い、[LINE]\nエンカウント率を下げることができ[LINE]\nます。[LINE]\n[END]",
+            "original_bytes_length": 60,
+            "available_bytes_size": 63,
+            "translation": "주변 탐색을 수행하여,[LINE]\n인카운트율을 낮출 수[LINE]있습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1685008,
+            "string": "警戒[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "경계[END]"
+        },
+        {
+            "offset": 1685016,
+            "string": "拾った実と薬品をステキに調合し、[LINE]\n消費アイテムにしてくれます。[LINE]\nたまに、たま～に変なものも。[LINE]\n[END]",
+            "original_bytes_length": 92,
+            "available_bytes_size": 95,
+            "translation": "주은 열매와 약품을 멋지게 조합하여,[LINE]\n소비 아이템으로 만들어 줍니다.[LINE]\n가끔, 아주 가~끔 이상한 것도.[LINE]\n[END]"
+        },
+        {
+            "offset": 1685112,
+            "string": "調合[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "조합[END]"
+        },
+        {
+            "offset": 1685120,
+            "string": "ガルドやレンズを探します。[LINE]\n勝手に所持金増え放題。[LINE]\n金目のものも拾ってきます。[LINE]\n[END]",
+            "original_bytes_length": 78,
+            "available_bytes_size": 79,
+            "translation": "가르드와 렌즈를 찾습니다.[LINE]\n알아서 소지금이 마구 늘어납니다.[LINE]\n값나가는 것도 주워옵니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1685200,
+            "string": "お宝探し[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "보물 찾기[END]"
+        },
+        {
+            "offset": 1685216,
+            "string": "すやすやお昼寝してＨＰ回復。[LINE]\nお昼寝中は薬草を寝押しするので、[LINE]\n違う何かに変化するかも。[LINE]\n[END]",
+            "original_bytes_length": 88,
+            "available_bytes_size": 88,
+            "translation": "쿨쿨 낮잠을 자며 HP 회복.[LINE]\n낮잠 중에 약초를 눌러서,[LINE]\n다른 뭔가로 변할지도 모릅니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1685304,
+            "string": "寝押し[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "눌러서[END]"
+        }
+    ]
+}

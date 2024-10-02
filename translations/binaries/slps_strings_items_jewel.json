@@ -1,0 +1,697 @@
+{
+    "SLPS": [
+        {
+            "offset": 1768720,
+            "string": "[Sign_2]なりきりリリス[END]",
+            "translation": "[Sign_2]나리키리 리리스[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1768744,
+            "string": "[Sign_2]なりきりコングマン[END]",
+            "translation": "[Sign_2]나리키리 콩맨[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1768768,
+            "string": "[Sign_2]なりきりジョニー[END]",
+            "translation": "[Sign_2]나리키리 죠니[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1768792,
+            "string": "[Sign_2]なりきりチェルシー[END]",
+            "translation": "[Sign_2]나리키리 첼시[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1768816,
+            "string": "[Sign_2]なりきりマリー[END]",
+            "translation": "[Sign_2]나리키리 마리[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1768840,
+            "string": "[Sign_2]なりきりリオン[END]",
+            "translation": "[Sign_2]나리키리 리온[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1768864,
+            "string": "[Sign_2]なりきりウッドロウ[END]",
+            "translation": "[Sign_2]나리키리 우드로우[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24
+        },
+        {
+            "offset": 1768888,
+            "string": "[Sign_2]なりきりフィリア[END]",
+            "translation": "[Sign_2]나리키리 필리아[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1768912,
+            "string": "[Sign_2]なりきりルーティ[END]",
+            "translation": "[Sign_2]나리키리 루티[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1768936,
+            "string": "なりきりの力が宿っている？[LINE]\n[LINE]\n[END]",
+            "translation": "나리키리의 힘이 깃들어 있다?[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1768968,
+            "string": "[Sign_2]なりきりスタン[END]",
+            "translation": "[Sign_2]나리키리 스탄[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23
+        },
+        {
+            "offset": 1768992,
+            "string": "与えるダメージが２倍になる宝石。[LINE]\nただし……[LINE]\n[END]",
+            "translation": "주는 데미지가 2배가 되는 보석.[LINE]\n다만……[LINE]\n[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47
+        },
+        {
+            "offset": 1769040,
+            "string": "[Sign_2]エッジ[END]",
+            "translation": "[Sign_2]에지[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1769056,
+            "string": "獲得経験値が２倍になる宝石。[LINE]\nただし……[LINE]\n[END]",
+            "translation": "획득 경험치가 2배가 되는 보석.[LINE]\n다만……[LINE]\n[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47
+        },
+        {
+            "offset": 1769104,
+            "string": "[Sign_2]デモンズ[END]",
+            "translation": "[Sign_2]데몬즈[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1769120,
+            "string": "フラッシュガード[LINE]\n（敵の攻撃をひきつけてガード）[LINE]\nでＨＰが回復する宝石。[END]",
+            "translation": "플래시 가드[LINE]\n(적의 공격을 끌어내어 가드)[LINE]\n했을 때 HP가 회복되는 보석.[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71
+        },
+        {
+            "offset": 1769192,
+            "string": "[Sign_2]アブソーブ[END]",
+            "translation": "[Sign_2]앱소브[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1769208,
+            "string": "フラッシュガード[LINE]\n（敵の攻撃をひきつけてガード）[LINE]\nでＣＣが２加算する宝石。[END]",
+            "translation": "플래시 가드[LINE]\n(적의 공격을 끌어내어 가드)[LINE]\n했을 때 CC가 2 오르는 보석.[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79
+        },
+        {
+            "offset": 1769288,
+            "string": "[Sign_2]ストリクト[END]",
+            "translation": "[Sign_2]스트릭트[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1769304,
+            "string": "エイミングダッシュ中[LINE]\n物理攻撃を防御できる宝石。[LINE]\n[END]",
+            "translation": "에이밍 대시 중[LINE]\n물리 공격을 방어할 수 있는 보석.[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1769360,
+            "string": "[Sign_2]アドバンス[END]",
+            "translation": "[Sign_2]어드밴스[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1769376,
+            "string": "敵を倒したときにブラストゲージが[LINE]\n加算される宝石。[LINE]\n[END]",
+            "translation": "적을 쓰러트렸을 때[LINE]\n블라스트 게이지가 오르는 보석.[LINE]\n[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1769432,
+            "string": "[Sign_2]テンション[END]",
+            "translation": "[Sign_2]텐션[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1769448,
+            "string": "敵を倒したときにＣＣを＋２する[LINE]\n宝石。[LINE]\n[END]",
+            "translation": "적을 쓰러트렸을 때[LINE]\nCC를 +2 하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39
+        },
+        {
+            "offset": 1769488,
+            "string": "[Sign_2]ラピッド[END]",
+            "translation": "[Sign_2]래피드[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1769504,
+            "string": "敵を倒したときにＨＰが回復する[LINE]\n宝石。[LINE]\n[END]",
+            "translation": "적을 쓰러트렸을 때[LINE]\nHP가 회복되는 보석.[LINE]\n[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39
+        },
+        {
+            "offset": 1769544,
+            "string": "[Sign_2]ゲイン[END]",
+            "translation": "[Sign_2]게인[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1769560,
+            "string": "一定時間毎にＨＰが微量回復する[LINE]\n宝石。[LINE]\n[END]",
+            "translation": "일정 시간마다 HP가[LINE]\n미량 회복되는 보석.[LINE]\n[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39
+        },
+        {
+            "offset": 1769600,
+            "string": "[Sign_2]ホーリィ[END]",
+            "translation": "[Sign_2]홀리[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1769616,
+            "string": "クリティカル時にＣＣを＋１する[LINE]\n宝石。[LINE]\n[END]",
+            "translation": "크리티컬이 발생했을 때[LINE]\nCC를 +1 하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39
+        },
+        {
+            "offset": 1769656,
+            "string": "[Sign_2]チェイサー[END]",
+            "translation": "[Sign_2]체이서[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1769672,
+            "string": "ＣＣを平均で固定にする宝石。[LINE]\n[LINE]\n[END]",
+            "translation": "CC를 평균으로 고정하는 보석.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1769704,
+            "string": "[Sign_2]フラット[END]",
+            "translation": "[Sign_2]플랫[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1769720,
+            "string": "ＣＣを常に１５にする宝石。[LINE]\n[LINE]\n[END]",
+            "translation": "CC를 항상 15로 하는 보석.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1769752,
+            "string": "[Sign_2]フィックス[END]",
+            "translation": "[Sign_2]픽스[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1769768,
+            "string": "最小ＣＣと最大ＣＣを１増やす宝石。[LINE]\n[LINE]\n[END]",
+            "translation": "최소 CC와 최대 CC가 1 증가하는 보석.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39
+        },
+        {
+            "offset": 1769808,
+            "string": "[Sign_2]バリアブル[END]",
+            "translation": "[Sign_2]베리어블[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1769824,
+            "string": "最大ＣＣを２増やす宝石。[LINE]\n[LINE]\n[END]",
+            "translation": "최대 CC가 2 증가하는 보석.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1769856,
+            "string": "[Sign_2]ゼクシード[END]",
+            "translation": "[Sign_2]젝시드[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1769872,
+            "string": "最大ＣＣを１増やす宝石。[LINE]\n[LINE]\n[END]",
+            "translation": "최대 CC가 1 증가하는 보석.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1769904,
+            "string": "[Sign_2]エクシード[END]",
+            "translation": "[Sign_2]엑시드[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1769920,
+            "string": "最小ＣＣを１増やす宝石。[LINE]\n[LINE]\n[END]",
+            "translation": "최소 CC가 1 증가하는 보석.[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31
+        },
+        {
+            "offset": 1769952,
+            "string": "[Sign_2]ライズ[END]",
+            "translation": "[Sign_2]라이즈[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1769968,
+            "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\n減少効果を打ち消す宝石。[LINE]\n[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n감소 효과를 무효화하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1770024,
+            "string": "[Sign_2]ディスペル[END]",
+            "translation": "[Sign_2]디스펠[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1770040,
+            "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\n敵の防御を崩す攻撃判定が[LINE]\n発生する宝石。[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n적의 방어를 무너뜨리는 공격 판정이[LINE]\n발생하는 보석.[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1770104,
+            "string": "[Sign_2]フィジカル[END]",
+            "translation": "[Sign_2]피지컬[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1770120,
+            "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\nＨＰを回復する宝石。[LINE]\n[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\nHP가 회복되는 보석.[LINE]\n[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47
+        },
+        {
+            "offset": 1770168,
+            "string": "[Sign_2]キュア[END]",
+            "translation": "[Sign_2]큐어[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1770184,
+            "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\n自分以外の味方のＣＣを[LINE]\n加算させる宝石。[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n자신 이외의 아군의 CC가[LINE]\n오르는 보석.[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1770248,
+            "string": "[Sign_2]サプライ[END]",
+            "translation": "[Sign_2]서플라이[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1770264,
+            "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\nブラストゲージを加算する宝石。[LINE]\n[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n블라스트 게이지가 오르는 보석.[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1770320,
+            "string": "[Sign_2]ブラスト[END]",
+            "translation": "[Sign_2]블라스트[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1770336,
+            "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\n短時間完全回避する宝石。[LINE]\n[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n짧은 시간동안 모든 공격을[LINE]\n회피하는 보석.[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1770392,
+            "string": "[Sign_2]フラッシュ[END]",
+            "translation": "[Sign_2]플래시[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1770408,
+            "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\nＣＣを１加算する宝石。[LINE]\n[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\nCC가 1 오르는 보석.[LINE]\n[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47
+        },
+        {
+            "offset": 1770456,
+            "string": "[Sign_2]チェイン[END]",
+            "translation": "[Sign_2]체인[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1770472,
+            "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\n高確率で状態異常を解除する宝石。[LINE]\n[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n고확률로 상태이상을 해제하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1770536,
+            "string": "[Sign_2]リカバー[END]",
+            "translation": "[Sign_2]리커버[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1770552,
+            "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\n術防御力を一定時間上昇する宝石。[LINE]\n[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n술 방어력이 일정 시간 상승하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1770616,
+            "string": "[Sign_2]レジスト[END]",
+            "translation": "[Sign_2]레지스트[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1770632,
+            "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\n防御力を一定時間上昇する宝石。[LINE]\n[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n방어력이 일정 시간 상승하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1770688,
+            "string": "[Sign_2]プロテクト[END]",
+            "translation": "[Sign_2]프로텍트[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1770704,
+            "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\n術攻撃力を一定時間上昇する宝石。[LINE]\n[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n술 공격력이 일정 시간 상승하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1770768,
+            "string": "[Sign_2]マインド[END]",
+            "translation": "[Sign_2]마인드[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1770784,
+            "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\n攻撃力を一定時間上昇する宝石。[LINE]\n[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n공격력이 일정 시간 상승하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1770840,
+            "string": "[Sign_2]アタック[END]",
+            "translation": "[Sign_2]어택[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1770856,
+            "string": "音属性ダメージを半減できる[LINE]\n「音属性耐性」を付加する宝石。[LINE]\n[END]",
+            "translation": "소리속성 데미지를 반감할 수 있는[LINE]\n「소리속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1770920,
+            "string": "[Sign_2]ソニック[END]",
+            "translation": "[Sign_2]소닉[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1770936,
+            "string": "射属性ダメージを半減できる[LINE]\n「射属性耐性」を付加する宝石。[LINE]\n[END]",
+            "translation": "사격속성 데미지를 반감할 수 있는[LINE]\n「사격속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1771000,
+            "string": "[Sign_2]ショット[END]",
+            "translation": "[Sign_2]샷[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1771016,
+            "string": "打属性ダメージを半減できる[LINE]\n「打属性耐性」を付加する宝石。[LINE]\n[END]",
+            "translation": "타격속성 데미지를 반감할 수 있는[LINE]\n「타격속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1771080,
+            "string": "[Sign_2]ブロウ[END]",
+            "translation": "[Sign_2]블로우[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1771096,
+            "string": "斬属性ダメージを半減できる[LINE]\n「斬属性耐性」を付加する宝石。[LINE]\n[END]",
+            "translation": "참격속성 데미지를 반감할 수 있는[LINE]\n「참격속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1771160,
+            "string": "[Sign_2]スラッシュ[END]",
+            "translation": "[Sign_2]슬래시[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1771176,
+            "string": "闇属性ダメージを半減できる[LINE]\n「闇属性耐性」を付加する宝石。[LINE]\n[END]",
+            "translation": "어둠속성 데미지를 반감할 수 있는[LINE]\n「어둠속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1771240,
+            "string": "[Sign_2]ダーク[END]",
+            "translation": "[Sign_2]다크[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1771256,
+            "string": "光属性ダメージを半減できる[LINE]\n「光属性耐性」を付加する宝石。[LINE]\n[END]",
+            "translation": "빛속성 데미지를 반감할 수 있는[LINE]\n「빛속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1771320,
+            "string": "[Sign_2]ライト[END]",
+            "translation": "[Sign_2]라이트[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1771336,
+            "string": "風属性ダメージを半減できる[LINE]\n「風属性耐性」を付加する宝石。[LINE]\n[END]",
+            "translation": "바람속성 데미지를 반감할 수 있는[LINE]\n「바람속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1771400,
+            "string": "[Sign_2]ゲイル[END]",
+            "translation": "[Sign_2]게일[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1771416,
+            "string": "地属性ダメージを半減できる[LINE]\n「地属性耐性」を付加する宝石。[LINE]\n[END]",
+            "translation": "땅속성 데미지를 반감할 수 있는[LINE]\n「땅속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1771480,
+            "string": "[Sign_2]アース[END]",
+            "translation": "[Sign_2]어스[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1771496,
+            "string": "水属性ダメージを半減できる[LINE]\n「水属性耐性」を付加する宝石。[LINE]\n[END]",
+            "translation": "물속성 데미지를 반감할 수 있는[LINE]\n「물속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1771560,
+            "string": "[Sign_2]アクア[END]",
+            "translation": "[Sign_2]아쿠아[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1771576,
+            "string": "火属性ダメージを半減できる[LINE]\n「火属性耐性」を付加する宝石。[LINE]\n[END]",
+            "translation": "불속성 데미지를 반감할 수 있는[LINE]\n「불속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63
+        },
+        {
+            "offset": 1771640,
+            "string": "[Sign_2]フレア[END]",
+            "translation": "[Sign_2]플레어[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1771656,
+            "string": "術技が使用不可になる状態異常[LINE]\n「封印」を防止する宝石。[LINE]\n[END]",
+            "translation": "술기를 사용할 수 없게 되는 상태이상[LINE]\n「봉인」을 방지하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1771712,
+            "string": "[Sign_2]シール[END]",
+            "translation": "[Sign_2]실[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1771728,
+            "string": "行動時に痺れる状態異常[LINE]\n「マヒ」を防止する宝石。[LINE]\n[END]",
+            "translation": "행동 시에 몸이 저리는 상태이상[LINE]\n「마비」를 방지하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1771784,
+            "string": "[Sign_2]パラライ[END]",
+            "translation": "[Sign_2]패럴라이[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1771800,
+            "string": "ＣＣの回復が遅くなる状態異常[LINE]\n「衰弱」を防止する宝石。[LINE]\n[END]",
+            "translation": "CC의 회복이 느려지는 상태이상[LINE]\n「쇠약」을 방지하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1771856,
+            "string": "[Sign_2]ウェイスト[END]",
+            "translation": "[Sign_2]웨이스트[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16
+        },
+        {
+            "offset": 1771872,
+            "string": "行動不能になる状態異常[LINE]\n「石化」を防止する宝石。[LINE]\n[END]",
+            "translation": "행동 불능이 되는 상태이상[LINE]\n「석화」를 방지하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1771928,
+            "string": "[Sign_2]ストーン[END]",
+            "translation": "[Sign_2]스톤[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1771944,
+            "string": "行動不能になる状態異常[LINE]\n「睡眠」を防止する宝石。[LINE]\n[END]",
+            "translation": "행동 불능이 되는 상태이상[LINE]\n「수면」을 방지하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1772000,
+            "string": "[Sign_2]スリープ[END]",
+            "translation": "[Sign_2]슬립[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1772016,
+            "string": "ＨＰが減少していく状態異常[LINE]\n「熱毒」を防止する宝石。[LINE]\n[END]",
+            "translation": "HP가 계속 감소하는 상태이상[LINE]\n「열독」을 방지하는 보석.[LINE]\n[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55
+        },
+        {
+            "offset": 1772072,
+            "string": "[Sign_2]ポイズン[END]",
+            "translation": "[Sign_2]포이즌[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15
+        }
+    ]
+}

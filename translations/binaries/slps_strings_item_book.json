@@ -1,0 +1,235 @@
+{
+    "SLPS": [
+        {
+            "offset": 1831672,
+            "string": "レンズ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "렌즈[END]"
+        },
+        {
+            "offset": 1831680,
+            "string": "貴重品[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "귀중품[END]"
+        },
+        {
+            "offset": 1831688,
+            "string": "フードサック[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "후드백[END]"
+        },
+        {
+            "offset": 1831704,
+            "string": "図鑑[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "도감[END]"
+        },
+        {
+            "offset": 1831712,
+            "string": "カード[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "카드[END]"
+        },
+        {
+            "offset": 1831720,
+            "string": "フライパン[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "프라이팬[END]"
+        },
+        {
+            "offset": 1831736,
+            "string": "ベルト[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "벨트[END]"
+        },
+        {
+            "offset": 1831744,
+            "string": "帽子[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "모자[END]"
+        },
+        {
+            "offset": 1831752,
+            "string": "髪飾り[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "머리장식[END]"
+        },
+        {
+            "offset": 1831760,
+            "string": "バンダナ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "반다나[END]"
+        },
+        {
+            "offset": 1831776,
+            "string": "短剣[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "단검[END]"
+        },
+        {
+            "offset": 1831784,
+            "string": "長弓[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "장궁[END]"
+        },
+        {
+            "offset": 1831792,
+            "string": "首飾り[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "목걸이[END]"
+        },
+        {
+            "offset": 1831800,
+            "string": "グローブ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "장갑[END]"
+        },
+        {
+            "offset": 1831816,
+            "string": "篭手[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "장갑[END]"
+        },
+        {
+            "offset": 1831824,
+            "string": "固有装備[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "고유 장비[END]"
+        },
+        {
+            "offset": 1831840,
+            "string": "宝石[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "보석[END]"
+        },
+        {
+            "offset": 1831848,
+            "string": "ローブ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "로브[END]"
+        },
+        {
+            "offset": 1831856,
+            "string": "クローク[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "망토[END]"
+        },
+        {
+            "offset": 1831872,
+            "string": "ウェア[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "웨어[END]"
+        },
+        {
+            "offset": 1831880,
+            "string": "プレート[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "플레이트[END]"
+        },
+        {
+            "offset": 1831896,
+            "string": "アーマー[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "갑옷[END]"
+        },
+        {
+            "offset": 1831912,
+            "string": "おたま[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "주걱[END]"
+        },
+        {
+            "offset": 1831920,
+            "string": "ナックル[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "너클[END]"
+        },
+        {
+            "offset": 1831936,
+            "string": "楽器[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "악기[END]"
+        },
+        {
+            "offset": 1831944,
+            "string": "小弓[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "소궁[END]"
+        },
+        {
+            "offset": 1831952,
+            "string": "斧[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "도끼[END]"
+        },
+        {
+            "offset": 1831960,
+            "string": "剣[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "검[END]"
+        },
+        {
+            "offset": 1831968,
+            "string": "ストラップ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "스트랩[END]"
+        },
+        {
+            "offset": 1831984,
+            "string": "原石[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "원석[END]"
+        },
+        {
+            "offset": 1831992,
+            "string": "保険[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "보험[END]"
+        },
+        {
+            "offset": 1832000,
+            "string": "道具[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "도구[END]"
+        },
+        {
+            "offset": 1832008,
+            "string": "消費[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "소비[END]"
+        }
+    ]
+}
