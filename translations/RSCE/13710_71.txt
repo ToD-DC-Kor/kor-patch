@@ -505,8 +505,8 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-천상방에게 당하기만 하는 게
-분했어.
+천상군에게 당하기만 하는 게
+너무 억울했어.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -743,7 +743,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-너 자신은 포기하고 있으면서
+너 자신은 포기하고 있었으면서
 뭐가 그리 자랑스러운 거야.
 [ENDBLOCK]
 <Dymlos>
@@ -792,7 +792,7 @@
 <Dymlos>
 [ENDBLOCK]
 ……미리 말해두지만
-그렇게 달콤한 게 아니야.
+그렇게 간단한 게 아니야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -914,7 +914,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-집요하겠지만 한 번 더 묻겠다.
+집요한 거 같지만 한 번 더 묻겠다.
 ……<Stahn> 엘론.
 [ENDBLOCK]
 <Dymlos>
