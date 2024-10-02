@@ -205,7 +205,7 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-밖에 돌아다니다가,
+밖을 돌아다니다가,
 우연히 발견했어.
 [ENDBLOCK]
 <Stahn>
