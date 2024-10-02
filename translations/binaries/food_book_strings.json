@@ -1,0 +1,46 @@
+{
+    "00067.md1": [
+        {
+            "offset": 3744,
+            "string": "[Cross_ani]戻る[L3_ani][R3_ani]図鑑切替[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "[Cross_ani]뒤로[L3_ani][R3_ani]도감 전환[END]"
+        },
+        {
+            "offset": 3800,
+            "string": "取得率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "획득률[END]"
+        },
+        {
+            "offset": 3816,
+            "string": "回復量[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "회복량[END]"
+        },
+        {
+            "offset": 3824,
+            "string": "消費ＦＯＯＤ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "소비 ＦＯＯＤ[END]"
+        },
+        {
+            "offset": 3840,
+            "string": "食べた回数[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "먹은 횟수[END]"
+        },
+        {
+            "offset": 3856,
+            "string": "コラボレーション[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "콜라보레이션[END]"
+        }
+    ]
+}
