@@ -242,7 +242,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-잠, <Lilith> 기다려.
+잠깐, <Lilith> 기다려.
 쓸게, 꼭 쓸 테니까 그것만은!
 [ENDBLOCK]
 <Lilith>
