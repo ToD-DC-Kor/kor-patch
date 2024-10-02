@@ -247,7 +247,7 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-좋아요.
+좋아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
