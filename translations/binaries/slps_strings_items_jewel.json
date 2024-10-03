@@ -472,7 +472,7 @@
         {
             "offset": 1770856,
             "string": "音属性ダメージを半減できる[LINE]\n「音属性耐性」を付加する宝石。[LINE]\n[END]",
-            "translation": "소리속성 데미지를 반감할 수 있는[LINE]\n「소리속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "translation": "음파 속성 데미지를 반감할 수 있는[LINE]\n「음파 속성 내성」을 부여하는 보석.[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63
         },
@@ -486,7 +486,7 @@
         {
             "offset": 1770936,
             "string": "射属性ダメージを半減できる[LINE]\n「射属性耐性」を付加する宝石。[LINE]\n[END]",
-            "translation": "사격속성 데미지를 반감할 수 있는[LINE]\n「사격속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "translation": "사격 속성 데미지를 반감할 수 있는[LINE]\n「사격 속성 내성」을 부여하는 보석.[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63
         },
@@ -500,7 +500,7 @@
         {
             "offset": 1771016,
             "string": "打属性ダメージを半減できる[LINE]\n「打属性耐性」を付加する宝石。[LINE]\n[END]",
-            "translation": "타격속성 데미지를 반감할 수 있는[LINE]\n「타격속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "translation": "타격 속성 데미지를 반감할 수 있는[LINE]\n「타격 속성 내성」을 부여하는 보석.[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63
         },
@@ -514,7 +514,7 @@
         {
             "offset": 1771096,
             "string": "斬属性ダメージを半減できる[LINE]\n「斬属性耐性」を付加する宝石。[LINE]\n[END]",
-            "translation": "참격속성 데미지를 반감할 수 있는[LINE]\n「참격속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "translation": "참격 속성 데미지를 반감할 수 있는[LINE]\n「참격 속성 내성」을 부여하는 보석.[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63
         },
@@ -528,7 +528,7 @@
         {
             "offset": 1771176,
             "string": "闇属性ダメージを半減できる[LINE]\n「闇属性耐性」を付加する宝石。[LINE]\n[END]",
-            "translation": "어둠속성 데미지를 반감할 수 있는[LINE]\n「어둠속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "translation": "어둠 속성 데미지를 반감할 수 있는[LINE]\n「어둠 속성 내성」을 부여하는 보석.[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63
         },
@@ -542,7 +542,7 @@
         {
             "offset": 1771256,
             "string": "光属性ダメージを半減できる[LINE]\n「光属性耐性」を付加する宝石。[LINE]\n[END]",
-            "translation": "빛속성 데미지를 반감할 수 있는[LINE]\n「빛속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "translation": "빛 속성 데미지를 반감할 수 있는[LINE]\n「빛 속성 내성」을 부여하는 보석.[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63
         },
@@ -556,7 +556,7 @@
         {
             "offset": 1771336,
             "string": "風属性ダメージを半減できる[LINE]\n「風属性耐性」を付加する宝石。[LINE]\n[END]",
-            "translation": "바람속성 데미지를 반감할 수 있는[LINE]\n「바람속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "translation": "바람 속성 데미지를 반감할 수 있는[LINE]\n「바람 속성 내성」을 부여하는 보석.[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63
         },
@@ -570,7 +570,7 @@
         {
             "offset": 1771416,
             "string": "地属性ダメージを半減できる[LINE]\n「地属性耐性」を付加する宝石。[LINE]\n[END]",
-            "translation": "땅속성 데미지를 반감할 수 있는[LINE]\n「땅속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "translation": "땅 속성 데미지를 반감할 수 있는[LINE]\n「땅 속성 내성」을 부여하는 보석.[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63
         },
@@ -584,7 +584,7 @@
         {
             "offset": 1771496,
             "string": "水属性ダメージを半減できる[LINE]\n「水属性耐性」を付加する宝石。[LINE]\n[END]",
-            "translation": "물속성 데미지를 반감할 수 있는[LINE]\n「물속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "translation": "물 속성 데미지를 반감할 수 있는[LINE]\n「물 속성 내성」을 부여하는 보석.[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63
         },
@@ -598,7 +598,7 @@
         {
             "offset": 1771576,
             "string": "火属性ダメージを半減できる[LINE]\n「火属性耐性」を付加する宝石。[LINE]\n[END]",
-            "translation": "불속성 데미지를 반감할 수 있는[LINE]\n「불속성 내성」을 부여하는 보석.[LINE]\n[END]",
+            "translation": "불 속성 데미지를 반감할 수 있는[LINE]\n「불 속성 내성」을 부여하는 보석.[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63
         },
@@ -612,7 +612,7 @@
         {
             "offset": 1771656,
             "string": "術技が使用不可になる状態異常[LINE]\n「封印」を防止する宝石。[LINE]\n[END]",
-            "translation": "술기를 사용할 수 없게 되는 상태이상[LINE]\n「봉인」을 방지하는 보석.[LINE]\n[END]",
+            "translation": "기술을 사용할 수 없게 되는 상태이상[LINE]\n「봉인」을 방지하는 보석.[LINE]\n[END]",
             "original_bytes_length": 55,
             "available_bytes_size": 55
         },

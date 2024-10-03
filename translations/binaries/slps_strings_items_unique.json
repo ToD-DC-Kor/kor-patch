@@ -271,7 +271,7 @@
             "string": "その声は、混沌で眠る不死の王をも[LINE]\n魅了する。伝説に残る詩人の帽子。[LINE]\n闇属性の攻撃属性を付加する。[END]",
             "original_bytes_length": 95,
             "available_bytes_size": 95,
-            "translation": "그 목소리는 혼돈에서 잠자는 불사의 왕조차도[LINE]\n매료시킵니다. 전설에 남는 시인의 모자입니다.[LINE]\n암속성 공격을 부여합니다.[END]"
+            "translation": "그 목소리는 혼돈에서 잠자는 불사의 왕조차도[LINE]\n매료시킵니다. 전설에 남는 시인의 모자입니다.[LINE]\n어둠 속성 공격을 부여합니다.[END]"
         },
         {
             "offset": 1795632,
@@ -299,7 +299,7 @@
             "string": "常に謎と戦う探求者のための帽子。[LINE]\n答えを導くと頭の上に何かが出る。[LINE]\n水属性の攻撃属性を付加する。[END]",
             "original_bytes_length": 95,
             "available_bytes_size": 95,
-            "translation": "항상 수수께끼와 싸우는 탐구자를 위한 모자입니다.[LINE]\n답을 이끌어내면 머리 위에 무언가가 나타납니다.[LINE]\n수속성 공격을 부여합니다.[END]"
+            "translation": "항상 수수께끼와 싸우는 탐구자를 위한 모자입니다.[LINE]\n답을 이끌어내면 머리 위에 무언가가 나타납니다.[LINE]\n물 속성 공격을 부여합니다.[END]"
         },
         {
             "offset": 1795872,
@@ -327,7 +327,7 @@
             "string": "世界を旅する冒険家が被っていたと[LINE]\n言われている帽子。放浪癖がつきます。[LINE]\n地属性の攻撃属性を付加する。[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "세계 여행을 하는 모험가가 착용했다고[LINE]\n전해지는 모자입니다. 방랑癖이 생깁니다.[LINE]\n지속성 공격을 부여합니다.[END]"
+            "translation": "세계 여행을 하는 모험가가 착용했다고[LINE]\n전해지는 모자입니다. 방랑癖이 생깁니다.[LINE]\n땅 속성 공격을 부여합니다.[END]"
         },
         {
             "offset": 1796128,
@@ -341,7 +341,7 @@
             "string": "強者のみが被ることを許される。[LINE]\n被れば称賛を浴びること間違いなし。[LINE]\n火属性の攻撃属性を付加する。[END]",
             "original_bytes_length": 95,
             "available_bytes_size": 95,
-            "translation": "강자만이 착용할 수 있습니다.[LINE]\n착용하면 칭찬을 받을 것이 틀림없습니다.[LINE]\n화속성 공격을 부여합니다.[END]"
+            "translation": "강자만이 착용할 수 있습니다.[LINE]\n착용하면 칭찬을 받을 것이 틀림없습니다.[LINE]\n불 속성 공격을 부여합니다.[END]"
         },
         {
             "offset": 1796248,
@@ -383,7 +383,7 @@
             "string": "神秘的な黒いリボン。[LINE]\n大人の女性も越えたいあなたへ。[LINE]\n闇属性耐性を付加する。[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "신비로운 검은색 리본입니다.[LINE]\n어른 여성도 넘고 싶은 당신에게.[LINE]\n암속성 저항을 부여합니다.[END]"
+            "translation": "신비로운 검은색 리본입니다.[LINE]\n어른 여성도 넘고 싶은 당신에게.[LINE]\n어둠 속성 저항을 부여합니다.[END]"
         },
         {
             "offset": 1796584,
@@ -397,7 +397,7 @@
             "string": "天使のような羽つきリボン。[LINE]\nワンランク上の女の子になれる！[LINE]\n光属性耐性を付加する。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "천사 같은 날개가 달린 리본입니다.[LINE]\n한 단계 높은 여자아이가 될 수 있습니다![LINE]\n광속성 저항을 부여합니다.[END]"
+            "translation": "천사 같은 날개가 달린 리본입니다.[LINE]\n한 단계 높은 여자아이가 될 수 있습니다![LINE]\n빛 속성 저항을 부여합니다.[END]"
         },
         {
             "offset": 1796696,
@@ -411,7 +411,7 @@
             "string": "南国ちっくな緑のリボン。[LINE]\n人とは違った物をつけたい女の子向け。[LINE]\n風属性耐性を付加する。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "남국풍의 초록색 리본입니다.[LINE]\n남들과 다른 것을 착용하고 싶은 여자아이를 위한 것입니다.[LINE]\n풍속성 저항을 부여합니다.[END]"
+            "translation": "남국풍의 초록색 리본입니다.[LINE]\n남들과 다른 것을 착용하고 싶은 여자아이를 위한 것입니다.[LINE]\n바람 속성 저항을 부여합니다.[END]"
         },
         {
             "offset": 1796808,
@@ -425,7 +425,7 @@
             "string": "サテン生地のオレンジリボン。[LINE]\nお姉さんに憧れる女の子へ。[LINE]\n地属性耐性を付加する。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "새틴 소재의 오렌지 리본입니다.[LINE]\n언니를 동경하는 여자아이를 위한 것입니다.[LINE]\n지속성 저항을 부여합니다.[END]"
+            "translation": "새틴 소재의 오렌지 리본입니다.[LINE]\n언니를 동경하는 여자아이를 위한 것입니다.[LINE]\n땅 속성 저항을 부여합니다.[END]"
         },
         {
             "offset": 1796912,
@@ -439,7 +439,7 @@
             "string": "水色のプリーツ状リボン。[LINE]\nちょっとおしゃまな女の子向け。[LINE]\n水属性耐性を付加する。[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "수색의 주름진 리본입니다.[LINE]\n조금 발랄한 여자아이를 위한 것입니다.[LINE]\n수속성 저항을 부여합니다.[END]"
+            "translation": "수색의 주름진 리본입니다.[LINE]\n조금 발랄한 여자아이를 위한 것입니다.[LINE]\n물 속성 저항을 부여합니다.[END]"
         },
         {
             "offset": 1797016,
@@ -453,7 +453,7 @@
             "string": "真っ赤なシンプルなリボン。[LINE]\n女の子の必需品。[LINE]\n火属性耐性を付加する。[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "선명한 빨간색의 심플한 리본입니다.[LINE]\n여자아이의 필수품입니다.[LINE]\n화속성 저항을 부여합니다.[END]"
+            "translation": "선명한 빨간색의 심플한 리본입니다.[LINE]\n여자아이의 필수품입니다.[LINE]\n불 속성 저항을 부여합니다.[END]"
         },
         {
             "offset": 1797112,
@@ -817,7 +817,7 @@
             "string": "光の大神の祝福を受けたネックレス。[LINE]\n大いなる祝福と永久の忠誠を。[LINE]\n光属性晶術の詠唱時間が減少する。[END]",
             "original_bytes_length": 97,
             "available_bytes_size": 103,
-            "translation": "빛의 대신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 영원의 충성을.[LINE]\n빛 속성 마법의 시전 시간이 감소합니다.[END]"
+            "translation": "빛의 대신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 영원의 충성을.[LINE]\n빛 속성 마법의 영창 시간이 감소합니다.[END]"
         },
         {
             "offset": 1799736,
@@ -831,7 +831,7 @@
             "string": "海の神の祝福を受けたネックレス。[LINE]\n大いなる祝福と惑わぬ心を。[LINE]\n水属性晶術の詠唱時間が減少する。[END]",
             "original_bytes_length": 93,
             "available_bytes_size": 95,
-            "translation": "바다의 신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 흔들리지 않는 마음을.[LINE]\n물 속성 마법의 시전 시간이 감소합니다.[END]"
+            "translation": "바다의 신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 흔들리지 않는 마음을.[LINE]\n물 속성 마법의 영창 시간이 감소합니다.[END]"
         },
         {
             "offset": 1799864,
@@ -845,7 +845,7 @@
             "string": "炎の女神の祝福を受けたネックレス。[LINE]\n大いなる祝福と貫く意思を。[LINE]\n火属性晶術の詠唱時間が減少する。[END]",
             "original_bytes_length": 95,
             "available_bytes_size": 95,
-            "translation": "불의 여신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 관통하는 의지를.[LINE]\n불 속성 마법의 시전 시간이 감소합니다.[END]"
+            "translation": "불의 여신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 관통하는 의지를.[LINE]\n불 속성 마법의 영창 시간이 감소합니다.[END]"
         },
         {
             "offset": 1799992,
@@ -859,7 +859,7 @@
             "string": "風の王の祝福を受けたネックレス。[LINE]\n大いなる祝福と歪まぬ心を。[LINE]\n風属性晶術の詠唱時間が減少する。[END]",
             "original_bytes_length": 93,
             "available_bytes_size": 95,
-            "translation": "바람의 왕의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 왜곡되지 않는 마음을.[LINE]\n바람 속성 마법의 시전 시간이 감소합니다.[END]"
+            "translation": "바람의 왕의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 왜곡되지 않는 마음을.[LINE]\n바람 속성 마법의 영창 시간이 감소합니다.[END]"
         },
         {
             "offset": 1800112,
@@ -873,7 +873,7 @@
             "string": "大地母神の祝福を受けたネックレス。[LINE]\n大いなる祝福と深い慈愛を。[LINE]\n地属性晶術の詠唱時間が減少する。[END]",
             "original_bytes_length": 95,
             "available_bytes_size": 95,
-            "translation": "대지 모신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 깊은 자애를.[LINE]\n지속성 속성 마법의 시전 시간이 감소합니다.[END]"
+            "translation": "대지 모신의 축복을 받은 목걸이입니다.[LINE]\n위대한 축복과 깊은 자애를.[LINE]\n땅 속성 마법의 영창 시간이 감소합니다.[END]"
         },
         {
             "offset": 1800240,
@@ -943,7 +943,7 @@
             "string": "地の精霊の加護を受けたネックレス。[LINE]\n揺るがぬ冷静な心を与える。[LINE]\n地属性晶術のダメージがアップする。[END]",
             "original_bytes_length": 97,
             "available_bytes_size": 103,
-            "translation": "대지의 정령의 가호를 받은 목걸이입니다.[LINE]\n흔들리지 않는 차분한 마음을 줍니다.[LINE]\n대지 속성 마법의 피해량이 증가합니다.[END]"
+            "translation": "대지의 정령의 가호를 받은 목걸이입니다.[LINE]\n흔들리지 않는 차분한 마음을 줍니다.[LINE]\n땅 속성 마법의 피해량이 증가합니다.[END]"
         },
         {
             "offset": 1800904,

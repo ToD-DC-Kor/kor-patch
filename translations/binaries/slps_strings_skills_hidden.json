@@ -61,7 +61,7 @@
             "string": "弧を描く斬撃と共に、敵のＨＰを吸収する[LINE]\n術剣技。[END]",
             "original_bytes_length": 48,
             "available_bytes_size": 48,
-            "translation": "호를 그리는 참격과 함께, 적의 HP를 흡수하는[LINE]\n술검기.[END]"
+            "translation": "호를 그리는 참격과 함께, 적의 HP를 흡수하는[LINE]\n술검술.[END]"
         },
         {
             "offset": 1688744,
@@ -82,7 +82,7 @@
             "string": "自身の集中とＨＰが上昇する術剣技。打撃属性[LINE]\nを備え、連携中の使用で効果が高まる。[END]",
             "original_bytes_length": 80,
             "available_bytes_size": 80,
-            "translation": "자신의 집중과 HP가 상승하는 술검기. 타격 속성[LINE]\n을 갖추고, 연계 중 사용 시 효과가 높아진다.[END]"
+            "translation": "자신의 집중과 HP가 상승하는 술검술. 타격 속성[LINE]\n을 갖추고, 연계 중 사용 시 효과가 높아진다.[END]"
         },
         {
             "offset": 1688864,
@@ -103,7 +103,7 @@
             "string": "死地をくぐり抜けた者が習得する術剣技。[LINE]\n溢れる気合が大地を揺るがす。[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71,
-            "translation": "죽음의 땅을 뚫고 나아간 자가 습득하는 술검기.[LINE]\n넘치는 기합이 대지를 흔든다.[END]"
+            "translation": "죽음의 땅을 뚫고 나아간 자가 습득하는 술검술.[LINE]\n넘치는 기합이 대지를 흔든다.[END]"
         },
         {
             "offset": 1688976,
@@ -124,7 +124,7 @@
             "string": "激しい戦闘を勝ち抜いた者が習得する術剣技。[LINE]\n三日月を描く冷気の斬撃を放つ。[END]",
             "original_bytes_length": 74,
             "available_bytes_size": 79,
-            "translation": "치열한 전투를 이겨낸 자가 습득하는 술검기.[LINE]\n초승달을 그리는 냉기의 참격을 날린다.[END]"
+            "translation": "치열한 전투를 이겨낸 자가 습득하는 술검술.[LINE]\n초승달을 그리는 냉기의 참격을 날린다.[END]"
         },
         {
             "offset": 1689096,
@@ -166,14 +166,14 @@
             "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n主観的優雅を極める尻待機。[END]",
             "original_bytes_length": 82,
             "available_bytes_size": 87,
-            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n주관적 우아함을 극한으로 하는 엉덩이대기.[END]"
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n주관적 우아함을 극한으로 하는 엉덩이기.[END]"
         },
         {
             "offset": 1689320,
             "string": "[Sign_7]トレビアンヒップ[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]트레비앙 힙[END]"
+            "translation": "[Sign_7]트레비안 힙[END]"
         },
         {
             "offset": 1689344,
@@ -215,7 +215,7 @@
             "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n射程内の敵を屠り去る奥義。[END]",
             "original_bytes_length": 82,
             "available_bytes_size": 87,
-            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n사정거리 내의 적을 처치하는 궁극기.[END]"
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n사정거리 내의 적을 처치하는 오의.[END]"
         },
         {
             "offset": 1689664,
@@ -278,35 +278,35 @@
             "string": "[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n必殺になるまで殴る必勝の拳。[END]",
             "original_bytes_length": 84,
             "available_bytes_size": 87,
-            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n필살이 될 때까지 치는 필승의 주먹.[END]"
+            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n필살이 될 때까지 두들겨 패는 필승의 주먹.[END]"
         },
         {
             "offset": 1689928,
             "string": "[Sign_7]ゴッツァブロゥ[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]고저 블로우[END]"
+            "translation": "[Sign_7]고츠 블로우[END]"
         },
         {
             "offset": 1689952,
             "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n浮かし技の連携後に繰り出される迅雷の剣。[END]",
             "original_bytes_length": 96,
             "available_bytes_size": 96,
-            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n띄우기술의 연계 후에 내뿜어지는 신뢰의 검.[END]"
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n띄우기술의 연계 후에 펼치는 천둥번개의 검.[END]"
         },
         {
             "offset": 1690048,
             "string": "[Sign_7]サンダーソード[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]선더소드[END]"
+            "translation": "[Sign_7]썬더소드[END]"
         },
         {
             "offset": 1690072,
             "string": "[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n気合と共に繰り出す一刀両断。[END]",
             "original_bytes_length": 84,
             "available_bytes_size": 87,
-            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n기합과 함께 내지르는 일도양단.[END]"
+            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n기합과 함께 펼치는 일도양단.[END]"
         },
         {
             "offset": 1690160,
@@ -341,7 +341,7 @@
             "string": "[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n弓技の最高峰に位置する乱舞射撃。[END]",
             "original_bytes_length": 88,
             "available_bytes_size": 88,
-            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n활술의 최고봉에 위치하는 난무사격.[END]"
+            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n궁술의 최고봉에 해당하는 난무사격.[END]"
         },
         {
             "offset": 1690384,
@@ -376,7 +376,7 @@
             "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n正邪を問わず浄化する双極の炎。[END]",
             "original_bytes_length": 86,
             "available_bytes_size": 87,
-            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n정악을 가리지 않고 정화하는 쌍극의 불꽃.[END]"
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n정사를 가리지 않고 정화하는 쌍극의 불꽃.[END]"
         },
         {
             "offset": 1690632,
@@ -397,7 +397,7 @@
             "string": "[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n護るべき者のために力の全てを解放する。[END]",
             "original_bytes_length": 94,
             "available_bytes_size": 95,
-            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n지켜야 할 이를 위해 힘의 모든 것을 해방한다.[END]"
+            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]누르고 계속＞[/color][LINE]\n지켜야 할 자를 위해 모든 힘을 해방한다.[END]"
         },
         {
             "offset": 1690768,
@@ -460,7 +460,7 @@
             "string": "[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n「再誕」を冠する最大の攻撃晶術。[END]",
             "original_bytes_length": 88,
             "available_bytes_size": 88,
-            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n「재탄생」을 두른 최대의 공격정술.[END]"
+            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n「재탄생」을 의미하는 최대의 공격정술.[END]"
         },
         {
             "offset": 1691144,
@@ -502,7 +502,7 @@
             "string": "[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n終焉を与える冷気の抱擁。[END]",
             "original_bytes_length": 80,
             "available_bytes_size": 80,
-            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n종말을 주는 냉기의 포옹.[END]"
+            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n종말을 선사하는 냉기의 포옹.[END]"
         },
         {
             "offset": 1691488,
@@ -516,7 +516,7 @@
             "string": "[turquoise]＜ブラスト２消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n味方全てを全快させる癒しの奇跡。[END]",
             "original_bytes_length": 88,
             "available_bytes_size": 88,
-            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n아군 전체를 만회시키는 치유의 기적.[END]"
+            "translation": "[turquoise]＜블라스트 2 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n아군 전체를 회복시키는 치유의 기적.[END]"
         },
         {
             "offset": 1691600,
@@ -530,7 +530,7 @@
             "string": "[turquoise]＜ブラスト１消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n盗みの限りを尽くす瞬速斬撃。[END]",
             "original_bytes_length": 84,
             "available_bytes_size": 87,
-            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n도둑질의 한계를 다하는 순속참격.[END]"
+            "translation": "[turquoise]＜블라스트 1 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n도둑질의 극한을 펼치는 순속참격.[END]"
         },
         {
             "offset": 1691720,

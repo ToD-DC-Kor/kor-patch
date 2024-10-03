@@ -33,70 +33,70 @@
             "string": "闇属性軽減[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "암속성 경감[END]"
+            "translation": "어둠 속성 경감[END]"
         },
         {
             "offset": 1816976,
             "string": "光属性軽減[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "광속성 경감[END]"
+            "translation": "빛 속성 경감[END]"
         },
         {
             "offset": 1816992,
             "string": "水属性軽減[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "수속성 경감[END]"
+            "translation": "물 속성 경감[END]"
         },
         {
             "offset": 1817008,
             "string": "火属性軽減[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "화속성 경감[END]"
+            "translation": "불 속성 경감[END]"
         },
         {
             "offset": 1817024,
             "string": "風属性軽減[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "바람속성 경감[END]"
+            "translation": "바람 속성 경감[END]"
         },
         {
             "offset": 1817040,
             "string": "地属性軽減[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "지속성 경감[END]"
+            "translation": "땅 속성 경감[END]"
         },
         {
             "offset": 1817056,
             "string": "音属性軽減[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "음속성 경감[END]"
+            "translation": "음파 속성 경감[END]"
         },
         {
             "offset": 1817072,
             "string": "射属性軽減[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "사속성 경감[END]"
+            "translation": "사격 속성 경감[END]"
         },
         {
             "offset": 1817088,
             "string": "打属性軽減[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "타속성 경감[END]"
+            "translation": "타격 속성 경감[END]"
         },
         {
             "offset": 1817104,
             "string": "斬属性軽減[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "참속성 경감[END]"
+            "translation": "참격 속성 경감[END]"
         },
         {
             "offset": 1817120,

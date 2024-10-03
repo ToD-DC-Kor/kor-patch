@@ -381,7 +381,7 @@
         {
             "offset": 1694632,
             "string": "術者から生み出される稲妻の剣で薙ぎ払う[LINE]\n晶術。追加効果で敵を麻痺にする。[END]",
-            "translation": "주술사로부터 만들어지는 번개의 검으로 베어내는[LINE]\n정술. 추가 효과로 적을 마비에 빠뜨린다.[END]",
+            "translation": "술사로부터 만들어지는 번개의 검으로 베어내는[LINE]\n정술. 추가 효과로 적을 마비에 빠뜨린다.[END]",
             "original_bytes_length": 72,
             "available_bytes_size": 72
         },
@@ -437,7 +437,7 @@
         {
             "offset": 1694920,
             "string": "石の槍を術者の前方に生み出し、敵の侵入を[LINE]\n阻む晶術。追加効果で敵を封印にする。[END]",
-            "translation": "돌의 창을 주술사의 전방에 만들어, 적의 침입을[LINE]\n막는 정술. 추가 효과로 적을 봉인에 빠뜨린다.[END]",
+            "translation": "돌의 창을 술사의 전방에 만들어, 적의 침입을[LINE]\n막는 정술. 추가 효과로 적을 봉인에 빠뜨린다.[END]",
             "original_bytes_length": 78,
             "available_bytes_size": 79
         },
@@ -521,7 +521,7 @@
         {
             "offset": 1695424,
             "string": "術者の前方を横に薙ぎ払う風圧の衝撃を放つ晶術。[LINE]\n追加効果で敵を衰弱にする。[END]",
-            "translation": "주술사의 전방을 옆으로 베어내는 바람압력의 충격을 날리는 정술.[LINE]\n추가 효과로 적을 쇠약에 빠뜨린다.[END]",
+            "translation": "술사의 전방을 옆으로 베어내는 바람압력의 충격을 날리는 정술.[LINE]\n추가 효과로 적을 쇠약에 빠뜨린다.[END]",
             "original_bytes_length": 74,
             "available_bytes_size": 79
         },
@@ -563,7 +563,7 @@
         {
             "offset": 1695640,
             "string": "術者の頭上から風の刃を生み出す晶術。[LINE]\n使用すると回避率が上昇する。[END]",
-            "translation": "주술사의 머리 위에서 바람의 칼날을 만드는 정술.[LINE]\n사용하면 회피율이 상승한다.[END]",
+            "translation": "술사의 머리 위에서 바람의 칼날을 만드는 정술.[LINE]\n사용하면 회피율이 상승한다.[END]",
             "original_bytes_length": 66,
             "available_bytes_size": 71
         },
@@ -633,7 +633,7 @@
         {
             "offset": 1696048,
             "string": "術者の前面に氷壁を出現させる晶術。[LINE]\n[END]",
-            "translation": "주술사의 전면에 얼음벽을 생성하는 정술.[LINE]\n[END]",
+            "translation": "술사의 전면에 얼음벽을 생성하는 정술.[LINE]\n[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39
         },
@@ -829,7 +829,7 @@
         {
             "offset": 1697120,
             "string": "ジューシーな火属性対空攻撃。[LINE]\nタイミングとかに熟達の技が光るらしい。[END]",
-            "translation": "수분 가득한 화속성 대공 공격.[LINE]\n타이밍 같은 걸로 숙련도가 빛을 발한다고 한다.[END]",
+            "translation": "육즙 가득한 불 속성 대공 공격.[LINE]\n타이밍을 필요로하는 숙련도가 빛을 발한다고 한다.[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71
         },
@@ -845,14 +845,14 @@
             "string": "フライパンを打ち鳴らして音波攻撃する[LINE]\n近所迷惑技。寝る子も起きると評判。[END]",
             "original_bytes_length": 72,
             "available_bytes_size": 72,
-            "translation": "프라이팬을 두드려 음파 공격하는[LINE]\n근처의 민폐 기술. 잠자는 아이도 깬다는 평판.[END]"
+            "translation": "프라이팬을 두드려 음파 공격하는[LINE]\n이웃의 민폐 기술. 잠자는 아이도 깬다는 평판.[END]"
         },
         {
             "offset": 1697288,
             "string": "シシャノメザメ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "사자의 각성[END]"
+            "translation": "사자의 기상[END]"
         },
         {
             "offset": 1697304,
@@ -920,7 +920,7 @@
         {
             "offset": 1697656,
             "string": "[Sign_4]リリスラッシュ[END]",
-            "translation": "[Sign_4]릴리스래쉬[END]",
+            "translation": "[Sign_4]리리스러쉬[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -941,7 +941,7 @@
         {
             "offset": 1697792,
             "string": "超遠心力（怪）から繰り出す究極パンチ。[LINE]\n打ち抜かれた敵は文字通り時間が停止する。[END]",
-            "translation": "초원심력(괴)에서 날리는 궁극 펀치.[LINE]\n맞은 적은 문자 그대로 시간이 멈춘다.[END]",
+            "translation": "초원심력을 이용해 날리는 궁극 펀치.[LINE]\n맞은 적은 말 그대로 시간이 멈춘다.[END]",
             "original_bytes_length": 80,
             "available_bytes_size": 80
         },
@@ -983,7 +983,7 @@
         {
             "offset": 1698080,
             "string": "敵からの物理攻撃にのけぞらなくなる特技。[LINE]\n効果が切れると衰弱するやせ我慢技。[END]",
-            "translation": "적의 물리공격에 뒤로 물러서지 않게 되는 특기.[LINE]\n효과가 끝나면 쇠약하는 무리한 기술.[END]",
+            "translation": "적의 물리공격에 경직이 생기지 않게 되는 특기.[LINE]\n효과가 끝나면 쇠약에 걸리는 무리한 기술.[END]",
             "original_bytes_length": 76,
             "available_bytes_size": 79
         },
@@ -1004,28 +1004,28 @@
         {
             "offset": 1698248,
             "string": "[Sign_5]マッスルヒート[END]",
-            "translation": "[Sign_5]마슬히트[END]",
+            "translation": "[Sign_5]머슬히트[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
         {
             "offset": 1698272,
             "string": "超気合を叩き込むことで戦闘不能な誰かを[LINE]\nへろへろ気絶状態で復活させる有難迷惑技。[END]",
-            "translation": "초 기합을 날려 전투불능인 누군가를[LINE]\n헤롱헤롱 기절상태로 부활시키는 고맙지만 귀찮은 기술.[END]",
+            "translation": "초 기합을 날려 전투불능인 누군가를[LINE]\n헤롱헤롱 기절상태로 부활시키는 고맙지만 민폐 기술.[END]",
             "original_bytes_length": 80,
             "available_bytes_size": 80
         },
         {
             "offset": 1698352,
             "string": "[Sign_4]リザレクトキアイ[END]",
-            "translation": "[Sign_4]리저렉트키아이[END]",
+            "translation": "[Sign_4]리저렉트기합[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
         {
             "offset": 1698376,
             "string": "圧縮した気を練り上げ、更に練り上げて[LINE]\nシャレにならないくらい膨張させる技。[END]",
-            "translation": "압축한 기를 다지고, 더 다져서[LINE]\n농담이 아닐 정도로 팽창시키는 기술.[END]",
+            "translation": "압축한 기를 다지고, 더 다져서[LINE]\n터무니없을 만큼 팽창시키는 기술.[END]",
             "original_bytes_length": 74,
             "available_bytes_size": 79
         },
@@ -1053,7 +1053,7 @@
         {
             "offset": 1698576,
             "string": "体に似合わぬ高速ラッシュを叩き込む。[LINE]\n空中で出すとヘルズなハリケーン。[END]",
-            "translation": "몸에 어울리지 않는 고속 러쉬를 날리는.[LINE]\n공중에서 날리면 헬스한 허리케인.[END]",
+            "translation": "체구에 어울리지 않는 고속 러쉬를 날린다.[LINE]\n공중에서 사용하면 헬즈한 허리케인.[END]",
             "original_bytes_length": 70,
             "available_bytes_size": 71
         },
@@ -1081,7 +1081,7 @@
         {
             "offset": 1698784,
             "string": "ショルダータックル・アッパーの[LINE]\nコンビネーションで敵を浮かせる特技。[END]",
-            "translation": "숄더터클・어퍼의[LINE]\n콤비네이션으로 적을 띄우는 특기.[END]",
+            "translation": "숄더테클・어퍼의[LINE]\n콤비네이션으로 적을 띄우는 특기.[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71
         },
@@ -1095,7 +1095,7 @@
         {
             "offset": 1698880,
             "string": "ナックルを重ね合わせて衝撃波を起こし、[LINE]\n浮かせた敵にストレートをお見舞いする特技。[END]",
-            "translation": "너클을 겹쳐 충격파를 일으켜,[LINE]\n띄운 적에게 스트레이트를 보내는 특기.[END]",
+            "translation": "너클을 겹쳐 충격파를 일으켜,[LINE]\n띄운 적에게 스트레이트를 날리는 특기.[END]",
             "original_bytes_length": 82,
             "available_bytes_size": 87
         },
@@ -1109,7 +1109,7 @@
         {
             "offset": 1698992,
             "string": "音波障壁の中で音符を躍らせる特技。[LINE]\n術攻撃力低下の追加効果を持つ。[END]",
-            "translation": "음파 장벽 안에서 음표를 뛰게 하는 특기.[LINE]\n주술공격력 감소 추가 효과를 가진다.[END]",
+            "translation": "음파장벽 안에서 음표를 춤추게 하는 특기.[LINE]\n술공격력 감소 추가 효과를 가진다.[END]",
             "original_bytes_length": 66,
             "available_bytes_size": 71
         },
@@ -1123,7 +1123,7 @@
         {
             "offset": 1699088,
             "string": "多段攻撃判定のある音符を設置する特技。[LINE]\n術攻撃力低下の追加効果を持つ。[END]",
-            "translation": "다단 공격 판정이 있는 음표를 설치하는 특기.[LINE]\n주술공격력 감소 추가 효과를 가진다.[END]",
+            "translation": "다단 공격 판정이 있는 음표를 설치하는 특기.[LINE]\n술공격력 감소 추가 효과를 가진다.[END]",
             "original_bytes_length": 70,
             "available_bytes_size": 71
         },
@@ -1137,7 +1137,7 @@
         {
             "offset": 1699184,
             "string": "廻る音波を生み出すロンド。防御的に[LINE]\n使ってもよいが、近接時のヒット数がひどい。[END]",
-            "translation": "돌아가는 음파를 만드는 론도. 방어적으로[LINE]\n사용해도 좋지만, 근접 시의 히트 수가 심하다.[END]",
+            "translation": "돌아가는 음파를 만드는 론도. 방어적으로[LINE]\n사용해도 좋지만, 근접 시의 히트 수가 대단하다.[END]",
             "original_bytes_length": 78,
             "available_bytes_size": 79
         },
@@ -1165,7 +1165,7 @@
         {
             "offset": 1699352,
             "string": "音波による衝撃波を正面に放つ特技。[LINE]\n貫通効果があり、近距離ほどヒット数が増える。[END]",
-            "translation": "음파에 의한 충격파를 정면으로 날리는 특기.[LINE]\n관통 효과가 있으며, 근거리일수록 히트 수가 늘어난다.[END]",
+            "translation": "음파의 충격파를 정면으로 날리는 특기.[LINE]\n관통 효과가 있으며, 근거리일수록 히트 수가 늘어난다.[END]",
             "original_bytes_length": 80,
             "available_bytes_size": 80
         },
@@ -1207,7 +1207,7 @@
         {
             "offset": 1699592,
             "string": "範囲内の敵を眠らせるララバイ。[LINE]\n[END]",
-            "translation": "범위 내의 적을 재우는 라라바이.[LINE]\n[END]",
+            "translation": "범위 내의 적을 재우는 럴러바이.[LINE]\n[END]",
             "original_bytes_length": 32,
             "available_bytes_size": 32
         },
@@ -1235,21 +1235,21 @@
         {
             "offset": 1699720,
             "string": "回避率に応じて敵の攻撃を回避できる[LINE]\nマーチ。支援歌技のひとつ。[END]",
-            "translation": "회피율에 따라 적의 공격을 회피할 수 있는[LINE]\n마치. 지원가기술 중 하나.[END]",
+            "translation": "회피율에 따라 적의 공격을 회피할 수 있는[LINE]\n마치. 지원노래기 중 하나.[END]",
             "original_bytes_length": 62,
             "available_bytes_size": 63
         },
         {
             "offset": 1699784,
             "string": "[Sign_5]かわせマーチ[END]",
-            "translation": "[Sign_5]바뀌는 마치[END]",
+            "translation": "[Sign_5]피하는 마치[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
         {
             "offset": 1699808,
             "string": "味方の術攻撃力を高めるサンバ。[LINE]\n支援歌技は連携することで効果が上昇。[END]",
-            "translation": "아군의 주술공격력을 높이는 삼바.[LINE]\n지원가기술은 연계하면 효과가 상승.[END]",
+            "translation": "아군의 술공격력을 높이는 삼바.[LINE]\n지원노래는 연계하면 효과가 상승.[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71
         },
@@ -1263,14 +1263,14 @@
         {
             "offset": 1699904,
             "string": "味方の連携率を高めるシンフォニー。[LINE]\n支援歌技は味方のＣＣも増加。[END]",
-            "translation": "아군의 연계율을 높이는 심포니.[LINE]\n지원가기술은 아군의 CC도 증가.[END]",
+            "translation": "아군의 연계율을 높이는 심포니.[LINE]\n지원노래는 아군의 CC도 증가.[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64
         },
         {
             "offset": 1699968,
             "string": "[Sign_5]あたるシンフォニー[END]",
-            "translation": "[Sign_5]아타루심포니[END]",
+            "translation": "[Sign_5]명중하는심포니[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -1279,7 +1279,7 @@
             "string": "天空から降り注ぐ多段射撃を繰り出す術弓技。[LINE]\n闇属性を持つ。[END]",
             "original_bytes_length": 58,
             "available_bytes_size": 63,
-            "translation": "하늘에서 쏟아지는 다단 사격을 발사하는 기술 활 기술.[LINE]\n어둠 속성을 가진다.[END]"
+            "translation": "하늘에서 쏟아지는 다단 사격을 발사하는 사격술.[LINE]\n어둠 속성을 가진다.[END]"
         },
         {
             "offset": 1700056,
@@ -1307,7 +1307,7 @@
             "string": "シャヨウ[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "샤요우[END]"
+            "translation": "사양[END]"
         },
         {
             "offset": 1700176,
@@ -1321,14 +1321,14 @@
             "string": "素早い連続射撃で敵を浮かす術弓技。[LINE]\n[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39,
-            "translation": "빠른 연속 사격으로 적을 띄우는 기술 활 기술.[LINE]\n[END]"
+            "translation": "빠른 연속 사격으로 적을 띄우는 사격술.[LINE]\n[END]"
         },
         {
             "offset": 1700232,
             "string": "セイハ[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "세이하[END]"
+            "translation": "성패[END]"
         },
         {
             "offset": 1700240,
@@ -1342,7 +1342,7 @@
             "string": "広範囲をカバーする同時射撃。[LINE]\nＣＣ３で撃てる極悪技。[END]",
             "original_bytes_length": 52,
             "available_bytes_size": 55,
-            "translation": "광범위를 커버하는 동시 사격.[LINE]\nCC3에서 쏠 수 있는 극악 기술.[END]"
+            "translation": "광범위를 커버하는 동시 사격.[LINE]\nCC3으로 쏠 수 있는 극악기.[END]"
         },
         {
             "offset": 1700312,
@@ -1363,7 +1363,7 @@
             "string": "ジャンプ後、地面を吹き飛ばす程の強力な[LINE]\n矢を放つ術弓技。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "점프 후, 땅을 날려버릴 정도의 강력한[LINE]\n화살을 발사하는 기술 활 기술.[END]"
+            "translation": "점프 후, 땅을 날려버릴 정도의 강력한[LINE]\n화살을 발사하는 사격술.[END]"
         },
         {
             "offset": 1700392,
@@ -1398,7 +1398,7 @@
             "string": "火薬を込めた矢を放ち、命中した敵に[LINE]\n連続してダメージを与える術弓技。[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71,
-            "translation": "화약을 담은 화살을 발사하여, 명중한 적에게[LINE]\n연속으로 피해를 주는 기술 활 기술.[END]"
+            "translation": "화약을 담은 화살을 발사하여, 명중한 적에게[LINE]\n연속으로 피해를 주는 사격술.[END]"
         },
         {
             "offset": 1700560,
@@ -1419,7 +1419,7 @@
             "string": "敵を再度狙う貫通エネルギーを放つ術弓技。[LINE]\n[END]",
             "original_bytes_length": 42,
             "available_bytes_size": 47,
-            "translation": "적을 다시 조준하는 관통 에너지를 발사하는 기술 활 기술.[LINE]\n[END]"
+            "translation": "적을 다시 조준하는 관통 에너지를 발사하는 사격술.[LINE]\n[END]"
         },
         {
             "offset": 1700640,
@@ -1440,14 +1440,14 @@
             "string": "ジャンプ後、風属性を持つ矢を滑空する[LINE]\nように放つ術弓技。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "점프 후, 바람 속성을 가진 화살을 미끄러지듯[LINE]\n발사하는 기술 활 기술.[END]"
+            "translation": "점프 후, 바람 속성을 가진 화살을[LINE]\n활공하듯 발사하는 사격술.[END]"
         },
         {
             "offset": 1700736,
             "string": "ヒエン[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "비련[END]"
+            "translation": "비연[END]"
         },
         {
             "offset": 1700744,
@@ -1461,7 +1461,7 @@
             "string": "ヒット時に落雷し、周囲の敵を巻き込む[LINE]\n術弓技。[END]",
             "original_bytes_length": 46,
             "available_bytes_size": 47,
-            "translation": "명중 시에 낙뢰가 떨어져 주변 적을 감싸는[LINE]\n기술 활 기술.[END]"
+            "translation": "명중 시에 낙뢰가 떨어져 주변 적을 감싸는[LINE]\n사격술.[END]"
         },
         {
             "offset": 1700808,
@@ -1482,21 +1482,21 @@
             "string": "弓を素早く３連射する術弓技。[LINE]\n空中発動も可能。[END]",
             "original_bytes_length": 46,
             "available_bytes_size": 47,
-            "translation": "활을 빠르게 3연사하는 기술 활 기술.[LINE]\n공중 발동도 가능하다.[END]"
+            "translation": "활을 빠르게 3연사하는 사격술.[LINE]\n공중 발동도 가능하다.[END]"
         },
         {
             "offset": 1700888,
             "string": "気合を込めた矢の一撃を放つ術弓技。[LINE]\nしゃがんで撃つため、低い敵にも当たる。[END]",
             "original_bytes_length": 74,
             "available_bytes_size": 79,
-            "translation": "기합을 담은 화살의 일격을 발사하는 기술 활 기술.[LINE]\n쪼그리고 쏘기 때문에 낮은 적에게도 맞는다.[END]"
+            "translation": "기합을 담은 화살의 일격을 발사하는 사격술.[LINE]\n쪼그리고 쏘기 때문에 낮은 적에게도 맞는다.[END]"
         },
         {
             "offset": 1700968,
             "string": "獅子戦吼を斜め上に放ち、追撃で切り刻む[LINE]\n剣技。[END]",
             "original_bytes_length": 46,
             "available_bytes_size": 47,
-            "translation": "사자전구를 대각선 위로 발사하고, 추격으로 베어내는[LINE]\n검 기술.[END]"
+            "translation": "사자전후를 대각선 위로 발사하고 [LINE]\n추격타로 베어내는 검술.[END]"
         },
         {
             "offset": 1701016,
@@ -1517,7 +1517,7 @@
             "string": "鋭い踏み込みからの切り上げを繰り出す剣技。[LINE]\n敵の近くで出すと敵の背後を取る。[END]",
             "original_bytes_length": 76,
             "available_bytes_size": 79,
-            "translation": "날카로운 침투에서 올라치는 베기 기술을 펼친다.[LINE]\n적 가까이에서 사용하면 적의 뒤를 잡는다.[END]"
+            "translation": "날카롭게 침투에서 올려베는 검술. [LINE]\n적 가까이에서 사용하면 적의 뒤를 잡는다.[END]"
         },
         {
             "offset": 1701136,
@@ -1538,7 +1538,7 @@
             "string": "落雷の力を武器に溜め、斬撃とともに[LINE]\n解放する術剣技。[END]",
             "original_bytes_length": 52,
             "available_bytes_size": 55,
-            "translation": "낙뢰의 힘을 무기로 모아, 베기와 함께[LINE]\n해방하는 기술 검 기술.[END]"
+            "translation": "낙뢰의 힘을 무기로 모아, 참격과 함께[LINE]\n해방하는 술검술.[END]"
         },
         {
             "offset": 1701232,
@@ -1559,7 +1559,7 @@
             "string": "斧を回転させて薙ぎ払う剣技。[LINE]\n敵に囲まれたときに最大の威力を発揮。[END]",
             "original_bytes_length": 66,
             "available_bytes_size": 71,
-            "translation": "도끼를 회전시켜 쓸어내리는 검 기술.[LINE]\n적에게 둘러싸였을 때 최대의 위력을 발휘한다.[END]"
+            "translation": "도끼를 회전시켜 쓸어내리는 검술.[LINE]\n적에게 둘러싸였을 때 최대의 위력을 발휘한다.[END]"
         },
         {
             "offset": 1701344,
@@ -1580,7 +1580,7 @@
             "string": "割破して爆走する撃な剣技。[LINE]\nＣＣ３で使える爆走技。[END]",
             "original_bytes_length": 50,
             "available_bytes_size": 55,
-            "translation": "갈라서 폭주하는 공격적인 검 기술.[LINE]\nCC3에서 사용할 수 있는 폭주 기술.[END]"
+            "translation": "할파로 폭주하는 공격적인 검술.[LINE]\nCC3으로 사용할 수 있는 폭주기.[END]"
         },
         {
             "offset": 1701432,
@@ -1601,7 +1601,7 @@
             "string": "貫いた敵を奥へ放り投げる剣技。[LINE]\n邪魔な前衛をのかすのに有効。[END]",
             "original_bytes_length": 60,
             "available_bytes_size": 63,
-            "translation": "관통한 적을 안으로 던져버리는 검 기술.[LINE]\n방해가 되는 전방을 제거하는 데 유효하다.[END]"
+            "translation": "관통한 적을 안으로 던져버리는 검술.[LINE]\n방해가 되는 전방을 제거하는 데 유효하다.[END]"
         },
         {
             "offset": 1701536,
@@ -1622,7 +1622,7 @@
             "string": "剣圧の衝撃を瞬時に爆発させる術剣技。[LINE]\n熱毒の追加効果を持つ。[END]",
             "original_bytes_length": 60,
             "available_bytes_size": 63,
-            "translation": "검압의 충격을 순간적으로 폭발시키는 기술 검 기술.[LINE]\n열독의 추가 효과를 가진다.[END]"
+            "translation": "검압의 충격을 순간적으로 폭발시키는 술검술.[LINE]\n열독의 추가 효과를 가진다.[END]"
         },
         {
             "offset": 1701632,
@@ -1664,7 +1664,7 @@
             "string": "魔神剣の改良剣技で、射程は短いが、[LINE]\nマヒに加え、敵の防御を崩す効果を持つ。[END]",
             "original_bytes_length": 74,
             "available_bytes_size": 79,
-            "translation": "마신검의 개량 검 기술로, 사거리는 짧지만,[LINE]\n마비에 더해 적의 방어를 무너뜨리는 효과를 가진다.[END]"
+            "translation": "마신검의 개량 검술로, 사거리는 짧지만,[LINE]\n마비효과에 적의 방어를 무너뜨리는 효과를 가진다.[END]"
         },
         {
             "offset": 1701856,
@@ -1692,7 +1692,7 @@
             "string": "魔神剣の改良剣技で、衰弱の追加効果を[LINE]\n持ち、速度を犠牲に威力が上昇。[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71,
-            "translation": "마신검의 개량 검 기술로, 쇠약의 추가 효과를[LINE]\n가지며, 속도를 희생하여 위력이 상승한다.[END]"
+            "translation": "마신검의 개량 검술로, 쇠약의 추가 효과를[LINE]\n가지며, 속도를 희생하여 위력이 상승한다.[END]"
         },
         {
             "offset": 1702032,
@@ -1713,7 +1713,7 @@
             "string": "雷撃を生じる鋭い二連斬りを繰り出す[LINE]\n術剣技。[END]",
             "original_bytes_length": 44,
             "available_bytes_size": 47,
-            "translation": "번개를 발생시키는 날카로운 이연 베기를 내는[LINE]\n기술 검 기술.[END]"
+            "translation": "번개를 발생시키는 날카로운 2단베기를 하는[LINE]\n술검술.[END]"
         },
         {
             "offset": 1702120,
@@ -1734,7 +1734,7 @@
             "string": "叩き下ろす剣圧により、魔神剣より[LINE]\n射程は短いものの、高威力の剣技。[END]",
             "original_bytes_length": 66,
             "available_bytes_size": 71,
-            "translation": "내리치는 검압에 의해, 마신검보다[LINE]\n사거리는 짧지만, 높은 위력의 검 기술.[END]"
+            "translation": "내리치는 검압에 의해, 마신검보다[LINE]\n사거리는 짧지만, 높은 위력의 검술.[END]"
         },
         {
             "offset": 1702224,
@@ -1755,7 +1755,7 @@
             "string": "タックルから切り上げに繋ぐ剣技。[LINE]\n斧による斬撃は打撃属性も備える。[END]",
             "original_bytes_length": 66,
             "available_bytes_size": 71,
-            "translation": "태클에서 치켜세우기로 연결하는 검 기술.[LINE]\n도끼에 의한 베기가 타격 속성도 지닌다.[END]"
+            "translation": "태클 후 올려베기로 연결하는 검술.[LINE]\n도끼에 의한 참격은 타격 속성도 지닌다.[END]"
         },
         {
             "offset": 1702336,
@@ -1776,7 +1776,7 @@
             "string": "超高速弾道により衝撃波を発生させる術弓技。[LINE]\n[END]",
             "original_bytes_length": 44,
             "available_bytes_size": 47,
-            "translation": "초고속 탄도에 의해 충격파를 발생시키는 기술 활 기술.[LINE]\n[END]"
+            "translation": "초고속 탄도에 의해 충격파를 발생시키는 사격술.[LINE]\n[END]"
         },
         {
             "offset": 1702416,
@@ -1797,7 +1797,7 @@
             "string": "空を瞬時に駆ける対空斬撃を繰り出す剣技。[LINE]\n[END]",
             "original_bytes_length": 42,
             "available_bytes_size": 47,
-            "translation": "공중을 순간적으로 달리는 대공 베기를 내는 검 기술.[LINE]\n[END]"
+            "translation": "공중으로 순간적으로 날아올라 대공참격을 하는 검술.[LINE]\n[END]"
         },
         {
             "offset": 1702488,
@@ -1818,7 +1818,7 @@
             "string": "抜刀による剣撃で敵を長時間浮かす剣技。[LINE]\n対空技で追撃を決めるべし。[END]",
             "original_bytes_length": 66,
             "available_bytes_size": 71,
-            "translation": "抜刀으로 적을 오랜 시간 동안 띄우는 검 기술.[LINE]\n대공 기술로 추격을 결정해야 한다.[END]"
+            "translation": "발도에 의한 검술로 적을 오랜 시간 동안[LINE]\n띄우는 기술. 대공 기술로 추격 할것.[END]"
         },
         {
             "offset": 1702584,
@@ -1839,7 +1839,7 @@
             "string": "瞬速の２連突き。敵の背後に回る特性と共に、[LINE]\n音波属性を持つ剣技。[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64,
-            "translation": "순속의 2연 찌르기. 적의 뒤로 돌아가는 특성과 함께,[LINE]\n음파 속성을 가진 검 기술.[END]"
+            "translation": "신속한 2연 찌르기. 적의 뒤로 돌아가는 특성과 함께,[LINE]\n음파 속성을 가진 검술.[END]"
         },
         {
             "offset": 1702680,
@@ -1860,7 +1860,7 @@
             "string": "敵の頭上から真空波で切り刻む術剣技。[LINE]\nＣＣ３で繰り出せる極悪技。[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64,
-            "translation": "적의 머리 위에서 진공파로 베어내는 기술 검 기술.[LINE]\nCC3에서 발휘할 수 있는 극악 기술.[END]"
+            "translation": "적의 머리 위에서 진공파로 베어내는 술검술.[LINE]\nCC3으로 발휘할 수 있는 극악기.[END]"
         },
         {
             "offset": 1702784,
@@ -1881,7 +1881,7 @@
             "string": "弓矢の幻惑から瞬速の斬り抜けを繰り出す[LINE]\n剣技。一定確率で対象を衰弱状態にする。[END]",
             "original_bytes_length": 78,
             "available_bytes_size": 79,
-            "translation": "활의 환각에서 순속의 베기를 내는[LINE]\n검 기술. 일정 확률로 대상을 쇠약 상태로 만든다.[END]"
+            "translation": "궁사의 현혹으로 신속한 베기를 하는 검술[LINE]\n일정 확률로 대상을 쇠약 상태로 만든다.[END]"
         },
         {
             "offset": 1702896,
@@ -1902,7 +1902,7 @@
             "string": "無数の突きの連打を繰り出す剣技。[LINE]\n[END]",
             "original_bytes_length": 34,
             "available_bytes_size": 39,
-            "translation": "무수한 찌르기의 연타를 내는 검 기술.[LINE]\n[END]"
+            "translation": "무수한 찌르기의 연타를 펼치는 검술.[LINE]\n[END]"
         },
         {
             "offset": 1702968,
@@ -1923,7 +1923,7 @@
             "string": "斬撃による真空波を大量に繰り出し、[LINE]\n敵を切り刻む剣技。[END]",
             "original_bytes_length": 54,
             "available_bytes_size": 55,
-            "translation": "베기에 의한 진공파를 대량으로 내보내며,[LINE]\n적을 베어내는 검 기술.[END]"
+            "translation": "참격에 의한 진공파를 대량으로 내보내,[LINE]\n적을 베어내는 검술.[END]"
         },
         {
             "offset": 1703056,
@@ -1944,7 +1944,7 @@
             "string": "敵の頭上に降り注ぐ大量の矢を放つ術弓技。[LINE]\n[END]",
             "original_bytes_length": 42,
             "available_bytes_size": 47,
-            "translation": "적의 머리 위에 쏟아지는 대량의 화살을 발사하는 기술 활 기술.[LINE]\n[END]"
+            "translation": "적의 머리 위에 쏟아지는 대량의 화살을 발사하는 사격술.[LINE]\n[END]"
         },
         {
             "offset": 1703136,
@@ -1965,7 +1965,7 @@
             "string": "残像を残して消え、不意打ちを加える術剣技。[LINE]\n敵の攻撃を見切って繰り出すのが有効。[END]",
             "original_bytes_length": 80,
             "available_bytes_size": 80,
-            "translation": "잔상을 남기고 사라져서, 불의의 일격을 가하는 기술 검 기술.[LINE]\n적의 공격을 간파하고 발휘하는 것이 유효하다.[END]"
+            "translation": "잔상을 남기며 사라져서, 불의의 일격을 가하는 술검술.[LINE]\n적의 공격을 간파하고 발휘하는 것이 유효하다.[END]"
         },
         {
             "offset": 1703240,
@@ -1986,7 +1986,7 @@
             "string": "矢を素早く３連射する術弓技。[LINE]\n[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "화살을 빠르게 3연사하는 기술 활 기술.[LINE]\n[END]"
+            "translation": "화살을 빠르게 3연사하는 사격술.[LINE]\n[END]"
         },
         {
             "offset": 1703304,
@@ -2007,7 +2007,7 @@
             "string": "突きによる風圧の飛び道具を放つ剣技。[LINE]\n[END]",
             "original_bytes_length": 38,
             "available_bytes_size": 39,
-            "translation": "찌르기로 인한 풍압의 투사체를 발사하는 검 기술.[LINE]\n[END]"
+            "translation": "찌르기로 인한 풍압의 투사체를 발사하는 검술.[LINE]\n[END]"
         },
         {
             "offset": 1703368,
@@ -2028,7 +2028,7 @@
             "string": "気合を込めた矢の一撃を放つ術弓技。[LINE]\n矢は敵一体を貫通する。[END]",
             "original_bytes_length": 58,
             "available_bytes_size": 63,
-            "translation": "기합을 담은 화살의 일격을 발사하는 기술 활 기술.[LINE]\n화살은 적 한 체를 관통한다.[END]"
+            "translation": "기합을 담은 화살의 일격을 발사하는 사격술.[LINE]\n화살은 적 한 체를 관통한다.[END]"
         },
         {
             "offset": 1703464,
@@ -2063,7 +2063,7 @@
             "string": "有象無象にビンを投げつける術技。[LINE]\n石化の追加効果を持つ。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "유상무상에게 병을 던지는 기술.[LINE]\n석화의 추가 효과를 가진다.[END]"
+            "translation": "유상무상으로 병을 던지는 기술.[LINE]\n석화의 추가 효과를 가진다.[END]"
         },
         {
             "offset": 1703632,
@@ -2077,7 +2077,7 @@
             "string": "味方全体を短時間敵の攻撃から護る術技。[LINE]\n術防御力も同時に上昇させる。[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71,
-            "translation": "아군 전체를 짧은 시간 동안 적의 공격으로부터 보호하는 기술.[LINE]\n기술 방어력도 동시에 상승시킨다.[END]"
+            "translation": "아군 전체를 짧은 시간 동안 적의 공격으로부터 보호하는 기술.[LINE]\n술 방어력도 동시에 상승시킨다.[END]"
         },
         {
             "offset": 1703720,
@@ -2089,7 +2089,7 @@
         {
             "offset": 1703744,
             "string": "炸裂するビンを続けて投げ込む術技。[LINE]\n封印の追加効果を持つ。[END]",
-            "translation": "폭발하는 병을 계속 던지는 주술. [LINE]\n봉인 추가 효과를 가진다.[END]",
+            "translation": "폭발하는 병을 계속 던지는 기술. [LINE]\n봉인 추가 효과를 가진다.[END]",
             "original_bytes_length": 58,
             "available_bytes_size": 63
         },
@@ -2103,7 +2103,7 @@
         {
             "offset": 1703824,
             "string": "術者の周囲に障壁を張り巡らし、敵の侵入[LINE]\nを防ぐ術技。攻撃力減少の追加効果を持つ。[END]",
-            "translation": "주술사 주변에 장벽을 둘러싸고, 적의 침입[LINE]\n을 막는 주술. 공격력 감소 추가 효과를 가진다.[END]",
+            "translation": "술사 주변에 장벽을 둘러싸고, 적의 침입[LINE]\n을 막는 기술. 공격력 감소 추가 효과를 가진다.[END]",
             "original_bytes_length": 80,
             "available_bytes_size": 80
         },
@@ -2117,7 +2117,7 @@
         {
             "offset": 1703928,
             "string": "炸裂する液体を仕込んだビンを投げる術技。[LINE]\n睡眠の追加効果を持つ。[END]",
-            "translation": "폭발하는 액체를 넣은 병을 던지는 주술.[LINE]\n수면 추가 효과를 가진다.[END]",
+            "translation": "폭발하는 액체를 넣은 병을 던지는 기술.[LINE]\n수면 추가 효과를 가진다.[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64
         },
@@ -2131,7 +2131,7 @@
         {
             "offset": 1704016,
             "string": "術者の術攻撃力を一定時間上昇[LINE]\nさせる特技。[END]",
-            "translation": "주술사의 주술공격력을 일정 시간 상승[LINE]\n시키는 특기.[END]",
+            "translation": "술사의 술공격력을 일정 시간 상승[LINE]\n시키는 특기.[END]",
             "original_bytes_length": 42,
             "available_bytes_size": 47
         },
@@ -2147,7 +2147,7 @@
             "string": "超高速空中斬撃。常人では動きを追うこと[LINE]\nすらかなわない。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "초고속 공중 찌르기. 보통 사람은 움직임을 쫓는 것[LINE]\n조차 할 수 없다.[END]"
+            "translation": "초고속 공중참격. 일반 사람은 움직임을 쫓는 것[LINE]\n조차 할 수 없다.[END]"
         },
         {
             "offset": 1704144,
@@ -2196,7 +2196,7 @@
             "string": "軌跡が月を描く広範囲多段斬撃を繰り出す[LINE]\n術剣技。[END]",
             "original_bytes_length": 48,
             "available_bytes_size": 48,
-            "translation": "궤적이 달을 그리는 광범위 다단 찌르기를 발휘하는[LINE]\n기술 검 기술.[END]"
+            "translation": "궤적이 달을 그리는 광범위 다단참격을 발휘하는[LINE]\n술검술.[END]"
         },
         {
             "offset": 1704296,
@@ -2217,7 +2217,7 @@
             "string": "空中から真空波の一閃を薙ぐ術剣技。[LINE]\n[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39,
-            "translation": "공중에서 진공파의 일섬을 베는 기술 검 기술.[LINE]\n[END]"
+            "translation": "공중에서 진공파의 일섬을 베는 술검술.[LINE]\n[END]"
         },
         {
             "offset": 1704368,
@@ -2238,7 +2238,7 @@
             "string": "相手の攻撃を受け流し、瞬時に[LINE]\n斬り抜ける術剣技。[END]",
             "original_bytes_length": 48,
             "available_bytes_size": 48,
-            "translation": "상대의 공격을 받아 넘기고, 순식간에[LINE]\n베어내는 기술 검 기술.[END]"
+            "translation": "상대의 공격을 받아 넘기고, 순식간에[LINE]\n베어내는 술검술.[END]"
         },
         {
             "offset": 1704448,
@@ -2259,7 +2259,7 @@
             "string": "斬り下ろし、斬り上げと流れるように[LINE]\n繋ぐ剣技。[END]",
             "original_bytes_length": 46,
             "available_bytes_size": 47,
-            "translation": "베어내고, 베어올리며 흐르는 듯이[LINE]\n이어지는 검 기술.[END]"
+            "translation": "내려치기, 올려베기를 자연스럽게[LINE]\n연결하는 검술.[END]"
         },
         {
             "offset": 1704528,
@@ -2280,7 +2280,7 @@
             "string": "滅殺する暗黒の炎で焼き尽くす術剣技。[LINE]\n[END]",
             "original_bytes_length": 38,
             "available_bytes_size": 39,
-            "translation": "멸살하는 암흑의 불꽃으로 태워버리는 기술 검 기술.[LINE]\n[END]"
+            "translation": "멸살하는 암흑의 불꽃으로 태워버리는 술검술.[LINE]\n[END]"
         },
         {
             "offset": 1704600,
@@ -2299,7 +2299,7 @@
         {
             "offset": 1704640,
             "string": "闇の力を集中させ、前方に突き出す[LINE]\n術剣技。[END]",
-            "translation": "어둠의 힘을 집중시켜, 앞으로 내밀어[LINE]\n주술검술.[END]",
+            "translation": "어둠의 힘을 집중시켜, 앞으로 내밀어[LINE]\n술검술.[END]",
             "original_bytes_length": 42,
             "available_bytes_size": 47
         },
@@ -2315,7 +2315,7 @@
             "string": "ダッシュ突きから跳ね上げるように[LINE]\n斬り抜ける剣技。[END]",
             "original_bytes_length": 50,
             "available_bytes_size": 55,
-            "translation": "대시 찌르기에서 튕겨내듯이[LINE]\n베어내는 검 기술.[END]"
+            "translation": "대시 찌르기에서 튕겨내듯이[LINE]\n베어내는 검술.[END]"
         },
         {
             "offset": 1704760,
@@ -2336,7 +2336,7 @@
             "string": "空中での連続斬りを繰り出す剣技。[LINE]\n２段目、３段目で連携が可能。[END]",
             "original_bytes_length": 62,
             "available_bytes_size": 63,
-            "translation": "공중에서 연속 베기를 발휘하는 검 기술.[LINE]\n2단계, 3단계에서 연계가 가능하다.[END]"
+            "translation": "공중에서 연속 베기를 발휘하는 검술.[LINE]\n2단계, 3단계에서 연계가 가능하다.[END]"
         },
         {
             "offset": 1704856,
@@ -2378,12 +2378,12 @@
             "string": "剣圧による斬撃の飛び道具を繰り出す剣技。[LINE]\n離れた間合いから攻撃できる。[END]",
             "original_bytes_length": 70,
             "available_bytes_size": 71,
-            "translation": "검압에 의한 베기의 투사체를 발휘하는 검 기술.[LINE]\n멀리서도 공격할 수 있다.[END]"
+            "translation": "검압에 의한 참격의 투사체를 발휘하는 검술.[LINE]\n멀리서도 공격할 수 있다.[END]"
         },
         {
             "offset": 1705024,
             "string": "遠距離から絡みつくような連撃を加え、[LINE]\n近距離に引き寄せる術剣技。[END]",
-            "translation": "원거리에서 뒤얽히는 연격을 더하고,[LINE]\n근거리로 끌어당기는 주술검술.[END]",
+            "translation": "원거리에서 휘감는 연격을 펼치고,[LINE]\n근거리로 끌어당기는 술검술.[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64
         },
@@ -2397,7 +2397,7 @@
         {
             "offset": 1705112,
             "string": "空中から水流を放射する術剣技。[LINE]\n[END]",
-            "translation": "공중에서 물줄기를 방출하는 주술검술.[LINE]\n[END]",
+            "translation": "공중에서 물줄기를 방출하는 술검술.[LINE]\n[END]",
             "original_bytes_length": 32,
             "available_bytes_size": 32
         },
@@ -2425,7 +2425,7 @@
         {
             "offset": 1705240,
             "string": "高速移動と共に敵を貫き、返しの空中斬りに[LINE]\n巻き込む剣技。[END]",
-            "translation": "고속 이동과 함께 적을 관통하고, 돌아오는 공중베기에[LINE]\n휘말리게 하는 검술.[END]",
+            "translation": "고속 이동과 함께 적을 관통하고, 돌아오면서 공중베기로[LINE]\n휘말리게 하는 검술.[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56
         },
@@ -2453,7 +2453,7 @@
         {
             "offset": 1705408,
             "string": "敵の所持アイテムを攻撃のスキにいただく[LINE]\n特技。敵の防御などおかまいなし。[END]",
-            "translation": "적의 소지 아이템을 공격의 틈에 빼앗는[LINE]\n특기. 적의 방어 등은 무시.[END]",
+            "translation": "적의 소지 아이템을 공격의 틈에 빼앗는[LINE]\n특기. 적의 방어는 무관.[END]",
             "original_bytes_length": 72,
             "available_bytes_size": 72
         },
@@ -2497,7 +2497,7 @@
             "string": "魔神剣を斜め下に繰り出す剣技。[LINE]\n着弾時にも追加ダメージを与える。[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64,
-            "translation": "마신검을 대각선 아래로 발휘하는 검 기술.[LINE]\n착탄 시 추가 피해를 준다.[END]"
+            "translation": "마신검을 대각선 아래로 발휘하는 검술.[LINE]\n착탄 시 추가 피해를 준다.[END]"
         },
         {
             "offset": 1705728,
@@ -2539,7 +2539,7 @@
             "string": "晶力を込めた拳を突き出し、捕らえた[LINE]\n敵を爆砕する、打撃属性を持つ術技。[END]",
             "original_bytes_length": 70,
             "available_bytes_size": 71,
-            "translation": "정력을 담은 주먹을 내밀어, 잡은[LINE]\n적을 폭쇄하는 타격 속성을 가진 기술.[END]"
+            "translation": "정술력을 담은 주먹을 내밀어, 잡은[LINE]\n적을 폭쇄하는 타격 속성을 가진 기술.[END]"
         },
         {
             "offset": 1705928,
@@ -2574,7 +2574,7 @@
             "string": "炎の晶力を巻き込み一気に放出する術剣技。[LINE]\nＣＣ３で撃てる極悪技。[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64,
-            "translation": "불의 정력을 감아 한 번에 방출하는 기술 검술.[LINE]\nCC3에서 쏠 수 있는 극악 기술.[END]"
+            "translation": "불의 정술력을 모아 한 번에 방출하는 술검술.[LINE]\nCC3으로 쏠 수 있는 극악기.[END]"
         },
         {
             "offset": 1706064,
@@ -2595,7 +2595,7 @@
             "string": "爆炎の気を放出、周囲を焼き尽くす術剣技。[LINE]\n[END]",
             "original_bytes_length": 42,
             "available_bytes_size": 47,
-            "translation": "폭염의 기를 방출하여 주변을 태워버리는 기술 검술.[LINE]\n[END]"
+            "translation": "폭염의 기를 방출하여 주변을 태워버리는 술검술.[LINE]\n[END]"
         },
         {
             "offset": 1706152,
@@ -2616,7 +2616,7 @@
             "string": "炎の晶力を剣に溜め、一気に解放しながら[LINE]\n薙ぎ払う術剣技。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "불의 정력을 검에 모아 한 번에 해방하며[LINE]\n휩쓰는 기술 검술.[END]"
+            "translation": "불의 정술력을 검에 모아 한 번에 해방하며[LINE]\n휩쓰는 술검술.[END]"
         },
         {
             "offset": 1706248,
@@ -2637,7 +2637,7 @@
             "string": "熱波の回転斬りに敵を巻き込む術剣技。[LINE]\n[END]",
             "original_bytes_length": 38,
             "available_bytes_size": 39,
-            "translation": "열파의 회전 베기를 적을 휘감는 기술 검술.[LINE]\n[END]"
+            "translation": "열파의 회전 베기로 적을 휘감는 술검술.[LINE]\n[END]"
         },
         {
             "offset": 1706328,
@@ -2679,7 +2679,7 @@
             "string": "炎の斬り上げから、回転斬りにより[LINE]\n生じる獄炎弾を撃ち出す術剣技。[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64,
-            "translation": "불의 베어올리기에서 회전 베기로 인해[LINE]\n생기는 지옥불탄을 쏘아내는 기술 검술.[END]"
+            "translation": "불의 힘으로 올려베고, 회전 베기로 인해[LINE]\n생기는 지옥불탄을 쏘아내는 술검술.[END]"
         },
         {
             "offset": 1706544,
@@ -2700,7 +2700,7 @@
             "string": "鳳凰の気をまとい、空中から特攻する[LINE]\n術剣技。ダウン中の敵にも追撃可能。[END]",
             "original_bytes_length": 70,
             "available_bytes_size": 71,
-            "translation": "봉황의 기를 두르고, 공중에서 특공하는[LINE]\n기술 검술. 다운 중인 적에게도 추격 가능.[END]"
+            "translation": "봉황의 기를 두르고, 공중에서 특공하는[LINE]\n술검술. 다운 중인 적에게도 추격 가능.[END]"
         },
         {
             "offset": 1706648,
@@ -2721,7 +2721,7 @@
             "string": "空を閃く回転斬りから斬り落としに[LINE]\n連携する剣技。[END]",
             "original_bytes_length": 48,
             "available_bytes_size": 48,
-            "translation": "하늘을 가르는 회전베기를 통해 베어내는[LINE]\n연계하는 검술.[END]"
+            "translation": "하늘을 가르는 회전베기 후 베기로[LINE]\n연계하는 검술.[END]"
         },
         {
             "offset": 1706728,
@@ -2742,7 +2742,7 @@
             "string": "高速突きが光となり敵を貫く術剣技。[LINE]\n属性が光と射撃になる特殊な技。[END]",
             "original_bytes_length": 66,
             "available_bytes_size": 71,
-            "translation": "고속 찌르기가 빛이 되어 적을 관통하는 기술 검술.[LINE]\n속성이 빛과 사격이 되는 특별한 기술.[END]"
+            "translation": "고속 찌르기가 빛이 되어 적을 관통하는 술검술.[LINE]\n속성이 빛과 사격이 되는 특수한 기술.[END]"
         },
         {
             "offset": 1706832,
@@ -2763,7 +2763,7 @@
             "string": "踏み込みからの斬撃を４連続で繰り出す[LINE]\n剣技。[END]",
             "original_bytes_length": 44,
             "available_bytes_size": 47,
-            "translation": "발을 디디고 베기를 4연속으로 발동하는[LINE]\n검술.[END]"
+            "translation": "전진하면서 참격을 4연속으로 발동하는[LINE]\n검술.[END]"
         },
         {
             "offset": 1706912,
@@ -2805,7 +2805,7 @@
             "string": "浮かし効果のある魔神剣を放ち、[LINE]\n虎牙破斬で追撃する剣技。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "뜬 효과가 있는 마신검을 발사하여,[LINE]\n호가파참으로 추격하는 검술.[END]"
+            "translation": "띄우는 효과가 있는 마신검을 발사후,[LINE]\n호아파참으로 추격하는 검술.[END]"
         },
         {
             "offset": 1707104,
@@ -2826,7 +2826,7 @@
             "string": "回転斬りによって竜巻を生じさせながら[LINE]\n敵を斬り上げる術剣技。[END]",
             "original_bytes_length": 60,
             "available_bytes_size": 63,
-            "translation": "회전베기로 용오름을 발생시키며[LINE]\n적을 베어내는 기술 검술.[END]"
+            "translation": "회전베기로 소용돌이를 발생시키서[LINE]\n적을 올려베는 술검술.[END]"
         },
         {
             "offset": 1707208,
@@ -2847,7 +2847,7 @@
             "string": "上空まで発生する炎撃を繰り出す術剣技。[LINE]\n[END]",
             "original_bytes_length": 40,
             "available_bytes_size": 40,
-            "translation": "하늘까지 발생하는 화격을 발사하는 기술 검술.[LINE]\n[END]"
+            "translation": "하늘까지 발생하는 화염을 발사하는 술검술.[LINE]\n[END]"
         },
         {
             "offset": 1707280,
@@ -2868,7 +2868,7 @@
             "string": "流れるような上下段の斬りを繰り出す剣技。[LINE]\n[END]",
             "original_bytes_length": 42,
             "available_bytes_size": 47,
-            "translation": "흐르는 듯한 상하단의 베기를 발동하는 검술.[LINE]\n[END]"
+            "translation": "흐르는 듯한 상하단의 베기를 펼치는 검술.[LINE]\n[END]"
         },
         {
             "offset": 1707360,
@@ -2931,7 +2931,7 @@
             "string": "疾風の衝撃波を放つ術剣技。[LINE]\n敵の弾幕を貫いて攻撃できる。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "질풍의 충격파를 방출하는 기술 검술.[LINE]\n적의 탄막을 관통하여 공격할 수 있다.[END]"
+            "translation": "질풍의 충격파를 방출하는 술검술.[LINE]\n적의 탄막을 관통하여 공격할 수 있다.[END]"
         },
         {
             "offset": 1707600,
@@ -2973,7 +2973,7 @@
             "string": "剣圧による斬撃の飛び道具を繰り出す剣技。[LINE]\n様々な行動との連携が可能。[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71,
-            "translation": "검압에 의한 베기의 투사체를 발사하는 검술.[LINE]\n다양한 행동과의 연계가 가능하다.[END]"
+            "translation": "검압에 의한 참격의 투사체를 발사하는 검술.[LINE]\n다양한 행동과의 연계가 가능하다.[END]"
         },
         {
             "offset": 1707800,
@@ -2994,7 +2994,7 @@
             "string": "爆発力を込めた剣を振るい、爆風を起こす[LINE]\n術剣技。[Sign_Wing]：空中発動が可能[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71,
-            "translation": "폭발력을 담은 검을 휘두르며, 폭풍을 일으킨다.[LINE]\n기술 검술.[Sign_Wing]：공중 발동 가능[END]"
+            "translation": "폭발력을 담은 검을 휘두르며, 폭풍을 일으킨다.[LINE]\n술검술.[Sign_Wing]：공중 발동 가능[END]"
         },
         {
             "offset": 1707904,
