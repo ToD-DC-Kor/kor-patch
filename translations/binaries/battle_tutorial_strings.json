@@ -1351,7 +1351,7 @@
             "string": "シフトするぞチェインキャパ[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "체인 캐파 시프트다![END]"
+            "translation": "체인 캐파 전환한다![END]"
         },
         {
             "offset": 259480,
@@ -1365,7 +1365,7 @@
             "string": "ＣＣが[turquoise]２→３→４→５→２→[/color]とシフトする状態。[END]",
             "original_bytes_length": 57,
             "available_bytes_size": 63,
-            "translation": "CC가 [turquoise]２→３→４→５→２→[/color]로 시프트하는 상태야.[END]"
+            "translation": "CC가 [turquoise]２→３→４→５→２→[/color]로 전환되는 상태야.[END]"
         },
         {
             "offset": 259368,
@@ -1911,7 +1911,7 @@
             "string": "受けるダメージが１．５倍になってしまう。[END]",
             "original_bytes_length": 41,
             "available_bytes_size": 47,
-            "translation": "받는 데미지가 1.5배가 늘어 버려.[END]"
+            "translation": "받는 데미지가 1.5배로 늘어나 버려.[END]"
         },
         {
             "offset": 255960,
@@ -2086,7 +2086,7 @@
             "string": "治るまで待っているといつのまにか不利な状況に……[END]",
             "original_bytes_length": 49,
             "available_bytes_size": 55,
-            "translation": "나을 때까지 기다리고 있으면 어느새 불리한 상황에……[END]"
+            "translation": "풀릴 때까지 기다리고 있으면 어느새 불리한 상황에……[END]"
         },
         {
             "offset": 254944,
@@ -2121,7 +2121,7 @@
             "string": "通常攻撃だけしてても面白くないので早く治そう。[END]",
             "original_bytes_length": 47,
             "available_bytes_size": 47,
-            "translation": "일반 공격만 하고 있어도 재미없으니 빨리 치료하자.[END]"
+            "translation": "일반 공격만 하고 있으면 재미없으니 빨리 치료하자.[END]"
         },
         {
             "offset": 254752,
@@ -2492,14 +2492,14 @@
             "string": "[Johnny]:支援歌技で熱くサポート[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "[Johnny]:지원 가창으로 뜨겁게 서포트[END]"
+            "translation": "[Johnny]:지원가 기술로 뜨겁게 서포트[END]"
         },
         {
             "offset": 252464,
             "string": "[yellow]支援歌技[/color]を侮るなかれ。[END]",
             "original_bytes_length": 33,
             "available_bytes_size": 39,
-            "translation": "[yellow]지원가창[/color]을 얕보지 마.[END]"
+            "translation": "[yellow]지원가 기술[/color]을 얕보지 마.[END]"
         },
         {
             "offset": 252424,
