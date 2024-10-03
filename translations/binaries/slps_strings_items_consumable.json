@@ -1221,7 +1221,7 @@
         {
             "offset": 1763096,
             "string": "強い香りを放ち、大きな葉をもつ[LINE]\nハーブ。「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "강한 향기를 풍기며, 큰 잎을 가진[LINE]\n허브.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
+            "translation": "강한 향기를 풍기며[LINE]\n큰 잎을 가진 허브.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79
         },
@@ -1235,7 +1235,7 @@
         {
             "offset": 1763200,
             "string": "花の匂いで小動物を誘い捕食する。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "꽃 향기로 작은 동물을 유인하여 포식한다.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "꽃 향기로 작은 동물을[LINE]\n유인하여 포식한다.\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71
         },
@@ -1277,7 +1277,7 @@
         {
             "offset": 1763512,
             "string": "料理に香味を加えるとともに[LINE]\n消化も助ける。「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "요리에 향미를 더하면서[LINE]\n소화도 돕는다.「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "요리에 향미를 더하면서[LINE]\n소화도 돕는다.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79
         },
@@ -1291,7 +1291,7 @@
         {
             "offset": 1763616,
             "string": "生薬として使われる植物。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "생약으로 사용되는 식물.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "생약으로 사용되는 식물.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },
@@ -1333,7 +1333,7 @@
         {
             "offset": 1763912,
             "string": "熱帯に自生する果樹。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "열대에 자생하는 과수.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "열대에 자생하는 과수.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63
         },
@@ -1361,7 +1361,7 @@
         {
             "offset": 1764096,
             "string": "全体がとげにおおわれている果物。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "전체가 가시로 덮여 있는 과일.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "전체가 가시로 덮여 있는 과일.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71
         },
@@ -1375,7 +1375,7 @@
         {
             "offset": 1764184,
             "string": "球形の液果が房状になる果物。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "구형의 액과가 송이 모양으로 된 과일.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "구형의 액과가[LINE]\n송이 모양으로 된 과일.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
@@ -1389,7 +1389,7 @@
         {
             "offset": 1764272,
             "string": "柔らかく多汁で甘い薄紅色の果物。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "부드럽고 즙이 많고 달콤한 연한 붉은색의 과일.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "부드럽고 즙이 많고 달콤한[LINE]\n연한 붉은색의 과일[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71
         },
@@ -1403,7 +1403,7 @@
         {
             "offset": 1764360,
             "string": "甘酸っぱい芳香がある果物。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "달콤 새콤한 향이 나는 과일.[LINE]\n「조합」의[LINE]\n서포트 탤런트 아이템.[END]",
+            "translation": "달콤 새콤한 향이 나는 과일.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71
         },
