@@ -360,7 +360,7 @@ select
 <Igtenos>
 [ENDBLOCK]
 검신의 강성, 에너지 변환 효율……
-모든 게 현격히 향상됐어.
+모든 게 확실히 향상됐어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -391,8 +391,8 @@ select
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-육체에 손상이 없어도
-의식은 완전히 사라질 거예요.
+육체에 손상은 없더라도
+의식은 완전히 사라질 거야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -460,12 +460,12 @@ select
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-어떤가 시련을
+어떻게든 시련을
 무사히 넘긴 것 같군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-알겠나?
+그렇게 보여?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]

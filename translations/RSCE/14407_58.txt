@@ -924,7 +924,7 @@ select
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-어때 <Stahn>, <Rutee> 있었어?
+어때 <Stahn>, <Rutee>는 있었어?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -1034,14 +1034,14 @@ select
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-마을 외곽의 아이들이 많은 집,
-그거 언제까지 있을까.
+마을 외곽에 있는 아이들이 많은 집,
+그건 언제까지 있을까.
 
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-확실히 빚이 쌓여서
-퇴거 요청을 받았다고 들었는데.
+빚이 많이 쌓여서
+퇴거당할 위기에 처했다고 들었는데.
 [ENDBLOCK]
 청년
 [ENDBLOCK]
@@ -1050,14 +1050,14 @@ select
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-마을 외곽의 아이들이 많은 집,
-그거 언제까지 있을까.
+마을 외곽에 있는 아이들이 많은 집,
+그건 언제까지 있을까.
 
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-확실히 빚이 쌓여서
-퇴거 요청을 받았다고 들었는데.
+빚이 많이 쌓여서
+퇴거당할 위기에 처했다고 들었는데.
 [ENDBLOCK]
 청년
 [ENDBLOCK]
@@ -1097,12 +1097,12 @@ select
 <Rutee>
 [ENDBLOCK]
 오, 다들 모였네.
-마중 수고하셨어!	농담이야.
+마중 오느라 고생!	농담이야.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 <Rutee> 씨, 오랜만입니다.
-이 마을에 오셨군요.
+이 마을로 오신 거군요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -1137,7 +1137,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-좋아, 다릴샤이드로 향하자.
+좋아, 다릴쉐이드로 향하자.
 <Lion>도 돌아와 있을지도 모르지.
 [ENDBLOCK]
 <Philia>
@@ -1164,7 +1164,7 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-다릴샤이드는 크레스타의 서쪽이야.
+다릴쉐이드는 크레스타의 서쪽이야.
 산을 우회하면서 가자.
 [ENDBLOCK]
 알림

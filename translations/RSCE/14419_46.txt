@@ -487,7 +487,7 @@
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-<Rutee> 언니.
+<Rutee> 누나.
 우리 집, 없어지는 거야?
 [ENDBLOCK]
 여자아이
@@ -698,7 +698,7 @@
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-<Rutee> 언니, 어서 와!
+<Rutee> 누나, 어서 와!
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
@@ -706,7 +706,7 @@
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-<Rutee> 언니, 다녀오세요!
+<Rutee> 누나, 다녀오세요!
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
@@ -725,12 +725,12 @@
 남자아이
 [ENDBLOCK]
 나, 이제 안 울 거야.
-<Rutee> 언니, 힘내세요~!
+<Rutee> 누나, 힘내세요~!
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
 나, 이제 안 울 거야.
-언니도 열심히 하고 있잖아.
+누나도 열심히 하고 있잖아.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]

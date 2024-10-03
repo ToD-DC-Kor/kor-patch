@@ -494,7 +494,7 @@
 <Clemente>
 [ENDBLOCK]
 아니. 그것도 중요하지만,
-조건이라고 할 순 없어.
+조건이라고는 할 순 없어.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]

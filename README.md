@@ -113,10 +113,24 @@
 
 ## Contributors
 
-- [@kexplo](https://github.com/kexplo/), the maintainer of this translation project.
-  - all the work including reverse engineering, translation, text proofreading, programming, AI engineering, etc.
-- 퍼스트버튼, the grahpic resource editor.
-  - font images and UI graphics modification.
+- [@kexplo](https://github.com/kexplo/), the lead developer and coordinator of this translation project.
+  - Responsible for reverse engineering, translation, text proofreading, programming, AI engineering, and overall project management.
+- 퍼스트버튼, the graphic asset editor.
+  - Editing UI graphic assets.
+- SJH, a text proofreader and quality assurance tester.
+  - Proofreading translated text, offering suggestions for improvement, functionality testing.
+- Grumble, a quality assurance tester.
+  - Provided game save data for bug reproduction and functionality testing.
+- dlatod84, a text proofreader and quality assurance tester.
+  - Proofreading translated text, offering suggestions for improvement, functionality testing.
+- Daleth, a copy editor and text proofreader
+  - Rewriting entire sentences, proofreading translated text, and offering suggestions for improvement.
+- NaKaRy\_Ding, a text proofreader.
+  - Proofreading translated text, offering suggestions for improvement.
+- Hooha, a text proofreader.
+  - Proofreading translated text, offering suggestions for improvement.
+- 권형근, a game guide contributor.
+  - Provided a translated game guide to assist with text verification.
 
 ## Credits
 

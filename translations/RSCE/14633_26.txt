@@ -4,8 +4,8 @@
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-가르쳐준 대로면 됐다면,
-언제든 이륙할 수 있어!
+배운대로 하면,
+언제든지 이륙할 수 있어!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -31,7 +31,7 @@
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-이제 거울면 배리어에 가까워지면,
+이제 경면 배리어에 가까워지면,
 한 번에 방출하면 됩니다.
 [ENDBLOCK]
 <Rutee>

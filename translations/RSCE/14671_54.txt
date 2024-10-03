@@ -9,7 +9,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 말씀이신가요?
+무슨 말이야?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]

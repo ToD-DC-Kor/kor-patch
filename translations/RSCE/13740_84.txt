@@ -835,7 +835,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-참 ひどい有様ですね……
+정말 끔찍한 상황이네요……
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -994,7 +994,7 @@ select
 <Stahn>
 [ENDBLOCK]
 너는 거기서 지상을 내려다보며
-꽤나 기분이 좋겠지!
+정말 기분이 좋겠지!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1153,7 +1153,7 @@ select
 <Stahn>
 [ENDBLOCK]
 나는 원래 마스터였던
-너 자신에 가까워지고 싶어.
+너 자신에게 더 가까워지고 싶어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

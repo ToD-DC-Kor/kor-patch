@@ -1138,7 +1138,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-어떠신가요, <Rutee>군은 찾았나요?
+어때, <Rutee>는 찾았어?
 [ENDBLOCK]
 여성
 [ENDBLOCK]
@@ -1238,7 +1238,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 잡화점
 [ENDBLOCK]
-당황해도 시작되지 않아.
+허둥대고 있어봐야 시작되지 않아.
 자신이 할 수 있는 일을 하는 수밖에.
 [ENDBLOCK]
 잡화점
@@ -1257,7 +1257,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 잡화점
 [ENDBLOCK]
-당황해도 시작되지 않아.
+허둥대고 있어봐야 시작되지 않아.
 자신이 할 수 있는 일을 하는 수밖에.
 [ENDBLOCK]
 알림

@@ -1,6 +1,6 @@
 <Atwight>
 [ENDBLOCK]
-로디온의 정면 출입구까지 왔어.
+로디온의 정문에 도착했어.
 여기서 외각 대지로 나갈 수 있을 거야.
 [ENDBLOCK]
 <Stahn>

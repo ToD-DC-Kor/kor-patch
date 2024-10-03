@@ -135,7 +135,7 @@ init_light<x17><x71><x47><xCC><x80>
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-19살이라고는 도저히 믿기지 않는 언어 센스네요.
+19살이라고는 도저히 믿기지 않는 언어 센스야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -143,8 +143,8 @@ init_light<x17><x71><x47><xCC><x80>
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-아니에요, 천만에요.
-칭찬한 게 아니거든요.
+아니, 천만에.
+칭찬한 게 아니었거든.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
