@@ -28,46 +28,37 @@
 
 ### 스크린샷
 
-![select_story](./screenshots/select_story.png)
-![main_menu](./screenshots/main_menu.png)
-![scenario](./screenshots/scenario.png)
-![item](./screenshots/item.png)
-![weapon](./screenshots/weapon.png)
-![skill](./screenshots/skill.png)
-![skit_subtitle](./screenshots/skit_subtitle.png)
+<img src="./screenshots/select_story.png" width="23%"></img> <img src="./screenshots/main_menu.png" width="23%"></img> <img src="./screenshots/scenario.png" width="23%"></img> <img src="./screenshots/item.png" width="23%"></img> <img src="./screenshots/weapon.png" width="23%"></img> <img src="./screenshots/skill.png" width="23%"></img> <img src="./screenshots/skit_subtitle.png" width="23%"></img> 
 
 ### 상세
 
-추출된 모든 문자열에 대해서는 AI 기계 번역 완료
+추출된 모든 문자열에 대해서는 초벌 AI기계 번역 완료. 검수에 참여할수록 완성에 더 빠르게 도달할 수 있습니다.
 
-- 시나리오 대사
-  - 추출: 100%
-  - 검수: 1%
-- 전투 튜토리얼: 99%? (불확실)
-  - 검수: 0%
-- 스킷 자막: 100%
-  - 검수: 0%
-- 스킷 제목: 100%
-  - 검수: 0%
-- 영상 자막:
-  - 추출: 100%
-  - 검수: 0%
-- 지명: 90%
-- 아이템 설명
-  - 추출: 100%
-  - 검수: 0%
-- 몬스터 도감: 0%
-- UI 메뉴: 99%
-  - 검수: 0%
-- 그래픽: ?? (불확실)
-  - 메뉴 UI 글자 그래픽: 100%
-  - 도감/지도 UI 글자 그래픽: 100%
-  - 전투 UI 글자 그래픽: 100%
-  - 미니게임 글자 그래픽: 100%
-  - 아이템 그래픽: 100%
-  - 스토리 그래픽: 0%
-  - 엔딩 그래픽: 90%
-  - 타이틀 그래픽: 100%
+번역:
+
+| | 추출 | 검수 |
+| - | - | - |
+| 시나리오 대사 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/10) |
+| 전투 튜토리얼 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/80) |
+| 스킷 자막 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/12) |
+| 스킷 제목 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/0) |
+| 영상 자막 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/33) |
+| 지명 | ![](https://geps.dev/progress/90) | ![](https://geps.dev/progress/0) |
+| 아이템 설명 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/80) |
+| 몬스터 도감 | ![](https://geps.dev/progress/0) | ![](https://geps.dev/progress/0) |
+| UI 메뉴 | ![](https://geps.dev/progress/95) | ![](https://geps.dev/progress/100) |
+
+그래픽:
+
+| | 진행도 | 검수 |
+| - | - | - |
+| 메뉴 UI 글자 | ![](https://geps.dev/progress/100) | ✅ |
+| 도감/지도 UI 글자 | ![](https://geps.dev/progress/100) | ✅ |
+| 전투 메뉴 UI 글자 | ![](https://geps.dev/progress/100) | ✅ |
+| 미니게임 로고/글자 | ![](https://geps.dev/progress/100) | ✅ |
+| 아이템 | ![](https://geps.dev/progress/100) | ✅ |
+| 엔딩 편지 | ![](https://geps.dev/progress/100) | 🔲 |
+| 타이틀 로고 | ![](https://geps.dev/progress/100) | ✅ |
 
 ## 배포 주기 & 다운로드
 
