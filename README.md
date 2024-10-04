@@ -45,7 +45,9 @@
 | 영상 자막 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/33) |
 | 지명 | ![](https://geps.dev/progress/90) | ![](https://geps.dev/progress/0) |
 | 아이템 설명 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/80) |
+| 스킬 설명 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/80) |
 | 몬스터 도감 | ![](https://geps.dev/progress/0) | ![](https://geps.dev/progress/0) |
+| 몬스터 스킬 | ![](https://geps.dev/progress/0) | ![](https://geps.dev/progress/0) |
 | UI 메뉴 | ![](https://geps.dev/progress/95) | ![](https://geps.dev/progress/100) |
 
 그래픽:
