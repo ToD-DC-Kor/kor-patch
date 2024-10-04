@@ -2072,7 +2072,7 @@
             "string": "移動、行動、詠唱時に、時々のけぞってしまう。[END]",
             "original_bytes_length": 45,
             "available_bytes_size": 47,
-            "translation": "이동, 행동, 주문 시전 때, 가끔 경직 돼.[END]"
+            "translation": "이동, 행동, 영창 시, 가끔 경직 돼.[END]"
         },
         {
             "offset": 255072,
@@ -2625,7 +2625,7 @@
             "string": "[yellow]ソーディアンデバイス[/color]をセットして戦闘すると[END]",
             "original_bytes_length": 53,
             "available_bytes_size": 55,
-            "translation": "[yellow]소디언 디바이스[/color]를 세팅하고 전투하면[END]"
+            "translation": "[yellow]소디언 디바이스[/color]를 설정하고 전투하면[END]"
         },
         {
             "offset": 251624,
