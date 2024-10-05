@@ -395,7 +395,7 @@
         {
             "offset": 1757256,
             "string": "リライズで、音属性ダメージを半減[LINE]\nできる「音属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
-            "translation": "리라이즈하면 소리속성 데미지를[LINE]\n반감할 수 있는 「소리속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
+            "translation": "리라이즈하면 음파 속성 데미지를[LINE]\n반감할 수 있는 「음파 속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -409,7 +409,7 @@
         {
             "offset": 1757368,
             "string": "リライズで、射属性ダメージを半減[LINE]\nできる「射属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
-            "translation": "리라이즈하면 사격속성 데미지를[LINE]\n반감할 수 있는 「사격속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
+            "translation": "리라이즈하면 사격 속성 데미지를[LINE]\n반감할 수 있는 「사격 속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -423,7 +423,7 @@
         {
             "offset": 1757480,
             "string": "リライズで、打属性ダメージを半減[LINE]\nできる「打属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
-            "translation": "리라이즈하면 타격속성 데미지를[LINE]\n반감할 수 있는 「타격속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
+            "translation": "리라이즈하면 타격 속성 데미지를[LINE]\n반감할 수 있는 「타격 속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -437,7 +437,7 @@
         {
             "offset": 1757592,
             "string": "リライズで、斬属性ダメージを半減[LINE]\nできる「斬属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
-            "translation": "리라이즈하면 참격속성 데미지를[LINE]\n반감할 수 있는 「참격속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
+            "translation": "리라이즈하면 참격 속성 데미지를[LINE]\n반감할 수 있는 「참격 속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -451,7 +451,7 @@
         {
             "offset": 1757712,
             "string": "リライズで、闇属性ダメージを半減[LINE]\nできる「闇属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
-            "translation": "리라이즈하면 어둠속성 데미지를[LINE]\n반감할 수 있는 「어둠속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
+            "translation": "리라이즈하면 어둠 속성 데미지를[LINE]\n반감할 수 있는 「어둠 속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -465,7 +465,7 @@
         {
             "offset": 1757824,
             "string": "リライズで、光属性ダメージを半減[LINE]\nできる「光属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
-            "translation": "리라이즈하면 빛속성 데미지를[LINE]\n반감할 수 있는 「빛속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
+            "translation": "리라이즈하면 빛 속성 데미지를[LINE]\n반감할 수 있는 「빛 속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -479,7 +479,7 @@
         {
             "offset": 1757936,
             "string": "リライズで、風属性ダメージを半減[LINE]\nできる「風属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
-            "translation": "리라이즈하면 바람속성 데미지를[LINE]\n반감할 수 있는 「바람속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
+            "translation": "리라이즈하면 바람 속성 데미지를[LINE]\n반감할 수 있는 「바람 속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -493,7 +493,7 @@
         {
             "offset": 1758048,
             "string": "リライズで、地属性ダメージを半減[LINE]\nできる「地属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
-            "translation": "리라이즈하면 땅속성 데미지를[LINE]\n반감할 수 있는 「땅속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
+            "translation": "리라이즈하면 땅 속성 데미지를[LINE]\n반감할 수 있는 「땅 속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -507,7 +507,7 @@
         {
             "offset": 1758160,
             "string": "リライズで、水属性ダメージを半減[LINE]\nできる「水属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
-            "translation": "리라이즈하면 물속성 데미지를[LINE]\n반감할 수 있는 「물속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
+            "translation": "리라이즈하면 물 속성 데미지를[LINE]\n반감할 수 있는 「물 속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -521,7 +521,7 @@
         {
             "offset": 1758272,
             "string": "リライズで、火属性ダメージを半減[LINE]\nできる「火属性耐性」を付加する[LINE]\n宝石に変化する。[END]",
-            "translation": "리라이즈하면 불속성 데미지를[LINE]\n반감할 수 있는 「불속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
+            "translation": "리라이즈하면 불 속성 데미지를[LINE]\n반감할 수 있는 「불 속성 내성」을[LINE]\n부여하는 보석으로 변화한다.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -535,7 +535,7 @@
         {
             "offset": 1758384,
             "string": "リライズで、術技が使用不可になる[LINE]\n状態異常「封印」を防止する宝石に[LINE]\n変化する。[END]",
-            "translation": "리라이즈하면 술기를 사용할 수 없게 되는[LINE]\n상태이상 「봉인」을 방지하는[LINE]\n보석으로 변화한다.[END]",
+            "translation": "리라이즈하면 기술을 사용할 수 없게 되는[LINE]\n상태이상 「봉인」을 방지하는[LINE]\n보석으로 변화한다.[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79
         },

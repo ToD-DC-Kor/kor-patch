@@ -999,7 +999,7 @@
             "string": "敵の術攻撃による硬化時間を縮める[END]",
             "original_bytes_length": 33,
             "available_bytes_size": 39,
-            "translation": "적의 술 공격으로 인한 경화 시간을 줄인다[END]"
+            "translation": "적의 술 공격으로 인한 경직 시간을 줄인다[END]"
         },
         {
             "offset": 1712056,
@@ -1013,7 +1013,7 @@
             "string": "敵の物理攻撃による硬化時間を縮める[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
-            "translation": "적의 물리 공격으로 인한 경화 시간을 줄인다[END]"
+            "translation": "적의 물리 공격으로 인한 경직 시간을 줄인다[END]"
         },
         {
             "offset": 1712112,
@@ -1027,7 +1027,7 @@
             "string": "晶術による敵硬化時間を延ばす[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "결정술로 적의 경화 시간을 늘린다[END]"
+            "translation": "결정술로 적의 경직 시간을 늘린다[END]"
         },
         {
             "offset": 1712152,
@@ -1041,7 +1041,7 @@
             "string": "特技・術技による敵硬化時間を延ばす[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
-            "translation": "특기・술기로 적의 경화 시간을 늘린다[END]"
+            "translation": "기술・정술로 적의 경직 시간을 늘린다[END]"
         },
         {
             "offset": 1712200,
@@ -1515,28 +1515,28 @@
         {
             "offset": 1713632,
             "string": "音波軽減[END]",
-            "translation": "음파경감[END]",
+            "translation": "음파 경감[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713648,
             "string": "射撃軽減[END]",
-            "translation": "사격경감[END]",
+            "translation": "사격 경감[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713664,
             "string": "打撃軽減[END]",
-            "translation": "타격경감[END]",
+            "translation": "타격 경감[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713680,
             "string": "斬撃軽減[END]",
-            "translation": "참격경감[END]",
+            "translation": "참격 경감[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
