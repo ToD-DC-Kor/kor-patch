@@ -262,7 +262,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Bishop[END]",
-            "translation": "ビショップ[END]"
+            "translation": "비숍[END]"
         },
         {
             "offset": 4220,
@@ -270,7 +270,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Wyvern[END]",
-            "translation": "ワイバーン[END]"
+            "translation": "와이번[END]"
         },
         {
             "offset": 4344,
@@ -278,7 +278,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Peepit[END]",
-            "translation": "ピヨピヨ[END]"
+            "translation": "삐약삐약[END]"
         },
         {
             "offset": 4468,
@@ -286,7 +286,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Sprite[END]",
-            "translation": "ポアス[END]"
+            "translation": "스프라이트[END]"
         },
         {
             "offset": 4592,
@@ -294,7 +294,7 @@
             "original_bytes_length": 5,
             "available_bytes_size": 23,
             "english": "Boar[END]",
-            "translation": "ボア[END]"
+            "translation": "멧돼지[END]"
         },
         {
             "offset": 4716,
@@ -302,7 +302,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Rock Baboon[END]",
-            "translation": "ロックバブーン[END]"
+            "translation": "바위 바부[END]"
         },
         {
             "offset": 4840,
@@ -310,7 +310,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Mushroom[END]",
-            "translation": "マッシュルーム[END]"
+            "translation": "버섯[END]"
         },
         {
             "offset": 4964,
@@ -318,7 +318,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Orkrot[END]",
-            "translation": "オークロット[END]"
+            "translation": "오크로트[END]"
         },
         {
             "offset": 5088,
@@ -326,7 +326,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Crystal[END]",
-            "translation": "クリスタル[END]"
+            "translation": "크리스탈[END]"
         },
         {
             "offset": 5212,
@@ -334,7 +334,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Golem[END]",
-            "translation": "ゴーレム[END]"
+            "translation": "골렘[END]"
         },
         {
             "offset": 5336,
@@ -342,7 +342,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Starfish[END]",
-            "translation": "スターフィッシュ[END]"
+            "translation": "불가사리[END]"
         },
         {
             "offset": 5460,
@@ -350,7 +350,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Yellow Roper[END]",
-            "translation": "イエローローパー[END]"
+            "translation": "노란 로퍼[END]"
         },
         {
             "offset": 5584,
@@ -358,7 +358,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Desert Fly[END]",
-            "translation": "デザートフライ[END]"
+            "translation": "사막 파리[END]"
         },
         {
             "offset": 5708,
@@ -366,7 +366,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Snake[END]",
-            "translation": "スネーク[END]"
+            "translation": "뱀[END]"
         },
         {
             "offset": 5832,
@@ -374,7 +374,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Basilisk[END]",
-            "translation": "バジリスク[END]"
+            "translation": "바실리스크[END]"
         },
         {
             "offset": 5956,
@@ -382,7 +382,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Silurus[END]",
-            "translation": "シルルス[END]"
+            "translation": "실루루스[END]"
         },
         {
             "offset": 6080,
@@ -390,7 +390,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Lizard[END]",
-            "translation": "リザルド[END]"
+            "translation": "도마뱀[END]"
         },
         {
             "offset": 6204,
@@ -398,7 +398,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Leech[END]",
-            "translation": "リーチ[END]"
+            "translation": "거머리[END]"
         },
         {
             "offset": 6328,
@@ -406,7 +406,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Bat[END]",
-            "translation": "バット[END]"
+            "translation": "박쥐[END]"
         },
         {
             "offset": 6452,
@@ -414,7 +414,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Peacock[END]",
-            "translation": "ピーコック[END]"
+            "translation": "공작[END]"
         },
         {
             "offset": 6576,
@@ -422,7 +422,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Bisent[END]",
-            "translation": "ヴィセント[END]"
+            "translation": "비센트[END]"
         },
         {
             "offset": 6700,
@@ -430,7 +430,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Moreau Soldier[END]",
-            "translation": "モリュウ兵[END]"
+            "translation": "모리우 병사[END]"
         },
         {
             "offset": 6824,
@@ -438,7 +438,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Tabby[END]",
-            "translation": "タビー[END]"
+            "translation": "타비[END]"
         },
         {
             "offset": 6948,
@@ -446,7 +446,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Zaghnal[END]",
-            "translation": "ザグナル[END]"
+            "translation": "자그날[END]"
         },
         {
             "offset": 7072,
@@ -454,7 +454,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Shade[END]",
-            "translation": "シェイド[END]"
+            "translation": "그림자[END]"
         },
         {
             "offset": 7196,
@@ -462,7 +462,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Zombie[END]",
-            "translation": "ゾンビ[END]"
+            "translation": "좀비[END]"
         },
         {
             "offset": 7320,
@@ -470,7 +470,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Skeleton[END]",
-            "translation": "スケルトン[END]"
+            "translation": "해골[END]"
         },
         {
             "offset": 7444,
@@ -478,7 +478,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Mummy[END]",
-            "translation": "マミー[END]"
+            "translation": "미라[END]"
         },
         {
             "offset": 7568,
@@ -486,7 +486,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Vigilance[END]",
-            "translation": "ヴィジランス[END]"
+            "translation": "비질란스[END]"
         },
         {
             "offset": 7692,
@@ -494,7 +494,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Sweeper[END]",
-            "translation": "スウィープ[END]"
+            "translation": "스위퍼[END]"
         },
         {
             "offset": 7816,
@@ -502,7 +502,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Oberon Employee[END]",
-            "translation": "オベロン社員[END]"
+            "translation": "오베론 직원[END]"
         },
         {
             "offset": 7940,
@@ -510,7 +510,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Battler[END]",
-            "translation": "バトラー[END]"
+            "translation": "배틀러[END]"
         },
         {
             "offset": 8064,
@@ -518,7 +518,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Dark Mage[END]",
-            "translation": "ダークメイジ[END]"
+            "translation": "다크 메이지[END]"
         },
         {
             "offset": 8188,
@@ -526,7 +526,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Puropulse[END]",
-            "translation": "ピュロポルス[END]"
+            "translation": "퓨로폴스[END]"
         },
         {
             "offset": 8312,
@@ -534,7 +534,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Healer[END]",
-            "translation": "ヒーラー[END]"
+            "translation": "힐러[END]"
         },
         {
             "offset": 8436,
@@ -542,7 +542,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Wariness[END]",
-            "translation": "ウァーリネス[END]"
+            "translation": "웨리네스[END]"
         },
         {
             "offset": 8560,
@@ -550,7 +550,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Artillery[END]",
-            "translation": "アーティレリ[END]"
+            "translation": "아틸러리[END]"
         },
         {
             "offset": 8684,
@@ -558,7 +558,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Cockroach[END]",
-            "translation": "コックローチ[END]"
+            "translation": "바퀴벌레[END]"
         },
         {
             "offset": 8808,
@@ -566,7 +566,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Insect Plant[END]",
-            "translation": "インセクトプラント[END]"
+            "translation": "곤충 식물[END]"
         },
         {
             "offset": 8932,
@@ -574,7 +574,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Thelm[END]",
-            "translation": "テルム[END]"
+            "translation": "텔름[END]"
         },
         {
             "offset": 9056,
@@ -582,7 +582,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Paghoul[END]",
-            "translation": "パグールス[END]"
+            "translation": "파구르스[END]"
         },
         {
             "offset": 9180,
@@ -590,7 +590,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Eerie[END]",
-            "translation": "イーレ[END]"
+            "translation": "이리[END]"
         },
         {
             "offset": 9304,
@@ -598,7 +598,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Fabos[END]",
-            "translation": "ファボス[END]"
+            "translation": "파보스[END]"
         },
         {
             "offset": 9428,
@@ -606,7 +606,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Squasher Bot[END]",
-            "translation": "スクオッシュ[END]"
+            "translation": "스쿼시[END]"
         },
         {
             "offset": 9552,
@@ -614,7 +614,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Exocet[END]",
-            "translation": "エクゾセ[END]"
+            "translation": "엑조세[END]"
         },
         {
             "offset": 9676,
@@ -622,7 +622,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Bite Plant[END]",
-            "translation": "バイトプラント[END]"
+            "translation": "물어뜯는 식물[END]"
         },
         {
             "offset": 9800,
@@ -630,7 +630,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Phi Gamm[END]",
-            "translation": "ファイガ[END]"
+            "translation": "파이가[END]"
         },
         {
             "offset": 9924,
@@ -638,7 +638,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Gas Cloud[END]",
-            "translation": "ガスクラウド[END]"
+            "translation": "가스 구름[END]"
         },
         {
             "offset": 10048,
@@ -646,7 +646,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Factor[END]",
-            "translation": "ファクタ[END]"
+            "translation": "팩터[END]"
         },
         {
             "offset": 10172,
@@ -654,7 +654,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Gazer[END]",
-            "translation": "ギャザー[END]"
+            "translation": "게이저[END]"
         },
         {
             "offset": 10296,
@@ -662,7 +662,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Tiamat[END]",
-            "translation": "ティアマット[END]"
+            "translation": "티아마트[END]"
         },
         {
             "offset": 10420,
@@ -670,7 +670,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Chien de Garde[END]",
-            "translation": "シアンドギャルド[END]"
+            "translation": "시앙 드 가르드[END]"
         },
         {
             "offset": 10544,
@@ -678,7 +678,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Elite Seinegald Soldier[END]",
-            "translation": "セインガルド上級兵[END]"
+            "translation": "세인가르드 고급 병사[END]"
         },
         {
             "offset": 10668,
@@ -686,7 +686,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Kraken[END]",
-            "translation": "クラーケン[END]"
+            "translation": "크라켄[END]"
         },
         {
             "offset": 10792,
@@ -694,7 +694,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "ドラゴン[END]",
-            "translation": "ドラゴン[END]"
+            "translation": "드래곤[END]"
         },
         {
             "offset": 10916,
@@ -702,7 +702,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Buer[END]",
-            "translation": "ブエル[END]"
+            "translation": "부에르[END]"
         },
         {
             "offset": 11040,
@@ -710,7 +710,7 @@
             "original_bytes_length": 21,
             "available_bytes_size": 23,
             "english": "Miktran EX[END]",
-            "translation": "ミクトランイグゼシブ[END]"
+            "translation": "믹트란 EX[END]"
         },
         {
             "offset": 11164,
@@ -718,7 +718,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Dymlos[END]",
-            "translation": "ディムロス[END]"
+            "translation": "딤로스[END]"
         },
         {
             "offset": 11288,
@@ -726,7 +726,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Hornet[END]",
-            "translation": "ホーネット[END]"
+            "translation": "호넷[END]"
         },
         {
             "offset": 11412,
@@ -734,7 +734,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Tract Boar[END]",
-            "translation": "トラクトボア[END]"
+            "translation": "트랙트 보어[END]"
         },
         {
             "offset": 11536,
@@ -742,7 +742,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Wild Wood[END]",
-            "translation": "ワイルドウッド[END]"
+            "translation": "와일드 우드[END]"
         },
         {
             "offset": 11660,
@@ -750,7 +750,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Rebel Soldier[END]",
-            "translation": "反乱軍兵士[END]"
+            "translation": "반란군 병사[END]"
         },
         {
             "offset": 11784,
@@ -758,7 +758,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Drillfish[END]",
-            "translation": "ドリルフィッシュ[END]"
+            "translation": "드릴피쉬[END]"
         },
         {
             "offset": 11908,
@@ -766,7 +766,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Barbatos[END]",
-            "translation": "バルバトス[END]"
+            "translation": "발바토스[END]"
         },
         {
             "offset": 12032,
@@ -774,7 +774,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Cave Queen[END]",
-            "translation": "ケイブクィーン[END]"
+            "translation": "동굴 여왕[END]"
         },
         {
             "offset": 12156,
@@ -782,7 +782,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Cave Head[END]",
-            "translation": "ケイブヘッド[END]"
+            "translation": "동굴 머리[END]"
         },
         {
             "offset": 12280,
@@ -790,7 +790,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Cave Swell[END]",
-            "translation": "ケイブスウェル[END]"
+            "translation": "동굴 부풀림[END]"
         },
         {
             "offset": 12404,
@@ -798,7 +798,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Akbaba[END]",
-            "translation": "アクババ[END]"
+            "translation": "아크바바[END]"
         },
         {
             "offset": 12528,
@@ -806,7 +806,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "High Priestess[END]",
-            "translation": "ハイプリースト[END]"
+            "translation": "하이 프리스트[END]"
         },
         {
             "offset": 12652,
@@ -814,7 +814,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "High Bishop[END]",
-            "translation": "ハイビショップ[END]"
+            "translation": "하이 비숍[END]"
         },
         {
             "offset": 12776,
@@ -822,7 +822,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Phyloxin[END]",
-            "translation": "ファイロクセン[END]"
+            "translation": "파이로크센[END]"
         },
         {
             "offset": 12900,
@@ -830,7 +830,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Beal Golem[END]",
-            "translation": "ビルゴーレム[END]"
+            "translation": "비르고렘[END]"
         },
         {
             "offset": 13024,
@@ -838,7 +838,7 @@
             "original_bytes_length": 5,
             "available_bytes_size": 23,
             "english": "Bug[END]",
-            "translation": "バグ[END]"
+            "translation": "벌레[END]"
         },
         {
             "offset": 13148,
@@ -846,7 +846,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Cave Baby[END]",
-            "translation": "ケイブベビー[END]"
+            "translation": "동굴 아기[END]"
         },
         {
             "offset": 13272,
@@ -854,7 +854,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Paralyslime[END]",
-            "translation": "パラライスライム[END]"
+            "translation": "마비 슬라임[END]"
         },
         {
             "offset": 13396,
@@ -862,7 +862,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Fungus[END]",
-            "translation": "ファンガス[END]"
+            "translation": "펑거스[END]"
         },
         {
             "offset": 13520,
@@ -870,7 +870,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Bandit[END]",
-            "translation": "バンディット[END]"
+            "translation": "도적[END]"
         },
         {
             "offset": 13644,
@@ -878,7 +878,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Wolf Hound[END]",
-            "translation": "ウルフハウンド[END]"
+            "translation": "늑대 사냥개[END]"
         },
         {
             "offset": 13768,
@@ -886,7 +886,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Dragonfly[END]",
-            "translation": "ドラゴンフライ[END]"
+            "translation": "잠자리[END]"
         },
         {
             "offset": 13892,
@@ -894,7 +894,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Lindwurm[END]",
-            "translation": "リントブルム[END]"
+            "translation": "린트블룸[END]"
         },
         {
             "offset": 14016,
@@ -902,7 +902,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Cockadrill[END]",
-            "translation": "コカドリーユ[END]"
+            "translation": "코카드리유[END]"
         },
         {
             "offset": 14140,
@@ -910,7 +910,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Terazzi Soldier[END]",
-            "translation": "トウケイ兵[END]"
+            "translation": "테라지 병사[END]"
         },
         {
             "offset": 14264,
@@ -918,7 +918,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Diamond Dust[END]",
-            "translation": "ダイヤモンドダスト[END]"
+            "translation": "다이아몬드 더스트[END]"
         },
         {
             "offset": 14388,
@@ -926,7 +926,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Evil Bat[END]",
-            "translation": "イーブルバット[END]"
+            "translation": "이블 박쥐[END]"
         },
         {
             "offset": 14512,
@@ -934,7 +934,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Shenanigan[END]",
-            "translation": "シェナニガン[END]"
+            "translation": "시네닌건[END]"
         },
         {
             "offset": 14636,
@@ -942,7 +942,7 @@
             "original_bytes_length": 5,
             "available_bytes_size": 23,
             "english": "Moth[END]",
-            "translation": "モフ[END]"
+            "translation": "나방[END]"
         },
         {
             "offset": 14760,
@@ -950,7 +950,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Thief[END]",
-            "translation": "シーフ[END]"
+            "translation": "도둑[END]"
         },
         {
             "offset": 14884,
@@ -958,7 +958,7 @@
             "original_bytes_length": 21,
             "available_bytes_size": 23,
             "english": "Batista Diego[END]",
-            "translation": "バティスタ・ディエゴ[END]"
+            "translation": "바티스타 디에고[END]"
         },
         {
             "offset": 15008,
@@ -966,7 +966,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Fidelity[END]",
-            "translation": "フィデリット[END]"
+            "translation": "피델리트[END]"
         },
         {
             "offset": 15132,
@@ -974,7 +974,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Hare[END]",
-            "translation": "ハーレ[END]"
+            "translation": "토끼[END]"
         },
         {
             "offset": 15256,
@@ -982,7 +982,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Ogre Bear[END]",
-            "translation": "オーグルベア[END]"
+            "translation": "오거 곰[END]"
         },
         {
             "offset": 15380,
@@ -990,7 +990,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Chirpee[END]",
-            "translation": "チュンチュン[END]"
+            "translation": "짹짹[END]"
         },
         {
             "offset": 15504,
@@ -998,7 +998,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Roc[END]",
-            "translation": "ロック[END]"
+            "translation": "록[END]"
         },
         {
             "offset": 15628,
@@ -1006,7 +1006,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Great Oak[END]",
-            "translation": "グレートオーク[END]"
+            "translation": "그레이트 오크[END]"
         },
         {
             "offset": 15752,
@@ -1014,7 +1014,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Fluffy[END]",
-            "translation": "もふりーな[END]"
+            "translation": "푹신이[END]"
         },
         {
             "offset": 15876,
@@ -1022,7 +1022,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Gentleman Luine[END]",
-            "translation": "ジェントルメンタイ[END]"
+            "translation": "젠틀멘 타이[END]"
         },
         {
             "offset": 16000,
@@ -1030,7 +1030,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Gentleman Lester[END]",
-            "translation": "ジェントルワカメ[END]"
+            "translation": "젠틀맨 와카메[END]"
         },
         {
             "offset": 16124,
@@ -1038,7 +1038,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Gentleman Rhambling[END]",
-            "translation": "ジェントルピータン[END]"
+            "translation": "젠틀맨 피탄[END]"
         },
         {
             "offset": 16248,
@@ -1046,7 +1046,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Gentleman Valens[END]",
-            "translation": "ジェントルカズノコ[END]"
+            "translation": "젠틀맨 가즈노코[END]"
         },
         {
             "offset": 16372,
@@ -1054,7 +1054,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Levant[END]",
-            "translation": "レヴァント[END]"
+            "translation": "레반트[END]"
         },
         {
             "offset": 16496,
@@ -1062,7 +1062,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Evil Star[END]",
-            "translation": "イーブルスター[END]"
+            "translation": "이블 스타[END]"
         },
         {
             "offset": 16620,
@@ -1070,7 +1070,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Blue Roper[END]",
-            "translation": "ブルーローパー[END]"
+            "translation": "파란 로퍼[END]"
         },
         {
             "offset": 16744,
@@ -1078,7 +1078,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Mad Eel[END]",
-            "translation": "マッドイール[END]"
+            "translation": "미친 장어[END]"
         },
         {
             "offset": 16868,
@@ -1086,7 +1086,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Force Armor[END]",
-            "translation": "フォースアーマー[END]"
+            "translation": "포스 아머[END]"
         },
         {
             "offset": 16992,
@@ -1094,7 +1094,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Ward[END]",
-            "translation": "ウォード[END]"
+            "translation": "워드[END]"
         },
         {
             "offset": 17116,
@@ -1102,7 +1102,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Murex[END]",
-            "translation": "ミュレックス[END]"
+            "translation": "뮈렉스[END]"
         },
         {
             "offset": 17240,
@@ -1110,7 +1110,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Fog[END]",
-            "translation": "フォッグ[END]"
+            "translation": "안개[END]"
         },
         {
             "offset": 17364,
@@ -1118,7 +1118,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Leon Magnus[END]",
-            "translation": "リオン・マグナス[END]"
+            "translation": "리온 매그너스[END]"
         },
         {
             "offset": 17488,
@@ -1126,7 +1126,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Beat Vulture[END]",
-            "translation": "ビートヴァルチャー[END]"
+            "translation": "비트 버처[END]"
         },
         {
             "offset": 17612,
@@ -1134,7 +1134,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Rapid Bee[END]",
-            "translation": "ラビッドビー[END]"
+            "translation": "빠른 벌[END]"
         },
         {
             "offset": 17736,
@@ -1142,7 +1142,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Assault Boar[END]",
-            "translation": "アサルトボア[END]"
+            "translation": "돌격 보어[END]"
         },
         {
             "offset": 17860,
@@ -1150,7 +1150,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Rampage Lizard[END]",
-            "translation": "ランページリザルド[END]"
+            "translation": "램페이지 리자드[END]"
         },
         {
             "offset": 17984,
@@ -1158,7 +1158,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Gloom Shark[END]",
-            "translation": "グルームシャーク[END]"
+            "translation": "글룸 샤크[END]"
         },
         {
             "offset": 18108,
@@ -1166,7 +1166,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Seal Snake[END]",
-            "translation": "シールスネーク[END]"
+            "translation": "물개 뱀[END]"
         },
         {
             "offset": 18232,
@@ -1174,7 +1174,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Muzzle Leech[END]",
-            "translation": "マズルリーチ[END]"
+            "translation": "머즐 리치[END]"
         },
         {
             "offset": 18356,
@@ -1182,7 +1182,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Killamari[END]",
-            "translation": "デルタカイト[END]"
+            "translation": "델타 카이트[END]"
         },
         {
             "offset": 18480,
@@ -1190,7 +1190,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "King Baboon[END]",
-            "translation": "キングバブーン[END]"
+            "translation": "킹 바분[END]"
         },
         {
             "offset": 18604,
@@ -1198,7 +1198,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Deacock[END]",
-            "translation": "ディーコック[END]"
+            "translation": "디콕[END]"
         },
         {
             "offset": 18728,
@@ -1206,7 +1206,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Champignon[END]",
-            "translation": "シャンピニオン[END]"
+            "translation": "샴피뇽[END]"
         },
         {
             "offset": 18852,
@@ -1214,7 +1214,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Erde Fly[END]",
-            "translation": "エルドフライ[END]"
+            "translation": "에르드 플라이[END]"
         },
         {
             "offset": 18976,
@@ -1222,7 +1222,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Guerin[END]",
-            "translation": "グレイン[END]"
+            "translation": "그레인[END]"
         },
         {
             "offset": 19100,
@@ -1230,7 +1230,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Collusion[END]",
-            "translation": "クルージョン[END]"
+            "translation": "컬루전[END]"
         },
         {
             "offset": 19224,
@@ -1238,7 +1238,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Bulwark[END]",
-            "translation": "ブルワーク[END]"
+            "translation": "불워크[END]"
         },
         {
             "offset": 19348,
@@ -1246,7 +1246,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Dorepulse[END]",
-            "translation": "ドレポルス[END]"
+            "translation": "도레폴스[END]"
         },
         {
             "offset": 19472,
@@ -1254,7 +1254,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Treant[END]",
-            "translation": "トレント[END]"
+            "translation": "트렌트[END]"
         },
         {
             "offset": 19596,
@@ -1262,7 +1262,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Living Dead[END]",
-            "translation": "リビングデッド[END]"
+            "translation": "리빙 데드[END]"
         },
         {
             "offset": 19720,
@@ -1270,7 +1270,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Kawancha[END]",
-            "translation": "カワンチャ[END]"
+            "translation": "카완차[END]"
         },
         {
             "offset": 19844,
@@ -1278,7 +1278,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Valley[END]",
-            "translation": "バーレイ[END]"
+            "translation": "밸리[END]"
         },
         {
             "offset": 19968,
@@ -1286,7 +1286,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Flitter[END]",
-            "translation": "フリッター[END]"
+            "translation": "플리터[END]"
         },
         {
             "offset": 20092,
@@ -1294,7 +1294,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Ripe Sorcerer[END]",
-            "translation": "ライプソーサラー[END]"
+            "translation": "고약한 소서러[END]"
         },
         {
             "offset": 20216,
@@ -1302,7 +1302,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Healer Knight[END]",
-            "translation": "メディカルナイツ[END]"
+            "translation": "메디컬 나이트[END]"
         },
         {
             "offset": 20340,
@@ -1310,7 +1310,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Deep Shark[END]",
-            "translation": "ディプスシャーク[END]"
+            "translation": "딥 샤크[END]"
         },
         {
             "offset": 20464,
@@ -1318,7 +1318,7 @@
             "original_bytes_length": 21,
             "available_bytes_size": 23,
             "english": "Fingerfish[END]",
-            "translation": "フィンガーフィッシュ[END]"
+            "translation": "불가사리[END]"
         },
         {
             "offset": 20588,
@@ -1326,7 +1326,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Banshee[END]",
-            "translation": "ビウェンシス[END]"
+            "translation": "비웬시스[END]"
         },
         {
             "offset": 20712,
@@ -1334,7 +1334,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Piipii[END]",
-            "translation": "ピーピー[END]"
+            "translation": "삐삐[END]"
         },
         {
             "offset": 20836,
@@ -1342,7 +1342,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Serpent[END]",
-            "translation": "サーペント[END]"
+            "translation": "서펜트[END]"
         },
         {
             "offset": 20960,
@@ -1350,7 +1350,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Basilisk King[END]",
-            "translation": "バジリスクキング[END]"
+            "translation": "바실리스크 킹[END]"
         },
         {
             "offset": 21084,
@@ -1358,7 +1358,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Saber Tabby[END]",
-            "translation": "セイバータビー[END]"
+            "translation": "세이버 태비[END]"
         },
         {
             "offset": 21208,
@@ -1366,7 +1366,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Dzigar[END]",
-            "translation": "ズィガー[END]"
+            "translation": "지가[END]"
         },
         {
             "offset": 21332,
@@ -1374,7 +1374,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Freshen[END]",
-            "translation": "フレッシェン[END]"
+            "translation": "프레셴[END]"
         },
         {
             "offset": 21456,
@@ -1382,7 +1382,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Oberon Employee X[END]",
-            "translation": "オベロン社員Ｘ[END]"
+            "translation": "오베론 직원 X[END]"
         },
         {
             "offset": 21580,
@@ -1390,7 +1390,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Garidge[END]",
-            "translation": "ギャリッジ[END]"
+            "translation": "가리지[END]"
         },
         {
             "offset": 21704,
@@ -1398,7 +1398,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Fawn Viper[END]",
-            "translation": "フォーンバイパー[END]"
+            "translation": "폰 바이퍼[END]"
         },
         {
             "offset": 21828,
@@ -1406,7 +1406,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Alhambra[END]",
-            "translation": "アランブラ[END]"
+            "translation": "알람브라[END]"
         },
         {
             "offset": 21952,
@@ -1414,7 +1414,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Vesir[END]",
-            "translation": "ベスィール[END]"
+            "translation": "베시르[END]"
         },
         {
             "offset": 22076,
@@ -1422,7 +1422,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Red Roper[END]",
-            "translation": "レッドローパー[END]"
+            "translation": "레드 로퍼[END]"
         },
         {
             "offset": 22200,
@@ -1430,7 +1430,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Infrared[END]",
-            "translation": "インフレッド[END]"
+            "translation": "인프레드[END]"
         },
         {
             "offset": 22324,
@@ -1438,7 +1438,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Secular[END]",
-            "translation": "セキュラー[END]"
+            "translation": "세큘러[END]"
         },
         {
             "offset": 22448,
@@ -1446,7 +1446,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Torch[END]",
-            "translation": "トーチ[END]"
+            "translation": "토치[END]"
         },
         {
             "offset": 22572,
@@ -1454,7 +1454,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Vile Leech[END]",
-            "translation": "バイルリーチ[END]"
+            "translation": "바일 리치[END]"
         },
         {
             "offset": 22696,
@@ -1462,7 +1462,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Growther[END]",
-            "translation": "グロウサー[END]"
+            "translation": "그로우서[END]"
         },
         {
             "offset": 22820,
@@ -1470,7 +1470,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Corpse[END]",
-            "translation": "コープス[END]"
+            "translation": "코프스[END]"
         },
         {
             "offset": 22944,
@@ -1478,7 +1478,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Illegal[END]",
-            "translation": "イリーガル[END]"
+            "translation": "일리갈[END]"
         },
         {
             "offset": 23068,
@@ -1486,7 +1486,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Wizard[END]",
-            "translation": "ウィザード[END]"
+            "translation": "위자드[END]"
         },
         {
             "offset": 23192,
@@ -1494,7 +1494,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Huelight[END]",
-            "translation": "ヒュレイト[END]"
+            "translation": "휴레이트[END]"
         },
         {
             "offset": 23316,
@@ -1502,7 +1502,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Darkness Armor[END]",
-            "translation": "ダークネスアーマー[END]"
+            "translation": "다크니스 아머[END]"
         },
         {
             "offset": 23440,
@@ -1510,7 +1510,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Fonon[END]",
-            "translation": "フォノン[END]"
+            "translation": "포논[END]"
         },
         {
             "offset": 23564,
@@ -1518,7 +1518,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Crumple[END]",
-            "translation": "クランプル[END]"
+            "translation": "크럼플[END]"
         },
         {
             "offset": 23688,
@@ -1526,7 +1526,7 @@
             "original_bytes_length": 21,
             "available_bytes_size": 23,
             "english": "Bruiser Kongman[END]",
-            "translation": "マイティ・コングマン[END]"
+            "translation": "마이티 콩맨[END]"
         },
         {
             "offset": 23812,
@@ -1534,7 +1534,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Poser Kongman[END]",
-            "translation": "にせコングマン[END]"
+            "translation": "가짜 콩맨[END]"
         },
         {
             "offset": 23936,
@@ -1542,7 +1542,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Tentacle[END]",
-            "translation": "テンタクル[END]"
+            "translation": "촉수[END]"
         },
         {
             "offset": 24060,
@@ -1550,7 +1550,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Finley[END]",
-            "translation": "フィンレイ[END]"
+            "translation": "핀리[END]"
         },
         {
             "offset": 24184,
@@ -1558,7 +1558,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Empire Beetle[END]",
-            "translation": "エンパイアビートル[END]"
+            "translation": "엠파이어 딱정벌레[END]"
         },
         {
             "offset": 24308,
@@ -1566,7 +1566,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Cupid[END]",
-            "translation": "キュービッド[END]"
+            "translation": "큐비드[END]"
         },
         {
             "offset": 24432,
@@ -1574,7 +1574,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Rune Hearts[END]",
-            "translation": "ルーンハーツ[END]"
+            "translation": "룬 하츠[END]"
         },
         {
             "offset": 24556,
@@ -1582,7 +1582,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Rune Teeth[END]",
-            "translation": "ルーントゥース[END]"
+            "translation": "룬 투스[END]"
         },
         {
             "offset": 24680,
@@ -1590,7 +1590,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Rune Lip[END]",
-            "translation": "ルーンリップ[END]"
+            "translation": "룬 립[END]"
         },
         {
             "offset": 24804,
@@ -1598,7 +1598,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Rune Shark[END]",
-            "translation": "ルーンシャーク[END]"
+            "translation": "룬 샤크[END]"
         },
         {
             "offset": 24928,
@@ -1606,7 +1606,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Cleavage[END]",
-            "translation": "クリーベッジ[END]"
+            "translation": "클리비지[END]"
         },
         {
             "offset": 25052,
@@ -1614,7 +1614,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Anaphylax[END]",
-            "translation": "アナフィラキー[END]"
+            "translation": "아나필라키[END]"
         },
         {
             "offset": 25176,
@@ -1622,7 +1622,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Felhound[END]",
-            "translation": "フェルハウンド[END]"
+            "translation": "펠하운드[END]"
         },
         {
             "offset": 25300,
@@ -1630,7 +1630,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Purple Roper[END]",
-            "translation": "パープルローパー[END]"
+            "translation": "퍼플 로퍼[END]"
         },
         {
             "offset": 25424,
@@ -1638,7 +1638,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Oxileps[END]",
-            "translation": "オキシレプス[END]"
+            "translation": "옥시렙스[END]"
         },
         {
             "offset": 25548,
@@ -1646,7 +1646,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Fiercest Bear[END]",
-            "translation": "フィレストベア[END]"
+            "translation": "피어스트 베어[END]"
         },
         {
             "offset": 25672,
@@ -1654,7 +1654,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Balaclava[END]",
-            "translation": "バラクラーバ[END]"
+            "translation": "발라클라바[END]"
         },
         {
             "offset": 25796,
@@ -1662,7 +1662,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Drake[END]",
-            "translation": "ドレイク[END]"
+            "translation": "드레이크[END]"
         },
         {
             "offset": 25920,
@@ -1670,7 +1670,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Radiant[END]",
-            "translation": "レディアント[END]"
+            "translation": "레디언트[END]"
         },
         {
             "offset": 26044,
@@ -1678,7 +1678,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Toadstool[END]",
-            "translation": "トードストール[END]"
+            "translation": "토드스툴[END]"
         },
         {
             "offset": 26168,
@@ -1686,7 +1686,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Fiend[END]",
-            "translation": "フィーンド[END]"
+            "translation": "피엔드[END]"
         },
         {
             "offset": 26292,
@@ -1694,7 +1694,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Super Star[END]",
-            "translation": "スーパースター[END]"
+            "translation": "슈퍼 스타[END]"
         },
         {
             "offset": 26416,
@@ -1702,7 +1702,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Bleed Fly[END]",
-            "translation": "ブリードフライ[END]"
+            "translation": "블리드 플라이[END]"
         },
         {
             "offset": 26540,
@@ -1710,7 +1710,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Asortas[END]",
-            "translation": "アソータス[END]"
+            "translation": "아소타스[END]"
         },
         {
             "offset": 26664,
@@ -1718,7 +1718,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Iguana[END]",
-            "translation": "イガーニア[END]"
+            "translation": "이가니아[END]"
         },
         {
             "offset": 26788,
@@ -1726,7 +1726,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Nocturne[END]",
-            "translation": "ノクチュール[END]"
+            "translation": "녹투르네[END]"
         },
         {
             "offset": 26912,
@@ -1734,7 +1734,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Savage[END]",
-            "translation": "サヴェッジ[END]"
+            "translation": "세비지[END]"
         },
         {
             "offset": 27036,
@@ -1742,7 +1742,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Typhon[END]",
-            "translation": "ティフォン[END]"
+            "translation": "티폰[END]"
         },
         {
             "offset": 27160,
@@ -1750,7 +1750,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Scent[END]",
-            "translation": "シーンス[END]"
+            "translation": "신스[END]"
         },
         {
             "offset": 27284,
@@ -1758,7 +1758,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Reguarder[END]",
-            "translation": "リガーダー[END]"
+            "translation": "리가더[END]"
         },
         {
             "offset": 27408,
@@ -1766,7 +1766,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Quintus[END]",
-            "translation": "クインタス[END]"
+            "translation": "퀸타스[END]"
         },
         {
             "offset": 27532,
@@ -1774,7 +1774,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Hell Battler[END]",
-            "translation": "ヘルバトラー[END]"
+            "translation": "헬 배틀러[END]"
         },
         {
             "offset": 27656,
@@ -1782,7 +1782,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Master Wizard[END]",
-            "translation": "マスターウィザード[END]"
+            "translation": "마스터 위자드[END]"
         },
         {
             "offset": 27780,
@@ -1790,7 +1790,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Kyuiida[END]",
-            "translation": "キュイーダ[END]"
+            "translation": "큐이다[END]"
         },
         {
             "offset": 27904,
@@ -1798,7 +1798,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Vain[END]",
-            "translation": "ウェイン[END]"
+            "translation": "웨인[END]"
         },
         {
             "offset": 28028,
@@ -1806,7 +1806,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Barataria[END]",
-            "translation": "ブラタリア[END]"
+            "translation": "브라타리아[END]"
         },
         {
             "offset": 28152,
@@ -1814,7 +1814,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Carnival Plant[END]",
-            "translation": "キャニバルプラント[END]"
+            "translation": "카니발 플랜트[END]"
         },
         {
             "offset": 28276,
@@ -1822,7 +1822,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Maneuver[END]",
-            "translation": "マニューバー[END]"
+            "translation": "마뉴버[END]"
         },
         {
             "offset": 28400,
@@ -1830,7 +1830,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Streak[END]",
-            "translation": "ストリーク[END]"
+            "translation": "스트릭[END]"
         },
         {
             "offset": 28524,
@@ -1838,7 +1838,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Imposter[END]",
-            "translation": "インポスター[END]"
+            "translation": "임포스터[END]"
         },
         {
             "offset": 28648,
@@ -1846,7 +1846,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Defeat[END]",
-            "translation": "ディフィート[END]"
+            "translation": "디피트[END]"
         },
         {
             "offset": 28772,
@@ -1854,7 +1854,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Catastrophe[END]",
-            "translation": "デリジョン[END]"
+            "translation": "델리전[END]"
         },
         {
             "offset": 28896,
@@ -1862,7 +1862,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Lirafiga[END]",
-            "translation": "リラファイガ[END]"
+            "translation": "리라피가[END]"
         },
         {
             "offset": 29020,
@@ -1870,7 +1870,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Wog[END]",
-            "translation": "ウォッグ[END]"
+            "translation": "워크[END]"
         },
         {
             "offset": 29144,
@@ -1878,7 +1878,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Blinker[END]",
-            "translation": "ウィンカー[END]"
+            "translation": "윙커[END]"
         },
         {
             "offset": 29268,
@@ -1886,7 +1886,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Alkausaur[END]",
-            "translation": "アルカウサー[END]"
+            "translation": "알카우서[END]"
         },
         {
             "offset": 29392,
@@ -1894,7 +1894,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Progress[END]",
-            "translation": "プログレス[END]"
+            "translation": "프로그레스[END]"
         },
         {
             "offset": 29516,
@@ -1902,7 +1902,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Shaggy[END]",
-            "translation": "もさりーな[END]"
+            "translation": "모사리나[END]"
         },
         {
             "offset": 29640,
@@ -1910,7 +1910,7 @@
             "original_bytes_length": 21,
             "available_bytes_size": 23,
             "english": "Imperial Armor[END]",
-            "translation": "インペリアルアーマー[END]"
+            "translation": "임페리얼 아머[END]"
         },
         {
             "offset": 29764,
@@ -1918,7 +1918,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 24,
             "english": "Pink Roper[END]",
-            "translation": "ピンクローパー[END]"
+            "translation": "핑크 로퍼[END]"
         },
         {
             "offset": 29888,
@@ -1926,7 +1926,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Devil Fish[END]",
-            "translation": "デビルフィッシュ[END]"
+            "translation": "데빌 피쉬[END]"
         },
         {
             "offset": 30012,
@@ -1934,7 +1934,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Deep Star[END]",
-            "translation": "ディープスター[END]"
+            "translation": "딥 스타[END]"
         },
         {
             "offset": 30136,
@@ -1942,7 +1942,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Linnaeus[END]",
-            "translation": "リンネウス[END]"
+            "translation": "린네우스[END]"
         },
         {
             "offset": 30260,
@@ -1950,7 +1950,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Seafabos[END]",
-            "translation": "シーファボス[END]"
+            "translation": "시파보스[END]"
         },
         {
             "offset": 30384,
@@ -1958,7 +1958,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Duelist[END]",
-            "translation": "デュエリスト[END]"
+            "translation": "듀얼리스트[END]"
         },
         {
             "offset": 30508,
@@ -1966,7 +1966,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Sorcery[END]",
-            "translation": "ソーサリー[END]"
+            "translation": "소서리[END]"
         },
         {
             "offset": 30632,
@@ -1974,7 +1974,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Gentle-M[END]",
-            "translation": "こくもつ[END]"
+            "translation": "고쿠모츠[END]"
         },
         {
             "offset": 30756,
@@ -1982,7 +1982,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Astral Demon[END]",
-            "translation": "アストロル[END]"
+            "translation": "아스트롤[END]"
         },
         {
             "offset": 30880,
@@ -1990,7 +1990,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Dreias[END]",
-            "translation": "ドレイアス[END]"
+            "translation": "드레이어스[END]"
         }
     ]
 }
