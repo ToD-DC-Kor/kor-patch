@@ -460,7 +460,7 @@
             "string": "[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n「再誕」を冠する最大の攻撃晶術。[END]",
             "original_bytes_length": 88,
             "available_bytes_size": 88,
-            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n「재탄생」을 의미하는 최대의 공격정술.[END]"
+            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n「재탄생」을 의미하는 최대의 공격 정술.[END]"
         },
         {
             "offset": 1691144,
@@ -656,7 +656,7 @@
             "string": "魔神の槍を召喚すると共に、禁呪の力を[LINE]\n我が物とする闇系晶術。[END]",
             "original_bytes_length": 60,
             "available_bytes_size": 63,
-            "translation": "마신의 창을 소환함과 동시에, 금주(禁呪)의 힘을[LINE]\n내 것으로 하는 어둠 계열의 결정술.[END]"
+            "translation": "마신의 창을 소환함과 동시에, 금주(禁呪)의 힘을[LINE]\n내 것으로 하는 어둠 계열의 정술.[END]"
         },
         {
             "offset": 1692352,
@@ -684,7 +684,7 @@
             "string": "３秒間、敵の動きを停止させる晶術。[LINE]\n短時間だし踊るヒマはありません。[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71,
-            "translation": "3초간, 적의 움직임을 정지시키는 결정술.[LINE]\n짧은 시간이라 춤출 여유는 없습니다.[END]"
+            "translation": "3초간, 적의 움직임을 정지시키는 정술.[LINE]\n짧은 시간이라 춤출 여유는 없습니다.[END]"
         },
         {
             "offset": 1692504,

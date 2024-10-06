@@ -236,7 +236,7 @@
             "string": "術防御力[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "술 방어력[END]"
+            "translation": "정술 방어력[END]"
         },
         {
             "offset": 34304,
@@ -250,7 +250,7 @@
             "string": "術攻撃力[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "술 공격력[END]"
+            "translation": "정술 공격력[END]"
         },
         {
             "offset": 34328,

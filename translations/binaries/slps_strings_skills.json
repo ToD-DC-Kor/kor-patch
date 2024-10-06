@@ -465,7 +465,7 @@
         {
             "offset": 1695096,
             "string": "石つぶてを連続して撃ち込む晶術。[LINE]\n使用すると術攻撃力が上昇する。[END]",
-            "translation": "돌멩이를 연속하여 날리는 정술.[LINE]\n사용하면 술 공격력이 상승한다.[END]",
+            "translation": "돌멩이를 연속하여 날리는 정술.[LINE]\n사용하면 정술 공격력이 상승한다.[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64
         },
@@ -1109,7 +1109,7 @@
         {
             "offset": 1698992,
             "string": "音波障壁の中で音符を躍らせる特技。[LINE]\n術攻撃力低下の追加効果を持つ。[END]",
-            "translation": "음파장벽 안에서 음표를 춤추게 하는 특기.[LINE]\n술공격력 감소 추가 효과를 가진다.[END]",
+            "translation": "음파장벽 안에서 음표를 춤추게 하는 특기.[LINE]\n정술 공격력 감소 추가 효과를 가진다.[END]",
             "original_bytes_length": 66,
             "available_bytes_size": 71
         },
@@ -1123,7 +1123,7 @@
         {
             "offset": 1699088,
             "string": "多段攻撃判定のある音符を設置する特技。[LINE]\n術攻撃力低下の追加効果を持つ。[END]",
-            "translation": "다단 공격 판정이 있는 음표를 설치하는 특기.[LINE]\n술공격력 감소 추가 효과를 가진다.[END]",
+            "translation": "다단 공격 판정이 있는 음표를 설치하는 특기.[LINE]\n정술 공격력 감소 추가 효과를 가진다.[END]",
             "original_bytes_length": 70,
             "available_bytes_size": 71
         },
@@ -1249,7 +1249,7 @@
         {
             "offset": 1699808,
             "string": "味方の術攻撃力を高めるサンバ。[LINE]\n支援歌技は連携することで効果が上昇。[END]",
-            "translation": "아군의 술공격력을 높이는 삼바.[LINE]\n지원노래는 연계하면 효과가 상승.[END]",
+            "translation": "아군의 정술 공격력을 높이는 삼바.[LINE]\n지원노래는 연계하면 효과가 상승.[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71
         },
@@ -2077,7 +2077,7 @@
             "string": "味方全体を短時間敵の攻撃から護る術技。[LINE]\n術防御力も同時に上昇させる。[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71,
-            "translation": "아군 전체를 짧은 시간 동안 적의 공격으로부터 보호하는 기술.[LINE]\n술 방어력도 동시에 상승시킨다.[END]"
+            "translation": "아군 전체를 짧은 시간 동안 적의 공격으로부터 보호하는 기술.[LINE]\n정술 방어력도 동시에 상승시킨다.[END]"
         },
         {
             "offset": 1703720,
@@ -2131,7 +2131,7 @@
         {
             "offset": 1704016,
             "string": "術者の術攻撃力を一定時間上昇[LINE]\nさせる特技。[END]",
-            "translation": "술사의 술공격력을 일정 시간 상승[LINE]\n시키는 특기.[END]",
+            "translation": "술사의 정술 공격력을 일정 시간 상승[LINE]\n시키는 특기.[END]",
             "original_bytes_length": 42,
             "available_bytes_size": 47
         },
@@ -2481,7 +2481,7 @@
         {
             "offset": 1705576,
             "string": "落ちているガルドをゲットする特技。[LINE]\n回復晶術の回復率にも影響？[END]",
-            "translation": "떨어진 가르도를 획득하는 특기.[LINE]\n회복정술의 회복률에도 영향?[END]",
+            "translation": "떨어진 가르도를 획득하는 특기.[LINE]\n회복 정술의 회복률에도 영향?[END]",
             "original_bytes_length": 62,
             "available_bytes_size": 63
         },

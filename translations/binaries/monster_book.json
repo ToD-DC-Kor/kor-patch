@@ -138,7 +138,7 @@
             "string": "悪意に満ちた刀身を持つ魔法剣。[LINE]\n全ての攻撃に「術攻撃力」を下げる[LINE]\n効果を持つ。[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "악의에 찬 칼날을 가진 마법검. [LINE]\n모든 공격에 '술 공격력'을 낮추는 [LINE]\n효과를 가진다. [END]"
+            "translation": "악의에 찬 칼날을 가진 마법검. [LINE]\n모든 공격에 '정술 공격력'을 낮추는 [LINE]\n효과를 가진다. [END]"
         },
         {
             "offset": 20200,
@@ -614,7 +614,7 @@
             "string": "火属性晶術を操る事に特化された生体兵器。[LINE]\n時間経過と共に、晶術の威力がアップする。[LINE]\n火属性耐性必須！[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "불 속성 결정술을 다루는 데 특화된 생체 무기. [LINE]\n시간이 지날수록, 결정술의 위력이 업그레이드된다. [LINE]\n불 속성 내성 필수! [END]"
+            "translation": "불 속성 결정술을 다루는 데 특화된 생체 무기. [LINE]\n시간이 지날수록, 정술의 위력이 업그레이드된다. [LINE]\n불 속성 내성 필수! [END]"
         },
         {
             "offset": 26536,
