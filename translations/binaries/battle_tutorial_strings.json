@@ -1139,7 +1139,7 @@
             "string": "音[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "소리[END]"
+            "translation": "음파[END]"
         },
         {
             "offset": 247192,
@@ -1160,7 +1160,7 @@
             "string": "斬[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "베기[END]"
+            "translation": "참격[END]"
         },
         {
             "offset": 247216,

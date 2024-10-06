@@ -677,7 +677,7 @@
             "string": "一定時間でフードが回復する[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "일정 시간에 후드가 회복된다[END]"
+            "translation": "일정 시간이 지나면 음식이 회복된다[END]"
         },
         {
             "offset": 1711064,
@@ -1251,7 +1251,7 @@
             "string": "瀕死時に時々HPが[TAG_015]％回復[END]",
             "original_bytes_length": 28,
             "available_bytes_size": 31,
-            "translation": "핍사 상태에서 가끔 HP가 [TAG_015]％ 회복된다[END]"
+            "translation": "빈사 상태에서 가끔 HP가 [TAG_015]％ 회복된다[END]"
         },
         {
             "offset": 1712856,
@@ -1391,7 +1391,7 @@
             "string": "チャージ：術防御力上昇[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "차지: 주술 방어력 상승[END]"
+            "translation": "차지: 술 방어력 상승[END]"
         },
         {
             "offset": 1713320,
@@ -1419,7 +1419,7 @@
             "string": "チャージ：術攻撃力上昇[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "차지: 주술 공격력 상승[END]"
+            "translation": "차지: 술 공격력 상승[END]"
         },
         {
             "offset": 1713392,
@@ -1515,70 +1515,70 @@
         {
             "offset": 1713632,
             "string": "音波軽減[END]",
-            "translation": "음파 경감[END]",
+            "translation": "음파 속성 경감[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713648,
             "string": "射撃軽減[END]",
-            "translation": "사격 경감[END]",
+            "translation": "사격 속성 경감[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713664,
             "string": "打撃軽減[END]",
-            "translation": "타격 경감[END]",
+            "translation": "타격 속성 경감[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713680,
             "string": "斬撃軽減[END]",
-            "translation": "참격 경감[END]",
+            "translation": "참격 속성 경감[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713696,
             "string": "封印防止[END]",
-            "translation": "봉인방지[END]",
+            "translation": "봉인 방지[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713712,
             "string": "マヒ防止[END]",
-            "translation": "마비방지[END]",
+            "translation": "마비 방지[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713728,
             "string": "睡眠防止[END]",
-            "translation": "수면방지[END]",
+            "translation": "수면 방지[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713744,
             "string": "熱毒防止[END]",
-            "translation": "열독방지[END]",
+            "translation": "열독 방지[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713760,
             "string": "衰弱防止[END]",
-            "translation": "쇠약방지[END]",
+            "translation": "쇠약 방지[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713776,
             "string": "石化防止[END]",
-            "translation": "석화방지[END]",
+            "translation": "석화 방지[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
@@ -1748,7 +1748,7 @@
             "string": "術防御力＋[TAG_015][END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "주술 방어력＋[TAG_015][END]"
+            "translation": "술 방어력＋[TAG_015][END]"
         },
         {
             "offset": 1714160,
@@ -1776,7 +1776,7 @@
             "string": "術攻撃力＋[TAG_015][END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "주술 공격력＋[TAG_015][END]"
+            "translation": " 공격력＋[TAG_015][END]"
         },
         {
             "offset": 1714224,

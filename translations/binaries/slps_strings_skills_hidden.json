@@ -187,7 +187,7 @@
             "string": "[Sign_7]ソニックストリーム[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "[Sign_7]소닉스트림[END]"
+            "translation": "[Sign_7]소닉 스트림[END]"
         },
         {
             "offset": 1689456,
@@ -299,7 +299,7 @@
             "string": "[Sign_7]サンダーソード[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]썬더소드[END]"
+            "translation": "[Sign_7]썬더 소드[END]"
         },
         {
             "offset": 1690072,
@@ -348,7 +348,7 @@
             "string": "[Sign_7]ワイルドギース[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]와일드기스[END]"
+            "translation": "[Sign_7]와일드 기스[END]"
         },
         {
             "offset": 1690408,
@@ -467,7 +467,7 @@
             "string": "[Sign_7]リバースクルセイダー[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Sign_7]리버스크루세이더[END]"
+            "translation": "[Sign_7]리버스 크루세이더[END]"
         },
         {
             "offset": 1691176,
@@ -481,7 +481,7 @@
             "string": "[Sign_7]ディバインパウア[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]디바인파워[END]"
+            "translation": "[Sign_7]디바인 파워[END]"
         },
         {
             "offset": 1691288,
@@ -523,7 +523,7 @@
             "string": "[Sign_7]ライフディスチャージ[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Sign_7]라이프 디스차지[END]"
+            "translation": "[Sign_7]라이프디스 차지[END]"
         },
         {
             "offset": 1691632,
@@ -537,7 +537,7 @@
             "string": "[Sign_7]トリックスター[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]트릭스타[END]"
+            "translation": "[Sign_7]트릭 스타[END]"
         },
         {
             "offset": 1691744,
@@ -663,7 +663,7 @@
             "string": "[Sign_6]デモンズランス・ゼロ[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Sign_6]데몬즈랜스・제로[END]"
+            "translation": "[Sign_6]데몬즈 랜스・제로[END]"
         },
         {
             "offset": 1692384,
@@ -691,7 +691,7 @@
             "string": "[Sign_6]ストップフロウ[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_6]스톱플로우[END]"
+            "translation": "[Sign_6]스톱 플로우[END]"
         },
         {
             "offset": 1692528,
