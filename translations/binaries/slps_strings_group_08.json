@@ -824,7 +824,7 @@
             "string": "闇属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "어둠 속성 정술의 주문 시간 단축[END]"
+            "translation": "어둠 속성 정술의 영창 시간 단축[END]"
         },
         {
             "offset": 1711456,
@@ -838,7 +838,7 @@
             "string": "光属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "빛 속성 정술의 주문 시간 단축[END]"
+            "translation": "빛 속성 정술의 영창 시간 단축[END]"
         },
         {
             "offset": 1711504,
@@ -852,7 +852,7 @@
             "string": "水属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "물 속성 정술의 주문 시간 단축[END]"
+            "translation": "물 속성 정술의 영창 시간 단축[END]"
         },
         {
             "offset": 1711552,
@@ -866,7 +866,7 @@
             "string": "火属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "불 속성 정술의 주문 시간 단축[END]"
+            "translation": "불 속성 정술의 영창 시간 단축[END]"
         },
         {
             "offset": 1711600,
@@ -880,7 +880,7 @@
             "string": "風属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "바람 속성 정술의 주문 시간 단축[END]"
+            "translation": "바람 속성 정술의 영창 시간 단축[END]"
         },
         {
             "offset": 1711648,
@@ -901,7 +901,7 @@
             "string": "地属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "땅 속성 정술의 주문 시간 단축[END]"
+            "translation": "땅 속성 정술의 영창 시간 단축[END]"
         },
         {
             "offset": 1711712,
@@ -1776,7 +1776,7 @@
             "string": "術攻撃力＋[TAG_015][END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": " 공격력＋[TAG_015][END]"
+            "translation": "정술 공격력＋[TAG_015][END]"
         },
         {
             "offset": 1714224,

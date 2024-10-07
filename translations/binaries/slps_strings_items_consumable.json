@@ -1235,7 +1235,7 @@
         {
             "offset": 1763200,
             "string": "花の匂いで小動物を誘い捕食する。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "꽃 향기로 작은 동물을 유인하여 포식한다.\n「조합」의 서포트 탤런트 아이템.[END]",
+            "translation": "꽃 향기로 작은 동물을 유인하여 포식한다.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71
         },

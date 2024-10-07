@@ -2177,7 +2177,7 @@
             "string": "[yellow]術防御力：[/color]術攻撃力によるダメージの軽減[END]",
             "original_bytes_length": 49,
             "available_bytes_size": 55,
-            "translation": "[yellow]정술 방어력：[/color정술 공격력에 의한 데미지의 경감[END]"
+            "translation": "[yellow]정술 방어력：[/color]정술 공격력에 의한 데미지의 경감[END]"
         },
         {
             "offset": 254360,
