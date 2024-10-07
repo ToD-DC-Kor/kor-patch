@@ -80,7 +80,7 @@
         {
             "offset": 1693064,
             "string": "[Sign_6]ディープミスト[END]",
-            "translation": "[Sign_6]딥미스트[END]",
+            "translation": "[Sign_6]딥 미스트[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -150,7 +150,7 @@
         {
             "offset": 1693472,
             "string": "[Sign_10]アンチドート[END]",
-            "translation": "[Sign_10]안티도트[END]",
+            "translation": "[Sign_10]안티 도트[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -241,7 +241,7 @@
         {
             "offset": 1693896,
             "string": "敵一体を一定確率で一撃のもとに撃破する[LINE]\n晶術。敵のHPが少ないほど成功しやすい。[END]",
-            "translation": "적 일체를 일정 확률로 일격의 바탕에 격파하는[LINE]\n정술. 적의 HP가 적을수록 성공하기 쉽다.[END]",
+            "translation": "적 한명을 일정 확률로 한방에 격파하는[LINE]\n정술. 적의 HP가 적을수록 성공하기 쉽다.[END]",
             "original_bytes_length": 78,
             "available_bytes_size": 79
         },
@@ -255,14 +255,14 @@
         {
             "offset": 1694000,
             "string": "隕石群を飛来させる無属性晶術。[LINE]\n[END]",
-            "translation": "운석군을 날아오게 하는 무속성 정술.[LINE]\n[END]",
+            "translation": "운석 덩어리를 날려보내는 무속성 정술.[LINE]\n[END]",
             "original_bytes_length": 32,
             "available_bytes_size": 32
         },
         {
             "offset": 1694032,
             "string": "[Sign_6]メテオスォーム[END]",
-            "translation": "[Sign_6]메테오스웜[END]",
+            "translation": "[Sign_6]메테오 스웜[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -283,14 +283,14 @@
         {
             "offset": 1694096,
             "string": "敵を持ち上げる、無属性晶術。[LINE]\n無属性→敵の属性耐性に影響されない属性[END]",
-            "translation": "적을 들어올리는, 무속성 정술.[LINE]\n무속성→적의 속성 저항에 영향을 받지 않는 속성[END]",
+            "translation": "적을 들어올리는, 무속성 정술.[LINE]\n무속성→적의 속성 저항에 영향을 받지 않음[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71
         },
         {
             "offset": 1694168,
             "string": "[Sign_6]トラクタービーム[END]",
-            "translation": "[Sign_6]트랙터빔[END]",
+            "translation": "[Sign_6]트랙터 빔[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -318,7 +318,7 @@
         {
             "offset": 1694312,
             "string": "[Sign_6]デモンズランス[END]",
-            "translation": "[Sign_6]데몬즈랜스[END]",
+            "translation": "[Sign_6]데몬즈 랜스[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -339,7 +339,7 @@
         {
             "offset": 1694416,
             "string": "怒れる神の雷で敵を裁く晶術。[LINE]\n[END]",
-            "translation": "화난 신의 번개로 적을 심판하는 정술.[LINE]\n[END]",
+            "translation": "분노한 신의 번개로 적을 심판하는 정술.[LINE]\n[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31
         },
@@ -360,7 +360,7 @@
         {
             "offset": 1694528,
             "string": "[Sign_6]ホーリーランス[END]",
-            "translation": "[Sign_6]홀리랜스[END]",
+            "translation": "[Sign_6]홀리 랜스[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -416,7 +416,7 @@
         {
             "offset": 1694832,
             "string": "[Sign_6]グランドダッシャー[END]",
-            "translation": "[Sign_6]그랜드대셔[END]",
+            "translation": "[Sign_6]그랜드 대셔[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -430,7 +430,7 @@
         {
             "offset": 1694896,
             "string": "[Sign_6]エアプレッシャー[END]",
-            "translation": "[Sign_6]에어프레셔[END]",
+            "translation": "[Sign_6]에어 프레셔[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -444,7 +444,7 @@
         {
             "offset": 1695000,
             "string": "[Sign_6]ストーンウォール[END]",
-            "translation": "[Sign_6]스톤월[END]",
+            "translation": "[Sign_6]스톤 월[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -465,14 +465,14 @@
         {
             "offset": 1695096,
             "string": "石つぶてを連続して撃ち込む晶術。[LINE]\n使用すると術攻撃力が上昇する。[END]",
-            "translation": "돌멩이를 연속하여 날리는 정술.[LINE]\n사용하면 주술 공격력이 상승한다.[END]",
+            "translation": "돌멩이를 연속하여 날리는 정술.[LINE]\n사용하면 정술 공격력이 상승한다.[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64
         },
         {
             "offset": 1695160,
             "string": "[Sign_6]ストーンブラスト[END]",
-            "translation": "[Sign_6]스톤블래스트[END]",
+            "translation": "[Sign_6]스톤 블래스트[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -486,7 +486,7 @@
         {
             "offset": 1695240,
             "string": "[Sign_6]ゴッドブレス[END]",
-            "translation": "[Sign_6]갓브레스[END]",
+            "translation": "[Sign_6]갓 브레스[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -514,7 +514,7 @@
         {
             "offset": 1695400,
             "string": "[Sign_6]エアスラスト[END]",
-            "translation": "[Sign_6]에어스라스트[END]",
+            "translation": "[Sign_6]에어 스라스트[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -528,21 +528,21 @@
         {
             "offset": 1695504,
             "string": "[Sign_6]ウォールウインド[END]",
-            "translation": "[Sign_6]월윈드[END]",
+            "translation": "[Sign_6]월 윈드[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
         {
             "offset": 1695528,
             "string": "対象を狙う風の刃を、数度繰り出す晶術。[LINE]\n[END]",
-            "translation": "대상을 겨냥하는 바람의 칼날을, 수도 반복하는 정술.[LINE]\n[END]",
+            "translation": "대상을 겨냥하는 바람의 칼날을, 여러번 날리는 정술.[LINE]\n[END]",
             "original_bytes_length": 40,
             "available_bytes_size": 40
         },
         {
             "offset": 1695568,
             "string": "[Sign_6]ストリームアロー[END]",
-            "translation": "[Sign_6]스트림애로우[END]",
+            "translation": "[Sign_6]스트림 애로우[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -570,7 +570,7 @@
         {
             "offset": 1695712,
             "string": "[Sign_6]ウインドアロー[END]",
-            "translation": "[Sign_6]윈드애로우[END]",
+            "translation": "[Sign_6]윈드 애로우[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -598,7 +598,7 @@
         {
             "offset": 1695872,
             "string": "[Sign_6]メイルシュトローム[END]",
-            "translation": "[Sign_6]메일스트롬[END]",
+            "translation": "[Sign_6]메일 스트롬[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -640,7 +640,7 @@
         {
             "offset": 1696088,
             "string": "[Sign_6]アイスウォール[END]",
-            "translation": "[Sign_6]아이스월[END]",
+            "translation": "[Sign_6]아이스 월[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -675,7 +675,7 @@
         {
             "offset": 1696256,
             "string": "晶力を極限まで圧縮し、地面に着弾させて[LINE]\n爆発を起こす晶術。[END]",
-            "translation": "정력을 극한까지 압축해, 지면에 착륙시켜[LINE]\n폭발을 일으키는 정술.[END]",
+            "translation": "정술력을 극한까지 모아, 지면에 착륙시켜[LINE]\n폭발을 일으키는 정술.[END]",
             "original_bytes_length": 58,
             "available_bytes_size": 63
         },
@@ -696,7 +696,7 @@
         {
             "offset": 1696384,
             "string": "[Sign_6]フレアトルネード[END]",
-            "translation": "[Sign_6]플레어토네이도[END]",
+            "translation": "[Sign_6]플레어 토네이도[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -710,7 +710,7 @@
         {
             "offset": 1696472,
             "string": "[Sign_6]フィアフルフレア[END]",
-            "translation": "[Sign_6]피어풀플레어[END]",
+            "translation": "[Sign_6]피어풀 플레어[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -724,7 +724,7 @@
         {
             "offset": 1696544,
             "string": "[Sign_6]ファイアストーム[END]",
-            "translation": "[Sign_6]파이어스톰[END]",
+            "translation": "[Sign_6]파이어 스톰[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -738,7 +738,7 @@
         {
             "offset": 1696632,
             "string": "[Sign_6]ファイアウォール[END]",
-            "translation": "[Sign_6]파이어월[END]",
+            "translation": "[Sign_6]파이어 월[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -766,7 +766,7 @@
         {
             "offset": 1696768,
             "string": "[Sign_6]ファイアボール[END]",
-            "translation": "[Sign_6]파이어볼[END]",
+            "translation": "[Sign_6]파이어 볼[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -794,7 +794,7 @@
         {
             "offset": 1696912,
             "string": "[Sign_4]キックラック[END]",
-            "translation": "[Sign_4]킥락[END]",
+            "translation": "[Sign_4]킥 락[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -808,7 +808,7 @@
         {
             "offset": 1697016,
             "string": "[Sign_4]フラッシュバック[END]",
-            "translation": "[Sign_4]플래시백[END]",
+            "translation": "[Sign_4]플래시 백[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -822,7 +822,7 @@
         {
             "offset": 1697096,
             "string": "[Sign_4]ターンオーバー[END]",
-            "translation": "[Sign_4]턴오버[END]",
+            "translation": "[Sign_4]턴 오버[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -836,7 +836,7 @@
         {
             "offset": 1697192,
             "string": "[Sign_5]ステイクフレア[END]",
-            "translation": "[Sign_5]스테이크플레어[END]",
+            "translation": "[Sign_5]스테이크 플레어[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -871,7 +871,7 @@
         {
             "offset": 1697384,
             "string": "[Sign_5]アクアスマイト[END]",
-            "translation": "[Sign_5]아쿠아스마이트[END]",
+            "translation": "[Sign_5]아쿠아 스마이트[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -920,7 +920,7 @@
         {
             "offset": 1697656,
             "string": "[Sign_4]リリスラッシュ[END]",
-            "translation": "[Sign_4]리리스러쉬[END]",
+            "translation": "[Sign_4]리리스 러쉬[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -948,7 +948,7 @@
         {
             "offset": 1697872,
             "string": "[Sign_4]ハートブレイク[END]",
-            "translation": "[Sign_4]하트브레이크[END]",
+            "translation": "[Sign_4]하트 브레이크[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -962,7 +962,7 @@
         {
             "offset": 1697976,
             "string": "[Sign_5]クラッシュアース[END]",
-            "translation": "[Sign_5]크래시어스[END]",
+            "translation": "[Sign_5]크래시 어스[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -990,7 +990,7 @@
         {
             "offset": 1698160,
             "string": "[Sign_4]メタルボディ[END]",
-            "translation": "[Sign_4]메탈보디[END]",
+            "translation": "[Sign_4]메탈 보디[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -1004,7 +1004,7 @@
         {
             "offset": 1698248,
             "string": "[Sign_5]マッスルヒート[END]",
-            "translation": "[Sign_5]머슬히트[END]",
+            "translation": "[Sign_5]머슬 히트[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1032,21 +1032,21 @@
         {
             "offset": 1698456,
             "string": "[Sign_5]ヘビィボンバー[END]",
-            "translation": "[Sign_5]헤비봄버[END]",
+            "translation": "[Sign_5]헤비 봄버[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
         {
             "offset": 1698480,
             "string": "イカスヒップによる降下爆撃。[LINE]\nより上空で出すほどイカス具合がアップ！[END]",
-            "translation": "이카스힙에 의한 하강 폭격.[LINE]\n더 상공에서 날리면 이카스함이 업![END]",
+            "translation": "이카스 힙에 의한 하강 폭격.[LINE]\n더 상공에서 날리면 이카스함이 업![END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71
         },
         {
             "offset": 1698552,
             "string": "[Sign_4]イカスヒップ[END]",
-            "translation": "[Sign_4]이카스힙[END]",
+            "translation": "[Sign_4]이카스 힙[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -1060,7 +1060,7 @@
         {
             "offset": 1698648,
             "string": "[Sign_4]ヘルズハリケーン[END]",
-            "translation": "[Sign_4]헬즈하리케인[END]",
+            "translation": "[Sign_4]헬즈 허리케인[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1088,7 +1088,7 @@
         {
             "offset": 1698856,
             "string": "[Sign_4]ロンブショルダー[END]",
-            "translation": "[Sign_4]롬부숄더[END]",
+            "translation": "[Sign_4]롬부 숄더[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -1102,35 +1102,35 @@
         {
             "offset": 1698968,
             "string": "[Sign_5]ボルトスラスト[END]",
-            "translation": "[Sign_5]볼트슬러스트[END]",
+            "translation": "[Sign_5]볼트 슬러스트[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
         {
             "offset": 1698992,
             "string": "音波障壁の中で音符を躍らせる特技。[LINE]\n術攻撃力低下の追加効果を持つ。[END]",
-            "translation": "음파장벽 안에서 음표를 춤추게 하는 특기.[LINE]\n술공격력 감소 추가 효과를 가진다.[END]",
+            "translation": "음파장벽 안에서 음표를 춤추게 하는 특기.[LINE]\n정술 공격력 감소 추가 효과를 가진다.[END]",
             "original_bytes_length": 66,
             "available_bytes_size": 71
         },
         {
             "offset": 1699064,
             "string": "[Sign_5]リフレクトレイジ[END]",
-            "translation": "[Sign_5]리플렉트레이지[END]",
+            "translation": "[Sign_5]리플렉트 레이지[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
         {
             "offset": 1699088,
             "string": "多段攻撃判定のある音符を設置する特技。[LINE]\n術攻撃力低下の追加効果を持つ。[END]",
-            "translation": "다단 공격 판정이 있는 음표를 설치하는 특기.[LINE]\n술공격력 감소 추가 효과를 가진다.[END]",
+            "translation": "다단 공격 판정이 있는 음표를 설치하는 특기.[LINE]\n정술 공격력 감소 추가 효과를 가진다.[END]",
             "original_bytes_length": 70,
             "available_bytes_size": 71
         },
         {
             "offset": 1699160,
             "string": "[Sign_5]リバーブソウル[END]",
-            "translation": "[Sign_5]리버브소울[END]",
+            "translation": "[Sign_5]리버브 소울[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1158,7 +1158,7 @@
         {
             "offset": 1699328,
             "string": "[Sign_5]ビートヘヴン[END]",
-            "translation": "[Sign_5]비트헤븐[END]",
+            "translation": "[Sign_5]비트 헤븐[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -1172,7 +1172,7 @@
         {
             "offset": 1699432,
             "string": "[Sign_5]ソニックレイブ[END]",
-            "translation": "[Sign_5]소닉레이브[END]",
+            "translation": "[Sign_5]소닉 레이브[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1186,7 +1186,7 @@
         {
             "offset": 1699504,
             "string": "[Sign_5]ミラクルボイス[END]",
-            "translation": "[Sign_5]미라클보이스[END]",
+            "translation": "[Sign_5]미라클 보이스[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1249,14 +1249,14 @@
         {
             "offset": 1699808,
             "string": "味方の術攻撃力を高めるサンバ。[LINE]\n支援歌技は連携することで効果が上昇。[END]",
-            "translation": "아군의 술공격력을 높이는 삼바.[LINE]\n지원노래는 연계하면 효과가 상승.[END]",
+            "translation": "아군의 정술 공격력을 높이는 삼바.[LINE]\n지원노래는 연계하면 효과가 상승.[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71
         },
         {
             "offset": 1699880,
             "string": "[Sign_5]ごーごーサンバ[END]",
-            "translation": "[Sign_5]고고삼바[END]",
+            "translation": "[Sign_5]고고 삼바[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1270,7 +1270,7 @@
         {
             "offset": 1699968,
             "string": "[Sign_5]あたるシンフォニー[END]",
-            "translation": "[Sign_5]명중하는심포니[END]",
+            "translation": "[Sign_5]명중하는 심포니[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24
         },
@@ -2077,7 +2077,7 @@
             "string": "味方全体を短時間敵の攻撃から護る術技。[LINE]\n術防御力も同時に上昇させる。[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71,
-            "translation": "아군 전체를 짧은 시간 동안 적의 공격으로부터 보호하는 기술.[LINE]\n술 방어력도 동시에 상승시킨다.[END]"
+            "translation": "아군 전체를 짧은 시간 동안 적의 공격으로부터 보호하는 기술.[LINE]\n정술 방어력도 동시에 상승시킨다.[END]"
         },
         {
             "offset": 1703720,
@@ -2124,21 +2124,21 @@
         {
             "offset": 1703992,
             "string": "[Sign_5]フィリアボム[END]",
-            "translation": "[Sign_5]피리아봄[END]",
+            "translation": "[Sign_5]피리아 봄[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
         {
             "offset": 1704016,
             "string": "術者の術攻撃力を一定時間上昇[LINE]\nさせる特技。[END]",
-            "translation": "술사의 술공격력을 일정 시간 상승[LINE]\n시키는 특기.[END]",
+            "translation": "술사의 정술 공격력을 일정 시간 상승[LINE]\n시키는 특기.[END]",
             "original_bytes_length": 42,
             "available_bytes_size": 47
         },
         {
             "offset": 1704064,
             "string": "[Sign_4]インスペクトアイ[END]",
-            "translation": "[Sign_4]인스펙트아이[END]",
+            "translation": "[Sign_4]인스펙트 아이[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -2460,7 +2460,7 @@
         {
             "offset": 1705480,
             "string": "[Sign_4]ローバーアイテム[END]",
-            "translation": "[Sign_4]로버아이템[END]",
+            "translation": "[Sign_4]로버 아이템[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -2481,7 +2481,7 @@
         {
             "offset": 1705576,
             "string": "落ちているガルドをゲットする特技。[LINE]\n回復晶術の回復率にも影響？[END]",
-            "translation": "떨어진 가르도를 획득하는 특기.[LINE]\n회복정술의 회복률에도 영향?[END]",
+            "translation": "떨어진 가르도를 획득하는 특기.[LINE]\n회복 정술의 회복률에도 영향?[END]",
             "original_bytes_length": 62,
             "available_bytes_size": 63
         },
@@ -2516,21 +2516,21 @@
         {
             "offset": 1705776,
             "string": "[Sign_5]ヴォルカニックレイジ[END]",
-            "translation": "[Sign_5]볼카닉레이지[END]",
+            "translation": "[Sign_5]볼카닉 레이지[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
         {
             "offset": 1705808,
             "string": "[Sign_5]レイジングフレア[END]",
-            "translation": "[Sign_5]레이징플레어[END]",
+            "translation": "[Sign_5]레이징 플레어[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
         {
             "offset": 1705832,
             "string": "[Sign_5]ブレイズビースト[END]",
-            "translation": "[Sign_5]블레이즈비스트[END]",
+            "translation": "[Sign_5]블레이즈 비스트[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -2565,7 +2565,7 @@
         {
             "offset": 1705976,
             "string": "[Sign_5]フレイムシュート[END]",
-            "translation": "[Sign_5]플레임슛[END]",
+            "translation": "[Sign_5]플레임 슛[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },

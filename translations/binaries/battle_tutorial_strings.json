@@ -1139,7 +1139,7 @@
             "string": "音[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "소리[END]"
+            "translation": "음파[END]"
         },
         {
             "offset": 247192,
@@ -1160,7 +1160,7 @@
             "string": "斬[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "베기[END]"
+            "translation": "참격[END]"
         },
         {
             "offset": 247216,
@@ -2170,14 +2170,14 @@
             "string": "[yellow]術攻撃力：[/color][Sign_5]・[Sign_6]マークの術技に影響[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "[yellow]술 공격력：[/color][Sign_5]・[Sign_6]마크의 술기에 영향[END]"
+            "translation": "[yellow]정술 공격력：[/color][Sign_5]・[Sign_6]마크의 술기에 영향[END]"
         },
         {
             "offset": 254408,
             "string": "[yellow]術防御力：[/color]術攻撃力によるダメージの軽減[END]",
             "original_bytes_length": 49,
             "available_bytes_size": 55,
-            "translation": "[yellow]술 방어력：[/color]술 공격력에 의한 데미지의 경감[END]"
+            "translation": "[yellow]정술 방어력：[/color]정술 공격력에 의한 데미지의 경감[END]"
         },
         {
             "offset": 254360,
@@ -2576,7 +2576,7 @@
             "string": "でも、[yellow]術攻撃[/color]だけはかんべんな！[END]",
             "original_bytes_length": 41,
             "available_bytes_size": 47,
-            "translation": "하지만, [yellow]술 공격[/color]만은 참아줘![END]"
+            "translation": "하지만, [yellow]정술 공격[/color]만은 참아줘![END]"
         },
         {
             "offset": 251976,

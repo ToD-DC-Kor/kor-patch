@@ -416,7 +416,7 @@
         {
             "offset": 1770552,
             "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\n術防御力を一定時間上昇する宝石。[LINE]\n[END]",
-            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n술 방어력이 일정 시간 상승하는 보석.[LINE]\n[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n정술 방어력이 일정 시간 상승하는 보석.[LINE]\n[END]",
             "original_bytes_length": 57,
             "available_bytes_size": 63
         },
@@ -444,7 +444,7 @@
         {
             "offset": 1770704,
             "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\n術攻撃力を一定時間上昇する宝石。[LINE]\n[END]",
-            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n술 공격력이 일정 시간 상승하는 보석.[LINE]\n[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n정술 공격력이 일정 시간 상승하는 보석.[LINE]\n[END]",
             "original_bytes_length": 57,
             "available_bytes_size": 63
         },

@@ -677,7 +677,7 @@
             "string": "一定時間でフードが回復する[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "일정 시간에 후드가 회복된다[END]"
+            "translation": "일정 시간이 지나면 음식이 회복된다[END]"
         },
         {
             "offset": 1711064,
@@ -719,7 +719,7 @@
             "string": "回復晶術使用時に、術者もHP回復[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "회복 결정술 사용 시, 시전자도 HP 회복[END]"
+            "translation": "회복 정술 사용 시, 시전자도 HP 회복[END]"
         },
         {
             "offset": 1711184,
@@ -768,7 +768,7 @@
             "string": "術防御力低下攻撃[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "술 방어력 저하 공격[END]"
+            "translation": "정술 방어력 저하 공격[END]"
         },
         {
             "offset": 1711304,
@@ -782,7 +782,7 @@
             "string": "術攻撃力低下攻撃[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "술 공격력 저하 공격[END]"
+            "translation": "정술 공격력 저하 공격[END]"
         },
         {
             "offset": 1711344,
@@ -824,7 +824,7 @@
             "string": "闇属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "어둠 속성 결정술의 주문 시간 단축[END]"
+            "translation": "어둠 속성 정술의 영창 시간 단축[END]"
         },
         {
             "offset": 1711456,
@@ -838,7 +838,7 @@
             "string": "光属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "빛 속성 결정술의 주문 시간 단축[END]"
+            "translation": "빛 속성 정술의 영창 시간 단축[END]"
         },
         {
             "offset": 1711504,
@@ -852,7 +852,7 @@
             "string": "水属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "물 속성 결정술의 주문 시간 단축[END]"
+            "translation": "물 속성 정술의 영창 시간 단축[END]"
         },
         {
             "offset": 1711552,
@@ -866,7 +866,7 @@
             "string": "火属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "불 속성 결정술의 주문 시간 단축[END]"
+            "translation": "불 속성 정술의 영창 시간 단축[END]"
         },
         {
             "offset": 1711600,
@@ -880,7 +880,7 @@
             "string": "風属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "바람 속성 결정술의 주문 시간 단축[END]"
+            "translation": "바람 속성 정술의 영창 시간 단축[END]"
         },
         {
             "offset": 1711648,
@@ -901,49 +901,49 @@
             "string": "地属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "땅 속성 결정술의 주문 시간 단축[END]"
+            "translation": "땅 속성 정술의 영창 시간 단축[END]"
         },
         {
             "offset": 1711712,
             "string": "闇属性晶術のダメージアップ[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "어둠 속성 결정술의 데미지 증가[END]"
+            "translation": "어둠 속성 정술의 데미지 증가[END]"
         },
         {
             "offset": 1711744,
             "string": "光属性晶術のダメージアップ[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "빛 속성 결정술의 데미지 증가[END]"
+            "translation": "빛 속성 정술의 데미지 증가[END]"
         },
         {
             "offset": 1711776,
             "string": "水属性晶術のダメージアップ[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "물 속성 결정술의 데미지 증가[END]"
+            "translation": "물 속성 정술의 데미지 증가[END]"
         },
         {
             "offset": 1711808,
             "string": "火属性晶術のダメージアップ[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "불 속성 결정술의 데미지 증가[END]"
+            "translation": "불 속성 정술의 데미지 증가[END]"
         },
         {
             "offset": 1711840,
             "string": "風属性晶術のダメージアップ[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "바람 속성 결정술의 데미지 증가[END]"
+            "translation": "바람 속성 정술의 데미지 증가[END]"
         },
         {
             "offset": 1711872,
             "string": "地属性晶術のダメージアップ[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "땅 속성 결정술의 데미지 증가[END]"
+            "translation": "땅 속성 정술의 데미지 증가[END]"
         },
         {
             "offset": 1711904,
@@ -999,7 +999,7 @@
             "string": "敵の術攻撃による硬化時間を縮める[END]",
             "original_bytes_length": 33,
             "available_bytes_size": 39,
-            "translation": "적의 술 공격으로 인한 경직 시간을 줄인다[END]"
+            "translation": "적의 정술 공격으로 인한 경직 시간을 줄인다[END]"
         },
         {
             "offset": 1712056,
@@ -1027,7 +1027,7 @@
             "string": "晶術による敵硬化時間を延ばす[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "결정술로 적의 경직 시간을 늘린다[END]"
+            "translation": "정술로 적의 경직 시간을 늘린다[END]"
         },
         {
             "offset": 1712152,
@@ -1251,7 +1251,7 @@
             "string": "瀕死時に時々HPが[TAG_015]％回復[END]",
             "original_bytes_length": 28,
             "available_bytes_size": 31,
-            "translation": "핍사 상태에서 가끔 HP가 [TAG_015]％ 회복된다[END]"
+            "translation": "빈사 상태에서 가끔 HP가 [TAG_015]％ 회복된다[END]"
         },
         {
             "offset": 1712856,
@@ -1391,7 +1391,7 @@
             "string": "チャージ：術防御力上昇[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "차지: 주술 방어력 상승[END]"
+            "translation": "차지: 정술 방어력 상승[END]"
         },
         {
             "offset": 1713320,
@@ -1419,7 +1419,7 @@
             "string": "チャージ：術攻撃力上昇[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "차지: 주술 공격력 상승[END]"
+            "translation": "차지: 정술 공격력 상승[END]"
         },
         {
             "offset": 1713392,
@@ -1515,70 +1515,70 @@
         {
             "offset": 1713632,
             "string": "音波軽減[END]",
-            "translation": "음파 경감[END]",
+            "translation": "음파 속성 경감[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713648,
             "string": "射撃軽減[END]",
-            "translation": "사격 경감[END]",
+            "translation": "사격 속성 경감[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713664,
             "string": "打撃軽減[END]",
-            "translation": "타격 경감[END]",
+            "translation": "타격 속성 경감[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713680,
             "string": "斬撃軽減[END]",
-            "translation": "참격 경감[END]",
+            "translation": "참격 속성 경감[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713696,
             "string": "封印防止[END]",
-            "translation": "봉인방지[END]",
+            "translation": "봉인 방지[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713712,
             "string": "マヒ防止[END]",
-            "translation": "마비방지[END]",
+            "translation": "마비 방지[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713728,
             "string": "睡眠防止[END]",
-            "translation": "수면방지[END]",
+            "translation": "수면 방지[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713744,
             "string": "熱毒防止[END]",
-            "translation": "열독방지[END]",
+            "translation": "열독 방지[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713760,
             "string": "衰弱防止[END]",
-            "translation": "쇠약방지[END]",
+            "translation": "쇠약 방지[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
         {
             "offset": 1713776,
             "string": "石化防止[END]",
-            "translation": "석화방지[END]",
+            "translation": "석화 방지[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15
         },
@@ -1748,7 +1748,7 @@
             "string": "術防御力＋[TAG_015][END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "주술 방어력＋[TAG_015][END]"
+            "translation": "정술 방어력＋[TAG_015][END]"
         },
         {
             "offset": 1714160,
@@ -1776,7 +1776,7 @@
             "string": "術攻撃力＋[TAG_015][END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "주술 공격력＋[TAG_015][END]"
+            "translation": "정술 공격력＋[TAG_015][END]"
         },
         {
             "offset": 1714224,

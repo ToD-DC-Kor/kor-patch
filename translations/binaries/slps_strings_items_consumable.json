@@ -339,7 +339,7 @@
         {
             "offset": 1756816,
             "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\n術防御力を一定時間上昇する宝石に[LINE]\n変化する。[END]",
-            "translation": "리라이즈하면 전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n술 방어력이 일정 시간 상승하는[LINE]\n보석으로 변화한다.[END]",
+            "translation": "리라이즈하면 전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n정술 방어력이 일정 시간 상승하는[LINE]\n보석으로 변화한다.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -367,7 +367,7 @@
         {
             "offset": 1757040,
             "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\n術攻撃力を一定時間上昇する宝石に[LINE]\n変化する。[END]",
-            "translation": "리라이즈하면 전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n술 공격력이 일정 시간 상승하는[LINE]\n보석으로 변화한다.[END]",
+            "translation": "리라이즈하면 전투 중 [Square_ani2]＋[Down_blink]입력으로[LINE]\n정술 공격력이 일정 시간 상승하는[LINE]\n보석으로 변화한다.[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87
         },
@@ -1235,7 +1235,7 @@
         {
             "offset": 1763200,
             "string": "花の匂いで小動物を誘い捕食する。[LINE]\n「調合」の[LINE]\nサポートタレントアイテム。[END]",
-            "translation": "꽃 향기로 작은 동물을[LINE]\n유인하여 포식한다.\n「조합」의 서포트 탤런트 아이템.[END]",
+            "translation": "꽃 향기로 작은 동물을 유인하여 포식한다.[LINE]\n「조합」의 서포트 탤런트 아이템.[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71
         },
@@ -1571,7 +1571,7 @@
         {
             "offset": 1765384,
             "string": "術防御力が３上昇する薬草。[LINE]\n[LINE]\n[END]",
-            "translation": "술 방어력이 3 상승하는 약초.[LINE]\n[LINE]\n[END]",
+            "translation": "정술 방어력이 3 상승하는 약초.[LINE]\n[LINE]\n[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31
         },
@@ -1585,7 +1585,7 @@
         {
             "offset": 1765440,
             "string": "術攻撃力が３上昇する薬草。[LINE]\n[LINE]\n[END]",
-            "translation": "술 공격력이 3 상승하는 약초.[LINE]\n[LINE]\n[END]",
+            "translation": "정술 공격력이 3 상승하는 약초.[LINE]\n[LINE]\n[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31
         },
@@ -1685,7 +1685,7 @@
             "string": "術防御力が２上昇する薬草。[LINE]\n[LINE]\n[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "술 방어력이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
+            "translation": "정술 방어력이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
         },
         {
             "offset": 1765864,
@@ -1699,7 +1699,7 @@
             "string": "術攻撃力が２上昇する薬草。[LINE]\n[LINE]\n[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "술 공격력이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
+            "translation": "정술 공격력이 2 상승하는 약초입니다.[LINE]\n[LINE]\n[END]"
         },
         {
             "offset": 1765920,
@@ -1797,7 +1797,7 @@
             "string": "術防御力が１上昇する薬草。[LINE]\nサフランライスが有名。[LINE]\n[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "술 방어력이 1 상승하는 약초입니다.[LINE]\n샤프란 라이스가 유명합니다.[LINE]\n[END]"
+            "translation": "정술 방어력이 1 상승하는 약초입니다.[LINE]\n샤프란 라이스가 유명합니다.[LINE]\n[END]"
         },
         {
             "offset": 1766416,
@@ -1811,7 +1811,7 @@
             "string": "術攻撃力が１上昇する薬草。[LINE]\n若返りのハーブと言われる。[LINE]\n[END]",
             "original_bytes_length": 55,
             "available_bytes_size": 55,
-            "translation": "술 공격력이 1 상승하는 약초입니다.[LINE]\n젊어지게 하는 허브라고 알려져 있습니다.[LINE]\n[END]"
+            "translation": "정술 공격력이 1 상승하는 약초입니다.[LINE]\n젊어지게 하는 허브라고 알려져 있습니다.[LINE]\n[END]"
         },
         {
             "offset": 1766488,

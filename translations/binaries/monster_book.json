@@ -138,7 +138,7 @@
             "string": "悪意に満ちた刀身を持つ魔法剣。[LINE]\n全ての攻撃に「術攻撃力」を下げる[LINE]\n効果を持つ。[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "악의에 찬 칼날을 가진 마법검. [LINE]\n모든 공격에 '술 공격력'을 낮추는 [LINE]\n효과를 가진다. [END]"
+            "translation": "악의에 찬 칼날을 가진 마법검. [LINE]\n모든 공격에 '정술 공격력'을 낮추는 [LINE]\n효과를 가진다. [END]"
         },
         {
             "offset": 20200,
@@ -523,7 +523,7 @@
             "string": "大きな角を持つドラゴンの一種。[LINE]\n強力なファイアブレスとファイアボールを[LINE]\n吐く。ガード後の反撃に注意。[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "큰 뿔을 가진 드래곤의 일종. [LINE]\n강력한 파이어 브레스와 파이어볼을 [LINE]\n뱉는다. 가드 후의 반격에 주의. [END]"
+            "translation": "큰 뿔을 가진 드래곤의 일종. [LINE]\n강력한 파이어 브레스와 파이어 볼을 [LINE]\n뱉는다. 가드 후의 반격에 주의. [END]"
         },
         {
             "offset": 25224,
@@ -614,7 +614,7 @@
             "string": "火属性晶術を操る事に特化された生体兵器。[LINE]\n時間経過と共に、晶術の威力がアップする。[LINE]\n火属性耐性必須！[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "불 속성 결정술을 다루는 데 특화된 생체 무기. [LINE]\n시간이 지날수록, 결정술의 위력이 업그레이드된다. [LINE]\n불 속성 내성 필수! [END]"
+            "translation": "불 속성 결정술을 다루는 데 특화된 생체 무기. [LINE]\n시간이 지날수록, 정술의 위력이 업그레이드된다. [LINE]\n불 속성 내성 필수! [END]"
         },
         {
             "offset": 26536,
@@ -964,7 +964,7 @@
             "string": "強靭な体を持つドラゴンの末裔。[LINE]\nファイアブレスとファイアボールを[LINE]\n使い分ける事ができる。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "강건한 몸을 가진 드래곤의 후예. [LINE]\n파이어브레스와 파이어볼을 [LINE]\n사용할 수 있다. [END]"
+            "translation": "강건한 몸을 가진 드래곤의 후예. [LINE]\n파이어브레스와 파이어 볼을 [LINE]\n사용할 수 있다. [END]"
         },
         {
             "offset": 31392,
@@ -1048,7 +1048,7 @@
             "string": "砂漠に生息するハゲワシの一種。[LINE]\n道に迷った旅人を、得意のファイアボール[LINE]\nで焼いて食べる。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "사막에 서식하는 매의 일종. [LINE]\n길을 잃은 여행자를, 특기의 파이어볼 [LINE]\n으로 구워 먹는다. [END]"
+            "translation": "사막에 서식하는 매의 일종. [LINE]\n길을 잃은 여행자를, 특기의 파이어 볼 [LINE]\n으로 구워 먹는다. [END]"
         },
         {
             "offset": 32512,
@@ -1195,7 +1195,7 @@
             "string": "強力なファイアブレスとファイアボールを[LINE]\n吐くドラゴンの子供。[LINE]\n火属性耐性必須！[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "강력한 파이어브레스와 파이어볼을 [LINE]\n뿜는 드래곤의 아이. [LINE]\n불 속성 저항 필수! [END]"
+            "translation": "강력한 파이어브레스와 파이어 볼을 [LINE]\n뿜는 드래곤의 아이. [LINE]\n불 속성 저항 필수! [END]"
         },
         {
             "offset": 34592,
@@ -1678,7 +1678,7 @@
             "string": "闘技場で遊んでる兄様にご立腹の様子。[LINE]\nへんなフェイントにも気をつけたほうが[LINE]\nいいが、「ターンオーバー」は相当危険。[END]",
             "original_bytes_length": 113,
             "available_bytes_size": 119,
-            "translation": "투기장에서 놀고 있는 형님에게 화난 모습. [LINE]\n이상한 페인트에도 조심하는 편이 [LINE]\n좋지만, 「턴오버」는 상당히 위험하다. [END]"
+            "translation": "투기장에서 놀고 있는 형님에게 화난 모습. [LINE]\n이상한 페인트에도 조심하는 편이 [LINE]\n좋지만, 「턴 오버」는 상당히 위험하다. [END]"
         },
         {
             "offset": 41896,

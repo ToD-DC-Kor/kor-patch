@@ -187,7 +187,7 @@
             "string": "[Sign_7]ソニックストリーム[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "[Sign_7]소닉스트림[END]"
+            "translation": "[Sign_7]소닉 스트림[END]"
         },
         {
             "offset": 1689456,
@@ -299,7 +299,7 @@
             "string": "[Sign_7]サンダーソード[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]썬더소드[END]"
+            "translation": "[Sign_7]썬더 소드[END]"
         },
         {
             "offset": 1690072,
@@ -348,7 +348,7 @@
             "string": "[Sign_7]ワイルドギース[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]와일드기스[END]"
+            "translation": "[Sign_7]와일드 기스[END]"
         },
         {
             "offset": 1690408,
@@ -460,14 +460,14 @@
             "string": "[turquoise]＜ブラスト３消費・連携中[L1_copy][turquoise]押し続け＞[/color][LINE]\n「再誕」を冠する最大の攻撃晶術。[END]",
             "original_bytes_length": 88,
             "available_bytes_size": 88,
-            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n「재탄생」을 의미하는 최대의 공격정술.[END]"
+            "translation": "[turquoise]＜블라스트 3 소비・연계 중[L1_copy][turquoise]계속 누르기＞[/color][LINE]\n「재탄생」을 의미하는 최대의 공격 정술.[END]"
         },
         {
             "offset": 1691144,
             "string": "[Sign_7]リバースクルセイダー[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Sign_7]리버스크루세이더[END]"
+            "translation": "[Sign_7]리버스 크루세이더[END]"
         },
         {
             "offset": 1691176,
@@ -481,7 +481,7 @@
             "string": "[Sign_7]ディバインパウア[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]디바인파워[END]"
+            "translation": "[Sign_7]디바인 파워[END]"
         },
         {
             "offset": 1691288,
@@ -523,7 +523,7 @@
             "string": "[Sign_7]ライフディスチャージ[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Sign_7]라이프 디스차지[END]"
+            "translation": "[Sign_7]라이프디스 차지[END]"
         },
         {
             "offset": 1691632,
@@ -537,7 +537,7 @@
             "string": "[Sign_7]トリックスター[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_7]트릭스타[END]"
+            "translation": "[Sign_7]트릭 스타[END]"
         },
         {
             "offset": 1691744,
@@ -656,14 +656,14 @@
             "string": "魔神の槍を召喚すると共に、禁呪の力を[LINE]\n我が物とする闇系晶術。[END]",
             "original_bytes_length": 60,
             "available_bytes_size": 63,
-            "translation": "마신의 창을 소환함과 동시에, 금주(禁呪)의 힘을[LINE]\n내 것으로 하는 어둠 계열의 결정술.[END]"
+            "translation": "마신의 창을 소환함과 동시에, 금주(禁呪)의 힘을[LINE]\n내 것으로 하는 어둠 계열의 정술.[END]"
         },
         {
             "offset": 1692352,
             "string": "[Sign_6]デモンズランス・ゼロ[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Sign_6]데몬즈랜스・제로[END]"
+            "translation": "[Sign_6]데몬즈 랜스・제로[END]"
         },
         {
             "offset": 1692384,
@@ -684,14 +684,14 @@
             "string": "３秒間、敵の動きを停止させる晶術。[LINE]\n短時間だし踊るヒマはありません。[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71,
-            "translation": "3초간, 적의 움직임을 정지시키는 결정술.[LINE]\n짧은 시간이라 춤출 여유는 없습니다.[END]"
+            "translation": "3초간, 적의 움직임을 정지시키는 정술.[LINE]\n짧은 시간이라 춤출 여유는 없습니다.[END]"
         },
         {
             "offset": 1692504,
             "string": "[Sign_6]ストップフロウ[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_6]스톱플로우[END]"
+            "translation": "[Sign_6]스톱 플로우[END]"
         },
         {
             "offset": 1692528,

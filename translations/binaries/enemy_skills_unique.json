@@ -45,7 +45,7 @@
     },
     "メイルシュトローム[END]": {
         "english": "Maelstrom[END]",
-        "translation": "메일스트롬[END]"
+        "translation": "메일 스트롬[END]"
     },
     "タイダルウェーブ[END]": {
         "english": "Tidal Wave[END]",
@@ -77,7 +77,7 @@
     },
     "フレアトルネード[END]": {
         "english": "Flare Tornado[END]",
-        "translation": "플레어토네이도[END]"
+        "translation": "플레어 토네이도[END]"
     },
     "インディグネイション[END]": {
         "english": "Indignation[END]",
@@ -145,7 +145,7 @@
     },
     "ボルトスラスト[END]": {
         "english": "Bolt Thrust[END]",
-        "translation": "볼트슬러스트[END]"
+        "translation": "볼트 슬러스트[END]"
     },
     "ドロップキーック[END]": {
         "english": "Drop Kick[END]",
@@ -169,11 +169,11 @@
     },
     "キックラック[END]": {
         "english": "Kick[END]",
-        "translation": "킥락[END]"
+        "translation": "킥 락[END]"
     },
     "フラッシュバック[END]": {
         "english": "Flash Back[END]",
-        "translation": "플래시백[END]"
+        "translation": "플래시 백[END]"
     },
     "３連携[END]": {
         "english": "3 Combo[END]",
@@ -193,7 +193,7 @@
     },
     "ステイクフレアコンボ[END]": {
         "english": "Stake Flare Combo[END]",
-        "translation": "스테이크플레어 콤보[END]"
+        "translation": "스테이크 플레어 콤보[END]"
     },
     "死者の目覚め[END]": {
         "english": "Wake the Dead[END]",
@@ -205,7 +205,7 @@
     },
     "エアスラスト[END]": {
         "english": "Air Thrust[END]",
-        "translation": "에어스라스트[END]"
+        "translation": "에어 스라스트[END]"
     },
     "サイクロン[END]": {
         "english": "Cyclone[END]",
@@ -381,15 +381,15 @@
     },
     "アイスウォール[END]": {
         "english": "Ice Wall[END]",
-        "translation": "아이스월[END]"
+        "translation": "아이스 월[END]"
     },
     "エアプレッシャー[END]": {
         "english": "Air Pressure[END]",
-        "translation": "에어프레셔[END]"
+        "translation": "에어 프레셔[END]"
     },
     "トラクタービーム[END]": {
         "english": "Tractor Beam[END]",
-        "translation": "트랙터빔[END]"
+        "translation": "트랙터 빔[END]"
     },
     "ギルティリゾルヴァー[END]": {
         "english": "Guilty Resolver[END]",
@@ -453,7 +453,7 @@
     },
     "ディープミスト[END]": {
         "english": "Deep Mist[END]",
-        "translation": "딥미스트[END]"
+        "translation": "딥 미스트[END]"
     },
     "バリアー[END]": {
         "english": "Barrier[END]",
@@ -513,7 +513,7 @@
     },
     "ホーリーランス[END]": {
         "english": "Holy Lance[END]",
-        "translation": "홀리랜스[END]"
+        "translation": "홀리 랜스[END]"
     },
     "エクステンション[END]": {
         "english": "Extension[END]",
@@ -525,7 +525,7 @@
     },
     "メテオスォーム[END]": {
         "english": "Meteor Swarm[END]",
-        "translation": "메테오스웜[END]"
+        "translation": "메테오 스웜[END]"
     },
     "噛み付き[END]": {
         "english": "Snapping Maw[END]",
@@ -793,7 +793,7 @@
     },
     "ファイアーボール[END]": {
         "english": "Fireball[END]",
-        "translation": "파이어볼[END]"
+        "translation": "파이어 볼[END]"
     },
     "衝撃波[END]": {
         "english": "Impact Wave[END]",
@@ -801,7 +801,7 @@
     },
     "ファイアボール[END]": {
         "english": "Fireball[END]",
-        "translation": "파이어볼[END]"
+        "translation": "파이어 볼[END]"
     },
     "ファイアブレス[END]": {
         "english": "Fire Breath[END]",
@@ -889,7 +889,7 @@
     },
     "ウィンドアロー[END]": {
         "english": "Wind Arrow[END]",
-        "translation": "윈드 애로드[END]"
+        "translation": "윈드 애로우[END]"
     },
     "オーラ[END]": {
         "english": "Aura[END]",
@@ -1297,7 +1297,7 @@
     },
     "ストーンブラスト[END]": {
         "english": "Stone Blast[END]",
-        "translation": "스톤블래스트[END]"
+        "translation": "스톤 블래스트[END]"
     },
     "爆撃[END]": {
         "english": "Blast Strike[END]",
@@ -1501,7 +1501,7 @@
     },
     "ストップフロウ[END]": {
         "english": "Stop Flow[END]",
-        "translation": "스톱플로우[END]"
+        "translation": "스톱 플로우[END]"
     },
     "踏みつけ[END]": {
         "english": "Trample[END]",
@@ -1637,11 +1637,11 @@
     },
     "ファイアウォール[END]": {
         "english": "Fire Wall[END]",
-        "translation": "파이어월[END]"
+        "translation": "파이어 월[END]"
     },
     "ファイアストーム[END]": {
         "english": "Fire Storm[END]",
-        "translation": "파이어스톰[END]"
+        "translation": "파이어 스톰[END]"
     },
     "エクスプロード[END]": {
         "english": "Explosion[END]",
@@ -1693,7 +1693,7 @@
     },
     "ストーンウォール[END]": {
         "english": "Stone Wall[END]",
-        "translation": "스톤월[END]"
+        "translation": "스톤 월[END]"
     },
     "三連斬[END]": {
         "english": "Triple Slash[END]",
@@ -1809,7 +1809,7 @@
     },
     "ストリームアロー[END]": {
         "english": "Arrow Stream[END]",
-        "translation": "스트림애로우[END]"
+        "translation": "스트림 애로우[END]"
     },
     "ストーム[END]": {
         "english": "Storm[END]",
@@ -1909,7 +1909,7 @@
     },
     "ウインドアロー[END]": {
         "english": "Wind Arrow[END]",
-        "translation": "윈드애로우[END]"
+        "translation": "윈드 애로우[END]"
     },
     "睡眠果実[END]": {
         "english": "Sleepy Fruit[END]",
@@ -1977,11 +1977,11 @@
     },
     "ウォールウインド[END]": {
         "english": "Whirlwind[END]",
-        "translation": "월윈드[END]"
+        "translation": "월 윈드[END]"
     },
     "ゴッドブレス[END]": {
         "english": "God's Breath[END]",
-        "translation": "갓브레스[END]"
+        "translation": "갓 브레스[END]"
     },
     "乱舞リング[END]": {
         "english": "Boisterous Ring[END]",
@@ -2081,11 +2081,11 @@
     },
     "デモンズランス[END]": {
         "english": "Demon's Lance[END]",
-        "translation": "데몬즈랜스[END]"
+        "translation": "데몬즈 랜스[END]"
     },
     "グランドダッシャー[END]": {
         "english": "Ground Dasher[END]",
-        "translation": "그랜드대셔[END]"
+        "translation": "그랜드 대셔[END]"
     },
     "ダッシュ突き上げ[END]": {
         "english": "Dash Upper Thrust[END]",
@@ -2177,7 +2177,7 @@
     },
     "フィアフルフレア[END]": {
         "english": "Fear Flare[END]",
-        "translation": "피어풀플레어[END]"
+        "translation": "피어풀 플레어[END]"
     },
     "毒吐き[END]": {
         "english": "Vomit Spew[END]",
@@ -2225,7 +2225,7 @@
     },
     "イカスヒップ[END]": {
         "english": "Squid Hip[END]",
-        "translation": "이카스힙[END]"
+        "translation": "이카스 힙[END]"
     },
     "グレイトアッパー[END]": {
         "english": "Great Upper[END]",
@@ -2237,11 +2237,11 @@
     },
     "メタルボディ[END]": {
         "english": "Metal Body[END]",
-        "translation": "메탈보디[END]"
+        "translation": "메탈 보디[END]"
     },
     "ヘルズハリケーン[END]": {
         "english": "Hell's Hurricane[END]",
-        "translation": "헬즈하리케인[END]"
+        "translation": "헬즈 허리케인[END]"
     },
     "絶氷刃[END]": {
         "english": "Bone-Chill Blade[END]",
