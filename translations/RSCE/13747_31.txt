@@ -559,8 +559,8 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-이 정도는 등을 밀어드리지 않으면
-어떻게 될지 모르잖아요.
+이 정도로 등을 밀어드리지 않으면
+어떻게 될지 모르겠어요.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]

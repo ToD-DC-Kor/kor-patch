@@ -703,7 +703,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-아 그래요? 그렇군요.
+아 그래? 그렇군.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

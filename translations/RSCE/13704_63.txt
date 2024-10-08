@@ -353,8 +353,8 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-물론 그 경우, 사령도 그냥 넘어가지 않겠지.
-코어 크리스탈째로 날아가 버릴 거야.
+물론 그럴 경우, 사령도 온전하지 못하겠지..
+코어 크리스탈 통채로 날아가 버릴 거야.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -401,7 +401,7 @@
 <Ritora>
 [ENDBLOCK]
 어떻게든 통신 기능을 회복시켰다.
-다만, 풍전등화의 상태지만.
+다만, 바람 앞의 등불과 같지만.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]

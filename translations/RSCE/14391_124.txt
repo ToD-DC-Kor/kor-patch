@@ -180,7 +180,7 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-사실 말하자면, 오빠가
+솔직히 말하자면, 오빠가
 빨리 돌아왔으면 좋겠어요.
 [ENDBLOCK]
 <Lilith>
@@ -1336,7 +1336,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-오빠는 아직 도중이지?
+오빠는 아직 진행 중이잖아?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]

@@ -647,7 +647,7 @@
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-그래서 여러분에게는 오늘 밤 하룻밤
+그래서 여러분들은 오늘 하룻밤
 편히 쉬었으면 하오.
 [ENDBLOCK]
 <King>
