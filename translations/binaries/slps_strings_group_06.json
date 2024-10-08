@@ -1,0 +1,228 @@
+{
+    "SLPS": [
+        {
+            "offset": 1685448,
+            "string": "[TAG_015]は[TAG_016]に変化しました。[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "[TAG_015]가 [TAG_016]로 변했습니다.[END]"
+        },
+        {
+            "offset": 1685480,
+            "string": "[TAG_015]は[TAG_016]に変化しましたが、持ちきれません。[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[TAG_015]가 [TAG_016]로 변했지만, 소지할 수 없습니다.[END]"
+        },
+        {
+            "offset": 1685528,
+            "string": "[TAG_015]ガルドを発見しました。[END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "[TAG_015] 가르드를 발견했습니다.[END]"
+        },
+        {
+            "offset": 1685560,
+            "string": "[TAG_015]ガルドを発見しましたが、持ちきれません。[END]",
+            "original_bytes_length": 46,
+            "available_bytes_size": 47,
+            "translation": "[TAG_015] 가르드를 발견했지만, 소지할 수 없습니다.[END]"
+        },
+        {
+            "offset": 1685608,
+            "string": "[TAG_015]を[TAG_016]枚発見しました。[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "[TAG_015]를 [TAG_016]장 발견했습니다.[END]"
+        },
+        {
+            "offset": 1685640,
+            "string": "[TAG_015]を[TAG_016]枚発見しましたが、持ちきれません。[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[TAG_015]를 [TAG_016]장 발견했지만, 소지할 수 없음.[END]"
+        },
+        {
+            "offset": 1685688,
+            "string": "[TAG_015]を発見しました。[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[TAG_015]를 발견했습니다.[END]"
+        },
+        {
+            "offset": 1685712,
+            "string": "[TAG_015]を発見しましたが、持ちきれません。[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "[TAG_015]를 발견했지만, 소지할 수 없습니다.[END]"
+        },
+        {
+            "offset": 1685752,
+            "string": "[TAG_015]から[TAG_016]を調合しました。[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "[TAG_015]에서 [TAG_016] 조합됨.[END]"
+        },
+        {
+            "offset": 1685784,
+            "string": "[TAG_015]から[TAG_016]を調合しましたが、持ちきれません。[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "[TAG_015]로부터 [TAG_016]를 조합했지만, 소지할 수 없습니다.[END]"
+        },
+        {
+            "offset": 1685840,
+            "string": "[TAG_016]が装備中の[TAG_015]はレベルアップしました。[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "[TAG_016]가 장착 중인 [TAG_015]가 레벨업했습니다.[END]"
+        },
+        {
+            "offset": 1685888,
+            "string": "[TAG_015]がレベルアップしました。[END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "[TAG_015]가 레벨업했습니다.[END]"
+        },
+        {
+            "offset": 1685920,
+            "string": "[TAG_015]から[TAG_016]が出来ました。[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "[TAG_015]에서 [TAG_016] 생성됨.[END]"
+        },
+        {
+            "offset": 1685952,
+            "string": "[TAG_015]から[TAG_016]が出来ましたが、持ちきれません。[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[TAG_015]로부터 [TAG_016]가 생성되었지만, 소지불가.[END]"
+        },
+        {
+            "offset": 1686000,
+            "string": "[Kongman]の[TAG_015]が上がりました。[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "[Kongman]의 [TAG_015]가 올랐습니다.[END]"
+        },
+        {
+            "offset": 1686032,
+            "string": "その後、彼の行方を知るものは[LINE]\n誰もいなかった……[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 48,
+            "translation": "그 후, 그의 행방을 아는 이는[LINE]\n아무도 없었다…[END]"
+        },
+        {
+            "offset": 1686080,
+            "string": "その後、あいつの行方を知るものは[LINE]\n誰もいなかった……[END]",
+            "original_bytes_length": 52,
+            "available_bytes_size": 55,
+            "translation": "그 후, 그 녀석의 행방을 아는 이는[LINE]\n아무도 없었다…[END]"
+        },
+        {
+            "offset": 1686136,
+            "string": "その後、あの男の行方を知るものは[LINE]\n誰もいなかった……[END]",
+            "original_bytes_length": 52,
+            "available_bytes_size": 55,
+            "translation": "그 후, 그 남자의 행방을 아는 이는[LINE]\n아무도 없었다…[END]"
+        },
+        {
+            "offset": 1686192,
+            "string": "おいおい！　手加減してやってたのに、[LINE]\nもう終わりかよ！[END]",
+            "original_bytes_length": 54,
+            "available_bytes_size": 55,
+            "translation": "야, 야! 손 좀 봐주고 있었는데,[LINE]\n벌써 끝인가?![END]"
+        },
+        {
+            "offset": 1686248,
+            "string": "ふん！　刀のサビにすらならぬわ！[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "흥! 칼의 녹도 되지 않을 거야![END]"
+        },
+        {
+            "offset": 1686288,
+            "string": "くくく……[LINE]\n退屈しのぎにはちょうど良かったな。[END]",
+            "original_bytes_length": 46,
+            "available_bytes_size": 47,
+            "translation": "크크크…[LINE]\n지루함을 달래기에는 딱 좋았네.[END]"
+        },
+        {
+            "offset": 1686336,
+            "string": "すべてはこの国のため……許せ……[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "모든 것은 이 나라를 위해… 용서해…[END]"
+        },
+        {
+            "offset": 1686376,
+            "string": "僕は自分のした事に、一片の後悔もない。[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "나는 내가 한 일에 대해, 조금의 후회도 없다.[END]"
+        },
+        {
+            "offset": 1686416,
+            "string": "君たちとは、[LINE]\n背負っているものが違うのだよ。[END]",
+            "original_bytes_length": 44,
+            "available_bytes_size": 47,
+            "translation": "너희들과는,[LINE]\n짐을 지고 있는 것이 다르다.[END]"
+        },
+        {
+            "offset": 1686464,
+            "string": "こんな結果になるなんて……残念ね……[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "이런 결과가 될 줄은… 아쉽네…[END]"
+        },
+        {
+            "offset": 1686504,
+            "string": "イレーヌ……仇はとったぞ……[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "일레느… 복수는 했다…[END]"
+        },
+        {
+            "offset": 1686536,
+            "string": "ふふふ……リオンよりは、[LINE]\n楽しませてくれたな。[END]",
+            "original_bytes_length": 46,
+            "available_bytes_size": 47,
+            "translation": "후후후… 리온보다는,[LINE]\n즐겁게 해주었군.[END]"
+        },
+        {
+            "offset": 1686584,
+            "string": "無念……[LINE]\nだが、この試練を乗り越えられねば、[LINE]\n未来はあるまい。[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "무념…[LINE]\n하지만, 이 시험을 넘지 못하면,[LINE]\n미래는 없을 것이다.[END]"
+        },
+        {
+            "offset": 1686648,
+            "string": "ここに貴様らの歴史は終わる！[LINE]\nもはや誰も貴様らを哀れむものはおらぬのだ！[END]",
+            "original_bytes_length": 72,
+            "available_bytes_size": 72,
+            "translation": "여기서 너희들의 역사는 끝난다![LINE]\n이제 더 이상 너희를 가엾게 여길 이가 없을 것이다![END]"
+        },
+        {
+            "offset": 1686720,
+            "string": "ヒッヒッヒッ！[LINE]\nどんなにあがいてもクズはクズだなぁ。[END]",
+            "original_bytes_length": 52,
+            "available_bytes_size": 55,
+            "translation": "히히히히! [LINE]\n아무리 발버둥 쳐도 쓰레기는 쓰레기군.[END]"
+        },
+        {
+            "offset": 1686776,
+            "string": "ちっ！こんなもんかよ……[LINE]\n殺る値打ちもねえぜ。[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 48,
+            "translation": "쳇! 이게 다냐…[LINE]\n죽일 가치도 없군.[END]"
+        },
+        {
+            "offset": 1686824,
+            "string": "その後、彼らの行方を知るものは[LINE]\n誰もいなかった……[END]",
+            "original_bytes_length": 50,
+            "available_bytes_size": 55,
+            "translation": "그 후, 그들의 행방을 아는 이는[LINE]\n아무도 없었다…[END]"
+        }
+    ]
+}

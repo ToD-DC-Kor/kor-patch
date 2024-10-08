@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-앞으로 나아가, 믹트란을 쓰러뜨려라!
+돌진해서, 믹트란을 쓰러뜨리자!
 [ENDBLOCK]

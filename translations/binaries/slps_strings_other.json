@@ -1,0 +1,53 @@
+{
+    "SLPS": [
+        {
+            "offset": 1679360,
+            "string": "テイルズオブデスティニー[LINE]\nディレクターズカットの[LINE]\nディスクがセットされていません。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "테일즈 오브 데스티니[LINE]\n디렉터스 컷의[LINE]\n디스크가 세팅되지 않았습니다.[END]"
+        },
+        {
+            "offset": 1679608,
+            "string": "スタックがオーバーフローした[LINE]\n可能性があります。[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 55,
+            "translation": "스택이 오버플로우했을[LINE]\n가능성이 있습니다.[END]"
+        },
+        {
+            "offset": 1747440,
+            "string": "かつて勇名を馳せた船。[LINE]\n千年の時を経て海上に勇壮な姿を現した。[END]",
+            "original_bytes_length": 62,
+            "available_bytes_size": 63,
+            "translation": "한때 용명으로 유명했던 배.[LINE]\n천 년의 시간을 거쳐 바다 위에 용맹한 모습으로 나타났다.[END]"
+        },
+        {
+            "offset": 1751160,
+            "string": "プレイタイム[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "플레이 타임[END]"
+        },
+        {
+            "offset": 1751208,
+            "string": "所持ガルド[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "소지 가르드[END]"
+        },
+        {
+            "offset": 1751232,
+            "string": "所持レンズ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "소지 렌즈[END]"
+        },
+        {
+            "offset": 1751264,
+            "string": "現在位置[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "현재 위치[END]"
+        }
+    ]
+}
