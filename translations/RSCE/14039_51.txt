@@ -1214,7 +1214,7 @@ FINISH arena_btl_prepare
 도전자
 [ENDBLOCK]
 너도 도전자냐?
-흥, 한 승은 주워먹었구나.
+흥, 한 판은 거저먹겠구나.
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
@@ -1248,7 +1248,7 @@ FINISH arena_btl_prepare
 도전자
 [ENDBLOCK]
 너도 도전자냐?
-흥, 한 승은 주워먹었구나.
+흥, 한 판은 거저먹겠구나.
 [ENDBLOCK]
 도전자
 [ENDBLOCK]
