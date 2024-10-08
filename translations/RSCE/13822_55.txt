@@ -230,7 +230,7 @@
 <Lion>
 [ENDBLOCK]
 대형 선박이 접안할 수 있는 곳은
-이 근처에서는 다릴셰이드 항구뿐이야.
+이 근처에서는 다릴쉐이드 항구뿐이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -280,7 +280,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-빨리 다릴셰이드로 돌아가자!
+빨리 다릴쉐이드로 돌아가자!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

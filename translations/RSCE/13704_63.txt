@@ -287,11 +287,11 @@
 <Reynolds>
 [ENDBLOCK]
 집적 렌즈포 조준 세팅.
-목표 - 라디스로우.
+목표 - 라디슬로우.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-굳이 라디스로우를 겨냥할 필요가?
+굳이 라디슬로우를 겨냥할 필요가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -334,7 +334,7 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-라디스로우가 보이는 부분만은
+라디슬로우가 보이는 부분만은
 흡수체의 영향을 받지 않습니다.
 [ENDBLOCK]
 <Reynolds>
@@ -348,7 +348,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-라디스로우가 아직 남아있으니
+라디슬로우가 아직 남아있으니
 가능성이 있지 않나요?
 [ENDBLOCK]
 <Reynolds>

@@ -130,7 +130,7 @@ init_light<x17><x71><x48><x88><x80>
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-안스즈운 전체 시스템이
+안스준 전체 시스템이
 다운되어 있기 때문이지.
 [ENDBLOCK]
 <Clemente>
@@ -219,12 +219,12 @@ init_light<x17><x71><x48><x88><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-안스즈운의 시스템이 복구되어
+안스준의 시스템이 복구되어
 워프 장치를 사용할 수 있게 된 것 같아.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-이 워프 장치가 있으면 안스즈운의
+이 워프 장치가 있으면 안스준의
 전송 장치 방까지 한 번에 돌아갈 수 있어.
 [ENDBLOCK]
 <Stahn>

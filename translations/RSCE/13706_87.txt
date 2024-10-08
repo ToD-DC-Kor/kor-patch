@@ -176,7 +176,7 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-준비한 배는 다릴셰이드 항구에
+준비한 배는 다릴쉐이드 항구에
 입항할 예정이오.
 [ENDBLOCK]
 <Dalis>
@@ -315,7 +315,7 @@
 <Reynolds>
 [ENDBLOCK]
 죄송합니다, 여러분……
-라디스로우가 함락됐습니다……!
+라디슬로우가 함락됐습니다……!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -345,7 +345,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-라디스로우를 잃었다면
+라디슬로우를 잃었다면
 우리가 위로 올라갈 방법이 없어.
 [ENDBLOCK]
 <Stahn>
