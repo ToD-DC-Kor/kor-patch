@@ -1,6 +1,6 @@
-간호<xE1>
+간호사
 [ENDBLOCK]
-<xF9>
+<IGNORE>
 [ENDBLOCK]
 저, 저기 저……
 [ENDBLOCK]
