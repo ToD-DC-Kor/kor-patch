@@ -5,8 +5,8 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-우리가 지금 의지할 수 있는 건
-그 <Johnny>라는 분뿐입니다.
+지금 우리가 의지할 수 있는 분은
+저 <Johnny> 씨 뿐입니다.
 [ENDBLOCK]
-자세히 이야기를 들어봅시다.
+자세한 이야기를 들어봅시다.
 [ENDBLOCK]
