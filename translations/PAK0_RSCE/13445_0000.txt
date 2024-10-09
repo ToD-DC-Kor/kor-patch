@@ -4,27 +4,25 @@
 [ENDBLOCK]
 <TAG_007><S06><yellow>Lock-On !!
 [ENDBLOCK]
-<S03><yellow>록온 수：<x17><x71><x46><xDC><x80>날개
+<S03><yellow>록온 수: <x17><x71><x46><xDC><x80>마리
 [ENDBLOCK]
-<S06>돌멩이를 시작 지점으로 되돌립니다.
+<S06>작은 돌을 시작 지점으로 되돌립니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-이 대륙에서의 렌즈레이트가
-1단계 업그레이드되었습니다.
+이 대륙에서의 렌즈 레이트가
+한 단계 올랐습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-축하합니다.
-이 대륙에서의 렌즈레이트가
-최대 횟수로 업그레이드되었습니다.
+축하드립니다.
+이 대륙에서의 렌즈 레이트가
+최대 횟수만큼 올랐습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-이 대륙에서의 렌즈레이트가
-3단계 업그레이드되었습니다.
-[ENDBLOCK]
-<S03><yellow>『돌차기』 시작!!
+이 대륙에서의 렌즈 레이트가
+세 단계만큼 올랐습니다.
 [ENDBLOCK]
 <S03><yellow>『돌차기』 시작!!
 [ENDBLOCK]
@@ -32,25 +30,27 @@ notice
 [ENDBLOCK]
 <S03><yellow>『돌차기』 시작!!
 [ENDBLOCK]
-<S03><yellow>골인!!(렌즈레이트 최대치)
+<S03><yellow>『돌차기』 시작!!
 [ENDBLOCK]
-<S03><yellow>렌즈레이트가 UP했습니다!!
+<S03><yellow>골!!(렌즈 레이트 최대값)
 [ENDBLOCK]
-<S03><yellow>『돌차기』 골인!!
+<S03><yellow>렌즈 레이트가 UP 되었습니다!!
 [ENDBLOCK]
-<S03><yellow>골인!!(렌즈레이트 최대치)
+<S03><yellow>『돌차기』 골!!
 [ENDBLOCK]
-<S03><yellow>렌즈레이트가 UP했습니다!!
+<S03><yellow>골!!(렌즈 레이트 최대값)
 [ENDBLOCK]
-<S03><yellow>『돌차기』 골인!!
+<S03><yellow>렌즈 레이트가 UP 되었습니다!!
 [ENDBLOCK]
-<S03><yellow>골인!!(렌즈레이트 최대치)
+<S03><yellow>『돌차기』 골!!
 [ENDBLOCK]
-<S03><yellow>렌즈레이트가 UP했습니다!!
+<S03><yellow>골!!(렌즈 레이트 최대값)
 [ENDBLOCK]
-<S03><yellow>골인!!(렌즈레이트 최대치)
+<S03><yellow>렌즈 레이트가 UP 되었습니다!!
 [ENDBLOCK]
-<S03><yellow>렌즈레이트가 UP했습니다!!
+<S03><yellow>골!!(렌즈 레이트 최대값)
+[ENDBLOCK]
+<S03><yellow>렌즈 레이트가 UP 되었습니다!!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -64,152 +64,152 @@ select
 select
 [ENDBLOCK]
 <TAG_007>들어가시겠습니까?
-네
+예
 아니요
 [ENDBLOCK]
 select
 [ENDBLOCK]
 <TAG_007>들어가시겠습니까?
-네
+예
 아니요
 [ENDBLOCK]
 select
 [ENDBLOCK]
 <TAG_007>외각으로 가시겠습니까?
-네
+예
 아니요
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
-남서쪽：하멘츠
- 동쪽 ：알메이다 방향
- 남쪽 ：제노스 방향
+남서: 하멘츠
+ 동: 알메이다 방면
+ 남: 제노스 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 ：알메이다 방향
-남서쪽：하멘츠 방향
-남동쪽：다릴쉐이드 방향
+ 북: 알메이다 방면
+남서: 하멘츠 방면
+남동: 다릴쉐이드 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 ：알메이다
- 남쪽 ：하멘츠 방향
-남동쪽：다릴쉐이드 방향
+ 북: 알메이다
+ 남: 하멘츠 방면
+남동: 다릴쉐이드 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 동쪽 ：다릴쉐이드
- 서쪽 ：하멘츠 방향
- 남쪽 ：클레스타 방향
- 북쪽 ：알메이다 방향
+ 동: 다릴쉐이드
+ 서: 하멘츠 방면
+ 남: 크레스타 방면
+ 북: 알메이다 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
-북동쪽：다릴쉐이드 방향
-북서쪽：알메이다・하멘츠 방향
- 남쪽 ：클레스타 방향
+북동: 다릴쉐이드 방면
+북서: 알메이다・하멘츠 방면
+ 남: 크레스타 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 동쪽 ：클레스타 방향
- 서쪽 ：다릴쉐이드 방향
+ 동: 크레스타 방면
+ 서: 다릴쉐이드 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 ：리네 방향
- 남쪽 ：노이슈타트 방향
+ 북: 리네 방면
+ 남: 노이슈타트 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 서쪽 ：여행자의 오두막
+ 서: 여행자의 오두막
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 ：리네 방향
-남동쪽：노이슈타트 방향
+ 북: 리네 방면
+남동: 노이슈타트 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 ：리네 방향
-남동쪽：노이슈타트 방향
+ 북: 리네 방면
+남동: 노이슈타트 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 ：리네 방향
- 남쪽 ：노이슈타트 방향
- 서쪽 ：피츠갈드 서해안
+ 북: 리네 방면
+ 남: 노이슈타트 방면
+ 서: 피츠가르드 서해안
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 ：해저 동굴 방향
- 남쪽 ：모리유 영토 방향
+ 북: 해저 동굴 방면
+ 남: 모류 영지 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 ：시덴 영토 방향
- 남쪽 ：해저 동굴 방향
+ 북: 시덴 영지 방면
+ 남: 해저 동굴 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 ：칼비올라 방향
- 남쪽 ：체리크 방향
+ 북: 칼비올라 방면
+ 남: 체리크 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
-북동쪽：칼비올라 방향
- 남쪽 ：정크랜드 방향
+북동: 칼비올라 방면
+ 남: 정크랜드 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
-북서쪽：정크랜드 방향
- 동쪽 ：칼비올라 방향
+북서: 정크랜드 방면
+ 동: 칼비올라 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
-북동쪽：하이델베르크 방향
-북서쪽：제노스 방향
-남동쪽：사이릴 방향
+북동: 하이델베르크 방면
+북서: 제노스 방면
+남동: 사이릴 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 ：사이릴
-북서쪽：하이델베르크・제노스 방향
+ 북: 사이릴
+북서: 하이델베르크・제노스 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북쪽 ：하이델베르크・제노스 방향
-북동쪽：사이릴 방향
+ 북: 하이델베르크・제노스 방면
+북동: 사이릴 방면
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Stahn>	「왼쪽에서 한 척 온다！」
+<TAG_009><Stahn>	「왼쪽에서 한 척이 오고 있어!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009>선장	「알겠습니다, 회피합니다！」
+<TAG_009>선장	「알겠습니다, 회피하겠습니다!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Lion>	「우현에 주의하라, 두 척 있다！」
+<TAG_009><Lion>	「우현을 조심해, 두 척이 있어!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009>선장	「맡겨 주세요！」
+<TAG_009>선장	「맡겨주십시오!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xD0><x00><x00><x40><TAG_009><Kongman>	「앞쪽에 큰 배가 있다! 저게 기함이다. 틀림없어！」
+<x06><xD0><x00><x00><x40><TAG_009><Kongman>	「전방에 큰 배가 있어! 저게 기함이다. 틀림없어!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Stahn>	「좋아, 올라타자！」
+<TAG_009><Stahn>	「좋아, 올라타자!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xC0><x00><x00><x40><TAG_009><Dymlos>	「지지부진하면 증원이 온다. 목표는 적 장수 단 한 명이다。」
+<x06><xC0><x00><x00><x40><TAG_009><Dymlos>	「꾸물거리다간 증원이 올 거야. 목표는 적장 단 한 명이다.」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<Stahn><TAG_009>	「기다려, <Greybum>！」
+<Stahn><TAG_009>	「기다려라, <Greybum>!」
 [ENDBLOCK]
