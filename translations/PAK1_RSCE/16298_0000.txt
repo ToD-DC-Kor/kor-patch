@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-오늘은 이미 늦었어, 저택에 돌아가자.
+오늘은 이미 늦었어, 저택으로 돌아가자.
 [ENDBLOCK]
