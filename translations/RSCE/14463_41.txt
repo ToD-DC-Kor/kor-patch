@@ -16,8 +16,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-당신의 정체, 이미 들통났어요.
-취향 없는 가면, 벗는 게 어때요?
+당신의 정체, 이미 들통났어.
+역겨운 가면, 벗는 게 어때?
 [ENDBLOCK]
 ????
 [ENDBLOCK]
@@ -39,8 +39,8 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-몬스터를 조종하는 건,
-신의 눈의 본질에서 보면 그저 부수적인 것일 뿐이다.
+몬스터를 조종하는 건, 신의 눈의 본질에서 보면
+그저 부수적인 것일 뿐이다.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -179,7 +179,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-샬, 말이 너무 많아.
+샤르, 말이 너무 많아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -197,7 +197,7 @@
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-그러니까 그녀를,
+그러니까 그녀가,
 인질로 잡힌 거네?
 [ENDBLOCK]
 <Clemente>
@@ -277,7 +277,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-왜 아무 상담도 안 해 준 거야!
+왜 아무것도 상의하지 않은 거야!
 왜 혼자서 하려고 한 거야!
 [ENDBLOCK]
 <Stahn>
@@ -461,7 +461,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭐라고요……!
+뭐라고……!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -470,11 +470,11 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-거짓말……이겠죠……
+거짓말……이지……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>, 좋으니까 이리 와!
+<Lion>, 알았으니까 빨리 와!
 얘기는 나중에 하자!
 [ENDBLOCK]
 <Lion>
@@ -488,12 +488,12 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-난 네처럼 낙천적이고
-뻔뻔스럽고 친근한 놈이 정말 싫어.
+난 너처럼 낙천적이고
+뻔뻔하고 친근한 놈이 정말 싫어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그러니까……나머지는 맡겼어.
+그러니까……나머지는 맡길게.
 [ENDBLOCK]
 오베론 비밀 공장
 [ENDBLOCK]
