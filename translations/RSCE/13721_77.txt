@@ -79,7 +79,7 @@
 [ENDBLOCK]
 부인
 [ENDBLOCK]
-하지만 이 다릴셰이드에서는
+하지만 이 다릴쉐이드에서는
 엄청난 인기가 있는 사람이에요.
 [ENDBLOCK]
 <Mary>
@@ -192,7 +192,7 @@
 
 [ENDBLOCK]
 <TAG_005>북：세인가르드 성
-동：다릴셰이드 항구
+동：다릴쉐이드 항구
 남：출구
 [ENDBLOCK]
 
@@ -208,7 +208,7 @@
 select
 [ENDBLOCK]
 <TAG_007>무중력 엘리베이터입니다.
-라디스로우로 가시겠습니까?
+라디슬로우로 가시겠습니까?
 간다
 가지 않는다
 
@@ -216,19 +216,19 @@ select
 debug
 [ENDBLOCK]
 더미 무중력 엘리베이터입니다.
-라디스로우로 가시겠습니까?
+라디슬로우로 가시겠습니까?
 간다
 가지 않는다
 
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-여기는 세인가르드의 수도 다릴셰이드야.
+여기는 세인가르드의 수도 다릴쉐이드야.
 뭐…… 알고 있겠지만.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-여기는 세인가르드의 수도 다릴셰이드.
+여기는 세인가르드의 수도 다릴쉐이드.
 활기 넘치는 화려한 도시야.
 [ENDBLOCK]
 여자아이
@@ -819,7 +819,7 @@ select
 <Lion>
 [ENDBLOCK]
 스트레이라이즈 신전은
-다릴셰이드 북쪽에 있어.
+다릴쉐이드 북쪽에 있어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1106,13 +1106,13 @@ select
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-지금 나는 라디스로우의 중추부에 있다.
+지금 나는 라디슬로우의 중추부에 있다.
 이제부터 곧바로 작전 회의를 진행하겠다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
 소디언 팀 여러분은
-서둘러 라디스로우로 집합하라!
+서둘러 라디슬로우로 집합하라!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1155,8 +1155,8 @@ select
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-라디스로우는 해상으로 이동시켰다.
-도착하기를 기다리겠다.
+라디슬로우는 해상으로 이동시켰다.
+도착을 기다리고 있다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]

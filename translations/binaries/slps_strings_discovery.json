@@ -1,0 +1,1271 @@
+{
+    "SLPS": [
+        {
+            "offset": 1734776,
+            "string": "かつて勇名を馳せた船。[LINE]\n天地戦争で用いた電撃作戦を再び敢行して[LINE]\n外殻に浮上した。[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "한때 명성을 떨쳤던 배.[LINE]\n천지 전쟁에서 사용한 전격 작전을 다시 감행하여[LINE]\n외각으로 떠올랐다.[END]"
+        },
+        {
+            "offset": 1734856,
+            "string": "技術研究施設のある空中都市の近くには、[LINE]\n人々が求めてやまない望みを叶える事が[LINE]\nできるという動物が棲息しているそうだ。[END]",
+            "original_bytes_length": 115,
+            "available_bytes_size": 119,
+            "translation": "기술 연구 시설이 있는 공중 도시 근처에는,[LINE]\n사람들이 간절히 바라는 소원을 이룰 수 있는[LINE]\n동물이 서식하고 있다고 한다.[END]"
+        },
+        {
+            "offset": 1734976,
+            "string": "手にした者を幸せに導くという青い鳥。[LINE]\n捕まえて大事にしていても、いつの間にか[LINE]\n姿を消してしまう。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "손에 쥔 자를 행복으로 인도하는 파란 새.[LINE]\n잡아서 소중히 하고 있어도, 어느새[LINE]\n자취를 감춰버린다.[END]"
+        },
+        {
+            "offset": 1735072,
+            "string": "ハピネスバード[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "행복의 새[END]"
+        },
+        {
+            "offset": 1735088,
+            "string": "ある空中都市の周辺には、実験プラントから[LINE]\nあふれた危険な植物が自生しているため、[LINE]\n気をつけて歩かないと痛い目にあうらしい。[END]",
+            "original_bytes_length": 121,
+            "available_bytes_size": 127,
+            "translation": "어떤 공중 도시 주변에는, 실험 플랜트에서[LINE]\n넘쳐나는 위험한 식물이 자생하고 있어서,[LINE]\n조심하지 않으면 아픈 경험을 하게 될 것 같다.[END]"
+        },
+        {
+            "offset": 1735216,
+            "string": "茎や葉の表面・葉柄などに刺激性の液を[LINE]\n蓄えた刺毛がある多年草。[LINE]\n触ると鋭い痛みがある。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "줄기와 잎의 표면, 잎자루 등에 자극성 액체를[LINE]\n저장한 가시털이 있는 다년생 식물.[LINE]\n만지면 날카로운 통증이 있다.[END]"
+        },
+        {
+            "offset": 1735304,
+            "string": "イライラクサ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "이라이라 풀[END]"
+        },
+        {
+            "offset": 1735320,
+            "string": "シデン領地には船乗りたちに愛されている[LINE]\n希少な動物がいるそうだ。[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "시덴 영토에는 선원들에게 사랑받는[LINE]\n희귀한 동물이 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1735392,
+            "string": "六本の指を持つ珍しい猫。[LINE]\n帆船のロープ登りや、船内のネズミ捕りが[LINE]\n得意で船乗りに愛されている。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "여섯 개의 손가락을 가진 희귀한 고양이.[LINE]\n범선의 로프 오르기와, 배 안의 쥐 잡기가[LINE]\n특기이며 선원들에게 사랑받고 있다.[END]"
+        },
+        {
+            "offset": 1735488,
+            "string": "ラッキーキャット[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "행운의 고양이[END]"
+        },
+        {
+            "offset": 1735512,
+            "string": "ダリルシェイドの近くには行商人たちの[LINE]\n待ち合わせ場所などの目印として活躍する[LINE]\n建造物があるらしい。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "다릴쉐이드 근처에는 행상인들의[LINE]\n만나기로 한 장소 등의 표지로 활용되는[LINE]\n건축물이 있다고 한다.[END]"
+        },
+        {
+            "offset": 1735616,
+            "string": "セインガルド王国が建国を記念して[LINE]\n建立した石碑。[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "세인갈드 왕국이 건국을 기념하여[LINE]\n세운 비석.[LINE]\n[END]"
+        },
+        {
+            "offset": 1735672,
+            "string": "建国記念碑[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "건국 기념비[END]"
+        },
+        {
+            "offset": 1735688,
+            "string": "モリュウの領地には騒いでうるさいが、[LINE]\n料理をするととてもおいしい、味な食材と[LINE]\nなる動物がいるそうだ。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "모리유의 영토에는 시끄럽고 떠들썩하지만,[LINE]\n요리를 하면 매우 맛있는[LINE]\n동물이 있다고 한다.[END]"
+        },
+        {
+            "offset": 1735792,
+            "string": "「ランブータン」という果物にそっくりな[LINE]\nお尻をしている豚。[LINE]\nブーブーうるさい。[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "‘람부탄’이라는 과일을 꼭 닮은[LINE]\n엉덩이를 가진 돼지.[LINE]\n부우 부우 시끄럽다.[END]"
+        },
+        {
+            "offset": 1735872,
+            "string": "ランブートン[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "람부톤[END]"
+        },
+        {
+            "offset": 1735888,
+            "string": "どこかの海岸には、炎の妖精と氷の妖精の[LINE]\n愛の結晶が発見できる場所があるという。[LINE]\n[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "어딘가의 해안에는, 불의 요정과 얼음의 요정의[LINE]\n사랑의 결정체를 발견할 수 있는 장소가 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1735968,
+            "string": "燃えた後には水しか残らない不思議な物質。[LINE]\n炎と氷の妖精の愛の結晶という伝説がある。[LINE]\n別名は「燃える氷」で、触ると冷たい。[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "타고 난 뒤에는 물밖에 남지 않는 신기한 물질.[LINE]\n불과 얼음의 요정의 사랑의 결정체라는 전설이 있다.[LINE]\n별명은 ‘타는 얼음’이며, 만지면 차갑다.[END]"
+        },
+        {
+            "offset": 1736088,
+            "string": "メタンハイドレート[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "메탄 하이드레이트[END]"
+        },
+        {
+            "offset": 1736112,
+            "string": "ダイクロフトの周辺には危害を加えてくる[LINE]\n動物がいるので、注意して歩く必要がある[LINE]\nそうだ。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "다이크로프트 주변에는 위해를 가해오는[LINE]\n동물이 있으므로, 조심해서 걸어야 한다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1736200,
+            "string": "外殻で突然変異を起こした、動物や昆虫の[LINE]\n血を吸うカエル。[LINE]\n体は小さいが動きは遅い。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "외각에서 돌연변이를 일으킨, 동물이나 곤충의[LINE]\n피를 빨아먹는 개구리.[LINE]\n몸은 작지만 움직임은 느리다.[END]"
+        },
+        {
+            "offset": 1736288,
+            "string": "ヒルガエル[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "힐가엘[END]"
+        },
+        {
+            "offset": 1736304,
+            "string": "海の浅瀬には、おとぎ話のような不思議な[LINE]\nものが落ちている事があるらしい。[LINE]\n[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "바다의 얕은 곳에는, 동화 같은 신기한[LINE]\n것들이 떨어져 있는 경우가 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1736384,
+            "string": "海中で絶える事なく塩を出し続けるという[LINE]\n不思議な石の臼。[LINE]\n海水が塩辛い原因であるといった伝説もある。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "바다 속에서 끊임없이 소금을 내뿜는[LINE]\n신기한 맷돌.[LINE]\n바닷물이 짠 이유라는 전설도 있다.[END]"
+        },
+        {
+            "offset": 1736488,
+            "string": "塩うす[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "소금 맷돌[END]"
+        },
+        {
+            "offset": 1736496,
+            "string": "海を移動していると、運がよければ絶滅寸前[LINE]\nの美しい輝きを放つ動物に遭遇できる事が[LINE]\nあるという。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "바다를 이동하다 보면, 운이 좋으면 멸종 직전에[LINE]\n아름다운 빛을 발하는 동물과 만날 수 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1736592,
+            "string": "プラチナのように輝く甲羅を持つ希少な亀。[LINE]\n硬い甲羅と卵が高級装飾品として密漁される[LINE]\nため、種の絶滅が危ぶまれている。[END]",
+            "original_bytes_length": 115,
+            "available_bytes_size": 119,
+            "translation": "플래티넘처럼 빛나는 껍질을 가진 희귀한 거북이.[LINE]\n단단한 껍질과 알이 고급 장신구로 밀렵당하기 때문에,[LINE]\n종의 멸종이 우려되고 있다.[END]"
+        },
+        {
+            "offset": 1736712,
+            "string": "プラチナオオガメ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "플래티넘 거북[END]"
+        },
+        {
+            "offset": 1736736,
+            "string": "ロディオンの周辺には地上で見る事の[LINE]\nできない珍しい動物が棲息しているそうだ。[LINE]\n[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "로디온 주변에는 지상에서 볼 수 없는[LINE]\n희귀한 동물이 서식하고 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1736816,
+            "string": "土砂と共に巻き上げられて外殻で突然変異を[LINE]\n起こしたネズミ。[LINE]\n長い体毛は常に濡れている。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "토사와 함께 휘말려 외각에서 돌연변이를[LINE]\n일으킨 쥐.[LINE]\n긴 털은 항상 젖어 있다.[END]"
+        },
+        {
+            "offset": 1736904,
+            "string": "ヌレネズミ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "젖은 쥐[END]"
+        },
+        {
+            "offset": 1736920,
+            "string": "地上の高原に生えている山男におなじみの[LINE]\n植物が、軍事基地だった空中都市の周辺でも[LINE]\n見られるらしい。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "지상의 고원에 자생하는 산악남자에게 익숙한[LINE]\n식물이, 군사 기지였던 공중 도시의 주변에서도[LINE]\n보인다고 한다.[END]"
+        },
+        {
+            "offset": 1737024,
+            "string": "標高の高い場所でしか咲かない花。[LINE]\n花言葉は「アタック！」。[LINE]\n山男にはおなじみの植物。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "고도가 높은 곳에서만 피는 꽃.[LINE]\n꽃말은 '공격!'.[LINE]\n산악남자에게 익숙한 식물.[END]"
+        },
+        {
+            "offset": 1737112,
+            "string": "トザンカ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "토잔카[END]"
+        },
+        {
+            "offset": 1737128,
+            "string": "守護竜の制御室があった空中都市の近くで、[LINE]\n強烈な熱気を感じたらしいが、暑すぎて[LINE]\n近づけず、原因はわからなかったそうだ。[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "수호용의 제어실이 있었던 공중 도시 근처에서,[LINE]\n강렬한 열기를 느꼈다고 하지만, 너무 더워서[LINE]\n가까이 가지 못해 원인은 알 수 없었다고 한다.[END]"
+        },
+        {
+            "offset": 1737248,
+            "string": "燃え尽きる事を知らない木槌。[LINE]\n使う人間を選ぶかのように、強烈な熱気を[LINE]\n発し続ける。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "타버릴 줄 모르는 나무 망치.[LINE]\n사용할 사람을 선택하는 듯, 강렬한 열기를[LINE]\n계속해서 발산한다.[END]"
+        },
+        {
+            "offset": 1737336,
+            "string": "燃える木槌[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "타는 나무 망치[END]"
+        },
+        {
+            "offset": 1737352,
+            "string": "ストレイライズ神殿の近くで、空に向かって[LINE]\nかぼそく伸びる、ひとすじの光を見たらしい。[LINE]\n[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "스트레이라이즈 신전 근처에서, 하늘을 향해[LINE]\n가늘게 뻗어가는 한 줄기의 빛을 보았다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1737440,
+            "string": "光を増幅する石で作られた貴重な手鏡。[LINE]\n月明かりでもはっきりと姿を映すため、[LINE]\n化粧をしやすいと代々の女王に重宝された。[END]",
+            "original_bytes_length": 115,
+            "available_bytes_size": 119,
+            "translation": "빛을 증폭하는 돌로 만들어진 귀중한 손거울.[LINE]\n달빛에서도 뚜렷하게 모습을 비추기 때문에,[LINE]\n화장을 하기에 용이하다고 대대로의 여왕에게 귀중히 여겨졌다.[END]"
+        },
+        {
+            "offset": 1737560,
+            "string": "アマノテカガミ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "아마노테카가미[END]"
+        },
+        {
+            "offset": 1737576,
+            "string": "なぜかはわからないが、イグナシーの[LINE]\n近くに、ファンダリア王家から所在が[LINE]\nわからなくなっていた宝があるらしい。[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "왜인지는 모르겠지만, 이그나시 근처에, 팬더리아 왕가의 행방불명[LINE]\n보물이 있다고 한다.[END]"
+        },
+        {
+            "offset": 1737688,
+            "string": "エメラルドの原石に王の心得が刻まれた秘宝。[LINE]\n先の戦乱によってファンダリア王家から[LINE]\n消失し、行方がわからなくなっていた。[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "에메랄드 원석에 왕의 마음가짐이 새겨진 비보.[LINE]\n이전의 전란으로 팬더리아 왕가에서[LINE]\n사라져, 행방을 알 수 없게 되었다.[END]"
+        },
+        {
+            "offset": 1737808,
+            "string": "掟の石板[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "법의 석판[END]"
+        },
+        {
+            "offset": 1737824,
+            "string": "クレスタの辺りには、この地域に古代文明の[LINE]\n存在を証明する遺跡があるという。[LINE]\n一見の価値があるそうだ。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "크레스타 근처에는, 이 지역에 고대 문명의[LINE]\n존재를 증명하는 유적이 있다고 한다.[LINE]\n한 번 볼 만한 가치가 있다고 한다.[END]"
+        },
+        {
+            "offset": 1737928,
+            "string": "巨大な人の頭の像が散乱している神殿の跡。[LINE]\nかつては王族たちの勇姿が祭られていた。[LINE]\n王族の肖像の成れの果ては、かなり不気味。[END]",
+            "original_bytes_length": 121,
+            "available_bytes_size": 127,
+            "translation": "거대한 사람 머리 상이 흩어져 있는 신전의 유적.[LINE]\n한때는 왕족들의 용맹이 제사되었다.[LINE]\n왕족의 초상화의 남은 모습은 꽤 불길하다.[END]"
+        },
+        {
+            "offset": 1738056,
+            "string": "人頭像群[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "인두상 군[END]"
+        },
+        {
+            "offset": 1738072,
+            "string": "どこかの小島にある海岸には波乗りが[LINE]\n得意な昆虫がいるそうだ。[LINE]\n[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "어딘가의 작은 섬 해안에는 파도를 타는[LINE]\n특기가 있는 곤충이 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1738136,
+            "string": "波打ち際を波に乗ってスイスイ移動する虫。[LINE]\n大波が来ると空を飛んで逃げる。[LINE]\n[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "파도에 올라 스위스이 이동하는 벌레.[LINE]\n큰 파도가 오면 하늘로 날아 도망친다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1738216,
+            "string": "ウミンボ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "우민보[END]"
+        },
+        {
+            "offset": 1738232,
+            "string": "アンスズーンの周辺には、命の大切さと[LINE]\nはかなさを体現する健気な昆虫がいる[LINE]\nらしい。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "안스주른 주변에는, 생명의 소중함과[LINE]\n덧없음을 체현하는 굳센 곤충이 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1738320,
+            "string": "エサを食べ続けていないと死んでしまう虫。[LINE]\nオスは交尾後、メスは卵を産むとすぐに[LINE]\nはかない命を終える。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "먹이를 계속 먹지 않으면 죽어버리는 벌레.[LINE]\n수컷은 교미 후, 암컷은 알을 낳고 곧바로[LINE]\n덧없는 생명을 마감한다.[END]"
+        },
+        {
+            "offset": 1738424,
+            "string": "ギリギリス[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "기리기리스[END]"
+        },
+        {
+            "offset": 1738440,
+            "string": "リーネの村の近くで、チカチカと点滅する[LINE]\nのを見た人がいるというが、残念ながら[LINE]\n光の正体は見つけられなかったという。[END]",
+            "original_bytes_length": 113,
+            "available_bytes_size": 119,
+            "translation": "리네 마을 근처에서, 반짝반짝 빛나는[LINE]\n것을 본 사람이 있다고 하지만, 안타깝게도[LINE]\n빛의 정체는 찾을 수 없었다고 한다.[END]"
+        },
+        {
+            "offset": 1738560,
+            "string": "高さ６０センチ、幅１１０センチの黄金で[LINE]\n作られた仮面。[LINE]\n合金の羽が９０枚ついている。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "높이 60센티미터, 너비 110센티미터의 금으로[LINE]\n만들어진 가면.[LINE]\n합금의 날개가 90개 붙어 있다.[END]"
+        },
+        {
+            "offset": 1738648,
+            "string": "黄金の仮面[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "황금 가면[END]"
+        },
+        {
+            "offset": 1738664,
+            "string": "ノイシュタットの辺りには、何に使われた[LINE]\nのかがわからない、不思議な木製の像が[LINE]\nあるらしい。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "노이슈타트 근처에는, 무엇에 사용되었는지[LINE]\n모르는 신비한 목조상이 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1738760,
+            "string": "５０人ほどの人間が中に入る事ができる[LINE]\n木でできた巨大な馬の像。[LINE]\n何に使われたのかは不明。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "50명 정도의 사람이 안에 들어갈 수 있는[LINE]\n나무로 만들어진 거대한 말의 상.[LINE]\n무엇에 사용되었는지는 불명.[END]"
+        },
+        {
+            "offset": 1738848,
+            "string": "巨大木馬[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "거대 목마[END]"
+        },
+        {
+            "offset": 1738864,
+            "string": "ベルクラントの砲撃でできたクレーターに[LINE]\nよって、地中に埋もれていた芸術品が出現[LINE]\nしたそうだ。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "벨클란트의 포격으로 생긴 크레이터에[LINE]\n따라, 지중에 묻혀 있던 예술품이 나타났다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1738960,
+            "string": "ベルクラントの砲撃でできたクレーターに[LINE]\n出現した古代の都市遺跡。[LINE]\nその姿にロマンを感じずにはいられない。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "벨클란트의 포격으로 생긴 크레이터에[LINE]\n나타난 고대 도시 유적.[LINE]\n그 모습에서 로망을 느끼지 않을 수 없다.[END]"
+        },
+        {
+            "offset": 1739064,
+            "string": "古代の都市遺跡[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "고대 도시 유적[END]"
+        },
+        {
+            "offset": 1739080,
+            "string": "ファンダリアとセインガルドを隔てている[LINE]\n川では、根性のある魚を見る事ができる[LINE]\nらしい。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "팬더리아와 세인갈드를 가르는[LINE]\n강에서는, 근성이 있는 물고기를 볼 수 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1739168,
+            "string": "雪が降る冷たい川をのぼり、産卵をする鮭。[LINE]\n凍った川を硬い口先で砕いて進む姿は圧巻。[LINE]\n[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "눈이 내리는 차가운 강을 올라가서, 알을 낳는 연어.[LINE]\n얼어붙은 강을 단단한 주둥이로 부수며 나아가는 모습이 압권.[LINE]\n[END]"
+        },
+        {
+            "offset": 1739256,
+            "string": "雪見サケ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "눈구경 연어[END]"
+        },
+        {
+            "offset": 1739272,
+            "string": "カルビオラの辺りには、片想いの人に告白の[LINE]\n代わりとして手渡す花が咲いているそうだ。[LINE]\n[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "칼비오라 근처에는, 짝사랑하는 사람에게 고백의[LINE]\n대신 손에 주는 꽃이 핀다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1739360,
+            "string": "カルビオラに生息する耐乾性一年草。[LINE]\n草丈と花径が小さく、乾燥に強い。[LINE]\n花言葉は「私の事を想ってください」。[END]",
+            "original_bytes_length": 105,
+            "available_bytes_size": 111,
+            "translation": "칼비오라에 서식하는 내건성 일년초.[LINE]\n풀 높이와 꽃 지름이 작고, 건조에 강함.[LINE]\n꽃말은 '나를 생각해 주세요'.[END]"
+        },
+        {
+            "offset": 1739472,
+            "string": "カルビオラビオラ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "칼비오라 비올라[END]"
+        },
+        {
+            "offset": 1739496,
+            "string": "ジャンクランドの周辺に住人に重宝されて[LINE]\nいる接着剤の原料となる植物が自生している[LINE]\nらしい。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "정크랜드 주변에 주민들에게 귀하게 여겨지는[LINE]\n접착제의 원료가 되는 식물이 자생하고 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1739592,
+            "string": "年間を通して採取できるサボテンの実。[LINE]\nカルバレイス地方では、乾くと強力に固まる[LINE]\n果汁が接着剤として利用されている。[END]",
+            "original_bytes_length": 113,
+            "available_bytes_size": 119,
+            "translation": "연중 수확할 수 있는 선인장 열매.[LINE]\n칼바레이스 지방에서는, 마르면 강력하게 굳는[LINE]\n과즙이 접착제로 이용되고 있다.[END]"
+        },
+        {
+            "offset": 1739712,
+            "string": "ピタピタヤ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "피타피타야[END]"
+        },
+        {
+            "offset": 1739728,
+            "string": "漁師たちの間でおかしな生物の目撃情報が[LINE]\n多発しているらしいが、情報が錯そうして[LINE]\n海にいる事しか分からないそうだ。[END]",
+            "original_bytes_length": 111,
+            "available_bytes_size": 111,
+            "translation": "어부들 사이에서 이상한 생물의 목격 정보가[LINE]\n다발하고 있다고 하며, 정보가 혼란스러워서[LINE]\n바다에 있다는 것밖에 알 수 없다.[END]"
+        },
+        {
+            "offset": 1739840,
+            "string": "三つの対になる外エラを持ち、肺で呼吸し、[LINE]\n餌はきちんと噛まないと気が済まないという[LINE]\n海に棲む古代魚。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "세 쌍의 외부 아가미를 가지고, 폐로 호흡하며,[LINE]\n먹이를 제대로 씹지 않으면 괜찮지 않다는[LINE]\n바다에 서식하는 고대어.[END]"
+        },
+        {
+            "offset": 1739944,
+            "string": "ウミハイギョ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "우미하이교[END]"
+        },
+        {
+            "offset": 1739960,
+            "string": "リーネの村の周辺の海岸では、恵まれた[LINE]\n自然が奏でるかわいい音楽が聞ける場所が[LINE]\nあるという。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "리네 마을 주변의 해안에서는, 풍요로운[LINE]\n자연이 만들어내는 귀여운 음악을 들을 수 있는 곳이[LINE]\n있다고 한다.[END]"
+        },
+        {
+            "offset": 1740056,
+            "string": "砂に含まれる石英の粒がこすれあうと[LINE]\n微妙なガラス質の音を奏でる砂浜。[LINE]\n砂が汚れてしまうと音がでなくなってしまう。[END]",
+            "original_bytes_length": 111,
+            "available_bytes_size": 111,
+            "translation": "모래의 석영 알갱이가 서로 마찰하면[LINE]\n미세한 유리질의 소리를 내는 모래사장.[LINE]\n모래가 더러워지면 소리가 나지 않게 된다.[END]"
+        },
+        {
+            "offset": 1740168,
+            "string": "鳴き砂[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "울음 모래[END]"
+        },
+        {
+            "offset": 1740176,
+            "string": "ノイシュタットの近くの海岸ではスープや[LINE]\n鍋料理に大活躍の食材となる動物がたくさん[LINE]\n棲息しているそうだ。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "노이슈타트 근처의 해안에서는 수프나[LINE]\n냄비 요리에 큰 활약을 하는 식재료가 많이[LINE]\n서식하고 있다고 한다.[END]"
+        },
+        {
+            "offset": 1740280,
+            "string": "砂の中の微生物を食べる姿がダンゴを[LINE]\n作っているように見える小型のカニ。[LINE]\n小ぶりだが、しっかりとしたダシがとれる。[END]",
+            "original_bytes_length": 111,
+            "available_bytes_size": 111,
+            "translation": "모래 속의 미생물을 먹는 모습이 경단을[LINE]\n만들고 있는 것처럼 보이는 소형 게.[LINE]\n작지만, 제대로 된 육수가 나온다.[END]"
+        },
+        {
+            "offset": 1740392,
+            "string": "ダンゴヤガニ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "단고야가니[END]"
+        },
+        {
+            "offset": 1740408,
+            "string": "ノイシュタットの周辺では若者に人気の[LINE]\n希少動物が存在するという。[LINE]\n目立つ姿をしているからすぐわかるらしい。[END]",
+            "original_bytes_length": 105,
+            "available_bytes_size": 111,
+            "translation": "노이슈타트 주변에는 젊은이들에게 인기 있는[LINE]\n희귀 동물이 존재한다고 한다.[LINE]\n눈에 띄는 모습이어서 금방 알 수 있다고 한다.[END]"
+        },
+        {
+            "offset": 1740520,
+            "string": "ピンク色の体毛を持つ、リス科の小動物。[LINE]\n突然変異によってしか発生しない希少種で、[LINE]\n滑空する姿を見ると恋愛が成就するという。[END]",
+            "original_bytes_length": 121,
+            "available_bytes_size": 127,
+            "translation": "핑크색의 털을 가진, 다람쥐과의 소동물.[LINE]\n돌연변이로만 발생하는 희귀종이며,[LINE]\n활공하는 모습을 보면 사랑이 이루어진다고 한다.[END]"
+        },
+        {
+            "offset": 1740648,
+            "string": "モモモモンガ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "모모모몽가[END]"
+        },
+        {
+            "offset": 1740664,
+            "string": "スノーフリアの一帯では、一晩でとても[LINE]\n巨大な雪のかたまりが出現するそうだ。[LINE]\n[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "스노우프리아 지역에서는 하룻밤 사이에 매우[LINE]\n거대한 눈덩이가 나타난다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1740744,
+            "string": "大雪の夜の翌朝に見つかる巨大な雪だるま。[LINE]\n「風のいたずら」説もあるが、定かではない。[LINE]\n[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "폭설의 밤 다음 아침에 발견되는 거대한 눈사람.[LINE]\n'바람의 장난'이라는 설도 있지만, 확실하지 않다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1740832,
+            "string": "大雪だるま[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "대눈사람[END]"
+        },
+        {
+            "offset": 1740848,
+            "string": "アルメイダの村の近くで熱いものが急に[LINE]\nぶつかってきたそうだが、ビックリして[LINE]\n何かは確認できなかったらしい。[END]",
+            "original_bytes_length": 105,
+            "available_bytes_size": 111,
+            "translation": "알메이다 마을 근처에서 뜨거운 것이 갑자기[LINE]\n부딪혔다고 하는데, 놀라서[LINE]\n무엇인지는 확인할 수 없었다고 한다.[END]"
+        },
+        {
+            "offset": 1740960,
+            "string": "春先に大量発生した年は必ず猛暑になると[LINE]\nいわれる虫。[LINE]\n触るとけっこう熱い。[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "봄철에 대량 발생한 해는 반드시 폭염이 된다고[LINE]\n전해지는 벌레.[LINE]\n만지면 꽤 뜨겁다.[END]"
+        },
+        {
+            "offset": 1741040,
+            "string": "オテントウムシ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "오텐토우무시[END]"
+        },
+        {
+            "offset": 1741056,
+            "string": "リーネの村の周辺の海岸では、時が経つのも[LINE]\n忘れてしまうほど美しい景色を堪能できる[LINE]\n場所があるそうだ。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "리네 마을 주변의 해안에서는, 시간이 가는 것도[LINE]\n잊어버릴 만큼 아름다운 경치를 만끽할 수 있는[LINE]\n곳이 있다고 한다.[END]"
+        },
+        {
+            "offset": 1741160,
+            "string": "体に刺激を受けると発光する原生生物。[LINE]\n真っ暗な海に光る波に時間を忘れてしまう。[LINE]\n[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "자극을 받으면 발광하는 원생 생물.[LINE]\n깊은 바다에서 빛나는 파도에 시간을 잊게 된다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1741240,
+            "string": "夜光虫[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "야광충[END]"
+        },
+        {
+            "offset": 1741248,
+            "string": "ジャンクランドの住民が、砂漠である物を[LINE]\n見つけて家に持ち帰ったのだが、気持ちが[LINE]\n悪い事が起こったので捨てたという。[END]",
+            "original_bytes_length": 113,
+            "available_bytes_size": 119,
+            "translation": "정크랜드 주민이 사막에서 어떤 것을[LINE]\n발견해 집으로 가져갂는데, 기분[LINE]\n나쁜 일이 일어나서 버렸다고 한다.[END]"
+        },
+        {
+            "offset": 1741368,
+            "string": "偶然、一般市民に発掘された人間大の人形。[LINE]\n夜中にひとりでに動くという気味の悪い[LINE]\n噂がある。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "우연히 일반 시민에게 발굴된 인간 크기의 인형.[LINE]\n한밤중에 혼자서 움직인다는 기분 나쁜[LINE]\n소문이 있다.[END]"
+        },
+        {
+            "offset": 1741464,
+            "string": "ブリキの人形[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "브리키 인형[END]"
+        },
+        {
+            "offset": 1741480,
+            "string": "カルビオラのあたりに、地上で使う事が[LINE]\nないはずの巨大な建造物を見かけたという。[LINE]\n目の錯覚ではないだろうか？[END]",
+            "original_bytes_length": 105,
+            "available_bytes_size": 111,
+            "translation": "칼비올라 근처에서, 지상에서 사용할 일이[LINE]\n없을 듯한 거대한 건축물을 보았다고 한다.[LINE]\n눈의 착각이 아닐까?[END]"
+        },
+        {
+            "offset": 1741592,
+            "string": "糸杉の木を材料に作られた巨大な箱舟。[LINE]\nどうして内陸に船があるのかは謎。[LINE]\n[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "측백나무로 만들어진 거대한 방주.[LINE]\n왜 내륙에 배가 있는지는 수수께끼.[LINE]\n[END]"
+        },
+        {
+            "offset": 1741664,
+            "string": "謎の箱舟[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "수수께끼의 방주[END]"
+        },
+        {
+            "offset": 1741680,
+            "string": "トウケイの領土には人々が求めてやまない[LINE]\n望みを叶える事ができるという植物が[LINE]\n自生しているそうだ。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "토케이의 영토에는 사람들이 갈망하는[LINE]\n소원을 이룰 수 있다는 식물이[LINE]\n자생하고 있다고 한다.[END]"
+        },
+        {
+            "offset": 1741776,
+            "string": "食べれば不老不死になれるという伝説をもつ[LINE]\n貴重な桃。[LINE]\n栄養価が非常に高いが、値段も高い。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "먹으면 불로불사가 된다는 전설을 가진[LINE]\n귀중한 복숭아.[LINE]\n영양가가 매우 높지만, 가격도 비싸다.[END]"
+        },
+        {
+            "offset": 1741864,
+            "string": "仙桃[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "선복숭아[END]"
+        },
+        {
+            "offset": 1741872,
+            "string": "トウケイの領土には、美しさと激しさを[LINE]\n兼ね備えた魅力的な動物がいるそうだ。[LINE]\n[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "토케이의 영토에는 아름다움과 격렬함을[LINE]\n겸비한 매력적인 동물이 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1741952,
+            "string": "炎のような赤いたてがみを持つ馬。[LINE]\n気性が激しいので乗りこなすのは大変だが、[LINE]\n脚はとても速い。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "불꽃 같은 붉은 갈기를 가진 말.[LINE]\n성격이 격렬하기 때문에 타고 다니기 힘들지만,[LINE]\n다리가 매우 빠르다.[END]"
+        },
+        {
+            "offset": 1742048,
+            "string": "ヒウマ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "히우마[END]"
+        },
+        {
+            "offset": 1742056,
+            "string": "シュサイアの近くには素早く動く動物がいる[LINE]\nらしいが、動きが速すぎて捕まえる事は[LINE]\n難しいという。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "슈사이아 근처에는 빠르게 움직이는 동물이[LINE]\n있는 듯하지만, 움직임이 너무 빨라서 잡는 것은[LINE]\n어렵다고 한다.[END]"
+        },
+        {
+            "offset": 1742152,
+            "string": "外殻で突然変異を起こしたミミズ。[LINE]\n色が黒く、俊敏な動きをする。[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "외각에서 갑작스러운 돌연변이를 일으킨 지렁이.[LINE]\n색이 검고, 민첩한 움직임을 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1742216,
+            "string": "クロミミズ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "크로미미즈[END]"
+        },
+        {
+            "offset": 1742232,
+            "string": "ダイクロフトの近くには恐ろしい悲鳴が[LINE]\n聞こえてくる場所があるというが、正体を[LINE]\n確認した者はいないらしい。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "다이크로프트 근처에는 무서운 비명이[LINE]\n들려오는 장소가 있다고 하지만, 정체를[LINE]\n확인한 사람은 없는 것 같다.[END]"
+        },
+        {
+            "offset": 1742336,
+            "string": "叫んでいるドクロの顔のように見える岩。[LINE]\n穴から聞こえる風の音は、まるで悲鳴のよう。[LINE]\n[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "소리 지르는 해골 얼굴처럼 보이는 바위.[LINE]\n구멍에서 들려오는 바람 소리는 마치 비명 같다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1742424,
+            "string": "ドクロ岩[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "해골 바위[END]"
+        },
+        {
+            "offset": 1742440,
+            "string": "アンスズーンの周辺には、地上の生き物の[LINE]\n怨念が空中をさまよっている場所がある[LINE]\nらしい。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "안스준 주변에는 지상의 생물의[LINE]\n원한이 공중을 떠돌고 있는 장소가 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1742528,
+            "string": "青白く燃え上がる不気味な火の玉。[LINE]\n土の中にある動物の骨などに含まれるリンが[LINE]\n蓄積され、自然発火したもの。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "푸르스름하게 타오르는 불길한 불덩어리.[LINE]\n흙 속에 있는 동물의 뼈 등에 포함된 인이[LINE]\n축적되어 자연 발화한 것.[END]"
+        },
+        {
+            "offset": 1742632,
+            "string": "鬼火[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "귀화[END]"
+        },
+        {
+            "offset": 1742640,
+            "string": "ロディオンの近くには幻想的な雰囲気を持つ[LINE]\n植物が自生しているそうだ。[LINE]\n[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71,
+            "translation": "로디온 근처에는 환상적인 분위기를 가진[LINE]\n식물이 자생하고 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1742712,
+            "string": "レンズ状の細胞が、わずかな光でも反射して[LINE]\n緑色に光る植物。[LINE]\nヒカリゴケ自身が光るわけではない。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "렌즈 모양의 세포가 미세한 빛도 반사하여[LINE]\n녹색으로 빛나는 식물.[LINE]\n히카리고케 자체가 빛나는 것은 아니다.[END]"
+        },
+        {
+            "offset": 1742808,
+            "string": "ヒカリゴケ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "히카리고케[END]"
+        },
+        {
+            "offset": 1742824,
+            "string": "船で航海をしていると、空が突然暗くなる[LINE]\n場所があるらしい。[LINE]\n船乗りの間では有名な話だそうだ。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "배를 타고 항해를 하고 있으면, 하늘이 갑자기 어두워지는[LINE]\n장소가 있다고 한다.[LINE]\n선원들 사이에서는 유명한 이야기라고.[END]"
+        },
+        {
+            "offset": 1742920,
+            "string": "大きなヒレで風に乗って空を飛ぶ巨大エイ。[LINE]\n最大飛行距離は５００メートルともいわれる。[LINE]\n[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "큰 지느러미로 바람을 타고 하늘을 나는 거대한 가오리.[LINE]\n최대 비행 거리는 500미터라고.[LINE]\n[END]"
+        },
+        {
+            "offset": 1743008,
+            "string": "ソラトビマンタ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "소라토비만타[END]"
+        },
+        {
+            "offset": 1743024,
+            "string": "海のどこかに、おもしろい角を持つ動物が[LINE]\n棲息しているそうだが、希少動物のため、[LINE]\nめったに見る事ができないという。[END]",
+            "original_bytes_length": 111,
+            "available_bytes_size": 111,
+            "translation": "바다 어딘가에 흥미로운 뿔을 가진 동물이[LINE]\n서식하고 있다고 하지만, 희귀 동물이라서,[LINE]\n좀처럼 볼 수 없다고.[END]"
+        },
+        {
+            "offset": 1743136,
+            "string": "角のように見える発達した三本の長い歯が[LINE]\n特徴的なクジラの仲間。[LINE]\n体が三角形というわけではない。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "뿔처럼 보이는 발달한 세 개의 긴 이가[LINE]\n특징적인 고래의 일종.[LINE]\n몸이 삼각형이라는 것은 아님.[END]"
+        },
+        {
+            "offset": 1743232,
+            "string": "サンカク[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "삼각[END]"
+        },
+        {
+            "offset": 1743248,
+            "string": "どこかの海岸には海に関する不思議な[LINE]\n伝説のある動物がいるというが、詳細は不明[LINE]\nらしい。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "어딘가의 해안에는 바다와 관련된 신비로운[LINE]\n전설이 있는 동물이 있다고 하지만, 자세한 것은 불명[LINE]\n하다고.[END]"
+        },
+        {
+            "offset": 1743336,
+            "string": "この貝が砂の上で踊ると、海が目覚め[LINE]\n風を呼び、波を起こすという言い伝えがある。[LINE]\n船乗りたちは海難防止のお守りにしている。[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "이 조개가 모래 위에서 춤추면, 바다가 깨어나[LINE]\n바람을 불러오고, 파도를 일으킨다는 전설이 있다.[LINE]\n선원들은 해난 방지의 부적으로 사용하고 있다.[END]"
+        },
+        {
+            "offset": 1743456,
+            "string": "磯波貝[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "이소나미가이[END]"
+        },
+        {
+            "offset": 1743464,
+            "string": "シデン領地には人々にとても大事にされて[LINE]\nいる植物があるらしい。[LINE]\n他の植物と見分けられる目印があるそうだ。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "시덴 영토에는 사람들에게 매우 소중히 여겨지는[LINE]\n식물이 있다고.[LINE]\n다른 식물과 구별할 수 있는 표지가 있다고.[END]"
+        },
+        {
+            "offset": 1743568,
+            "string": "樹齢１０００年を超える巨大な樹。[LINE]\nその生命力に人は憧れ、信仰の対象とした。[LINE]\n[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "수령 1000년을 넘는 거대한 나무.[LINE]\n그 생명력에 사람들은 동경하고, 신앙의 대상이 되었다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1743648,
+            "string": "御神木[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "오신목[END]"
+        },
+        {
+            "offset": 1743656,
+            "string": "クレスタには子供たちに見せてあげれば[LINE]\n尊敬される昆虫が近くにいるそうだが、[LINE]\n捕まえるのはとても難しいらしい。[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "크레스타에는 아이들에게 보여주면[LINE]\n존경받는 곤충이 근처에 있다고 하지만,[LINE]\n잡기는 매우 어렵다고.[END]"
+        },
+        {
+            "offset": 1743768,
+            "string": "高速でジャンプをするイナゴ。[LINE]\n捕まえれば子供たちのヒーローになれる。[LINE]\n[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71,
+            "translation": "고속으로 점프하는 메뚜기.[LINE]\n잡으면 아이들의 히어로가 될 수 있다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1743840,
+            "string": "ハヤイナゴ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "하야이 나고[END]"
+        },
+        {
+            "offset": 1743856,
+            "string": "一見、砂漠には生き物がいないと思うかも[LINE]\nしれないが、チェリクの周辺を探すと巨大な[LINE]\n動物が生息している事がわかるらしい。[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "언뜻 보기에는 사막에는 생물이 없다고 생각할 수도 있지만[LINE]\n체리크 주변을 탐색하면 거대한[LINE]\n동물이 서식하고 있다는 것을 알 수 있다고.[END]"
+        },
+        {
+            "offset": 1743976,
+            "string": "飛ぶ事ができない巨大鳥類の卵。[LINE]\n綺麗な深緑色と大きさからエッグアートの[LINE]\n世界では重宝されている。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "날 수 없는 거대한 조류의 알.[LINE]\n아름다운 깊은 녹색과 크기로 인해 에그 아트의[LINE]\n세계에서 귀중히 여겨진다고.[END]"
+        },
+        {
+            "offset": 1744072,
+            "string": "ホホエミューの卵[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "호호에뮤의 알[END]"
+        },
+        {
+            "offset": 1744096,
+            "string": "温泉が有名なスノーフリアだが、人里離れた[LINE]\n場所に万病を治す事のできる秘湯中の[LINE]\n秘湯があるそうだ。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "온천으로 유명한 스노우플리아지만, 사람들로부터 멀리 떨어진[LINE]\n곳에 만병을 치료할 수 있는 비밀 온천이[LINE]\n있다고.[END]"
+        },
+        {
+            "offset": 1744192,
+            "string": "地熱で適度に暖められた地下水が地上に[LINE]\n噴出してできた天然の温泉。[LINE]\n温まる以外にもいろいろな効能がある。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "지열로 적당히 따뜻해진 지하수가 지상에[LINE]\n분출되어 만들어진 천연 온천.[LINE]\n따뜻해지는 것 외에도 여러 가지 효능이 있다.[END]"
+        },
+        {
+            "offset": 1744296,
+            "string": "天然温泉[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "천연 온천[END]"
+        },
+        {
+            "offset": 1744312,
+            "string": "海に浮かぶ島々の中には、世間と隔絶された[LINE]\n環境に守られた、希少な昆虫が生息する[LINE]\n場所もあるという。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "바다에 떠 있는 섬들 중에는, 세상과 격리된[LINE]\n환경에 보호받는 희귀한 곤충이 서식하는[LINE]\n곳도 있다고.[END]"
+        },
+        {
+            "offset": 1744416,
+            "string": "黄金色に輝く見事な羽を持つアゲハチョウ。[LINE]\nマニア垂涎の希少昆虫。[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "황금빛으로 빛나는 멋진 날개를 가진 아게하나비.[LINE]\n매니아들이 갈망하는 희귀 곤충.[LINE]\n[END]"
+        },
+        {
+            "offset": 1744488,
+            "string": "ゴールデンアゲハ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "골든 아게하[END]"
+        },
+        {
+            "offset": 1744512,
+            "string": "モリュウの領地には不思議な伝説のある[LINE]\n神秘的な植物があるそうだ。[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "모리유의 영토에는 신비한 전설이 있는[LINE]\n신비로운 식물이 있다고.[LINE]\n[END]"
+        },
+        {
+            "offset": 1744584,
+            "string": "輝く節の中から黄金とともに美しい姫が[LINE]\n生まれたという伝説がある竹。[LINE]\nしなやかだが、とても堅い。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "빛나는 마디 속에서 황금과 함께 아름다운 공주가[LINE]\n태어났다는 전설이 있는 대나무.[LINE]\n유연하지만, 매우 단단함.[END]"
+        },
+        {
+            "offset": 1744680,
+            "string": "カグヤダケ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "카구야다케[END]"
+        },
+        {
+            "offset": 1744696,
+            "string": "願い事があるのなら、ノイシュタットの[LINE]\n周辺に自生している鮮やかな植物を探して[LINE]\nみると良いらしい。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "소원이 있다면, 노이슈타트의[LINE]\n주변에 자생하고 있는 화려한 식물을 찾아보는[LINE]\n것이 좋다고.[END]"
+        },
+        {
+            "offset": 1744792,
+            "string": "見つけると、どんな願い事も叶うという[LINE]\n言い伝えのある植物。[LINE]\n旅のお守りとしても使われる。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "발견하면 어떤 소원도 이루어진다는[LINE]\n전해지는 식물.[LINE]\n여행의 부적으로도 사용됨.[END]"
+        },
+        {
+            "offset": 1744880,
+            "string": "七色のクローバー[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "일곱 색깔의 클로버[END]"
+        },
+        {
+            "offset": 1744904,
+            "string": "セインガルドから来た行商人が国境を越えて[LINE]\n少し行ったところで、人にいたずらをする[LINE]\n奇妙な植物を見つけたと言っていたらしい。[END]",
+            "original_bytes_length": 121,
+            "available_bytes_size": 127,
+            "translation": "세인갈드에서 온 행상인이 국경을 넘어[LINE]\n조금 가다보니, 사람에게 장난치는[LINE]\n이상한 식물을 발견했다고.[END]"
+        },
+        {
+            "offset": 1745032,
+            "string": "近づく者に雪を投げつけるという[LINE]\n珍しい植物。[LINE]\n普段は丸まっている。[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "가까이 다가오는 자에게 눈을 던지는[LINE]\n희귀한 식물.[LINE]\n평소에는 둥글게 말려 있다.[END]"
+        },
+        {
+            "offset": 1745104,
+            "string": "ユキカケワラビ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "유키카케와라비[END]"
+        },
+        {
+            "offset": 1745120,
+            "string": "二年前の動乱があった街では周辺の植物も[LINE]\n被害を受けたが、まばゆい宝石のような輝き[LINE]\nだけは誰にも奪われなかったという。[END]",
+            "original_bytes_length": 115,
+            "available_bytes_size": 119,
+            "translation": "2년 전의 혼란이 있던 도시에서는 주변의 식물도[LINE]\n피해를 입었지만, 눈부신 보석 같은 빛깔만은[LINE]\n누구에게도 빼앗기지 않았다고.[END]"
+        },
+        {
+            "offset": 1745240,
+            "string": "空気中の水分が細かい氷の粒になって漂い、[LINE]\n太陽に照らされて輝く自然現象。[LINE]\nキラキラと光る様子は、とても美しい。[END]",
+            "original_bytes_length": 109,
+            "available_bytes_size": 111,
+            "translation": "공기 중의 수분이 작은 얼음 알갱이가 되어 떠돌며,[LINE]\n태양에 비춰져 빛나는 자연 현상.[LINE]\n반짝반짝 빛나는 모습은 매우 아름답다.[END]"
+        },
+        {
+            "offset": 1745352,
+            "string": "ダイヤモンドダスト[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "다이아몬드 더스트[END]"
+        },
+        {
+            "offset": 1745376,
+            "string": "都会でも外にでて周りの植物を見渡せば、[LINE]\n自然の厳しさと美しさを感じる事ができる[LINE]\n現象が起こるのが雪国というものらしい。[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "도시에서도 밖으로 나가 주위를 둘러보면,[LINE]\n자연의 엄격함과 아름다움을 느낄 수 있는[LINE]\n현상이 일어나는 곳이 설국인 것이다.[END]"
+        },
+        {
+            "offset": 1745496,
+            "string": "霧氷の一種で、樹についた水滴が凍りついて[LINE]\nできたもの。[LINE]\n樹に花が咲いたように見える。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "안개 얼음의 일종으로, 나무에 붙은 물방울이 얼어서[LINE]\n생긴 것.[LINE]\n나무에 꽃이 핀 것처럼 보인다.[END]"
+        },
+        {
+            "offset": 1745584,
+            "string": "樹氷[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "수빙[END]"
+        },
+        {
+            "offset": 1745592,
+            "string": "フィッツガルドの田舎の風景がのどかだから[LINE]\nといって自然をなめてはいけないらしい。[LINE]\n中にはとても恐ろしい植物がいるそうだ。[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "피츠가르드의 시골 풍경이 평화롭다고 하더라도[LINE]\n자연을 무시해서는 안된다고 한다.[LINE]\n그 중에는 매우 무서운 식물이 있다고.[END]"
+        },
+        {
+            "offset": 1745712,
+            "string": "昆虫に擬態して鳥を誘い、留まった鳥を[LINE]\nくっつけて離さない植物。[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "곤충에 위장해 새를 유인하고, 머물러 있는 새를[LINE]\n붙잡고 놓지 않는 식물.[LINE]\n[END]"
+        },
+        {
+            "offset": 1745776,
+            "string": "トリトリソウ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "토리토리소우[END]"
+        },
+        {
+            "offset": 1745792,
+            "string": "二年前の動乱で減少した旅行客の数が、街の[LINE]\n近くの話題のスポットを目当てに増えている。[LINE]\n名無しのいたずら者に街の人は大感謝らしい。[END]",
+            "original_bytes_length": 127,
+            "available_bytes_size": 127,
+            "translation": "2년 전의 혼란으로 감소한 여행객 수가, 도시의[LINE]\n근처의 화제의 스팟을 목표로 증가하고 있다.[LINE]\n이름 없는 장난꾼에게 도시 사람들은 대단히 감사하고 있다고.[END]"
+        },
+        {
+            "offset": 1745920,
+            "string": "樹木に色とりどりの飾りや、ロウソクなどが[LINE]\n付けられたもの。[LINE]\n誰がこのようなものを……[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "나무에 다채로운 장식이나, 촛불 등이[LINE]\n붙여진 것.[LINE]\n누가 이런 것을…[END]"
+        },
+        {
+            "offset": 1746008,
+            "string": "キャンドルツリー[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "캔들 트리[END]"
+        },
+        {
+            "offset": 1746032,
+            "string": "雪国でなくても寒いのだろうか？[LINE]\n国境を越えた先のセインガルドの村の周辺に、[LINE]\nいつも寄り添っている動物がいるそうだ。[END]",
+            "original_bytes_length": 113,
+            "available_bytes_size": 119,
+            "translation": "눈나라가 아니어도 추운 걸까?[LINE]\n국경을 넘은 곳의 세인갈드 마을 주변에,[LINE]\n항상 함께하는 동물이 있다고.[END]"
+        },
+        {
+            "offset": 1746152,
+            "string": "夫婦仲がとても良いネズミ。[LINE]\n寄り添う様子が常にくちづけをしている[LINE]\nように見える。[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "부부 사이가 매우 좋은 쥐.[LINE]\n서로 붙어 있는 모습이 항상 키스를 하고 있는[LINE]\n것처럼 보인다.[END]"
+        },
+        {
+            "offset": 1746232,
+            "string": "マウスチューマウス[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "마우스츄 마우스[END]"
+        },
+        {
+            "offset": 1746256,
+            "string": "都会のほうでは、人間もビックリするような[LINE]\n行動をする動物が話題になっているという。[LINE]\nどうやら、この地方特有の行動らしい。[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "도시 쪽에서는, 인간도 놀랄 만한[LINE]\n행동을 하는 동물이 화제가 되고 있다고 한다.[LINE]\n아무래도, 이 지역 특유의 행동인 듯.[END]"
+        },
+        {
+            "offset": 1746376,
+            "string": "巧みに雪山を滑り降りる犬。[LINE]\nその技術には「ホットドッグなドッグだ」と[LINE]\n驚きの声多数。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "능숙하게 눈산을 미끄러져 내려오는 개.[LINE]\n그 기술에 대해 \"핫도그 같은 개다\"라는[LINE]\n놀라움의 목소리가 많다.[END]"
+        },
+        {
+            "offset": 1746464,
+            "string": "ホットドッグ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "핫도그[END]"
+        },
+        {
+            "offset": 1746480,
+            "string": "暗くなった世界に希望の火を灯すような[LINE]\n植物があるという。[LINE]\n海に浮かぶどこかの島らしい。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "어두워진 세계에 희망의 불을 밝히는[LINE]\n식물이 있다고 한다.[LINE]\n바다에 떠 있는 어딘가의 섬인 듯.[END]"
+        },
+        {
+            "offset": 1746568,
+            "string": "新月の夜に、ぼんやり光る花を咲かせる植物。[LINE]\n花が咲いた様子はとても幻想的。[LINE]\n[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "신월의 밤에 희미하게 빛나는 꽃을 피우는 식물.[LINE]\n꽃이 핀 모습은 매우 환상적.[LINE]\n[END]"
+        },
+        {
+            "offset": 1746648,
+            "string": "ヤミマチソウ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "야미마치소우[END]"
+        },
+        {
+            "offset": 1746664,
+            "string": "ストレイライズ神殿にお参りに行ったら、[LINE]\n懐があたたかくなるような気がするものを[LINE]\n見つけたらしい。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "스트레이라이즈 신전에 참배하러 갔더니,[LINE]\n주머니가 따뜻해지는 듯한 기분이 드는 것을[LINE]\n발견한 것 같다고 한다.[END]"
+        },
+        {
+            "offset": 1746760,
+            "string": "体長１０メートルはあると言われる大蛇の皮。[LINE]\n持っていると金持ちになれるという噂がある。[LINE]\n[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "체장 10미터는 된다고 하는 큰 뱀의 피부.[LINE]\n가지고 있으면 부자가 될 수 있다는 소문이 있다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1746848,
+            "string": "マネーヘビの皮[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "머니 스네이크의 피부[END]"
+        },
+        {
+            "offset": 1746864,
+            "string": "緑の外殻には昆虫もいるらしい。[LINE]\n確か技術研究施設のある空中都市の近く[LINE]\nだったような気がしたそうだ。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "초록색 외각에는 곤충도 있는 것 같다.[LINE]\n확실히 기술 연구 시설이 있는 공중 도시 근처[LINE]\n였던 것 같은 기분이 든다고.[END]"
+        },
+        {
+            "offset": 1746968,
+            "string": "身体の三倍の長さの角を持つカブトムシ。[LINE]\n強そうだが弱い。[LINE]\n[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63,
+            "translation": "몸의 세 배 길이의 뿔을 가진 딱정벌레.[LINE]\n강해 보이지만 약하다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1747032,
+            "string": "オオツノカブトムシ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "큰뿔 딱정벌레[END]"
+        },
+        {
+            "offset": 1747056,
+            "string": "ストレイライズ神殿へ巡礼に来る途中の村で、[LINE]\n子供に嫌われているおもしろい動物の話を[LINE]\n耳にしたという。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "스트레이라이즈 신전으로 순례 가는 도중의 마을에서,[LINE]\n아이들에게 싫어받고 있는 재미있는 동물 이야기를[LINE]\n들었다고 한다.[END]"
+        },
+        {
+            "offset": 1747160,
+            "string": "するどいくちばしを持つ鳥。[LINE]\n「ウソツツキにつつかれるよ」と、親は子の[LINE]\nウソをしかる。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "날카로운 부리를 가진 새.[LINE]\n\"거짓말하는 새에 쪼일 거야\"라고, 부모는 아이의[LINE]\n거짓말을 나무란다.[END]"
+        },
+        {
+            "offset": 1747248,
+            "string": "ウソツツキ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "거짓말하는 새[END]"
+        },
+        {
+            "offset": 1747264,
+            "string": "シュサイアの近くには見た目は綺麗だけれど[LINE]\n危険な薬の材料になる植物が自生している[LINE]\nらしい。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "슈사이아 근처에는 보기에는 아름답지만[LINE]\n위험한 약재가 되는 식물이 자생하고 있다고 한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1747360,
+            "string": "白ユリに似た形をした花。[LINE]\n花の汁は、危険な薬の材料になる。[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "흰 백합과 비슷한 형태를 가진 꽃.[LINE]\n꽃의 즙은 위험한 약재가 된다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1747424,
+            "string": "ティアの花[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "티아의 꽃[END]"
+        }
+    ]
+}
