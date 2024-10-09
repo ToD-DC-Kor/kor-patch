@@ -196,7 +196,7 @@
 <Chaltier>
 [ENDBLOCK]
 딤로스와 아트와이트,
-익티노스에 클레멘테.
+익티노스에 클레멘트.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]

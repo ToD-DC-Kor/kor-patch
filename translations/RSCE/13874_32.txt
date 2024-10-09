@@ -126,7 +126,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-소디언의 이름은 클레멘테.
+소디언의 이름은 클레멘트.
 반드시 우리에게 도움이 될 거야.
 [ENDBLOCK]
 <Chaltier>

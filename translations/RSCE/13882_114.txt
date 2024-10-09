@@ -483,7 +483,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-여기가 클레멘테가 안치되어 있는,
+여기가 클레멘트가 안치되어 있는,
 수송함 내부다.
 [ENDBLOCK]
 <Chaltier>
@@ -577,12 +577,12 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-클레멘테는 얻었지만,
+클레멘트는 얻었지만,
 이것도 이것대로 활용하도록 하죠.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Philia>는 클레멘테 없이도,
+<Philia>는 클레멘트 없이도,
 충분히 강했던 게 아닐까?
 [ENDBLOCK]
 <Clemente>

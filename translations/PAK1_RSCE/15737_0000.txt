@@ -5,7 +5,7 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-클레멘테는
+클레멘트는
 어떤 사람인가?
 [ENDBLOCK]
 한마디로 여자의 적이죠.

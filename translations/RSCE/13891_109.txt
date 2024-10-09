@@ -132,7 +132,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-저게 클레멘테야.
+저게 클레멘트야.
 [ENDBLOCK]
 ?????
 [ENDBLOCK]
@@ -149,7 +149,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-클레멘테 영감, 장난은
+클레멘트 영감, 장난은
 적당히 해주시지.
 [ENDBLOCK]
 <Stahn>
@@ -229,7 +229,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런데 클레멘테의 주인은
+그런데 클레멘트의 주인은
 어떻게 할 거야?
 [ENDBLOCK]
 <Dymlos>
@@ -265,7 +265,7 @@
 <Stahn>
 [ENDBLOCK]
 목소리가 들렸다고……
-설마, 클레멘테의……?
+설마, 클레멘트의……?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -307,7 +307,7 @@
 <Philia>
 [ENDBLOCK]
 당신과 함께 싸우겠습니다. 저에게 힘을.
-……클레멘테!
+……클레멘트!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -358,7 +358,7 @@
 <Philia>
 [ENDBLOCK]
 잘 부탁드립니다.
-클레멘테. 그리고 여러분도.
+클레멘트. 그리고 여러분도.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
