@@ -238,7 +238,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-이런 개인적인 이유로 싸우는 게
+이런 개인적인 이유로 싸우는 건
 안 되는 걸까?
 [ENDBLOCK]
 <Stahn>
