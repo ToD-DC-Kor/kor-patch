@@ -96,28 +96,28 @@
             "string": "フルーツとうふ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "프루츠 두부[END]"
+            "translation": "과일 두부[END]"
         },
         {
             "offset": 1816336,
             "string": "フルーツチーズ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "프루츠 치즈[END]"
+            "translation": "과일 치즈[END]"
         },
         {
             "offset": 1816352,
             "string": "フルーツパフェ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "프루츠 파르페[END]"
+            "translation": "과일 파르페[END]"
         },
         {
             "offset": 1816368,
             "string": "舟盛り[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "후나모리[END]"
+            "translation": "배에 담은 요리[END]"
         },
         {
             "offset": 1816376,

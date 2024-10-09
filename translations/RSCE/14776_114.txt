@@ -27,7 +27,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-이방은 대체 뭐야?
+이 방은 대체 뭐야?
 벽에 사람들이 묻혀 있어……
 [ENDBLOCK]
 <Rutee>
