@@ -1,0 +1,277 @@
+{
+    "00073.md1": [
+        {
+            "offset": 8288,
+            "string": "[Circle_ani]決定[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]결정[END]"
+        },
+        {
+            "offset": 8304,
+            "string": "[Circle_ani]選択切替[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]선택 전환[END]"
+        },
+        {
+            "offset": 8320,
+            "string": "[Circle_ani]次へ[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]다음[END]"
+        },
+        {
+            "offset": 12568,
+            "string": "これで始める[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "이것으로 시작[END]"
+        },
+        {
+            "offset": 12584,
+            "string": "ここの[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "9개[END]"
+        },
+        {
+            "offset": 12592,
+            "string": "やっ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "8개[END]"
+        },
+        {
+            "offset": 12600,
+            "string": "なな[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "7개[END]"
+        },
+        {
+            "offset": 12608,
+            "string": "むっ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "6개[END]"
+        },
+        {
+            "offset": 12616,
+            "string": "いつ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "5걔[END]"
+        },
+        {
+            "offset": 12624,
+            "string": "よっ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "4개[END]"
+        },
+        {
+            "offset": 12632,
+            "string": "みっ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "3개[END]"
+        },
+        {
+            "offset": 12640,
+            "string": "ふた[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "2개[END]"
+        },
+        {
+            "offset": 12648,
+            "string": "ひと[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "1개[END]"
+        },
+        {
+            "offset": 12656,
+            "string": "なっ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 15,
+            "translation": "なっ[END]"
+        },
+        {
+            "offset": 12672,
+            "string": "設定した項目を反映させたゲームを開始します。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 74,
+            "available_bytes_size": 79,
+            "translation": "설정한 항목을 반영한 게임을 시작합니다. [LINE]\n진행하시겠습니까? [LINE]\n예[LINE]\n아니요[END]"
+        },
+        {
+            "offset": 12752,
+            "string": "最後に、お好みの拡張項目を設定して[LINE]\nゲームを開始できます。[LINE]\n[TAG_015]つまで設定可能です。[END]",
+            "original_bytes_length": 84,
+            "available_bytes_size": 87,
+            "translation": "마지막으로, 원하는 확장을 설정하여[LINE]\n게임 시작 가능.[LINE]\n[TAG_015]까지 설정 가능. [END]"
+        },
+        {
+            "offset": 12840,
+            "string": "以下のデータを引き継ぎます。[LINE]\n・図鑑用データ[LINE]\n・料理回数[LINE]\n・称号履歴[LINE]\n・術技回数[LINE]\n[END]",
+            "original_bytes_length": 78,
+            "available_bytes_size": 79,
+            "translation": "다음 데이터를 이어받습니다.[LINE]\n・도감 데이터[LINE]\n・요리 횟수[LINE]\n・칭호 기록[LINE]\n・기술 횟수[END]"
+        },
+        {
+            "offset": 12920,
+            "string": "以下の貴重品を引き継ぎます。[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "다음 귀중품을 이어받습니다. [END]"
+        },
+        {
+            "offset": 12952,
+            "string": "以下の宝石を引き継ぎます。[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "다음 보석을 이어받습니다. [END]"
+        },
+        {
+            "offset": 12984,
+            "string": "以下のアイテムを引き継ぎます。[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "다음 아이템을 이어받습니다. [END]"
+        },
+        {
+            "offset": 13016,
+            "string": "新たなる冒険への扉にようこそ！[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "새로운 모험에 어서오세요! [END]"
+        },
+        {
+            "offset": 13048,
+            "string": "フードストラップ・フード最大値を引き継ぎます。[LINE]\nこれで道中も満腹ライフ。[LINE]\n[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "푸드 스트랩・푸드 최대치를 이어받습니다. [LINE]\n이제 여정 중에도 배부른 생활. [LINE]\n[END]"
+        },
+        {
+            "offset": 13152,
+            "string": "フードストラップ引き継ぎ[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "푸드 스트랩 이어받기[END]"
+        },
+        {
+            "offset": 13184,
+            "string": "習得した術技を引き継ぎます。[LINE]\n「なんだ、この剣？妙に手になじむ……」[LINE]\nそんな気持ちもわかる。契約とか気にしないこと。[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "습득한 기술을 이어받습니다. [LINE]\n「뭐지, 이 검은? 묘하게 잘 맞는다……」[LINE]\n그런 느낌도 이해해. 세세한 것은 신경 쓰지 마.[END]"
+        },
+        {
+            "offset": 13320,
+            "string": "術技引き継ぎ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "기술 이어받기[END]"
+        },
+        {
+            "offset": 13336,
+            "string": "受けるダメージが１／４０に。ただし最大ＨＰも削ります！[LINE]\n取り返しがつかなくなる恐れがあるので自己責任で。[LINE]\n殴られずに殴るのが好きなら？[END]",
+            "original_bytes_length": 133,
+            "available_bytes_size": 135,
+            "translation": "받는 데미지가 1/40로. 단, 최대 HP도 깎임! [LINE]\n돌이킬 수 없게 될 수 있으니 책임은 본인에게.[LINE]\n맞지 않고 때리는 것을 좋아하는 분? [END]"
+        },
+        {
+            "offset": 13488,
+            "string": "サバイバルモード[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "서바이벌 모드[END]"
+        },
+        {
+            "offset": 13512,
+            "string": "[Select_ani]で操作キャラ切り替えができるように[LINE]\nなります。ディフィニットストライクを[LINE]\n極めたい人にもほどよく便利。[END]",
+            "original_bytes_length": 106,
+            "available_bytes_size": 111,
+            "translation": "[Select_ani]로 조작 캐릭터 전환이 가능해[LINE]\n디피니트 스트라이크를 마스터하고[LINE]\n싶은 사람에게도 적당히 편리.[END]"
+        },
+        {
+            "offset": 13640,
+            "string": "セレクターモード[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "셀렉터 모드[END]"
+        },
+        {
+            "offset": 13664,
+            "string": "戦闘参加人数が先頭キャラ一人だけに。[LINE]\n一見辛そうですがＣＣが倍になるボーナスつき！[LINE]\nどうあっても一人ＲＰＧが好きな方に。[LINE]\n[END]",
+            "original_bytes_length": 120,
+            "available_bytes_size": 120,
+            "translation": "전투 참가 인원이 선두 캐릭터 한 명만.[LINE]\n얼핏 보면 힘들어 보이지만 CC가 두 배가 되는 보너스 포함![LINE]\n1인 RPG 애호가에게.[LINE]\n[END]"
+        },
+        {
+            "offset": 13800,
+            "string": "一人パーティプレイ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "1인 파티 플레이[END]"
+        },
+        {
+            "offset": 13824,
+            "string": "惑星規模の変動？敵味方のダメージ時の重力が低下し、[LINE]\n空中での連携が簡単に……なるとは限りませんが[LINE]\n可能性は広がった感じ。[END]",
+            "original_bytes_length": 121,
+            "available_bytes_size": 127,
+            "translation": "행성 규모의 변동? 적군과 아군의 데미지 시 중력이 감소,[LINE]\n공중에서의 연계가 쉽게…… 될거란 보장은 없지만[LINE]\n가능성은 넓어진 느낌.[END]"
+        },
+        {
+            "offset": 13968,
+            "string": "のけぞり重力低下[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "넘어짐 중력 감소[END]"
+        },
+        {
+            "offset": 13992,
+            "string": "移動行動ではＣＣが減らなくなります。[LINE]\nこれですごい勢いでバックステップしたり[LINE]\n攻撃するたびジャンプしても大丈夫。[END]",
+            "original_bytes_length": 111,
+            "available_bytes_size": 111,
+            "translation": "이동 행동으로 CC가 줄어들지 않음.[LINE]\n이로인해 엄청난 속도로 백스텝을 하거나[LINE]\n공격할 때마다 점프해도 괜찮음.[END]"
+        },
+        {
+            "offset": 14128,
+            "string": "移動制限解除[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "이동 제한 해제[END]"
+        },
+        {
+            "offset": 14144,
+            "string": "キャラクターの基本ＣＣ値を、難易度に合わせた[LINE]\n数値だけ増加させてプレイできます。[LINE]\n素直にもう一周したい人はコチラ。[LINE]\n[END]",
+            "original_bytes_length": 114,
+            "available_bytes_size": 119,
+            "translation": "캐릭터의 기본 CC 값을, 난이도에 맞는[LINE]\n수치만 증가시켜 플레이할 수 있습니다.[LINE]\n솔직히 한 번 더 플레이할 사람은 여기.[LINE]\n[END]"
+        },
+        {
+            "offset": 14280,
+            "string": "チェインキャパ拡張[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "체인 캡 확장[END]"
+        },
+        {
+            "offset": 14304,
+            "string": "使用ポイント[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "사용 포인트[END]"
+        },
+        {
+            "offset": 14320,
+            "string": "残りポイント[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "남은 포인트[END]"
+        }
+    ]
+}

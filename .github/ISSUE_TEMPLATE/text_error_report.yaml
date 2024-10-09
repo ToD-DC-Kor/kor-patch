@@ -6,7 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        스크린샷을 첨부하거나 [텍스트 오류 제보 가이드](https://github.com/ToD-DC-Kor/kor-patch/blob/main/CONTRIBUTING.md#%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%A4%EB%A5%98-%EC%A0%9C%EB%B3%B4)를 따라 제보해주세요.
+        스크린샷을 첨부하거나 [텍스트 오류 제보 가이드](https://github.com/ToD-DC-Kor/kor-patch/blob/main/CONTRIBUTING.md#%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%A4%EB%A5%98-%EC%A0%9C%EB%B3%B4)를 따라 제보해 주세요.
+        직접 개선 번역을 제안하고 싶다면 [번역 교정 가이드](https://github.com/ToD-DC-Kor/kor-patch/blob/main/CONTRIBUTING.md#%EB%B2%88%EC%97%AD-%EA%B5%90%EC%A0%95)를 참고해 주세요.
 
         텍스트 오류 제보 가이드를 따르지 못했다면, 도움이 되는 스크린샷을 첨부해주세요. 번역 오류는 스크린샷이 크게 도움 됩니다.
   - type: textarea
