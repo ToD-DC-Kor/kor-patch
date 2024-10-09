@@ -1902,7 +1902,7 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-네. 이 핏츠가르드의
+네. 이 피츠가르드의
 어딘가에 있다고 들어서요.
 [ENDBLOCK]
 <Lilith>
