@@ -5,8 +5,8 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-도시의 대로를 북쪽으로 갔다
-막다른 곳이 투기장의 입구다.
+도시의 대로를 북쪽으로 가면
+막다른 곳에 투기장 입구가 있다.
 [ENDBLOCK]
-거기에 <Kongman>이 있을 것이다.
+그곳에 <Kongman>이 있을 것이다.
 [ENDBLOCK]

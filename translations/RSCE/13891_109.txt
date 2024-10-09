@@ -53,7 +53,7 @@
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-라디스로우를 작동시키는 R키는
+라디슬로우를 작동시키는 R키는
 여기서 남서쪽에 있는 신전에 있어.
 [ENDBLOCK]
 <Ritora>
@@ -82,7 +82,7 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-우리 쪽의 주술이나 기술을 봉인하는
+우리 쪽의 정술이나 기술을 봉인하는
 공격이 있었다고 하더라고요.
 
 [ENDBLOCK]
@@ -526,12 +526,12 @@
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-이 라디스로우를 부상시켜,
+이 라디슬로우를 부상시켜,
 다이크로프트에 직접 접근시키는 거다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-부상……? 라디스로우에
+부상……? 라디슬로우에
 그런 성능이 있었나요?
 [ENDBLOCK]
 <Ritora>
@@ -551,7 +551,7 @@
 <Woodrow>
 [ENDBLOCK]
 비행룡으로는 도달할 수 없었던 고도에
-라디스로우라면 닿을 수 있다는 건가?
+라디슬로우라면 닿을 수 있다는 건가?
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
@@ -684,7 +684,7 @@ R키를 가지러 가자.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-라디스로우에서는
+라디슬로우에서는
 남서쪽 방향이네요.
 [ENDBLOCK]
 <Ritora>
@@ -735,7 +735,7 @@ R키 입수, 수고했다.
 <Ritora>
 [ENDBLOCK]
 이제부터 우리 쪽에서
-라디스로우 부상 준비를 시작한다.
+라디슬로우 부상 준비를 시작한다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
@@ -1005,7 +1005,7 @@ R키 입수, 수고했다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-라디스로우, 부상!
+라디슬로우, 부상!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

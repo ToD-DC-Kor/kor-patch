@@ -1,0 +1,459 @@
+{
+    "SLPS": [
+        {
+            "offset": 1724424,
+            "string": "テストプレイポイント：[TAG_015]に到達[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "테스트 플레이 포인트: [TAG_015]에 도달[END]"
+        },
+        {
+            "offset": 1724464,
+            "string": "＋体力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "＋체력[END]"
+        },
+        {
+            "offset": 1724472,
+            "string": "＋集中力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "＋집중력[END]"
+        },
+        {
+            "offset": 1724488,
+            "string": "＋回避率[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "＋회피율[END]"
+        },
+        {
+            "offset": 1724504,
+            "string": "＋命中率[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "＋명중률[END]"
+        },
+        {
+            "offset": 1724520,
+            "string": "＋術防御力[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "＋정술 방어력[END]"
+        },
+        {
+            "offset": 1724536,
+            "string": "＋防御力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "＋방어력[END]"
+        },
+        {
+            "offset": 1724552,
+            "string": "＋術攻撃力[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "＋정술 공격력[END]"
+        },
+        {
+            "offset": 1724568,
+            "string": "＋攻撃力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "＋공격력[END]"
+        },
+        {
+            "offset": 1724584,
+            "string": "？[END]",
+            "translation": "？[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724592,
+            "string": "[Sign_Dark]闇属性[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Dark]어둠 속성[END]"
+        },
+        {
+            "offset": 1724608,
+            "string": "[Sign_Light]光属性[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Light]빛 속성[END]"
+        },
+        {
+            "offset": 1724624,
+            "string": "[Sign_Water]水属性[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Water]물 속성[END]"
+        },
+        {
+            "offset": 1724640,
+            "string": "[Sign_Fire]火属性[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Fire]불 속성[END]"
+        },
+        {
+            "offset": 1724656,
+            "string": "[Sign_Wind]風属性[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Wind]바람 속성[END]"
+        },
+        {
+            "offset": 1724672,
+            "string": "[Sign_Earth]地属性[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Earth]땅 속성[END]"
+        },
+        {
+            "offset": 1724688,
+            "string": "[Sign_Sonic]音撃[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Sonic]음파[END]"
+        },
+        {
+            "offset": 1724704,
+            "string": "[Sign_Shot]射撃[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Shot]사격[END]"
+        },
+        {
+            "offset": 1724720,
+            "string": "[Sign_Strike]打撃[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Strike]타격[END]"
+        },
+        {
+            "offset": 1724736,
+            "string": "[Sign_Slash]斬撃[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Slash]참격[END]"
+        },
+        {
+            "offset": 1724752,
+            "string": "生体兵器[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "생체 병기[END]"
+        },
+        {
+            "offset": 1724768,
+            "string": "不死者[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "불사자[END]"
+        },
+        {
+            "offset": 1724776,
+            "string": "無機物[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "무기물[END]"
+        },
+        {
+            "offset": 1724784,
+            "string": "精神体[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "정신체[END]"
+        },
+        {
+            "offset": 1724792,
+            "string": "人間[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "인간[END]"
+        },
+        {
+            "offset": 1724800,
+            "string": "機械[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "기계[END]"
+        },
+        {
+            "offset": 1724808,
+            "string": "竜族[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "용족[END]"
+        },
+        {
+            "offset": 1724816,
+            "string": "不定形[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "불정형[END]"
+        },
+        {
+            "offset": 1724824,
+            "string": "獣[END]",
+            "translation": "獣[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724832,
+            "string": "植物[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "식물[END]"
+        },
+        {
+            "offset": 1724840,
+            "string": "爬虫類[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "파충류[END]"
+        },
+        {
+            "offset": 1724848,
+            "string": "水棲生物[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "수생 생물[END]"
+        },
+        {
+            "offset": 1724864,
+            "string": "昆虫[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "곤충[END]"
+        },
+        {
+            "offset": 1724872,
+            "string": "飛翼[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "비익[END]"
+        },
+        {
+            "offset": 1724880,
+            "string": "不明[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "불명[END]"
+        },
+        {
+            "offset": 1724888,
+            "string": "-PAUSE-[END]",
+            "translation": "-PAUSE-[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8
+        },
+        {
+            "offset": 1724896,
+            "string": "停止[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "정지[END]"
+        },
+        {
+            "offset": 1724904,
+            "string": "小型[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "소형[END]"
+        },
+        {
+            "offset": 1724912,
+            "string": "封印[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "봉인[END]"
+        },
+        {
+            "offset": 1724920,
+            "string": "マヒ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "마비[END]"
+        },
+        {
+            "offset": 1724928,
+            "string": "睡眠[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "수면[END]"
+        },
+        {
+            "offset": 1724936,
+            "string": "熱毒[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "열독[END]"
+        },
+        {
+            "offset": 1724944,
+            "string": "衰弱[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "쇠약[END]"
+        },
+        {
+            "offset": 1724952,
+            "string": "石化[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "석화[END]"
+        },
+        {
+            "offset": 1724960,
+            "string": "--[END]",
+            "translation": "--[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724968,
+            "string": "闇[END]",
+            "translation": "闇[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724976,
+            "string": "光[END]",
+            "translation": "빛[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724984,
+            "string": "風[END]",
+            "translation": "바람[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1724992,
+            "string": "火[END]",
+            "translation": "불[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1725000,
+            "string": "水[END]",
+            "translation": "물[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1725008,
+            "string": "地[END]",
+            "translation": "땅[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1725016,
+            "string": "音[END]",
+            "translation": "음파[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1725024,
+            "string": "射[END]",
+            "translation": "사격[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1725032,
+            "string": "打[END]",
+            "translation": "타격[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1725040,
+            "string": "斬[END]",
+            "translation": "참격[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1725048,
+            "string": "最大ＣＣ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "최대 CC[END]"
+        },
+        {
+            "offset": 1725064,
+            "string": "最小ＣＣ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "최소 CC[END]"
+        },
+        {
+            "offset": 1725080,
+            "string": "体力[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "체력[END]"
+        },
+        {
+            "offset": 1725088,
+            "string": "集中力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "집중력[END]"
+        },
+        {
+            "offset": 1725096,
+            "string": "回避率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "회피율[END]"
+        },
+        {
+            "offset": 1725104,
+            "string": "命中率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "명중률[END]"
+        },
+        {
+            "offset": 1725112,
+            "string": "術防御力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "정술 방어력[END]"
+        },
+        {
+            "offset": 1725128,
+            "string": "防御力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "방어력[END]"
+        },
+        {
+            "offset": 1725136,
+            "string": "術攻撃力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "정술 공격력[END]"
+        },
+        {
+            "offset": 1725152,
+            "string": "攻撃力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "공격력[END]"
+        }
+    ]
+}

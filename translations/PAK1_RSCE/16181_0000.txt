@@ -1,14 +1,14 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-이봐, <Stahn>！
-너, 뭘 점쳐줬어？
+있잖아 <Stahn>, 
+너 뭐 점 봤어?
 [ENDBLOCK]
-나는 할아버지와 <Lilith>의 집안 안전이야.
+나는 할아버지랑 <Lilith>의 가정 안전이야.
 [ENDBLOCK]
-그게, 점술……이야？
+그게 정말로…… 점이라고 할 수 있어?
 [ENDBLOCK]

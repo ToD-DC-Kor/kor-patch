@@ -1,26 +1,26 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-나는 챔피언이다!
+이 몸이 챔피언이다!
 [ENDBLOCK]
-<Kongman>은 뭐하고 있는 거야?
+<Kongman>은 뭘 하고 있는 거지?
 [ENDBLOCK]
-나는 챔피언이다!  챔피언이야아아!!
+이 몸이야말로!	챔피언이라고오!!
 [ENDBLOCK]
 눈에 거슬리니까,
-<Philia> 이제 그만하게 해줘.
+<Philia> 슬슬 말려줘.
 [ENDBLOCK]
-내가 말해야 하는 거야?
+제가 말해야 하나요?
 [ENDBLOCK]
-나는 챔피언이야♪
+이 몸이 챔피언이다♪
 [ENDBLOCK]
-좋아, 다음은 이걸로 간다.
+좋아, 다음은 이걸로 가보자고.
 [ENDBLOCK]
-승리 포즈 연습이었구나.
+승리 포즈 연습이었던 거야.
 [ENDBLOCK]
-이건 이미, 재앙 같은 거네.
+이건 이제 재난 수준이네요.
 [ENDBLOCK]
