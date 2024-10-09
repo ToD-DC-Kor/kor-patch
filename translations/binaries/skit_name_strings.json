@@ -243,7 +243,7 @@
             "string": "グレバムを追うぞ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "그레밤을 쫓자[END]"
+            "translation": "글레밤을 쫓자[END]"
         },
         {
             "offset": 76656,
@@ -3155,7 +3155,7 @@
             "string": "グレバムと神の眼[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "그레밤과 신의 눈[END]"
+            "translation": "글레밤과 신의 눈[END]"
         },
         {
             "offset": 85904,
@@ -3169,7 +3169,7 @@
             "string": "グレバムを追ってファンダリアへ[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "그레밤을 쫓아 팬더리아로[END]"
+            "translation": "글레밤을 쫓아 팬더리아로[END]"
         },
         {
             "offset": 85960,
@@ -3617,7 +3617,7 @@
             "string": "目指すはグレバム[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "목표는 그레밤[END]"
+            "translation": "목표는 글레밤[END]"
         },
         {
             "offset": 87384,

@@ -47,7 +47,7 @@
             "string": "ハイデルベルグ城・対グレバム戦[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "하이델베르그 성・그레밤 전투[END]"
+            "translation": "하이델베르그 성・글레밤 전투[END]"
         },
         {
             "offset": 1714424,
@@ -2140,7 +2140,7 @@
             "string": "グレバム戦[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "그레밤 전투[END]"
+            "translation": "글레밤 전투[END]"
         },
         {
             "offset": 1722976,
