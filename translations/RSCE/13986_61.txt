@@ -433,7 +433,7 @@ select
 소년
 [ENDBLOCK]
 제일 괜찮아 보이니까,
-오빠가 시합해줘.
+형아가 시합해줘.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -471,7 +471,7 @@ select
 소년
 [ENDBLOCK]
 이제 어떻게 할지는
-오빠가 결정해도 돼.
+형아가 결정해도 돼.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
@@ -480,7 +480,7 @@ select
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-시합하는 건 오빠로 괜찮지?
+시합하는 건 형아로 괜찮지?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -518,7 +518,7 @@ select
 소년
 [ENDBLOCK]
 이제 어떻게 할지는
-오빠가 결정해도 돼.
+형아가 결정해도 돼.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
@@ -702,7 +702,7 @@ select
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-오빠 너무 빨라요~
+형아 너무 빨라요~
 [ENDBLOCK]
 □□달리기 레벨 1 & 첫 승리!	아이템 라벨：eventItem_SS_21_01_01(<x09><xC3><x0B><x00><x00>)
 
@@ -718,7 +718,7 @@ select
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-하지만 오빠도 열심히 했으니까.
+하지만 형아도 열심히 했으니까.
 승리를 양보할게.
 [ENDBLOCK]
 □□달리기 레벨 2 & 첫 승리!	아이템 라벨：eventItem_SS_21_03_01(<x09><xC5><x0B><x00><x00>)
@@ -731,7 +731,7 @@ select
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-오빠 너무 빨라~
+형아 너무 빨라~
 [ENDBLOCK]
 소년
 [ENDBLOCK]
@@ -749,7 +749,7 @@ select
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-오빠 졌어~
+형아가 졌어~
 [ENDBLOCK]
 소년
 [ENDBLOCK]
@@ -762,7 +762,7 @@ select
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-오빠 느려~
+형아 느려~
 [ENDBLOCK]
 소년
 [ENDBLOCK]
