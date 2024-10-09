@@ -516,19 +516,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-보아하니 그 모습으로 봐선,
+그 모습을 보아하니,
 또 길을 잃은 것 같구나.
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-또라니, 그럴 리가요.
+또라니, 정말.
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
 저는 지금까지 단 한 번도
-길을 잃은 적이 없어요!
+길을 잃은 적이 없다고요!
 
 [ENDBLOCK]
 <Stahn>
@@ -572,29 +572,29 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-인연이 있어서 선생님 댁에서
-신세를 지고 있었어.
+사정이 있어서 선생님 댁에서
+돌봐주고 계셨던 거야.
 
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-궁사 알바의 손녀, <Chelsea>입니다.
-미숙하지만 잘 부탁드립니다.
+활 장인 알바의 손녀, <Chelsea>입니다.
+경배한 몸이지만 잘 부탁드립니다.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-케, 케이하……?
+경, 경배……?
 
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-신분이 낮거나 미숙한 사람을 뜻해.
+신분이 낮거나 미숙한 사람이란 의미다.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-딤로스, 박학다식하네.
+딤로스, 정말 박식하네.
 
 [ENDBLOCK]
 <Chelsea>
