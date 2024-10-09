@@ -548,7 +548,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Isard>
 [ENDBLOCK]
-조금 말을 너무 많이 했군……
+말을 너무 많이 했군……
 그럼, <Stahn>.
 [ENDBLOCK]
 <Stahn>
@@ -935,7 +935,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 고기를 파는 상인
 [ENDBLOCK]
-핏츠가르드 직수입
+피츠가르드 직수입
 고급 고기는 어때?
 [ENDBLOCK]
 고기를 파는 상인
@@ -945,7 +945,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 고기를 파는 상인
 [ENDBLOCK]
-핏츠가르드에도 가겠지?
+피츠가르드에도 가겠지?
 안부 전해줘!
 [ENDBLOCK]
 고기를 파는 상인
