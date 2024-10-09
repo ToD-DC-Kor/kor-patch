@@ -22,6 +22,6 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 정말, 따가워요~!
 [ENDBLOCK]
-샤르티에 씨를 닦는 데
+샤르띠에 씨를 닦는 데
 이걸 사용해주세요.
 [ENDBLOCK]

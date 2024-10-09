@@ -5,7 +5,7 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-샤르티에는
+샤르띠에는
 어떤 사람인가?
 [ENDBLOCK]
 너에게 설명할 필요는 없다.
