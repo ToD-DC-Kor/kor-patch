@@ -1,8 +1,8 @@
 <Stahn>
 [ENDBLOCK]
-여기<x99>
+여기에 R 키가 있는 건가?
 [ENDBLOCK]
-<xD2>R 키가 있는 건가?
+<IGNORE>
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
