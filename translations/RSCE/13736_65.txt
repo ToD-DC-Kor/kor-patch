@@ -635,7 +635,7 @@
 세인가르드 병사
 [ENDBLOCK]
 이름은 <Rutee> 카틀릿과
-<Mary> 에이젠트입니다.
+<Mary> 에이전트입니다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
