@@ -545,7 +545,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-시전 시간이 필요하지만,
+영창 시간이 필요하지만,
 특기보다 강력한 게 많아.
 
 [ENDBLOCK]
