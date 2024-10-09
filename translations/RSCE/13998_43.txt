@@ -6,7 +6,7 @@ reset---------
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-내 몫을 사 오면
+내 몫을 사와 봤자
 어차피 낭비될 테니까.
 [ENDBLOCK]
 마을 여성
@@ -84,7 +84,7 @@ reset---------
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……<Ilene>이라는 사람, 늦네.
+……<Ilene>라는 사람, 늦네.
 기다리다 지쳤어.
 [ENDBLOCK]
 <Rutee>
