@@ -5,8 +5,8 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Johnny>씨의 뒤를 따라가야 해!
+<Johnny> 씨를 쫓아가야 해!
 [ENDBLOCK]
-준비가 되면, 작은 배에 타고,
-모리유 성으로 쳐들어가자.
+준비가 되면 작은 배를 타고
+모류성으로 들어갑시다.
 [ENDBLOCK]
