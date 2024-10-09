@@ -841,7 +841,7 @@ select
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-저런 공중 도시를 보여주고
+저런 공중 도시가 나타났고
 공격까지 당했으니……
 [ENDBLOCK]
 <Dryden>
@@ -861,12 +861,12 @@ select
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-너, 네 나라가 당했다는데
+이봐, 자기 나라가 당했는데
 왜 그렇게 신나 있는 거야?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-무차별 지각 파쇄 병기 벨크란트.
+무차별 지각 파괴 병기 벨크란트.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -880,8 +880,8 @@ select
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-저 공중 도시는 천지전쟁 때 사용됐다고
-말하고 있던 것 같은데……
+저 공중 도시가 천지전쟁 때 사용되었다고
+말했던 것 같은데……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -938,7 +938,7 @@ select
 [ENDBLOCK]
 
 [ENDBLOCK]
-지상 세계의 민들이여!
+지상 세계의 백성들이여!
 우리의 힘을 보셨는가?
 [ENDBLOCK]
 <Clemente>
@@ -963,7 +963,7 @@ select
 
 [ENDBLOCK]
 벌레처럼 땅바닥을 기어다닐 수밖에 없는
-무능한 지상 세계의 민들을 용서하지 않는다.
+무능한 지상 세계의 백성을 용서하지 않는다.
 [ENDBLOCK]
 
 [ENDBLOCK]
