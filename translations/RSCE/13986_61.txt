@@ -1214,7 +1214,7 @@ select
 신사
 [ENDBLOCK]
 이제 이 도시의 번영은
-다릴셰이드에도 뒤지지 않아요.
+다릴쉐이드에도 뒤지지 않아요.
 [ENDBLOCK]
 신사
 [ENDBLOCK]
