@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-지금은 밖에 나가면 안 되겠군.
+지금은 밖에 나가지 않는 게 좋겠어.
 [ENDBLOCK]
