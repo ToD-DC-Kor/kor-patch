@@ -1,17 +1,17 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-세인가르드 국왕 폐하를 만나기 전에,
-클레스타의 마을에 가서……
+세인가르드 국왕 폐하를 뵙기 전에,
+크레스타 마을에 가서……
 [ENDBLOCK]
-<Rutee>군과 합류하자.
+<Rutee>와 합류하자.
 [ENDBLOCK]
-<Rutee>는 화낼까……
+<Rutee>, 화낼까……
 [ENDBLOCK]
-클레스타의 마을은,
+크레스타 마을은
 다릴쉐이드의 동쪽 방향에 있다.
 [ENDBLOCK]

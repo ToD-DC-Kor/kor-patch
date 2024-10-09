@@ -1,19 +1,19 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Woodrow>、앞으로 잘 부탁해！
-나는 <Kongman>이다！
+<Woodrow>, 앞으로 잘 부탁해!
+이 몸은 <Kongman>이다!
 [ENDBLOCK]
-저야말로.
+저야말로요.
 [ENDBLOCK]
 <Woodrow>가 왕이라면,
-나는 챔피언이다！
+이 몸은 챔피언이지!
 [ENDBLOCK]
-비슷한 거네, 하하하하！
+비슷한 거 아냐, 가하하하하!
 [ENDBLOCK]
-비슷하지 않아요！
+전혀 비슷하지 않습니다!
 [ENDBLOCK]
