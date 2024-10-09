@@ -937,7 +937,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-좋아.
+좋아요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
