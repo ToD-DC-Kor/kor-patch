@@ -1,24 +1,24 @@
 
-추가
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-어디에 간 걸까……
+어디로 갔을까……
 [ENDBLOCK]
-<Lion>씨?
-내 안경을 본 적이 없나요?
+<Lion> 님? 
+제 안경 보신 적 없으세요?
 [ENDBLOCK]
-또 잃어버린 거야.
+또 잃어버린 거냐.
 [ENDBLOCK]
-……！
+……!
 [ENDBLOCK]
-<Lion>씨, 혹시 내 안경……
+<Lion> 님, 혹시 제 안경……
 [ENDBLOCK]
-안심해.
+안심해라.
 [ENDBLOCK]
-렌즈를 밟았을 뿐이야.
+렌즈를 밟았을 뿐이다.
 [ENDBLOCK]
-내 렌즈~!
+제 렌즈~!
 [ENDBLOCK]

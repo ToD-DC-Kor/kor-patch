@@ -1,0 +1,18 @@
+{
+    "SLPS": [
+        {
+            "offset": 1751304,
+            "string": "[Select_ani]表示キャラ切替 [Triangle_ani]並べ替え [Square_ani]サポート切替[END]",
+            "original_bytes_length": 52,
+            "available_bytes_size": 55,
+            "translation": "[Select_ani]캐릭터 표시 전환 [Triangle_ani]정렬 [Square_ani]지원 전환[END]"
+        },
+        {
+            "offset": 1751360,
+            "string": "[Select_ani]表示キャラ切替 [Triangle_ani]並べ替え [END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 47,
+            "translation": "[Select_ani]캐릭터 표시 전환 [Triangle_ani]정렬[END]"
+        }
+    ]
+}
