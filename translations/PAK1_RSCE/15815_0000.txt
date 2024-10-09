@@ -5,6 +5,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-지금은 저 <Johnny>씨와,
-이야기할 때가 아닌데……？
+지금은 저 <Johnny> 씨와
+이야기를 나누는 게 좋지 않을까요……?
 [ENDBLOCK]

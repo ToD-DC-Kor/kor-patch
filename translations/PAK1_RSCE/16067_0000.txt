@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-쉬고 싶으면, 여관으로 가라.
+쉬고 싶어지면 숙소로 가라.
 [ENDBLOCK]
