@@ -1,0 +1,200 @@
+{
+    "00059.md1": [
+        {
+            "offset": 22360,
+            "string": "[TAG_007]その『[PlaceHolderA]』は[PlaceHolderB]が[LINE]\n装備中ですがどうしますか？[LINE]\n外して装備[LINE]\nやめる[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "[TAG_007]그 『[PlaceHolderA]』는 [PlaceHolderB]가[LINE]\n장착 중입니다. 어떻게 할까요?[LINE]\n해제 후 장착[LINE]\n취소[END]"
+        },
+        {
+            "offset": 22440,
+            "string": "[TAG_007]その『[PlaceHolderA]』を[LINE]\n外すことはできません。[END]",
+            "original_bytes_length": 44,
+            "available_bytes_size": 47,
+            "translation": "[TAG_007]그 『[PlaceHolderA]』를[LINE]\n해제할 수 없습니다.[END]"
+        },
+        {
+            "offset": 22488,
+            "string": "[TAG_007]武器を外すことはできません。[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "[TAG_007]무기를 해제할 수 없습니다.[END]"
+        },
+        {
+            "offset": 22528,
+            "string": "[TAG_007]戦闘中はその『[PlaceHolderA]』を[LINE]\n外すことはできません。[END]",
+            "original_bytes_length": 52,
+            "available_bytes_size": 55,
+            "translation": "[TAG_007]전투 중에는 그 『[PlaceHolderA]』를[LINE]\n해제할 수 없습니다.[END]"
+        },
+        {
+            "offset": 22584,
+            "string": "[TAG_007]戦闘中はその『[PlaceHolderA]』を[LINE]\n装備することはできません。[END]",
+            "original_bytes_length": 56,
+            "available_bytes_size": 56,
+            "translation": "[TAG_007]전투 중에는 그 『[PlaceHolderA]』를[LINE]\n장착할 수 없습니다.[END]"
+        },
+        {
+            "offset": 22640,
+            "string": "[TAG_007]固有装備を外すことはできません。[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "[TAG_007]고유 장비를 해제할 수 없습니다.[END]"
+        },
+        {
+            "offset": 22680,
+            "string": "[TAG_007]その『[PlaceHolderA]』は[PlaceHolderB]が[LINE]\n装備中ですがどうしますか？[LINE]\n外して装備[LINE]\n交換する[LINE]\nやめる[END]",
+            "original_bytes_length": 82,
+            "available_bytes_size": 87,
+            "translation": "[TAG_007]그 『[PlaceHolderA]』는 [PlaceHolderB]가[LINE]\n장착 중입니다. 어떻게 하시겠습니까?[LINE]\n해제 후 장착[LINE]\n교체[LINE]\n취소[END]"
+        },
+        {
+            "offset": 22888,
+            "string": "[Circle_ani]ソーディアンデバイス[Square_ani]説明変更[L1_ani][R1_ani]キャラ変更[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "[Circle_ani]소디언 디바이스[Square_ani]설명 변경[L1_ani][R1_ani]캐릭터 변경[END]"
+        },
+        {
+            "offset": 22952,
+            "string": "[Circle_ani]ソーディアンデバイス[Square_ani]説明変更[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "[Circle_ani]소디언 디바이스[Square_ani]설명 변경[END]"
+        },
+        {
+            "offset": 22992,
+            "string": "[Square_ani]説明変更[L1_ani][R1_ani]キャラ変更[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "[Square_ani]설명 변경[L1_ani][R1_ani]캐릭터 변경[END]"
+        },
+        {
+            "offset": 23032,
+            "string": "[Square_ani]説明変更[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Square_ani]설명 변경[END]"
+        },
+        {
+            "offset": 23048,
+            "string": "[Circle_ani]装備変更[Triangle_ani]外す[Square_ani]説明変更[L1_ani][R1_ani]キャラ変更[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "[Circle_ani]장비 변경[Triangle_ani]해제[Square_ani]설명 변경[L1_ani][R1_ani]캐릭터 변경[END]"
+        },
+        {
+            "offset": 23112,
+            "string": "[Circle_ani]装備変更[Triangle_ani]外す[Square_ani]説明変更[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "[Circle_ani]장비 변경[Triangle_ani]해제[Square_ani]설명 변경[END]"
+        },
+        {
+            "offset": 23152,
+            "string": "宝石[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "보석[END]"
+        },
+        {
+            "offset": 23160,
+            "string": "特殊[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "특수[END]"
+        },
+        {
+            "offset": 23168,
+            "string": "防具[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "방어구[END]"
+        },
+        {
+            "offset": 23176,
+            "string": "武器[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "무기[END]"
+        },
+        {
+            "offset": 23216,
+            "string": "[Circle_ani]決定[Cross_ani]戻る[Square_ani]説明変更[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "[Circle_ani]확인[Cross_ani]돌아가기[Square_ani]설명 변경[END]"
+        },
+        {
+            "offset": 23256,
+            "string": "体力[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "체력[END]"
+        },
+        {
+            "offset": 23264,
+            "string": "集中力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "집중력[END]"
+        },
+        {
+            "offset": 23272,
+            "string": "回避率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "회피율[END]"
+        },
+        {
+            "offset": 23280,
+            "string": "命中率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "명중률[END]"
+        },
+        {
+            "offset": 23288,
+            "string": "術防御力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "정술 방어력[END]"
+        },
+        {
+            "offset": 23304,
+            "string": "防御力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "방어력[END]"
+        },
+        {
+            "offset": 23312,
+            "string": "術攻撃力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "정술 공격력[END]"
+        },
+        {
+            "offset": 23328,
+            "string": "攻撃力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "공격력[END]"
+        },
+        {
+            "offset": 23416,
+            "string": "装備：[PlaceHolderC][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 23,
+            "translation": "장비：[PlaceHolderC][END]"
+        },
+        {
+            "offset": 23472,
+            "string": "ソーディアンデバイス起動[Circle_ani][END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "소디언 디바이스 활성화[Circle_ani][END]"
+        }
+    ]
+}
