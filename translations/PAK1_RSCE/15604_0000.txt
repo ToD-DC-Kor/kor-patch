@@ -1,36 +1,36 @@
 
-추가
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-춥다……너무 춥다……
+춥다…… 너무 춥다……
 [ENDBLOCK]
-하하하……피츠갈드에서 자란 <Stahn>군에게는,
-팬더리아의 기후가 혹독할까?
+하하하…… 피츠가르드에서 자란 <Stahn> 군에게는
+팬더리아의 기후가 힘들겠구나?
 [ENDBLOCK]
-<Woodrow>님,
-잘 지내고 계시네요.
+<Woodrow> 씨는
+잘도 태연하시네요.
 [ENDBLOCK]
-이 나라에서 살면, 자연스럽게 추위에 강해진다.
-오늘은 따뜻한 편이다.
+이 나라에서 살다 보면 자연스럽게 추위에 강해져.
+오늘은 오히려 따뜻한 편이야.
 [ENDBLOCK]
 ……믿을 수가 없어……
 [ENDBLOCK]
-이
-[ENDBLOCK]
-로
-[ENDBLOCK]
-<S13>로……
-[ENDBLOCK]
-하
-[ENDBLOCK]
-니
-[ENDBLOCK]
-호
-[ENDBLOCK]
-<S11>헉!<S15>
+에
 [ENDBLOCK]
 에
+[ENDBLOCK]
+<S13>에……
+[ENDBLOCK]
+에
+[ENDBLOCK]
+에
+[ENDBLOCK]
+에
+[ENDBLOCK]
+<S11>에취!<S15>
+[ENDBLOCK]
+으로
 [ENDBLOCK]

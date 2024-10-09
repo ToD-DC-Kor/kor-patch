@@ -1,0 +1,130 @@
+{
+    "SLPS": [
+        {
+            "offset": 1750648,
+            "string": "術[END]",
+            "translation": "기[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1750656,
+            "string": "技[END]",
+            "translation": "술[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1750664,
+            "string": "ア[END]",
+            "translation": "아[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1750672,
+            "string": "イテム[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "이템[END]"
+        },
+        {
+            "offset": 1750680,
+            "string": "フ[END]",
+            "translation": "음[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1750688,
+            "string": "ード[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "식[END]"
+        },
+        {
+            "offset": 1750696,
+            "string": "作[END]",
+            "translation": "작[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1750704,
+            "string": "戦[END]",
+            "translation": "전[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1750712,
+            "string": "装[END]",
+            "translation": "장[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1750720,
+            "string": "備[END]",
+            "translation": "비[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1750728,
+            "string": "リ[END]",
+            "translation": "리[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1750736,
+            "string": "ライズ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "라이즈[END]"
+        },
+        {
+            "offset": 1750744,
+            "string": "パ[END]",
+            "translation": "파[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1750752,
+            "string": "ーティ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "티[END]"
+        },
+        {
+            "offset": 1750760,
+            "string": "セ[END]",
+            "translation": "저[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1750768,
+            "string": "ーブ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "장[END]"
+        },
+        {
+            "offset": 1750776,
+            "string": "中[END]",
+            "translation": "중[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7
+        },
+        {
+            "offset": 1750784,
+            "string": "断[END]",
+            "translation": "단[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 15
+        }
+    ]
+}
