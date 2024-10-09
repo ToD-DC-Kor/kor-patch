@@ -92,7 +92,7 @@
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-그 사람은 다릴셰이드에서
+그 사람은 다릴쉐이드에서
 도구상을 하고 있어요.
 [ENDBLOCK]
 청년
@@ -102,7 +102,7 @@
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-제가 알고 있는 사람은 다릴셰이드에서
+제가 알고 있는 사람은 다릴쉐이드에서
 도구상을 하고 있어요.
 [ENDBLOCK]
 청년
@@ -953,11 +953,11 @@ select
 [ENDBLOCK]
 알메이다
 [ENDBLOCK]
-다릴셰이드
+다릴쉐이드
 [ENDBLOCK]
 크레스타
 [ENDBLOCK]
-체릭
+체리크
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]

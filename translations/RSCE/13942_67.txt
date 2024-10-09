@@ -797,7 +797,7 @@ select
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-자네들이 체릭을 떠났다고 들어서 말일세.
+자네들이 체리크를 떠났다고 들어서 말일세.
 걱정돼서 뒤따라왔네.
 [ENDBLOCK]
 <Baruk>

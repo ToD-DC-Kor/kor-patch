@@ -58,7 +58,7 @@
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>다릴셰이드로 돌아가기
+<TAG_007>다릴쉐이드로 돌아가기
 안으로 들어가기
 [ENDBLOCK]
 select
@@ -89,31 +89,31 @@ select
 [ENDBLOCK]
  북: 알메이다 방면
 남서: 하멘츠 방면
-남동: 다릴셰이드 방면
+남동: 다릴쉐이드 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
  북: 알메이다
  남: 하멘츠 방면
-남동: 다릴셰이드 방면
+남동: 다릴쉐이드 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 동: 다릴셰이드
+ 동: 다릴쉐이드
  서: 하멘츠 방면
  남: 크레스타 방면
  북: 알메이다 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
-북동: 다릴셰이드 방면
+북동: 다릴쉐이드 방면
 북서: 알메이다・하멘츠 방면
  남: 크레스타 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
  동: 크레스타 방면
- 서: 다릴셰이드 방면
+ 서: 다릴쉐이드 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
@@ -153,7 +153,7 @@ select
 이정표
 [ENDBLOCK]
  북: 칼비올라 방면
- 남: 체릭 방면
+ 남: 체리크 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]

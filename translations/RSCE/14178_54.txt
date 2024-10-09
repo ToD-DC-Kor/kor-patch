@@ -467,8 +467,8 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-좀 궁금해서
-그랬는데, <Johnny>.
+좀 궁금한게
+있었는데, <Johnny>.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]

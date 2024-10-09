@@ -70,7 +70,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-그럼, 서둘러 다릴셰이드로
+그럼, 서둘러 다릴쉐이드로
 돌아가서 보고할까요?
 [ENDBLOCK]
 <Lion>

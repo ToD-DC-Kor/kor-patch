@@ -5,7 +5,7 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Woodrow> 씨는 아르바 선생님 밑에서
+<Woodrow> 씨는 알바 선생님 밑에서
 활 수련을 하고 계신 건가요?
 [ENDBLOCK]
 그래. 어릴 때부터 시작해서

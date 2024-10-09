@@ -146,7 +146,7 @@
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-<Baruk> 씨는 다릴셰이드 본부에
+<Baruk> 씨는 다릴쉐이드 본부에
 출장 중입니다.
 [ENDBLOCK]
 부하

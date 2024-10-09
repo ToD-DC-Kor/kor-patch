@@ -154,7 +154,7 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-준비한 배는 다릴셰이드 항구에
+준비한 배는 다릴쉐이드 항구에
 입항할 예정이오.
 [ENDBLOCK]
 <Stahn>

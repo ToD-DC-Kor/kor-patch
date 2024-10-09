@@ -843,14 +843,14 @@
         {
             "offset": 1760480,
             "string": "まんぼう……所持数に応じて[LINE]\nリリスのまんぼう戦吼の威力が[LINE]\nアップ！[END]",
-            "translation": "맘보…… 소지 수에 따라[LINE]\n리리스의 맘보전후의 힘이[LINE]\n상승![END]",
+            "translation": "개복치…… 소지 수에 따라[LINE]\n리리스의 개복치전후의[LINE]\n데미지가 상승![END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
         {
             "offset": 1760552,
             "string": "[Sign_Box]まんぼう[END]",
-            "translation": "[Sign_Box]맘보[END]",
+            "translation": "[Sign_Box]개복치[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15
         },

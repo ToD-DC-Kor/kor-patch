@@ -628,12 +628,12 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>도
-그렇게 말했으니 절대다?
+<Rutee>가
+그렇게 말했으니 꼭 그렇게 하는 거다?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-당연하지. 나라고? 
+당연하지. 나 몰라? 
 죽여도 죽지 않아.
 [ENDBLOCK]
 <Stahn>
