@@ -5,7 +5,7 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-신의 눈이 무사한지 어떻게든 알 수 있겠군.
+신의 눈이 무사한지 드디어 알 수 있겠네요.
 [ENDBLOCK]
-대성당으로 서둘러 가야 해, <Stahn>.
+대성당으로 서둘러야 해, <Stahn>.
 [ENDBLOCK]

@@ -1,17 +1,17 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<S09>일반
+<S09>보통
 [ENDBLOCK]
-<S09>헝클어진 머리
+<S09>머리 푸석
 [ENDBLOCK]
-<S09>뾰로통
+<S09>삐치다
 [ENDBLOCK]
-<S09>화남
+<S09>분노
 [ENDBLOCK]
 <S09>슬픔
 [ENDBLOCK]
