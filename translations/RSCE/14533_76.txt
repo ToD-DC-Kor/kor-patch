@@ -151,7 +151,7 @@
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-여러분은 안수준을 통해
+여러분은 안스준을 통해
 일단 이그나시로 돌아가 주십시오.
 [ENDBLOCK]
 <Ritora>

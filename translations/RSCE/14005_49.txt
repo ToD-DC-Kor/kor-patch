@@ -7,19 +7,19 @@
 <xD4>××공백 시작××××××
 
 [ENDBLOCK]
-××××××공백 종료××××××
+×××××× 하늘 종료 ×××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
+★★★★★★ 외각 시작 ★★★★★★
 
 [ENDBLOCK]
-◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
+★★★★★★ 외각 종료 ★★★★★★
 
 [ENDBLOCK]
-●●●●●●구름 시작●●●●●●
+●●●●●● 구름 시작 ●●●●●●
 
 [ENDBLOCK]
-●●●●●●구름 종료●●●●●●
+●●●●●● 구름 종료 ●●●●●●
 
 [ENDBLOCK]
 주회：<x17><x66><x14><x3B><x70><x0C><xAB><x80>
@@ -49,16 +49,16 @@
 이 시점에서의 정규화：<x1D><x76><x40><x14><x80>, <x1D><x76><x40><x18><x80>, <x1D><x76><x40><x1C><x80>
 
 [ENDBLOCK]
-덧붙여서 길이도：<x1D><x76><x40><x10><x80>
+덤으로 길이도：<x1D><x76><x40><x10><x80>
 
 [ENDBLOCK]
 					스킵 판정
 
 [ENDBLOCK]
-이동 정지！
+이동 정지!
 
 [ENDBLOCK]
-<x17><x66><x10><x5F><x70><x00><xAB><x80>가 이동 재개！일 거야…
+<x17><x66><x10><x5F><x70><x00><xAB><x80>가 이동 재개! ……일 터……
 
 [ENDBLOCK]
 벡터의 크기가 0입니다
@@ -67,111 +67,111 @@
 벡터의 크기가 0입니다(rget_vec_normal_3ds)
 
 [ENDBLOCK]
-●●대략적인 메모리 소비：<TAG_031>바이트（실제는 더 줄어듭니다）●●
+●●개산 메모리 소비：<TAG_031>바이트（실제로는 더 줄어듭니다）●●
 
 [ENDBLOCK]
-●●남은 메모리 소비：<TAG_031>바이트（실제는 더 줄어듭니다）●●
+●●잔여 메모리 소비：<TAG_031>바이트（실제로는 더 줄어듭니다）●●
 
 [ENDBLOCK]
 소년
 [ENDBLOCK]
 제일 괜찮아 보이니까,
-형이 승부해줘.
+형아가 시합해줘.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-응, 알겠는데,
-이 사람은 누구야?
+응, 알겠어.
+근데 이 사람은?
 [ENDBLOCK]
-남자
+남
 [ENDBLOCK]
-나는 이 도시에 사는 부자야.
-이 승부의 스폰서입니다.
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-스폰서？
-그게 뭐야？
-[ENDBLOCK]
-남자
-[ENDBLOCK]
-글쎄, 쉽게 말하자면,
-이긴 쪽에 상품을 제공하는 사람이야.
+저는 이 마을에 사는 부자예요.
+이 시합의 스폰서죠.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-헤에ー 근데 왜？
+스폰서?
+그게 뭐예요?
 [ENDBLOCK]
-남자
+남
 [ENDBLOCK]
-글쎄, 부자가 되면
-할 일이 없어져서.
+음, 쉽게 말하면
+이긴 쪽에 상품을 제공하는 사람이에요.
 [ENDBLOCK]
-소년
+<Stahn>
 [ENDBLOCK]
-자자, 이제 괜찮겠지.
+헤에~ 근데 왜요?
 [ENDBLOCK]
-소년
+남
 [ENDBLOCK]
-이후에 어떻게 할지는
-형이 결정해도 돼.
-[ENDBLOCK]
-소년
-[ENDBLOCK]
-코스는 복잡하니까,
-잘 기억해둬.
+뭐, 부자가 되면
+심심하거든요.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-승부하는 건 형이 괜찮지？
+자, 자, 이제 됐어.
+[ENDBLOCK]
+소년
+[ENDBLOCK]
+이제 어떻게 할지는
+형아가 결정해도 돼.
+[ENDBLOCK]
+소년
+[ENDBLOCK]
+코스가 복잡하니까,
+잘 외워야 해.
+[ENDBLOCK]
+소년
+[ENDBLOCK]
+시합하는 건 형아로 괜찮지?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-아, 상관없어.
-그런데 이 남자는 뭐야？
+아아, 상관없어.
+그런데 이 남자는 뭐지?
 [ENDBLOCK]
-남자
+남
 [ENDBLOCK]
-나는 이 도시에 사는 부자야.
-이 경주의 후원자입니다.
-[ENDBLOCK]
-<Lion>
-[ENDBLOCK]
-후원자인가요?
-[ENDBLOCK]
-남자
-[ENDBLOCK]
-그래. 쉽게 말하자면,
-이긴 쪽에 상품을 제공하는 사람이야.
+저는 이 마을에 사는 부자예요.
+이 시합의 스폰서죠.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-왜 이런 경주에 자금을 지원하는 거지?
+스폰서?
+[ENDBLOCK]
+남
+[ENDBLOCK]
+네. 쉽게 말하면,
+이긴 쪽에 상품을 제공하는 사람이죠.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+왜 이런 달리기 정도에 자금을 제공하는 거지.
 목적이 뭐야?
 [ENDBLOCK]
-남자
+남
 [ENDBLOCK]
-하하하, 목적なんて 없어.
-부자가 되고 싶어서 한가할 뿐이야.
-[ENDBLOCK]
-소년
-[ENDBLOCK]
-자, 자, 이제 그만해.
+하하하, 목적 같은 건 없어요.
+부자가 돼서 심심할 뿐이에요.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-이후에 어떻게 할지는
-형이 결정해도 좋아.
+자, 자, 이제 됐어.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-코스는 복잡하니까,
-잘 기억해.
+이제 어떻게 할지는
+형아가 결정해도 돼.
+[ENDBLOCK]
+소년
+[ENDBLOCK]
+코스가 복잡하니까,
+잘 외워야 해.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
 코스도 방법도
-전과 똑같으니까.
+전이랑 똑같아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -179,99 +179,99 @@
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-오늘은…진짜야.
+오늘은…… 진심이야.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-자, 결정해도 좋아.
+자, 결정해도 돼.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
 코스도 방법도
-전과 똑같으니까.
+전이랑 똑같아.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-어서, 시작하자.
+어서 시작하자고.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-오늘은…나도 진짜야.
+오늘은…… 나도 진심이야.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-자, 결정해도 좋아.
+자, 결정해도 돼.
 [ENDBLOCK]
 	・코스 데이터 설정
 
 [ENDBLOCK]
-	・경주 전체 관리 초기화
+	・달리기 전체 관리 초기화
 
 [ENDBLOCK]
-	・플레이어 초기화
+	・플레이어의 초기화
 
 [ENDBLOCK]
-	・맥스 소년 초기화
+	・마하 소년의 초기화
 
 [ENDBLOCK]
-	・부자 초기화
+	・부호의 초기화
 
 [ENDBLOCK]
-	・풍선 소녀 초기화
+	・풍선 소녀의 초기화
 
 [ENDBLOCK]
-	・풍선 초기화
+	・풍선의 초기화
 
 [ENDBLOCK]
-	・시민 초기화
+	・마을 사람의 초기화
 
 [ENDBLOCK]
-	・데모 플래그 초기화
+	・데모 플래그의 초기화
 
 [ENDBLOCK]
-	・플레이어 초기화
+	・플레이어의 초기화
 
 [ENDBLOCK]
-	・맥스 소년 초기화
+	・마하 소년의 초기화
 
 [ENDBLOCK]
-	・부자 초기화
+	・부호의 초기화
 
 [ENDBLOCK]
-	・맥스 소년 초기화
+	・마하 소년의 초기화
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-리타이어
+포기
 계속하기
 
 [ENDBLOCK]
-어라, 벌써 그만두는 거야?
+어라, 벌써 그만두려고?
 [ENDBLOCK]
-역시, 나는 이길 수 없겠지, 그렇지?!
-[ENDBLOCK]
-소년
-[ENDBLOCK]
-무슨 일이야?
-한 번 더 경주할래?
-[ENDBLOCK]
-무슨 일이야?
-한 번 더 경주할래?
-[ENDBLOCK]
-아직도 경주할 거야?
-[ENDBLOCK]
-아직도 경주할 거야?
-[ENDBLOCK]
-나는 이 도시에서 제일
-빠른 발을 가지고 있어.
+역시 나를 이길 수 없지, 그렇지?
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-이봐, 이봐, 나와
-경주 시합하지 않을래?
+왜 그래?
+한 번 더 달리기 할래?
 [ENDBLOCK]
-이봐, 나와 한 번 더 시합하지 않을래?
+왜 그래?
+한 번 더 달리기 할래?
+[ENDBLOCK]
+아직도 달리기 할 거야?
+[ENDBLOCK]
+아직도 달리기 할 거야?
+[ENDBLOCK]
+난 이 마을에서 제일
+빠르다고.
+[ENDBLOCK]
+소년
+[ENDBLOCK]
+있잖아, 나랑
+달리기 시합 안 할래?
+[ENDBLOCK]
+저기, 다시 한 번 나랑 시합하지 않을래?
 [ENDBLOCK]
 소년
 [ENDBLOCK]
@@ -284,133 +284,133 @@ select
 [ENDBLOCK]
 그럼 나를 따라와.
 [ENDBLOCK]
-…
+……
 [ENDBLOCK]
-뭐야, 지루하네.
+뭐야, 재미없네.
 [ENDBLOCK]
-아, 그러면 괜찮아.
+그래, 그럼 됐어.
 [ENDBLOCK]
-뭐야, 지루하네.
+뭐야, 재미없네.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-방금 전까지의 선두: <x17><x69><x44><x29><x80>
+조금 전까지의 선두：<x17><x69><x44><x29><x80>
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
 시합 시작!
 코스 설명 듣기
-시합 중지하기
+시합 그만두기
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-뭐야, 아쉽네.
+아, 아쉽네.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-뭐야, 아쉽네.
+아, 아쉽네.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-흐음, 도망가네…
+흠…… 도망가는 거구나……
 [ENDBLOCK]
-남자
+남
 [ENDBLOCK]
-시합은 두 바퀴로 진행됩니다.
+시합은 두 바퀴로 겨룹니다.
 [ENDBLOCK]
-남자
+남
 [ENDBLOCK]
-자리에 서세요, 준비!
+제자리에, 준비.
 [ENDBLOCK]
-스타트
+출발
 [ENDBLOCK]
-골!
+골인!
 [ENDBLOCK]
-□□경주 레벨 1 & 승리 완료	아이템 라벨: eventItem_SS_21_02_01(<x09><xC4><x0B><x00><x00>)
+□□달리기 레벨 1 & 승리 완료	아이템 라벨：eventItem_SS_21_02_01(<x09><xC4><x0B><x00><x00>)
 
 [ENDBLOCK]
-남자
+남
 [ENDBLOCK]
 당신의 승리입니다.
-여기를 받아주세요.
+이걸 받으세요.
 [ENDBLOCK]
-□□경주 레벨 2 & 승리 완료	아이템 라벨: eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
+□□달리기 레벨 2 & 승리 완료	아이템 라벨：eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
 
 [ENDBLOCK]
-남자
+남
 [ENDBLOCK]
 당신의 승리입니다.
-여기를 받아주세요.
+이걸 받으세요.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-형, 너무 빠르잖아.
+형아 너무 빨라요~
 [ENDBLOCK]
-□□경주 레벨 1 & 첫 승리!	아이템 라벨: eventItem_SS_21_01_01(<x09><xC3><x0B><x00><x00>)
+□□달리기 레벨 1 & 첫 승리!	아이템 라벨：eventItem_SS_21_01_01(<x09><xC3><x0B><x00><x00>)
 
 [ENDBLOCK]
-남자
+남
 [ENDBLOCK]
 당신의 승리입니다.
-여기를 받아주세요.
+이걸 받으세요.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-내가 졌다고…?
+내가 졌어……?
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-하지만 형도 열심히 했으니까.
+하지만 형아도 열심히 했으니까.
 승리를 양보할게.
 [ENDBLOCK]
-□□경주 레벨 2 & 첫 승리!	아이템 라벨: eventItem_SS_21_03_01(<x09><xC5><x0B><x00><x00>)
+□□달리기 레벨 2 & 첫 승리!	아이템 라벨：eventItem_SS_21_03_01(<x09><xC5><x0B><x00><x00>)
 
 [ENDBLOCK]
-남자
+남
 [ENDBLOCK]
 당신의 승리입니다.
-여기를 받아주세요.
+이걸 받으세요.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-오빠 너무 빨라ー.
+형아 너무 빨라~
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-하지만, 다음에는 절대 지지 않을 거야!
+하지만 다음엔 지지 않을 거야!
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-꼭 다시 와줘ー.
+꼭 다시 와야 해~
 [ENDBLOCK]
-골…
-[ENDBLOCK]
-소년
-[ENDBLOCK]
-야호! 내가 이겼다!!
+골인……
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-오빠의 패배ー.
+야호~ 내가 이겼다!!
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-어떻게 할래?
-몇 번이고 상대해줄게.
+형아가 졌어~
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-야호, 역시 내가 더 빠르다!!
+어떡할래?
+몇 번이라도 상대해 줄게.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-오빠 느려ー.
+야호~ 역시 내가 더 빠르다!!
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-어떻게 할래?
-몇 번이고 상대해줄게.
+형아 느려~
+[ENDBLOCK]
+소년
+[ENDBLOCK]
+어떡할래?
+몇 번이라도 상대해 줄게.
 [ENDBLOCK]
 ----- 패배 -----
 
@@ -418,7 +418,7 @@ select
 달리기 관리----->
 
 [ENDBLOCK]
-최대 주횟수：<x17><x66><x50><x1C><x43><x70><x08><xAB><x80>
+최대 바퀴 수：<x17><x66><x50><x1C><x43><x70><x08><xAB><x80>
 
 [ENDBLOCK]
 현재 결과：<x17><x66><x50><x1C><x43><x70><x40><x1C><xAB><x80>
@@ -439,7 +439,7 @@ select
 현재 상태：<x17><x71><x80> <x80>
 
 [ENDBLOCK]
-현재 주횟수：<x17><x71><x80>$<x80>
+현재 주차：<x17><x71><x80>$<x80>
 
 [ENDBLOCK]
 현재 플래그：<x17><x71><x80>(<x80>
@@ -454,7 +454,7 @@ select
 현재 상태：<x17><x71><x80><xCC><x80>
 
 [ENDBLOCK]
-현재 주횟수：<x17><x71><x80><xD0><x80>
+현재 주차：<x17><x71><x80><xD0><x80>
 
 [ENDBLOCK]
 현재 플래그：<x17><x71><x80><xD4><x80>
@@ -463,32 +463,32 @@ select
 목표 좌표：<x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
 
 [ENDBLOCK]
-그러면, 코스 설명을 할게.
+그럼, 코스 설명을 해줄게.
 [ENDBLOCK]
-여기가 스타트 지점이야.
+여기가 출발 지점이야.
 [ENDBLOCK]
 내가 코스를 걸으면서 설명할 테니
-잘 기억해줘.
+잘 기억해.
 [ENDBLOCK]
-처음은 분수를 가로지른다.
+처음에는 분수대를 가로질러.
 [ENDBLOCK]
-이 계단을 내려간다.
+이 계단을 내려가.
 [ENDBLOCK]
-여기서 분수 쪽으로 간다.
+여기서 분수대 쪽으로 가.
 [ENDBLOCK]
-이번에는 분수를 한 바퀴 돈다.
+이번에는 분수대를 한 바퀴 돌아.
 [ENDBLOCK]
-여기서 온 길을 되돌아간다.
+여기서부터는 왔던 길을 되돌아가.
 [ENDBLOCK]
-이번에는 분수를 가로지르기 전에, 계단을 올라간다.
+이번에는 분수대를 가로지르기 전에 계단을 올라가.
 [ENDBLOCK]
-그리고 스타트 지점이었던 곳이
-골이 된다.
+그리고 출발 지점이었던 곳이
+골인 지점이 돼.
 [ENDBLOCK]
-중간에 반칙해도,
-알아챌 거니까.
+중간에 속임수를 써도
+알아챌 거야.
 [ENDBLOCK]
-승부는 '두 바퀴'야. 잊지 마.
+시합은 「두 바퀴」야. 잊지 마.
 [ENDBLOCK]
 코스 이동 + 턴
 
@@ -496,7 +496,7 @@ select
 코스 이동
 
 [ENDBLOCK]
-메시지 재생 모두 종료됨
+메시지 재생 모두 완료됨
 
 [ENDBLOCK]
 메시지 재생
@@ -522,47 +522,47 @@ select
 설명 완료：<x17><x24><x81><x14><x2F><x80>
 
 [ENDBLOCK]
-전송지：<x1D><x75><x80><xB4><x14><x80><x2C><x20><x1D>u<x80><xB8><x14><x80><x2C><x20><x1D>u<x80><xBC><x80>
+전송 위치：<x1D><x75><x80><xB4><x14><x80><x2C><x20><x1D>u<x80><xB8><x14><x80><x2C><x20><x1D>u<x80><xBC><x80>
 
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-아름다운 도시 풍경이네요.
-새롭고 멋진 건물이 많습니다.
+아름다운 거리네요.
+새롭고 멋진 건물이 많아요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-오베론 사의 자본이 들어와서,
-최근에 급성장한 모양이야.
+오베론 사의 자본이 들어와서
+최근에 급성장했대요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-이렇게 발전해 있을 줄은,
-생각하지 못했어요. 더…
+이렇게 발전했다니
+생각지도 못했어요. 좀 더……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-시골이라고 생각했었겠네?
+시골이라고 생각했단 거네?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그, 그런 일은.
+그, 그런 건 아니에요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-죄, 죄송합니다, <Stahn> 님.
+죄, 죄송합니다, <Stahn> 씨.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-저기, 저 녀석…
+어라, 저 녀석……
 [ENDBLOCK]
-？？？？
+????
 [ENDBLOCK]
 <Stahn>!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Bacchus> 아니야?!
+<Bacchus>잖아!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -571,25 +571,25 @@ select
 <Stahn>
 [ENDBLOCK]
 리네 마을의 소꿉친구야.
-어이, 우연이네!
+이야, 우연이네!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-노이슈타트에 장보러 오다가,
-너를 만날 줄은 몰랐어!
+노이슈타트에 장을 보러 왔다가
+네가 있을 줄은 몰랐어!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-갑자기 마을을 뛰쳐나가버리다니.
-그 이후로 난리가 났었거든.
+갑자기 마을을 뛰쳐나가서.
+그 뒤로 난리도 아니었다고.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어… 그렇구나…
+으…… 그래……
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-즉, 가출한 거군. 기가 막힌 녀석이야.
+결국 가출이군. 한심한 녀석.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -597,63 +597,63 @@ select
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-그래서, 언제 마을에 돌아올 생각이야?
+그래서, 언제 마을로 돌아올 거야?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…돌아갈 생각은 없어.
+……돌아갈 생각 없어.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-야…
+야……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 꼭 해야 할 일이 있어.
+나, 꼭 해야 할 일이 있어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-자세한 상황은 말할 수 없지만…
-어쨌든 지금은 돌아가지 않아.
+자세한 사정은 말할 수 없지만……
+어쨌든, 지금은 돌아가지 않을 거야.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-이런, 너는 한 번 말하기 시작하면,
-듣지 않잖아.
+참나. 넌 한번 말을 꺼내면
+듣질 않으니까.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-그렇다면 최소한, 가족에게 편지라도 써라.
-<Lilith>가 걱정하고 있어.
+그럼 적어도 가족에게 편지라도 써.
+<Lilith>가 걱정하고 있다고?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…알겠어.
+……알았어.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-그럼, 나는 간다.
+그럼, 난 가볼게.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-응, 잘 지내.
+응, 건강해.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-엉뚱한 걱정을 끼치고 싶지 않아서,
-<Greybum>에 대해 말하지 않았지만…
+쓸데없는 걱정 끼치고 싶지 않아서
+<Greybum>의 일 말하지 않았지만……
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-그게 정답이야.
+그게 정답이다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Mary>의 모습이 보이지 않네.
+<Mary>가 안 보이네.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-어디 갔던 거야?
+어디 갔다 온 거야?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -661,7 +661,7 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-혼자서 뭘 사먹고 있는 거야.
+뭐 혼자서 사 먹고 있는 거야.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -669,51 +669,51 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-어서<Ilene>의 저택으로 가자.
+빨리 <Ilene>의 저택으로 가자.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-말 그대로 노이슈타트에 왔으니,
+모처럼 노이슈타트에 왔으니
 <Ilene> 씨에게 인사라도 하고 갈까?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-아마… 없을 거 같아요.
+아마도…… 안 계실 거예요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-우리는 리네에 가기 전에도,
-이 도시를 통과했었거든요…
+우리, 리네로 가기 전에도
+이 도시를 지나갔잖아요……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Ilene> 씨는, 한동안 공적인 자리에서,
-모습을 보이지 않는 것 같아요.
+<Ilene> 씨가 한동안 공식석상에
+모습을 보이지 않으셨대요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어딘가 가 있는 건가.
+어디 가셨나?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-寄り道をしているゆとりはない.
-어서 항구로 가서, 배에 타자.
+돌아갈 여유는 없다.
+빨리 항구로 가서 배를 타자.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-알겠어.
+알았어.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>현재 소지하고 있는 가르드:<TAG_033>가르드
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
 아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80>사령<x80></color>이
+<TAG_007><S03><turquoise><x19><x71><x80>수<x80></color>가
 [ENDBLOCK]
-파티에 합류했습니다.
+파티에 가입했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
@@ -725,42 +725,42 @@ notice
 [ENDBLOCK]
 <x18><x65><x90><xD4><x17><x00><x80><x18><x65><x90><xD8><x17><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80>사<x80></color>가
+<TAG_007><S03><turquoise><x19><x71><x80>수<x80></color>가
 [ENDBLOCK]
 파티에서 빠졌습니다.
 [ENDBLOCK]
 <x18><x65><x90><xD4><x17><x00><x80><x18><x65><x90><xD8><x17><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x18><x98><x80>
 [ENDBLOCK]
-<x18><x65><x90><x04><x18><x00><x80></color>를 획득했습니다.
+<x18><x65><x90><x04><x18><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
 <x19><x69><x80><xF8><x17><x80>들은
 [ENDBLOCK]
-<turquoise>거래칭호
+<turquoise>교역 칭호
 [ENDBLOCK]
 <x19><x69><x80><xF8><x17><x80>들은
 [ENDBLOCK]
-<turquoise>온천칭호
+<turquoise>온천 칭호
 [ENDBLOCK]
 <x19><x69><x80><xF8><x17><x80>들은
 [ENDBLOCK]
-<turquoise>자유칭호
+<turquoise>자유 칭호
 [ENDBLOCK]
 <x19><x69><x80><xF8><x17><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>내추럴레인저
+칭호: <turquoise>네이처 레인저
 [ENDBLOCK]
 <x19><x69><x80><xF8><x17><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>대시 시리즈
+칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
 <x19><x69><x80><xF8><x17><x80>들은
 [ENDBLOCK]
@@ -768,11 +768,11 @@ notice
 [ENDBLOCK]
 <x19><x69><x80><xF8><x17><x80>들은
 [ENDBLOCK]
-<turquoise>퀴즈칭호
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x80><xF8><x17><x80>(은)는
+<x19><x69><x80><xF8><x17><x80>은(는)
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x90><xFC><x17><x00><x80>
 <x18><x65><x90><x00><x18><x00><x80>
@@ -780,151 +780,151 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>(은)는
+<x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
-이 ID와 비밀번호를 연동 웹사이트에
-입력함으로써, 데스티니의 세계가
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에서
+입력하면, 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>자세한 내용은 아래 URL에서 확인하세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+<TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>게임 중의 이벤트나 미니게임을
-클리어하면 연동 ID와 게임 비밀번호가
-발급될 수 있습니다.
+클리어하면 연동 ID와 게임 패스워드가
+발행되는 경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>이 연동 ID와 게임 비밀번호를
-웹사이트에 입력함으로써 데스티니
-의 세계가 더욱 넓어집니다.
+<TAG_007>이 연동 ID와 게임 패스워드를
+웹사이트에 입력하면 데스티니
+세계가 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 비밀번호를 잊어버린 경우는
-피츠갈드에 있는 여행자의 오두막에서
+연동 ID와 게임 패스워드를 잊어버린 경우에는
+피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-껍데기 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
 [ENDBLOCK]
-첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-설정이 이루어지지 않았습니다！（tod=<TAG_059>）
+설정이 없습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-장치는 작동하지 않습니다.
+장치가 작동하고 있지 않습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 워프 장치가 작동했습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x19><x71><x80>장군<x80>의 소디언 장치가
+<TAG_007><x19><x71><x80>수<x80>의 소디언 디바이스가
 사용 가능해졌습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「칭호 설명」
+<TAG_007>「칭호의 설명」
 칭호란 캐릭터에 설정할 수 있는,
-캐릭터 파라미터 중 하나입니다.
+캐릭터 파라미터의 하나입니다.
 구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>메인 메뉴를 연 후, 캐릭터의
-상태를 표시합니다.
-그 화면에서 <Square_ani>를 누르면, 캐릭터의
-상태 표시를 전환할 수 있습니다.
+스테이터스를 표시합니다.
+그 화면에서 <Square_ani>을 누르면, 캐릭터의
+스테이터스 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
-페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면,
+<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
 획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>칭호의 용도는 두 가지가 있습니다.
-첫 번째는…
-「칭호를 설정하고, 마을 사람에게 이야기하자」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는……
+「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
-당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 여러 번
-이야기했을 때, 신기한 행동을 할 수 있습니다.
-그때는, 가지고 있는 칭호를 다시 설정한 후,
-다시 한번 이야기해보세요.
+<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
+당신에게 흥미를 보이는 사람이 있습니다. 마을 사람들에게 여러 번
+말을 걸었을 때, 이상한 행동을 하는 경우가 있습니다.
+그때는 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 말을 걸어보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
-머리 위에「？」가 나타날 수 있습니다.
-그때는, 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 설정하고, 다시 이야기해보세요.
-무언가 기쁜 일이 일어날지도 모릅니다.
+<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
+머리 위에 「？」가 나타나는 경우가 있습니다.
+그때는 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 말을 걸어보세요.
+뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>두 번째 용도는…
-「상태 화면을 멋지게 하자」
-모은 칭호 중에 마음에 드는 것이 있다면,
-설정하여 상태 화면을 멋지게 연출해봅시다.
+<TAG_007>사용법의 두 번째는……
+「스테이터스 화면을 멋지게 꾸며보자」
+모은 칭호 중에서 마음에 드는 것이 있다면,
+설정해서 스테이터스 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>「돌차기 놀이」란,
 필드에 있는 돌을 차서,
 특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는, 돌차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 출입하면,
-		돌은 원래 장소로 돌아갑니다.
+2: 전투는 돌차기 놀이의 클리어 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
+		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

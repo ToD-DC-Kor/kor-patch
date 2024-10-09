@@ -1,0 +1,3268 @@
+{
+    "00016_0000d.unknown": [
+        {
+            "offset": 244928,
+            "string": "招来[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "소환[END]"
+        },
+        {
+            "offset": 244936,
+            "string": "MUNDANE[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8,
+            "translation": "MUNDANE[END]"
+        },
+        {
+            "offset": 244944,
+            "string": "BORING[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "BORING[END]"
+        },
+        {
+            "offset": 244952,
+            "string": "WORTHY[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8,
+            "translation": "WORTHY[END]"
+        },
+        {
+            "offset": 244960,
+            "string": "BLESSED[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8,
+            "translation": "BLESSED[END]"
+        },
+        {
+            "offset": 244968,
+            "string": "DELIGHTFUL[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "DELIGHTFUL[END]"
+        },
+        {
+            "offset": 244984,
+            "string": "CLASSY[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "CLASSY[END]"
+        },
+        {
+            "offset": 244992,
+            "string": "MORIBUND[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "MORIBUND[END]"
+        },
+        {
+            "offset": 245008,
+            "string": "MAJESTIC[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "MAJESTIC[END]"
+        },
+        {
+            "offset": 245024,
+            "string": "VALUABLE[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "VALUABLE[END]"
+        },
+        {
+            "offset": 245040,
+            "string": "TRAGIC[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "TRAGIC[END]"
+        },
+        {
+            "offset": 245048,
+            "string": "MIRACULOUS[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "MIRACULOUS[END]"
+        },
+        {
+            "offset": 245064,
+            "string": "MARVELOUS[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "MARVELOUS[END]"
+        },
+        {
+            "offset": 245080,
+            "string": "EXCELLENT[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "EXCELLENT[END]"
+        },
+        {
+            "offset": 245096,
+            "string": "CONSUMERISTIC[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "CONSUMERISTIC[END]"
+        },
+        {
+            "offset": 245112,
+            "string": "SKILLFUL[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "SKILLFUL[END]"
+        },
+        {
+            "offset": 245128,
+            "string": "SUPREME[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8,
+            "translation": "SUPREME[END]"
+        },
+        {
+            "offset": 245136,
+            "string": "UNSCATHED[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "UNSCATHED[END]"
+        },
+        {
+            "offset": 245152,
+            "string": "LAZY[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "LAZY[END]"
+        },
+        {
+            "offset": 245160,
+            "string": "IMMEDIATE[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "IMMEDIATE[END]"
+        },
+        {
+            "offset": 245176,
+            "string": "INSTANTANEOUS[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "INSTANTANEOUS[END]"
+        },
+        {
+            "offset": 245192,
+            "string": "DEVASTATING[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "DEVASTATING[END]"
+        },
+        {
+            "offset": 245208,
+            "string": "%sVICTORY![END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "%sVICTORY![END]"
+        },
+        {
+            "offset": 245224,
+            "string": "肩部が再生した！[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "어깨가 재생됐다![END]"
+        },
+        {
+            "offset": 245248,
+            "string": "頭部が再生した！[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "머리가 재생됐다![END]"
+        },
+        {
+            "offset": 245272,
+            "string": "REST[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "REST[END]"
+        },
+        {
+            "offset": 245280,
+            "string": "PENETRATE[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "PENETRATE[END]"
+        },
+        {
+            "offset": 245296,
+            "string": "[Cross_ani2]:スキップ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "[Cross_ani2]:스킵[END]"
+        },
+        {
+            "offset": 245312,
+            "string": "がっかり[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "실망[END]"
+        },
+        {
+            "offset": 245328,
+            "string": "TRYACTION![END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "TRYACTION![END]"
+        },
+        {
+            "offset": 245344,
+            "string": "[TAG_015]が[yellow][TAG_016][/color]にランクアップ！[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "[TAG_015]가[yellow][TAG_016][/color]로 랭크업![END]"
+        },
+        {
+            "offset": 245384,
+            "string": "[TAG_016][TAG_015]を食べました。[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "[TAG_016][TAG_015]를 먹었습니다.[END]"
+        },
+        {
+            "offset": 245416,
+            "string": "コラボレーション！[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "콜라보레이션![END]"
+        },
+        {
+            "offset": 245440,
+            "string": "フードサック[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "음식 주머니[END]"
+        },
+        {
+            "offset": 245456,
+            "string": "インディグネイション[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "인디그네이션[END]"
+        },
+        {
+            "offset": 245480,
+            "string": "デバイスポイントが[TAG_015]増加しました！[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "디바이스 포인트가 [TAG_015] 증가했습니다![END]"
+        },
+        {
+            "offset": 245520,
+            "string": "ランクボーナス！[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "랭크 보너스![END]"
+        },
+        {
+            "offset": 245544,
+            "string": "新たなソーディアンデバイスが覚醒[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "새로운 소디언 디바이스가 각성[END]"
+        },
+        {
+            "offset": 245584,
+            "string": "[TAG_015]つのソーディアンデバイスをマスター[END]",
+            "original_bytes_length": 40,
+            "available_bytes_size": 40,
+            "translation": "[TAG_015]개의 소디언 디바이스를 마스터[END]"
+        },
+        {
+            "offset": 245624,
+            "string": "ソーディアンデバイス[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "소디언 디바이스[END]"
+        },
+        {
+            "offset": 245648,
+            "string": "[TAG_015]つの術技を習得[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[TAG_015]개의 기술을 습득[END]"
+        },
+        {
+            "offset": 245672,
+            "string": "[yellow][TAG_015][/color]を習得[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[yellow][TAG_015][/color]를 습득[END]"
+        },
+        {
+            "offset": 245696,
+            "string": "９[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "９[END]"
+        },
+        {
+            "offset": 245704,
+            "string": "８[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "８[END]"
+        },
+        {
+            "offset": 245712,
+            "string": "７[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "７[END]"
+        },
+        {
+            "offset": 245720,
+            "string": "６[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "６[END]"
+        },
+        {
+            "offset": 245728,
+            "string": "５[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "５[END]"
+        },
+        {
+            "offset": 245736,
+            "string": "４[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "４[END]"
+        },
+        {
+            "offset": 245744,
+            "string": "３[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "３[END]"
+        },
+        {
+            "offset": 245752,
+            "string": "２[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "２[END]"
+        },
+        {
+            "offset": 245760,
+            "string": "１[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "１[END]"
+        },
+        {
+            "offset": 245768,
+            "string": "０[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "０[END]"
+        },
+        {
+            "offset": 245776,
+            "string": "Ｌｅｖｅｌ[TAG_015][TAG_016][TAG_017][END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "Ｌｅｖｅｌ[TAG_015][TAG_016][TAG_017][END]"
+        },
+        {
+            "offset": 245808,
+            "string": "[turquoise][TAG_015][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[turquoise][TAG_015][END]"
+        },
+        {
+            "offset": 245824,
+            "string": "術技[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "기술[END]"
+        },
+        {
+            "offset": 245832,
+            "string": "レベルアップ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "레벨업[END]"
+        },
+        {
+            "offset": 245848,
+            "string": "x[TAG_015][END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "x[TAG_015][END]"
+        },
+        {
+            "offset": 245856,
+            "string": "アイテム獲得[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "아이템 획득[END]"
+        },
+        {
+            "offset": 245872,
+            "string": "[Cross_copy]SKIP[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Cross_copy]SKIP[END]"
+        },
+        {
+            "offset": 245888,
+            "string": "[Circle_copy]WAIT[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_copy]WAIT[END]"
+        },
+        {
+            "offset": 245904,
+            "string": "BONUSEXP[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "BONUSEXP[END]"
+        },
+        {
+            "offset": 245920,
+            "string": "TRYAGAIN...[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "TRYAGAIN...[END]"
+        },
+        {
+            "offset": 245936,
+            "string": "DEFINITESTRIKE!![END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "DEFINITESTRIKE!![END]"
+        },
+        {
+            "offset": 245960,
+            "string": "STRIKECHAIN![END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "STRIKECHAIN![END]"
+        },
+        {
+            "offset": 245976,
+            "string": "CANNOTEQUIP[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "CANNOTEQUIP[END]"
+        },
+        {
+            "offset": 245992,
+            "string": "RESERVEITEM[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "RESERVEITEM[END]"
+        },
+        {
+            "offset": 246008,
+            "string": "CANNOTUSEITEM[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "CANNOTUSEITEM[END]"
+        },
+        {
+            "offset": 246024,
+            "string": "CLEAR[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "CLEAR[END]"
+        },
+        {
+            "offset": 246032,
+            "string": "CRITICAL[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "CRITICAL[END]"
+        },
+        {
+            "offset": 246048,
+            "string": "BLOCK[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "BLOCK[END]"
+        },
+        {
+            "offset": 246056,
+            "string": "VITALDOWN[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "VITALDOWN[END]"
+        },
+        {
+            "offset": 246072,
+            "string": "CONCENTRATEDOWN[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "CONCENTRATEDOWN[END]"
+        },
+        {
+            "offset": 246096,
+            "string": "EVADEDOWN[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "EVADEDOWN[END]"
+        },
+        {
+            "offset": 246112,
+            "string": "HITRATEDOWN[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "HITRATEDOWN[END]"
+        },
+        {
+            "offset": 246128,
+            "string": "RESISTDOWN[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "RESISTDOWN[END]"
+        },
+        {
+            "offset": 246144,
+            "string": "DEFENCEDOWN[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "DEFENCEDOWN[END]"
+        },
+        {
+            "offset": 246160,
+            "string": "MINDDOWN[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "MINDDOWN[END]"
+        },
+        {
+            "offset": 246176,
+            "string": "ATTACKDOWN[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "ATTACKDOWN[END]"
+        },
+        {
+            "offset": 246192,
+            "string": "VITALUP[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "VITALUP[END]"
+        },
+        {
+            "offset": 246208,
+            "string": "CONCENTRATEUP[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "CONCENTRATEUP[END]"
+        },
+        {
+            "offset": 246224,
+            "string": "EVADEUP[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "EVADEUP[END]"
+        },
+        {
+            "offset": 246240,
+            "string": "HITRATEUP[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "HITRATEUP[END]"
+        },
+        {
+            "offset": 246256,
+            "string": "RESISTUP[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "RESISTUP[END]"
+        },
+        {
+            "offset": 246272,
+            "string": "DEFENCEUP[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "DEFENCEUP[END]"
+        },
+        {
+            "offset": 246288,
+            "string": "MINDUP[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8,
+            "translation": "MINDUP[END]"
+        },
+        {
+            "offset": 246296,
+            "string": "ATTACKUP[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "ATTACKUP[END]"
+        },
+        {
+            "offset": 246312,
+            "string": "STOP[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "STOP[END]"
+        },
+        {
+            "offset": 246320,
+            "string": "DOWNSIZE[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "DOWNSIZE[END]"
+        },
+        {
+            "offset": 246336,
+            "string": "SEAL[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "SEAL[END]"
+        },
+        {
+            "offset": 246344,
+            "string": "PARALYZE[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "PARALYZE[END]"
+        },
+        {
+            "offset": 246360,
+            "string": "SLEEP[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "SLEEP[END]"
+        },
+        {
+            "offset": 246368,
+            "string": "POISON[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "POISON[END]"
+        },
+        {
+            "offset": 246376,
+            "string": "WASTE[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "WASTE[END]"
+        },
+        {
+            "offset": 246384,
+            "string": "STONE[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "STONE[END]"
+        },
+        {
+            "offset": 246392,
+            "string": "体力[TAG_015][END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "체력[TAG_015][END]"
+        },
+        {
+            "offset": 246408,
+            "string": "集中[TAG_015][END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "집중[TAG_015][END]"
+        },
+        {
+            "offset": 246424,
+            "string": "回避[TAG_015][END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "회피[TAG_015][END]"
+        },
+        {
+            "offset": 246440,
+            "string": "命中[TAG_015][END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "명중[TAG_015][END]"
+        },
+        {
+            "offset": 246456,
+            "string": "術防御力[TAG_015][END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "기술 방어력[TAG_015][END]"
+        },
+        {
+            "offset": 246472,
+            "string": "防御力[TAG_015][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "방어력[TAG_015][END]"
+        },
+        {
+            "offset": 246488,
+            "string": "術攻撃力[TAG_015][END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "기술 공격력[TAG_015][END]"
+        },
+        {
+            "offset": 246504,
+            "string": "攻撃力[TAG_015][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "공격력[TAG_015][END]"
+        },
+        {
+            "offset": 246520,
+            "string": "鋼体効果[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "강철 효과[END]"
+        },
+        {
+            "offset": 246536,
+            "string": "げそり[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "오다리[END]"
+        },
+        {
+            "offset": 246544,
+            "string": "ぽちゃり[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "통통[END]"
+        },
+        {
+            "offset": 246560,
+            "string": "異常防止[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "이상 방지[END]"
+        },
+        {
+            "offset": 246576,
+            "string": "停止[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "정지[END]"
+        },
+        {
+            "offset": 246584,
+            "string": "小型[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "소형[END]"
+        },
+        {
+            "offset": 246592,
+            "string": "封印[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "봉인[END]"
+        },
+        {
+            "offset": 246600,
+            "string": "マヒ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "마비[END]"
+        },
+        {
+            "offset": 246608,
+            "string": "睡眠[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "수면[END]"
+        },
+        {
+            "offset": 246616,
+            "string": "熱毒[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "열독[END]"
+        },
+        {
+            "offset": 246624,
+            "string": "衰弱[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "쇠약[END]"
+        },
+        {
+            "offset": 246632,
+            "string": "石化[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "석화[END]"
+        },
+        {
+            "offset": 246640,
+            "string": " [END]",
+            "original_bytes_length": 2,
+            "available_bytes_size": 7,
+            "translation": " [END]"
+        },
+        {
+            "offset": 246648,
+            "string": "[L1_ani]操作キャラ切り替え[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[L1_ani]조작 캐릭터 전환[END]"
+        },
+        {
+            "offset": 246672,
+            "string": "オール[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "ALL[END]"
+        },
+        {
+            "offset": 246680,
+            "string": "エネミー[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "적[END]"
+        },
+        {
+            "offset": 246696,
+            "string": "パーティ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "파티[END]"
+        },
+        {
+            "offset": 246712,
+            "string": "ターゲット[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "타겟[END]"
+        },
+        {
+            "offset": 246728,
+            "string": "[R1_ani]カメラ：[TAG_015][END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "[R1_ani]카메라：[TAG_015][END]"
+        },
+        {
+            "offset": 246752,
+            "string": "[Circle_ani]:詳細[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]:상세[END]"
+        },
+        {
+            "offset": 246768,
+            "string": "術に弱い[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "기술에 약함[END]"
+        },
+        {
+            "offset": 246784,
+            "string": "物理に弱い[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "물리에 약함[END]"
+        },
+        {
+            "offset": 246800,
+            "string": "FORCE[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "FORCE[END]"
+        },
+        {
+            "offset": 246808,
+            "string": "＋[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "＋[END]"
+        },
+        {
+            "offset": 246816,
+            "string": "ー[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "ー[END]"
+        },
+        {
+            "offset": 246824,
+            "string": "TARGET[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "TARGET[END]"
+        },
+        {
+            "offset": 246832,
+            "string": "USER[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "USER[END]"
+        },
+        {
+            "offset": 246840,
+            "string": "DAMAGEBREAK[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "DAMAGEBREAK[END]"
+        },
+        {
+            "offset": 246856,
+            "string": "ENEMYAPPEARED![END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "ENEMYAPPEARED![END]"
+        },
+        {
+            "offset": 246872,
+            "string": "剛招来[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "강소환[END]"
+        },
+        {
+            "offset": 246880,
+            "string": "CHARGE[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "CHARGE[END]"
+        },
+        {
+            "offset": 246888,
+            "string": "CAPA[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "CAPA[END]"
+        },
+        {
+            "offset": 246896,
+            "string": "DOWN![END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "DOWN![END]"
+        },
+        {
+            "offset": 246904,
+            "string": "SMASH![END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "SMASH![END]"
+        },
+        {
+            "offset": 246912,
+            "string": "MISS[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "MISS[END]"
+        },
+        {
+            "offset": 246920,
+            "string": "EMPTY[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "EMPTY[END]"
+        },
+        {
+            "offset": 246928,
+            "string": "GETITEM![END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "GETITEM![END]"
+        },
+        {
+            "offset": 246944,
+            "string": "%dGALD[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8,
+            "translation": "%dGALD[END]"
+        },
+        {
+            "offset": 246952,
+            "string": "[Circle_ani][Cross_ani][END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani][Cross_ani][END]"
+        },
+        {
+            "offset": 246968,
+            "string": "BLAST[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "BLAST[END]"
+        },
+        {
+            "offset": 246976,
+            "string": "BLASTCALIBER[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "BLASTCALIBER[END]"
+        },
+        {
+            "offset": 246992,
+            "string": "DISILLUSION[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "DISILLUSION[END]"
+        },
+        {
+            "offset": 247008,
+            "string": "SPELL-[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "SPELL-[END]"
+        },
+        {
+            "offset": 247016,
+            "string": "-SKILL&[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "-SKILL&[END]"
+        },
+        {
+            "offset": 247032,
+            "string": "MANEUVER-[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "MANEUVER-[END]"
+        },
+        {
+            "offset": 247048,
+            "string": "-STRATEGIC[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "-STRATEGIC[END]"
+        },
+        {
+            "offset": 247064,
+            "string": "ITEM-[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "ITEM-[END]"
+        },
+        {
+            "offset": 247072,
+            "string": "-USE[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "-USE[END]"
+        },
+        {
+            "offset": 247080,
+            "string": "ARMS-[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "ARMS-[END]"
+        },
+        {
+            "offset": 247088,
+            "string": "-EQUIP[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "-EQUIP[END]"
+        },
+        {
+            "offset": 247096,
+            "string": "術技[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "기술[END]"
+        },
+        {
+            "offset": 247104,
+            "string": "作戦[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "작전[END]"
+        },
+        {
+            "offset": 247112,
+            "string": "アイテム[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "아이템[END]"
+        },
+        {
+            "offset": 247128,
+            "string": "装備[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "장비[END]"
+        },
+        {
+            "offset": 247136,
+            "string": "闇[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "어둠[END]"
+        },
+        {
+            "offset": 247144,
+            "string": "光[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "빛[END]"
+        },
+        {
+            "offset": 247152,
+            "string": "水[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "물[END]"
+        },
+        {
+            "offset": 247160,
+            "string": "火[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "불[END]"
+        },
+        {
+            "offset": 247168,
+            "string": "風[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "바람[END]"
+        },
+        {
+            "offset": 247176,
+            "string": "地[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "대지[END]"
+        },
+        {
+            "offset": 247184,
+            "string": "音[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "음파[END]"
+        },
+        {
+            "offset": 247192,
+            "string": "射[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "사격[END]"
+        },
+        {
+            "offset": 247200,
+            "string": "打[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "타격[END]"
+        },
+        {
+            "offset": 247208,
+            "string": "斬[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "참격[END]"
+        },
+        {
+            "offset": 247216,
+            "string": "ESCAPED[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8,
+            "translation": "ESCAPED[END]"
+        },
+        {
+            "offset": 247224,
+            "string": "CANNOTESCAPE[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "CANNOTESCAPE[END]"
+        },
+        {
+            "offset": 247240,
+            "string": "ESCAPEGAGE[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "ESCAPEGAGE[END]"
+        },
+        {
+            "offset": 247256,
+            "string": "WEAKPOINT[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "WEAKPOINT[END]"
+        },
+        {
+            "offset": 247272,
+            "string": "兵士[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "병사[END]"
+        },
+        {
+            "offset": 247280,
+            "string": "？[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "？[END]"
+        },
+        {
+            "offset": 247288,
+            "string": "STATUS[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "STATUS[END]"
+        },
+        {
+            "offset": 247296,
+            "string": "REDUCE[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "REDUCE[END]"
+        },
+        {
+            "offset": 247304,
+            "string": "WEAK[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "WEAK[END]"
+        },
+        {
+            "offset": 247312,
+            "string": "HP[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "HP[END]"
+        },
+        {
+            "offset": 247320,
+            "string": "NAME[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "NAME[END]"
+        },
+        {
+            "offset": 247328,
+            "string": "[Circle_ani2]はい[Cross_ani2]いいえ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "[Circle_ani2]예[Cross_ani2]아니요[END]"
+        },
+        {
+            "offset": 247352,
+            "string": "RETRY?[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "RETRY?[END]"
+        },
+        {
+            "offset": 247360,
+            "string": "RESERVE[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8,
+            "translation": "RESERVE[END]"
+        },
+        {
+            "offset": 247368,
+            "string": "GUARD[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "GUARD[END]"
+        },
+        {
+            "offset": 247376,
+            "string": "敗北した…[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "패배했다…[END]"
+        },
+        {
+            "offset": 247392,
+            "string": "逃走した[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "도주했다[END]"
+        },
+        {
+            "offset": 247408,
+            "string": "MANUAL[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "MANUAL[END]"
+        },
+        {
+            "offset": 247416,
+            "string": "SEMIAUTO[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "SEMIAUTO[END]"
+        },
+        {
+            "offset": 247432,
+            "string": "AUTO[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "AUTO[END]"
+        },
+        {
+            "offset": 247440,
+            "string": "PAUSE[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "PAUSE[END]"
+        },
+
+
+        {
+            "offset": 259752,
+            "string": "チェインキャパって何だろう[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 39,
+            "translation": "체인 캐파가 뭘까?[END]"
+        },
+        {
+            "offset": 259696,
+            "string": "[yellow]チェインキャパ（CC）[/color]とは連携用の能力値。[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "[yellow]체인 캐파(CC)[/color]란 연계를 위한 능력치야.[END]"
+        },
+        {
+            "offset": 259640,
+            "string": "たいていの[turquoise]行動・攻撃が繋がる[/color]ステキぶり。[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "대부분의 [turquoise]행동·공격을 이어갈 수 있는[/color] 멋진 기능이지.[END]"
+        },
+        {
+            "offset": 259592,
+            "string": "行動終了後、[turquoise]すぐに回復[/color]するので[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "행동 종료 후, [turquoise]바로 회복[/color]되니까[END]"
+        },
+        {
+            "offset": 259560,
+            "string": "いろんな行動を連携してみよう。[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "여러 행동을 연계해보자.[END]"
+        },
+        {
+            "offset": 259528,
+            "string": "シフトするぞチェインキャパ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "체인 캐파 전환한다![END]"
+        },
+        {
+            "offset": 259480,
+            "string": "武器ステータスの[yellow]ＣＣ２～５[/color]とは[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "무기 스테이터스의 [yellow]CC 2~5[/color]는[END]"
+        },
+        {
+            "offset": 259416,
+            "string": "ＣＣが[turquoise]２→３→４→５→２→[/color]とシフトする状態。[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63,
+            "translation": "CC가 [turquoise]２→３→４→５→２→[/color]로 전환되는 상태야.[END]"
+        },
+        {
+            "offset": 259368,
+            "string": "[yellow]ソーディアンデバイス[/color]を成長させれば[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "[yellow]소디언 디바이스[/color]를 성장시키면[END]"
+        },
+        {
+            "offset": 259320,
+            "string": "最小ＣＣ、最大ＣＣを増やすことができるので、[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "최소 CC, 최대 CC를 늘릴 수 있으니,[END]"
+        },
+        {
+            "offset": 259272,
+            "string": "戦闘スタイルに合わせた武器を使いこなそう。[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "전투 스타일에 맞는 무기를 사용해보자.[END]"
+        },
+        {
+            "offset": 259240,
+            "string": "ちょっとうれしいボーナス[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "조금 기쁜 보너스[END]"
+        },
+        {
+            "offset": 259184,
+            "string": "強敵と戦うときだって難易度を下げない勇敢なあなたに[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "강적과 싸울 때도 난이도를 낮추지 않는 용감한 당신에게[END]"
+        },
+        {
+            "offset": 259136,
+            "string": "[yellow]デバイスポイント[/color]のボーナスです。[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "[yellow]디바이스 포인트[/color] 보너스 줄게.[END]"
+        },
+        {
+            "offset": 259072,
+            "string": "連続ヒットによる経験値ボーナスは[turquoise]難易度でも上昇する[/color][END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "연속 히트로 인한 경험치 보너스는[turquoise]난이도에 따라 상승해[/color][END]"
+        },
+        {
+            "offset": 259024,
+            "string": "ので、強敵に勝つには普段の戦闘から真剣勝負だ！[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "그러니까, 강적을 이기려면 평소 전투부터 진지하게 해야 해![END]"
+        },
+        {
+            "offset": 259000,
+            "string": "敵の弱点を突いてみる[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "적의 약점을 노려보자[END]"
+        },
+        {
+            "offset": 258960,
+            "string": "敵の弱点を突いた攻撃を行うと・・・[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "적의 약점을 공격 하면…[END]"
+        },
+        {
+            "offset": 258920,
+            "string": "・ダメージが[turquoise]１．５倍！[/color][END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "・데미지가[turquoise]1.5배![/color][END]"
+        },
+        {
+            "offset": 258888,
+            "string": "・命中率が[turquoise]４倍！[/color][END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "・명중률이[turquoise]4배![/color][END]"
+        },
+        {
+            "offset": 258848,
+            "string": "・クリティカル率も[turquoise]４倍！[/color][END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "・크리티컬률도[turquoise]4배![/color][END]"
+        },
+        {
+            "offset": 258800,
+            "string": "といいことづくめ。[R1_copy]で敵の弱点を確認して[END]",
+            "original_bytes_length": 44,
+            "available_bytes_size": 47,
+            "translation": "좋은 점만 가득해.[R1_copy]로 적의 약점을 확인하고[END]"
+        },
+        {
+            "offset": 258776,
+            "string": "容赦なく攻めていこう。[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "가차 없이 공격해보자.[END]"
+        },
+        {
+            "offset": 258752,
+            "string": "弱点と連携のお得情報[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "약점과 연계의 유용한 정보[END]"
+        },
+        {
+            "offset": 258704,
+            "string": "敵の[yellow]弱点[/color]を攻撃したキャラの連携中は、[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "적의 [yellow]약점[/color]을 공격한 캐릭터의 연계 중에는,[END]"
+        },
+        {
+            "offset": 258648,
+            "string": "耐性のある攻撃でも[turquoise]全て弱点としてヒット！[/color][END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "내성이 있는 공격도[turquoise]모두 약점으로 히트 돼![/color][END]"
+        },
+        {
+            "offset": 258608,
+            "string": "弱点を突いて敵をのけぞらせたら、[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "약점을 공격해서 적을 경직시키면,[END]"
+        },
+        {
+            "offset": 258576,
+            "string": "あとは好きな連携を叩き込もう！[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "그 뒤엔 원하는 연계를 때려넣자![END]"
+        },
+        {
+            "offset": 258552,
+            "string": "クリティカルって痛すぎ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "크리티컬은 너무 아파[END]"
+        },
+        {
+            "offset": 258488,
+            "string": "集中力が高いと、時々[yellow]クリティカルヒット[/color]が発生。[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63,
+            "translation": "집중력이 높으면, 가끔 [yellow]크리티컬 히트[/color]가 발생해.[END]"
+        },
+        {
+            "offset": 258424,
+            "string": "ダメージが[turquoise]２倍[/color]だけならまだしも、[turquoise]気絶[/color]するわ[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "데미지가 [turquoise]2배[/color]인 것도 대단한데, [turquoise]기절[/color]까지 시키고[END]"
+        },
+        {
+            "offset": 258376,
+            "string": "[turquoise]CCが２回復[/color]するわのおまけつきで、[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "[turquoise]CC가 2회복[/color]되는 보너스까지 붙어서,[END]"
+        },
+        {
+            "offset": 258344,
+            "string": "一歩進んだ連携を可能にする！[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "한 단계 높은 연계를 가능하게 해![END]"
+        },
+        {
+            "offset": 258296,
+            "string": "やられたくない場合は回避率を上げておこう。[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "당하고 싶지 않다면 회피율을 높여두자.[END]"
+        },
+        {
+            "offset": 258272,
+            "string": "ブラストキャリバー！[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "블라스트 캘리버![END]"
+        },
+        {
+            "offset": 258216,
+            "string": "[yellow]ブラストゲージ[/color]は攻撃、ダメージなどで上昇。[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55,
+            "translation": "[yellow]블라스트 게이지[/color]는 공격, 데미지 등으로 상승해.[END]"
+        },
+        {
+            "offset": 258168,
+            "string": "ゲージを溜めると[turquoise]キャラが青く光り、[/color][END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "게이지를 모으면 [turquoise]캐릭터가 파랗게 빛나고,[/color][END]"
+        },
+        {
+            "offset": 258136,
+            "string": "攻撃ヒット中に[L1_Press2]を押すことで[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "공격 히트 중에 [L1_Press2]을 누르면[END]"
+        },
+        {
+            "offset": 258096,
+            "string": "[yellow]ブラストキャリバー[/color]が発動！[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "[yellow]블라스트 캘리버[/color]가 발동돼![END]"
+        },
+        {
+            "offset": 258040,
+            "string": "ピンチのときにも、連続ヒットのチャンスのときにも！[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "위기일 때에도, 연속 히트의 기회에서도![END]"
+        },
+        {
+            "offset": 258008,
+            "string": "ブラストゲージを溜めたいな[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "블라스트 게이지를 모으고 싶어[END]"
+        },
+        {
+            "offset": 257960,
+            "string": "ブラストキャリバーを発動させるのに必要な[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "블라스트 캘리버를 발동시키기 위해 필요한[END]"
+        },
+        {
+            "offset": 257880,
+            "string": "[yellow]ブラストゲージ[/color]は主に[turquoise]連携数と威力に比例[/color]して増加する。[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "[yellow]블라스트 게이지[/color]는 주로 [turquoise]연계 수와 위력에 비례[/color]해서 증가해.[END]"
+        },
+        {
+            "offset": 257840,
+            "string": "ゲージを溜めるのを重視する場合は[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "게이지를 모으는 것을 중시할 경우는[END]"
+        },
+        {
+            "offset": 257800,
+            "string": "[Circle_ani2]通常攻撃により連携数を増やし、[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "[Circle_ani2]일반 공격으로 연계 수를 늘리고,[END]"
+        },
+        {
+            "offset": 257752,
+            "string": "攻撃力の高い[Cross_ani2]術技で決めるのが効率的。[END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "공격력이 높은[Cross_ani2]기술로 마무리하는 게 효율적이야.[END]"
+        },
+        {
+            "offset": 257720,
+            "string": "ピンチのときにダメージブレイク[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "위기일 때 데미지 브레이크[END]"
+        },
+        {
+            "offset": 257672,
+            "string": "[yellow]ブラストゲージ[/color]には秘密の使い方が。[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "[yellow]블라스트 게이지[/color]에는 비밀 사용법이 있어.[END]"
+        },
+        {
+            "offset": 257640,
+            "string": "ダメージを受けている間に[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "데미지를 받고 있는 동안에[END]"
+        },
+        {
+            "offset": 257600,
+            "string": "[yellow][L1_Press2]を連打[/color]することで、[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "[yellow][L1_Press2]을 연타[/color]하면,[END]"
+        },
+        {
+            "offset": 257536,
+            "string": "[turquoise]ゲージを５０％消費[/color]してのけぞり状態を中断でき、[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63,
+            "translation": "[turquoise]게이지를 50% 소모[/color]해서 경직 상태를 중단할 수 있고,[END]"
+        },
+        {
+            "offset": 257480,
+            "string": "更に[turquoise]ＨＰ回復効果[/color]で、ピンチを切り抜ける！[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "게다가 [turquoise]HP 회복 효과[/color]로, 위기를 모면할 수 있어![END]"
+        },
+        {
+            "offset": 257424,
+            "string": "戦闘不能になるくらいなら、最後まであがいてみよう！[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "전투 불능이 될 바에야, 끝까지 버텨보자![END]"
+        },
+        {
+            "offset": 257400,
+            "string": "いろんなキャラで戦える[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "여러 캐릭터로 싸울 수 있어[END]"
+        },
+        {
+            "offset": 257368,
+            "string": "主人公は[Stahn]ですが、戦闘では[END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "주인공은[Stahn]이지만, 전투에서는[END]"
+        },
+        {
+            "offset": 257304,
+            "string": "[turquoise]戦闘に参加しているキャラなら誰でも操作[/color]できます。[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "[turquoise]전투에 참가하고 있는 캐릭터라면 누구든지 조작[/color]할 수 있어.[END]"
+        },
+        {
+            "offset": 257256,
+            "string": "[yellow]パーティ[/color]メニューで、[Triangle_ani]で並べ替えて[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 48,
+            "translation": "[yellow]파티[/color] 메뉴에서, [Triangle_ani]로 정렬해서[END]"
+        },
+        {
+            "offset": 257208,
+            "string": "操作したいキャラを一番上に持ってくるだけ。[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "조작하고 싶은 캐릭터를 맨 위로 올리기만 하면 돼.[END]"
+        },
+        {
+            "offset": 257152,
+            "string": "戦闘中でも[Triangle_ani]メニューから[L1_Press2]で切り替え可能。[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "전투 중에도 [Triangle_ani]메뉴에서[L1_Press2]으로 전환 가능해.[END]"
+        },
+        {
+            "offset": 257120,
+            "string": "意外な戦闘能力がわかるかも……[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "의외의 전투 능력을 발견할 수도?……[END]"
+        },
+        {
+            "offset": 257096,
+            "string": "フードを補充しよう[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "음식을 보충하자[END]"
+        },
+        {
+            "offset": 257040,
+            "string": "フードサックは[yellow]街の食材屋[/color]でカンタン補充。[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "음식 주머니는 [yellow]마을의 식재료 가게[/color]에서 쉽게 보충할 수 있어.[END]"
+        },
+        {
+            "offset": 256992,
+            "string": "街に入ったら食材屋を探す習慣をつけてみよう。[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "마을에 들어가면 식재료 가게를 찾는 습관을 들여보자.[END]"
+        },
+        {
+            "offset": 256928,
+            "string": "フードサックを[turquoise]使うほどフード最大値が成長[/color]するから[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "음식 주머니를 [turquoise]사용할수록 음식 최대치가 성장[/color]하니까[END]"
+        },
+        {
+            "offset": 256896,
+            "string": "何はともあれ食べて進もう。[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "뭐니 뭐니 해도 먹으면서 나아가자.[END]"
+        },
+        {
+            "offset": 256864,
+            "string": "フードストラップをつけよう[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "푸드 스트랩을 달자[END]"
+        },
+        {
+            "offset": 256824,
+            "string": "フードサックは食べないと成長しない。[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "음식 주머니는 먹지 않으면 성장하지 않아.[END]"
+        },
+        {
+            "offset": 256768,
+            "string": "すぐに切れるからと外している人こそ、食べるべき。[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "금방 떨어진다고 안 쓰는 사람일수록, 먹어야 해.[END]"
+        },
+        {
+            "offset": 256728,
+            "string": "フードストラップのセットの仕方で[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "푸드 스트랩의 세팅 방법에 따라[END]"
+        },
+        {
+            "offset": 256672,
+            "string": "ちょくちょく回復したり戦闘のピンチを救ってくれたり[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "자주 회복하거나 전투의 위기를 구해주거나[END]"
+        },
+        {
+            "offset": 256648,
+            "string": "いいことがいろいろ。[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "좋은 점이 여러 가지야.[END]"
+        },
+        {
+            "offset": 256600,
+            "string": "２つの使い込んだストラップが起こす奇跡、[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "두 개의 사용한 스트랩이 일으키는 기적,[END]"
+        },
+        {
+            "offset": 256560,
+            "string": "それが[yellow]コラボレーション[/color]。[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "그게 바로 [yellow]콜라보레이션[/color].[END]"
+        },
+        {
+            "offset": 256512,
+            "string": "１つのストラップのコストで２つ分の回復。[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "한 개의 스트랩 비용으로 두 개 분량의 회복.[END]"
+        },
+        {
+            "offset": 256456,
+            "string": "そして誰かひとりのステータスをアップさせる凄さ！[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "그리고 누군가 한 명의 스테이터스를 올려주는 대단함![END]"
+        },
+        {
+            "offset": 256408,
+            "string": "コラボレーションを起こす組み合わせは決まって[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "콜라보레이션을 일으키는 조합은 정해져[END]"
+        },
+        {
+            "offset": 256352,
+            "string": "いるので、[yellow]フード図鑑[/color]で確認してみよう。[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "있으니, [yellow]음식 도감[/color]으로 확인해보자.[END]"
+        },
+        {
+            "offset": 256320,
+            "string": "多彩な術技でクリティカッた[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "다채로운 기술로 크리티컬[END]"
+        },
+        {
+            "offset": 256280,
+            "string": "[turquoise]違う術技で連携[/color]すると、[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "[turquoise]다른 기술로 연계[/color]하면,[END]"
+        },
+        {
+            "offset": 256232,
+            "string": "クリティカル率が[turquoise]２倍[/color]にアップ！[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "크리티컬률이 [turquoise]2배[/color]로 올라가![END]"
+        },
+        {
+            "offset": 256184,
+            "string": "弱点からの連携なら全てが弱点になることも[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "약점에서 연계라면 모두가 약점이 되는 것도[END]"
+        },
+        {
+            "offset": 256144,
+            "string": "利用して、いろんな組み合わせを試そう！[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "이용해서, 여러 조합을 시도해보자![END]"
+        },
+        {
+            "offset": 256128,
+            "string": "状態異常：石化[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "상태 이상：석화[END]"
+        },
+        {
+            "offset": 256088,
+            "string": "[yellow]石化[/color]にかかってしまうと、[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "[yellow]석화[/color]에 걸리면,[END]"
+        },
+        {
+            "offset": 256056,
+            "string": "一定時間動けなくなってしまい、[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "일정 시간 움직일 수 없게 되고,[END]"
+        },
+        {
+            "offset": 256008,
+            "string": "受けるダメージが１．５倍になってしまう。[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "받는 데미지가 1.5배로 늘어나 버려.[END]"
+        },
+        {
+            "offset": 255960,
+            "string": "他の状態異常に比べて比較的早く回復するものの、[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "다른 상태 이상에 비해 비교적 빨리 회복하지만,[END]"
+        },
+        {
+            "offset": 255912,
+            "string": "その間殴られっぱなしなのはあまりに危険。[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "그동안 맞고만 있는 건 너무 위험해.[END]"
+        },
+        {
+            "offset": 255896,
+            "string": "状態異常：衰弱[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "상태 이상：쇠약[END]"
+        },
+        {
+            "offset": 255856,
+            "string": "[yellow]衰弱[/color]にかかってしまうと、[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "[yellow]쇠약[/color]에 걸리면,[END]"
+        },
+        {
+            "offset": 255808,
+            "string": "ＣＣの回復速度が極端に遅くなってしまうため、[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "CC의 회복 속도가 극단적으로 느려지기 때문에,[END]"
+        },
+        {
+            "offset": 255768,
+            "string": "大変もたもたした人になってしまう。[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "매우 느린 사람이 되어 버려.[END]"
+        },
+        {
+            "offset": 255720,
+            "string": "敵にかけた場合は敵の行動頻度を下げられるので、[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "적에게 걸면 적의 행동 빈도를 낮출 수 있으니,[END]"
+        },
+        {
+            "offset": 255680,
+            "string": "ちょこまかする敵に狙ってみよう。[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "재빠른 적을 노려보자.[END]"
+        },
+        {
+            "offset": 255664,
+            "string": "状態異常：熱毒[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "상태 이상：열독[END]"
+        },
+        {
+            "offset": 255624,
+            "string": "[yellow]熱毒[/color]にかかってしまうと、[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "[yellow]열독[/color]에 걸리면,[END]"
+        },
+        {
+            "offset": 255592,
+            "string": "ＨＰが急速に減ってしまう。[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "HP가 급속히 줄어들어.[END]"
+        },
+        {
+            "offset": 255552,
+            "string": "できるだけ[yellow]宝石[/color]などの装備品で[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "가능한 한 [yellow]보석[/color] 등의 장비로[END]"
+        },
+        {
+            "offset": 255504,
+            "string": "未然に防止するのが賢い戦い方といえるので、[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "미리 방지하는 것이 현명한 전투 방법이라고 할 수 있으니,[END]"
+        },
+        {
+            "offset": 255456,
+            "string": "宝石リライズしたり、街で原石を買ってこよう。[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "보석 리라이즈하거나, 마을에서 원석을 사서 오자.[END]"
+        },
+        {
+            "offset": 255440,
+            "string": "状態異常：睡眠[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "상태 이상：수면[END]"
+        },
+        {
+            "offset": 255400,
+            "string": "[yellow]睡眠[/color]にかかってしまうと、[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "[yellow]수면[/color]에 걸리면,[END]"
+        },
+        {
+            "offset": 255352,
+            "string": "殴られるまで行動不能になる上、ほぼ確実に[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "맞을 때까지 행동 불능이 되고, 거의 확실히[END]"
+        },
+        {
+            "offset": 255312,
+            "string": "クリティカルヒットを受けてしまう。[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "크리티컬 히트를 받게 돼.[END]"
+        },
+        {
+            "offset": 255264,
+            "string": "一度殴られれば治るから平気と油断するなかれ。[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "한 번 맞으면 깨니까 괜찮다고 방심하지 마.[END]"
+        },
+        {
+            "offset": 255208,
+            "string": "[turquoise][Stahn]だけ[/color]はいくら殴られても起きやしない……[END]",
+            "original_bytes_length": 54,
+            "available_bytes_size": 55,
+            "translation": "[turquoise][Stahn]만[/color]은 아무리 맞아도 일어나지 않아……[END]"
+        },
+        {
+            "offset": 255192,
+            "string": "状態異常：マヒ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "상태 이상：마비[END]"
+        },
+        {
+            "offset": 255152,
+            "string": "[yellow]マヒ[/color]にかかってしまうと、[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "[yellow]마비[/color]에 걸리면,[END]"
+        },
+        {
+            "offset": 255104,
+            "string": "移動、行動、詠唱時に、時々のけぞってしまう。[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "이동, 행동, 영창 시, 가끔 경직 돼.[END]"
+        },
+        {
+            "offset": 255072,
+            "string": "この「時々」なのがくせもので、[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "이 「가끔」이라는 것이 까다로워서,[END]"
+        },
+        {
+            "offset": 255016,
+            "string": "治るまで待っているといつのまにか不利な状況に……[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "풀릴 때까지 기다리고 있으면 어느새 불리한 상황에……[END]"
+        },
+        {
+            "offset": 254944,
+            "string": "[yellow]アイテム[/color]は使えるので[yellow]パナシーアボトル[/color]で回復だ。[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "[yellow]아이템[/color]은 사용할 수 있으니[yellow]만병통치약[/color]으로 회복하자.[END]"
+        },
+        {
+            "offset": 254928,
+            "string": "状態異常：封印[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "상태 이상：봉인[END]"
+        },
+        {
+            "offset": 254888,
+            "string": "[yellow]封印[/color]にかかってしまうと、[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "[yellow]봉인[/color]에 걸리면,[END]"
+        },
+        {
+            "offset": 254848,
+            "string": "術技が使用できなくなってしまう。[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "기술을 사용할 수 없게 돼버려.[END]"
+        },
+        {
+            "offset": 254800,
+            "string": "通常攻撃だけしてても面白くないので早く治そう。[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "일반 공격만 하고 있으면 재미없으니 빨리 치료하자.[END]"
+        },
+        {
+            "offset": 254752,
+            "string": "敵にかけることで敵のブラスト後の特殊攻撃を防ぐ[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "적에게 걸면 적의 블라스트 후의 특수 공격을 막는[END]"
+        },
+        {
+            "offset": 254704,
+            "string": "効果もつくため、封印が効く敵には積極的に。[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "효과도 있으니, [yellow]봉인[/color]이 통하는 적에는 적극적으로 써.[END]"
+        },
+        {
+            "offset": 254680,
+            "string": "メインステータスと術技[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "메인 스테이터스와 기술[END]"
+        },
+        {
+            "offset": 254632,
+            "string": "[turquoise]メインステータス[/color]をかるーくチェック。[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[turquoise]메인 스테이터스[/color]를 살짝 체크해볼까.[END]"
+        },
+        {
+            "offset": 254568,
+            "string": "[yellow]攻撃力：[/color]通常攻撃、[Sign_4]・[Sign_5]マークの術技に影響[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "[yellow]공격력：[/color]일반 공격, [Sign_4]・[Sign_5]마크의 술기에 영향[END]"
+        },
+        {
+            "offset": 254520,
+            "string": "[yellow]防御力：[/color]攻撃力によるダメージの軽減[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "[yellow]방어력：[/color]공격력에 의한 데미지의 경감[END]"
+        },
+        {
+            "offset": 254464,
+            "string": "[yellow]術攻撃力：[/color][Sign_5]・[Sign_6]マークの術技に影響[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "[yellow]정술 공격력：[/color][Sign_5]・[Sign_6]마크의 술기에 영향[END]"
+        },
+        {
+            "offset": 254408,
+            "string": "[yellow]術防御力：[/color]術攻撃力によるダメージの軽減[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "[yellow]정술 방어력：[/color]정술 공격력에 의한 데미지의 경감[END]"
+        },
+        {
+            "offset": 254360,
+            "string": "宝石のリライズを利用してキャラを強化しよう。[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "보석의 리라이즈를 이용해서 캐릭터를 강화하자.[END]"
+        },
+        {
+            "offset": 254336,
+            "string": "サブステータスとひみつ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "서브 스테이터스와 비밀[END]"
+        },
+        {
+            "offset": 254288,
+            "string": "[turquoise]サブステータス[/color]も調べてみよう。[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "[turquoise]서브 스테이터스[/color]도 살펴보자.[END]"
+        },
+        {
+            "offset": 254240,
+            "string": "[yellow]命中率：[/color]高いほど防御されにくい[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "[yellow]명중률：[/color]높을수록 방어하기 어렵다[END]"
+        },
+        {
+            "offset": 254184,
+            "string": "[yellow]集中力：[/color]クリティカルヒットが出やすくなる[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "[yellow]집중력：[/color]크리티컬 히트가 나오기 쉬워진다[END]"
+        },
+        {
+            "offset": 254136,
+            "string": "[yellow]回避率：[/color]敵の攻撃を受け流したりできる[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[yellow]회피율：[/color]적의 공격을 피할 수 있다[END]"
+        },
+        {
+            "offset": 254096,
+            "string": "[yellow]体力：[/color]最大ＨＰ値に影響[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "[yellow]체력：[/color]최대 HP 값에 영향[END]"
+        },
+        {
+            "offset": 254032,
+            "string": "[/color]ステータス画面で隣り合う[/color]メインとサブの関係とは？[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "[/color]스테이터스 화면에서 인접한[/color] 메인과 서브의 관계는?[END]"
+        },
+        {
+            "offset": 254000,
+            "string": "[Rutee]:回復晶術とサーチガルド[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "[Rutee]:회복 정술과 서치가드[END]"
+        },
+        {
+            "offset": 253944,
+            "string": "トレジャーハンターにとって[yellow]サーチガルド[/color]は[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "트레져 헌터에게[yellow]서치가드[/color]는[END]"
+        },
+        {
+            "offset": 253912,
+            "string": "存在意義といっても過言。[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "존재 의의라고 해도 과언이 아냐.[END]"
+        },
+        {
+            "offset": 253872,
+            "string": "…そんなわけでテンションにかかわるため[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "…그런 이유로 텐션에 관련되어[END]"
+        },
+        {
+            "offset": 253808,
+            "string": "[turquoise]サーチガルドをした後[/color]の回復晶術はなんだかお得気分。[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "[turquoise]서치가드를 한 후[/color]의 회복 정술은 뭔가 득된 느낌.[END]"
+        },
+        {
+            "offset": 253752,
+            "string": "回復晶術を連発するより、いろんな行動を混ぜたほうが[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "회복 정술을 연발하는 것보다, 여러 행동을 섞는 게[END]"
+        },
+        {
+            "offset": 253720,
+            "string": "効率的なこともあるようだ。[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "효율적인 것도 있는 것 같아.[END]"
+        },
+        {
+            "offset": 253688,
+            "string": "[Philia]:連携晶術シャレにならず[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "[Philia]:연계 정술은 농담이 아냐[END]"
+        },
+        {
+            "offset": 253640,
+            "string": "晶術は詠唱時間があるからＣＣの意味が薄い……[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "정술은 영창 시간이 있기 때문에 CC의 의미가 약하다……[END]"
+        },
+        {
+            "offset": 253576,
+            "string": "なんてことはなく、[turquoise]違う晶術を連携[/color]して詠唱することで[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "라고 생각하면 오산, [turquoise]다른 정술을 연계[/color]해서 영창하면[END]"
+        },
+        {
+            "offset": 253536,
+            "string": "詠唱時間が格段に[turquoise]短く[/color]なり、[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "영창 시간이 확연히[turquoise]짧아[/color]져서,[END]"
+        },
+        {
+            "offset": 253496,
+            "string": "３連携目では[turquoise]約半分[/color]にまで！[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "3연계 때는 [turquoise]약 절반[/color]까지![END]"
+        },
+        {
+            "offset": 253456,
+            "string": "ＣＣが低い晶術もうまく使っていこう。[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "CC가 낮은 정술도 잘 활용해보자.[END]"
+        },
+        {
+            "offset": 253424,
+            "string": "[Woodrow]:間合いの達人となれ[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "[Woodrow]:거리의 달인이 되자[END]"
+        },
+        {
+            "offset": 253392,
+            "string": "通常攻撃による射撃と剣技は、[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "일반 공격의 사격과 검기는,[END]"
+        },
+        {
+            "offset": 253360,
+            "string": "敵との距離で切り替わる。[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "적과의 거리에 따라 바뀐다.[END]"
+        },
+        {
+            "offset": 253312,
+            "string": "他にも、バックステップ後は必ず射撃になるなど、[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "그 외에도, 백스텝 후는 반드시 사격이 되는 등,[END]"
+        },
+        {
+            "offset": 253272,
+            "string": "テクニカルな操作を必要とするが、[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "테크니컬한 조작이 필요하지만,[END]"
+        },
+        {
+            "offset": 253224,
+            "string": "オールラウンドに戦えるポテンシャルを秘める。[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "올라운드로 싸울 수 있는 잠재력을 지니고 있어.[END]"
+        },
+        {
+            "offset": 253192,
+            "string": "[Lion]:昇華剣技が闇に閃く[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "[Lion]:승화검기가 어둠속에서 번쩍인다[END]"
+        },
+        {
+            "offset": 253168,
+            "string": "魔神剣→魔神剣など、[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "마신검→마신검 등,[END]"
+        },
+        {
+            "offset": 253128,
+            "string": "[turquoise]同じ特技を連携[/color]することで、[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "[turquoise]같은 특기를 연계[/color]하면,[END]"
+        },
+        {
+            "offset": 253080,
+            "string": "魔神剣→[yellow]魔神剣双牙[/color]と連携でき、[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "마신검→[yellow]마신검쌍아[/color]로 연계할 수 있고,[END]"
+        },
+        {
+            "offset": 253040,
+            "string": "他にもいくつか同様の特技を持っている。[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "그 외에도 몇 가지 비슷한 특기를 가지고 있어.[END]"
+        },
+        {
+            "offset": 252984,
+            "string": "多彩な術技を使いこなし、敵に攻撃のヒマを与えるな！[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "다양한 술기를 사용해서, 적에게 공격의 틈을 주지 마![END]"
+        },
+        {
+            "offset": 252952,
+            "string": "[Mary]:敵の攻撃ものともせず[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "[Mary]:적의 공격 따위는 무시[END]"
+        },
+        {
+            "offset": 252912,
+            "string": "敵の攻撃にのけぞらずに特技を出し切れる[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "적의 공격에 경직되지 않고 특기를 제대로 쓸 수 있어[END]"
+        },
+        {
+            "offset": 252856,
+            "string": "[yellow]鋼体時間[/color]を持つ特技を多く所持しているため、[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55,
+            "translation": "[yellow]강체 시간[/color]을 가진 특기를 많이 가지고 있어서,[END]"
+        },
+        {
+            "offset": 252816,
+            "string": "多少強引にでも攻撃にいけるのが特徴。[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "다소 강제적이라도 공격할 수 있는 게 특징이야.[END]"
+        },
+        {
+            "offset": 252768,
+            "string": "ＨＰには注意しながら、敵の前線を突破せよ！[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "HP에는 주의하면서, 적의 전선을 돌파해![END]"
+        },
+        {
+            "offset": 252736,
+            "string": "[Chelsea]:空からの連続射撃～[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "[Chelsea]:하늘에서의 연속 사격~[END]"
+        },
+        {
+            "offset": 252712,
+            "string": "通常攻撃も特技も弓技。[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "일반 공격도 특기도 모두 궁술이야.[END]"
+        },
+        {
+            "offset": 252672,
+            "string": "そんな彼女の特徴は多様な属性の弓技と、[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "그녀의 특징은 다양한 속성의 궁술과,[END]"
+        },
+        {
+            "offset": 252624,
+            "string": "[turquoise]全ての弓技が空中でも出せる[/color]こと！[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "[turquoise]모든 궁술을 공중에서도 사용할 수 있다[/color]는 거야![END]"
+        },
+        {
+            "offset": 252560,
+            "string": "[yellow]２段ジャンプ[/color]を活用し、敵の攻撃が届かない場所から[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "[yellow]2단 점프[/color]를 활용해서, 적의 공격이 닿지 않는 곳에서[END]"
+        },
+        {
+            "offset": 252536,
+            "string": "弓矢の連携を決めろ！[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "활의 연계를 결정해![END]"
+        },
+        {
+            "offset": 252504,
+            "string": "[Johnny]:支援歌技で熱くサポート[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "[Johnny]:지원가 기술로 뜨겁게 서포트[END]"
+        },
+        {
+            "offset": 252464,
+            "string": "[yellow]支援歌技[/color]を侮るなかれ。[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "[yellow]지원가 기술[/color]을 얕보지 마.[END]"
+        },
+        {
+            "offset": 252424,
+            "string": "連携して発動することで効力がアップ！[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "연계하여 발동하면 효력이 올라가![END]"
+        },
+        {
+            "offset": 252376,
+            "string": "さらに[turquoise]仲間のＣＣが１増加[/color]するから[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "게다가 [turquoise]동료의 CC가 1 증가[/color]하니까[END]"
+        },
+        {
+            "offset": 252328,
+            "string": "あと１あれば…って仲間にナイスアシスト！[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "앞으로 1개만 더 있으면… 하는 동료에게 나이스 어시스트![END]"
+        },
+        {
+            "offset": 252272,
+            "string": "[turquoise]音波属性に弱い敵[/color]がいればいつでも呼びな！[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "[turquoise]음파 속성에 약한 적[/color]이 있으면 언제든지 불러줘![END]"
+        },
+        {
+            "offset": 252248,
+            "string": "[Kongman]:漢なら立てぃ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "[Kongman]:사나이라면 일어서라[END]"
+        },
+        {
+            "offset": 252216,
+            "string": "巨体を生かしたナイス格闘技は[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "거대한 체구를 살린 나이스 격투기는[END]"
+        },
+        {
+            "offset": 252168,
+            "string": "空中で発動すると存分に変化するものがあり、[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "공중에서 발동하면 크게 변화하는 것이 있어,[END]"
+        },
+        {
+            "offset": 252144,
+            "string": "地上も空中も頼れる男。[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "지상도 공중도 의지할 수 있는 사내야.[END]"
+        },
+        {
+            "offset": 252080,
+            "string": "[turquoise]ダウン中の敵[/color]でも容赦なく殴り起こせる特技だらけで、[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "[turquoise]다운된 적[/color]도 가차 없이 때려 일으킬 수 있는 특기들 뿐이라,[END]"
+        },
+        {
+            "offset": 252048,
+            "string": "仲間との連携で限界を突破せよ！[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "동료와의 연계로 한계를 돌파해![END]"
+        },
+        {
+            "offset": 252000,
+            "string": "でも、[yellow]術攻撃[/color]だけはかんべんな！[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "하지만, [yellow]정술 공격[/color]만은 참아줘![END]"
+        },
+        {
+            "offset": 251976,
+            "string": "[Lilith]:それはそれとして[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "[Lilith]:그건 그렇고[END]"
+        },
+        {
+            "offset": 251928,
+            "string": "使い勝手がよいんだかわるいんだかはともかく、[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "사용하기 좋은지 나쁜지는 모르겠지만,[END]"
+        },
+        {
+            "offset": 251880,
+            "string": "特技のCCが低めなのでいろんな連携が可能かも。[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "특기의 CC가 낮아서 여러 연계가 가능할지도.[END]"
+        },
+        {
+            "offset": 251832,
+            "string": "攻撃属性もなんだかいっぱいもってるので、[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "공격 속성도 뭔가 많이 가지고 있어서,[END]"
+        },
+        {
+            "offset": 251776,
+            "string": "[turquoise]弱点を狙うのが好き[/color]ならけっこう役に立つ？[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "[turquoise]약점을 노리는 것을 좋아한다[/color]면 꽤 유용할지도?[END]"
+        },
+        {
+            "offset": 251752,
+            "string": "デバイスをマスターする[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "디바이스를 마스터하기[END]"
+        },
+        {
+            "offset": 251696,
+            "string": "[yellow]ソーディアンデバイス[/color]をセットして戦闘すると[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55,
+            "translation": "[yellow]소디언 디바이스[/color]를 설정하고 전투하면[END]"
+        },
+        {
+            "offset": 251624,
+            "string": "[yellow]熟練度[/color]が溜まり、戦闘を重ねて[yellow]マスター[/color]すると、[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "[yellow]숙련도[/color]가 쌓이고, 전투를 거듭해 [yellow]마스터[/color]하면,[END]"
+        },
+        {
+            "offset": 251568,
+            "string": "必要デバイスポイントが[turquoise]２０％減る[/color]ように。[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "필요 디바이스 포인트가[turquoise]20% 줄어들게[/color] 돼.[END]"
+        },
+        {
+            "offset": 251528,
+            "string": "様々なデバイスをセットしてみよう。[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "다양한 디바이스를 설정해보자.[END]"
+        },
+        {
+            "offset": 251504,
+            "string": "新たなデバイスに出会う[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "새로운 디바이스와 만나기[END]"
+        },
+        {
+            "offset": 251456,
+            "string": "表示されてもセットできない[yellow]デバイス[/color]は[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "표시되어도 설정할 수 없는[yellow]디바이스[/color]는[END]"
+        },
+        {
+            "offset": 251400,
+            "string": "[turquoise]内側に接しているデバイスをマスター[/color]することで[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55,
+            "translation": "[turquoise]내부에 인접한 디바이스를 마스터[/color]하면[END]"
+        },
+        {
+            "offset": 251376,
+            "string": "セットが可能になる。[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "설정이 가능해져.[END]"
+        },
+        {
+            "offset": 251336,
+            "string": "「戦力をアップさせることを優先するか」[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "「전력을 올리는 것을 우선할까」[END]"
+        },
+        {
+            "offset": 251312,
+            "string": "「育成を重視するか」[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "「육성에 중점을 둘까」[END]"
+        },
+        {
+            "offset": 251256,
+            "string": "を[turquoise]戦っている敵の強さ[/color]を見て対応しよう。[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "를 [turquoise]싸우고 있는 적의 강함[/color]을 보고 대응하자.[END]"
+        },
+        {
+            "offset": 251232,
+            "string": "今だディフィニットぅ！[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "지금이 디피니트야![END]"
+        },
+        {
+            "offset": 251160,
+            "string": "ターゲットに特定の[turquoise]キャラ[/color]が特定の[turquoise]連携を決める[/color]のが[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71,
+            "translation": "타겟에 특정[turquoise]캐릭터[/color]가 특정[turquoise]연계기를 결정하는[/color] 것이[END]"
+        },
+        {
+            "offset": 251104,
+            "string": "戦士への挑戦、[yellow]ディフィニットストライク[/color]。[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "전사에 대한 도전, [yellow]디피니트 스트라이크[/color].[END]"
+        },
+        {
+            "offset": 251072,
+            "string": "戦闘中でも[R1_copy]＋[Circle_ani2]で[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "전투 중에도[R1_copy]＋[Circle_ani2]로[END]"
+        },
+        {
+            "offset": 251016,
+            "string": "詳細を見れるから、[turquoise]戦いに余裕が出てきたら[/color][END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "자세한 내용을 볼 수 있으니, [turquoise]전투에 여유가 생기면[/color][END]"
+        },
+        {
+            "offset": 250992,
+            "string": "いざチャレンジ！[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "자, 도전해보자![END]"
+        },
+        {
+            "offset": 250952,
+            "string": "……他にジャマされても泣かないように。[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "……다른 것에 방해받아도 울지 말고.[END]"
+        },
+        {
+            "offset": 250928,
+            "string": "なぜにディフィニット[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "왜 디피니트인가[END]"
+        },
+        {
+            "offset": 250872,
+            "string": "[yellow]ディフィニットストライク[/color]を決めると……[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "[yellow]디피니트 스트라이크[/color]를 결정하면……[END]"
+        },
+        {
+            "offset": 250832,
+            "string": "・[turquoise]必ず[/color]気絶！更に連携だ！[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "・[turquoise]반드시[/color] 기절! 게다가 연계다![END]"
+        },
+        {
+            "offset": 250792,
+            "string": "・アイテム入手確率が[turquoise]２倍[/color]に！[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "・아이템 획득 확률이[turquoise]2배[/color]로![END]"
+        },
+        {
+            "offset": 250736,
+            "string": "同じ種類の敵には[turquoise]１回だけ[/color]決められるから[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "같은 종류의 적에겐 [turquoise]한 번만[/color] 사용할 수 있으니[END]"
+        },
+        {
+            "offset": 250688,
+            "string": "残り一体になったときに狙うのがオススメ。[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "남은 한 마리를 노리는 걸 추천해.[END]"
+        },
+        {
+            "offset": 250656,
+            "string": "どんなときもディフィニット[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "어떤 때라도 디피니트[END]"
+        },
+        {
+            "offset": 250616,
+            "string": "[yellow]ディフィニットストライク[/color]には[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "[yellow]디피니트 스트라이크[/color]에는[END]"
+        },
+        {
+            "offset": 250560,
+            "string": "普通にやってみるとちっとも連携しない敵がでてくる。[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "보통으로 해보면 전혀 연계가 안 되는 적이 나올 거야.[END]"
+        },
+        {
+            "offset": 250520,
+            "string": "[turquoise]敵がのけぞっている間[/color]なら[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "[turquoise]적이 경직되어 있는 동안[/color]이라면[END]"
+        },
+        {
+            "offset": 250472,
+            "string": "[turquoise]間に他の攻撃、移動、仲間の連携[/color][END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "[turquoise]사이에 다른 공격, 이동, 동료의 연계[/color][END]"
+        },
+        {
+            "offset": 250416,
+            "string": "を挟んでも有効だから、全ての可能性を模索しよう！[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "를 끼어도 유효하니까, 모든 가능성을 탐색해보자![END]"
+        },
+        {
+            "offset": 250384,
+            "string": "どうしてもディフィニット[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "어떻게든 디피니트[END]"
+        },
+        {
+            "offset": 250336,
+            "string": "[yellow]ディフィニットストライク[/color]を極めようと[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[yellow]디피니트 스트라이크[/color]를 숙달하려고[END]"
+        },
+        {
+            "offset": 250304,
+            "string": "戦闘を繰り返してると、気づけば[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "전투를 반복하다 보면, 어느새[END]"
+        },
+        {
+            "offset": 250240,
+            "string": "[turquoise]連携を決める前に敵を倒してしまう[/color]強い人たちに。[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63,
+            "translation": "[turquoise]연계기를 결정하기 전에 적을 쓰러뜨리는[/color] 강한 사람들이 돼.[END]"
+        },
+        {
+            "offset": 250208,
+            "string": "そんなときは戦闘アイテム[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "그럴 때는 전투 아이템[END]"
+        },
+        {
+            "offset": 250168,
+            "string": "[yellow]オールディバイド[/color]を使ったり、[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "[yellow]올 디바이드[/color]를 사용하거나,[END]"
+        },
+        {
+            "offset": 250104,
+            "string": "[yellow]カスタム[/color]で[turquoise]戦闘難易度を上げる[/color]なんて方法も…[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "[yellow]커스텀[/color]에서 [turquoise]전투 난이도를 높이는[/color] 방법도 있지…[END]"
+        },
+        {
+            "offset": 250072,
+            "string": "どこでもエイミングステップ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "어디서나 에이밍 스텝[END]"
+        },
+        {
+            "offset": 250024,
+            "string": "[yellow]マニュアル操作[/color]では、空中の敵に対して[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[yellow]매뉴얼 조작[/color]에서는, 공중의 적을 상대로[END]"
+        },
+        {
+            "offset": 249976,
+            "string": "[Up_blink]のジャンプ（２段ジャンプ）、あるいは[END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "[Up_blink]의 점프(2단 점프), 또는[END]"
+        },
+        {
+            "offset": 249912,
+            "string": "[Square_Press]＋[Right_blink]（右向き時）による[yellow]エイミングステップ[/color][END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "[Square_Press]＋[Right_blink](오른쪽을 향할 때)로 [yellow]에이밍 스텝[/color][END]"
+        },
+        {
+            "offset": 249880,
+            "string": "を使用して敵に近づこう。[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "을 사용하여 적에게 접근해.[END]"
+        },
+        {
+            "offset": 249832,
+            "string": "[Right_blink][Right_blink]か[Left_blink][Left_blink]によるダッシュも駆使し、[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[Right_blink][Right_blink]나 [Left_blink][Left_blink]로 대시도 적극 활용하고,[END]"
+        },
+        {
+            "offset": 249776,
+            "string": "空中・連携中でも使用して連続ヒットの幅を広げよう！[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "공중・연계 중에도 사용해서 연속 히트의 폭을 넓혀보자![END]"
+        },
+        {
+            "offset": 249752,
+            "string": "連続ヒットへの道[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "연속 히트로 가는 길[END]"
+        },
+        {
+            "offset": 249704,
+            "string": "[yellow]連続ヒット[/color]で敵にダメージを与えれば、[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[yellow]연속 히트[/color]로 적에게 데미지를 주면,[END]"
+        },
+        {
+            "offset": 249664,
+            "string": "反撃を受けずに敵を倒すことも可能！[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "반격 받지 않고 적을 쓰러뜨리는 것도 가능해![END]"
+        },
+        {
+            "offset": 249608,
+            "string": "[turquoise]経験値にもボーナス[/color]がもらえてやっぱりお得。[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55,
+            "translation": "[turquoise]경험치에도 보너스[/color]를 받아 이득이지.[END]"
+        },
+        {
+            "offset": 249568,
+            "string": "ＣＣで連携する基本を身に付けたら、[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "CC로 연계하는 기본을 익혔다면,[END]"
+        },
+        {
+            "offset": 249528,
+            "string": "仲間に合わせて攻撃を開始してみよう！[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "동료에 맞춰 공격을 시작해보자![END]"
+        },
+        {
+            "offset": 249504,
+            "string": "連続ヒットへの壁[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "연속 히트로의 벽[END]"
+        },
+        {
+            "offset": 249472,
+            "string": "連続ヒットを調子よく決めてると[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "연속 히트를 잘 결정하고 있으면[END]"
+        },
+        {
+            "offset": 249424,
+            "string": "何やらヒット表示の下にでてくるものが……[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "뭔가 히트 표시 아래에 나타나는 게 있어……[END]"
+        },
+        {
+            "offset": 249352,
+            "string": "この[yellow]ＢＬＡＳＴ[/color]が[turquoise]１００[/color]になると敵の反撃を受ける！[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71,
+            "translation": "이 [yellow]BLAST[/color]가 [turquoise]100[/color]이 되면 적의 반격을 받게 돼![END]"
+        },
+        {
+            "offset": 249296,
+            "string": "敵が[turquoise]赤く光って[/color]しまったら素直に下がって[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "적이 [turquoise]빨갛게 빛나[/color]면 물러나서[END]"
+        },
+        {
+            "offset": 249272,
+            "string": "反撃をやりすごせ！[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "반격을 피해![END]"
+        },
+        {
+            "offset": 249248,
+            "string": "連続ヒットへの跳躍[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "연속 히트로의 도약[END]"
+        },
+        {
+            "offset": 249200,
+            "string": "敵のＢＬＡＳＴをできるだけ増やさないには？[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "적의 BLAST를 최대한 늘리지 않으려면?[END]"
+        },
+        {
+            "offset": 249176,
+            "string": "・敵の回避率を下げる[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "・적의 회피율을 낮춘다[END]"
+        },
+        {
+            "offset": 249136,
+            "string": "・[yellow]チャージ[/color]で命中率を上昇[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "・[yellow]차지[/color]로 명중률을 올린다[END]"
+        },
+        {
+            "offset": 249112,
+            "string": "・空中で敵を攻撃[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "・공중에서 적을 공격한다[END]"
+        },
+        {
+            "offset": 249056,
+            "string": "……などなど。[yellow]クリティカルヒット[/color]も有効！[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "……등등. [yellow]크리티컬 히트[/color]도 유효해![END]"
+        },
+        {
+            "offset": 249032,
+            "string": "難易度がハードですよ！[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "난이도가 HARD예요![END]"
+        },
+        {
+            "offset": 248976,
+            "string": "難易度を[yellow]HARD[/color]に変えるとは何て無鉄砲な！[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "난이도를[yellow]HARD[/color]로 바꾸다니 정말 무모하군![END]"
+        },
+        {
+            "offset": 248944,
+            "string": "・敵の攻撃力やＨＰは上がるし[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "・적의 공격력이나 HP는 올라가고[END]"
+        },
+        {
+            "offset": 248896,
+            "string": "・弱点のダメージは[turquoise]敵味方とも[/color]２倍だし[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "・약점의 데미지는[turquoise]적과 아군 모두[/color] 2배가 되고[END]"
+        },
+        {
+            "offset": 248848,
+            "string": "・クリティカル時にＣＣが[turquoise]３[/color]回復するし[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "・크리티컬 시 CC가[turquoise]3[/color]회복되고[END]"
+        },
+        {
+            "offset": 248784,
+            "string": "・強敵を倒すと[turquoise]デバイスポイントにボーナス[/color]が入るし[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "・강적을 쓰러뜨리면 [turquoise]디바이스 포인트에 보너스[/color]가 들어가고[END]"
+        },
+        {
+            "offset": 248736,
+            "string": "……戦闘の腕が確かであれば、止めはしませんが。[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "……전투 실력이 확실하다면, 말리진 않겠지만.[END]"
+        },
+        {
+            "offset": 248704,
+            "string": "難易度がイヴィルですって！[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "난이도가 EVIL이라고요![END]"
+        },
+        {
+            "offset": 248648,
+            "string": "難易度を[yellow]EVIL[/color]に変えるとは何て命知らずな！[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "난이도를[yellow]EVIL[/color]로 바꾸다니 정말 목숨 걸었군![END]"
+        },
+        {
+            "offset": 248600,
+            "string": "・敵の攻撃力やＨＰは[turquoise]更に[/color]上がり[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "・적의 공격력이나 HP는[turquoise]더욱[/color] 올라가고[END]"
+        },
+        {
+            "offset": 248536,
+            "string": "・弱点・クリティカルのダメージは[turquoise]更に[/color]跳ね上がり[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63,
+            "translation": "・약점・크리티컬의 데미지는[turquoise]더욱[/color] 뛰어오르고[END]"
+        },
+        {
+            "offset": 248496,
+            "string": "・経験値ボーナスは[turquoise]更に[/color]上昇し[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "・경험치 보너스는[turquoise]더욱[/color] 상승하고[END]"
+        },
+        {
+            "offset": 248448,
+            "string": "・敵のＢＬＡＳＴは[turquoise]上がりにくく[/color]なり[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "・적의 BLAST는[turquoise]올리기 어려워[/color]지고[END]"
+        },
+        {
+            "offset": 248392,
+            "string": "……連続ヒットを極めたいなら、止めはしませんが。[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "……연속 히트를 극한까지 하고 싶다면, 말리진 않겠지만.[END]"
+        },
+        {
+            "offset": 248368,
+            "string": "[Circle_ani2]で通常攻撃！[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Circle_ani2]로 일반 공격![END]"
+        },
+        {
+            "offset": 248312,
+            "string": "[Circle_ani2]:通常攻撃[LINE]\n[L+U+R+D]と組み合わせ、連続攻撃も可能！[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55,
+            "translation": "[Circle_ani2]:일반 공격[LINE]\n[L+U+R+D]와 조합해 연속 공격도 가능![END]"
+        },
+        {
+            "offset": 248288,
+            "string": "[Cross_ani2]で術技攻撃！[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Cross_ani2]로 기술 공격![END]"
+        },
+        {
+            "offset": 248208,
+            "string": "[Cross_ani2]:術技[LINE]\n[Triangle_ani2]術技メニューでセットした、[LINE]\n強力な攻撃を繰り出せる！[LINE]\n[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "[Cross_ani2]:기술[LINE]\n[Triangle_ani2]기술 메뉴에서 세트한, [LINE]\n강력한 공격을 쓸 수 있어! [LINE]\n[END]"
+        },
+        {
+            "offset": 248168,
+            "string": "[Circle_ani2]通常攻撃と[Cross_ani2]術技を連続入力！[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "[Circle_ani2]일반 공격과 [Cross_ani2]기술을 연속 입력![END]"
+        },
+        {
+            "offset": 248072,
+            "string": "ＣＣ：チェインキャパ[LINE]\nチェインキャパがあれば何でも連携！[LINE]\n４のときは魔神剣→魔神剣も可能！[LINE]\n[END]",
+            "original_bytes_length": 94,
+            "available_bytes_size": 95,
+            "translation": "CC：체인 캐파[LINE]\n체인 캐파가 있으면 뭐든 연계 가능! [LINE]\n４일 때는 마신검→마신검도 가능! [LINE]\n[END]"
+        },
+        {
+            "offset": 248048,
+            "string": "[Square_copy]で敵の攻撃を防御！[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Square_copy]로 적의 공격을 방어![END]"
+        },
+        {
+            "offset": 247960,
+            "string": "[Square_copy]：防御[LINE]\n物理ダメージを抑え、吹き飛びを防ぐ。[LINE]\n攻撃と防御のバランスが重要！[LINE]\n[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "[Square_copy]：방어[LINE]\n물리 피해를 줄이고, 날아가는 것을 막아. [LINE]\n공격과 방어의 밸런스가 중요해! [LINE]\n[END]"
+        },
+        {
+            "offset": 247928,
+            "string": "[R1_copy][L+U+R+D]でターゲット確認！[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "[R1_copy][L+U+R+D]로 타겟 확인![END]"
+        },
+        {
+            "offset": 247832,
+            "string": "[R1_copy]:ターゲット確認[LINE]\n敵の弱点・耐性を確認できる！[LINE]\n短く押すと近くの敵にターゲット選択。[LINE]\n[END]",
+            "original_bytes_length": 90,
+            "available_bytes_size": 95,
+            "translation": "[R1_copy]:타겟 확인[LINE]\n적의 약점・저항을 확인할 수 있어! [LINE]\n짧게 누르면 가까운 적에게 타겟 선택. [LINE]\n[END]"
+        },
+        {
+            "offset": 247792,
+            "string": "攻撃中に[L1_Press2]でブラストキャリバー！[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "공격 중에 [L1_Press2]으로 블래스터 캘리버![END]"
+        },
+        {
+            "offset": 247720,
+            "string": "[L1_Press2]:ブラストキャリバー[LINE]\nブラストゲージを消費して[LINE]\n強力な固有技が炸裂！[LINE]\n[END]",
+            "original_bytes_length": 72,
+            "available_bytes_size": 72,
+            "translation": "[L1_Press2]:블래스터 캘리버[LINE]\n블래스터 게이지를 소모해서[LINE]\n강력한 고유 기술을 터뜨려![LINE]\n[END]"
+        },
+        {
+            "offset": 247680,
+            "string": "(右向き)[Square_copy][Left]でバックステップ！[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "(오른쪽 향할 때)[Square_copy][Left]로 백스텝![END]"
+        },
+        {
+            "offset": 247576,
+            "string": "[Square_copy][Left]:バックステップ[LINE]\n射程の短い攻撃はこれでかわそう。[LINE]\n攻撃後に連携して使っても効果的！[LINE]\n[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "[Square_copy][Left]:백스텝[LINE]\n사정거리가 짧은 공격은 이걸로 피하자.[LINE]\n공격 후에 연계해서 써도 효과적이야![LINE]\n[END]"
+        },
+        {
+            "offset": 247552,
+            "string": "[Square_copy][Down]でチャージ！[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "[Square_copy][Down]로 차지![END]"
+        },
+        {
+            "offset": 247448,
+            "string": "[Square_copy][Down]:チャージ[LINE]\n命中率を回復させつつ、晶術攻撃を防御する。[LINE]\n直後の攻撃は敵の防御も破れる！[LINE]\n[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "[Square_copy][Down]:차지[LINE]\n명중률을 회복하면서, 정술 공격을 방어해.[LINE]\n직후의 공격은 적의 방어도 뚫을 수 있어![LINE]\n[END]"
+        }
+    ]
+}

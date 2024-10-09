@@ -55,7 +55,7 @@
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-여러분이 나가 있는 동안 라디스로우에서
+여러분이 나가 있는 동안 라디슬로우에서
 물자를 보충할 수 있도록 해두었다.
 [ENDBLOCK]
 <Ritora>

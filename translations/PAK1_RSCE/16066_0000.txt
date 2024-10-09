@@ -1,19 +1,19 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-해야 할 때 해야 할 일을, 그……
+해야 할 때 해야 할 일을 하는 거군……
 [ENDBLOCK]
-<Johnny>씨, 무슨 생각으로
-말한 걸까.
+<Johnny> 씨는 무슨 생각으로
+그렇게 말한 걸까.
 [ENDBLOCK]
-…………
+……
 [ENDBLOCK]
 음……
 [ENDBLOCK]
-……쉬고 싶다면 숙소로 가라.
-내일을 대비하는 것이다.
+……쉬고 싶어지면 숙소로 향해.
+내일을 위해 준비하는 거다.
 [ENDBLOCK]
