@@ -689,7 +689,7 @@ R키를 가지러 가자.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-여러분, 여기까지 잘 무사히 돌아왔군.
+모두들, 여기까지 무사히 잘 돌아왔군.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
