@@ -16,10 +16,10 @@
         },
         {
             "offset": 30680,
-            "string": "[TAG_007]メモリーカード差込口１のメモリーカード（ＰＳ２）は[LINE]\nフォーマットされていません。[LINE]\n[LINE]\nフォーマットしますか？[LINE]\nはい[LINE]\nいいえ[END]",
+            "string": "[TAG_007]メモリーカード差込口１のメモリーカード（ＰＳ２）は[LINE]\nフォーマットされていません。[LINE]\n [LINE]\nフォーマットしますか？[LINE]\nはい[LINE]\nいいえ[END]",
             "original_bytes_length": 122,
             "available_bytes_size": 127,
-            "translation": "[TAG_007]메모리 카드 슬롯 1의 메모리 카드(PS2)는[LINE]\n포맷되지 않았습니다.[LINE]\n[LINE]\n포맷하시겠습니까?[LINE]\n예[LINE]\n아니요[END]"
+            "translation": "[TAG_007]메모리 카드 슬롯 1의 메모리 카드(PS2)는[LINE]\n포맷되지 않았습니다.[LINE]\n [LINE]\n포맷하시겠습니까?[LINE]\n예[LINE]\n아니요[END]"
         },
         {
             "offset": 30808,

@@ -1,5 +1,5 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -7,13 +7,13 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 안녕하세요, 여왕님.
 [ENDBLOCK]
-하아~~하, 모두 안녕하세요.
+하아~암, 모두들 안녕.
 [ENDBLOCK]
-<Rutee>양, 바로 시작인데
+<Rutee>양, 이왕 이렇게 된 거 
 간식 좀 준비해 줘.
 [ENDBLOCK]
-<Philia>양은 꽃을 꺾어와 줘.
-하아~~하.
+<Philia>양은 꽃을 좀 따와 주렴.
+하아~암.
 [ENDBLOCK]
 알겠습니다.
 [ENDBLOCK]
@@ -21,13 +21,13 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 저는요?
 [ENDBLOCK]
-하아~~하. 그렇구나~.
+하아~암. 그러게~.
 [ENDBLOCK]
-<Mary>양은 항상처럼 저와 놀아줘.
+<Mary>양은 늘 하던 대로 나랑 놀자.
 [ENDBLOCK]
-야, <Mary>양 듣고 있어?
+있잖아, <Mary>양 듣고 있어?
 [ENDBLOCK]
-마리…양……
+마리…… 양……
 [ENDBLOCK]
-우와아! 지금 꿈이 뭐였어ー！
+으아악!	방금 그 꿈은 뭐야!
 [ENDBLOCK]
