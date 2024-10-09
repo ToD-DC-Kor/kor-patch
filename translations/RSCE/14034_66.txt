@@ -317,8 +317,8 @@
 [ENDBLOCK]
 간호사
 [ENDBLOCK]
-완전히 진 사람일수록,
-조금만 더 했으면 이겼다고 변명하더라.
+완전히 패배한 사람일수록,
+조금만 더 했으면 이길 수 있었다고 변명하더라.
 [ENDBLOCK]
 간호사
 [ENDBLOCK]
@@ -410,8 +410,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-시간인 것 같네. 그럼 우리는,
-관객석으로 이동할게.
+시간이 된 것 같네.
+그럼 우리는, 관객석으로 이동할게.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
