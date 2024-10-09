@@ -1,46 +1,46 @@
 
 [ENDBLOCK]
-<TAG_005><Rutee>의 초상화 같은
+<TAG_005><Rutee>의 초상화로 보이는
 것이 장식되어 있다.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-아! 언니… 아닌데.
-우와아, 우와아.
+아! 언니…… 아니야.
+으앙, 으앙.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-언니는 나의 자랑이야.
+언니는 말이야, 내가 자랑스러워하는 사람이야.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-이전에도, 거리의 병사들을
-혼내줬거든!
+얼마 전에도 마을의 군인들을
+혼내줬다고!
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
 <Rutee> 언니 덕분에,
-우리는 여기서 살 수 있어.
+우리는 여기서 살 수 있는 거야.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
 <Rutee> 언니는,
-내 자랑스러운 언니야.
+내가 자랑스러워하는 언니야.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Rutee> 언니, 무리하지 말라고,
-수녀님이 말했잖아?
+<Rutee> 언니, 무리하지 말라고
+수녀님한테 들었잖아?
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-알고 있을 거야.
+당연히 알고 있지.
 우리는 가족이니까.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
 <Rutee>를 괴롭히면
-나 화낼 거니까.
+내가 화낼 거야.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
@@ -49,43 +49,43 @@
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-아, 왕도에서 오셨군요.
-이 고아원에 무슨 용건이라도?
+어머, 왕도에서 오셨나요?
+이 고아원에 무슨 일이라도?
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-<Rutee>야, 몸을 소중히 해.
-너는 무리를 하니까 걱정이야.
+<Rutee>, 몸 조심해야 해.
+네가 무리하니까 걱정이야.
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-예전에, 이 집의 빚을 혼자서…
+전에도 이 집의 빚을 혼자서……
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-…이건 말하지 않기로 했었지.
-죄송해요.
+……이건 말하지 않기로 했었지.
+미안해요.
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-<Rutee>야, 몸을 소중히 해.
+<Rutee>, 몸 조심해야 해.
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-보기와는 다르게<Rutee>는 아직 아이야.
-너희들이 그녀를 지켜줘야 해.
+저렇게 보여도 <Rutee>는 아직 아이예요.
+여러분이 지원해주세요.
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-<Rutee>의 무사를,
+<Rutee>, 네가 무사하기를
 진심으로 기도하고 있어.
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-너희들의 무사를,
-진심으로 기도하고 있어.
+여러분의 안전을
+진심으로 기도하고 있어요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
@@ -93,9 +93,9 @@ notice
 네
 아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xE8><x80></color>이
+<TAG_007><S03><turquoise><x19><x71><x47><xE8><x80></color>가
 [ENDBLOCK]
-파티에 합류했습니다.
+파티에 가입했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
@@ -107,54 +107,54 @@ notice
 [ENDBLOCK]
 <x18><x65><x57><xD8><x00><x80><x18><x65><x57><xDC><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xE8><x80></color>이
+<TAG_007><S03><turquoise><x19><x71><x47><xE8><x80></color>가
 [ENDBLOCK]
 파티에서 빠졌습니다.
 [ENDBLOCK]
 <x18><x65><x57><xD8><x00><x80><x18><x65><x57><xDC><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x0C><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x0C><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><x08><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x47><xFC><x80>들은
+<x19><x69><x47><xFC><x80>일행은
 [ENDBLOCK]
-<turquoise>거래 칭호
+<turquoise>교역 칭호
 [ENDBLOCK]
-<x19><x69><x47><xFC><x80>들은
+<x19><x69><x47><xFC><x80>일행은
 [ENDBLOCK]
 <turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x47><xFC><x80>들은
+<x19><x69><x47><xFC><x80>일행은
 [ENDBLOCK]
 <turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x47><xFC><x80>들은
+<x19><x69><x47><xFC><x80>일행은
 [ENDBLOCK]
-칭호：<turquoise>내추럴 레인저
+칭호: <turquoise>네이처 레인저
 [ENDBLOCK]
-<x19><x69><x47><xFC><x80>들은
+<x19><x69><x47><xFC><x80>일행은
 [ENDBLOCK]
-칭호：<turquoise>대시 시리즈
+칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x47><xFC><x80>들은
+<x19><x69><x47><xFC><x80>일행은
 [ENDBLOCK]
 <turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x47><xFC><x80>들은
+<x19><x69><x47><xFC><x80>일행은
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x47><xFC><x80>는
+<x19><x69><x47><xFC><x80>은(는)
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x58><x00><x00><x80>
 <x18><x65><x58><x04><x00><x80>
@@ -162,151 +162,150 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>는
+<x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
-이 ID와 비밀번호를 연동 웹사이트에
-입력함으로써, 데스티니의 세계가
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에서
+입력하면, 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>자세한 사항은 아래 URL에서 확인해 주세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+<TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>게임 중의 이벤트나 미니게임을
-클리어하면 연동 ID와 게임 비밀번호가
-발급될 수 있습니다.
+클리어하면 연동 ID와 게임 패스워드가
+발행되는 경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>이 연동 ID와 게임 비밀번호를
-웹사이트에 입력함으로써 데스티니
-의 세계가 더욱 넓어집니다.
+<TAG_007>이 연동 ID와 게임 패스워드를
+웹사이트에 입력하면 데스티니
+세계가 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 비밀번호를 잊어버린 경우는
+연동 ID와 게임 패스워드를 잊어버린 경우에는
 피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외곽 없음의 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+외각 없는 휘도 설정은 (RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계의 밝기 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-설정이 이루어지지 않았습니다!(tod=<TAG_059>)
+설정이 없습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-장치는 작동하지 않습니다.
+장치가 작동하고 있지 않습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 워프 장치가 작동했습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x19><x71><x47><xE8><x80>의 소디언 장치가
-사용 가능해졌습니다.
+<TAG_007><x19><x71><x47><xE8><x80>의 소디언 디바이스를
+사용할 수 있게 되었습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「칭호 설명」
-칭호란 캐릭터에 장착할 수 있는,
-캐릭터 파라미터 중 하나입니다.
-구체적인 장착 방법은 다음과 같습니다.
+<TAG_007>「칭호의 설명」
+칭호란 캐릭터에 설정할 수 있는,
+캐릭터 파라미터의 하나입니다.
+구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>메인 메뉴를 연 후, 캐릭터의
-상태를 표시합니다.
-그 화면에서 <Square_ani>를 누르면, 캐릭터의
-상태 표시를 전환할 수 있습니다.
+스테이터스를 표시합니다.
+그 화면에서 <Square_ani>을 누르면, 캐릭터의
+스테이터스 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
-페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면,
+<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
 획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>칭호의 사용 방법에는 두 가지가 있습니다.
-첫 번째는…
-「칭호를 설정하고, 마을 사람에게 이야기해 보세요」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는……
+「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
-당신에게 관심을 가지는 사람이 있습니다.
-마을 사람에게 몇 번 이야기했을 때,
-신기한 행동을 할 때가 있습니다.
-그 때는, 가지고 있는 칭호를 다시 설정한 후,
-다시 이야기해 보세요.
+<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
+당신에게 흥미를 보이는 사람이 있습니다. 마을 사람들에게 여러 번
+말을 걸었을 때, 이상한 행동을 하는 경우가 있습니다.
+그때는 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 말을 걸어보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
-머리 위에 「？」가 나타날 수 있습니다.
-그때는, 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 설정하고, 다시 이야기해 보세요.
-무언가 기쁜 일이 일어날지도 모릅니다.
+<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
+머리 위에 「？」가 나타나는 경우가 있습니다.
+그때는 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 말을 걸어보세요.
+뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>사용 방법의 두 번째는…
-「상태 화면을 멋지게 꾸미자」
-모은 칭호 중에서, 만약 마음에 드는 것이 있다면,
-설정하여 상태 화면을 멋지게 연출해 보세요.
+<TAG_007>사용법의 두 번째는……
+「스테이터스 화면을 멋지게 꾸며보자」
+모은 칭호 중에서 마음에 드는 것이 있다면,
+설정해서 스테이터스 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「돌 차기 놀이는」
+<TAG_007>「돌차기 놀이」란,
 필드에 있는 돌을 차서,
 특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는, 돌 차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 출입하면,
+2: 전투는 돌차기 놀이의 클리어 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
 		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
@@ -327,50 +326,50 @@ notice
 select
 [ENDBLOCK]
 <TAG_007>무슨 일이니?
-（…그러고 보니 인사는 안 했네…）
+(……그러고 보니 인사를 안 했네……)
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-남동생들과
-쇼핑하러 가지 않니?
+동생들이랑
+쇼핑 가는 거 아니었어?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-조금 일이 생겨서
-못 가게 되었어.
+갑자기 일이 생겨서
+못 가게 됐어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그리고 애들이 너무 시끄러워서,
-함께 쇼핑하는 건 힘들어♪
+게다가 꼬마들도 너무 활발해서,
+같이 쇼핑하면 피곤하단 말이야♪
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-무슨 소리니.
+무슨 소리야.
 그런 말 할 나이가 아니잖아.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그렇긴 해～♪
+그렇지~♪
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-정말, 이 아이는.
+정말, 이 애는.
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-그런데 손님이
-왔었던 것 같은데.
+그러고 보니, 손님이
+오신 것 같던데.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-전에 이야기했던 사람들이야.
+전에 얘기했던 사람들이야.
 그래서 말인데, 할 얘기가 있어.
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-또 가는 거니?
-…알고 있어.
+또 가는 거지?
+……알고 있어.
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
@@ -378,28 +377,28 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-알고 있어.
-그런데, 수녀…
+알고 있다니까요.
+하지만 수녀님……
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-응, 말하지 않아도 알고 있어.
+응, 말하지 않아도 알아.
 하지만 <Rutee> 잊지 마.
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-아이들은 항상 너의
-귀환을 기다리고 있어.
+아이들은 항상 네가
+돌아오기를 기다리고 있어.
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-아이들을 가장 먼저 생각한다면
-가장 소중히 여겨야 할 것은,
+아이들을 가장 생각한다면
+가장 소중히 해야 할 건,
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-바로 너 자신이라는 것을
-잊지 말아야 해.
+너 자신이라는 걸
+잊으면 안 돼.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -411,86 +410,87 @@ select
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-아이들이 커갈수록,
-짐도 늘어나는구나.
+아이들이 자라남에 따라,
+짐도 늘어나는 것 같아.
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
 깔끔하게 정리하고 싶어.
-이 방.
+이 방을.
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-잘 찾아왔네.
+잘 왔네.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭐야?
+뭐?
 [ENDBLOCK]
 수녀
 [ENDBLOCK]
-짐 정리하다가,
-너의 노트를 발견했어.
+짐 정리하다 보니,
+네 노트가 나왔어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-내…? 그런 게 있었나?
+내 노트……?
+그런 게 있었나?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-내용을 읽어보면,
-뭔가 알 수 있을 거야?
+안을 읽어보면,
+뭔가 알 수 있지 않을까?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-맞아.
+그렇네.
 [ENDBLOCK]
-○월×일
+○월 ×일
 [ENDBLOCK]
-오늘 10갈드 주웠어.
+오늘 10가르드를 주웠어.
 야호!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 이게 뭐야?
-어릴 적 일기인가?
+어렸을 때 일기인가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-10갈드로 기뻐하다니
-귀엽네.
+10가르드에 기뻐하다니
+귀엽네~
 [ENDBLOCK]
-○월×일
+○월 ×일
 [ENDBLOCK]
-오늘은 15갈드 주웠어.
+오늘은 15가르드를 주웠어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-…
+……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-돈 얘기만 잔뜩…이네.
+돈 얘기뿐이네……
 [ENDBLOCK]
-○월×일
+○월 ×일
 [ENDBLOCK]
 오늘은 모은 돈으로,
-젤리를 많이 샀어.
+젤리를 잔뜩 샀어.
 [ENDBLOCK]
-○월×일
+○월 ×일
 [ENDBLOCK]
 여행자에게 젤리를 팔았더니,
-모두 합쳐서 50갈드 이익이 생겼어.
+전부 50가르드의 이익이 났어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-이건 이거대로 부끄럽네…
+이것도 이것대로 부끄럽네……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아직 어린데, 가계부 같은 건가?
+어린애인데, 가계부 같은 건가?
 [ENDBLOCK]
-시스터
+수녀
 [ENDBLOCK]
-아니요. 이건 출납장이에요.
+아니야. 이건 출납부야.
 [ENDBLOCK]

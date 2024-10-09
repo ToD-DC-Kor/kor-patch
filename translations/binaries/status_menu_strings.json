@@ -1,0 +1,123 @@
+{
+    "00055.md1": [
+        {
+            "offset": 17072,
+            "string": "[Circle_ani]決定[Cross_ani]キャンセル[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]결정[Cross_ani]취소[END]"
+        },
+        {
+            "offset": 17104,
+            "string": "[Triangle_ani]称号変更[Cross_ani]戻る[Square_ani]ページ切替[L1_ani][R1_ani]キャラ切替[Select_ani]名前変更[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "[Triangle_ani]칭호 변경[Cross_ani]뒤로[Square_ani]페이지 전환[L1_ani][R1_ani]캐릭터 전환[Select_ani]이름 변경[END]"
+        },
+        {
+            "offset": 17184,
+            "string": "[Cross_ani]戻る[Square_ani]ページ切替[L1_ani][R1_ani]キャラ切替[Select_ani]名前変更[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "[Cross_ani]뒤로[Square_ani]페이지 전환[L1_ani][R1_ani]캐릭터 전환[Select_ani]이름 변경[END]"
+        },
+        {
+            "offset": 20480,
+            "string": "称号[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "칭호[END]"
+        },
+        {
+            "offset": 28232,
+            "string": "攻撃[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "공격[END]"
+        },
+        {
+            "offset": 28240,
+            "string": "命中[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "명중[END]"
+        },
+        {
+            "offset": 28248,
+            "string": "術攻[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "술공[END]"
+        },
+        {
+            "offset": 28256,
+            "string": "集中[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "집중[END]"
+        },
+        {
+            "offset": 28264,
+            "string": "術防[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "술방[END]"
+        },
+        {
+            "offset": 28272,
+            "string": "回避[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "회피[END]"
+        },
+        {
+            "offset": 28280,
+            "string": "防御[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "방어[END]"
+        },
+        {
+            "offset": 28288,
+            "string": "体力[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "체력[END]"
+        },
+        {
+            "offset": 28304,
+            "string": "サポートタレント[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "서포트 탤런트[END]"
+        },
+        {
+            "offset": 28328,
+            "string": "攻撃属性[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "공격 속성[END]"
+        },
+        {
+            "offset": 28344,
+            "string": "耐性属性[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "내성 속성[END]"
+        },
+        {
+            "offset": 28360,
+            "string": "弱点属性[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "약점 속성[END]"
+        },
+        {
+            "offset": 28376,
+            "string": "称号[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "칭호[END]"
+        }
+    ]
+}
