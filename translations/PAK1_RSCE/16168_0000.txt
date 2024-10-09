@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-지금은 수호룡을 막는 것이 중요하다.
+지금은 수호룡을 멈추는 것이 중요해.
 [ENDBLOCK]
