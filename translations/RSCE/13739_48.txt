@@ -559,7 +559,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Lion>
 [ENDBLOCK]
 너를 데려온 건
-그레밤의 대면을 위해서다.
+글레밤의 대면을 위해서다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

@@ -243,7 +243,7 @@
             "string": "グレバムを追うぞ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "그레밤을 쫓자[END]"
+            "translation": "글레밤을 쫓자[END]"
         },
         {
             "offset": 76656,
@@ -1657,14 +1657,14 @@
             "string": "カルビオラにレンズを求めて[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "칼비올라에서 렌즈를 찾아[END]"
+            "translation": "까르비올라에서 렌즈를 찾아[END]"
         },
         {
             "offset": 80760,
             "string": "ハイデルベルグにレンズを求めて[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "하이델베르크에서 렌즈를 찾아[END]"
+            "translation": "하이델베르그에서 렌즈를 찾아[END]"
         },
         {
             "offset": 80792,
@@ -2735,7 +2735,7 @@
             "string": "ハイデルベルグは森を抜けて北[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "하이델베르크는 숲을 지나 북쪽[END]"
+            "translation": "하이델베르그는 숲을 지나 북쪽[END]"
         },
         {
             "offset": 84600,
@@ -2749,7 +2749,7 @@
             "string": "ハイデルベルグを目指して[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "하이델베르크를 향해[END]"
+            "translation": "하이델베르그를 향해[END]"
         },
         {
             "offset": 84656,
@@ -2966,7 +2966,7 @@
             "string": "非常通路からハイデルベルグ城へ[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "비상 통로에서 하이델베르크 성으로[END]"
+            "translation": "비상 통로에서 하이델베르그 성으로[END]"
         },
         {
             "offset": 85304,
@@ -2987,7 +2987,7 @@
             "string": "ハイデルベルグの印象[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "하이델베르크의 인상[END]"
+            "translation": "하이델베르그의 인상[END]"
         },
         {
             "offset": 85384,
@@ -3001,7 +3001,7 @@
             "string": "ハイデルベルグはサイリルの北[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "하이델베르크는 사이릴의 북쪽[END]"
+            "translation": "하이델베르그는 사이릴의 북쪽[END]"
         },
         {
             "offset": 85440,
@@ -3085,7 +3085,7 @@
             "string": "ハイデルベルグへはティルソの森を通って[END]",
             "original_bytes_length": 39,
             "available_bytes_size": 39,
-            "translation": "하이델베르크로는 틸소의 숲을 통해[END]"
+            "translation": "하이델베르그로는 틸소의 숲을 통해[END]"
         },
         {
             "offset": 85712,
@@ -3155,7 +3155,7 @@
             "string": "グレバムと神の眼[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "그레밤과 신의 눈[END]"
+            "translation": "글레밤과 신의 눈[END]"
         },
         {
             "offset": 85904,
@@ -3169,7 +3169,7 @@
             "string": "グレバムを追ってファンダリアへ[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "그레밤을 쫓아 팬더리아로[END]"
+            "translation": "글레밤을 쫓아 팬더리아로[END]"
         },
         {
             "offset": 85960,
@@ -3617,7 +3617,7 @@
             "string": "目指すはグレバム[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "목표는 그레밤[END]"
+            "translation": "목표는 글레밤[END]"
         },
         {
             "offset": 87384,
@@ -3813,14 +3813,14 @@
             "string": "チェリクはカルビオラの南[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "체리크는 칼비올라의 남쪽[END]"
+            "translation": "체리크는 까르비올라의 남쪽[END]"
         },
         {
             "offset": 88072,
             "string": "チェリクはカルビオラから南[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "체리크는 칼비올라에서 남쪽[END]"
+            "translation": "체리크는 까르비올라에서 남쪽[END]"
         },
         {
             "offset": 88104,
@@ -3939,14 +3939,14 @@
             "string": "チェリクの北のカルビオラへ[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "체리크의 북쪽 칼비올라로[END]"
+            "translation": "체리크의 북쪽 까르비올라로[END]"
         },
         {
             "offset": 88480,
             "string": "カルビオラはチェリクの北[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "칼비올라는 체리크의 북쪽[END]"
+            "translation": "까르비올라는 체리크의 북쪽[END]"
         },
         {
             "offset": 88512,

@@ -1195,7 +1195,7 @@ debug
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-내 이름은 <Mary> 에이젠트야.
+내 이름은 <Mary> 에이전트야.
 …… 너는?
 
 [ENDBLOCK]

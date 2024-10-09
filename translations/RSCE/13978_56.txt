@@ -3,7 +3,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그레밤이에요!
+글레밤이에요!
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
@@ -12,7 +12,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그레밤!	이제 그만해요!
+글레밤!	이제 그만해요!
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
@@ -39,7 +39,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그레밤!
+글레밤!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -82,7 +82,7 @@
 <Rutee>
 [ENDBLOCK]
 우리가 싸우는 동안
-그레밤이 가져간 것 같아요.
+글레밤이 가져간 것 같아요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -91,7 +91,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-이 자식, 그레밤……!
+이 자식, 글레밤……!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -113,7 +113,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그레밤을 상대로 혼자서는 무리야.
+글레밤을 상대로 혼자서는 무리야.
 모두 힘을 합쳐야 해!
 [ENDBLOCK]
 <Lion>
@@ -150,7 +150,7 @@
 <Stahn>
 [ENDBLOCK]
 나는 괜찮으니까……
-빨리…… 그레밤을……
+빨리…… 글레밤을……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

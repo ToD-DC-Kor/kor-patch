@@ -959,7 +959,7 @@ select
 [ENDBLOCK]
 체리크
 [ENDBLOCK]
-칼비올라
+까르비올라
 [ENDBLOCK]
 정크랜드
 [ENDBLOCK]
@@ -977,9 +977,9 @@ select
 [ENDBLOCK]
 사이릴
 [ENDBLOCK]
-하이델베르크
+하이델베르그
 [ENDBLOCK]
-고양이인 기지
+고양이맨 기지
 [ENDBLOCK]
 ???
 [ENDBLOCK]

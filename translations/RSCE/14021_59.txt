@@ -253,7 +253,7 @@
 <Kongman>
 [ENDBLOCK]
 그렇다 해도 말이야, <Stahn>.
-이건 <Ilene>이 선택한 길이야.
+이건 <Ilene>가 선택한 길이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

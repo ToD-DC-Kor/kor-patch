@@ -744,7 +744,7 @@
 <Dryden>
 [ENDBLOCK]
 <Lion> 매그너스의 처우에 대해서는
-그 자리의 판단에 맡기겠다.
+상황 판단에 맡기겠다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -884,7 +884,7 @@
 <Dryden>
 [ENDBLOCK]
 이어서 <Stahn> 엘론과
-<Rutee> 카틀릿.
+<Rutee> 커틀렛.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

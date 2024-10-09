@@ -342,7 +342,7 @@
 여자아이
 [ENDBLOCK]
 이 마을의 렌즈는
-하이델베르크로 옮겼어.
+하이델베르그로 옮겼어.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
@@ -369,17 +369,17 @@
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-오빠들도
+형아들도
 같이 눈사람 만들래?
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-오빠도
+형아도
 같이 눈사람 만들고 싶어?
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-언니들도
+누나들도
 같이 눈사람 만들래?
 [ENDBLOCK]
 남자아이

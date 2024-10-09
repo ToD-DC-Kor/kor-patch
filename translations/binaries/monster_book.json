@@ -936,7 +936,7 @@
             "string": "ハイデルベルグ地下に住み着くコウモリ。[LINE]\n雑食で、催眠波で眠らせてから[LINE]\n相手を捕食する。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "하이델베르크 지하에 살고 있는 박쥐. [LINE]\n잡식으로, 최면파로 재우고 나서 [LINE]\n상대를 포식한다. [END]"
+            "translation": "하이델베르그 지하에 살고 있는 박쥐. [LINE]\n잡식으로, 최면파로 재우고 나서 [LINE]\n상대를 포식한다. [END]"
         },
         {
             "offset": 31040,
@@ -1090,7 +1090,7 @@
             "string": "ハイデルベルグ城を襲った反乱軍の兵士。[LINE]\n正規軍の中にも反乱軍に加わったものもおり、[LINE]\n兵士間の統率が取れている。[END]",
             "original_bytes_length": 109,
             "available_bytes_size": 111,
-            "translation": "하이델베르크성을 습격한 반란군의 병사. [LINE]\n정규군 중에도 반란군에 가담한 자도 있어, [LINE]\n병사 사이의 통제가 되어 있다. [END]"
+            "translation": "하이델베르그성을 습격한 반란군의 병사. [LINE]\n정규군 중에도 반란군에 가담한 자도 있어, [LINE]\n병사 사이의 통제가 되어 있다. [END]"
         },
         {
             "offset": 33128,
@@ -1342,14 +1342,14 @@
             "string": "ハイデルベルグの囚人とされる不死の者。[LINE]\nすでに痛みなど感じないので、少しぐらいの[LINE]\n攻撃を受けてもお構いなしに突き進んでくる。[END]",
             "original_bytes_length": 123,
             "available_bytes_size": 127,
-            "translation": "하이델베르크의 죄수로 여겨지는 불사의 자. [LINE]\n이미 아픔 등을 느끼지 않으므로, 조금 정도의 [LINE]\n공격을 받아도 신경 쓰지 않고 돌진해 온다. [END]"
+            "translation": "하이델베르그의 죄수로 여겨지는 불사의 자. [LINE]\n이미 아픔 등을 느끼지 않으므로, 조금 정도의 [LINE]\n공격을 받아도 신경 쓰지 않고 돌진해 온다. [END]"
         },
         {
             "offset": 36856,
             "string": "ハイデルベルグに集まる負の感情のかたまり。[LINE]\n実体が無いに等しいため、[LINE]\nほとんどの攻撃が効きづらい。[END]",
             "original_bytes_length": 97,
             "available_bytes_size": 103,
-            "translation": "하이델베르크에 모이는 부정 감정의 덩어리. [LINE]\n실체가 없는 것과 같아, [LINE]\n대부분의 공격이 통하지 않는다. [END]"
+            "translation": "하이델베르그에 모이는 부정 감정의 덩어리. [LINE]\n실체가 없는 것과 같아, [LINE]\n대부분의 공격이 통하지 않는다. [END]"
         },
         {
             "offset": 36960,

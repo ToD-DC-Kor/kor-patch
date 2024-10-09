@@ -6,7 +6,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 여기서는
-칼비올라가 가장 가까울 것 같습니다.
+까르비올라가 가장 가까울 것 같습니다.
 [ENDBLOCK]
 렌즈를 받으러 가시죠.
 [ENDBLOCK]

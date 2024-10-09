@@ -909,7 +909,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>은 행방을 모른대.
+<Lion>의 행방은 모른대.
 아무 일 없었으면 좋겠는데.
 [ENDBLOCK]
 <Rutee>
@@ -924,7 +924,7 @@
 <Rutee>
 [ENDBLOCK]
 뭐야, 우유부단하네.
-나랑 또 여행할 수 있는 거야.
+나랑 또 여행할 수 있는 거라고.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -951,7 +951,7 @@
 <Rutee>
 [ENDBLOCK]
 언니, 잠깐 나갔다 올게.
-집 봐줘.
+집 좀 봐줘.
 [ENDBLOCK]
 에~? 또~?
 [ENDBLOCK]

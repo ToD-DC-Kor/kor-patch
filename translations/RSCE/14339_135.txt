@@ -373,7 +373,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그레밤을 물리친 후에
+글레밤을 물리친 후에
 만든 것인가.
 [ENDBLOCK]
 <Lion>
@@ -401,7 +401,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-혹시 샤르티에 군이
+혹시 샤르띠에 군이
 알고 있는 것은 없을까?
 [ENDBLOCK]
 <Chaltier>
@@ -541,7 +541,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-여러분이 그레밤을 물리친
+여러분이 글레밤을 물리친
 이후로군요?
 [ENDBLOCK]
 <Lion>
@@ -694,7 +694,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 팬더리아 병사
 [ENDBLOCK]
-하이델베르크 성에 오신 것을 환영합니다.
+하이델베르그 성에 오신 것을 환영합니다.
 [ENDBLOCK]
 팬더리아 병사
 [ENDBLOCK]
@@ -823,7 +823,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-오랜만이군, 여러분.
+오랜만이군, 모두들.
 건강해 보여서 다행이야.
 [ENDBLOCK]
 <Chelsea>
@@ -1062,7 +1062,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 <Woodrow>
 [ENDBLOCK]
 기다리게 했군.
-그럼 성을 출발하도록 하지.
+그럼 성을 떠나도록 하지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

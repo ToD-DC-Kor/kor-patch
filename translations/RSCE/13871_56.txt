@@ -610,7 +610,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Atwight>
 [ENDBLOCK]
 우리의 부름에 응해서,
-클레멘테가 보내준 거네.
+클레멘트가 보내준 거네.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

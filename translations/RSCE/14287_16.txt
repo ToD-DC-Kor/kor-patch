@@ -13,7 +13,7 @@
 [ENDBLOCK]
 사이릴 병사
 [ENDBLOCK]
-의용군은 리더를 잃고,
+의용군은 리더를 잃었고,
 그 틈을 <Greybum>에게 이용당했던 거야.
 [ENDBLOCK]
 사이릴 병사

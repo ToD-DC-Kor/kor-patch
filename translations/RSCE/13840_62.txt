@@ -132,7 +132,7 @@ select
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>세인가르드와는 하이델베르크 산맥으로
+<TAG_005>세인가르드와는 하이델베르그 산맥으로
 격리되어 있고, 국토의 대부분이 눈으로 덮인
 팬더리아 왕국.
 [ENDBLOCK]
@@ -344,7 +344,7 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
-칼비올라의 북쪽을 조사해 줘.
+까르비올라의 북쪽을 조사해 줘.
 
 [ENDBLOCK]
 프란츠
@@ -1169,7 +1169,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
-아무래도 칼비올라 북쪽에
+아무래도 까르비올라 북쪽에
 있는 것 같다는 것까진 알았지만……
 [ENDBLOCK]
 <Stahn>

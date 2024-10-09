@@ -634,12 +634,12 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-이름은 <Rutee> 카틀릿과
-<Mary> 에이젠트입니다.
+이름은 <Rutee> 커틀렛과
+<Mary> 에이전트입니다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Rutee>……카틀릿?
+<Rutee>……커틀렛?
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
@@ -653,7 +653,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-보고에 의하면, <Rutee> 카틀릿은
+보고에 의하면, <Rutee> 커틀렛은
 뭔가 신기한 검을 사용한다고 합니다.
 [ENDBLOCK]
 세인가르드 병사
@@ -700,7 +700,7 @@
 <Lion>
 [ENDBLOCK]
 샤르 이외의 소디언과
-수배범 <Rutee> 카틀릿인가……
+수배범 <Rutee> 커틀렛인가……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]

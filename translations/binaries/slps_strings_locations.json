@@ -5,7 +5,7 @@
             "string": "カルビオラ神殿・神の眼前戦[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "칼비올라 신전・신의 눈앞 전투[END]"
+            "translation": "까르비올라 신전・신의 눈앞 전투[END]"
         },
         {
             "offset": 1714296,
@@ -47,7 +47,7 @@
             "string": "ハイデルベルグ城・対グレバム戦[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "하이델베르크 성・그레밤 전투[END]"
+            "translation": "하이델베르그 성・글레밤 전투[END]"
         },
         {
             "offset": 1714424,
@@ -369,7 +369,7 @@
             "string": "ハイデルベルグ城・通路4　時計塔内部[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39,
-            "translation": "하이델베르크 성・통로 4 시계탑 내부[END]"
+            "translation": "하이델베르그 성・통로 4 시계탑 내부[END]"
         },
         {
             "offset": 1715920,
@@ -432,42 +432,42 @@
             "string": "ハイデルベルグ城・通路3　城外壁[END]",
             "original_bytes_length": 32,
             "available_bytes_size": 32,
-            "translation": "하이델베르크 성・통로 3 성 외벽[END]"
+            "translation": "하이델베르그 성・통로 3 성 외벽[END]"
         },
         {
             "offset": 1716176,
             "string": "ハイデルベルグ城・通路2 外殻後[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "하이델베르크 성・통로 2 외각 후[END]"
+            "translation": "하이델베르그 성・통로 2 외각 후[END]"
         },
         {
             "offset": 1716208,
             "string": "ハイデルベルグ城・通路1　外殻前[END]",
             "original_bytes_length": 32,
             "available_bytes_size": 32,
-            "translation": "하이델베르크 성・통로 1 외각 전[END]"
+            "translation": "하이델베르그 성・통로 1 외각 전[END]"
         },
         {
             "offset": 1716240,
             "string": "ハイデルベルグ地下通路・滑る通路[END]",
             "original_bytes_length": 33,
             "available_bytes_size": 39,
-            "translation": "하이델베르크 지하 통로・미끄러운 통로[END]"
+            "translation": "하이델베르그 지하 통로・미끄러운 통로[END]"
         },
         {
             "offset": 1716280,
             "string": "ハイデルベルグ地下通路・通路[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "하이델베르크 지하 통로・통로[END]"
+            "translation": "하이델베르그 지하 통로・통로[END]"
         },
         {
             "offset": 1716312,
             "string": "ハイデルベルグ詰め所二階・対ダリス戦[END]",
             "original_bytes_length": 37,
             "available_bytes_size": 39,
-            "translation": "하이델베르크 구비소 2층・대 다리스 전투[END]"
+            "translation": "하이델베르그 구비소 2층・대 다리스 전투[END]"
         },
         {
             "offset": 1716352,
@@ -586,7 +586,7 @@
             "string": "カルビオラ神殿・通路夜[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "칼비올라 신전・통로 밤[END]"
+            "translation": "까르비올라 신전・통로 밤[END]"
         },
         {
             "offset": 1716880,
@@ -803,28 +803,28 @@
             "string": "ハイデルベルク雪・街道3[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "하이델베르크 눈・도로 3[END]"
+            "translation": "하이델베르그 눈・도로 3[END]"
         },
         {
             "offset": 1717816,
             "string": "ハイデルベルク雪・街道2[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "하이델베르크 눈・도로 2[END]"
+            "translation": "하이델베르그 눈・도로 2[END]"
         },
         {
             "offset": 1717840,
             "string": "ハイデルベルク雪・街道1[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "하이델베르크 눈・도로 1[END]"
+            "translation": "하이델베르그 눈・도로 1[END]"
         },
         {
             "offset": 1717864,
             "string": "ハイデルベルク雪・街道0[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "하이델베르크 눈・도로 0[END]"
+            "translation": "하이델베르그 눈・도로 0[END]"
         },
         {
             "offset": 1717888,
@@ -971,28 +971,28 @@
             "string": "ハイデルベルク雪森3[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 눈 숲3[END]"
+            "translation": "하이델베르그 눈 숲3[END]"
         },
         {
             "offset": 1718552,
             "string": "ハイデルベルク雪森2[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 눈 숲2[END]"
+            "translation": "하이델베르그 눈 숲2[END]"
         },
         {
             "offset": 1718576,
             "string": "ハイデルベルク雪森1[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 눈 숲1[END]"
+            "translation": "하이델베르그 눈 숲1[END]"
         },
         {
             "offset": 1718600,
             "string": "ハイデルベルク雪森0[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 눈 숲0[END]"
+            "translation": "하이델베르그 눈 숲0[END]"
         },
         {
             "offset": 1718624,
@@ -1055,28 +1055,28 @@
             "string": "カルビオラ・チェリク・砂砂漠3[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "칼비올라 체리크 모래 사막3[END]"
+            "translation": "까르비올라 체리크 모래 사막3[END]"
         },
         {
             "offset": 1718816,
             "string": "カルビオラ・チェリク・砂砂漠2[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "칼비올라 체리크 모래 사막2[END]"
+            "translation": "까르비올라 체리크 모래 사막2[END]"
         },
         {
             "offset": 1718848,
             "string": "カルビオラ・チェリク・砂砂漠1[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "칼비올라 체리크 모래 사막1[END]"
+            "translation": "까르비올라 체리크 모래 사막1[END]"
         },
         {
             "offset": 1718880,
             "string": "カルビオラ・チェリク・砂砂漠0[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "칼비올라 체리크 모래 사막0[END]"
+            "translation": "까르비올라 체리크 모래 사막0[END]"
         },
         {
             "offset": 1718912,
@@ -1195,28 +1195,28 @@
             "string": "ハイデルベルク雪原3[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 눈밭3[END]"
+            "translation": "하이델베르그 눈밭3[END]"
         },
         {
             "offset": 1719512,
             "string": "ハイデルベルク雪原2[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 눈밭2[END]"
+            "translation": "하이델베르그 눈밭2[END]"
         },
         {
             "offset": 1719536,
             "string": "ハイデルベルク雪原1[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 눈밭1[END]"
+            "translation": "하이델베르그 눈밭1[END]"
         },
         {
             "offset": 1719560,
             "string": "ハイデルベルク雪原0[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 눈밭0[END]"
+            "translation": "하이델베르그 눈밭0[END]"
         },
         {
             "offset": 1719584,
@@ -1818,14 +1818,14 @@
             "string": "カルバレイスF3(カルビオラ周辺)[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "칼바레이스 F3 (칼비올라 주변)[END]"
+            "translation": "칼바레이스 F3 (까르비올라 주변)[END]"
         },
         {
             "offset": 1721776,
             "string": "ファンダリアF3(ハイデルベルグ周辺)[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
-            "translation": "팬더리아 F3 (하이델베르크 주변)[END]"
+            "translation": "팬더리아 F3 (하이델베르그 주변)[END]"
         },
         {
             "offset": 1721816,
@@ -2091,7 +2091,7 @@
             "string": "カルバレイスF2(カルビオラ周辺)[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "칼바레이스 F2 (칼비올라 주변)[END]"
+            "translation": "칼바레이스 F2 (까르비올라 주변)[END]"
         },
         {
             "offset": 1722760,
@@ -2140,14 +2140,14 @@
             "string": "グレバム戦[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "그레밤 전투[END]"
+            "translation": "글레밤 전투[END]"
         },
         {
             "offset": 1722976,
             "string": "ハイデルベルグ城[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 성[END]"
+            "translation": "하이델베르그 성[END]"
         },
         {
             "offset": 1723000,
@@ -2161,7 +2161,7 @@
             "string": "ハイデルベルグ地下通路[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 지하 통로[END]"
+            "translation": "하이델베르그 지하 통로[END]"
         },
         {
             "offset": 1723040,
@@ -2329,7 +2329,7 @@
             "string": "カルビオラ神殿[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "칼비올라 신전[END]"
+            "translation": "까르비올라 신전[END]"
         },
         {
             "offset": 1723536,
@@ -2343,7 +2343,7 @@
             "string": "カルバレイスF1(カルビオラ周辺)[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "칼바레이스 F1 (칼비올라 주변)[END]"
+            "translation": "칼바레이스 F1 (까르비올라 주변)[END]"
         },
         {
             "offset": 1723608,
@@ -2532,7 +2532,7 @@
             "string": "ハイデルベルグ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "하이델베르크[END]"
+            "translation": "하이델베르그[END]"
         },
         {
             "offset": 1724200,
@@ -2581,7 +2581,7 @@
             "string": "カルビオラ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "칼비올라[END]"
+            "translation": "까르비올라[END]"
         },
         {
             "offset": 1724312,

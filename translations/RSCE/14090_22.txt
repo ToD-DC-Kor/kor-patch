@@ -9,7 +9,7 @@
 <Rutee>
 [ENDBLOCK]
 무슨 짓이야!?
-네 때문에 땅이 무너졌잖아!
+너 때문에 땅이 무너졌잖아!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -281,8 +281,8 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-미안하지만, 이건
-양보할 생각 없어.
+미안하지만
+이건, 양보할 생각 없어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -290,7 +290,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……도움이 빨리 왔으면 좋겠다.
+……빨리 도와주러 왔으면 좋겠다.
 [ENDBLOCK]
 알림
 [ENDBLOCK]

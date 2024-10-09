@@ -294,7 +294,7 @@ select
 젊은 여자
 [ENDBLOCK]
 이 마을의 렌즈라면
-이미 하이델베르크로 운반했어요.
+이미 하이델베르그로 운반했어요.
 [ENDBLOCK]
 젊은 여자
 [ENDBLOCK]
@@ -521,7 +521,7 @@ select
 [ENDBLOCK]
 팬더리아 병사
 [ENDBLOCK]
-하이델베르크가 이렇게 쉽게
+하이델베르그가 이렇게 쉽게
 함락되다니……
 [ENDBLOCK]
 알림
@@ -952,7 +952,7 @@ select
 [ENDBLOCK]
 체리크
 [ENDBLOCK]
-칼비올라
+까르비올라
 [ENDBLOCK]
 정크랜드
 [ENDBLOCK]
@@ -970,9 +970,9 @@ select
 [ENDBLOCK]
 사이릴
 [ENDBLOCK]
-하이델베르크
+하이델베르그
 [ENDBLOCK]
-고양이인 기지
+고양이맨 기지
 [ENDBLOCK]
 ???
 [ENDBLOCK]

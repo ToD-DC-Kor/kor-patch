@@ -681,7 +681,7 @@ reset---------
 [ENDBLOCK]
 선원
 [ENDBLOCK]
-<Ilene>이 목표로 했던 이상이
+<Ilene>가 목표로 했던 이상이
 이런 형태로 실현될 줄이야.
 [ENDBLOCK]
 소년

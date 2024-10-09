@@ -26,7 +26,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-그래서는 어쩔 수가 없었어……
+저래서는 어쩔 수가 없군……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -55,7 +55,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-제기랄ㅡㅡㅡ!
+제기랄!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]

@@ -106,7 +106,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-이제부터 그레밤을 추적하는데 있어서,
+이제부터 글레밤을 추적하는데 있어서,
 너희들에게 하나 제안이 있어.
 [ENDBLOCK]
 <Atwight>
@@ -126,7 +126,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-소디언의 이름은 클레멘테.
+소디언의 이름은 클레멘트.
 반드시 우리에게 도움이 될 거야.
 [ENDBLOCK]
 <Chaltier>
@@ -237,7 +237,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그러고 보니…… 칼비올라에서는
+그러고 보니…… 까르비올라에서는
 <Batista>의 모습이 보이지 않았어요.
 [ENDBLOCK]
 <Stahn>
@@ -426,8 +426,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-좀은 사람을 의심하는 법을 배우라고
-말했는데.
+조금은 사람을 의심하는 법을 배우라고
+말했을 텐데.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]

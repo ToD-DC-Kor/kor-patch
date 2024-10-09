@@ -329,12 +329,12 @@
 [ENDBLOCK]
 전직 신관
 [ENDBLOCK]
-그레밤 대사제가 반란을 일으켰다고요?
+글레밤 대사제가 반란을 일으켰다고요?
 농담이겠죠, 하하하.
 [ENDBLOCK]
 전직 신관
 [ENDBLOCK]
-그레밤 대사제가 죽었다더군요.
+글레밤 대사제가 죽었다더군요.
 저는 처음부터 그를 의심하고 있었습니다.
 [ENDBLOCK]
 전직 신관
@@ -916,7 +916,7 @@ select
 [ENDBLOCK]
 체리크
 [ENDBLOCK]
-칼비올라
+까르비올라
 [ENDBLOCK]
 정크랜드
 [ENDBLOCK]
@@ -934,9 +934,9 @@ select
 [ENDBLOCK]
 사이릴
 [ENDBLOCK]
-하이델베르크
+하이델베르그
 [ENDBLOCK]
-고양이인 기지
+고양이맨 기지
 [ENDBLOCK]
 ???
 [ENDBLOCK]

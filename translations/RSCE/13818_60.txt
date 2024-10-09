@@ -104,7 +104,7 @@ select
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>세인가르드와는 하이델베르크 산맥으로
+<TAG_005>세인가르드와는 하이델베르그 산맥으로
 격리되어 있고, 국토의 대부분이 눈으로 덮인
 팬더리아 왕국.
 [ENDBLOCK]
@@ -351,7 +351,7 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
-칼비올라의 북쪽을 조사해 줘.
+까르비올라의 북쪽을 조사해 줘.
 
 [ENDBLOCK]
 프란츠
@@ -492,7 +492,7 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-대사제 그레밤이
+대사제 글레밤이
 갑자기 반란을 일으켰습니다!
 [ENDBLOCK]
 <Ayles>
@@ -502,7 +502,7 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-우리는 어쩔 수 없이 그레밤에게 항복하고
+우리는 어쩔 수 없이 글레밤에게 항복하고
 지금에 이르게 된 것입니다.
 [ENDBLOCK]
 <Lion>
@@ -1281,7 +1281,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
-아무래도 칼비올라 북쪽에
+아무래도 까르비올라 북쪽에
 있는 것 같다는 것까진 알았지만……
 [ENDBLOCK]
 <Stahn>

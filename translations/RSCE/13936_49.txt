@@ -64,7 +64,7 @@
 부하
 [ENDBLOCK]
 <Baruk> 님, <Lion> 님 일행이
-칼비올라로 떠났다고 합니다만……
+까르비올라로 떠났다고 합니다만……
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
@@ -153,7 +153,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아아! 칼비올라의
+아아! 까르비올라의
 엘레나씨의 아버지.
 [ENDBLOCK]
 내쉬

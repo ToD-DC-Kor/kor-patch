@@ -5,6 +5,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-그레밤은 정문을 통해
+글레밤은 정문을 통해
 밖으로 나갔을 거야!
 [ENDBLOCK]

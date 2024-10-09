@@ -19,7 +19,7 @@ R키라고 불리는 장치가 있어.
 <Ritora>
 [ENDBLOCK]
 우선 여기서 가장 가까운
-이그나시로 향해 주길 바라.
+이그나시로 향해 주길 바란다.
 
 [ENDBLOCK]
 <Ritora>
@@ -93,7 +93,7 @@ R키라고 불리는 장치가 있어.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-거울면 배리어 중화 장치는
+경면 배리어 중화 장치는
 소디언을 이용해 발동시킬 예정이야.
 [ENDBLOCK]
 <Ritora>
@@ -107,7 +107,7 @@ R키라고 불리는 장치가 있어.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-여기서도 한 번 이그나시로 돌아가서
+여기서도 한 번 이그나시로 돌아와서
 이번에는 슈사이아를 경유해서 가 줘.
 [ENDBLOCK]
 <Atwight>

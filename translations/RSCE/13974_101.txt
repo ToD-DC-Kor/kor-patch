@@ -38,7 +38,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그레밤이나 그 일당을
+글레밤이나 그 일당을
 본 적이 없습니다.
 [ENDBLOCK]
 <Philia>

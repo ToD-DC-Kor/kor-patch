@@ -209,7 +209,7 @@ select
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-하이델베르크의 상황도
+하이델베르그의 상황도
 안정됐으니까.
 [ENDBLOCK]
 <Alba>
@@ -224,7 +224,7 @@ select
 <Alba>
 [ENDBLOCK]
 <Woodrow>를 따라
-<Chelsea>는 하이델베르크에 남아 있어.
+<Chelsea>는 하이델베르그에 남아 있어.
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
@@ -237,7 +237,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-만약 하이델베르크에 갈 일이
+만약 하이델베르그에 갈 일이
 있다면 들러보지.
 [ENDBLOCK]
 
