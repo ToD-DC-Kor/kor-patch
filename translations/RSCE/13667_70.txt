@@ -566,7 +566,7 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-<Rutee> 카틀릿이군.
+<Rutee> 커틀렛이군.
 체포한다!
 
 [ENDBLOCK]
@@ -878,7 +878,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-(…… 저게 <Rutee> 카틀릿과
+(…… 저게 <Rutee> 커틀렛과
 	그녀의 소디언인가……)
 [ENDBLOCK]
 <Chaltier>
@@ -954,7 +954,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Rutee> 카틀릿인가,
+<Rutee> 커틀렛인가,
 확실히 나와 많이 닮았군.
 [ENDBLOCK]
 <Lion>

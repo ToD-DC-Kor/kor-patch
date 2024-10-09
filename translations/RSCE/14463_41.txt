@@ -453,7 +453,7 @@
 <Lion>
 [ENDBLOCK]
 <Hugo>의 죽은 아내의 이름은,
-크리스 카틀릿.
+크리스 커틀렛.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

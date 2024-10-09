@@ -74,7 +74,7 @@ select
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-<Rutee> 카틀릿!
+<Rutee> 커틀렛!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
