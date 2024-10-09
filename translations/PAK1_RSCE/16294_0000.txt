@@ -1,10 +1,10 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-병사가 말하던
+병사가 말했던
 고아를 찾아볼까.
 [ENDBLOCK]
