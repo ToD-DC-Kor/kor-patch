@@ -79,7 +79,7 @@
 <Hugo>
 [ENDBLOCK]
 오베론 사 총수,
-휴고 질크리스트다.
+휴고 지르크리스트다.
 
 [ENDBLOCK]
 <Hugo>
