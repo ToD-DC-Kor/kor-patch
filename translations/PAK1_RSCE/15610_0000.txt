@@ -5,6 +5,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Stahn>군, 뒷산에 가려면 반대쪽이다.
-이쪽이 아니다.
+<Stahn>자네, 뒷산에 가려면 반대쪽이야.
+이쪽이 아니라고.
 [ENDBLOCK]

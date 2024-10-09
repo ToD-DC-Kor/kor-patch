@@ -1,0 +1,410 @@
+{
+    "SLPS": [
+        {
+            "offset": 1679760,
+            "string": "ただひとりのために…[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "단 한 사람을 위해…[END]"
+        },
+        {
+            "offset": 1679784,
+            "string": "破られた幸福[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "깨진 행복[END]"
+        },
+        {
+            "offset": 1679800,
+            "string": "正体不明モンスター[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "정체불명의 몬스터[END]"
+        },
+        {
+            "offset": 1679824,
+            "string": "ふたりの時間[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "둘만의 시간[END]"
+        },
+        {
+            "offset": 1679840,
+            "string": "ふたりの兵士[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "두 사람의 병사[END]"
+        },
+        {
+            "offset": 1679856,
+            "string": "奈落からの救出[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "나락에서의 구출[END]"
+        },
+        {
+            "offset": 1679872,
+            "string": "[Lion]の覚悟[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Lion]의 각오[END]"
+        },
+        {
+            "offset": 1679888,
+            "string": "[Hugo]の思惑[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Hugo]의 생각[END]"
+        },
+        {
+            "offset": 1679904,
+            "string": "ｖｓソーディアン[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "vs 소디언[END]"
+        },
+        {
+            "offset": 1679928,
+            "string": "新たな任務[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "새로운 임무[END]"
+        },
+        {
+            "offset": 1679944,
+            "string": "エピローグ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "에필로그[END]"
+        },
+        {
+            "offset": 1679960,
+            "string": "未来へ向かって[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "미래를 향해[END]"
+        },
+        {
+            "offset": 1679976,
+            "string": "戦士達の夜[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "전사들의 밤[END]"
+        },
+        {
+            "offset": 1679992,
+            "string": "レンズが足りない！[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "렌즈가 부족하다![END]"
+        },
+        {
+            "offset": 1680016,
+            "string": "ベルセリウムを探して[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "벨세리움 찾기[END]"
+        },
+        {
+            "offset": 1680040,
+            "string": "最終試練[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "최종 시험[END]"
+        },
+        {
+            "offset": 1680056,
+            "string": "天空都市攻略計画[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "천공 도시 공략 계획[END]"
+        },
+        {
+            "offset": 1680080,
+            "string": "魔性の襲来[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "마성의 습격[END]"
+        },
+        {
+            "offset": 1680096,
+            "string": "闇に閉ざされた世界[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "어둠에 닫힌 세계[END]"
+        },
+        {
+            "offset": 1680120,
+            "string": "天上の主[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "천상의 주[END]"
+        },
+        {
+            "offset": 1680136,
+            "string": "策士襲撃！[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "책략가 습격！[END]"
+        },
+        {
+            "offset": 1680152,
+            "string": "哀惜の佳人[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "애석한 미인[END]"
+        },
+        {
+            "offset": 1680168,
+            "string": "雄略の顛末[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "웅략의 전말[END]"
+        },
+        {
+            "offset": 1680184,
+            "string": "転送装置を確保せよ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "전송 장치를 확보하라[END]"
+        },
+        {
+            "offset": 1680208,
+            "string": "目指すは外殻大地[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "목표는 외각 대지[END]"
+        },
+        {
+            "offset": 1680232,
+            "string": "隠された鍵[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "숨겨진 열쇠[END]"
+        },
+        {
+            "offset": 1680248,
+            "string": "空中都市の復活[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "공중 도시의 부활[END]"
+        },
+        {
+            "offset": 1680264,
+            "string": "悪夢の始まり[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "악몽의 시작[END]"
+        },
+        {
+            "offset": 1680280,
+            "string": "孤島の秘密[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "고립된 섬의 비밀[END]"
+        },
+        {
+            "offset": 1680296,
+            "string": "再びセインガルドへ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "다시 세인가르드로[END]"
+        },
+        {
+            "offset": 1680320,
+            "string": "久しぶりの故郷[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "오랜만의 고향[END]"
+        },
+        {
+            "offset": 1680336,
+            "string": "ハイデルベルグの決戦[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크의 결전[END]"
+        },
+        {
+            "offset": 1680360,
+            "string": "秘密の地下通路[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "비밀의 지하 통로[END]"
+        },
+        {
+            "offset": 1680376,
+            "string": "在りし日の思い出[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "지난 날의 기억[END]"
+        },
+        {
+            "offset": 1680400,
+            "string": "凍える森[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "얼어붙은 숲[END]"
+        },
+        {
+            "offset": 1680416,
+            "string": "南の港町[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "남쪽 항구 마을[END]"
+        },
+        {
+            "offset": 1680432,
+            "string": "[Greybum]を追って[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Greybum]을 쫓아서[END]"
+        },
+        {
+            "offset": 1680448,
+            "string": "[Tiberius]大王の城[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Tiberius] 대왕의 성[END]"
+        },
+        {
+            "offset": 1680464,
+            "string": "しじまに沈む大王の城[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "고요에 가라앉는 대왕의 성[END]"
+        },
+        {
+            "offset": 1680488,
+            "string": "大暴れ！海の軟体生物[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "대폭주! 바다의 연체동물[END]"
+        },
+        {
+            "offset": 1680512,
+            "string": "いざモリュウ城[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "이제 모리유 성으로[END]"
+        },
+        {
+            "offset": 1680528,
+            "string": "陽気な吟遊詩人[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "명랑한 음유시인[END]"
+        },
+        {
+            "offset": 1680544,
+            "string": "奈落の底で[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "나락의 바닥에서[END]"
+        },
+        {
+            "offset": 1680560,
+            "string": "モリュウへの道[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "모리유로 가는 길[END]"
+        },
+        {
+            "offset": 1680576,
+            "string": "武装船団を叩け！[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "무장선단을 처치하라![END]"
+        },
+        {
+            "offset": 1680600,
+            "string": "美しき協力者[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "아름다운 협력자[END]"
+        },
+        {
+            "offset": 1680616,
+            "string": "怪しい神殿[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "수상한 신전[END]"
+        },
+        {
+            "offset": 1680632,
+            "string": "砂漠の島[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "사막의 섬[END]"
+        },
+        {
+            "offset": 1680648,
+            "string": "第四のソーディアン[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "네 번째 소디언[END]"
+        },
+        {
+            "offset": 1680672,
+            "string": "静寂にたたずむ神殿[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "고요히 서 있는 신전[END]"
+        },
+        {
+            "offset": 1680696,
+            "string": "王都ダリルシェイド[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "왕도 다릴쉐이드[END]"
+        },
+        {
+            "offset": 1680720,
+            "string": "王国の少年剣士[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "왕국의 소년 검士[END]"
+        },
+        {
+            "offset": 1680736,
+            "string": "神殿にて[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "신전에서[END]"
+        },
+        {
+            "offset": 1680752,
+            "string": "雪の記憶[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "눈의 기억[END]"
+        },
+        {
+            "offset": 1680768,
+            "string": "国境の街[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "국경의 마을[END]"
+        },
+        {
+            "offset": 1680784,
+            "string": "迷い子[Chelsea][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "길 잃은 아이 [Chelsea][END]"
+        },
+        {
+            "offset": 1680800,
+            "string": "山小屋[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "산장[END]"
+        },
+        {
+            "offset": 1680808,
+            "string": "もの言う剣[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 23,
+            "translation": "말하는 검[END]"
+        }
+    ]
+}

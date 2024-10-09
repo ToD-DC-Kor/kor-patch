@@ -1,19 +1,19 @@
 
-추가 내용
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-좋아! 하멘츠 마을을 목표로 하자.
+좋아!	하멘츠 마을을 향해 가자.
 [ENDBLOCK]
-기다려, <Stahn>.
+잠깐, <Stahn>.
 지도를 줄게.
 [ENDBLOCK]
-어차피 가지고 없잖아.
+어차피 없을 거잖아.
 [ENDBLOCK]
 고마워.
-소중히 할게.
+소중히 간직할게.
 [ENDBLOCK]
-길을 잃으면, 꼭 지도로 확인해.
+길을 잃으면 꼭 지도로 확인하도록 해.
 [ENDBLOCK]
