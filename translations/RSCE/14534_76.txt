@@ -22,7 +22,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-초록이 무성해서
+녹색이 무성해서
 마치 밀림 같아요.
 [ENDBLOCK]
 <Clemente>
