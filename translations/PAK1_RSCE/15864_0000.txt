@@ -1,29 +1,29 @@
 
-뒷이야기
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-…………
+……
 [ENDBLOCK]
-…………
+……
 [ENDBLOCK]
-…………
+……
 [ENDBLOCK]
-이 분위기는 안 좋네.
-어떻게든 완화할 방법이 없을까.
+이 분위기, 좋지 않네요.
+어떻게든 완화시킬 방법이 없을까?
 [ENDBLOCK]
 아, 아……
 [ENDBLOCK]
-자, 여기서 작은 이야기를 하나.
+자, 여기서 짧은 이야기 하나 해볼까요.
 [ENDBLOCK]
-이야, 사장님!
-오늘도 멋지십니다!
+어이, 주인님!
+오늘도 멋지시네요!
 [ENDBLOCK]
-……라고.
+……뭐 이런 식으로.
 [ENDBLOCK]
-…………
+……
 [ENDBLOCK]
 죄송합니다……
 [ENDBLOCK]
