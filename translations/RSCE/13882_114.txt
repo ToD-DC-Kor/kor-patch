@@ -642,7 +642,7 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-모두에게 할 말이 있었어.
+모두에게 할 말이 있어.
 무중력 엘리베이터를 가동시켰어.
 [ENDBLOCK]
 <Dymlos>
