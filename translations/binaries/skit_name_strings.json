@@ -1,0 +1,4967 @@
+{
+    "00016_0003.unknown.d1dec": [
+        {
+            "offset": 75776,
+            "string": "他に行くべきところがある[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "다른 곳에 가야 해[END]"
+        },
+        {
+            "offset": 75808,
+            "string": "急ぐぞ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "서두르자[END]"
+        },
+        {
+            "offset": 75816,
+            "string": "今はやめておこう……[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "지금은 그만두자……[END]"
+        },
+        {
+            "offset": 75840,
+            "string": "ぐずぐずしていられない！[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "꾸물거릴 시간이 없어![END]"
+        },
+        {
+            "offset": 75872,
+            "string": "まだ壊せる場所が[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "아직 부술 곳이[END]"
+        },
+        {
+            "offset": 75896,
+            "string": "ソーサラーリングでドカン[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "소서러 링으로 쾅[END]"
+        },
+        {
+            "offset": 75928,
+            "string": "ヒューゴたちは？[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "휴고 일행은?[END]"
+        },
+        {
+            "offset": 75952,
+            "string": "最深部へ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "최심부로[END]"
+        },
+        {
+            "offset": 75968,
+            "string": "封印施設へ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "봉인 시설로[END]"
+        },
+        {
+            "offset": 75984,
+            "string": "この奥から封印施設へ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "이 안쪽에서 봉인 시설로[END]"
+        },
+        {
+            "offset": 76008,
+            "string": "ヒューゴの命令を聞こう[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "휴고의 명령을 들어보자[END]"
+        },
+        {
+            "offset": 76032,
+            "string": "飛行竜は城にあるはずだ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "비행룡은 성에 있을 거야[END]"
+        },
+        {
+            "offset": 76056,
+            "string": "マリアンを探そう[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "마리안을 찾자[END]"
+        },
+        {
+            "offset": 76080,
+            "string": "急いで屋敷に戻ろう[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "서둘러 저택으로 돌아가자[END]"
+        },
+        {
+            "offset": 76104,
+            "string": "任務の報告をしよう[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "임무 보고를 하자[END]"
+        },
+        {
+            "offset": 76128,
+            "string": "クレスタ北の砂浜を探してみよう[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "크레스타 북쪽의 해변을 찾아보자[END]"
+        },
+        {
+            "offset": 76160,
+            "string": "孤児院を探してみよう[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "고아원을 찾아보자[END]"
+        },
+        {
+            "offset": 76184,
+            "string": "クレスタにいるセインガルド兵を探そう[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "크레스타에 있는 세인가르드 병사를 찾자[END]"
+        },
+        {
+            "offset": 76224,
+            "string": "ダリルシェイドの東のクレスタへ[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "다릴쉐이드 동쪽의 크레스타로[END]"
+        },
+        {
+            "offset": 76256,
+            "string": "セインガルド城の国王のもとへ[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "세인가르드 성의 국왕에게[END]"
+        },
+        {
+            "offset": 76288,
+            "string": "早く屋敷に帰ろう[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "빨리 저택으로 돌아가자[END]"
+        },
+        {
+            "offset": 76312,
+            "string": "屋敷に帰ろう[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "저택으로 돌아가자[END]"
+        },
+        {
+            "offset": 76328,
+            "string": "ストレイライズ神殿へ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "스트레이라이즈 신전으로[END]"
+        },
+        {
+            "offset": 76352,
+            "string": "ハーメンツの村は王都の西[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "하멘츠 마을은 왕도의 서쪽[END]"
+        },
+        {
+            "offset": 76384,
+            "string": "ハーメンツの村へ向かおう[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "하멘츠 마을로 향하자[END]"
+        },
+        {
+            "offset": 76416,
+            "string": "セインガルド城へ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "세인가르드 성으로[END]"
+        },
+        {
+            "offset": 76440,
+            "string": "モリュウ領を探そう[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "모류 영지를 찾자[END]"
+        },
+        {
+            "offset": 76464,
+            "string": "ロープを探そう[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "로프를 찾자[END]"
+        },
+        {
+            "offset": 76480,
+            "string": "シデン領に引き返すぞ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "죠니 영지로 돌아가자[END]"
+        },
+        {
+            "offset": 76504,
+            "string": "シデン領へ戻るぞ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "죠니 영지로 돌아가자[END]"
+        },
+        {
+            "offset": 76528,
+            "string": "港から武装船団のところへ[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "항구에서 무장 선단으로[END]"
+        },
+        {
+            "offset": 76560,
+            "string": "街の外に用はない[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "거리 밖에 볼일 없어[END]"
+        },
+        {
+            "offset": 76584,
+            "string": "アイスキャンディー屋を探しに[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "아이스캔디 가게를 찾으러[END]"
+        },
+        {
+            "offset": 76616,
+            "string": "正面口へ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "정문으로[END]"
+        },
+        {
+            "offset": 76632,
+            "string": "グレバムを追うぞ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "그레밤을 쫓자[END]"
+        },
+        {
+            "offset": 76656,
+            "string": "街の外ではなく、神殿の裏口へ[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "거리 밖이 아니라 신전 뒷문으로[END]"
+        },
+        {
+            "offset": 76688,
+            "string": "そろそろ宿屋に戻ろう[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "슬슬 여관으로 돌아가자[END]"
+        },
+        {
+            "offset": 76712,
+            "string": "外は危険[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "밖은 위험해[END]"
+        },
+        {
+            "offset": 76728,
+            "string": "街の中を見よう[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "거리 안을 보자[END]"
+        },
+        {
+            "offset": 76744,
+            "string": "港に行こう[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "항구로 가자[END]"
+        },
+        {
+            "offset": 76760,
+            "string": "マリアンのところへ……[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "마리안에게로……[END]"
+        },
+        {
+            "offset": 76784,
+            "string": "会っておきたい……[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "만나고 싶어……[END]"
+        },
+        {
+            "offset": 76808,
+            "string": "陛下へ報告[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "폐하께 보고[END]"
+        },
+        {
+            "offset": 76824,
+            "string": "国王のもとへ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "국왕에게[END]"
+        },
+        {
+            "offset": 76840,
+            "string": "急いで港へ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "서둘러 항구로[END]"
+        },
+        {
+            "offset": 76856,
+            "string": "港へ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "항구로[END]"
+        },
+        {
+            "offset": 76864,
+            "string": "ダリルシェイドへ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "다릴쉐이드로[END]"
+        },
+        {
+            "offset": 76888,
+            "string": "隠し通路から奥へ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "숨겨진 통로에서 안쪽으로[END]"
+        },
+        {
+            "offset": 76912,
+            "string": "大聖堂へ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "대성당으로[END]"
+        },
+        {
+            "offset": 76928,
+            "string": "神殿内へ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "신전 안으로[END]"
+        },
+        {
+            "offset": 76944,
+            "string": "ストレイライズ神殿はダリルシェイドの北[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전은 다릴쉐이드 북쪽[END]"
+        },
+        {
+            "offset": 76984,
+            "string": "屋敷に戻りましょう[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "저택으로 돌아가죠[END]"
+        },
+        {
+            "offset": 77008,
+            "string": "屋敷に戻ろう[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "저택으로 돌아가자[END]"
+        },
+        {
+            "offset": 77024,
+            "string": "セインガルド城の地下牢へ[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "세인가르드 성의 지하 감옥으로[END]"
+        },
+        {
+            "offset": 77056,
+            "string": "セインガルド城の王のもとへ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "세인가르드 성의 왕에게[END]"
+        },
+        {
+            "offset": 77088,
+            "string": "ダリルシェイドはハーメンツの東[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "다릴쉐이드는 하멘츠의 동쪽[END]"
+        },
+        {
+            "offset": 77120,
+            "string": "ダリルシェイドへ帰ろう[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "다릴쉐이드로 돌아가자[END]"
+        },
+        {
+            "offset": 77144,
+            "string": "ハーメンツへ行こう[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "하멘츠로 가자[END]"
+        },
+        {
+            "offset": 77168,
+            "string": "城に用はない[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "성에 볼일 없어[END]"
+        },
+        {
+            "offset": 77184,
+            "string": "ハーメンツの村はダリルシェイドの西[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "하멘츠 마을은 다릴쉐이드의 서쪽[END]"
+        },
+        {
+            "offset": 77224,
+            "string": "ダリルシェイドの西にあるハーメンツの村へ[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "다릴쉐이드 서쪽에 있는 하멘츠 마을로[END]"
+        },
+        {
+            "offset": 77272,
+            "string": "ハンバーガー[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "햄버거[END]"
+        },
+        {
+            "offset": 77288,
+            "string": "おにぎり[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "주먹밥[END]"
+        },
+        {
+            "offset": 77304,
+            "string": "ピコハン[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "피코한[END]"
+        },
+        {
+            "offset": 77320,
+            "string": "[Philia]のシャンプー[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Philia]의 샴푸[END]"
+        },
+        {
+            "offset": 77344,
+            "string": "喉渇いたね[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "목 마르네[END]"
+        },
+        {
+            "offset": 77360,
+            "string": "[Philia]のメガネ２[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Philia]의 안경 2[END]"
+        },
+        {
+            "offset": 77376,
+            "string": "お別れ！？[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "작별!?[END]"
+        },
+        {
+            "offset": 77392,
+            "string": "ここは？[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "여긴?[END]"
+        },
+        {
+            "offset": 77408,
+            "string": "[Lion]とシャルの喧嘩[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Lion]과 샤르의 싸움[END]"
+        },
+        {
+            "offset": 77432,
+            "string": "島に見えた建物[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "섬에서 보인 건물[END]"
+        },
+        {
+            "offset": 77448,
+            "string": "砂浜[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "모래사장[END]"
+        },
+        {
+            "offset": 77456,
+            "string": "優しい坊ちゃんはイヤだ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "착한 도련님은 싫어[END]"
+        },
+        {
+            "offset": 77480,
+            "string": "母のこと[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "어머니의 일[END]"
+        },
+        {
+            "offset": 77496,
+            "string": "いい湯かな？[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "좋은 온천인가?[END]"
+        },
+        {
+            "offset": 77512,
+            "string": "別に意味はない。ただの暇つぶしだ[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "별 의미 없어. 그냥 심심풀이야[END]"
+        },
+        {
+            "offset": 77552,
+            "string": "泣きシャルティエ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "우는 샤르띠에[END]"
+        },
+        {
+            "offset": 77576,
+            "string": "ウイルとジョブス[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "윌과 잡스[END]"
+        },
+        {
+            "offset": 77600,
+            "string": "めがね[Lion][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "안경 [Lion][END]"
+        },
+        {
+            "offset": 77616,
+            "string": "家族……[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "가족……[END]"
+        },
+        {
+            "offset": 77632,
+            "string": "いつでもいっしょ？！[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "언제나 함께?![END]"
+        },
+        {
+            "offset": 77656,
+            "string": "いらいら[Lion][END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "짜증나는 [Lion][END]"
+        },
+        {
+            "offset": 77672,
+            "string": "もてもて[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "인기 많아[END]"
+        },
+        {
+            "offset": 77688,
+            "string": "アイスキャンディー[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "아이스캔디[END]"
+        },
+        {
+            "offset": 77712,
+            "string": "僕たちふたり[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "우리 둘[END]"
+        },
+        {
+            "offset": 77728,
+            "string": "アトワイトがいれば生きていけるかもね。水出すし[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "아트와이트가 있으면 살 수 있을지도. 물도 나오고[END]"
+        },
+        {
+            "offset": 77776,
+            "string": "シャルの心配[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "샤르의 걱정[END]"
+        },
+        {
+            "offset": 77792,
+            "string": "ヒューゴの計算[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "휴고의 계산[END]"
+        },
+        {
+            "offset": 77808,
+            "string": "ったく、ディムロスとアトワイト[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "정말, 딤로스와 아트와이트[END]"
+        },
+        {
+            "offset": 77840,
+            "string": "ヒューゴと[Rutee][END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "휴고와 [Rutee][END]"
+        },
+        {
+            "offset": 77856,
+            "string": "相手は３人！[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "상대는 3명![END]"
+        },
+        {
+            "offset": 77872,
+            "string": "マリアンの……[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "마리안의……[END]"
+        },
+        {
+            "offset": 77888,
+            "string": "なぜ？[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "왜?[END]"
+        },
+        {
+            "offset": 77896,
+            "string": "他のソーディアン[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "다른 소디언[END]"
+        },
+        {
+            "offset": 77920,
+            "string": "ギャラリー[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "갤러리[END]"
+        },
+        {
+            "offset": 77936,
+            "string": "ずっと一緒でした[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "계속 함께였어요[END]"
+        },
+        {
+            "offset": 77960,
+            "string": "立体映像は面白い[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "입체 영상은 재밌어[END]"
+        },
+        {
+            "offset": 77984,
+            "string": "レイノルズは役に立つ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "레이놀즈는 쓸모 있어[END]"
+        },
+        {
+            "offset": 78008,
+            "string": "テイルズオブデスティニー[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "테일즈 오브 데스티니[END]"
+        },
+        {
+            "offset": 78040,
+            "string": "テイルズオブシリーズ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "테일즈 오브 시리즈[END]"
+        },
+        {
+            "offset": 78064,
+            "string": "ジ・アビス[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "디 어비스[END]"
+        },
+        {
+            "offset": 78080,
+            "string": "ファンタジア[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "판타지아[END]"
+        },
+        {
+            "offset": 78096,
+            "string": "特典映像・楽屋[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "특전 영상・분장실[END]"
+        },
+        {
+            "offset": 78112,
+            "string": "ＮＧ・２[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "NG・2[END]"
+        },
+        {
+            "offset": 78128,
+            "string": "ＮＧ・１[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "NG・1[END]"
+        },
+        {
+            "offset": 78144,
+            "string": "レンブラントの才能[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "렘브란트의 재능[END]"
+        },
+        {
+            "offset": 78168,
+            "string": "あいつが俺で、俺がそいつで、そいつが……[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "그 녀석이 나고, 내가 그 녀석이고, 그 녀석이……[END]"
+        },
+        {
+            "offset": 78216,
+            "string": "夢のような時間[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "꿈같은 시간[END]"
+        },
+        {
+            "offset": 78232,
+            "string": "[Philia]の本心[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Philia]의 본심[END]"
+        },
+        {
+            "offset": 78248,
+            "string": "バティスタボムって[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "바티스타 폭탄이란[END]"
+        },
+        {
+            "offset": 78272,
+            "string": "占い・７[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "점괘・7[END]"
+        },
+        {
+            "offset": 78288,
+            "string": "占い・６[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "점괘・6[END]"
+        },
+        {
+            "offset": 78304,
+            "string": "占い・５[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "점괘・5[END]"
+        },
+        {
+            "offset": 78320,
+            "string": "占い・４[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "점괘・4[END]"
+        },
+        {
+            "offset": 78336,
+            "string": "占い・３[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "점괘・3[END]"
+        },
+        {
+            "offset": 78352,
+            "string": "占い・２[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "점괘・2[END]"
+        },
+        {
+            "offset": 78368,
+            "string": "占い・１[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "점괘・1[END]"
+        },
+        {
+            "offset": 78384,
+            "string": "[Stahn]探検隊[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Stahn] 탐험대[END]"
+        },
+        {
+            "offset": 78400,
+            "string": "まだまだ練習中[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "아직 연습 중[END]"
+        },
+        {
+            "offset": 78416,
+            "string": "全問正解！[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "전부 정답![END]"
+        },
+        {
+            "offset": 78432,
+            "string": "せっぱ！[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "서두르자![END]"
+        },
+        {
+            "offset": 78448,
+            "string": "そもさん！[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "소마 씨![END]"
+        },
+        {
+            "offset": 78464,
+            "string": "かけっこ・２[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "달리기・2[END]"
+        },
+        {
+            "offset": 78480,
+            "string": "かけっこ・１[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "달리기・1[END]"
+        },
+        {
+            "offset": 78496,
+            "string": "姉の想い[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "언니의 마음[END]"
+        },
+        {
+            "offset": 78512,
+            "string": "この街に用はない[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "이 거리에 볼일 없어[END]"
+        },
+        {
+            "offset": 78536,
+            "string": "浮遊クルーザーが最優先[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "부유 크루저가 최우선이야[END]"
+        },
+        {
+            "offset": 78560,
+            "string": "ラディスロウで中和装置を受け取ろう[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "라디슬로우에서 중화 장치를 받자[END]"
+        },
+        {
+            "offset": 78600,
+            "string": "イクティノスを先に[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "익티노스를 먼저[END]"
+        },
+        {
+            "offset": 78624,
+            "string": "守護竜が重要だ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "수호룡이 중요해[END]"
+        },
+        {
+            "offset": 78640,
+            "string": "休もう[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "쉬자[END]"
+        },
+        {
+            "offset": 78648,
+            "string": "お城へ行こう[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "성으로 가자[END]"
+        },
+        {
+            "offset": 78664,
+            "string": "港へ向かおう[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "항구로 향하자[END]"
+        },
+        {
+            "offset": 78680,
+            "string": "とにかく飛行竜に[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "일단 비행룡으로[END]"
+        },
+        {
+            "offset": 78704,
+            "string": "飛行竜に乗ろう[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "비행룡에 타자[END]"
+        },
+        {
+            "offset": 78720,
+            "string": "とにかく海竜に[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "일단 해룡으로[END]"
+        },
+        {
+            "offset": 78736,
+            "string": "海竜に乗ろう[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "해룡에 타자[END]"
+        },
+        {
+            "offset": 78752,
+            "string": "ここから北西に[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "여기서 북서쪽으로[END]"
+        },
+        {
+            "offset": 78768,
+            "string": "ここから西に[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "여기서 서쪽으로[END]"
+        },
+        {
+            "offset": 78784,
+            "string": "ここから南西に[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "여기서 남서쪽으로[END]"
+        },
+        {
+            "offset": 78800,
+            "string": "ここから南に[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "여기서 남쪽으로[END]"
+        },
+        {
+            "offset": 78816,
+            "string": "ここから南東に[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "여기서 남동쪽으로[END]"
+        },
+        {
+            "offset": 78832,
+            "string": "ここから東に[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "여기서 동쪽으로[END]"
+        },
+        {
+            "offset": 78848,
+            "string": "ここから北東に[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "여기서 북동쪽으로[END]"
+        },
+        {
+            "offset": 78864,
+            "string": "ここから北に[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "여기서 북쪽으로[END]"
+        },
+        {
+            "offset": 78880,
+            "string": "ここにいよう[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "여기 있자[END]"
+        },
+        {
+            "offset": 78896,
+            "string": "とりあえず外に出よう[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "일단 밖으로 나가자[END]"
+        },
+        {
+            "offset": 78920,
+            "string": "しっかり調べてみよう[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "꼼꼼히 조사해보자[END]"
+        },
+        {
+            "offset": 78944,
+            "string": "街の人に話しを聞こう[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "마을 사람들에게 이야기를 들어보자[END]"
+        },
+        {
+            "offset": 78968,
+            "string": "今は他にやるべきことが[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "지금은 다른 할 일이 있어[END]"
+        },
+        {
+            "offset": 78992,
+            "string": "他にすべきことが[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "다른 할 일이 있어[END]"
+        },
+        {
+            "offset": 79016,
+            "string": "とにかく話を聞こう[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "일단 이야기를 들어보자[END]"
+        },
+        {
+            "offset": 79040,
+            "string": "まずは話を聞いてみよう[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "우선 이야기를 들어보자[END]"
+        },
+        {
+            "offset": 79064,
+            "string": "何が起きているのか確かめよう[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "무슨 일이 일어나고 있는지 확인하자[END]"
+        },
+        {
+            "offset": 79096,
+            "string": "やるべきことは[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "해야 할 일은[END]"
+        },
+        {
+            "offset": 79112,
+            "string": "他にやることが[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "다른 할 일이 있어[END]"
+        },
+        {
+            "offset": 79128,
+            "string": "そっちじゃない[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "그쪽이 아니야[END]"
+        },
+        {
+            "offset": 79144,
+            "string": "ぐずぐずするな[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "꾸물거리지 마[END]"
+        },
+        {
+            "offset": 79160,
+            "string": "急ぎましょう[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "서두릅시다[END]"
+        },
+        {
+            "offset": 79176,
+            "string": "急ごう[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "서두르자[END]"
+        },
+        {
+            "offset": 79184,
+            "string": "こっちじゃない[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "이쪽이 아니야[END]"
+        },
+        {
+            "offset": 79200,
+            "string": "早く戻れ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "빨리 돌아가[END]"
+        },
+        {
+            "offset": 79216,
+            "string": "地上を好きにはさせない[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "지상을 마음대로 하게 두지 않겠어[END]"
+        },
+        {
+            "offset": 79240,
+            "string": "ヒューゴを止めよう[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "휴고를 막자[END]"
+        },
+        {
+            "offset": 79264,
+            "string": "さっさと追うぞ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "빨리 쫓자[END]"
+        },
+        {
+            "offset": 79280,
+            "string": "外殻の上へ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "외각 위로[END]"
+        },
+        {
+            "offset": 79296,
+            "string": "神の眼の下へ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "신의 눈 아래로[END]"
+        },
+        {
+            "offset": 79312,
+            "string": "戦闘後の楽しみは[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "전투 후의 즐거움은[END]"
+        },
+        {
+            "offset": 79336,
+            "string": "たゆまぬ努力が勝利の秘訣[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "끊임없는 노력이 승리의 비결[END]"
+        },
+        {
+            "offset": 79368,
+            "string": "一長一短[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "장단점[END]"
+        },
+        {
+            "offset": 79384,
+            "string": "種育ても楽しいね[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "씨앗 키우기도 재밌네[END]"
+        },
+        {
+            "offset": 79408,
+            "string": "楽しんでます[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "즐기고 있어요[END]"
+        },
+        {
+            "offset": 79424,
+            "string": "意外と司令塔向き？[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "의외로 지휘관 감?[END]"
+        },
+        {
+            "offset": 79448,
+            "string": "野生の勘？[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "야생의 감?[END]"
+        },
+        {
+            "offset": 79464,
+            "string": "支援は任せて[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "지원은 맡겨줘[END]"
+        },
+        {
+            "offset": 79480,
+            "string": "ガルド求めてえんやこら[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "갈드를 찾아 열심히[END]"
+        },
+        {
+            "offset": 79504,
+            "string": "寝るの大好き[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "자는 거 정말 좋아해[END]"
+        },
+        {
+            "offset": 79520,
+            "string": "名前いわないの？[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "이름 안 말해?[END]"
+        },
+        {
+            "offset": 79544,
+            "string": "[Mary]の夢[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Mary]의 꿈[END]"
+        },
+        {
+            "offset": 79560,
+            "string": "みんなご苦労！[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "모두 수고했어![END]"
+        },
+        {
+            "offset": 79576,
+            "string": "兄の想い、いずこ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "오빠의 마음, 어디에[END]"
+        },
+        {
+            "offset": 79600,
+            "string": "気持ちはわかるけど[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "마음은 알겠지만[END]"
+        },
+        {
+            "offset": 79624,
+            "string": "何か忘れてませんか？[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "뭔가 잊은 거 없나요?[END]"
+        },
+        {
+            "offset": 79648,
+            "string": "言っていい事、悪い事[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "해도 되는 말, 안 되는 말[END]"
+        },
+        {
+            "offset": 79672,
+            "string": "責任の所在[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "책임의 소재[END]"
+        },
+        {
+            "offset": 79688,
+            "string": "代用可能？[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "대용 가능?[END]"
+        },
+        {
+            "offset": 79704,
+            "string": "お詫びのしるし[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "사과의 표시[END]"
+        },
+        {
+            "offset": 79720,
+            "string": "平常心[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "평정심[END]"
+        },
+        {
+            "offset": 79728,
+            "string": "あわてちゃダメよ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "당황하면 안 돼요[END]"
+        },
+        {
+            "offset": 79752,
+            "string": "回復してよ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "회복해줘[END]"
+        },
+        {
+            "offset": 79768,
+            "string": "満腹だね[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "배부르네[END]"
+        },
+        {
+            "offset": 79784,
+            "string": "これだけは嫌だった[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "이것만은 싫었어[END]"
+        },
+        {
+            "offset": 79808,
+            "string": "レンズハンターの生き様[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "렌즈 헌터의 삶[END]"
+        },
+        {
+            "offset": 79832,
+            "string": "魅惑の輝き[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "매혹의 빛[END]"
+        },
+        {
+            "offset": 79848,
+            "string": "過去の亡霊[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "과거의 망령[END]"
+        },
+        {
+            "offset": 79864,
+            "string": "女の友情？[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "여자의 우정?[END]"
+        },
+        {
+            "offset": 79880,
+            "string": "伝説のチャンピオン[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "전설의 챔피언[END]"
+        },
+        {
+            "offset": 79904,
+            "string": "強さの秘訣[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "강함의 비결[END]"
+        },
+        {
+            "offset": 79920,
+            "string": "女の戦い？[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "여자의 싸움?[END]"
+        },
+        {
+            "offset": 79936,
+            "string": "未来のチャンピオンは君だ!?[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "미래의 챔피언은 너다!?[END]"
+        },
+        {
+            "offset": 79968,
+            "string": "さらに熱い視線で[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "더욱 뜨거운 시선으로[END]"
+        },
+        {
+            "offset": 79992,
+            "string": "熱い視線で[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "뜨거운 시선으로[END]"
+        },
+        {
+            "offset": 80008,
+            "string": "不束者ですが[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "부족하지만[END]"
+        },
+        {
+            "offset": 80024,
+            "string": "驚愕の事実[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "충격적인 사실[END]"
+        },
+        {
+            "offset": 80040,
+            "string": "海竜にて[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "해룡에서[END]"
+        },
+        {
+            "offset": 80056,
+            "string": "その勇気、奮い立たせて[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "그 용기, 불태워라[END]"
+        },
+        {
+            "offset": 80080,
+            "string": "光ある世界を取り戻せ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "빛나는 세상을 되찾아라[END]"
+        },
+        {
+            "offset": 80104,
+            "string": "千年の野望に終止符を打て[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "천년의 야망에 종지부를 찍어라[END]"
+        },
+        {
+            "offset": 80136,
+            "string": "敵の総本山[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "적의 총본산[END]"
+        },
+        {
+            "offset": 80152,
+            "string": "ダイクロフトへ！[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "다이크로프트로![END]"
+        },
+        {
+            "offset": 80176,
+            "string": "吹き飛ばすぜ！[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "날려버리겠어![END]"
+        },
+        {
+            "offset": 80192,
+            "string": "俺様がぶっ倒す！[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "내가 때려눕힐 거야![END]"
+        },
+        {
+            "offset": 80216,
+            "string": "やっつけましょう！[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "해치워버립시다![END]"
+        },
+        {
+            "offset": 80240,
+            "string": "倒すのだ！[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "물리치자![END]"
+        },
+        {
+            "offset": 80256,
+            "string": "全力で！[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "전력으로![END]"
+        },
+        {
+            "offset": 80272,
+            "string": "急げ！[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "서둘러![END]"
+        },
+        {
+            "offset": 80280,
+            "string": "なんとしても！[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "어떻게든![END]"
+        },
+        {
+            "offset": 80296,
+            "string": "突き進め！[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "돌진하라![END]"
+        },
+        {
+            "offset": 80312,
+            "string": "ミクトランに勝つぞ！[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "믹트란을 이기자![END]"
+        },
+        {
+            "offset": 80336,
+            "string": "ミクトランを打倒せよ！[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "믹트란을 타도하라![END]"
+        },
+        {
+            "offset": 80360,
+            "string": "全ては明日に[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "모든 것은 내일로[END]"
+        },
+        {
+            "offset": 80376,
+            "string": "どこ行く気？[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "어디 갈 생각?[END]"
+        },
+        {
+            "offset": 80392,
+            "string": "今行くべきなのは……[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "지금 가야 할 곳은……[END]"
+        },
+        {
+            "offset": 80416,
+            "string": "街の中にいよう[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "거리 안에 있자[END]"
+        },
+        {
+            "offset": 80432,
+            "string": "飛行竜でダイクロフトへ！[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "비행룡으로 다이크로프트로![END]"
+        },
+        {
+            "offset": 80464,
+            "string": "いざダイクロフトへ！[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "자, 다이크로프트로![END]"
+        },
+        {
+            "offset": 80488,
+            "string": "集積レンズ砲へ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "집적 렌즈포로[END]"
+        },
+        {
+            "offset": 80504,
+            "string": "集積レンズ砲のところへ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "집적 렌즈포가 있는 곳으로[END]"
+        },
+        {
+            "offset": 80528,
+            "string": "仲間の下へ戻ろう[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "동료들에게 돌아가자[END]"
+        },
+        {
+            "offset": 80552,
+            "string": "今、やるべき事[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "지금, 해야 할 일[END]"
+        },
+        {
+            "offset": 80568,
+            "string": "休みたくなったら宿へ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "쉬고 싶으면 여관으로[END]"
+        },
+        {
+            "offset": 80592,
+            "string": "明日にそなえて宿屋へ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "내일을 위해 여관으로[END]"
+        },
+        {
+            "offset": 80616,
+            "string": "話はダリルシェイドで[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "이야기는 다릴쉐이드에서[END]"
+        },
+        {
+            "offset": 80640,
+            "string": "[Philia]のイメージチェンジ[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Philia]의 이미지 체인지[END]"
+        },
+        {
+            "offset": 80664,
+            "string": "レンズをレイノルズに届けよう[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "렌즈를 레이놀즈에게 전달하자[END]"
+        },
+        {
+            "offset": 80696,
+            "string": "トウケイ領にレンズを求めて[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "토케이 영지에서 렌즈를 찾아[END]"
+        },
+        {
+            "offset": 80728,
+            "string": "カルビオラにレンズを求めて[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "칼비올라에서 렌즈를 찾아[END]"
+        },
+        {
+            "offset": 80760,
+            "string": "ハイデルベルグにレンズを求めて[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "하이델베르크에서 렌즈를 찾아[END]"
+        },
+        {
+            "offset": 80792,
+            "string": "ノイシュタットにレンズを求めて[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "노이슈타트에서 렌즈를 찾아[END]"
+        },
+        {
+            "offset": 80824,
+            "string": "レンズを求めて世界中へ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "렌즈를 찾아 전 세계로[END]"
+        },
+        {
+            "offset": 80848,
+            "string": "あくまで前向きに[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "어디까지나 긍정적으로[END]"
+        },
+        {
+            "offset": 80872,
+            "string": "歌には不思議な力があります[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "노래에는 신비한 힘이 있어요[END]"
+        },
+        {
+            "offset": 80904,
+            "string": "巡り合せ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "운명[END]"
+        },
+        {
+            "offset": 80920,
+            "string": "[Johnny]の曲作り[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Johnny]의 작곡[END]"
+        },
+        {
+            "offset": 80936,
+            "string": "[Chelsea]の夢は？[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Chelsea]의 꿈은?[END]"
+        },
+        {
+            "offset": 80952,
+            "string": "レイノルズに会いにセインガルド城へ[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "레이놀즈를 만나러 세인가르드 성으로[END]"
+        },
+        {
+            "offset": 80992,
+            "string": "飛行竜はダリルシェイドのそばに[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "비행룡은 다릴쉐이드 근처에[END]"
+        },
+        {
+            "offset": 81024,
+            "string": "ダリルシェイドはジャンクランドの南東[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "다릴쉐이드는 정크랜드의 남동쪽[END]"
+        },
+        {
+            "offset": 81064,
+            "string": "ひとまず外へ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "일단 밖으로[END]"
+        },
+        {
+            "offset": 81080,
+            "string": "ベルセリウムを見つけよう[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "베르셀리움을 찾자[END]"
+        },
+        {
+            "offset": 81112,
+            "string": "ベルセリウムを探そう[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "베르셀리움을 찾자[END]"
+        },
+        {
+            "offset": 81136,
+            "string": "産業廃棄物の山へ行こう[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "산업 폐기물 더미로 가자[END]"
+        },
+        {
+            "offset": 81160,
+            "string": "張り切る[Chelsea][END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "의욕 넘치는 [Chelsea][END]"
+        },
+        {
+            "offset": 81176,
+            "string": "誰が好き？（男子編）[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "누가 좋아? (남자편)[END]"
+        },
+        {
+            "offset": 81200,
+            "string": "誰が好き？（女子編）[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "누가 좋아? (여자편)[END]"
+        },
+        {
+            "offset": 81224,
+            "string": "[Johnny]の夢は？[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Johnny]의 꿈은?[END]"
+        },
+        {
+            "offset": 81240,
+            "string": "[Woodrow]の夢は？[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Woodrow]의 꿈은?[END]"
+        },
+        {
+            "offset": 81256,
+            "string": "今のままの君で[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "지금 그대로의 너로[END]"
+        },
+        {
+            "offset": 81272,
+            "string": "カルバレイスの西のジャンクランドへ[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "칼바레이스 서쪽의 정크랜드로[END]"
+        },
+        {
+            "offset": 81312,
+            "string": "ジャンクランドはカルバレイスの西[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "정크랜드는 칼바레이스의 서쪽[END]"
+        },
+        {
+            "offset": 81352,
+            "string": "いざ最終試練[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "자, 최종 시련으로[END]"
+        },
+        {
+            "offset": 81368,
+            "string": "目指すは最深部[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "목표는 최심부[END]"
+        },
+        {
+            "offset": 81384,
+            "string": "実験道具はどこに？[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "실험 도구는 어디에?[END]"
+        },
+        {
+            "offset": 81408,
+            "string": "がんばる[Chelsea][END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "열심히 하는 [Chelsea][END]"
+        },
+        {
+            "offset": 81424,
+            "string": "ただいま密談中[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "지금 밀담 중[END]"
+        },
+        {
+            "offset": 81440,
+            "string": "[Chelsea]の感覚[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Chelsea]의 감각[END]"
+        },
+        {
+            "offset": 81456,
+            "string": "何の歌かな？[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "무슨 노래일까?[END]"
+        },
+        {
+            "offset": 81472,
+            "string": "研究所はダリルシェイドの目の前[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "연구소는 다릴쉐이드 바로 앞[END]"
+        },
+        {
+            "offset": 81504,
+            "string": "研究所はダリルシェイドの西[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "연구소는 다릴쉐이드 서쪽[END]"
+        },
+        {
+            "offset": 81536,
+            "string": "ドラゴンでソーディアン研究所へ[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "드래곤으로 소디언 연구소로[END]"
+        },
+        {
+            "offset": 81568,
+            "string": "ドラゴンに乗って[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "드래곤에 타고[END]"
+        },
+        {
+            "offset": 81592,
+            "string": "謁見の間へ急げ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "알현실로 서둘러[END]"
+        },
+        {
+            "offset": 81608,
+            "string": "剣と喋るのはどんな感じ？[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "검과 대화하는 건 어떤 느낌?[END]"
+        },
+        {
+            "offset": 81640,
+            "string": "[Kongman]の特訓[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Kongman]의 특훈[END]"
+        },
+        {
+            "offset": 81656,
+            "string": "レイノルズの研究室は城の中[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "레이놀즈의 연구실은 성 안에[END]"
+        },
+        {
+            "offset": 81688,
+            "string": "レイノルズの研究室へ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "레이놀즈의 연구실로[END]"
+        },
+        {
+            "offset": 81712,
+            "string": "宿屋へ向かおう[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "여관으로 향하자[END]"
+        },
+        {
+            "offset": 81728,
+            "string": "モンスターからダリルシェイドを守れ[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "몬스터로부터 다릴쉐이드를 지켜라[END]"
+        },
+        {
+            "offset": 81768,
+            "string": "ダリルシェイドへ急ごう[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "다릴쉐이드로 서두르자[END]"
+        },
+        {
+            "offset": 81792,
+            "string": "ダリルシェイドへ戻れ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "다릴쉐이드로 돌아가[END]"
+        },
+        {
+            "offset": 81816,
+            "string": "孤児院へ急げ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "고아원으로 서둘러[END]"
+        },
+        {
+            "offset": 81832,
+            "string": "ファンダリアはどうなった？[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "팬더리아는 어떻게 됐지?[END]"
+        },
+        {
+            "offset": 81864,
+            "string": "クレスタへ急げ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "크레스타로 서둘러[END]"
+        },
+        {
+            "offset": 81880,
+            "string": "ライバル出現？[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "라이벌 등장?[END]"
+        },
+        {
+            "offset": 81896,
+            "string": "久々の再会[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "오랜만의 재회[END]"
+        },
+        {
+            "offset": 81912,
+            "string": "生きている人間のために[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "살아있는 사람들을 위해[END]"
+        },
+        {
+            "offset": 81936,
+            "string": "ヒューゴの野望を食い止めろ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "휴고의 야망을 저지해라[END]"
+        },
+        {
+            "offset": 81968,
+            "string": "ベルクラント最上部へ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "벨크란트 최상부로[END]"
+        },
+        {
+            "offset": 81992,
+            "string": "ベルクラント最上部を目指せ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "벨크란트 최상부를 목표로[END]"
+        },
+        {
+            "offset": 82024,
+            "string": "ヒューゴの真意って？[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "휴고의 진의는?[END]"
+        },
+        {
+            "offset": 82048,
+            "string": "浮遊クルーザーは奥に[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "부유 크루저는 안쪽에[END]"
+        },
+        {
+            "offset": 82072,
+            "string": "浮遊クルーザーを探そう[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "부유 크루저를 찾자[END]"
+        },
+        {
+            "offset": 82096,
+            "string": "外殻を歩いてミックハイルへ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "외각을 걸어서 믹하일로[END]"
+        },
+        {
+            "offset": 82128,
+            "string": "シュサイアを出てミックハイルへ[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "슈사이아를 나와 믹하일로[END]"
+        },
+        {
+            "offset": 82160,
+            "string": "シュサイアを抜けてミックハイルへ[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "슈사이아를 지나 믹하일로[END]"
+        },
+        {
+            "offset": 82200,
+            "string": "[Philia]暴走？[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Philia] 폭주?[END]"
+        },
+        {
+            "offset": 82216,
+            "string": "ソーディアン会議[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "소디언 회의[END]"
+        },
+        {
+            "offset": 82240,
+            "string": "もしもーし[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "여보세요[END]"
+        },
+        {
+            "offset": 82256,
+            "string": "シュサイアからミックハイルへ[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "슈사이아에서 믹하일로[END]"
+        },
+        {
+            "offset": 82288,
+            "string": "シュサイア経由でミックハイルへ[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "슈사이아 경유로 믹하일로[END]"
+        },
+        {
+            "offset": 82320,
+            "string": "リトラーの下へ急げ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "리트라에게 서둘러 가자[END]"
+        },
+        {
+            "offset": 82344,
+            "string": "ラディスロウへ戻るぞ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "라디슬로우로 돌아가자[END]"
+        },
+        {
+            "offset": 82368,
+            "string": "目指すはラディスロウ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "목표는 라디슬로우[END]"
+        },
+        {
+            "offset": 82392,
+            "string": "みんなの所に戻ろう[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "모두에게 돌아가자[END]"
+        },
+        {
+            "offset": 82416,
+            "string": "中枢部へ行ってみよう[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "중추부로 가보자[END]"
+        },
+        {
+            "offset": 82440,
+            "string": "イレーヌは中枢部に？[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "일레느는 중추부에?[END]"
+        },
+        {
+            "offset": 82464,
+            "string": "ヘルレイオスを攻略せよ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "헬레이오스를 공략하라[END]"
+        },
+        {
+            "offset": 82488,
+            "string": "目指すはヘルレイオス[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "목표는 헬레이오스[END]"
+        },
+        {
+            "offset": 82512,
+            "string": "外殻に出てヘルレイオスへ[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "외각으로 나가 헬레이오스로[END]"
+        },
+        {
+            "offset": 82544,
+            "string": "ロディオンを抜けてヘルレイオスへ[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "로디온을 지나 헬레이오스로[END]"
+        },
+        {
+            "offset": 82584,
+            "string": "イクティノスの苦痛[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "익티노스의 고통[END]"
+        },
+        {
+            "offset": 82608,
+            "string": "ソーディアンマスターの資質とは？[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "소디언 마스터의 자질이란?[END]"
+        },
+        {
+            "offset": 82648,
+            "string": "イクティノスってどんな人？[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "익티노스는 어떤 사람?[END]"
+        },
+        {
+            "offset": 82680,
+            "string": "一仕事終えて[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "한 일을 마치고[END]"
+        },
+        {
+            "offset": 82696,
+            "string": "イレーヌの真意は？[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "일레느의 진의는?[END]"
+        },
+        {
+            "offset": 82720,
+            "string": "天敵？[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "천적?[END]"
+        },
+        {
+            "offset": 82728,
+            "string": "勉強になります[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "공부가 됩니다[END]"
+        },
+        {
+            "offset": 82744,
+            "string": "天上人の想いは？[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "천상인의 마음은?[END]"
+        },
+        {
+            "offset": 82768,
+            "string": "まだ開かない[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "아직 열리지 않아[END]"
+        },
+        {
+            "offset": 82784,
+            "string": "ロディオンからヘルレイオスへ[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "로디온에서 헬레이오스로[END]"
+        },
+        {
+            "offset": 82816,
+            "string": "ロディオン経由でヘルレイオスへ[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "로디온 경유로 헬레이오스로[END]"
+        },
+        {
+            "offset": 82848,
+            "string": "ラディスロウへ戻れ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "라디슬로우로 돌아가라[END]"
+        },
+        {
+            "offset": 82872,
+            "string": "アンスズーンからイグナシーへ[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "안스준에서 이그나시로[END]"
+        },
+        {
+            "offset": 82904,
+            "string": "アンスズーン経由でイグナシーへ[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "안스준 경유로 이그나시로[END]"
+        },
+        {
+            "offset": 82936,
+            "string": "守護竜を止めよう[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "수호룡을 멈추자[END]"
+        },
+        {
+            "offset": 82960,
+            "string": "守護竜を止めろ！[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "수호룡을 멈춰라![END]"
+        },
+        {
+            "offset": 82984,
+            "string": "クラウディスへ急げ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "클라우디스로 서둘러[END]"
+        },
+        {
+            "offset": 83008,
+            "string": "アンスズーンの外へ出よう[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "안스준 밖으로 나가자[END]"
+        },
+        {
+            "offset": 83040,
+            "string": "中央のメインシステムに急げ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "중앙의 메인 시스템으로 서둘러[END]"
+        },
+        {
+            "offset": 83072,
+            "string": "ねずみを捕まえろ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "쥐를 잡아라[END]"
+        },
+        {
+            "offset": 83096,
+            "string": "エネルギーユニットを取り戻せ[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "에너지 유닛을 되찾아라[END]"
+        },
+        {
+            "offset": 83128,
+            "string": "警備ユニットを見つけろ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "경비 유닛을 찾아라[END]"
+        },
+        {
+            "offset": 83152,
+            "string": "アンスズーンを出てクラウディスへ[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "안스준을 나와 클라우디스로[END]"
+        },
+        {
+            "offset": 83192,
+            "string": "真剣なまなざし？[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "진지한 눈빛?[END]"
+        },
+        {
+            "offset": 83216,
+            "string": "[Philia]の夢は？[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Philia]의 꿈은?[END]"
+        },
+        {
+            "offset": 83232,
+            "string": "暗いなあ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "어둡구나[END]"
+        },
+        {
+            "offset": 83248,
+            "string": "転送装置を確保せよ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "전송 장치를 확보하라[END]"
+        },
+        {
+            "offset": 83272,
+            "string": "ボムの作成は危険がいっぱい[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "폭탄 제작은 위험이 가득[END]"
+        },
+        {
+            "offset": 83304,
+            "string": "[Philia]の実験[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Philia]의 실험[END]"
+        },
+        {
+            "offset": 83320,
+            "string": "転送装置ってなんですか？[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "전송 장치가 뭔가요?[END]"
+        },
+        {
+            "offset": 83352,
+            "string": "観察者[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "관찰자[END]"
+        },
+        {
+            "offset": 83360,
+            "string": "今は外に出るべきじゃないな[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "지금은 밖에 나가면 안 되겠어[END]"
+        },
+        {
+            "offset": 83392,
+            "string": "外殻を通ってイグナシーへ[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "외각을 통해 이그나시로[END]"
+        },
+        {
+            "offset": 83424,
+            "string": "イグナシーへ向かうぞ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "이그나시로 향하자[END]"
+        },
+        {
+            "offset": 83448,
+            "string": "目指すはイグナシー[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "목표는 이그나시[END]"
+        },
+        {
+            "offset": 83472,
+            "string": "[Rutee]の様子を見に行こう[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Rutee]의 상태를 보러 가자[END]"
+        },
+        {
+            "offset": 83496,
+            "string": "急いで中枢部へ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "서둘러 중추부로[END]"
+        },
+        {
+            "offset": 83512,
+            "string": "[Kongman]の日課[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Kongman]의 일과[END]"
+        },
+        {
+            "offset": 83528,
+            "string": "似たもの同士[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "비슷한 사람들[END]"
+        },
+        {
+            "offset": 83544,
+            "string": "その髪、邪魔にならない？[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "그 머리, 방해되지 않아?[END]"
+        },
+        {
+            "offset": 83576,
+            "string": "天上軍の猛攻[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "천상군의 맹공[END]"
+        },
+        {
+            "offset": 83592,
+            "string": "女は偉大だ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "여자는 위대해[END]"
+        },
+        {
+            "offset": 83608,
+            "string": "ラディスロウへ戻ろう[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "라디슬로우로 돌아가자[END]"
+        },
+        {
+            "offset": 83632,
+            "string": "ラディスロウはカルバレイスの東に[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "라디슬로우는 칼바레이스의 동쪽에[END]"
+        },
+        {
+            "offset": 83672,
+            "string": "神殿を出よう[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "신전을 나가자[END]"
+        },
+        {
+            "offset": 83688,
+            "string": "Ｒキーは一番奥に[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "R키는 가장 안쪽에[END]"
+        },
+        {
+            "offset": 83712,
+            "string": "Ｒキーを入手せよ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "R키를 입수하라[END]"
+        },
+        {
+            "offset": 83736,
+            "string": "[Kongman]の夢は？[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Kongman]의 꿈은?[END]"
+        },
+        {
+            "offset": 83752,
+            "string": "封印は厳重に[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "봉인은 철저하게[END]"
+        },
+        {
+            "offset": 83768,
+            "string": "怪談っぽい？[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "괴담 같아?[END]"
+        },
+        {
+            "offset": 83784,
+            "string": "リーネ近郊の湾に遺跡が[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "리네 근처 만에 유적이[END]"
+        },
+        {
+            "offset": 83808,
+            "string": "遺跡はリーネの近く[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "유적은 리네 근처[END]"
+        },
+        {
+            "offset": 83832,
+            "string": "リトラーはラディスロウの中枢部に[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "리트라는 라디슬로우의 중추부에[END]"
+        },
+        {
+            "offset": 83872,
+            "string": "一刻も早くラディスロウへ[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "한시라도 빨리 라디슬로우로[END]"
+        },
+        {
+            "offset": 83904,
+            "string": "カルバレイスの東のラディスロウへ[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "칼바레이스 동쪽의 라디슬로우로[END]"
+        },
+        {
+            "offset": 83944,
+            "string": "ラディスロウはカルバレイスの東[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "라디슬로우는 칼바레이스의 동쪽[END]"
+        },
+        {
+            "offset": 83976,
+            "string": "それぞれの想い[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "각자의 마음[END]"
+        },
+        {
+            "offset": 83992,
+            "string": "残された人々・３[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "남겨진 사람들・3[END]"
+        },
+        {
+            "offset": 84016,
+            "string": "残された人々・２[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "남겨진 사람들・2[END]"
+        },
+        {
+            "offset": 84040,
+            "string": "残された人々・１[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "남겨진 사람들・1[END]"
+        },
+        {
+            "offset": 84064,
+            "string": "リトラーってどんな人？[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "리트라는 어떤 사람?[END]"
+        },
+        {
+            "offset": 84088,
+            "string": "神の眼は洞窟のどこかに？[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "신의 눈은 동굴 어딘가에?[END]"
+        },
+        {
+            "offset": 84120,
+            "string": "オベロン社の工場へ戻ろう[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "오베론 사의 공장으로 돌아가자[END]"
+        },
+        {
+            "offset": 84152,
+            "string": "工場の中をくまなく調べよう[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "공장 안을 구석구석 조사하자[END]"
+        },
+        {
+            "offset": 84184,
+            "string": "どうして廃棄したの？[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "왜 폐기했어?[END]"
+        },
+        {
+            "offset": 84208,
+            "string": "どう思う？[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "어떻게 생각해?[END]"
+        },
+        {
+            "offset": 84224,
+            "string": "船でオベロン社の工場へ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "배로 오베론 사의 공장으로[END]"
+        },
+        {
+            "offset": 84248,
+            "string": "オベロン社の工場へは船に乗って[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "오베론 사의 공장으로는 배를 타고[END]"
+        },
+        {
+            "offset": 84280,
+            "string": "王様のもとへ急ごう[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "왕에게 서둘러 가자[END]"
+        },
+        {
+            "offset": 84304,
+            "string": "クレスタから西へ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "크레스타에서 서쪽으로[END]"
+        },
+        {
+            "offset": 84328,
+            "string": "ダリルシェイドはクレスタの西[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "다릴쉐이드는 크레스타의 서쪽[END]"
+        },
+        {
+            "offset": 84360,
+            "string": "広場で仲間と落ち合おう[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "광장에서 동료와 만나자[END]"
+        },
+        {
+            "offset": 84384,
+            "string": "[Rutee]は街のどこかに？[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Rutee]는 마을 어딘가에?[END]"
+        },
+        {
+            "offset": 84408,
+            "string": "クレスタの[Rutee]に会おう[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "크레스타의 [Rutee]를 만나자[END]"
+        },
+        {
+            "offset": 84432,
+            "string": "クレスタはダリルシェイドの東[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "크레스타는 다릴쉐이드의 동쪽[END]"
+        },
+        {
+            "offset": 84464,
+            "string": "セインガルドへ行こう[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "세인가르드로 가자[END]"
+        },
+        {
+            "offset": 84488,
+            "string": "セインガルドを目指そう[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "세인가르드를 목표로 하자[END]"
+        },
+        {
+            "offset": 84512,
+            "string": "[Woodrow]は玉座に[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Woodrow]는 왕좌에[END]"
+        },
+        {
+            "offset": 84528,
+            "string": "[Woodrow]に会いに城へ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Woodrow]를 만나러 성으로[END]"
+        },
+        {
+            "offset": 84552,
+            "string": "森を抜けて北へ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "숲을 지나 북쪽으로[END]"
+        },
+        {
+            "offset": 84568,
+            "string": "ハイデルベルグは森を抜けて北[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "하이델베르크는 숲을 지나 북쪽[END]"
+        },
+        {
+            "offset": 84600,
+            "string": "[Woodrow]に会いにいこう[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Woodrow]를 만나러 가자[END]"
+        },
+        {
+            "offset": 84624,
+            "string": "ハイデルベルグを目指して[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "하이델베르크를 향해[END]"
+        },
+        {
+            "offset": 84656,
+            "string": "[Mary]は変わった？[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Mary]는 변했어?[END]"
+        },
+        {
+            "offset": 84680,
+            "string": "所信表明？[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "소신 표명?[END]"
+        },
+        {
+            "offset": 84696,
+            "string": "[Rutee]の性[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Rutee]의 성격[END]"
+        },
+        {
+            "offset": 84712,
+            "string": "髪が伸びてきたかも[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "머리가 자란 것 같아[END]"
+        },
+        {
+            "offset": 84736,
+            "string": "アトワイトってどんな人？[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "아트와이트는 어떤 사람?[END]"
+        },
+        {
+            "offset": 84768,
+            "string": "[Rutee]の夢は？[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Rutee]의 꿈은?[END]"
+        },
+        {
+            "offset": 84784,
+            "string": "[Kongman]、恥ずかしくないの？[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Kongman], 부끄럽지 않아?[END]"
+        },
+        {
+            "offset": 84816,
+            "string": "夢のお告げ？[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "꿈의 계시?[END]"
+        },
+        {
+            "offset": 84832,
+            "string": "ご機嫌？[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "기분 좋아?[END]"
+        },
+        {
+            "offset": 84848,
+            "string": "同格？[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "동격?[END]"
+        },
+        {
+            "offset": 84856,
+            "string": "[Kongman]、寒くないの？[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Kongman], 춥지 않아?[END]"
+        },
+        {
+            "offset": 84880,
+            "string": "大人ですね[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "어른이네요[END]"
+        },
+        {
+            "offset": 84896,
+            "string": "晩ご飯のおかずを買わなくちゃ[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "저녁 반찬을 사야 해[END]"
+        },
+        {
+            "offset": 84928,
+            "string": "ファンダリアへは船に乗って[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "팬더리아로는 배를 타고[END]"
+        },
+        {
+            "offset": 84960,
+            "string": "リーネの南東にノイシュタット[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "리네의 남동쪽에 노이슈타트[END]"
+        },
+        {
+            "offset": 84992,
+            "string": "ノイシュタットはリーネの南東[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "노이슈타트는 리네의 남동쪽[END]"
+        },
+        {
+            "offset": 85024,
+            "string": "家へ帰ろう[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "집으로 돌아가자[END]"
+        },
+        {
+            "offset": 85040,
+            "string": "晩ご飯のおかずを買おう[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "저녁 반찬을 사자[END]"
+        },
+        {
+            "offset": 85064,
+            "string": "憧れのあの人は[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "동경하는 그 사람은[END]"
+        },
+        {
+            "offset": 85080,
+            "string": "鈍感なんだから[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "둔감하기는[END]"
+        },
+        {
+            "offset": 85096,
+            "string": "近況報告[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "근황 보고[END]"
+        },
+        {
+            "offset": 85112,
+            "string": "家族はいいなあ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "가족은 좋구나[END]"
+        },
+        {
+            "offset": 85128,
+            "string": "[Rutee]はどこに？[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Rutee]는 어디에?[END]"
+        },
+        {
+            "offset": 85144,
+            "string": "忘れてるわよ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "잊고 있어요[END]"
+        },
+        {
+            "offset": 85160,
+            "string": "先には進めない[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "더 이상 나아갈 수 없어[END]"
+        },
+        {
+            "offset": 85176,
+            "string": "城の時計塔へ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "성의 시계탑으로[END]"
+        },
+        {
+            "offset": 85192,
+            "string": "決戦は時計塔で[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "결전은 시계탑에서[END]"
+        },
+        {
+            "offset": 85208,
+            "string": "親の存在[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "부모의 존재[END]"
+        },
+        {
+            "offset": 85224,
+            "string": "非常通路を進んで城へ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "비상 통로를 따라 성으로[END]"
+        },
+        {
+            "offset": 85248,
+            "string": "非常通路の奥の休憩所へ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "비상 통로 안쪽의 휴게소로[END]"
+        },
+        {
+            "offset": 85272,
+            "string": "非常通路からハイデルベルグ城へ[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "비상 통로에서 하이델베르크 성으로[END]"
+        },
+        {
+            "offset": 85304,
+            "string": "非常通路の入り口は街の東に[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "비상 통로 입구는 마을 동쪽에[END]"
+        },
+        {
+            "offset": 85336,
+            "string": "反乱軍といっても[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "반란군이라고 해도[END]"
+        },
+        {
+            "offset": 85360,
+            "string": "ハイデルベルグの印象[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "하이델베르크의 인상[END]"
+        },
+        {
+            "offset": 85384,
+            "string": "サイリルから北へ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "사이릴에서 북쪽으로[END]"
+        },
+        {
+            "offset": 85408,
+            "string": "ハイデルベルグはサイリルの北[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "하이델베르크는 사이릴의 북쪽[END]"
+        },
+        {
+            "offset": 85440,
+            "string": "[Mary]の家は街の西に[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Mary]의 집은 마을 서쪽에[END]"
+        },
+        {
+            "offset": 85464,
+            "string": "危険かも[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "위험할지도[END]"
+        },
+        {
+            "offset": 85480,
+            "string": "一触即発？[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "일촉즉발?[END]"
+        },
+        {
+            "offset": 85496,
+            "string": "サイリルの風景[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "사이릴의 풍경[END]"
+        },
+        {
+            "offset": 85512,
+            "string": "森を抜ければサイリルの街[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "숲을 지나면 사이릴 마을[END]"
+        },
+        {
+            "offset": 85544,
+            "string": "森を抜けてサイリルの街へ[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "숲을 지나 사이릴 마을로[END]"
+        },
+        {
+            "offset": 85576,
+            "string": "寒いときは温泉だね[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "추울 때는 온천이지[END]"
+        },
+        {
+            "offset": 85600,
+            "string": "逆鱗？[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "역린?[END]"
+        },
+        {
+            "offset": 85608,
+            "string": "やっぱり子供？[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "역시 아이?[END]"
+        },
+        {
+            "offset": 85624,
+            "string": "マスターの資格[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "마스터의 자격[END]"
+        },
+        {
+            "offset": 85640,
+            "string": "ティルソの森はスノーフリアの西[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "틸소의 숲은 스노우프리아의 서쪽[END]"
+        },
+        {
+            "offset": 85672,
+            "string": "ハイデルベルグへはティルソの森を通って[END]",
+            "original_bytes_length": 39,
+            "available_bytes_size": 39,
+            "translation": "하이델베르크로는 틸소의 숲을 통해[END]"
+        },
+        {
+            "offset": 85712,
+            "string": "[Woodrow]を助けに森へ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Woodrow]를 구하러 숲으로[END]"
+        },
+        {
+            "offset": 85736,
+            "string": "市街地へ行ってみよう[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "시가지로 가보자[END]"
+        },
+        {
+            "offset": 85760,
+            "string": "市街地へ様子を見に[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "시가지로 상황을 보러[END]"
+        },
+        {
+            "offset": 85784,
+            "string": "手紙を書こう・３[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "편지를 쓰자・3[END]"
+        },
+        {
+            "offset": 85808,
+            "string": "皮算用[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "셈법[END]"
+        },
+        {
+            "offset": 85816,
+            "string": "同胞ですよ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "동포예요[END]"
+        },
+        {
+            "offset": 85832,
+            "string": "お役に立ちます[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "도움이 됩니다[END]"
+        },
+        {
+            "offset": 85848,
+            "string": "内戦勃発!?[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "내전 발발!?[END]"
+        },
+        {
+            "offset": 85864,
+            "string": "縁がある？[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "인연이 있나?[END]"
+        },
+        {
+            "offset": 85880,
+            "string": "グレバムと神の眼[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "그레밤과 신의 눈[END]"
+        },
+        {
+            "offset": 85904,
+            "string": "港からファンダリアへ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "항구에서 팬더리아로[END]"
+        },
+        {
+            "offset": 85928,
+            "string": "グレバムを追ってファンダリアへ[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "그레밤을 쫓아 팬더리아로[END]"
+        },
+        {
+            "offset": 85960,
+            "string": "いざ凱旋[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "이제 개선[END]"
+        },
+        {
+            "offset": 85976,
+            "string": "決戦トウケイ城[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "결전 토케이 성[END]"
+        },
+        {
+            "offset": 85992,
+            "string": "ソーディアン会議？[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "소디언 회의?[END]"
+        },
+        {
+            "offset": 86016,
+            "string": "新曲のネタ探し[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "새 곡의 소재 찾기[END]"
+        },
+        {
+            "offset": 86032,
+            "string": "これからのアクアヴェイル[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "앞으로의 아쿠아베일[END]"
+        },
+        {
+            "offset": 86064,
+            "string": "フェイトも凄い[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "페이트도 대단해[END]"
+        },
+        {
+            "offset": 86080,
+            "string": "今はトウケイ城を目指せ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "지금은 토케이 성을 목표로 해[END]"
+        },
+        {
+            "offset": 86104,
+            "string": "船着場は街の中央に[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "선착장은 마을 중앙에[END]"
+        },
+        {
+            "offset": 86128,
+            "string": "トウケイ城へ乗り込もう[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "토케이 성으로 들어가자[END]"
+        },
+        {
+            "offset": 86152,
+            "string": "いざトウケイ城へ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "자, 토케이 성으로[END]"
+        },
+        {
+            "offset": 86176,
+            "string": "フェイトは頑固者[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "페이트는 고집쟁이[END]"
+        },
+        {
+            "offset": 86200,
+            "string": "ゴーストタウン？[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "유령 마을?[END]"
+        },
+        {
+            "offset": 86224,
+            "string": "待った！[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "잠깐![END]"
+        },
+        {
+            "offset": 86240,
+            "string": "港からトウケイ領へ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "항구에서 토케이 영토로[END]"
+        },
+        {
+            "offset": 86264,
+            "string": "トウケイ領へは黒十字艦隊の船で[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "토케이 영토로는 흑십자 함대의 배로[END]"
+        },
+        {
+            "offset": 86296,
+            "string": "城を出て港へ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "성을 나와 항구로[END]"
+        },
+        {
+            "offset": 86312,
+            "string": "バティスタのところへ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "바티스타에게로[END]"
+        },
+        {
+            "offset": 86336,
+            "string": "バティスタの下へ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "바티스타에게[END]"
+        },
+        {
+            "offset": 86360,
+            "string": "フェイトを助けに[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "페이트를 구하러[END]"
+        },
+        {
+            "offset": 86384,
+            "string": "はじめは牢屋へ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "우선은 감옥으로[END]"
+        },
+        {
+            "offset": 86400,
+            "string": "クールに決めろ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "멋지게 결정해[END]"
+        },
+        {
+            "offset": 86416,
+            "string": "歌は人を表す[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "노래는 사람을 나타내[END]"
+        },
+        {
+            "offset": 86432,
+            "string": "[Johnny]とフェイト[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Johnny]와 페이트[END]"
+        },
+        {
+            "offset": 86448,
+            "string": "[Johnny]の家族って？[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Johnny]의 가족은?[END]"
+        },
+        {
+            "offset": 86472,
+            "string": "[Johnny]の歌い方教室[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Johnny]의 노래 방법 교실[END]"
+        },
+        {
+            "offset": 86496,
+            "string": "これで良かった[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "이렇게 해서 좋았어[END]"
+        },
+        {
+            "offset": 86512,
+            "string": "本当の助っ人は？[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "진정한 조력자는?[END]"
+        },
+        {
+            "offset": 86536,
+            "string": "[Johnny]さんと話すべき[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Johnny] 씨와 얘기해야 해[END]"
+        },
+        {
+            "offset": 86560,
+            "string": "港じゃないの？[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "항구가 아니야?[END]"
+        },
+        {
+            "offset": 86576,
+            "string": "小船でモリュウ城へ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "작은 배로 모류 성으로[END]"
+        },
+        {
+            "offset": 86600,
+            "string": "モリュウ城へは小船に乗って[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "모류 성으로는 작은 배를 타고[END]"
+        },
+        {
+            "offset": 86632,
+            "string": "[Johnny]さんに話を聞こう[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Johnny] 씨에게 이야기를 들어보자[END]"
+        },
+        {
+            "offset": 86656,
+            "string": "港を目指せ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "항구를 향해[END]"
+        },
+        {
+            "offset": 86672,
+            "string": "モリュウ領で情報収集[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "모류 영토에서 정보 수집[END]"
+        },
+        {
+            "offset": 86696,
+            "string": "道楽者[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "도락가[END]"
+        },
+        {
+            "offset": 86704,
+            "string": "お尋ね者[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "수배자[END]"
+        },
+        {
+            "offset": 86720,
+            "string": "ティアラはどうなった？[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "티아라는 어떻게 됐어?[END]"
+        },
+        {
+            "offset": 86744,
+            "string": "クレメンテの趣味[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "클레멘트의 취미[END]"
+        },
+        {
+            "offset": 86768,
+            "string": "知り合いですか？[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "아는 사람인가요?[END]"
+        },
+        {
+            "offset": 86792,
+            "string": "助っ人って？[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "조력자라니?[END]"
+        },
+        {
+            "offset": 86808,
+            "string": "モリュウ領は水の街[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "모류 영토는 물의 도시[END]"
+        },
+        {
+            "offset": 86832,
+            "string": "モリュウ領へ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "모류 영토로[END]"
+        },
+        {
+            "offset": 86848,
+            "string": "モリュウ領へ行こう[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "모류 영토로 가자[END]"
+        },
+        {
+            "offset": 86872,
+            "string": "海底洞窟を抜けてモリュウ領へ[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "해저 동굴을 지나 모류 영토로[END]"
+        },
+        {
+            "offset": 86904,
+            "string": "ソーディアンの弱点[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "소디언의 약점[END]"
+        },
+        {
+            "offset": 86928,
+            "string": "ディムロスとアトワイトの関係[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "딤로스와 아트와이트의 관계[END]"
+        },
+        {
+            "offset": 86960,
+            "string": "ソーディアンってお腹減らないの？[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "소디언도 배고프지 않아?[END]"
+        },
+        {
+            "offset": 87000,
+            "string": "くれぐれも秘密に[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "부디 비밀로 해줘[END]"
+        },
+        {
+            "offset": 87024,
+            "string": "デリカシーですよ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "섬세함이죠[END]"
+        },
+        {
+            "offset": 87048,
+            "string": "頭の上は海[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "머리 위는 바다[END]"
+        },
+        {
+            "offset": 87064,
+            "string": "道草食っている場合か[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "딴짓할 때가 아니야[END]"
+        },
+        {
+            "offset": 87088,
+            "string": "洞窟はシデン領の南に[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "동굴은 시덴 영토의 남쪽에[END]"
+        },
+        {
+            "offset": 87112,
+            "string": "洞窟の入り口はシデン領の南[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "동굴 입구는 시덴 영토의 남쪽[END]"
+        },
+        {
+            "offset": 87144,
+            "string": "街へ行こう[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "마을로 가자[END]"
+        },
+        {
+            "offset": 87160,
+            "string": "[Mary]の好奇心[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Mary]의 호기심[END]"
+        },
+        {
+            "offset": 87176,
+            "string": "手紙を書こう・２[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "편지를 쓰자・2[END]"
+        },
+        {
+            "offset": 87200,
+            "string": "鎖国の功罪[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "쇄국의 공과[END]"
+        },
+        {
+            "offset": 87216,
+            "string": "本当は誰だった？[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "실제로는 누구였지?[END]"
+        },
+        {
+            "offset": 87240,
+            "string": "諸国漫遊[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "여러 나라 유랑[END]"
+        },
+        {
+            "offset": 87256,
+            "string": "アクアヴェイルに到着[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "아쿠아베일에 도착[END]"
+        },
+        {
+            "offset": 87280,
+            "string": "港では？[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "항구에서는?[END]"
+        },
+        {
+            "offset": 87296,
+            "string": "港から船でアクアヴェイルへ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "항구에서 배로 아쿠아베일로[END]"
+        },
+        {
+            "offset": 87328,
+            "string": "ノイシュタット港から船で[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "노이슈타트 항구에서 배로[END]"
+        },
+        {
+            "offset": 87360,
+            "string": "目指すはグレバム[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "목표는 그레밤[END]"
+        },
+        {
+            "offset": 87384,
+            "string": "シャルティエってどんな人？[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "샤르띠에는 어떤 사람?[END]"
+        },
+        {
+            "offset": 87416,
+            "string": "ティアラが欲しい[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "티아라가 갖고 싶어[END]"
+        },
+        {
+            "offset": 87440,
+            "string": "悩ましい[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "고민되네[END]"
+        },
+        {
+            "offset": 87456,
+            "string": "よし、行くぞ！[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "좋아, 가자![END]"
+        },
+        {
+            "offset": 87472,
+            "string": "向かうのは港だ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "향하는 곳은 항구다[END]"
+        },
+        {
+            "offset": 87488,
+            "string": "闘技場の外に出たら……[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "투기장 밖으로 나가면……[END]"
+        },
+        {
+            "offset": 87512,
+            "string": "アイスキャンディー屋は街の広場[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "아이스캔디 가게는 마을 광장[END]"
+        },
+        {
+            "offset": 87544,
+            "string": "港へ向かえ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "항구로 향해[END]"
+        },
+        {
+            "offset": 87560,
+            "string": "武装船団を撃退せよ！[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "무장 선단을 격퇴하라![END]"
+        },
+        {
+            "offset": 87584,
+            "string": "イレーヌを追って闘技場に[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "일레느를 쫓아 투기장으로[END]"
+        },
+        {
+            "offset": 87616,
+            "string": "街にモンスターが！？[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "마을에 몬스터가!?[END]"
+        },
+        {
+            "offset": 87640,
+            "string": "大通りの北に闘技場[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "대로의 북쪽에 투기장[END]"
+        },
+        {
+            "offset": 87664,
+            "string": "闘技場は街の北[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "투기장은 마을 북쪽[END]"
+        },
+        {
+            "offset": 87680,
+            "string": "アイスキャンディー屋を探そう[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "아이스캔디 가게를 찾자[END]"
+        },
+        {
+            "offset": 87712,
+            "string": "アイスキャンディー屋は街の北[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "아이스캔디 가게는 마을 북쪽[END]"
+        },
+        {
+            "offset": 87744,
+            "string": "イレーヌ邸を探そう[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "일레느 저택을 찾자[END]"
+        },
+        {
+            "offset": 87768,
+            "string": "イレーヌ邸はノイシュタットの街に[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "일레느 저택은 노이슈타트 마을에[END]"
+        },
+        {
+            "offset": 87808,
+            "string": "今はあまり離れるな[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "지금은 너무 멀리 가지 말자[END]"
+        },
+        {
+            "offset": 87832,
+            "string": "[Lion]に馴れた[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Lion]에게 익숙해졌어[END]"
+        },
+        {
+            "offset": 87848,
+            "string": "次回をお楽しみに[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "다음 회를 기대해 주세요[END]"
+        },
+        {
+            "offset": 87872,
+            "string": "家族は遠くにありて……[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "가족은 멀리 있어서……[END]"
+        },
+        {
+            "offset": 87896,
+            "string": "手紙を書こう・１[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "편지를 쓰자・1[END]"
+        },
+        {
+            "offset": 87920,
+            "string": "ノイシュタットは活気がいっぱい[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "노이슈타트는 활기가 넘쳐[END]"
+        },
+        {
+            "offset": 87952,
+            "string": "同郷だね[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "같은 고향이네[END]"
+        },
+        {
+            "offset": 87968,
+            "string": "確かにすごい[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "확실히 대단해[END]"
+        },
+        {
+            "offset": 87984,
+            "string": "目指すは神殿だ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "목표는 신전이다[END]"
+        },
+        {
+            "offset": 88000,
+            "string": "今は外をうろついている時ではない[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "지금은 밖을 돌아다닐 때가 아니야[END]"
+        },
+        {
+            "offset": 88040,
+            "string": "チェリクはカルビオラの南[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "체리크는 칼비올라의 남쪽[END]"
+        },
+        {
+            "offset": 88072,
+            "string": "チェリクはカルビオラから南[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "체리크는 칼비올라에서 남쪽[END]"
+        },
+        {
+            "offset": 88104,
+            "string": "神殿の捜索を忘れるな[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "신전 수색을 잊지 마[END]"
+        },
+        {
+            "offset": 88128,
+            "string": "ストレイライズ神殿の捜索を忘れるな[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전 수색을 잊지 마[END]"
+        },
+        {
+            "offset": 88168,
+            "string": "奥へ進め[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "안쪽으로 나아가[END]"
+        },
+        {
+            "offset": 88184,
+            "string": "奥へ……[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "안쪽으로……[END]"
+        },
+        {
+            "offset": 88200,
+            "string": "大聖堂を目指そう[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "대성당을 목표로 하자[END]"
+        },
+        {
+            "offset": 88224,
+            "string": "大聖堂へ向かおう[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "대성당으로 향하자[END]"
+        },
+        {
+            "offset": 88248,
+            "string": "目指すは神殿裏口[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "목표는 신전 뒷문[END]"
+        },
+        {
+            "offset": 88272,
+            "string": "待機は宿屋で[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "대기는 여관에서[END]"
+        },
+        {
+            "offset": 88288,
+            "string": "神殿は街の中[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "신전은 마을 안에[END]"
+        },
+        {
+            "offset": 88304,
+            "string": "相変わらずだね[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "여전하네[END]"
+        },
+        {
+            "offset": 88320,
+            "string": "眼鏡を探して[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "안경을 찾아서[END]"
+        },
+        {
+            "offset": 88336,
+            "string": "[Philia]のメガネ[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Philia]의 안경[END]"
+        },
+        {
+            "offset": 88352,
+            "string": "クレメンテってどんな人？[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "클레멘트는 어떤 사람?[END]"
+        },
+        {
+            "offset": 88384,
+            "string": "雪解けですか～？[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "눈 녹는 계절인가요~?[END]"
+        },
+        {
+            "offset": 88408,
+            "string": "気分は上々？[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "기분 최고?[END]"
+        },
+        {
+            "offset": 88424,
+            "string": "カルバレイス独自の信仰[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "칼바레이스 고유의 신앙[END]"
+        },
+        {
+            "offset": 88448,
+            "string": "チェリクの北のカルビオラへ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "체리크의 북쪽 칼비올라로[END]"
+        },
+        {
+            "offset": 88480,
+            "string": "カルビオラはチェリクの北[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "칼비올라는 체리크의 북쪽[END]"
+        },
+        {
+            "offset": 88512,
+            "string": "バルック基金のオフィスは街の中[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "발룩 기금 사무실은 마을 안에[END]"
+        },
+        {
+            "offset": 88544,
+            "string": "世界に羽ばたくオベロン社[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "세계로 뻗어나가는 오베론 사[END]"
+        },
+        {
+            "offset": 88576,
+            "string": "余計な気遣い？[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "쓸데없는 배려?[END]"
+        },
+        {
+            "offset": 88592,
+            "string": "友情を育むには[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "우정을 키우려면[END]"
+        },
+        {
+            "offset": 88608,
+            "string": "バルックはいい人だ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "발룩은 좋은 사람이야[END]"
+        },
+        {
+            "offset": 88632,
+            "string": "カルバレイス人の事[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "칼바레이스 사람들의 일[END]"
+        },
+        {
+            "offset": 88656,
+            "string": "[Mary]の不思議[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Mary]의 불가사의[END]"
+        },
+        {
+            "offset": 88672,
+            "string": "暑い！[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "더워![END]"
+        },
+        {
+            "offset": 88680,
+            "string": "船へ戻るには入り口へ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "배로 돌아가려면 입구로[END]"
+        },
+        {
+            "offset": 88704,
+            "string": "この奥にクレメンテが[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "이 안쪽에 클레멘트가[END]"
+        },
+        {
+            "offset": 88728,
+            "string": "クレメンテはラディスロウの奥に[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "클레멘트는 라디슬로우 안쪽에[END]"
+        },
+        {
+            "offset": 88760,
+            "string": "みんな一緒[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "모두 함께[END]"
+        },
+        {
+            "offset": 88776,
+            "string": "負けてられない？[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "질 수 없어?[END]"
+        },
+        {
+            "offset": 88800,
+            "string": "海竜はすごい[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "해룡은 대단해[END]"
+        },
+        {
+            "offset": 88816,
+            "string": "懐かしいラディスロウ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "그리운 라디슬로우[END]"
+        },
+        {
+            "offset": 88840,
+            "string": "ラディスロウはなぜ沈んだ？[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "라디슬로우는 왜 가라앉았지?[END]"
+        },
+        {
+            "offset": 88872,
+            "string": "扉を開けろ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "문을 열어라[END]"
+        },
+        {
+            "offset": 88888,
+            "string": "開かないな[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "열리지 않아[END]"
+        },
+        {
+            "offset": 88904,
+            "string": "港は街の東に[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "항구는 마을 동쪽에[END]"
+        },
+        {
+            "offset": 88920,
+            "string": "ダリルシェイド港は街の東[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "다릴쉐이드 항구는 마을 동쪽[END]"
+        },
+        {
+            "offset": 88952,
+            "string": "ダリルシェイドへ戻ろう[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "다릴쉐이드로 돌아가자[END]"
+        },
+        {
+            "offset": 88976,
+            "string": "ダリルシェイドは神殿の南[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "다릴쉐이드는 신전의 남쪽[END]"
+        },
+        {
+            "offset": 89008,
+            "string": "大聖堂の隠し通路から奥へ進め[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "대성당의 숨겨진 통로에서 안쪽으로 나아가[END]"
+        },
+        {
+            "offset": 89040,
+            "string": "大聖堂へ急げ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "대성당으로 서둘러[END]"
+        },
+        {
+            "offset": 89056,
+            "string": "目指すは大聖堂[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "목표는 대성당[END]"
+        },
+        {
+            "offset": 89072,
+            "string": "結界石を探そう[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "결계석을 찾자[END]"
+        },
+        {
+            "offset": 89088,
+            "string": "結界石を破壊せよ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "결계석을 파괴하라[END]"
+        },
+        {
+            "offset": 89112,
+            "string": "神殿内を調べてみよう[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "신전 내부를 조사해보자[END]"
+        },
+        {
+            "offset": 89136,
+            "string": "神殿で何が？[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "신전에서 무슨 일이?[END]"
+        },
+        {
+            "offset": 89152,
+            "string": "ソーディアンの前のマスターって？[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "소디언의 이전 마스터는?[END]"
+        },
+        {
+            "offset": 89192,
+            "string": "一番偉い神官は？[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "가장 높은 신관은?[END]"
+        },
+        {
+            "offset": 89216,
+            "string": "自己紹介[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "자기소개[END]"
+        },
+        {
+            "offset": 89232,
+            "string": "男ってやつは[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "남자란 녀석은[END]"
+        },
+        {
+            "offset": 89248,
+            "string": "結界石の謎[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "결계석의 수수께끼[END]"
+        },
+        {
+            "offset": 89264,
+            "string": "不穏な気配[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "불안한 기운[END]"
+        },
+        {
+            "offset": 89280,
+            "string": "ヒューゴの屋敷は街の中だ[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "휴고의 저택은 마을 안이다[END]"
+        },
+        {
+            "offset": 89312,
+            "string": "森を抜けてストレイライズ神殿へ[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "숲을 지나 스트레이라이즈 신전으로[END]"
+        },
+        {
+            "offset": 89344,
+            "string": "アルメイダの東の街道を進もう[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "알메이다의 동쪽 가도를 따라가자[END]"
+        },
+        {
+            "offset": 89376,
+            "string": "ストレイライズ神殿はアルメイダの東[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "스트레이라이즈 신전은 알메이다의 동쪽[END]"
+        },
+        {
+            "offset": 89416,
+            "string": "ストレイライズ神殿は東の方角[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "스트레이라이즈 신전은 동쪽 방향[END]"
+        },
+        {
+            "offset": 89448,
+            "string": "アルメイダから神殿へ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "알메이다에서 신전으로[END]"
+        },
+        {
+            "offset": 89472,
+            "string": "神殿はダリルシェイドの北[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "신전은 다릴쉐이드의 북쪽[END]"
+        },
+        {
+            "offset": 89504,
+            "string": "街で一番のお屋敷へ行こう[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "마을에서 가장 큰 저택으로 가자[END]"
+        },
+        {
+            "offset": 89536,
+            "string": "ヒューゴ邸は街で一番のお屋敷[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "휴고의 저택은 마을에서 가장 큰 저택[END]"
+        },
+        {
+            "offset": 89568,
+            "string": "[Lion]の苦労[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Lion]의 고생[END]"
+        },
+        {
+            "offset": 89584,
+            "string": "ソーディアンの感覚ってどうなの？[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "소디언의 감각은 어떤 거야?[END]"
+        },
+        {
+            "offset": 89624,
+            "string": "親子で敬語？[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "부모와 자식 사이에 존댓말?[END]"
+        },
+        {
+            "offset": 89640,
+            "string": "客員剣士とは[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "객원 검사란[END]"
+        },
+        {
+            "offset": 89656,
+            "string": "お似合いの場所[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "어울리는 장소[END]"
+        },
+        {
+            "offset": 89672,
+            "string": "名前の由来[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "이름의 유래[END]"
+        },
+        {
+            "offset": 89688,
+            "string": "久しぶりじゃないですか[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "오랜만이네요[END]"
+        },
+        {
+            "offset": 89712,
+            "string": "屋敷にいたあの人は？[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "저택에 있던 그 사람은?[END]"
+        },
+        {
+            "offset": 89736,
+            "string": "七将軍とは[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "칠장군이란[END]"
+        },
+        {
+            "offset": 89752,
+            "string": "ヒューゴは大金持ち[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "휴고는 큰 부자[END]"
+        },
+        {
+            "offset": 89776,
+            "string": "初めてのセインガルド城[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "처음 가보는 세인가드 성[END]"
+        },
+        {
+            "offset": 89800,
+            "string": "かわいいティアラ[MUSIC][END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "귀여운 티아라[MUSIC][END]"
+        },
+        {
+            "offset": 89824,
+            "string": "ウォルトの家へ行くのよ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "월트의 집으로 갈 거야[END]"
+        },
+        {
+            "offset": 89848,
+            "string": "脱出するわよ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "탈출할 거야[END]"
+        },
+        {
+            "offset": 89864,
+            "string": "脱出しなくちゃ！[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "탈출해야 해![END]"
+        },
+        {
+            "offset": 89888,
+            "string": "ウォルトの家は村一番の屋敷[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "월트의 집은 마을에서 제일 큰 저택[END]"
+        },
+        {
+            "offset": 89920,
+            "string": "ディムロスってどんな人？[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "딤로스는 어떤 사람이야?[END]"
+        },
+        {
+            "offset": 89952,
+            "string": "知らないが勝ち？[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "모르는 게 약?[END]"
+        },
+        {
+            "offset": 89976,
+            "string": "[Rutee]の出身って？[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Rutee]의 출신은?[END]"
+        },
+        {
+            "offset": 90000,
+            "string": "道に迷わないでね[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "길을 잃지 마[END]"
+        },
+        {
+            "offset": 90024,
+            "string": "目指すのは北の門よ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "목표는 북문이야[END]"
+        },
+        {
+            "offset": 90048,
+            "string": "早く酒場へ行こう[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "빨리 술집으로 가자[END]"
+        },
+        {
+            "offset": 90072,
+            "string": "ジェノスは逆方向よ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "제노스는 반대 방향이야[END]"
+        },
+        {
+            "offset": 90096,
+            "string": "ハーメンツはジェノスから北西[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "하멘츠는 제노스에서 북서쪽[END]"
+        },
+        {
+            "offset": 90128,
+            "string": "ハーメンツはジェノスの北西[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "하멘츠는 제노스의 북서쪽[END]"
+        },
+        {
+            "offset": 90160,
+            "string": "セインガルドへは北の門から[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "세인가드로는 북문에서[END]"
+        },
+        {
+            "offset": 90192,
+            "string": "目覚めたソーディアン[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "깨어난 소디언[END]"
+        },
+        {
+            "offset": 90216,
+            "string": "酒場は宿屋と同じ建物に[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "술집은 여관과 같은 건물에[END]"
+        },
+        {
+            "offset": 90240,
+            "string": "街は森を南に[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "마을은 숲의 남쪽[END]"
+        },
+        {
+            "offset": 90256,
+            "string": "街は森の突き当たりを南に[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "마을은 숲 끝에서 남쪽으로[END]"
+        },
+        {
+            "offset": 90288,
+            "string": "正面から出ましょ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "정문으로 나가자[END]"
+        },
+        {
+            "offset": 90312,
+            "string": "帰りは正面から[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "돌아갈 때는 정문으로[END]"
+        },
+        {
+            "offset": 90328,
+            "string": "神殿の奥へ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "신전 안쪽으로[END]"
+        },
+        {
+            "offset": 90344,
+            "string": "うららかな陽気に誘われて[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "따스한 날씨에 이끌려[END]"
+        },
+        {
+            "offset": 90376,
+            "string": "一緒にするな[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "한통속으로 취급하지 마[END]"
+        },
+        {
+            "offset": 90392,
+            "string": "やる気満々[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "의욕 충만[END]"
+        },
+        {
+            "offset": 90408,
+            "string": "コスト管理は徹底的に[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "비용 관리는 철저하게[END]"
+        },
+        {
+            "offset": 90432,
+            "string": "性ですから[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "성격이니까요[END]"
+        },
+        {
+            "offset": 90448,
+            "string": "念願の通行証[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "염원하던 통행증[END]"
+        },
+        {
+            "offset": 90464,
+            "string": "[Stahn]の仕事[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Stahn]의 일[END]"
+        },
+        {
+            "offset": 90480,
+            "string": "名折れですよ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "망신이에요[END]"
+        },
+        {
+            "offset": 90496,
+            "string": "神殿といえば？[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "신전 하면?[END]"
+        },
+        {
+            "offset": 90512,
+            "string": "出会いのきっかけ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "만남의 계기[END]"
+        },
+        {
+            "offset": 90536,
+            "string": "隠し通路から神殿へ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "숨겨진 통로로 신전에[END]"
+        },
+        {
+            "offset": 90560,
+            "string": "神殿は隠し通路を抜けて[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "신전은 숨겨진 통로를 지나[END]"
+        },
+        {
+            "offset": 90584,
+            "string": "くじけそう[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "좌절할 것 같아[END]"
+        },
+        {
+            "offset": 90600,
+            "string": "偶然ですね[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "우연이네요[END]"
+        },
+        {
+            "offset": 90616,
+            "string": "通行証はどうやって？[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "통행증은 어떻게?[END]"
+        },
+        {
+            "offset": 90640,
+            "string": "これはこれで[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "이건 이거대로[END]"
+        },
+        {
+            "offset": 90656,
+            "string": "目指すは東の門[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "목표는 동문[END]"
+        },
+        {
+            "offset": 90672,
+            "string": "北の門では？[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "북문이 아니라?[END]"
+        },
+        {
+            "offset": 90688,
+            "string": "神殿の隠し通路は森に[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "신전의 숨겨진 통로는 숲에[END]"
+        },
+        {
+            "offset": 90712,
+            "string": "神殿は森の中から[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "신전은 숲 속에서[END]"
+        },
+        {
+            "offset": 90736,
+            "string": "神殿へは東の門から[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "신전으로는 동문에서[END]"
+        },
+        {
+            "offset": 90760,
+            "string": "仲間を助けに東の門へ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "동료를 구하러 동문으로[END]"
+        },
+        {
+            "offset": 90784,
+            "string": "セインガルドは北の門から[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "세인가드는 북문에서[END]"
+        },
+        {
+            "offset": 90816,
+            "string": "こう見えても[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "이렇게 보여도[END]"
+        },
+        {
+            "offset": 90832,
+            "string": "自己問答？[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "혼잣말?[END]"
+        },
+        {
+            "offset": 90848,
+            "string": "他人の空似？[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "남의 얼굴과 닮았나?[END]"
+        },
+        {
+            "offset": 90864,
+            "string": "[Mary]はどこの人？[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Mary]는 어디 사람이야?[END]"
+        },
+        {
+            "offset": 90888,
+            "string": "渡る世間に……[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "세상 참……[END]"
+        },
+        {
+            "offset": 90904,
+            "string": "セインガルドまではもうすぐ[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "세인가드까지는 얼마 안 남았어[END]"
+        },
+        {
+            "offset": 90936,
+            "string": "ジェノスは反対[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "제노스는 반대야[END]"
+        },
+        {
+            "offset": 90952,
+            "string": "ジェノスまではもう少し[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "제노스까지는 조금만 더[END]"
+        },
+        {
+            "offset": 90976,
+            "string": "ジェノスは森の南西に[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "제노스는 숲의 남서쪽에[END]"
+        },
+        {
+            "offset": 91000,
+            "string": "ジェノスは小屋の南西[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "제노스는 오두막의 남서쪽[END]"
+        },
+        {
+            "offset": 91024,
+            "string": "早く家の中に入ろう[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "빨리 집 안으로 들어가자[END]"
+        },
+        {
+            "offset": 91048,
+            "string": "来た道を戻ろう[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "왔던 길로 돌아가자[END]"
+        },
+        {
+            "offset": 91064,
+            "string": "山小屋は来た道を逆に[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "산장은 왔던 길 반대로[END]"
+        },
+        {
+            "offset": 91088,
+            "string": "裏山のケヤキを探そう[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "뒷산의 느티나무를 찾자[END]"
+        },
+        {
+            "offset": 91112,
+            "string": "[Chelsea]は裏山の奥に[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Chelsea]는 뒷산 깊숙이에[END]"
+        },
+        {
+            "offset": 91136,
+            "string": "ソーディアンって寝るの？[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "소디언도 잠을 자나요?[END]"
+        },
+        {
+            "offset": 91168,
+            "string": "どんなお仕事？[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "어떤 일을 하세요?[END]"
+        },
+        {
+            "offset": 91184,
+            "string": "殺気？[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "살기?[END]"
+        },
+        {
+            "offset": 91192,
+            "string": "それは内緒です[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "그건 비밀이에요[END]"
+        },
+        {
+            "offset": 91208,
+            "string": "いつかは私も[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "언젠가는 나도[END]"
+        },
+        {
+            "offset": 91224,
+            "string": "天真爛漫？[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "천진난만?[END]"
+        },
+        {
+            "offset": 91240,
+            "string": "裏山へ行くなら反対側[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "뒷산으로 가려면 반대쪽[END]"
+        },
+        {
+            "offset": 91264,
+            "string": "飛行竜を襲ったのって？[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "비행룡을 습격한 건?[END]"
+        },
+        {
+            "offset": 91288,
+            "string": "厳しい財政事情[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "어려운 재정 사정[END]"
+        },
+        {
+            "offset": 91304,
+            "string": "伝説の英雄？[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "전설의 영웅?[END]"
+        },
+        {
+            "offset": 91320,
+            "string": "アルバ先生の事[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "알바 선생님의 일[END]"
+        },
+        {
+            "offset": 91336,
+            "string": "意外な使い道[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "의외의 용도[END]"
+        },
+        {
+            "offset": 91352,
+            "string": "慣れれば快適[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "익숙해지면 편해[END]"
+        },
+        {
+            "offset": 91368,
+            "string": "[Stahn]の故郷は？[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Stahn]의 고향은?[END]"
+        },
+        {
+            "offset": 91384,
+            "string": "早く武器を……！[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "빨리 무기를……![END]"
+        },
+        {
+            "offset": 91408,
+            "string": "その他キャラテスト[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "기타 캐릭터 테스트[END]"
+        },
+        {
+            "offset": 91432,
+            "string": "リリスキャラテスト[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "리리스 캐릭터 테스트[END]"
+        },
+        {
+            "offset": 91456,
+            "string": "コングマンキャラテスト[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "콩맨 캐릭터 테스트[END]"
+        },
+        {
+            "offset": 91488,
+            "string": "ジョニーキャラテスト[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "죠니 캐릭터 테스트[END]"
+        },
+        {
+            "offset": 91512,
+            "string": "チェルシーキャラテスト[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "첼시 캐릭터 테스트[END]"
+        },
+        {
+            "offset": 91544,
+            "string": "マリーキャラテスト[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "마리 캐릭터 테스트[END]"
+        },
+        {
+            "offset": 91568,
+            "string": "リオンキャラテスト[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "리온 캐릭터 테스트[END]"
+        },
+        {
+            "offset": 91592,
+            "string": "ウッドロウキャラテスト[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "우드로우 캐릭터 테스트[END]"
+        },
+        {
+            "offset": 91624,
+            "string": "フィリアキャラテスト[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "필리아 캐릭터 테스트[END]"
+        },
+        {
+            "offset": 91648,
+            "string": "ルーティキャラテスト[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "루티 캐릭터 테스트[END]"
+        },
+        {
+            "offset": 91672,
+            "string": "スタンキャラテスト[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "스탄 캐릭터 테스트[END]"
+        },
+        {
+            "offset": 91696,
+            "string": "デバッグ３[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "디버그 3[END]"
+        },
+        {
+            "offset": 91712,
+            "string": "デバッグ２[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "디버그 2[END]"
+        },
+        {
+            "offset": 91728,
+            "string": "デバッグ１[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "디버그 1[END]"
+        },
+        {
+            "offset": 91744,
+            "string": "デバッグ０[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "디버그 0[END]"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "00018.bin": [
+        {
+            "offset": 205384,
+            "string": "クリアデータのセーブを行います。[LINE]\n　[LINE]\nクリアデータをロードする事で、[LINE]\n新たなダンジョンにチャレンジする事ができます。[LINE]\n　[LINE]\nまた、ロード画面でクリアデータにカーソルを合わせ、[LINE]\n[Triangle_ani]を押す事で、一部のデータを引き継いで、[LINE]\nゲームを最初から始める事ができます。[END]",
+            "original_bytes_length": 249,
+            "available_bytes_size": 263,
+            "translation": "클리어 데이터를 저장합니다.[LINE]\n [LINE]\n클리어 데이터를 로드하면,[LINE]\n새로운 던전에 도전할 수 있습니다.[LINE]\n [LINE]\n또한, 불러오기 화면에서 클리어 데이터에 커서를 맞추고,[LINE]\n[Triangle_ani]를 누르면, 일부 데이터를 이어받아,[LINE]\n게임을 처음부터 시작할 수 있습니다.[END]"
+        }
+    ]
+}
