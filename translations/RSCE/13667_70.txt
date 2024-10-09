@@ -715,12 +715,12 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-샤르티에가 아닌가!
+샤르띠에가 아닌가!
 
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-샤르티에가 아니야!
+샤르띠에가 아니야!
 
 [ENDBLOCK]
 <Chaltier>

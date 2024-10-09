@@ -401,7 +401,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-혹시 샤르티에 군이
+혹시 샤르띠에 군이
 알고 있는 것은 없을까?
 [ENDBLOCK]
 <Chaltier>

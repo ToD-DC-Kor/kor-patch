@@ -529,7 +529,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 <Rutee>
 [ENDBLOCK]
 그럼, 그때까지
-샤르티에는 도대체……?
+샤르띠에는 도대체……?
 [ENDBLOCK]
 토케이 병사
 [ENDBLOCK]
@@ -538,7 +538,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-샤르티에가 그런 식으로
+샤르띠에가 그런 식으로
 사용되고 있었다니……
 [ENDBLOCK]
 <Stahn>
