@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-저녁식사 반찬인가. 무엇을 사야 할까.
+저녁 식사 반찬이구나. 뭘 사야 할까.
 [ENDBLOCK]

@@ -1,0 +1,60 @@
+{
+    "SLPS": [
+        {
+            "offset": 1814560,
+            "string": "白晶[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "백정[END]"
+        },
+        {
+            "offset": 1814568,
+            "string": "紫晶[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "자정[END]"
+        },
+        {
+            "offset": 1814576,
+            "string": "橙晶[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "주정[END]"
+        },
+        {
+            "offset": 1814584,
+            "string": "黒晶[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "흑정[END]"
+        },
+        {
+            "offset": 1814592,
+            "string": "緑晶[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "녹정[END]"
+        },
+        {
+            "offset": 1814600,
+            "string": "青晶[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "청정[END]"
+        },
+        {
+            "offset": 1814608,
+            "string": "黄晶[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "황정[END]"
+        },
+        {
+            "offset": 1814616,
+            "string": "赤晶[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "적정[END]"
+        }
+    ]
+}

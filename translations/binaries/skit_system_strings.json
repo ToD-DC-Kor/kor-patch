@@ -1,0 +1,25 @@
+{
+    "00016_0003.unknown.d1dec": [
+        {
+            "offset": 91848,
+            "string": "スキップしますか？[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "스킵하시겠습니까?[END]"
+        },
+        {
+            "offset": 91872,
+            "string": "はい[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "예[END]"
+        },
+        {
+            "offset": 91880,
+            "string": "いいえ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "아니요[END]"
+        }
+    ]
+}
