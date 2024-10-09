@@ -1,0 +1,18 @@
+{
+    "00058.md1": [
+        {
+            "offset": 8784,
+            "string": "[Circle_ani]決定 [Cross_ani]キャンセル[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]확인 [Cross_ani]취소[END]"
+        },
+        {
+            "offset": 8816,
+            "string": "[Circle_ani]作戦変更 [Cross_ani]戻る[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]작전 변경 [Cross_ani]뒤로[END]"
+        }
+    ]
+}
