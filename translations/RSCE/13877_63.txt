@@ -1,22 +1,22 @@
 ××××××공간 시작××××××
 
 [ENDBLOCK]
-단계 없음：D1R_EPI001START 	～	D1R_032_030_000
+단계 없음: D1R_EPI001START 	～	D1R_032_030_000
 
 [ENDBLOCK]
-첫 번째 단계：D1R_032_040_000	～	D1R_034_020_000
+제1단계: D1R_032_040_000	～	D1R_034_020_000
 
 [ENDBLOCK]
-두 번째 단계：D1R_034_030_000	～	D1R_038_080_000
+제2단계: D1R_034_030_000	～	D1R_038_080_000
 
 [ENDBLOCK]
-세 번째 단계：D1R_038_090_000	～	D1R_040_040_000
+제3단계: D1R_038_090_000	～	D1R_040_040_000
 
 [ENDBLOCK]
-최종 단계：D1R_EPI040_END	～	D1R_EPI052_END
+최종 단계: D1R_EPI040_END	～	D1R_EPI052_END
 
 [ENDBLOCK]
-전체 시리즈：D1R_EPI001START	～	D1R_EPI052_END
+전체 시계열: D1R_EPI001START	～	D1R_EPI052_END
 
 [ENDBLOCK]
 시간은 낮입니다.
@@ -25,34 +25,34 @@
 일반：no_bg_sora
 
 [ENDBLOCK]
-공간 생성 실패（반환값：<TAG_062>）
+하늘 생성 실패 (반환값: <TAG_062>)
 
 [ENDBLOCK]
-××××××공간 종료××××××
+×××××× 하늘 종료 ×××××××
 
 [ENDBLOCK]
-◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
+★★★★★★ 외각 시작 ★★★★★★
 
 [ENDBLOCK]
-단계 없음：D1R_EPI001START 	～	D1R_032_030_000
+단계 없음: D1R_EPI001START 	～	D1R_032_030_000
 
 [ENDBLOCK]
-첫 번째 단계：D1R_032_040_000	～	D1R_034_020_000
+제1단계: D1R_032_040_000	～	D1R_034_020_000
 
 [ENDBLOCK]
-두 번째 단계：D1R_034_030_000	～	D1R_038_080_000
+제2단계: D1R_034_030_000	～	D1R_038_080_000
 
 [ENDBLOCK]
-세 번째 단계：D1R_038_090_000	～	D1R_040_040_000
+제3단계: D1R_038_090_000	～	D1R_040_040_000
 
 [ENDBLOCK]
-최종 단계：D1R_EPI040_END	～	D1R_EPI052_END
+최종 단계: D1R_EPI040_END	～	D1R_EPI052_END
 
 [ENDBLOCK]
-전체 단계：D1R_032_040_000	～	D1R_EPI052_END
+전체 단계: D1R_032_040_000	～	D1R_EPI052_END
 
 [ENDBLOCK]
-시간은 낮입니다.<TAG_062>>=<TAG_059>>=<TAG_061>
+시간은 낮입니다. <TAG_062>>=<TAG_059>>=<TAG_061>
 
 [ENDBLOCK]
 일반 첫 번째：no_bg_gaikaku1 <x09><xAC><x01><x00><x00>
@@ -64,31 +64,31 @@
 = <TAG_060>
 
 [ENDBLOCK]
-외각 생성 실패（반환값：<TAG_063>）
+외각 생성 실패 (반환값: <TAG_063>)
 
 [ENDBLOCK]
-◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
+★★★★★★ 외각 종료 ★★★★★★
 
 [ENDBLOCK]
-●●●●●●구름 시작●●●●●●
+●●●●●● 구름 시작 ●●●●●●
 
 [ENDBLOCK]
-단계 없음：D1R_EPI001START 	～	D1R_032_030_000
+단계 없음: D1R_EPI001START 	～	D1R_032_030_000
 
 [ENDBLOCK]
-첫 번째 단계：D1R_032_040_000	～	D1R_034_020_000
+제1단계: D1R_032_040_000	～	D1R_034_020_000
 
 [ENDBLOCK]
-두 번째 단계：D1R_034_030_000	～	D1R_038_080_000
+제2단계: D1R_034_030_000	～	D1R_038_080_000
 
 [ENDBLOCK]
-세 번째 단계：D1R_038_090_000	～	D1R_040_040_000
+제3단계: D1R_038_090_000	～	D1R_040_040_000
 
 [ENDBLOCK]
-최종 단계：D1R_EPI040_END	～	D1R_EPI052_END
+최종 단계: D1R_EPI040_END	～	D1R_EPI052_END
 
 [ENDBLOCK]
-전체 시리즈：D1R_EPI001START	～	D1R_EPI052_END
+전체 시계열: D1R_EPI001START	～	D1R_EPI052_END
 
 [ENDBLOCK]
 시간은 낮입니다.
@@ -97,63 +97,63 @@
 일반：no_bg_kumo01
 
 [ENDBLOCK]
-구름 생성 실패（반환값：<TAG_063>）
+구름 생성 실패 (반환값: <TAG_063>)
 
 [ENDBLOCK]
-●●●●●●구름 종료●●●●●●
+●●●●●● 구름 종료 ●●●●●●
 
 [ENDBLOCK]
-객체 조작 모드 시작
+오브젝트 조작 모드 시작
 Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 
 [ENDBLOCK]
-객체 조작 시작
+오브젝트 조작 시작
 
 [ENDBLOCK]
-인수로 주어진 매개변수→<TAG_047>, <TAG_048>, <TAG_049>
+인수로 주어진 파라미터→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
-인수로 주어진 매개변수→<TAG_047>, <TAG_048>, <TAG_049>
+인수로 주어진 파라미터→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
-인수로 주어진 매개변수→<TAG_047>, <TAG_048>, <TAG_049>
+인수로 주어진 파라미터→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
-객체 조작 모드 종료
+오브젝트 조작 모드 종료
 [ENDBLOCK]
-객체 조작 종료
+오브젝트 조작 종료
 
 [ENDBLOCK]
-객체 재선택
+오브젝트 재선택
 
 [ENDBLOCK]
-상태 선택
+스테이터스 선택
 
 [ENDBLOCK]
-안개 상태
+안개 스테이터스
 [ENDBLOCK]
-<TAG_007>안개 시작점 거리：<D_FOG_START>
-안개 끝점 거리：<D_FOG_END>
-시작점의 안개 비율：<D_FOG_RATE_START>
-끝점의 안개 비율：<D_FOG_RATE_END>
-안개 색상 빨강：<D_FOG_COLOR_R>
-안개 색상 초록：<D_FOG_COLOR_G>
-안개 색상 파랑：<D_FOG_COLOR_B>
+<TAG_007>안개 시작 거리: <D_FOG_START>
+안개 종료 거리: <D_FOG_END>
+시작점의 안개 비율: <D_FOG_RATE_START>
+종료점의 안개 비율: <D_FOG_RATE_END>
+안개 색상 빨강: <D_FOG_COLOR_R>
+안개 색상 초록: <D_FOG_COLOR_G>
+안개 색상 파랑: <D_FOG_COLOR_B>
 
 [ENDBLOCK]
-<TAG_069>의 상태
+<TAG_069>의 스테이터스
 [ENDBLOCK]
 좌표(x) = <D_COORD_X>
 좌표(y) = <D_COORD_Y>
 좌표(z) = <D_COORD_Z>
-색 값(빨강) = <D_COLOR_R>
-색 값(초록) = <D_COLOR_G>
-색 값(파랑) = <D_COLOR_B>
-색 값(α) = <D_COLOR_A>
-확대 비율(x) = <D_ZOOM_X>
-확대 비율(y) = <D_ZOOM_Y>
-확대 비율(z) = <D_ZOOM_Z>
-확대 비율(a) = <D_ZOOM_A>
+색상(빨강) = <D_COLOR_R>
+색상(초록) = <D_COLOR_G>
+색상(파랑) = <D_COLOR_B>
+색상(α) = <D_COLOR_A>
+확대율(x) = <D_ZOOM_X>
+확대율(y) = <D_ZOOM_Y>
+확대율(z) = <D_ZOOM_Z>
+확대율(a) = <D_ZOOM_A>
 각도(x) = <D_ANGLE_X>
 각도(y) = <D_ANGLE_Y>
 각도(z) = <D_ANGLE_Z>
@@ -162,36 +162,36 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 좌표(x) = <D_COORD_X>
 좌표(y) = <D_COORD_Y>
 좌표(z) = <D_COORD_Z>
-색 값(빨강) = <D_COLOR_R>
-색 값(초록) = <D_COLOR_G>
-색 값(파랑) = <D_COLOR_B>
-색 값(α) = <D_COLOR_A>
-확대 비율(x) = <D_ZOOM_X>
-확대 비율(y) = <D_ZOOM_Y>
-확대 비율(z) = <D_ZOOM_Z>
-확대 비율(a) = <D_ZOOM_A>
+색상(빨강) = <D_COLOR_R>
+색상(초록) = <D_COLOR_G>
+색상(파랑) = <D_COLOR_B>
+색상(α) = <D_COLOR_A>
+확대율(x) = <D_ZOOM_X>
+확대율(y) = <D_ZOOM_Y>
+확대율(z) = <D_ZOOM_Z>
+확대율(a) = <D_ZOOM_A>
 각도(x) = <D_ANGLE_X>
 각도(y) = <D_ANGLE_Y>
 각도(z) = <D_ANGLE_Z>
 
 [ENDBLOCK]
-공간
+하늘
 [ENDBLOCK]
-<grey1>공백(존재하지 않음)</color>
+<grey1>하늘(존재하지 않음)</color>
 [ENDBLOCK]
-외형
+외각
 [ENDBLOCK]
-<grey1>외형(존재하지 않음)</color>
+<grey1>외각(존재하지 않음)</color>
 [ENDBLOCK]
-구름 1
+구름1
 [ENDBLOCK]
-<grey1>구름 1(존재하지 않음)</color>
+<grey1>구름1(존재하지 않음)</color>
 [ENDBLOCK]
-구름 2
+구름2
 [ENDBLOCK]
-<grey1>구름 2(존재하지 않음)</color>
+<grey1>구름2(존재하지 않음)</color>
 [ENDBLOCK]
-객체 선택
+오브젝트 선택
 [ENDBLOCK]
 <x18><x66><x1C><x00><x80>（<x17><x66><x10><x1B><x70><x08><xAB><x20><x8B><x80>）
 <TAG_052>（<x17><x66><x10><x1B><x70><x08><xAB><x21><x8B><x80>）
@@ -202,10 +202,10 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <TAG_070>(<TAG_071>, <TAG_072> x <TAG_074> + <TAG_033>)
 
 [ENDBLOCK]
-상태 선택
+스테이터스 선택
 [ENDBLOCK]
 좌표
-색 값
+색상
 확대율
 각도
 
@@ -213,15 +213,15 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <TAG_073>, <TAG_072>
 
 [ENDBLOCK]
-공백
+하늘
 [ENDBLOCK]
-외형
+외각
 [ENDBLOCK]
-구름 1
+구름1
 [ENDBLOCK]
-구름 2
+구름2
 [ENDBLOCK]
-잘못된 객체
+잘못된 오브젝트
 [ENDBLOCK]
 과거의 좌표(x)→<TAG_078>
 
@@ -261,14 +261,14 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <TAG_054>의 좌표
 [ENDBLOCK]
-번호（<TAG_033>）,인원 번호（<TAG_034>）
+번호（<TAG_033>）, 인물 번호（<TAG_034>）
 좌표(x) = <TAG_078>
 좌표(y) = <TAG_079>
 좌표(z) = <TAG_080>
 가산 = <TAG_051>
 
 [ENDBLOCK]
-번호（<TAG_033>）：좌표(x) = <TAG_078>
+번호（<TAG_033>）: 좌표(x) = <TAG_078>
 좌표(y) = <TAG_079>
 좌표(z) = <TAG_080>
 
@@ -279,69 +279,69 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 가산 변경→<TAG_050>
 
 [ENDBLOCK]
-과거의 색 값(빨강)→<TAG_036>
+과거의 색상(빨강)→<TAG_036>
 
 [ENDBLOCK]
-현재의 색 값(빨강)→<TAG_036>
+현재의 색상(빨강)→<TAG_036>
 
 [ENDBLOCK]
-과거의 색 값(빨강)→<TAG_036>
+과거의 색상(빨강)→<TAG_036>
 
 [ENDBLOCK]
-현재의 색 값(빨강)→<TAG_036>
+현재의 색상(빨강)→<TAG_036>
 
 [ENDBLOCK]
-과거의 색 값(초록)→<TAG_037>
+과거의 색상(초록)→<TAG_037>
 
 [ENDBLOCK]
-현재의 색 값(초록)→<TAG_037>
+현재의 색상(초록)→<TAG_037>
 
 [ENDBLOCK]
-과거의 색 값(초록)→<TAG_037>
+과거의 색상(초록)→<TAG_037>
 
 [ENDBLOCK]
-현재의 색 값(초록)→<TAG_037>
+현재의 색상(초록)→<TAG_037>
 
 [ENDBLOCK]
-과거의 색 값(파랑)→<TAG_038>
+과거의 색상(파랑)→<TAG_038>
 
 [ENDBLOCK]
-현재의 색 값(파랑)→<TAG_038>
+현재의 색상(파랑)→<TAG_038>
 
 [ENDBLOCK]
-과거의 색 값(파랑)→<TAG_038>
+과거의 색상(파랑)→<TAG_038>
 
 [ENDBLOCK]
-현재의 색 값(파랑)→<TAG_038>
+현재의 색상(파랑)→<TAG_038>
 
 [ENDBLOCK]
-과거의 색 값(α)→<TAG_039>
+과거의 색상(α)→<TAG_039>
 
 [ENDBLOCK]
-현재의 색 값(α)→<TAG_039>
+현재의 색상(α)→<TAG_039>
 
 [ENDBLOCK]
-과거의 색 값(α)→<TAG_039>
+과거의 색상(α)→<TAG_039>
 
 [ENDBLOCK]
-현재의 색값(α)→<TAG_039>
+현재의 색상(α)→<TAG_039>
 
 [ENDBLOCK]
-<TAG_054>의 색값
+<TAG_054>의 색상
 [ENDBLOCK]
-※128이 표준 색값입니다
-번호（<TAG_033>）,인원번호（<TAG_034>）
-색값(빨강) = <TAG_036>
-색값(초록) = <TAG_037>
-색값(파랑) = <TAG_038>
-색값(α) = <TAG_039>
+※128이 표준 색상입니다
+번호（<TAG_033>）, 인물 번호（<TAG_034>）
+색상(빨강) = <TAG_036>
+색상(초록) = <TAG_037>
+색상(파랑) = <TAG_038>
+색상(α) = <TAG_039>
 
 [ENDBLOCK]
-번호（<TAG_033>）,인원번호（<TAG_034>）
-색값(빨강) = <TAG_036>
-색값(초록) = <TAG_037>
-색값(파랑) = <TAG_038>
-색값(α) = <TAG_039>
+번호（<TAG_033>）, 인물 번호（<TAG_034>）
+색상(빨강) = <TAG_036>
+색상(초록) = <TAG_037>
+색상(파랑) = <TAG_038>
+색상(α) = <TAG_039>
 
 [ENDBLOCK]
 과거의 확대율(x)→<TAG_040>
@@ -395,14 +395,14 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <TAG_054>의 확대율
 [ENDBLOCK]
 ※4096이 표준 크기입니다
-번호（<TAG_033>）,인원번호（<TAG_034>）
+번호（<TAG_033>）, 인물 번호（<TAG_034>）
 확대율(x) = <TAG_040>
 확대율(y) = <TAG_041>
 확대율(z) = <TAG_042>
 확대율(a) = <TAG_043>
 
 [ENDBLOCK]
-번호（<TAG_033>）,인원번호（<TAG_034>）
+번호(<TAG_033>), 인물 번호(<TAG_034>)
 확대율(x) = <TAG_040>
 확대율(y) = <TAG_041>
 확대율(z) = <TAG_042>
@@ -436,25 +436,25 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 과거의 각도(z)→<TAG_046>
 
 [ENDBLOCK]
-현재의 각도(z)→<TAG_046>
+현재 각도(z)→<TAG_046>
 
 [ENDBLOCK]
 과거의 각도(z)→<TAG_046>
 
 [ENDBLOCK]
-현재의 각도(z)→<TAG_046>
+현재 각도(z)→<TAG_046>
 
 [ENDBLOCK]
 <TAG_054>의 회전 각도
 [ENDBLOCK]
 ※360도＝4096입니다
-번호（<TAG_033>）,인원번호（<TAG_034>）
+번호（<TAG_033>）、인물번호（<TAG_034>）
 각도(x) = <TAG_044>
 각도(y) = <TAG_045>
 각도(z) = <TAG_046>
 
 [ENDBLOCK]
-번호（<TAG_033>）,인원번호（<TAG_034>）
+번호(<TAG_033>), 인물 번호(<TAG_034>)
 각도(x) = <TAG_044>
 각도(y) = <TAG_045>
 각도(z) = <TAG_046>
@@ -462,305 +462,305 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-우프…
+우웁……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-아가씨, 괜찮으세요?
+도련님, 괜찮으세요?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-사실 쉽게 멀미를 한다니,
+사실 멀미를 잘 한다니,
 의외의 약점이네요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…잘 들어, 샤를.
-이건 절대 저 녀석들에게 말하지 마.
+……잘 들어, 샤르.
+이 일은 절대 그들에게 말하지 마.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-그건 말하지 않을게요…
+그야, 말하지 않겠지만요……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어이, <Lion>！
+어이, <Lion>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-응? 얼굴색이 좋지 않네.
+응? 안색이 좋지 않네.
 괜찮아?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…무슨 용건이야?
+……무슨 일이야?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-용건이라고 할 것도 없지만.
-가끔은 남자끼리, 이야기라도 하지 않을래?
+별 일은 아니지만 말이야.
+가끔은 남자들끼리 얘기라도 하지 않을래?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-나는 너랑 이야기할 일이 없다.
+난 너와 할 얘기 같은 건 없어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-이봐, 안 들렸어?
+이봐, 못 들었어?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…<Ilene> 씨는, 좋겠더라.
+……<Ilene> 씨는 정말 좋은 것 같아.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Stahn>, 너…
+<Stahn>, 너……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-「누구도 미워하지 않고,
-모두가 웃을 수 있는 장소를 만들고 싶어」
+「누구도 서로 미워하지 않고,
+모두가 함께 웃을 수 있는 곳을 만들고 싶어」
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇게 말할 수 있는 건,
-대단하더라.
+그렇게 단호하게 말할 수 있다는 게,
+대단하지 않아?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-게다가, 착하고…
-예쁘고…
+게다가, 친절하고……
+예쁘고……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-이봐<Lion>.
+있잖아 <Lion>.
 너, 좋아하는 사람 있어?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-바, 바보 같은 질문 하지 마!
+바, 바보 같은 소리 하지 마!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-없어?
+없는 거야?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-너한테는 관계없는 거잖아.
+너, 너랑은 상관없잖아.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-원래 내 경우, 그런 게…
+애초에 내 경우엔, 그런 게……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-문득 깨닫고 보니,<Ilene> 씨를,
-멍하니 생각하고 있더라고.
+문득 깨닫고 보면, <Ilene> 씨 생각을
+멍하니 하고 있더라고.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-이게 혹시 사랑일까?
+이거, 혹시 사랑인 걸까?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-두 분 모두, 즐거워 보이네요.
-무슨 이야기 중이에요?
+두 분 다 즐거워 보이네요.
+무슨 얘기하세요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-남자들끼리의 비밀 이야기!
+남자들끼리의 비밀 얘기야!
 그렇지, <Lion>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-너 혼자서,
-멋대로 떠들고 있었던 거잖아.
+네가 혼자서
+마음대로 떠들고 있었을 뿐이잖아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어? 그렇게 말했나.
+어라? 그랬나?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn> 씨와<Lion> 씨,
-사이가 좋군요.
+<Stahn> 씨와 <Lion> 씨,
+사이가 좋네요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-뭐, 그렇지.
+그렇지.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-농담은 그만둬. 너랑 내가,
+농담은 그만둬. 너와 내가
 언제 사이가 좋아졌다고.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-부끄러워할 필요는 없잖아.
+부끄러워하지 않아도 돼.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-누가 부끄러워하고 있냐！
+누가 부끄러워해!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-나는 너처럼 뻔뻔하고,
-너무 밝고, 친근하게 대하는 녀석이 정말 싫다！
+난 너처럼 뻔뻔하고,
+능청맞고, 친근한 놈이 정말 싫어!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-…무슨 일이야？
+……왜 그래?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-내가 있으면 방해가 될까 해서.
-봐, 금방 비꼬는 말을 하잖아.
+내가 있으면 분위기 깰 거 같아서.
+봐, 바로 비꼬는 말을 하잖아.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-…그렇구나. 그럼 나는,
-<Rutee> 곁에 있을게.
+……그래. 그렇다면 나는
+<Rutee> 곁에 있겠어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-신경 쓰지 않아도 괜찮은데.
+신경 쓰지 않아도 되는데.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>는…
+<Rutee>는……
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-…<Rutee>는,
+……<Rutee>는,
 <Rutee>가 하고 싶은 대로 하면 돼.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-…고마워.
+……고마워.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-섬이 보이기 시작했다！
+해안이 보인다!
 [ENDBLOCK]
 선장
 [ENDBLOCK]
-시덴 영토의 해안입니다.
-가까이 다가갈 수 있는 건 이 근처가 한계입니다.
+시덴 영지의 해안입니다.
+이 정도가 접근할 수 있는 한계예요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 좋아. 보트로 갈아타고,
-시덴 영토에 상륙하자！
+시덴 영지에 상륙하자!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>…
+<Stahn>……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…나는 <Lion>를 믿어.
+……나는 <Lion>을 믿는다.
 무슨 일이 있어도.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-…
+……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-아, 바다는 넓고 기분이 좋네요.
+아- 바다는 넓고 기분 좋네요.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-배 여행도 오랜만이니,
-부잣집 아가씨도 즐기자고요.
+배 여행도 오랜만이고,
+도련님도 즐기세요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-샤르, 관광 여행이 아니야.
+샤르, 이건 구경하러 온 여행이 아니야.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-우리는 무슨 일이 있어도 신의 눈을 되찾아야 해.
-그걸 잊지 말아줘.
+우리는 무슨 일이 있어도 신의 눈을 되찾아야
+해. 그걸 잊지 말아줘.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-저기, 부잣집 아가씨.
-하나 물어봐도 될까요？
+저기, 도련님.
+하나 여쭤봐도 될까요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-뭔데？
+뭐지?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-부잣집 아가씨는,<Rutee>에게 자신이
-실제 남동생이라고 말하지 않나요？
+도련님은 <Rutee>에게 자신이
+친동생이라고 말하지 않으실 건가요?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
 그쪽은 그 사실을
-모르는 듯했어요.
+모르는 것 같았어요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-나는 저 녀석이 마음에 들지 않아.
-그래서, 전할 필요도 없어.
+난 그 여자가 싫어.
+그러니까, 말할 필요도 없어.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-하지만, 보세요. 이전에 <Hugo> 님이 <Rutee>를
-죽게 두라는 발언을 하셨을 때.
+하지만, 있잖아요. 전에 <Hugo> 님이 <Rutee>를
+죽게 내버려두겠다는 말씀을 하셨을 때.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-아가씨,
-화나셨죠?
+도련님,
+화내셨잖아요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그건, 그 남자에게
-분노를 느꼈던 거야.
+그건, 그 남자에 대해
+분노를 느낀 거야.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-뭐랄까… 그 녀석의 내게
-대하는 진심을, 엿본 거라고 해야 할까.
+뭐랄까…… 그 남자의 내게 대한
+본심을 엿본 것이라고 해야 할까.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-그렇군요… 어?
+그렇군요…… 어라?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…무슨 일이야, 샤르…
+……왜 그래, 샤르……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Dymlos>가 부르고 있습니다.
-선실로 돌아갑시다.
+<Dymlos>가 부르고 있어요.
+선실로 돌아가죠.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…으윽.
+……우웁.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-아, 그러고 보니 아가씨는
-멀미가 심하다고 했죠.
+아, 그러고 보니 도련님은
+멀미가 심하셨죠.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…
+……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-어, 어떻게 할까요, 아가씨.
-선실로 돌아갈 수 있나요.
+어, 어떡하죠, 도련님.
+선실로 돌아갈 수 있으세요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-샤르…
+샤르……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -768,91 +768,91 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-너만 돌아가줘…
+너만 돌아가 줘……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-어…
+어……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
 역시 아쿠아베일은
-멀리 있네요.
+멀군요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그렇고 보면 샤르는 내가 만나기 전까지
-아쿠아베일에…
+그러고 보니 샤르는 나를 만나기 전까지
+아쿠아베일에……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-네, 그렇습니다. 하지만, 솔직히
-좋은 기억은 없네요.
+네. 하지만, 솔직히 그다지 좋은
+추억은 없네요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…
+……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-말해주지 않을 건가?
+말해주지 않을 거야?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-굳이 들어도 재미있는 이야기
-는 아니에요.
+별로 들어도 재미있는 얘기
+아니에요.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-그런 것보다, 노이슈타트에서는
-<Stahn>과 잘 지냈네요.
+그것보다, 노이슈타트에서는
+<Stahn>네랑 잘 지냈잖아요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-이야기를 돌리지 마.
+화제를 돌리지 마.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-아, 그런 말 하지 마세요.
-모두와 협력하고 있을 때의 아가씨.
+정말, 그렇게 말씀하시면서.
+모두와 협력하고 있을 때의 도련님.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-정말 즐거워 보였어요.
+정말 즐거워 보이셨어요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…흥, 바보 같은 소리 하지 마.
+……흥, 바보 같은 소리 하지 마.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-하지만 샤르…
-나에게는, 즐겁지 않은 일도 있어.
+하지만 말이야, 샤르……
+나에겐, 즐겁지 않은 일도 있어.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-무슨 일이에요?
+뭔가요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Rutee>라고.
+<Rutee>야.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-…무슨 뜻인가요?
+……무슨 뜻이세요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그 여자…내 누나라는 건데,
-다루기 힘들고… 어쩔 수 없어…
+그 여자…… 내 누나라는데,
+다루기 힘들어서…… 어쩔 수 없어……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-소년…?
+도련님……?
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>현재 소지하고 있는 가르드:<TAG_033>가르드
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
@@ -860,7 +860,7 @@ notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x04><x80></color>가
 [ENDBLOCK]
-파티에 합류했습니다.
+파티에 가입했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
@@ -872,9 +872,9 @@ notice
 [ENDBLOCK]
 <x18><x65><x58><xF4><x00><x80><x18><x65><x58><xF8><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x04><x80></color>가
 [ENDBLOCK]
@@ -882,16 +882,16 @@ notice
 [ENDBLOCK]
 <x18><x65><x58><xF4><x00><x80><x18><x65><x58><xF8><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x28><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x28><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x24><x00><x80></color>를 획득했습니다.
+<x18><x65><x59><x24><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
 <x19><x69><x49><x18><x80>들은
 [ENDBLOCK]
-<turquoise>거래 칭호
+<turquoise>교역 칭호
 [ENDBLOCK]
 <x19><x69><x49><x18><x80>들은
 [ENDBLOCK]
@@ -903,11 +903,11 @@ notice
 [ENDBLOCK]
 <x19><x69><x49><x18><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>내추럴 레인저
+칭호: <turquoise>네이처 레인저
 [ENDBLOCK]
 <x19><x69><x49><x18><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>대시 시리즈
+칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
 <x19><x69><x49><x18><x80>들은
 [ENDBLOCK]
@@ -917,9 +917,9 @@ notice
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x49><x18><x80>는
+<x19><x69><x49><x18><x80>은(는)
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x59><x1C><x00><x80>
 <x18><x65><x59><x20><x00><x80>
@@ -927,152 +927,151 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>는
+<x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 패스워드를 발급합니다.
-이 ID와 패스워드를 연동 웹사이트에
-입력하는 것으로, 데스티니의 세계가
-더욱 확장됩니다.
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에서
+입력하면, 데스티니의 세계가
+더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>자세한 사항은 아래 URL에서 확인해 주세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 패스워드는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+<TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>게임 중의 이벤트나 미니게임을
 클리어하면 연동 ID와 게임 패스워드가
-발급될 수 있습니다.
+발행되는 경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>이 연동 ID와 게임 패스워드를
-웹사이트에 입력함으로써 데스티니
-의 세계가 더욱 확장됩니다.
+웹사이트에 입력하면 데스티니
+세계가 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 패스워드를 잊어버렸다면
+연동 ID와 게임 패스워드를 잊어버린 경우에는
 피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
 [ENDBLOCK]
-첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-설정이 이루어지지 않았습니다！（tod=<TAG_059>）
+설정이 없습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-장치는 활성화되어 있지 않습니다.
+장치가 작동하고 있지 않습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-워프 장치가 활성화되었습니다.
+워프 장치가 작동했습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x19><x71><x49><x04><x80>의 소디언 장치가
+<TAG_007><x19><x71><x49><x04><x80>의 소디언 디바이스가
 사용 가능해졌습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>「칭호의 설명」
 칭호란 캐릭터에 설정할 수 있는,
-캐릭터 파라미터 중 하나입니다.
+캐릭터 파라미터의 하나입니다.
 구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>메인 메뉴를 연 후, 캐릭터의
-상태를 표시합니다.
-그 화면에서<Square_ani>를 누르면, 캐릭터의
-상태 표시를 전환할 수 있습니다.
+스테이터스를 표시합니다.
+그 화면에서 <Square_ani>을 누르면, 캐릭터의
+스테이터스 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
-페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
+<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
 획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>칭호의 쓰임새는 두 가지입니다.
-첫 번째는…
-「칭호를 설정하고, 마을 사람에게 이야기하자」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는……
+「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
-당신에게 관심을 가지는 사람이 있습니다.
-마을 사람에게 몇 번 이야기했을 때,
-신기한 행동을 할 때가 있습니다.
-그 때는, 가지고 있는 칭호를 다시 설정한 후,
-다시 이야기해 보세요.
+<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
+당신에게 흥미를 보이는 사람이 있습니다. 마을 사람들에게 여러 번
+말을 걸었을 때, 이상한 행동을 하는 경우가 있습니다.
+그때는 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 말을 걸어보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
-머리 위에 「？」가 나타날 수 있습니다.
-그때는, 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 설정하고, 다시 이야기해 보세요.
-무언가 기쁜 일이 일어날지도 모릅니다.
+<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
+머리 위에 「？」가 나타나는 경우가 있습니다.
+그때는 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 말을 걸어보세요.
+뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>쓰임새의 두 번째는…
-「상태 화면을 멋지게 하자」
-모은 칭호 중에서, 만약 마음에 드는 것이 있다면,
-설정하여 상태 화면을 멋지게 연출해 보세요.
+<TAG_007>사용법의 두 번째는……
+「스테이터스 화면을 멋지게 꾸며보자」
+모은 칭호 중에서 마음에 드는 것이 있다면,
+설정해서 스테이터스 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「돌차기 놀이는」,
+<TAG_007>「돌차기 놀이」란,
 필드에 있는 돌을 차서,
 특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는, 돌차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 드나들면,
-		돌은 원래 장소로 돌아갑니다.
+2: 전투는 돌차기 놀이의 클리어 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
+		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

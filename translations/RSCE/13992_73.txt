@@ -654,7 +654,7 @@ reset---------
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-판다리아로 가는 거지?
+팬더리아로 가는 거지?
 나도 같이 갈 거야!
 [ENDBLOCK]
 <Stahn>
@@ -939,10 +939,10 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 네
 아니요
 [ENDBLOCK]
-다릴셰이드 항구
+다릴쉐이드 항구
 
 [ENDBLOCK]
-체릭 항구
+체리크 항구
 
 [ENDBLOCK]
 노이슈타트 항구
