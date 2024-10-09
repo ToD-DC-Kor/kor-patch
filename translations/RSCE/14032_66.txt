@@ -1328,12 +1328,12 @@ select
 아아!
 빨리 시작했으면 좋겠어.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 뭐 찾는 고양이냥?
 
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 또 와도 좋다냥.
 

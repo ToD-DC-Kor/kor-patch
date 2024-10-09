@@ -1267,7 +1267,7 @@ select
 [ENDBLOCK]
 하이델베르크
 [ENDBLOCK]
-고양이인 기지
+고양이맨 기지
 [ENDBLOCK]
 ???
 [ENDBLOCK]

@@ -91,17 +91,17 @@
 응, 엄청 기뻐하셨어.
 그리고 사례도 받아버렸어.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
-고양이인 기지에 오신 것을 환영합니다냥.
+고양이맨 기지에 오신 것을 환영합니다냥.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 헤에. 특이한 사람들이네.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
-고양이인들은 지난번 포격으로
+고양이맨들은 지난번 포격으로
 하늘로 날아가 버린 고양이들이에요.
 [ENDBLOCK]
 토끼인
@@ -114,7 +114,7 @@
 하지만 우리는 이 외각 대지를
 파괴하려고 여기 있는 건데……
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 괜찮다냥, 괜찮다냥.
 
@@ -153,7 +153,7 @@
 [ENDBLOCK]
 안, 안게 해줘……
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 뭐, 뭐야……
 눈이 무서워 냥. 이 사람……
@@ -162,7 +162,7 @@
 [ENDBLOCK]
 자, 괜찮잖아~.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 안, 안 돼 냥!
 우리, 우리는 이미 성인 냥이라고.
@@ -171,7 +171,7 @@
 [ENDBLOCK]
 성인!
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 그, 그래 냥!
 그러니까 안기는 건……
@@ -180,18 +180,18 @@
 [ENDBLOCK]
 얼마나 불균형한가~♪
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 알, 알겠다냥. 안기는 대신
 좋은 걸 줄 테니까.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 자, 이쪽으로 오라냥.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
-이걸로 누구나 고양이인 기분.
+이걸로 누구나 고양이맨 기분.
 네코네코 슈트!
 [ENDBLOCK]
 <Kongman>
@@ -530,28 +530,28 @@ page <TAG_035>, top <TAG_033>, selno <TAG_034>
 number <x17><x45><x5A><xDC><x07><x72><x08><x72><x00><x8B><x21><x8C><x8B><xE8><xCF><x70><x00><xAA><x80>
 
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 왠지 피곤해 보이는
 것 같냥~.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 <TAG_007>좁지만, 쉬고 가냥.
 네
 아니요
 
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 마침 날씨도
 나빠지고 있냥.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 그럼, 잘 자~냥~.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 아쉽냥.
 [ENDBLOCK]
@@ -581,77 +581,77 @@ number <x17><x45><x5A><xDC><x07><x72><x08><x72><x00><x8B><x21><x8C><x8B><xE8><xC
 [ENDBLOCK]
 ……<S05>앗!	안녕하세요.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 이렇게 보여도 옛날엔 자유롭게
 여러 나라를 돌아다녔다냥!
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 냥!?	비슷한 사람을
 알고 있는 거냥?
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 누구나 한 번쯤은 자유를 찾아
 여행을 떠나고 싶어 하는 법이냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 보아하니, 너희들은
 자유롭지 않은 것 같다냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 하지만 부자유 속에서야말로
 자유의 의미를 알게 되는 법이냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 자유를 찾아 여행을 떠나보는 것도
 중요한 일이라고 생각한다냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 이렇게 보여도 옛날엔 자유롭게
 여러 나라를 돌아다녔다냥!
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 냥!?	비슷한 사람을
 알고 있는 거냥?
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 누구나 한 번쯤은 자유를 찾아
 여행을 떠나고 싶어 하는 법이냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 보아하니, 너희들도 자유를
 만끽하고 있는 것 같다냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 이렇게 보여도 옛날엔 자유롭게
 여러 나라를 돌아다녔다네코!
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 냐코!?	비슷한 사람을
 알고 있는 거네코?
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 누구나 한 번쯤은 자유를 찾아
 여행을 떠나고 싶어 하는 법이네코.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 보아하니, 너희들은
 자유롭지 않은 것 같다네코.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 자유로운 신분은 좋은 거네~코.
 [ENDBLOCK]
@@ -817,366 +817,366 @@ number <x17><x45><x5A><xDC><x07><x72><x08><x72><x00><x8B><x21><x8C><x8B><xE8><xC
 저승 가는 길에 좋은 경험을
 하게 해주셨어요.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 빛이끼를 발견했냥.
 대지를 파낸 흙덩이에서 빛나는 초록색……
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 신비롭게 끌리는
 환상적인 풍경으로 느껴집니다
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 미의 감성이 잘못된 걸지도
 모르냥……
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 도깨비불을 발견했냥.
 미도 이치는 알고 있냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 그래서 더욱 죽은 자의
 영혼에 생각이 미치게 되냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 검은지렁이를 발견했냥.
 체색이 검은 데다 빠르니까
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 미 같은 늙은 눈으로는
 찾기가 어려운 거냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 뭐, 기분 좋은 것도 아니니까
 제대로 볼 생각도 없냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 계율의 석판을 발견했냥.
 <Greybum>의 전란에 편승해 석판을
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 훔친 놈들이 벨크란트의
 포격에 휘말렸냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 미는 이렇게 추측하고 있냥.
 자업자득이란 거냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 티아의 꽃을 발견했냥.
 예쁘지만 위험하다니……
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 정말 미를 닮았냥♪
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 큰뿔장수벌레를
 발견했냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 겉모습만 있고 속은 없는
 전형적인 예시 같은 녀석이냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 해골바위를 발견했냥.
 보기에도 무섭지만, 비명 같은
 소리도 무서워냥!
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 일, 일반적인 얘기를 하는 거지,
 미가 무서워하는 건 아니냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 기리기리스를 발견했냥.
 정말 아슬아슬한 녀석이라
 좀 동정이 가냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 불타는 나무망치를 발견했냥.
 반경 3미터는 위험 지대냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 열풍이 불어닥쳐서 가까이 가면
 화상을 입어버리냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 토잔카를 발견했냥.
 높은 산에서만 볼 수 있는 꽃을
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 보통으로 걸어서 볼 수 있다니
 좀 득한 기분이냥♪
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 젖은쥐를 발견했냥.
 입은 옷이 비에 흠뻑 젖은 사람을
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 젖은쥐라고 부르는 건
 그 녀석이 유래가 됐냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 ……농담이냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 거머리개구리를 발견했냥.
 사람의 피를 빨아먹다니……
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 파렴치한 악행이냥!
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 짜증풀을 발견했냥.
 사실 미가 제일 좋아하는 거냥♪
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 야~호. 속았냥.
 그런 거 먹으면 배탈이
 날 게 뻔하냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 행복새를 발견했냥.
 사실 옛날에 미도 그 녀석을 잡은 적이
 있었냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 그때는 행복했냥.
 하지만 왠지 공허해서,
 곧바로 놓아줬냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 그때, 미는 남이 준
 행복으로 만족할 만큼 그릇이 작은
-고양이인이 아니라는 걸 깨달았냥.
+고양이맨이 아니라는 걸 깨달았냥.
 [ENDBLOCK]
 은거 노인
 [ENDBLOCK]
 그럼, 여기서 들은
 귀가 솔깃한 이야기를 해드릴게요……
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 로디온 근처에는
 환상적인 분위기를 가진 식물이
 자생하고 있냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 어떤 식물인지는,
 보면서 즐기시냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 안스준 주변에는,
 지상 생물의 원념이 공중을
 떠도는 장소가 있냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 가볍게 입에 담는 건 그만두는
 편이 유를 위해 좋냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 원념은 농담이 아니냥……
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 슈사이아 근처에서 빠르게 움직이는
 동물을 발견했냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 그 녀석의 움직임은 매우 빨라서
 유가 잡기는 어려울 거냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 이그나시 근처에서, 팬더리아
 왕가에서 소재를 알 수 없게 된
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 보물을 보았냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 어째서 그런 곳에 방치되어
 있었는지…… 미스터리냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 슈사이아 근처에는 겉보기에는
 예쁘지만 위험한 약의 재료가 되는
 식물이 자생하고 있냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 예쁘지만, 위험하다니……
 마치 미 같냥♪
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 녹색 외각에는 곤충도 있냥.
 확실히 기술 연구 시설이 있는 공중도시
 근처였던 것 같냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 ……틀렸다면 미안하냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 다이크로프트 근처에는 무서운
 비명 소리가 들리는 곳이 있냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 안타깝게도 정체는
 확인할 수 없었냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 미가 무서워서 도망쳤다고
 유는 생각하고 있냥?
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 주변을 살펴봤지만, 정말로
 아무것도 없었냥!
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 안스준 주변에는, 생명의
 소중함과 덧없음을 체현하는
 건강한 곤충이 있냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 꼭 유도 찾아서 자유의
 소중함을 실감했으면 좋겠냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 수호룡의 제어실이 있었던
 공중도시 근처에서,
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 강렬한 열기를 느꼈냥.
 더워서 되돌아왔기 때문에
 원인은 모르겠냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 지상의 고원에도 자라는 산남자에게
 친숙한 식물이, 군사기지였던
 공중도시 주변에서도 볼 수 있냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 어느 공중도시인지 모르겠냥?
 거기는……
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 하, 하여튼 군사기지였던
 공중도시냥!
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 그런 것도 모르냥
 ……정말 곤란하냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 로디온 주변에는 지상에서
 볼 수 없는 희귀한 동물이
 서식하고 있냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 이렇게 빨리 새로운 종의 생명이 탄생하는
 건, 역시 이상하냥!
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 다이크로프트 주변에는 해를
 가하는 동물이 있으니,
 주의해서 걸을 필요가 있냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 은근한 수법을 쓰는 녀석이라
 조심하지 않으면 큰 부상을 입냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 어떤 공중도시 주변에는,
 실험 플랜트에서 넘쳐난 위험한
 식물이 자생하고 있냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 아픈 꼴을 당하지 않도록
 조심해서 걸으냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 어떤 공중도시인지 모르겠냥?
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 그, 그러니까…… 초록이 가득한
 실험 플랜트……
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 미안하냥……
 이름은 잊어버렸냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 기술 연구 시설이 있는 공중도시
 근처에는, 사람들이 간절히 바라는
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 소원을 이뤄줄 수 있는 동물이
 서식하고 있냥. 자세한 장소는……
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 ……비・밀・이・냥♪
 [ENDBLOCK]
@@ -1185,47 +1185,47 @@ number <x17><x45><x5A><xDC><x07><x72><x08><x72><x00><x8B><x21><x8C><x8B><xE8><xC
 디스커버리 도감에
 정보가 기록되었습니다.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 멈추는 것도 자유,
 앞으로 나아가는 것도 자유냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 다만, 시간이 지나도
 미가 여기 있었다는 걸
 잊지 말아 주냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 냥!! ……드디어, 드디어
 이 세상의 이치를 모두 봤냥!
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 대단하냥! 유들이야말로
 이 이름을 내걸기에 어울리냥!
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 아니, 유들밖에 없냥!
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 축하하냥!
 「네이처레인저」!
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 설마, 이런 날이 올 줄은
 상상도 못했냥.
 [ENDBLOCK]
-은거 고양이인
+은거 고양이맨
 [ENDBLOCK]
 저승 갈 때 가져갈 좋은 경험을
 하게 해줬네~냥.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 이 하늘 대지 위에는
 아무것도 없어서 심심하냥.
@@ -1233,75 +1233,75 @@ number <x17><x45><x5A><xDC><x07><x72><x08><x72><x00><x8B><x21><x8C><x8B><xE8><xC
 토끼인
 [ENDBLOCK]
 우싸우싸!
-이렇게 고양이인을
+이렇게 고양이맨을
 놀리고 있다우사요.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 구석을 좋아하냥.
 
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 진정해 냥~.
 
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 또 와도 좋다냥.
 
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 내 앞에 있는 건 「노코」야.
 엄청 맛있어 보이지?
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 아, 실수했네.
 맛있어 보이네요 냥.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 로켓 만들기는 피곤하다냥.
 조용히 자게 해주세요 냥~.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 햇살이 기분 좋다냥~.
 골골송.
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 슬래시.
 
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 슬래시.
 
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 슬래시.
 
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 아직 갈 길이 멀다냥!
 
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 냐옹, 냐옹, 냐옹.
 
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 왜 안 잡히는 거냥?
 
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 꾸벅~ 꾸벅~.
 
@@ -1328,12 +1328,12 @@ number <x17><x45><x5A><xDC><x07><x72><x08><x72><x00><x8B><x21><x8C><x8B><xE8><xC
 칭호 수+-리온=><x17><x72><x00><x72><x08><x8C><x80>, MAX=><x09><x8F><x00><x00><x00>
 
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 냐~!
 		냐~!
 [ENDBLOCK]
-고양이인
+고양이맨
 [ENDBLOCK]
 (……토끼인의 상대도
 지치는구나 냥……)
@@ -1861,7 +1861,7 @@ select
 [ENDBLOCK]
 하이델베르크
 [ENDBLOCK]
-고양이인 기지
+고양이맨 기지
 [ENDBLOCK]
 ???
 [ENDBLOCK]
