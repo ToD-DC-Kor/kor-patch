@@ -1464,7 +1464,7 @@ select
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-거리의 대로를 북쪽으로 가면
+거리의 광장에서 북쪽으로 가면
 끝에 입구가 있어요.
 [ENDBLOCK]
 <Stahn>
