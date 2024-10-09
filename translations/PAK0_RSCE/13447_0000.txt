@@ -152,18 +152,18 @@ select
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북: 칼비올라 방면
+ 북: 까르비올라 방면
  남:  방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
-북동: 칼비올라 방면
+북동: 까르비올라 방면
  남: 정크랜드 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
 북서: 정크랜드 방면
- 동: 칼비올라 방면
+ 동: 까르비올라 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]

@@ -74,7 +74,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 엘레나
 [ENDBLOCK]
-어머니는 칼비올라 사람이고,
+어머니는 까르비올라 사람이고,
 아버지는 세인가르드 사람이에요.
 [ENDBLOCK]
 <Stahn>
@@ -219,7 +219,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 시장
 [ENDBLOCK]
-우리 칼비올라 사람이 가면,
+우리 까르비올라 사람이 가면,
 여기보다 더 힘든 결과가 될 거다.
 [ENDBLOCK]
 엘레나
@@ -267,7 +267,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 엘레나
 [ENDBLOCK]
-게다가 저는 칼비올라 사람도
+게다가 저는 까르비올라 사람도
 세인가르드 사람도 정말 좋아해요.
 [ENDBLOCK]
 내쉬

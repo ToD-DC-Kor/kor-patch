@@ -250,7 +250,7 @@
 아줌마
 [ENDBLOCK]
 여기가 칼바레이스의 수도,
-칼비올라야.
+까르비올라야.
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]
@@ -265,7 +265,7 @@
 아줌마
 [ENDBLOCK]
 여기가 칼바레이스의 수도,
-칼비올라야.
+까르비올라야.
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]
@@ -598,7 +598,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-여기가 칼비올라?
+여기가 까르비올라?
 드디어 도착했네. 아, 덥다~~.
 [ENDBLOCK]
 여자

@@ -1657,7 +1657,7 @@
             "string": "カルビオラにレンズを求めて[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "칼비올라에서 렌즈를 찾아[END]"
+            "translation": "까르비올라에서 렌즈를 찾아[END]"
         },
         {
             "offset": 80760,
@@ -3813,14 +3813,14 @@
             "string": "チェリクはカルビオラの南[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "체리크는 칼비올라의 남쪽[END]"
+            "translation": "체리크는 까르비올라의 남쪽[END]"
         },
         {
             "offset": 88072,
             "string": "チェリクはカルビオラから南[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "체리크는 칼비올라에서 남쪽[END]"
+            "translation": "체리크는 까르비올라에서 남쪽[END]"
         },
         {
             "offset": 88104,
@@ -3939,14 +3939,14 @@
             "string": "チェリクの北のカルビオラへ[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "체리크의 북쪽 칼비올라로[END]"
+            "translation": "체리크의 북쪽 까르비올라로[END]"
         },
         {
             "offset": 88480,
             "string": "カルビオラはチェリクの北[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "칼비올라는 체리크의 북쪽[END]"
+            "translation": "까르비올라는 체리크의 북쪽[END]"
         },
         {
             "offset": 88512,

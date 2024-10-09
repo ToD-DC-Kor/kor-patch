@@ -537,42 +537,42 @@
             "string": "カルビオラ神殿B(夜)[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "칼비올라 신전B(밤)[END]"
+            "translation": "까르비올라 신전B(밤)[END]"
         },
         {
             "offset": 1729592,
             "string": "カルビオラ神殿A(夜)[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "칼비올라 신전A(밤)[END]"
+            "translation": "까르비올라 신전A(밤)[END]"
         },
         {
             "offset": 1729616,
             "string": "カルビオラ神殿B[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "칼비올라 신전B[END]"
+            "translation": "까르비올라 신전B[END]"
         },
         {
             "offset": 1729632,
             "string": "カルビオラ神殿A[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "칼비올라 신전A[END]"
+            "translation": "까르비올라 신전A[END]"
         },
         {
             "offset": 1729648,
             "string": "首都カルビオラA(夜)[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "수도 칼비올라A(밤)[END]"
+            "translation": "수도 까르비올라A(밤)[END]"
         },
         {
             "offset": 1729672,
             "string": "首都カルビオラA[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "수도 칼비올라A[END]"
+            "translation": "수도 까르비올라A[END]"
         },
         {
             "offset": 1729688,

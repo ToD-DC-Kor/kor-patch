@@ -558,7 +558,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 여자아이
 [ENDBLOCK]
 마을 앞에 떨어진 돌을
-칼비올라까지 차보세요.
+까르비올라까지 차보세요.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
@@ -572,7 +572,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 여자아이
 [ENDBLOCK]
 마을 앞에 떨어진 돌을
-칼비올라까지 차보세요.
+까르비올라까지 차보세요.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
@@ -718,7 +718,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-칼바레이스의 수도 칼비올라에,
+칼바레이스의 수도 까르비올라에,
 신전 지부가 있었을 겁니다.
 [ENDBLOCK]
 <Clemente>
@@ -728,7 +728,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-칼비올라는 어디에 있지?
+까르비올라는 어디에 있지?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -1271,7 +1271,7 @@ select
 [ENDBLOCK]
 체리크
 [ENDBLOCK]
-칼비올라
+까르비올라
 [ENDBLOCK]
 정크랜드
 [ENDBLOCK]

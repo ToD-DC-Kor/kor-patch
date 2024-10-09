@@ -247,7 +247,7 @@
 아줌마
 [ENDBLOCK]
 여기가 칼바레이스의 수도,
-칼비올라야.
+까르비올라야.
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]
@@ -262,7 +262,7 @@
 아줌마
 [ENDBLOCK]
 여기가 칼바레이스의 수도,
-칼비올라야.
+까르비올라야.
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]
@@ -645,7 +645,7 @@
 <Baruk>
 [ENDBLOCK]
 <Lion>이 아닌가!?	
-역시 칼비올라에 와 있었구나.
+역시 까르비올라에 와 있었구나.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]

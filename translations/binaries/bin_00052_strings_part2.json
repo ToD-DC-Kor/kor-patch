@@ -96,7 +96,7 @@
             "string": "カルビオラの街でレンズを[LINE]\n回収した[Stahn]たち。[LINE]\n街の人々の声援はなかった[LINE]\nが、レンズを提供してくれた[LINE]\nだけでも、十分協力的と[LINE]\nいえるだろう。[END]",
             "original_bytes_length": 135,
             "available_bytes_size": 135,
-            "translation": "칼비올라의 마을에서 렌즈를[LINE]\n회수한 [Stahn] 일행.[LINE]\n마을 사람들의 응원은 없었지만,[LINE]\n렌즈를 제공해준 것만으로도,[LINE]\n충분히 협력적이라고[LINE]\n말할 수 있을 것이다.[END]"
+            "translation": "까르비올라의 마을에서 렌즈를[LINE]\n회수한 [Stahn] 일행.[LINE]\n마을 사람들의 응원은 없었지만,[LINE]\n렌즈를 제공해준 것만으로도,[LINE]\n충분히 협력적이라고[LINE]\n말할 수 있을 것이다.[END]"
         },
         {
             "offset": 34784,
@@ -1195,7 +1195,7 @@
             "string": "カルビオラの宿に滞在して[LINE]\nいた[Stahn]たちは、[LINE]\n夜になってから行動を開始[LINE]\nする。[LINE]\n[Philia]が神殿の裏口の[LINE]\n鍵を開けてくれている[LINE]\nはずだ。[END]",
             "original_bytes_length": 125,
             "available_bytes_size": 127,
-            "translation": "칼비올라의 숙소에 머물던[LINE]\n[Stahn] 일행은,[LINE]\n밤이 되자 행동을 시작한다.[LINE]\n[Philia]가 신전의 뒷문의[LINE]\n열쇠를 열어주고 있을[LINE]\n것이다.[END]"
+            "translation": "까르비올라의 숙소에 머물던[LINE]\n[Stahn] 일행은,[LINE]\n밤이 되자 행동을 시작한다.[LINE]\n[Philia]가 신전의 뒷문의[LINE]\n열쇠를 열어주고 있을[LINE]\n것이다.[END]"
         },
         {
             "offset": 54032,
@@ -1209,7 +1209,7 @@
             "string": "カルビオラに到着した[LINE]\n[Stahn]たちは、[LINE]\n街の住人からストレイライズ[LINE]\n神殿の場所を聞き出す。[LINE]\nそこに[Greybum]がいるかも[LINE]\nしれない。[END]",
             "original_bytes_length": 118,
             "available_bytes_size": 119,
-            "translation": "칼비올라에 도착한[LINE]\n[Stahn] 일행은,[LINE]\n마을 주민으로부터 스트레이라이즈[LINE]\n신전의 위치를 물어본다.[LINE]\n그곳에 [Greybum]이[LINE]\n있을지도 모른다.[END]"
+            "translation": "까르비올라에 도착한[LINE]\n[Stahn] 일행은,[LINE]\n마을 주민으로부터 스트레이라이즈[LINE]\n신전의 위치를 물어본다.[LINE]\n그곳에 [Greybum]이[LINE]\n있을지도 모른다.[END]"
         },
         {
             "offset": 54280,
@@ -1223,7 +1223,7 @@
             "string": "[Stahn]たちは[LINE]\n[Greybum]らしき一団が、[LINE]\nカルバレイスの首都である[LINE]\nカルビオラへ向かった事を[LINE]\n突き止める。[LINE]\nそして後を追うべく、[LINE]\nチェリクの街を後にする。[END]",
             "original_bytes_length": 141,
             "available_bytes_size": 143,
-            "translation": "[Stahn] 일행은[LINE]\n[Greybum] 같은 일행이,[LINE]\n칼바레이스의 수도인[LINE]\n칼비올라로 향한 것을[LINE]\n알아낸다.[LINE]\n그리고 뒤를 쫓기 위해,[LINE]\n체리크의 마을을 떠난다.[END]"
+            "translation": "[Stahn] 일행은[LINE]\n[Greybum] 같은 일행이,[LINE]\n칼바레이스의 수도인[LINE]\n까르비올라로 향한 것을[LINE]\n알아낸다.[LINE]\n그리고 뒤를 쫓기 위해,[LINE]\n체리크의 마을을 떠난다.[END]"
         },
         {
             "offset": 54440,
@@ -2049,7 +2049,7 @@
             "string": "カルビオラの宿に滞在していた[LINE]\n[Lion]たち。夜になり、[LINE]\n辺りが静まり返る時を[LINE]\n見計って、行動を開始する。[LINE]\n[Philia]が神殿の裏口の[LINE]\n鍵を開けてくれているはずだ。[END]",
             "original_bytes_length": 148,
             "available_bytes_size": 151,
-            "translation": "칼비올라의 숙소에 머물고 있던[LINE]\n[Leon] 일행.[LINE]\n밤이 되고, [LINE]\n주변이 조용해지는 순간을[LINE]\n보고, 행동을 시작한다.[LINE]\n[Philia]가 신전의 뒷문 열쇠를[LINE]\n열어주고 있을 것이다.[END]"
+            "translation": "까르비올라의 숙소에 머물고 있던[LINE]\n[Leon] 일행.[LINE]\n밤이 되고, [LINE]\n주변이 조용해지는 순간을[LINE]\n보고, 행동을 시작한다.[LINE]\n[Philia]가 신전의 뒷문 열쇠를[LINE]\n열어주고 있을 것이다.[END]"
         },
         {
             "offset": 69584,
@@ -2070,14 +2070,14 @@
             "string": "カルビオラに到着した[LINE]\n[Lion]たちは、街の住人から[LINE]\nストレイライズ神殿の場所を[LINE]\n聞き出す。[LINE]\n神殿はどうやら街の中に[LINE]\nあるようだ。[END]",
             "original_bytes_length": 121,
             "available_bytes_size": 127,
-            "translation": "칼비올라에 도착한[LINE]\n[Lion] 일행은, 마을 주민으로부터[LINE]\n스트레이라이즈 신전의 위치를[LINE]\n물어본다.[LINE]\n신전은 어떻게든 마을 안에[LINE]\n있는 것 같다.[END]"
+            "translation": "까르비올라에 도착한[LINE]\n[Lion] 일행은, 마을 주민으로부터[LINE]\n스트레이라이즈 신전의 위치를[LINE]\n물어본다.[LINE]\n신전은 어떻게든 마을 안에[LINE]\n있는 것 같다.[END]"
         },
         {
             "offset": 70040,
             "string": "[Lion]は[Greybum]らしき[LINE]\n一団が、カルバレイスの[LINE]\n首都であるカルビオラへ[LINE]\n向かった事を突き止める。[LINE]\n後を追うべく、急ぎ[LINE]\nチェリクの街を後にする。[END]",
             "original_bytes_length": 134,
             "available_bytes_size": 135,
-            "translation": "[Lion]은[Greybum] 일행이,[LINE]\n칼바레이스의[LINE]\n수도인 칼비올라로[LINE]\n향했다는 사실을 밝혀낸다.[LINE]\n뒤를 쫓기 위해, 급히[LINE]\n체리크의 마을을 떠난다.[END]"
+            "translation": "[Lion]은[Greybum] 일행이,[LINE]\n칼바레이스의[LINE]\n수도인 까르비올라로[LINE]\n향했다는 사실을 밝혀낸다.[LINE]\n뒤를 쫓기 위해, 급히[LINE]\n체리크의 마을을 떠난다.[END]"
         },
         {
             "offset": 70176,

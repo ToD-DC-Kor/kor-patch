@@ -344,7 +344,7 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
-칼비올라의 북쪽을 조사해 줘.
+까르비올라의 북쪽을 조사해 줘.
 
 [ENDBLOCK]
 프란츠
@@ -1169,7 +1169,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
-아무래도 칼비올라 북쪽에
+아무래도 까르비올라 북쪽에
 있는 것 같다는 것까진 알았지만……
 [ENDBLOCK]
 <Stahn>
