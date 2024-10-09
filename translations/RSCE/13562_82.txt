@@ -14,7 +14,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-어떻게든 탈출할 수 있었나……
+겨우 탈출할 수 있었나……
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -144,7 +144,7 @@
 <Stahn>
 [ENDBLOCK]
 <Hugo>……!
-네 같은 놈이 있으니까……!
+너 같은 놈이 있으니까……!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
