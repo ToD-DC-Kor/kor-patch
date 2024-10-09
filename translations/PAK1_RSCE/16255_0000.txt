@@ -1,12 +1,12 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Rutee>와<Stahn>의
-소디언을 찾으러……
+<Rutee>와 <Stahn>의
+소디언을 가지러……
 [ENDBLOCK]
 일단 저택으로 돌아갈까.
 [ENDBLOCK]
