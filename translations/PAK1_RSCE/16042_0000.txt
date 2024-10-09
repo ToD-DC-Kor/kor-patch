@@ -1,22 +1,21 @@
 
-부록
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Johnny>씨에게도, 꿈 같은 것이 있나요?
+<Johnny> 님도 꿈 같은 게 있으세요?
 [ENDBLOCK]
-아, 물론이지.
+아아, 물론이지.
 [ENDBLOCK]
-어차피 귀찮은 일을 내팽개치고,
-재미있고 즐겁게 살고 싶다는 거겠지?
+어차피 귀찮은 일은 다 떠넘기고,
+재미나게 살고 싶다는 거겠죠?
 [ENDBLOCK]
-<Rutee>, 그건 좀 과장된 거 아냐?
-<Johnny>씨도 이렇게 보이지만 실제로는……
+<Rutee>, 그건 좀 심한 말 아니야?
+<Johnny> 님도 이렇게 보여도 사실은……
 [ENDBLOCK]
-정답이다. 대단한 걸.
-<Rutee>.
+정답이야. 대단하네, <Rutee>.
 [ENDBLOCK]
-보는 그대로라는 거네.
+보이는 그대로네요.
 [ENDBLOCK]
