@@ -1,10 +1,10 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 왕좌로 가자. 아마도
-<Woodrow>가 거기 있을 거야.
+<Woodrow>는 그곳에 있을 거야.
 [ENDBLOCK]

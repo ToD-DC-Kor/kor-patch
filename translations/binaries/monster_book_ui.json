@@ -1,0 +1,137 @@
+{
+    "00066.md1_ui": [
+        {
+            "offset": 42088,
+            "string": "謎の影？[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "의문의 그림자?[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 42104,
+            "string": "[Cross_ani]戻る [Square_ani]ページ切替 [L1_ani][R1_ani]ソート切替[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "[Cross_ani]뒤로 [Square_ani]페이지 전환 [L1_ani][R1_ani]정렬 전환[END]"
+        },
+        {
+            "offset": 42152,
+            "string": "[Cross_ani]戻る [Square_ani]ページ切替 [L1_ani][R1_ani]ソート切替 [L3_ani][R3_ani]図鑑切替[END]",
+            "original_bytes_length": 66,
+            "available_bytes_size": 71,
+            "translation": "[Cross_ani]뒤로 [Square_ani]페이지 전환 [L1_ani][R1_ani]정렬 전환 [L3_ani][R3_ani]도감 전환[END]"
+        },
+        {
+            "offset": 42224,
+            "string": "遭遇率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "조우율[END]"
+        },
+        {
+            "offset": 42232,
+            "string": "エンカウント数[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "인카운트 수[END]"
+        },
+        {
+            "offset": 42248,
+            "string": "最大ヒット数[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "최대 히트 수[END]"
+        },
+        {
+            "offset": 42288,
+            "string": "最大HP[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "최대HP[END]"
+        },
+        {
+            "offset": 42296,
+            "string": "経験値[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "경험치[END]"
+        },
+        {
+            "offset": 42304,
+            "string": "ガルド[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "가르드[END]"
+        },
+        {
+            "offset": 42312,
+            "string": "落とす物[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "드롭 아이템[END]"
+        },
+        {
+            "offset": 42360,
+            "string": "攻撃[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "공격[END]"
+        },
+        {
+            "offset": 42368,
+            "string": "術攻[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "술공[END]"
+        },
+        {
+            "offset": 42376,
+            "string": "防御[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "방어[END]"
+        },
+        {
+            "offset": 42384,
+            "string": "術防[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "술방[END]"
+        },
+        {
+            "offset": 42392,
+            "string": "耐性属性[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "저항 속성[END]"
+        },
+        {
+            "offset": 42408,
+            "string": "弱点属性[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "약점 속성[END]"
+        },
+        {
+            "offset": 42424,
+            "string": "ディフィニットストライク[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "디피니트 스트라이크[END]"
+        },
+        {
+            "offset": 42456,
+            "string": "名前[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "이름[END]"
+        },
+        {
+            "offset": 42464,
+            "string": "レベル[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "레벨[END]"
+        }
+    ]
+}
