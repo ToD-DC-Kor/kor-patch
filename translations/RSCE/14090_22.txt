@@ -1,298 +1,300 @@
 <Stahn>
 [ENDBLOCK]
-응…
+으윽……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee> 괜찮아?
+<Rutee>, 괜찮아?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-어떻게 해줄 거야!? 네 때문이야, 땅이 꺼졌잖아!
+무슨 짓이야!?
+네 때문에 땅이 무너졌잖아!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee> 다치진 않았어?
+<Rutee>는 어디 다친 데 없어?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-아직 멀쩡해!
+멀쩡하다고!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇구나… 다행이야.
+그래…… 다행이다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너 정말…
+있잖아……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-내가 도와주려 했던 마음은 고맙게 받을게.
+날 도우려 했던 마음은
+고맙게 받을게.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-…너무 쓸데없는 참견이었지만.
+……쓸데없는 참견이었지만.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-와, 꽤 높은 곳에서 떨어졌네.
-이건, 기어 올라가기 힘들겠어.
+우와, 꽤 높은 데서 떨어졌네.
+이거 올라갈 수 있을 것 같지 않아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>이들이 도와주러 올 때까지,
-기다리는 수밖에 없겠지…
+<Lion>이 구하러 올 때까지
+기다릴 수밖에 없겠네……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-하지만 뭐,
-<Rutee>가 아무렇지 않아서 다행이야.
+그래도 뭐,
+<Rutee>가 무사해서 다행이야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그 얘기는 이제 그만해.
+그 얘기는 이제 그만하라고.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-돈이 중요하다는 건 알겠지만,
-여자아이니까 몸은 소중히 해야 해.
+돈이 중요한 건 알겠지만,
+여자애니까 몸 관리 잘해야지.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-…！
+……!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그게 뭐야…
+뭐야 그게……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-돈이 중요하다는 걸 알아? 너한테 뭔데!
+돈이 중요한 걸 안다고?
+넌 뭘 안다는 거야?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-어? 그건…
+어? 그건……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-대체, 조용히 듣고 있으면 뭐가 돼?
-여자아이니까 몸은 소중히 하라구?
+그리고 가만히 듣고 있자니, 뭐야?
+여자애니까 몸 관리 잘하라고?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-농담도 아니야. 왜 너한테,
-그런 말을 들어야 해.
+농담하지 마. 왜 네가
+그런 소리를 해야 하는 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아니, 그건.
-우리, 동료잖아.
+아니, 그래도.
+우리 동료 아니야?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-동료. 동료라니.
+동료. 동료라……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-예전부터 생각했는데,
-너 정말 세상 물정 모르는구나.
+전부터 생각했는데,
+넌 정말 세상 물정 모르는구나.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그래서 그렇게 순진하게,
-동료니 뭐니, 입에 담을 수 있는 거야.
+그래서 그렇게 순진하게
+동료니 뭐니 말할 수 있는 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런가…?
+그런가……?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-결국은 혜택을 받는 환경에서 자란다는 거야.
-하지만 나는, 당신과는 달라.
+결국 넌 좋은 환경에서 자랐다는 거지.
+하지만 난 너와는 달라.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-서 있는 장소가 전혀 달라.
-함께 묶어 생각하지 말아줬으면 해.
+서 있는 위치가 완전히 다르다고.
+한 묶음으로 취급하지 말아줘.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>…
+<Rutee>……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-하아…
+하아……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-서 있는 장소가 다르다, 가…
-그런 건 한 번도 생각해본 적이 없었어…
+서 있는 위치가 다르다, 라……
+그런 걸 생각해 본 적도 없었어……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…<Rutee>는 왜,
-렌즈 헌터가 되었는지?
+……<Rutee>는 왜
+렌즈 헌터가 된 거야?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 내 일은 상관없잖아.
-당신과는 관계없어.
+너랑은 관계없어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-이참에 좀 말해줘.
-나는 예전부터 궁금했어.
+이 기회에 말해줘.
+난 전부터 의문이었거든.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-…뭘?
+……뭐가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>는 돈이나 렌즈가 얽히면,
-어떤 무리한 짓도 평범하게 하잖아.
+<Rutee>는 돈이나 렌즈만 나오면,
+어떤 무리한 짓도 서슴지 않잖아.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-솔직히 욕심쟁이라고 말하면 돼.
+솔직히 탐욕스럽다고 하면 되겠네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-혹시, 자신의 목숨보다,
-돈이나 렌즈가 더 중요하다고
-생각하고 있는 건 아니야?
+혹시 자기 몸보다
+돈이나 렌즈가 더 중요하다고 생각하는 거 아니야?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-당연하지, 그런 건.
-궁금해할 필요도 없어.
+당연하잖아, 그런 건.
+의문을 가질 것도 없다고.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그건 아무리 그래도, 다르지 않아?
-보통, 목숨과 바꿀 수는 없잖아.
+그건 아무리 그래도 아니지 않아?
+보통은 목숨과는 바꿀 수 없잖아.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그래서 당신은,
-혜택을 받고 있다고 말하는 거야.
+그래서 네가
+부유하다고 하는 거야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-눈앞의 작은 돈에 매달리지 않으면,
+눈앞의 작은 돈이라도 잡지 않으면
 내일의 생활도 힘들어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그런 사람이 가까이에 있다면,
-돈보다 목숨이라고 말할 수 없게 될 거야.
+그런 사람이 가까이 있다면,
+돈보다 목숨이 중요하다고 말할 수 없게 돼.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그럼<Rutee>가,
-돈이나 렌즈를 모으는 이유는…
+그럼 <Rutee>가
+돈이나 렌즈를 모으는 이유는……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-아…
+아……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇구나… 그런 거였구나…
+그렇구나…… 그랬던 거구나……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 미안해.
-무리하게 캐물은 것 같아서.
+억지로 들으려고 한 것 같아.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-나는 별로,
-아무것도 말하지 않았어…
+난 별로
+아무 말도 하지 않았는데……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇다면, 역시 내가 한 말이,
+그렇다면 역시 내가 한 말이
 맞다고 생각해.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-무슨 이야기야?
+무슨 얘기야?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 기다리는 사람이 있다면,
-더욱더, 목숨은 소중히 해야 해.
+더더욱 목숨을 소중히 해야 해.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇잖아<Rutee>에게 무슨 일이 생기면,
+<Rutee>에게 무슨 일이 생기면,
 그 사람이 슬퍼할 거잖아?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-…！
+……!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-음, 나도 큰소리 칠 처지는 아니지만.
-가족에게 많이 걱정 끼쳤겠지.
+뭐, 나도 잘난 척할 순 없지만.
+가족들에게 걱정 많이 끼쳤을 테니까.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-큭! 아프다…
+으윽! 아야야……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-무슨 일이야!?
+왜 그래!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-방금 떨어졌을 때 어디 부딪혔나 봐.
-괜찮아 괜찮아, 나는 몸이 튼튼하니까.
+아까 떨어질 때 어디 부딪힌 것 같아.
+괜찮아 괜찮아, 난 체격이 튼튼하니까.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너, 혹시 떨어질 때,
-나를 안고…
+너, 혹시 떨어질 때
+날 감싸 안은 거야……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-응, 뭐…
+응, 뭐……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-혼자만 아프고,
-게다가 지금까지 얼렁뚱땅 넘어갔다는 거야?
+너만 아프고,
+게다가 지금까지 숨기고 있었다고?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-바보! 너 쪽이,
-훨씬 무리잖아!
+바보! 네가
+훨씬 더 무모하잖아!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 <Rutee>는 소중한 동료잖아.
-이 정도는 당연해.
+이 정도는 당연하지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-미안하지만, 이건,
-나는 양보할 생각 없어.
+미안하지만, 이건
+양보할 생각 없어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너란 놈은…
+너란 녀석은……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…도움이, 빨리 오면 좋겠네.
+……도움이 빨리 왔으면 좋겠다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>현재 소지하고 있는 가르드:<TAG_033>가르드
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
@@ -300,7 +302,7 @@ notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>가
 [ENDBLOCK]
-파티에 합류했습니다.
+파티에 가입했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
@@ -312,9 +314,9 @@ notice
 [ENDBLOCK]
 <x18><x65><x57><xB4><x00><x80><x18><x65><x57><xB8><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color>가
 [ENDBLOCK]
@@ -322,16 +324,16 @@ notice
 [ENDBLOCK]
 <x18><x65><x57><xB4><x00><x80><x18><x65><x57><xB8><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
 [ENDBLOCK]
-<x18><x65><x57><xE4><x00><x80></color>를 획득했습니다.
+<x18><x65><x57><xE4><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-<turquoise>거래 칭호
+<turquoise>교역 칭호
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
@@ -343,11 +345,11 @@ notice
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>내추럴 레인저
+칭호: <turquoise>네이처 레인저
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>대시 시리즈
+칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>들은
 [ENDBLOCK]
@@ -357,9 +359,9 @@ notice
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x47><xD8><x80>는
+<x19><x69><x47><xD8><x80>은(는)
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x57><xDC><x00><x80>
 <x18><x65><x57><xE0><x00><x80>
@@ -367,150 +369,150 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>는
+<x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
-이 ID와 비밀번호를 연동 웹사이트에
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에서
 입력하면, 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>자세한 내용은 아래의 URL에서 확인해 주세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+<TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>게임 중의 이벤트나 미니게임을
-클리어하면 연동 ID와 게임 비밀번호가
-발급될 수 있습니다.
+클리어하면 연동 ID와 게임 패스워드가
+발행되는 경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>이 연동 ID와 게임 비밀번호를
+<TAG_007>이 연동 ID와 게임 패스워드를
 웹사이트에 입력하면 데스티니
-의 세계가 더욱 넓어집니다.
+세계가 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 비밀번호를 잊어버린 경우는
-피츠갈드에 있는 여행자의 오두막에서
+연동 ID와 게임 패스워드를 잊어버린 경우에는
+피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외관 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
 [ENDBLOCK]
-1단계 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-2단계 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-3단계 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-최종 단계 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-설정이 이루어지지 않았습니다！（tod=<TAG_059>）
+설정이 없습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-장치는 작동하고 있지 않습니다.
+장치가 작동하고 있지 않습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 워프 장치가 작동했습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x19><x71><x47><xC4><x80>의 소디언 장치가
+<TAG_007><x19><x71><x47><xC4><x80>의 소디언 디바이스가
 사용 가능해졌습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「칭호 설명」
+<TAG_007>「칭호의 설명」
 칭호란 캐릭터에 설정할 수 있는,
-캐릭터 파라미터 중 하나입니다.
+캐릭터 파라미터의 하나입니다.
 구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>메인 메뉴를 연 후, 캐릭터의
-상태를 표시합니다.
-그 화면에서<Square_ani>를 누르면, 캐릭터의
-상태 표시를 전환할 수 있습니다.
+스테이터스를 표시합니다.
+그 화면에서 <Square_ani>을 누르면, 캐릭터의
+스테이터스 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
-페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
+<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
 획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>칭호의 용도는 두 가지가 있습니다.
-첫 번째는…
-「칭호를 설정하고, 마을 사람에게 말을 걸어보세요」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는……
+「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>거리 사람들 중에는, 칭호를 세팅하고 이야기 걸어
-당신에게 관심을 가지는 사람이 있습니다. 거리 사람들에게 몇 번
-이야기 걸었을 때, 이상한 행동을 할 때가 있습니다.
-그럴 때는, 가지고 있는 칭호를 다시 세팅한 후,
-다시 이야기 걸어보세요.
+<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
+당신에게 흥미를 보이는 사람이 있습니다. 마을 사람들에게 여러 번
+말을 걸었을 때, 이상한 행동을 하는 경우가 있습니다.
+그때는 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 말을 걸어보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>힌트: 거리 사람에게 이야기 걸었을 때, 플레이어의
-머리 위에「？」가 나올 수 있습니다.
-그럴 때는, 거리 사람의 대사와 관련이 있을 것 같은
-칭호를 세팅하고, 다시 이야기 걸어보세요.
-무언가 기쁜 일이 일어날지도 모릅니다.
+<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
+머리 위에 「？」가 나타나는 경우가 있습니다.
+그때는 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 말을 걸어보세요.
+뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>사용 방법 두 번째는…
-「스탯 화면을 멋지게 꾸미자」
-모은 칭호 중에서, 만약 마음에 드는 것이 있다면,
-세팅해서 스탯 화면을 멋지게 연출해 봅시다.
+<TAG_007>사용법의 두 번째는……
+「스테이터스 화면을 멋지게 꾸며보자」
+모은 칭호 중에서 마음에 드는 것이 있다면,
+설정해서 스테이터스 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「돌 차기 놀이」란,
+<TAG_007>「돌차기 놀이」란,
 필드에 있는 돌을 차서,
 특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 룰을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는, 돌 차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 드나들면,
+2: 전투는 돌차기 놀이의 클리어 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
 		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]

@@ -5,17 +5,17 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-으으.
+으윽.
 [ENDBLOCK]
-무슨 일이에요? 	<Woodrow>씨.
+무슨 일이세요? 	<Woodrow> 씨.
 [ENDBLOCK]
-방금 갑자기 소름이 돋는 것 같은……
-아마 기분 탓일 거야.
+방금, 갑자기 오한이 드는 것 같았어……
+아마 기분 탓이겠지만.
 [ENDBLOCK]
-안타깝군요. 눈치채였네요.
+아쉽네요. 눈치채셨군요.
 [ENDBLOCK]
-<Chelsea>! 	왜 활을 겨누고,
-<Woodrow>씨의 뒤에 서 있는 거야?
+<Chelsea>! 	왜 활을 겨누고
+<Woodrow> 씨 뒤에 서 있는 거야?
 [ENDBLOCK]
-그러니 그만하라고 말하고 있는 거야.
+그러니까 그만두라고 말하고 있잖아.
 [ENDBLOCK]
