@@ -6,5 +6,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 작은 배를 타고,
-모리유 성으로 침입합시다.
+모류 성에 침입합시다.
 [ENDBLOCK]
