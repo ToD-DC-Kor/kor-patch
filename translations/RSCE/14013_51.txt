@@ -112,7 +112,7 @@
 무기점
 [ENDBLOCK]
 좋은 무기들을 갖추고 있어.
-구경해 가.
+한번 구경해 보고 가.
 [ENDBLOCK]
 무기점
 [ENDBLOCK]
@@ -122,7 +122,7 @@
 무기점
 [ENDBLOCK]
 좋은 무기들을 갖추고 있어.
-구경해 가.
+한번 구경해 보고 가.
 [ENDBLOCK]
 무기점
 [ENDBLOCK]
@@ -753,7 +753,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 거리 사람
 [ENDBLOCK]
-<Ilene>이 한 일이
+<Ilene>가 한 일이
 이 거리 어디에 남아있다고
 말하는 거야, 말도 안 돼!
 [ENDBLOCK]
