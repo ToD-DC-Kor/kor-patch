@@ -373,7 +373,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그레밤을 물리친 후에
+글레밤을 물리친 후에
 만든 것인가.
 [ENDBLOCK]
 <Lion>
@@ -541,7 +541,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-여러분이 그레밤을 물리친
+여러분이 글레밤을 물리친
 이후로군요?
 [ENDBLOCK]
 <Lion>

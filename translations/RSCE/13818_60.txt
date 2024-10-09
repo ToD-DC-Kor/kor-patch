@@ -492,7 +492,7 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-대사제 그레밤이
+대사제 글레밤이
 갑자기 반란을 일으켰습니다!
 [ENDBLOCK]
 <Ayles>
@@ -502,7 +502,7 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-우리는 어쩔 수 없이 그레밤에게 항복하고
+우리는 어쩔 수 없이 글레밤에게 항복하고
 지금에 이르게 된 것입니다.
 [ENDBLOCK]
 <Lion>

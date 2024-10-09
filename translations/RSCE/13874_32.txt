@@ -106,7 +106,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-이제부터 그레밤을 추적하는데 있어서,
+이제부터 글레밤을 추적하는데 있어서,
 너희들에게 하나 제안이 있어.
 [ENDBLOCK]
 <Atwight>

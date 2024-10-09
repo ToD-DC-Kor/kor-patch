@@ -296,7 +296,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-저는 대사제…… 아니, 그레밤에게서
+저는 대사제…… 아니, 글레밤에게서
 신의 눈을 되찾아오겠습니다.
 [ENDBLOCK]
 <Philia>

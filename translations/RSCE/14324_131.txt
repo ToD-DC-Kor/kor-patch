@@ -14,7 +14,7 @@
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-그레밤의 부하 몬스터들 중에는
+글레밤의 부하 몬스터들 중에는
 모든 능력을 낮추는 놈들도 있습니다.
 [ENDBLOCK]
 <Darzen>
@@ -58,7 +58,7 @@
 남성
 [ENDBLOCK]
 여기 있는 사람들은
-그레밤에게 반항한 사람들입니다.
+글레밤에게 반항한 사람들입니다.
 [ENDBLOCK]
 남성
 [ENDBLOCK]

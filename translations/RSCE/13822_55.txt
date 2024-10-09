@@ -200,7 +200,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그레밤이 신의 눈을
+글레밤이 신의 눈을
 어디로 가져갔는지 알고 있나?
 [ENDBLOCK]
 <Philia>
@@ -252,7 +252,7 @@
 <Stahn>
 [ENDBLOCK]
 그럼 만약
-그레밤이 마음만 먹으면……
+글레밤이 마음만 먹으면……
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -271,7 +271,7 @@
 <Stahn>
 [ENDBLOCK]
 신의 눈을 그냥 둘 순 없어!
-그레밤을 잡아야 해!
+글레밤을 잡아야 해!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -292,7 +292,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그레밤의 얼굴을 아는 사람이
+글레밤의 얼굴을 아는 사람이
 함께 있어야 하니까.
 [ENDBLOCK]
 <Ayles>

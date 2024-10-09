@@ -777,7 +777,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그래, 그레밤은!?
+그래, 글레밤은!?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -846,7 +846,7 @@ select
 <Lion>
 [ENDBLOCK]
 원래대로라면 발룩과 협력해서
-그레밤을 잡을 수 있었을 텐데.
+글레밤을 잡을 수 있었을 텐데.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -864,7 +864,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-다음에 그레밤을 만났을 때는,
+다음에 글레밤을 만났을 때는,
 이렇게 되지 않을 거야.
 [ENDBLOCK]
 <Lion>
@@ -879,7 +879,7 @@ select
 <Lion>
 [ENDBLOCK]
 발룩!
-그레밤의 행선지를 알아냈나?
+글레밤의 행선지를 알아냈나?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
