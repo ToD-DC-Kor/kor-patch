@@ -5,36 +5,36 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-너와 이야기할 때～♪
+너와 이야기하면~♪
 [ENDBLOCK]
-겨울을 생각나게 해～♪
+겨울이 생각나~♪
 [ENDBLOCK]
-차갑게 대해져서～♪
+차갑게 대해져서~♪
 [ENDBLOCK]
-눈물이 나～♪
+눈물이 나~♪
 [ENDBLOCK]
-야, 노래를 그만두게 해.
+야, 노래 그만 불러.
 [ENDBLOCK]
-괜찮지 않아? 즐거운데.
+뭐 어때. 재밌는데.
 [ENDBLOCK]
-발끝으로 서지 않으면～♪
+키를 늘려야만~♪
 [ENDBLOCK]
-스스로에게 말해～♪
+타이르면서~♪
 [ENDBLOCK]
-진심을 숨기고～♪
+본심은 숨기고~♪
 [ENDBLOCK]
-쿨하게 가는 거야～♪
+쿨하게 가는 거야~♪
 [ENDBLOCK]
-누군가의 노래 같아.
+누군가의 노래 같네.
 [ENDBLOCK]
-그게 뭐 어때서?
+그게 어때서?
 [ENDBLOCK]
-모르는 건 항상～♪
+모르는 건 언제나~♪
 [ENDBLOCK]
-본인만이～야～♪
+당사자뿐인 거야~♪
 [ENDBLOCK]
 예~이♪
 [ENDBLOCK]
-……<Johnny> 서른두 번째, 
+……<Johnny> 32번,
 『겨울의 미소년』이라고.
 [ENDBLOCK]
