@@ -110,7 +110,7 @@
             "string": "ハイデルベルグの街で、[LINE]\nレンズを回収した[LINE]\n[Stahn]たち。[LINE]\n[Woodrow]は留守役の[LINE]\n[Darzen]に、苦難の時はあと[LINE]\n少しで終わる、それまで耐え[LINE]\n忍んで欲しいと告げる。[END]",
             "original_bytes_length": 142,
             "available_bytes_size": 143,
-            "translation": "하이델베르크의 마을에서,[LINE]\n렌즈를 회수한[LINE]\n[Stahn] 일행.[LINE]\n[Woodrow]는 대리인인[LINE]\n[Darzen]에게, 고난의 시간은[LINE]\n곧 끝나니까, 그때까지 참고[LINE]\n기를 바란다고 전한다.[END]"
+            "translation": "하이델베르그의 마을에서,[LINE]\n렌즈를 회수한[LINE]\n[Stahn] 일행.[LINE]\n[Woodrow]는 대리인인[LINE]\n[Darzen]에게, 고난의 시간은[LINE]\n곧 끝나니까, 그때까지 참고[LINE]\n기를 바란다고 전한다.[END]"
         },
         {
             "offset": 35064,
@@ -670,21 +670,21 @@
             "string": "[Stahn]たちは[LINE]\n[Woodrow]、[Chelsea][LINE]\nと再会する。[LINE]\nふたりを改めて仲間に加え、[LINE]\n一行はハイデルベルグを発つ[LINE]\n事に。[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "[Stahn] 일행은[LINE]\n[Woodrow], [Chelsea][LINE]\n과 재회한다.[LINE]\n둘을 다시 한번 동료로[LINE]\n추가하고, 일행은 하이델베르크를[LINE]\n떠나기로 한다.[END]"
+            "translation": "[Stahn] 일행은[LINE]\n[Woodrow], [Chelsea][LINE]\n과 재회한다.[LINE]\n둘을 다시 한번 동료로[LINE]\n추가하고, 일행은 하이델베르그를[LINE]\n떠나기로 한다.[END]"
         },
         {
             "offset": 45016,
             "string": "ハイデルベルグの街は、[LINE]\n以前と比べ、格段に活気に[LINE]\n満ちていた。[LINE]\n[Philia]の話では、[LINE]\nつい最近、[Woodrow]が[LINE]\n王位に就いたらしい。[LINE]\n一行は[Woodrow]に[LINE]\n会うべく、城を目指す。[END]",
             "original_bytes_length": 153,
             "available_bytes_size": 159,
-            "translation": "하이델베르크의 마을은,[LINE]\n이전과 비교해, 확실히 활기에[LINE]\n넘쳐 있었다.[LINE]\n[Philia]의 이야기에 따르면,[LINE]\n얼마 전, [Woodrow]가[LINE]\n왕위에 오른 것으로 보인다.[LINE]\n일행은 [Woodrow]에게[LINE]\n만나기 위해, 성을 향한다.[END]"
+            "translation": "하이델베르그의 마을은,[LINE]\n이전과 비교해, 확실히 활기에[LINE]\n넘쳐 있었다.[LINE]\n[Philia]의 이야기에 따르면,[LINE]\n얼마 전, [Woodrow]가[LINE]\n왕위에 오른 것으로 보인다.[LINE]\n일행은 [Woodrow]에게[LINE]\n만나기 위해, 성을 향한다.[END]"
         },
         {
             "offset": 45176,
             "string": "[Mary]は[Dalis]の[LINE]\n後押しを受け、再び[LINE]\n[Stahn]たちと行動を共にする[LINE]\n事になる。頼もしい仲間を[LINE]\n得て、意気あがる一行。[LINE]\n次の目的地は、[Woodrow]の[LINE]\nいるハイデルベルグ城だ。[END]",
             "original_bytes_length": 155,
             "available_bytes_size": 159,
-            "translation": "[Mary]는 [Dalis]의[LINE]\n후방을 받아, 다시[LINE]\n[Stahn] 일행과 행동을 함께[LINE]\n하게 된다. 믿음직한 동료를[LINE]\n얻어, 의기를 내는 일행.[LINE]\n다음 목적지는, [Woodrow]의[LINE]\n있는 하이델베르크 성이다.[END]"
+            "translation": "[Mary]는 [Dalis]의[LINE]\n후방을 받아, 다시[LINE]\n[Stahn] 일행과 행동을 함께[LINE]\n하게 된다. 믿음직한 동료를[LINE]\n얻어, 의기를 내는 일행.[LINE]\n다음 목적지는, [Woodrow]의[LINE]\n있는 하이델베르그 성이다.[END]"
         },
         {
             "offset": 45336,
@@ -761,7 +761,7 @@
             "string": "ハイデルベルグの決戦[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "하이델베르크의 결전[END]"
+            "translation": "하이델베르그의 결전[END]"
         },
         {
             "offset": 46488,
@@ -782,7 +782,7 @@
             "string": "[Stahn]たちは[LINE]\nハイデルベルグに到着する。[LINE]\n街は喪に服しているかの[LINE]\nように静まり返っていた。[LINE]\n一行は非常通路を用いて、[LINE]\n城に潜入する事にする。[END]",
             "original_bytes_length": 135,
             "available_bytes_size": 135,
-            "translation": "[Stahn] 일행은[LINE]\n하이델베르크에 도착한다.[LINE]\n마을은 애도에 빠져 있는 것처럼[LINE]\n조용했다.[LINE]\n일행은 비상통로를 이용하여,[LINE]\n성에 침투하기로 한다.[END]"
+            "translation": "[Stahn] 일행은[LINE]\n하이델베르그에 도착한다.[LINE]\n마을은 애도에 빠져 있는 것처럼[LINE]\n조용했다.[LINE]\n일행은 비상통로를 이용하여,[LINE]\n성에 침투하기로 한다.[END]"
         },
         {
             "offset": 46936,
@@ -796,14 +796,14 @@
             "string": "[Stahn]たちは[LINE]\nサイリルの街を出て、[LINE]\nハイデルベルグへ向け出発[LINE]\nする。[LINE]\n[Woodrow]は父イザークが[LINE]\nなぜサイリルに強硬な態度を[LINE]\n取ったのかわからず、[LINE]\nひとり思い悩む。[END]",
             "original_bytes_length": 150,
             "available_bytes_size": 151,
-            "translation": "[Stahn] 일행은[LINE]\n사이릴의 마을을 떠나,[LINE]\n하이델베르크로 향해 출발[LINE]\n한다.[LINE]\n[Woodrow]는 아버지 이자크가[LINE]\n왜 사이릴에 강경한 태도를[LINE]\n취했는지 모르고,[LINE]\n혼자 고민한다.[END]"
+            "translation": "[Stahn] 일행은[LINE]\n사이릴의 마을을 떠나,[LINE]\n하이델베르그로 향해 출발[LINE]\n한다.[LINE]\n[Woodrow]는 아버지 이자크가[LINE]\n왜 사이릴에 강경한 태도를[LINE]\n취했는지 모르고,[LINE]\n혼자 고민한다.[END]"
         },
         {
             "offset": 47104,
             "string": "[Mary]はついに記憶を[LINE]\n取り戻す。先に会った[Dalis][LINE]\nは[Mary]の夫だった。[LINE]\n[Dalis]は本当に、[Greybum]と[LINE]\n手を組んでいるのか？[LINE]\n真相を確かめるためにも、[LINE]\n早くハイデルベルグへと[LINE]\n向かわなければならない。[END]",
             "original_bytes_length": 183,
             "available_bytes_size": 183,
-            "translation": "[Mary]는 드디어 기억을[LINE]\n되찾는다. 먼저 만난 [Dalis]는[LINE]\n[Mary]의 남편이었다.[LINE]\n[Dalis]는 정말로, [Greybum]과[LINE]\n손을 잡고 있는 것인가?[LINE]\n진상을 확인하기 위해서도,[LINE]\n빨리 하이델베르크로[LINE]\n향해야만 한다.[END]"
+            "translation": "[Mary]는 드디어 기억을[LINE]\n되찾는다. 먼저 만난 [Dalis]는[LINE]\n[Mary]의 남편이었다.[LINE]\n[Dalis]는 정말로, [Greybum]과[LINE]\n손을 잡고 있는 것인가?[LINE]\n진상을 확인하기 위해서도,[LINE]\n빨리 하이델베르그로[LINE]\n향해야만 한다.[END]"
         },
         {
             "offset": 47288,
@@ -838,7 +838,7 @@
             "string": "[Greybum]は反乱軍を率いて[LINE]\nハイデルベルグを攻略した[LINE]\nらしい。[LINE]\n[Woodrow]と[Chelsea][LINE]\nを仲間に加え、[LINE]\n[Stahn]たちは[LINE]\nハイデルベルグへ向け、[LINE]\n出発する事にする。[END]",
             "original_bytes_length": 142,
             "available_bytes_size": 143,
-            "translation": "[Greybum]은 반란군을 이끌고[LINE]\n하이델베르크를 공략한[LINE]\n것으로 보인다.[LINE]\n[Woodrow]와 [Chelsea][LINE]\n를 동료로 추가하고,[LINE]\n[Stahn] 일행은[LINE]\n하이델베르크로 향해,[LINE]\n출발하기로 한다.[END]"
+            "translation": "[Greybum]은 반란군을 이끌고[LINE]\n하이델베르그를 공략한[LINE]\n것으로 보인다.[LINE]\n[Woodrow]와 [Chelsea][LINE]\n를 동료로 추가하고,[LINE]\n[Stahn] 일행은[LINE]\n하이델베르그로 향해,[LINE]\n출발하기로 한다.[END]"
         },
         {
             "offset": 47824,
@@ -1734,21 +1734,21 @@
             "string": "[Lion]たちは[LINE]\nハイデルベルグに到着する。[LINE]\n街は喪に服しているかの[LINE]\nように静まり返っていた。[LINE]\n一行は非常通路を用いて、[LINE]\n城に潜入する事にする。[END]",
             "original_bytes_length": 135,
             "available_bytes_size": 135,
-            "translation": "[Lion] 일행은[LINE]\n하이델베르크에 도착한다.[LINE]\n도시는 장례를 치르는 듯[LINE]\n조용히 침묵하고 있었다.[LINE]\n일행은 비상 통로를 이용해,[LINE]\n성에 잠입하기로 한다.[END]"
+            "translation": "[Lion] 일행은[LINE]\n하이델베르그에 도착한다.[LINE]\n도시는 장례를 치르는 듯[LINE]\n조용히 침묵하고 있었다.[LINE]\n일행은 비상 통로를 이용해,[LINE]\n성에 잠입하기로 한다.[END]"
         },
         {
             "offset": 63120,
             "string": "[Lion]たちは[LINE]\nサイリルの街を出て、[LINE]\nハイデルベルグへ向け出発する。[LINE]\n[Woodrow]は父イザークが[LINE]\nなぜサイリルに強硬な態度を[LINE]\n取ったのか分からず、[LINE]\nひとり思い悩む。[END]",
             "original_bytes_length": 149,
             "available_bytes_size": 151,
-            "translation": "[Lion] 일행은[LINE]\n사이리루를 떠나, [LINE]\n하이델베르크로 향해 출발한다.[LINE]\n[Woodrow]는 아버지 이자크가[LINE]\n왜 사이리루에 강경한 태도를[LINE]\n취했는지 알지 못하고,[LINE]\n혼자서 고민한다.[END]"
+            "translation": "[Lion] 일행은[LINE]\n사이리루를 떠나, [LINE]\n하이델베르그로 향해 출발한다.[LINE]\n[Woodrow]는 아버지 이자크가[LINE]\n왜 사이리루에 강경한 태도를[LINE]\n취했는지 알지 못하고,[LINE]\n혼자서 고민한다.[END]"
         },
         {
             "offset": 63272,
             "string": "[Mary]はついに記憶を[LINE]\n取り戻す。先に会った[Dalis]は[LINE]\n[Mary]の夫だった。[LINE]\n[Dalis]は本当に、[Greybum]と[LINE]\n手を組んでいるのか？[LINE]\n真相を確かめるためにも、[LINE]\n早くハイデルベルグへと[LINE]\n向かわなければならない。[END]",
             "original_bytes_length": 183,
             "available_bytes_size": 183,
-            "translation": "[Mary]는 드디어 기억을[LINE]\n되찾는다. 전에 만난[Dalis]는[LINE]\n[Mary]의 남편이었다.[LINE]\n[Dalis]는 정말로,[Greybum]과[LINE]\n손을 잡고 있는 것인가?[LINE]\n진실을 확인하기 위해서라도,[LINE]\n빨리 하이델베르크로[LINE]\n가야만 한다.[END]"
+            "translation": "[Mary]는 드디어 기억을[LINE]\n되찾는다. 전에 만난[Dalis]는[LINE]\n[Mary]의 남편이었다.[LINE]\n[Dalis]는 정말로,[Greybum]과[LINE]\n손을 잡고 있는 것인가?[LINE]\n진실을 확인하기 위해서라도,[LINE]\n빨리 하이델베르그로[LINE]\n가야만 한다.[END]"
         },
         {
             "offset": 63456,
@@ -1769,7 +1769,7 @@
             "string": "[Greybum]は反乱軍を率いて[LINE]\nハイデルベルグを攻略した[LINE]\nらしい。[LINE]\n[Woodrow]と[Chelsea]を[LINE]\n仲間に加え、[Lion]たちは[LINE]\nハイデルベルグへ向け、[LINE]\n出発する。[END]",
             "original_bytes_length": 129,
             "available_bytes_size": 135,
-            "translation": "[Greybum]은 반란군을 이끌고[LINE]\n하이델베르크를 정복한[LINE]\n모양이다.[LINE]\n[Woodrow]와[Chelsea]를[LINE]\n동료로 추가하고,[Lion] 일행은[LINE]\n하이델베르크로 향해,[LINE]\n출발한다.[END]"
+            "translation": "[Greybum]은 반란군을 이끌고[LINE]\n하이델베르그를 정복한[LINE]\n모양이다.[LINE]\n[Woodrow]와[Chelsea]를[LINE]\n동료로 추가하고,[Lion] 일행은[LINE]\n하이델베르그로 향해,[LINE]\n출발한다.[END]"
         },
         {
             "offset": 63912,

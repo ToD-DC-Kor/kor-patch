@@ -18,7 +18,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 그렇네요.
 [ENDBLOCK]
 좋아. 그럼 우리는
-하이델베르크로 가자.
+하이델베르그로 가자.
 [ENDBLOCK]
 <Woodrow> 씨를 만나야 해.
 [ENDBLOCK]

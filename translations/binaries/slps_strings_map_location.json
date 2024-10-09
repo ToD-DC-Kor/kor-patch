@@ -299,56 +299,56 @@
             "string": "ハイデルベルグ城B(夜)[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 성B(밤)[END]"
+            "translation": "하이델베르그 성B(밤)[END]"
         },
         {
             "offset": 1728976,
             "string": "ハイデルベルグ城A(夜)[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 성A(밤)[END]"
+            "translation": "하이델베르그 성A(밤)[END]"
         },
         {
             "offset": 1729000,
             "string": "ハイデルベルグ城B[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 성B[END]"
+            "translation": "하이델베르그 성B[END]"
         },
         {
             "offset": 1729024,
             "string": "ハイデルベルグ城A[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 성A[END]"
+            "translation": "하이델베르그 성A[END]"
         },
         {
             "offset": 1729048,
             "string": "ハイデルベルグ地下通路B[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "하이델베르크 지하 통로B[END]"
+            "translation": "하이델베르그 지하 통로B[END]"
         },
         {
             "offset": 1729072,
             "string": "ハイデルベルグ地下通路A[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "하이델베르크 지하 통로A[END]"
+            "translation": "하이델베르그 지하 통로A[END]"
         },
         {
             "offset": 1729096,
             "string": "ハイデルベルグ街(夜)[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 거리(밤)[END]"
+            "translation": "하이델베르그 거리(밤)[END]"
         },
         {
             "offset": 1729120,
             "string": "ハイデルベルグ街[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "하이델베르크 거리[END]"
+            "translation": "하이델베르그 거리[END]"
         },
         {
             "offset": 1729144,
