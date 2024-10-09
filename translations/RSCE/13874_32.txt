@@ -426,8 +426,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-좀은 사람을 의심하는 법을 배우라고
-말했는데.
+조금은 사람을 의심하는 법을 배우라고
+말했을 텐데.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
