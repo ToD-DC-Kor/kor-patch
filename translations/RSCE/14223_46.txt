@@ -453,7 +453,7 @@
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-우리가 하이델베르크를 떠날 때부터,
+우리가 하이델베르그를 떠날 때부터,
 그놈들이 끈질기게 쫓아왔거든.
 [ENDBLOCK]
 <Alba>
@@ -615,7 +615,7 @@
 <Stahn>
 [ENDBLOCK]
 그럼 우리가
-먼저 하이델베르크로 향하자!
+먼저 하이델베르그로 향하자!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -689,7 +689,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-하이델베르크로 가는 방법이지만……
+하이델베르그로 가는 방법이지만……
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]

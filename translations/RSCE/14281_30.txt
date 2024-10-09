@@ -202,7 +202,7 @@
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-설백초야. 하이델베르크 산맥의 특산품으로,
+설백초야. 하이델베르그 산맥의 특산품으로,
 아름다운 꽃을 피운다고 해.
 [ENDBLOCK]
 <Dalis>
@@ -492,7 +492,7 @@
 <Philia>
 [ENDBLOCK]
 맞아요. 분명 그분은
-하이델베르크로 돌아간다고 하셨어요.
+하이델베르그로 돌아간다고 하셨어요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -529,7 +529,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-하이델베르크로 가죠.
+하이델베르그로 가죠.
 여기서 고민해 봐야 아무 소용 없어요.
 [ENDBLOCK]
 <Clemente>

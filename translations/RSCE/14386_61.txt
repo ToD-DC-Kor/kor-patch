@@ -1534,7 +1534,7 @@ select
 [ENDBLOCK]
 사이릴
 [ENDBLOCK]
-하이델베르크
+하이델베르그
 [ENDBLOCK]
 고양이맨 기지
 [ENDBLOCK]

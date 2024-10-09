@@ -115,7 +115,7 @@ select
 남자아이
 [ENDBLOCK]
 안녕하세요! 팬더리아의 중심,
-하이델베르크에 오신 것을 환영합니다!
+하이델베르그에 오신 것을 환영합니다!
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
@@ -380,7 +380,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-여기가 하이델베르크인가……
+여기가 하이델베르그인가……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

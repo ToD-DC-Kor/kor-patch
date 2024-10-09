@@ -613,7 +613,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 팬더리아 병사
 [ENDBLOCK]
-하이델베르크 성에 오신 것을 환영합니다.
+하이델베르그 성에 오신 것을 환영합니다.
 [ENDBLOCK]
 팬더리아 병사
 [ENDBLOCK]
@@ -1142,7 +1142,7 @@ select
 [ENDBLOCK]
 사이릴
 [ENDBLOCK]
-하이델베르크
+하이델베르그
 [ENDBLOCK]
 고양이맨 기지
 [ENDBLOCK]

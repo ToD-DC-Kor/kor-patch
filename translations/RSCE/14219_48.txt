@@ -53,7 +53,7 @@
 젊은 여자
 [ENDBLOCK]
 이 마을의 렌즈라면
-이미 하이델베르크로 운반했어요.
+이미 하이델베르그로 운반했어요.
 [ENDBLOCK]
 젊은 여자
 [ENDBLOCK]
@@ -280,7 +280,7 @@
 [ENDBLOCK]
 팬더리아 병사
 [ENDBLOCK]
-하이델베르크가 이렇게 쉽게
+하이델베르그가 이렇게 쉽게
 함락되다니……
 [ENDBLOCK]
 
@@ -328,7 +328,7 @@
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-함께 하이델베르크를 탈출해
+함께 하이델베르그를 탈출해
 이 마을을 향해 왔지만……
 [ENDBLOCK]
 <Alba>
@@ -469,7 +469,7 @@
 <Dymlos>
 [ENDBLOCK]
 <Woodrow>에게로 서두르자.
-하이델베르크였지.
+하이델베르그였지.
 [ENDBLOCK]
 알림
 [ENDBLOCK]
@@ -917,7 +917,7 @@ select
 [ENDBLOCK]
 사이릴
 [ENDBLOCK]
-하이델베르크
+하이델베르그
 [ENDBLOCK]
 고양이맨 기지
 [ENDBLOCK]

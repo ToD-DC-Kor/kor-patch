@@ -635,7 +635,7 @@ CYRI_CAMERA_SIGHT = OFF
 [ENDBLOCK]
 사이릴 병사
 [ENDBLOCK]
-하이델베르크 방면, 현재 움직임 없음.
+하이델베르그 방면, 현재 움직임 없음.
 스노우프리아 방면, 현재 움직임 없음.
 [ENDBLOCK]
 사이릴 병사
@@ -1171,7 +1171,7 @@ select
 [ENDBLOCK]
 사이릴
 [ENDBLOCK]
-하이델베르크
+하이델베르그
 [ENDBLOCK]
 고양이맨 기지
 [ENDBLOCK]
