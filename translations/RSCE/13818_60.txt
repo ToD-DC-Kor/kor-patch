@@ -98,7 +98,7 @@ select
 
 [ENDBLOCK]
 <TAG_005>세계를 선도하는 역할을 담당하고,
-왕도 다릴셰이드를 중심으로
+왕도 다릴쉐이드를 중심으로
 스트레이라이즈 본신전을 가진
 세인가르드 왕국.
 [ENDBLOCK]
@@ -979,7 +979,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
-우선 다릴셰이드에서 배를
+우선 다릴쉐이드에서 배를
 탑시다.
 [ENDBLOCK]
 <Stahn>
@@ -1087,7 +1087,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그거 해룡이랑 라디스로우 얘기예요.
+그거 해룡이랑 라디슬로우 얘기예요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

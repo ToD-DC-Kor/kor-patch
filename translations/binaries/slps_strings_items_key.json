@@ -166,7 +166,7 @@
             "string": "集積レンズ砲の出力を確保するため[LINE]\nにファンダリアの人たちが集めた[LINE]\nレンズ。[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79,
-            "translation": "집적 렌즈 포의 출력을 확보하기 위해[LINE]\n판다리아의 사람들이 모은[LINE]\n렌즈입니다.[END]"
+            "translation": "집적 렌즈 포의 출력을 확보하기 위해[LINE]\n팬더리아의 사람들이 모은[LINE]\n렌즈입니다.[END]"
         },
         {
             "offset": 1812000,
@@ -348,7 +348,7 @@
             "string": "セインガルドからファンダリアへ[LINE]\n入るために必要な通行証。[LINE]\nこれがないと大変……[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "세인갈드에서 판다리아로[LINE]\n들어가기 위해 필요한 통행증입니다.[LINE]\n이게 없으면 큰일입니다…[END]"
+            "translation": "세인갈드에서 팬더리아로[LINE]\n들어가기 위해 필요한 통행증입니다.[LINE]\n이게 없으면 큰일입니다…[END]"
         },
         {
             "offset": 1813096,

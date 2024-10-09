@@ -73,7 +73,7 @@
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-라디스로우에서야!
+라디슬로우 쪽이야!
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
@@ -99,7 +99,7 @@
 <Stahn>
 [ENDBLOCK]
 그래. 어쨌든
-라디스로우로 돌아가자.
+라디슬로우로 돌아가자.
 [ENDBLOCK]
 select
 [ENDBLOCK]

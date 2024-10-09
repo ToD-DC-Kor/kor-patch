@@ -590,7 +590,7 @@ init_camera_homing!!!
 점원
 [ENDBLOCK]
 저 취한 손님 말이야, 6개월 전쯤에
-체릭에서 가족과 함께 여기로 이사 왔어.
+체리크에서 가족과 함께 여기로 이사 왔어.
 [ENDBLOCK]
 점원
 [ENDBLOCK]
@@ -1096,11 +1096,11 @@ select
 [ENDBLOCK]
 알메이다
 [ENDBLOCK]
-다릴셰이드
+다릴쉐이드
 [ENDBLOCK]
 크레스타
 [ENDBLOCK]
-체릭
+체리크
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]

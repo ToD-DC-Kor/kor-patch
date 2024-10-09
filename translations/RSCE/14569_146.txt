@@ -531,7 +531,7 @@
 <Ritora>
 [ENDBLOCK]
 장치 인계의 사정도 있으니
-일단 라디스로우로 돌아와 주기 바란다.
+일단 라디슬로우로 돌아와 주기 바란다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

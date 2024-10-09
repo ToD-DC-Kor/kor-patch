@@ -256,7 +256,7 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-왕도 다릴셰이드 북쪽에 있는
+왕도 다릴쉐이드 북쪽에 있는
 스트레이라이즈 신전으로 가주셨으면 합니다.
 [ENDBLOCK]
 <Stahn>

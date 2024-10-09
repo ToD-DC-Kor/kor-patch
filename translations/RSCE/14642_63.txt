@@ -5,7 +5,7 @@
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-라디스로우로 돌아가자.
+라디슬로우로 돌아가자.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -16,7 +16,7 @@
 목적지는 아니지만,
 정말로 여기서 괜찮은가?
 [ENDBLOCK]
-안스즈운
+안스준
 [ENDBLOCK]
 로디온
 [ENDBLOCK]
@@ -28,7 +28,7 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-안스즈운
+안스준
 [ENDBLOCK]
 로디온
 [ENDBLOCK]

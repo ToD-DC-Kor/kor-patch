@@ -880,21 +880,21 @@
             "string": "「まんぼうなんてどうすればいいのよ」[LINE]\nに対する答えがここにある。気もする。[END]",
             "original_bytes_length": 74,
             "available_bytes_size": 79,
-            "translation": "「맨보우는 어떻게 하면 좋을까」[LINE]\n에 대한 답이 여기 있다. 그런 기분이 든다.[END]"
+            "translation": "「개복치는 어떻게 하면 좋을까」[LINE]\n에 대한 답이 여기 있다. 그런 기분이 든다.[END]"
         },
         {
             "offset": 1697488,
             "string": "マンボウセンコウ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "맨보우 전호[END]"
+            "translation": "개복치전후[END]"
         },
         {
             "offset": 1697512,
             "string": "[Sign_4]まんぼう戦吼[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_4]맨보우 전투 포효[END]"
+            "translation": "[Sign_4]개복치전후[END]"
         },
         {
             "offset": 1697536,
@@ -906,7 +906,7 @@
         {
             "offset": 1697568,
             "string": "[Sign_5]レインボーアーチ[END]",
-            "translation": "[Sign_5]레인보우아치[END]",
+            "translation": "[Sign_5]레인보우 아치[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },

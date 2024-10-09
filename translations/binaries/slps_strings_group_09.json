@@ -325,63 +325,63 @@
         {
             "offset": 1724976,
             "string": "光[END]",
-            "translation": "光[END]",
+            "translation": "빛[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7
         },
         {
             "offset": 1724984,
             "string": "風[END]",
-            "translation": "風[END]",
+            "translation": "바람[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7
         },
         {
             "offset": 1724992,
             "string": "火[END]",
-            "translation": "火[END]",
+            "translation": "불[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7
         },
         {
             "offset": 1725000,
             "string": "水[END]",
-            "translation": "水[END]",
+            "translation": "물[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7
         },
         {
             "offset": 1725008,
             "string": "地[END]",
-            "translation": "地[END]",
+            "translation": "땅[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7
         },
         {
             "offset": 1725016,
             "string": "音[END]",
-            "translation": "音[END]",
+            "translation": "음파[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7
         },
         {
             "offset": 1725024,
             "string": "射[END]",
-            "translation": "射[END]",
+            "translation": "사격[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7
         },
         {
             "offset": 1725032,
             "string": "打[END]",
-            "translation": "打[END]",
+            "translation": "타격[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7
         },
         {
             "offset": 1725040,
             "string": "斬[END]",
-            "translation": "斬[END]",
+            "translation": "참격[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7
         },

@@ -4,7 +4,7 @@
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>다릴셰이드로 돌아가기
+<TAG_007>다릴쉐이드로 돌아가기
 밖으로 나가기
 [ENDBLOCK]
 알림
