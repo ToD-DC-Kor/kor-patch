@@ -270,12 +270,12 @@ select
 아줌마
 [ENDBLOCK]
 <Dalis> 대장은 원래 온건파였어.
-다툼을 좋아하는 사람이 아니야.
+싸움을 좋아하는 사람이 아니야.
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]
-2년 전 동란도 주변이 폭주해서,
-리더로 떠밀린 것 같은 거지.
+2년 전 동란 때도 주변 사람들이 폭주해서,
+리더로 떠밀린 거나 마찬가지였지.
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]
@@ -314,12 +314,12 @@ select
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]
-<Mary>야,
+<Mary> 양,
 또 남편이랑 떨어져 있구나.
 [ENDBLOCK]
 아줌마
 [ENDBLOCK]
-<Mary>네 집,
+<Mary>네 가족은,
 또 남편이랑 떨어져 있구나.
 [ENDBLOCK]
 아줌마
