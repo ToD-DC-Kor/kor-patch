@@ -146,7 +146,7 @@ fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x2
 부동산 중개인
 [ENDBLOCK]
 그 방송을 내보냈던 사람은
-<Hugo> 질크리스트였죠.
+<Hugo> 지르크리스트였죠.
 [ENDBLOCK]
 부동산 중개인
 [ENDBLOCK]
@@ -186,7 +186,7 @@ fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x2
 부동산 중개인
 [ENDBLOCK]
 그 방송을 내보냈던 사람은
-<Hugo> 질크리스트였죠.
+<Hugo> 지르크리스트였죠.
 [ENDBLOCK]
 부동산 중개인
 [ENDBLOCK]
