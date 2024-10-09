@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-반찬도 손에 들어왔으니, 집에 돌아갈까.
+반찬도 구했으니 집에 돌아갈까.
 [ENDBLOCK]

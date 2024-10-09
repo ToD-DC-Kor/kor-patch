@@ -1,10 +1,10 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-잠깐, 잠깐!
-<Stahn>을 잊고 있어요.
+잠깐만요, 잠깐만,
+<Stahn>을 잊고 있잖아요.
 [ENDBLOCK]
