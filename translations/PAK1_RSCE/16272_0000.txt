@@ -1,5 +1,5 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -10,6 +10,6 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 아아.
 [ENDBLOCK]
-이제 곧 돌아가서
+슬슬 돌아가서
 밤까지 쉬도록 하자.
 [ENDBLOCK]
