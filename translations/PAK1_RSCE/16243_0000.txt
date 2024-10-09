@@ -1,15 +1,15 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-이봐, <Philia>의 머리카락은
+있잖아, <Philia>의 머리카락
 관리하기 힘들지 않아?
 [ENDBLOCK]
 괜찮아요.
 [ENDBLOCK]
 항상 이걸로
-씻고 있으니까요.
+씻고 있거든요.
 [ENDBLOCK]
