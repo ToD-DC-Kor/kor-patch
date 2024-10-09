@@ -1,16 +1,16 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Lion>、피코핸 많이
+<Lion>, 피코햄을 많이
 낼 수 없어.
 [ENDBLOCK]
-내면 어떻게 해?
+내서 뭐하게?
 [ENDBLOCK]
-상점에 팔면, 돈이 될까 싶어서.
+잡화점에 팔면 돈이 될까 해서.
 [ENDBLOCK]
-이거라면, 많이 있어요.
+이거라면 많이 있어요.
 [ENDBLOCK]

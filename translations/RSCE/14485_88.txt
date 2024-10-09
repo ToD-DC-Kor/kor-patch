@@ -32,7 +32,7 @@
 <Dymlos>
 [ENDBLOCK]
 좋아. 이걸로
-라디스로우를 부상시킬 수 있어.
+라디슬로우를 부상시킬 수 있어.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
