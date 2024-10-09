@@ -1,0 +1,32 @@
+{
+    "SLPS": [
+        {
+            "offset": 1832024,
+            "string": "攻撃力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "공격력[END]"
+        },
+        {
+            "offset": 1832032,
+            "string": "術攻撃力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "정술 공격력[END]"
+        },
+        {
+            "offset": 1832048,
+            "string": "命中率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "명중률[END]"
+        },
+        {
+            "offset": 1832056,
+            "string": "集中力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "집중력[END]"
+        }
+    ]
+}

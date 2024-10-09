@@ -1,0 +1,126 @@
+{
+    "00061.md1": [
+        {
+            "offset": 25000,
+            "string": "[Circle_ani]決定[Cross_ani]戻る[Triangle_ani]はずす[L1_ani][R1_ani]キャラ変更[Select_ani]操作切替[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "[Circle_ani]결정[Cross_ani]뒤로[Triangle_ani]해제하기[L1_ani][R1_ani]캐릭터 변경[Select_ani]조작 전환[END]"
+        },
+        {
+            "offset": 25072,
+            "string": "[Circle_ani]術技使用[Cross_ani]戻る[Square_ani]使用切替[L1_ani][R1_ani]キャラ変更[Select_ani]操作切替[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "[Circle_ani]기술 사용[Cross_ani]뒤로[Square_ani]사용 전환[L1_ani][R1_ani]캐릭터 변경[Select_ani]조작 전환[END]"
+        },
+        {
+            "offset": 25152,
+            "string": "[Square_ani]使用切替[Cross_ani]戻る[L1_ani][R1_ani]キャラ変更[Select_ani]操作切替[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "[Square_ani]사용 전환[Cross_ani]뒤로[L1_ani][R1_ani]캐릭터 변경[Select_ani]조작 전환[END]"
+        },
+        {
+            "offset": 25216,
+            "string": "[Circle_ani]決定[Cross_ani]戻る[Triangle_ani]はずす[Select_ani]操作切替[END]",
+            "original_bytes_length": 46,
+            "available_bytes_size": 47,
+            "translation": "[Circle_ani]결정[Cross_ani]뒤로[Triangle_ani]해제하기[Select_ani]조작 전환[END]"
+        },
+        {
+            "offset": 25264,
+            "string": "[Circle_ani]術技使用[Cross_ani]戻る[Square_ani]使用切替[Select_ani]操作切替[END]",
+            "original_bytes_length": 52,
+            "available_bytes_size": 55,
+            "translation": "[Circle_ani]기술 사용[Cross_ani]뒤로[Square_ani]사용 전환[Select_ani]조작 전환[END]"
+        },
+        {
+            "offset": 25320,
+            "string": "[Square_ani]使用切替[Cross_ani]戻る[Select_ani]操作切替[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "[Square_ani]사용 전환[Cross_ani]뒤로[Select_ani]조작 전환[END]"
+        },
+        {
+            "offset": 25360,
+            "string": "[Circle_ani]決定[Cross_ani]戻る[Triangle_ani]はずす[L1_ani][R1_ani]キャラ変更[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 55,
+            "translation": "[Circle_ani]결정[Cross_ani]뒤로[Triangle_ani]해제하기[L1_ani][R1_ani]캐릭터 변경[END]"
+        },
+        {
+            "offset": 25416,
+            "string": "[Circle_ani]術技使用[Cross_ani]戻る[Square_ani]使用切替[L1_ani][R1_ani]キャラ変更[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "[Circle_ani]기술 사용[Cross_ani]뒤로[Square_ani]사용 전환[L1_ani][R1_ani]캐릭터 변경[END]"
+        },
+        {
+            "offset": 25480,
+            "string": "[Square_ani]使用切替[Cross_ani]戻る[L1_ani][R1_ani]キャラ変更[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "[Square_ani]사용 전환[Cross_ani]뒤로[L1_ani][R1_ani]캐릭터 변경[END]"
+        },
+        {
+            "offset": 25528,
+            "string": "[Circle_ani]決定[Cross_ani]戻る[Triangle_ani]はずす[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "[Circle_ani]결정[Cross_ani]뒤로[Triangle_ani]해제하기[END]"
+        },
+        {
+            "offset": 25560,
+            "string": "[Circle_ani]術技使用[Cross_ani]戻る[Square_ani]使用切替[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "[Circle_ani]기술 사용[Cross_ani]뒤로[Square_ani]사용 전환[END]"
+        },
+        {
+            "offset": 25600,
+            "string": "[Square_ani]使用切替[Cross_ani]戻る[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Square_ani]사용 전환[Cross_ani]뒤로[END]"
+        },
+
+        {
+            "offset": 25680,
+            "string": "ショートカット[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "단축키[END]"
+        },
+
+        {
+            "offset": 25720,
+            "string": "[Circle_ani]決定[Cross_ani]戻る[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Circle_ani]결정[Cross_ani]뒤로[END]"
+        },
+
+        {
+            "offset": 25792,
+            "string": "オート[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "자동[END]"
+        },
+        {
+            "offset": 25800,
+            "string": "セミオート[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "반자동[END]"
+        },
+        {
+            "offset": 25816,
+            "string": "マニュアル[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "수동[END]"
+        }
+    ]
+}

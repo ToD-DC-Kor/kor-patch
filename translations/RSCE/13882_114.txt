@@ -392,7 +392,7 @@
 [ENDBLOCK]
 은거 노인
 [ENDBLOCK]
-안수준 주변에는,
+안스준 주변에는,
 지상 생물들의 원념이 공중을
 떠돌고 있는 장소가 있습니다.
 [ENDBLOCK]
@@ -488,7 +488,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-그 이름은 라디스로우.
+그 이름은 라디슬로우.
 한때, 용맹을 떨쳤던 배입니다.
 [ENDBLOCK]
 <Stahn>
@@ -596,7 +596,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-여기가 라디스로우인가……
+여기가 라디슬로우인가……
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
@@ -653,7 +653,7 @@
 <Reynolds>
 [ENDBLOCK]
 엘리베이터 출입구는,
-다릴셰이드와 연결되어 있어.
+다릴쉐이드와 연결되어 있어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

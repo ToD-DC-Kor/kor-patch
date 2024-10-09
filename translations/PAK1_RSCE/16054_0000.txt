@@ -1,28 +1,28 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Johnny>의 곡은,
+<Johnny> 씨의 곡은
 어떻게 만들어지나요?
 [ENDBLOCK]
-좋은 질문이야. 저기를 봐.
+좋은 질문이야. 저기를 봐봐.
 [ENDBLOCK]
-<Philia>와 <Kongman>이구나.
+<Philia> 씨와 <Kongman> 씨네요.
 [ENDBLOCK]
-흠, <Kongman>이 꽃을 건넸네.
+흠, <Kongman>이 꽃을 건넸군.
 [ENDBLOCK]
-<Philia>가 부드럽게 거절했어.
+<Philia> 씨가 부드럽게 거절했어요.
 [ENDBLOCK]
-<Kongman>이 우울해졌네.
+<Kongman>이 풀이 죽었네.
 [ENDBLOCK]
 <Johnny> 넘버 일레븐
-『실연의 <Kongman>』.
+『실연한 <Kongman>』.
 [ENDBLOCK]
-꽃과 함께～♪
-나는 또한 지겠네～♪
+꽃과 함께~♪
+이 몸도 지네~♪
 [ENDBLOCK]
-잘 알겠어.
+잘 알겠습니다.
 [ENDBLOCK]
