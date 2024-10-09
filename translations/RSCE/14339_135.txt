@@ -1062,7 +1062,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 <Woodrow>
 [ENDBLOCK]
 기다리게 했군.
-그럼 성을 출발하도록 하지.
+그럼 성을 떠나도록 하지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
