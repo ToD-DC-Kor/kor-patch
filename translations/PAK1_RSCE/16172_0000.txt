@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-이 도시에 필요 없잖아.
+이 도시에 볼일은 없겠지.
 [ENDBLOCK]
