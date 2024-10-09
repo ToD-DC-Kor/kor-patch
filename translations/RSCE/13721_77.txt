@@ -1156,7 +1156,7 @@ select
 <Ritora>
 [ENDBLOCK]
 라디스로우는 해상으로 이동시켰다.
-도착을 기다리고 있다.
+도착하기를 기다리겠다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
