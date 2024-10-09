@@ -106,7 +106,7 @@
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-좋아, 개선이다!
+좋아, 귀환이다!
 마을로 돌아가자고!
 [ENDBLOCK]
 알림
