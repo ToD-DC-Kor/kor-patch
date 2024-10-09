@@ -71,7 +71,7 @@
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-네 그 태도는
+너의 그 태도는
 어떤 때라도 변함없구나.
 [ENDBLOCK]
 <Woodrow>
@@ -112,7 +112,7 @@
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-그래서 말인데, <Johnny>에게
+그래서 말인데, <Johnny>가
 아이의 대부가 되어 주었으면 해.
 [ENDBLOCK]
 <Rihanna>

@@ -236,7 +236,7 @@
             "string": "[TAG_015]戦闘ごとに[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[TAG_015] 전투마다[END]"
+            "translation": "[TAG_015]회 전투할 때마다[END]"
         }
     ]
 }

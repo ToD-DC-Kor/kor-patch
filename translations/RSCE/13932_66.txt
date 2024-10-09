@@ -549,7 +549,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 여자아이
 [ENDBLOCK]
 마을 앞에 떨어진 돌을
-카르비올라까지 차보세요.
+칼비올라까지 차보세요.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
@@ -563,7 +563,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 여자아이
 [ENDBLOCK]
 마을 앞에 떨어진 돌을
-카르비올라까지 차보세요.
+칼비올라까지 차보세요.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
@@ -1078,11 +1078,11 @@ select
 [ENDBLOCK]
 알메이다
 [ENDBLOCK]
-다릴셰이드
+다릴쉐이드
 [ENDBLOCK]
 크레스타
 [ENDBLOCK]
-체릭
+체리크
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]

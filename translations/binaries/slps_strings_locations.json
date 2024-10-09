@@ -5,7 +5,7 @@
             "string": "カルビオラ神殿・神の眼前戦[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "까르비올라 신전・신의 눈앞 전투[END]"
+            "translation": "칼비올라 신전・신의 눈앞 전투[END]"
         },
         {
             "offset": 1714296,
@@ -586,7 +586,7 @@
             "string": "カルビオラ神殿・通路夜[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "까르비올라 신전・통로 밤[END]"
+            "translation": "칼비올라 신전・통로 밤[END]"
         },
         {
             "offset": 1716880,
@@ -768,7 +768,7 @@
             "string": "モリュウ・シデン・トウケイ各領街道0[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39,
-            "translation": "모리유・시덴・토우케이 각 영 도로 0[END]"
+            "translation": "모리유・시덴・토케이 각 영 도로 0[END]"
         },
         {
             "offset": 1717696,
@@ -1055,28 +1055,28 @@
             "string": "カルビオラ・チェリク・砂砂漠3[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "까르비올라 체릭 모래 사막3[END]"
+            "translation": "칼비올라 체리크 모래 사막3[END]"
         },
         {
             "offset": 1718816,
             "string": "カルビオラ・チェリク・砂砂漠2[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "까르비올라 체릭 모래 사막2[END]"
+            "translation": "칼비올라 체리크 모래 사막2[END]"
         },
         {
             "offset": 1718848,
             "string": "カルビオラ・チェリク・砂砂漠1[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "까르비올라 체릭 모래 사막1[END]"
+            "translation": "칼비올라 체리크 모래 사막1[END]"
         },
         {
             "offset": 1718880,
             "string": "カルビオラ・チェリク・砂砂漠0[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "까르비올라 체릭 모래 사막0[END]"
+            "translation": "칼비올라 체리크 모래 사막0[END]"
         },
         {
             "offset": 1718912,
@@ -1818,7 +1818,7 @@
             "string": "カルバレイスF3(カルビオラ周辺)[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "칼바레이스 F3 (까르비올라 주변)[END]"
+            "translation": "칼바레이스 F3 (칼비올라 주변)[END]"
         },
         {
             "offset": 1721776,
@@ -2091,7 +2091,7 @@
             "string": "カルバレイスF2(カルビオラ周辺)[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "칼바레이스 F2 (까르비올라 주변)[END]"
+            "translation": "칼바레이스 F2 (칼비올라 주변)[END]"
         },
         {
             "offset": 1722760,
@@ -2329,7 +2329,7 @@
             "string": "カルビオラ神殿[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "까르비올라 신전[END]"
+            "translation": "칼비올라 신전[END]"
         },
         {
             "offset": 1723536,
@@ -2343,7 +2343,7 @@
             "string": "カルバレイスF1(カルビオラ周辺)[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "칼바레이스 F1 (까르비올라 주변)[END]"
+            "translation": "칼바레이스 F1 (칼비올라 주변)[END]"
         },
         {
             "offset": 1723608,
@@ -2581,7 +2581,7 @@
             "string": "カルビオラ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "까르비올라[END]"
+            "translation": "칼비올라[END]"
         },
         {
             "offset": 1724312,

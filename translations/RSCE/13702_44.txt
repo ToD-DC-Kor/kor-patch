@@ -703,7 +703,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-아 그래요? 그렇군요.
+아 그래? 그렇군.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -749,7 +749,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 select
 [ENDBLOCK]
 <TAG_007>무중력 엘리베이터입니다.
-라디스로우로 가시겠습니까?
+라디슬로우로 가시겠습니까?
 간다
 가지 않는다
 

@@ -6,7 +6,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 스노우프리아의 서쪽에 있는 틸소 숲을 지나
-북쪽으로 가면 하이델베르그가 있어.
+북쪽으로 가면 하이델베르크가 있어.
 [ENDBLOCK]
 <Woodrow>는 그곳에 있을 거야.
 [ENDBLOCK]

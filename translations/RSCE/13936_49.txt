@@ -22,7 +22,7 @@
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-다릴셰이드에서 온 화물의 행방을
+다릴쉐이드에서 온 화물의 행방을
 모른다고 <Lion> 님께 거짓말을……
 [ENDBLOCK]
 부하
@@ -243,7 +243,7 @@
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-<Baruk> 씨는 다릴셰이드 본부에
+<Baruk> 씨는 다릴쉐이드 본부에
 출장 중입니다.
 [ENDBLOCK]
 부하

@@ -15,7 +15,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아마도 그 받침대는
+아마도 저 받침대는
 두 개를 동시에 밟아야 할 거야.
 
 [ENDBLOCK]
@@ -31,8 +31,8 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-아마도 그 받침대는 두 개를 동시에
-올라가야 할 거야.
+아마도 저 받침대는
+두 개를 동시에 올라가야 할 거야.
 
 [ENDBLOCK]
 <Rutee>

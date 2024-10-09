@@ -279,7 +279,7 @@ select
 
 [ENDBLOCK]
 <TAG_005>이 주택을 보시려면
-다릴셰이드 부동산으로 연락 주십시오.
+다릴쉐이드 부동산으로 연락 주십시오.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -870,11 +870,11 @@ select
 [ENDBLOCK]
 알메이다
 [ENDBLOCK]
-다릴셰이드
+다릴쉐이드
 [ENDBLOCK]
 크레스타
 [ENDBLOCK]
-체릭
+체리크
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]

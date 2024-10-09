@@ -592,7 +592,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 팬더리아 병사
 [ENDBLOCK]
-하이델베르그 성에 오신 것을 환영합니다.
+하이델베르크 성에 오신 것을 환영합니다.
 [ENDBLOCK]
 팬더리아 병사
 [ENDBLOCK]
@@ -643,7 +643,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Philia>
 [ENDBLOCK]
 정말인가요? 그렇다면,
-다릴셰이드에서 멀지 않습니다.
+다릴쉐이드에서 멀지 않습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -655,7 +655,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-여기 하이델베르그에서라면,
+여기 하이델베르크에서라면,
 국경을 넘어 북동쪽 방향이었을 거야.
 [ENDBLOCK]
 
@@ -1095,11 +1095,11 @@ select
 [ENDBLOCK]
 알메이다
 [ENDBLOCK]
-다릴셰이드
+다릴쉐이드
 [ENDBLOCK]
 크레스타
 [ENDBLOCK]
-체릭
+체리크
 [ENDBLOCK]
 칼비올라
 [ENDBLOCK]

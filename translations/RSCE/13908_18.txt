@@ -4,7 +4,7 @@
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-여기에 라디스로우를 부상시키기 위한,
+여기에 라디슬로우를 부상시키기 위한,
 R키라고 불리는 장치가 있어.
 [ENDBLOCK]
 <Ritora>
@@ -60,12 +60,12 @@ R키라고 불리는 장치가 있어.
 <Ritora>
 [ENDBLOCK]
 여기서 수호룡의 움직임을 멈추고,
-라디스로우의 안전을 확보해.
+라디슬로우의 안전을 확보해.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 타당하군. 저런 걸 방치해두면
-라디스로우의 존속이 위태로워질 테니.
+라디슬로우의 존속이 위태로워질 테니.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]

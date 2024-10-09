@@ -287,11 +287,11 @@
 <Reynolds>
 [ENDBLOCK]
 집적 렌즈포 조준 세팅.
-목표 - 라디스로우.
+목표 - 라디슬로우.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-굳이 라디스로우를 겨냥할 필요가?
+굳이 라디슬로우를 겨냥할 필요가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -334,7 +334,7 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-라디스로우가 보이는 부분만은
+라디슬로우가 보이는 부분만은
 흡수체의 영향을 받지 않습니다.
 [ENDBLOCK]
 <Reynolds>
@@ -348,13 +348,13 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-라디스로우가 아직 남아있으니
+라디슬로우가 아직 남아있으니
 가능성이 있지 않나요?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-물론 그 경우, 사령도 그냥 넘어가지 않겠지.
-코어 크리스탈째로 날아가 버릴 거야.
+물론 그럴 경우, 사령도 온전하지 못하겠지..
+코어 크리스탈 통채로 날아가 버릴 거야.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -401,7 +401,7 @@
 <Ritora>
 [ENDBLOCK]
 어떻게든 통신 기능을 회복시켰다.
-다만, 풍전등화의 상태지만.
+다만, 바람 앞의 등불과 같지만.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
