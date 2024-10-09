@@ -1,21 +1,21 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-생각해보면, 나와 <Stahn>씨가,
+생각해보니, 저와 <Stahn> 님,
 둘이서 여행하는 건 처음이네요.
 [ENDBLOCK]
-그렇군요. 뭔가 신선한 기분이에요.
-마치……
+그러게. 왠지 새로운 기분이야.
+이거 마치……
 [ENDBLOCK]
-어, 어머……?
+마, 마치……？
 [ENDBLOCK]
-명콤비 같은 느낌인가요!
+최고의 콤비 같은 느낌이랄까!
 [ENDBLOCK]
-아, 네…… 그렇네요……
+아, 네……그렇네요……
 [ENDBLOCK]
-어라? <Philia>? 어이.
+어라? 	<Philia>? 	이봐.
 [ENDBLOCK]
