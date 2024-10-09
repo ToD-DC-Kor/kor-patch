@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-지금 가야 할 곳은, 다른 곳이다.
+지금 가야 할 곳은 다른 데야.
 [ENDBLOCK]
