@@ -1,100 +1,99 @@
 <Dymlos>
 [ENDBLOCK]
-여기가 헬레라이오스의 중심부구나.
+여기가 헬레이오스의 중추부구나.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-응. 이 안에 우리가 필요한
-기술 연구 시설이 있어.
+음. 이 안쪽에 우리가 필요로 하는
+기술 연구 시설이 있다.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-오랜만이야, <Stahn>군.
+오랜만이네, <Stahn>군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene> 씨… 나는…
+<Ilene> 씨…… 나는……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 당신과,
-이런 형태로 재회하고 싶지 않았어!
+나는 당신과
+이런 식으로 재회하고 싶지 않았어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-왜 그런 거죠, <Ilene> 씨!
+왜 이러시는 겁니까, <Ilene> 씨!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-「누구도 증오하지 않고,
-모두가 웃을 수 있는 세상을 만들고 싶다」
+「누구도 서로 미워하지 않고,
+모두가 함께 웃을 수 있는 세상을 만들고 싶다」
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇게 말했던 당신은,
-어디로 가버린 건가요!
+그렇게 말했던 당신은
+어디로 가버린 겁니까!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-<Stahn>군은 노이슈타트가 지금,
-어떻게 되어 있는지 알고 있니?
+<Stahn>군은 노이슈타트가 지금
+어떻게 되어가고 있는지 알고 있니?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-노이슈타트…?
+노이슈타트……?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-그 이후로 빈부의 차이는,
-점점 더 벌어지고 있어.
+그 후로 빈부 격차는 계속 벌어지고 있어.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-그것이 원인으로 싸움은 끊이지 않고,
-사람들의 마음은 의심과 질투로 가득 차 있어.
+그것이 원인이 되어 다툼이 끊이지 않고,
+사람들의 마음은 의심과 질투로 가득해.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-<Stahn>군도 세계를 돌아다니며,
-여러 곳에서 비슷한 상황을 목격했겠지?
+<Stahn>군도 세계 곳곳을 돌아다니며
+비슷한 상황을 목격했겠지?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그건…
+그건……
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-이상 실현을 위해서는, 모든 것을 한 번,
-무로 되돌려야 해.
+이상을 실현하기 위해서는 모든 것을 한 번
+무로 돌려놓아야만 해.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-나는 그 사실을 깨닫고,
-<Hugo> 님의 생각에 찬동했어.
+나는 그 사실을 깨닫고
+<Hugo> 님의 생각에 동의하게 된 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene> 씨…
+<Ilene> 씨……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-고견 고맙습니다. 그런데 당신의 말은,
-허무하고 웃음이 나네요.
+고견 잘 들었어요. 하지만 당신의 말은
+너무 얄팍해서 웃음만 나오네요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭔가 이상 실현이라니. 당신은 그렇게 말하며,
-고통스러운 현실에서 도망치고 있을 뿐이잖아요!
+무슨 이상의 실현이에요. 당신은 그렇게 말하면서
+힘든 현실에서 도망치고 있을 뿐이잖아!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그런 당신의 허튼소리는,
-우리의 마음에는 닿지 않아!
+그런 당신의 헛소리 따위는
+우리의 마음에 닿지 않아요!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-그래. 이미 대화의 단계는,
-지나버렸던 거군요.
+그렇네. 이미 대화의 단계는
+지나버렸었지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -102,99 +101,100 @@
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-우리가 나아갈 길은…
-갈라져버렸어!
+우리가 나아갈 길은……
+갈라져 버린 거야!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-강하구나…<Stahn>군…
+강하네…… <Stahn>군……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene> 씨… 다시 한 번,
-다시 시작해보자.
+<Ilene> 씨…… 다시 한 번
+처음부터 시작해요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-전에 경쟁하겠다고 약속했잖아,
-이상 실현을 목표로 하자!
+전에 경쟁하기로 약속했잖아요,
+이상을 실현하기 위해 노력해요!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 뭐든지 협력할게!
+제가 뭐든지 협력할 테니까요!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-…당신은 전에 만났을 때와,
-전혀 변하지 않았네.
+……너는 전에 만났을 때와
+전혀 변하지 않았구나.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-여러 가지 싫은 것도 보았을 테고,
-힘든 일도 겪었을 텐데…
+여러 가지 안 좋은 것들도 보았을 텐데,
+힘든 일도 겪었을 텐데……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-분명<Ilene> 씨와의 약속이,
-있었기 때문이야.
+분명 <Ilene> 씨와의 약속이
+있었기 때문이에요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 어떻게 해야 할지,
-그 이후로 많이 생각했어.
+저는 어떻게 해야 할지
+그 후로 계속 고민했거든요.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-「아무도 증오하지 않고,
-모두가 웃을 수 있는 세상을 만들고 싶다」
+「누구도 서로 미워하지 않고,
+모두가 함께 웃을 수 있는 세상을 만들고 싶다」
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-정말 그런 일이, 할 수 있다고 생각해?
+정말로 그런 일이 가능하다고 생각해?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-할 수 없더라도 할 거야!
+불가능해도 해야 하는 거예요!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-왜냐하면 그게,
-이상을 추구하는 거니까!?
+그게 바로
+이상을 추구한다는 거 아닌가요!?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-상쾌할 정도로 곧고 직선적이네.
-그게<Stahn>군의 매력인가…
+정말로 순수하고 곧은 성격이구나.
+그게 <Stahn>군의 매력인가……
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-<Stahn>군…언제까지나,
-지금의 당신다움을 잃지 말아줘.
+<Stahn>군…… 언제까지나
+지금의 너다움을 잃지 말아줘.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-당신의 그 곧은 마음이,
-새로운 세계의 문을 열지도 몰라…
+너의 그 곧은 성격이
+새로운 세계의 문을 열지도 몰라……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene> 씨, 뭘…?
+<Ilene> 씨, 무슨……?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-나는 여기까지…
+나는 여기까지……
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-미안해…<Stahn>군.
+미안해…… <Stahn>군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene> 씨, 기다려줘!<Ilene> 씨!
+<Ilene> 씨, 기다려요!
+<Ilene> 씨!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene>사아아안っ！
+<Ilene> 씨이이이잇!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -202,99 +202,100 @@
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-지금까지는 조용히 하고 있어.
+지금은 조용히 있어.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-온순하게 만들기 힘들었어.
-정말, 수고스럽게 만들었네.
+얌전하게 만드느라 애 좀 먹었어.
+정말이지, 손이 많이 가네.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-나는<Ilene>의 일도 알고 있었고,
-충격받는 것도 이해하지만…
+나도 <Ilene>의 일은 알고 있었고,
+충격 받는 것도 이해는 하지만 말이야……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그럼, 나도 잠깐,
-상황을 보러 가볼까.
+그래, 나도 잠깐
+상태를 보고 올까?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-이 위에<Igtenos>를,
-올리면 되는 건가?
+이 위에 <Igtenos>를
+놓으면 되는 건가?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-그렇다. 그 다음에는 저쪽 조작판에서,
-장치를 가동시키면 된다.
+그렇다네. 그 다음엔 저쪽 조작반에서
+장치를 가동시키면 돼.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-<Philia>,조작판까지 가줄 수 있어?
+<Philia>, 조작반 쪽으로
+가 줄 수 있겠나?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-…아, 네. 지금 바로.
+……아, 네. 지금 가요.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-자, 시작해볼까.
+자, 시작해 볼까.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Igtenos>…
-부탁해, 다시 살아나줘.
+<Igtenos>……
+부탁이다, 되살아나라.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Chelsea>,여기는 괜찮아.
-내게 맡겨.
+<Chelsea>, 여기는 괜찮아.
+나한테 맡겨.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-알겠어.
+알겠습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-야, <Rutee>.
+있잖아, <Rutee>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-정의란…뭘까.
+정의란…… 뭘까.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-하아…
-역시 그 질문을 하겠구나.
+하아……
+역시 그런 생각을 하고 있었구나.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-좋아, <Stahn>. 그런 건
-너무 깊게 생각하지 마.
+들어, <Stahn>. 그런 거
+너무 깊이 생각하지 마.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너, 머리 나쁘지 않잖아?
-스스로 그렇게 말했으니까.
+너 머리 좋지 않다며?
+네가 그렇게 말했잖아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는…점점 뭘 모르게 되어가.
+나…… 점점 혼란스러워지고 있어.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 그럼 물어볼게, 너는
-무엇을 위해 싸우고 있어?
+무엇을 위해 싸우고 있는 거야?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그건…결정되어 있잖아.
+그건…… 당연하잖아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 나는 소디언 마스터니까.
-해야 한다고 생각해.
+해야 한다고 생각해서.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -302,17 +303,18 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너는 그런 대의명분으로는,
-힘을 낼 수 없는 타입이야.
+너는 그런 대의명분으로
+힘을 낼 수 있는 타입이 아니야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-자신의 가까운 사람이나, 소중한 무언가를 위해서.
-그런 것을 위해서만 열심히 할 수 있는 사람이야.
+자신의 가까운 사람이나, 소중한 무언가라든가.
+그런 것들을 위해서야말로
+힘을 낼 수 있는 사람이라고.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇…구나…
+그런…… 건가……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -321,39 +323,39 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-「가족을 행복하게 하고 싶다」…
+「가족을 행복하게 하고 싶다」……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그렇다면 그걸로 충분해.
+그럼 그걸로 충분하잖아.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너의 싸움 이유는, 그걸로 충분해.
-자신의 손이 닿는 곳 이외에 너무 과하게 생각하는 건 무의미해.
+네가 싸우는 이유는 그것으로 충분해.
+자신의 손이 닿지 않는 곳까지 욕심내봤자 소용없어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-하지만…
+하지만……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-정말로…!
-<Stahn>,こっちを向きなさい！
+정말……!
+<Stahn>, 이쪽을 봐!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너가 열심히 해야 하는 것은,
-가족을 위해서만이 아니니까.
+네가 힘내야 하는 건
+가족을 위해서만이 아니라고!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너의 곁에는 우리도 있어.
+네 곁에는 우리도 있어.
 그 사실을 잊지 마.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>가…?
+<Rutee>들이……?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -362,67 +364,67 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그리고, 나도.
+그리고 나도.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너가 확실히 하지 않으면 곤란해.
-우리의 일을, 제대로 지켜야 해!
+네가 제대로 하지 않으면 곤란해.
+우리를 잘 지켜야 해!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아…
+아……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇…구나…
+그런…… 거구나……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 옳다거나, 옳지 않다거나
-정의라거나, 그렇지 않다거나…
+정의라거나, 그렇지 않다거나……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런 것보다 무엇보다,
-내가 필요한 것은…
+그런 것보다 더,
+내게 필요한 건……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-소중한 사람을 지키는…
-그걸 위해 행동하는 거구나.
+소중한 사람들을 지키는 것……
+그것을 위해 행동하는 거구나.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-드디어 이해했어？
+드디어 납득했어?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 고마워, <Rutee>.
-나는, 드디어 알 것 같은 기분이야.
+나, 드디어 알 것 같아.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그래. 다행이야.
+그래. 다행이네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그리고…모두가 나에게,
+그리고…… 모두가 나에게
 얼마나 소중한 존재인지도.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그런 모두를 위해서도,
-해야 하는구나.
+그런 모두를 위해서라도
+해야 할 일이 있는 거구나.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그럼 그 소중한 동료에게,
-돌아가자. 이제 괜찮지？
+그럼 그 소중한 동료들에게로
+돌아가자. 이제 괜찮지?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-응.
+아아.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -430,82 +432,82 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-상황은 어떠냐…？
+결과는 어떠냐……?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Igtenos>야, 내 목소리가 들리냐？
-들리면 대답해 줘.
+<Igtenos>, 내 목소리가 들리느냐?
+들린다면 대답해 다오.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-들리고 있어.
+들리고 있다.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-<Igtenos>야, 나아졌구나!
+<Igtenos>, 나았구나!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-앞서 <Greybum>과의 전투에서는,
-고생을 시켜서 미안했어.
+지난번 <Greybum>과의 전투에서
+고생을 시켰구나.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-내 쪽이야, 지금까지 도움이 되지 못해서,
-미안했어.
+내 쪽이야말로 지금까지 도움이 되지 못해
+미안했다.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-말은 하지 않았지만,
-우리의 이야기는 들렸을 거야?
+말은 할 수 없었지만,
+우리의 대화는 들리고 있었겠지?
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-그래.
+아아.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-그렇다면 우리가,
-지금 무엇을 하려 하는지도…
+그렇다면 우리가
+지금 무엇을 하려고 하는지도……
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-다이크로프트를 감싸고 있는 거울 장벽을,
-소디언으로 베어낼 거겠지?
+다이크로프트를 감싸는 경면 배리어를
+소디언으로 찢으려는 거겠지?
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-<Ritora>답다는 건…
-상당히 무모한 작전이군.
+<Ritora>답다고 할까……
+꽤나 무모한 작전이군.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-하지만, 이제는 그 방법밖에 없다.
+하지만 이제 그것 말고는 방법이 없다.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-나는 너의 힘이 필요하다.
-함께 싸워줄래, <Igtenos>?
+나에겐 네 힘이 필요하다.
+함께 싸워 주겠나, <Igtenos>?
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
 물론이다.
-이때를 기다려왔다.
+이 순간이 오기를 기다리고 있었다.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-나는 소디언 마스터이자,
-판달리아 왕으로서의 책임을 다하겠다.
+나는 소디언 마스터로서, 그리고
+판데리아의 왕으로서 책무를 다하겠다.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-내 몸이 썩을 때까지 나와 함께하고,
-내 힘이 되기를…<Igtenos>!
+내 몸이 다할 때까지 나와 함께하며
+내 힘이 되어 줄 것을…… <Igtenos>!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-이제 나도, 마스터의 동료가 되는군.
+이제 나도 마스터의 동료가 되었군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -514,22 +516,22 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-여기는 소디언 팀.
-<Igtenos>의 수리에 성공했다.
+여기는 소디언 팀입니다.
+<Igtenos>의 수리에 성공했습니다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-잘 해냈어, 여러분.
-여기도 중화 장치가 완성되었다.
+잘 해주었다, 여러분.
+이쪽도 중화 장치가 완성된 참이다.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-오!
+오오!
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-장치 인수 전달의 문제도 있다.
-한 번 라디슬로우로 돌아가줘야겠다.
+장치 인계의 사정도 있으니
+일단 라디슬로우로 돌아와 주기 바란다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -537,7 +539,7 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
@@ -545,9 +547,9 @@ notice
 네
 아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x00><x80></color>이
+<TAG_007><S03><turquoise><x19><x71><x48><x00><x80></color>가
 [ENDBLOCK]
-파티에 합류했습니다.
+파티에 가입했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
@@ -559,9 +561,9 @@ notice
 [ENDBLOCK]
 <x18><x65><x57><xF0><x00><x80><x18><x65><x57><xF4><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x00><x80></color>가
 [ENDBLOCK]
@@ -569,44 +571,44 @@ notice
 [ENDBLOCK]
 <x18><x65><x57><xF0><x00><x80><x18><x65><x57><xF4><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x24><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x24><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x20><x00><x80></color>를 획득했습니다.
+<x18><x65><x58><x20><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
 <x19><x69><x48><x14><x80>들은
 [ENDBLOCK]
-<turquoise>거래称号
+<turquoise>교역 칭호
 [ENDBLOCK]
 <x19><x69><x48><x14><x80>들은
 [ENDBLOCK]
-<turquoise>온천称号
+<turquoise>온천 칭호
 [ENDBLOCK]
 <x19><x69><x48><x14><x80>들은
 [ENDBLOCK]
-<turquoise>자유称号
+<turquoise>자유 칭호
 [ENDBLOCK]
 <x19><x69><x48><x14><x80>들은
 [ENDBLOCK]
-称号：<turquoise>내추럴 레인저
+칭호: <turquoise>네이처 레인저
 [ENDBLOCK]
 <x19><x69><x48><x14><x80>들은
 [ENDBLOCK]
-称号：<turquoise>대쉬 시리즈
+칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
 <x19><x69><x48><x14><x80>들은
 [ENDBLOCK]
-<turquoise>최강의称号
+<turquoise>최강의 칭호
 [ENDBLOCK]
 <x19><x69><x48><x14><x80>들은
 [ENDBLOCK]
-<turquoise>퀴즈称号
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x48><x14><x80>는
+<x19><x69><x48><x14><x80>은(는)
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x58><x18><x00><x80>
 <x18><x65><x58><x1C><x00><x80>
@@ -614,151 +616,150 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>는
+<x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
-이 ID와 비밀번호를 연동 웹사이트에
-입력함으로써, 데스티니의 세계가
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에서
+입력하면, 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>자세한 사항은 아래 URL에서 확인해 주세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+<TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>게임 중의 이벤트나 미니게임을
-클리어하면 연동 ID와 게임 비밀번호가
-발급될 수 있습니다.
+클리어하면 연동 ID와 게임 패스워드가
+발행되는 경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>이 연동 ID와 게임 비밀번호를
-웹사이트에 입력함으로써 데스티니
-의 세계가 더욱 넓어집니다.
+<TAG_007>이 연동 ID와 게임 패스워드를
+웹사이트에 입력하면 데스티니
+세계가 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 비밀번호를 잊어버린 경우는
+연동 ID와 게임 패스워드를 잊어버린 경우에는
 피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외곽 없음의 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+외각 없는 휘도 설정은 (RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계의 밝기 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-설정이 이루어지지 않았습니다!(tod=<TAG_059>)
+설정이 없습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-장치는 작동하지 않습니다.
+장치가 작동하고 있지 않습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 워프 장치가 작동했습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><x00><x80>의 소디언 장치가
-사용 가능해졌습니다.
+<TAG_007><x19><x71><x48><x00><x80>의 소디언 디바이스가
+ 사용 가능해졌습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「칭호 설명」
-칭호란 캐릭터에 세팅할 수 있는,
-캐릭터 파라미터 중 하나입니다.
-구체적인 세팅 방법은 다음과 같습니다.
+<TAG_007>「칭호의 설명」
+칭호란 캐릭터에 설정할 수 있는,
+캐릭터 파라미터의 하나입니다.
+구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>메인 메뉴를 연 후, 캐릭터의
-상태를 표시합니다.
-그 화면에서 <Square_ani>를 누르면, 캐릭터의
-상태 표시를 전환할 수 있습니다.
+스테이터스를 표시합니다.
+그 화면에서 <Square_ani>을 누르면, 캐릭터의
+스테이터스 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
-페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면,
+<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
 획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>칭호의 사용 방법에는 두 가지가 있습니다.
-첫 번째는…
-「칭호를 설정하고, 마을 사람에게 이야기해 보세요」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는……
+「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
-당신에게 관심을 가지는 사람이 있습니다.
-마을 사람에게 몇 번 이야기했을 때,
-신기한 행동을 할 때가 있습니다.
-그 때는, 가지고 있는 칭호를 다시 설정한 후,
-다시 이야기해 보세요.
+<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
+당신에게 흥미를 보이는 사람이 있습니다. 마을 사람들에게 여러 번
+말을 걸었을 때, 이상한 행동을 하는 경우가 있습니다.
+그때는 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 말을 걸어보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
-머리 위에 「？」가 나타날 수 있습니다.
-그때는, 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 설정하고, 다시 이야기해 보세요.
-무언가 기쁜 일이 일어날지도 모릅니다.
+<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
+머리 위에 「？」가 나타나는 경우가 있습니다.
+그때는 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 말을 걸어보세요.
+뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>사용 방법의 두 번째는…
-「상태 화면을 멋지게 꾸미자」
-모은 칭호 중에서, 만약 마음에 드는 것이 있다면,
-설정하여 상태 화면을 멋지게 연출해 보세요.
+<TAG_007>사용법의 두 번째는……
+「스테이터스 화면을 멋지게 꾸며보자」
+모은 칭호 중에서 마음에 드는 것이 있다면,
+설정해서 스테이터스 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「돌 차기 놀이는」
+<TAG_007>「돌차기 놀이」란,
 필드에 있는 돌을 차서,
 특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는, 돌 차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 출입하면,
+2: 전투는 돌차기 놀이의 클리어 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
 		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
