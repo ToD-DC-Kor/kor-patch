@@ -1,0 +1,39 @@
+{
+    "SLPS": [
+        {
+            "offset": 1832088,
+            "string": "防御力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "방어력[END]"
+        },
+        {
+            "offset": 1832096,
+            "string": "術防御力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "정술 방어력[END]"
+        },
+        {
+            "offset": 1832112,
+            "string": "回避率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "회피율[END]"
+        },
+        {
+            "offset": 1832120,
+            "string": "体力[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "체력[END]"
+        },
+        {
+            "offset": 1832128,
+            "string": "特殊効果[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "특수효과[END]"
+        }
+    ]
+}

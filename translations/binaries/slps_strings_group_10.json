@@ -1,0 +1,117 @@
+{
+    "SLPS": [
+        {
+            "offset": 1725232,
+            "string": "飛行竜の船倉に厳重保管されていた、[LINE]\n変わった形の妙に手になじむ剣。[LINE]\n何か得体の知れない力を感じる……[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "비행룡의 선창에 엄중하게 보관되어 있었던,[LINE]\n이상하게 손에 잘 맞는 검.[LINE]\n무언가 정체불명의 힘을 느낀다…[END]"
+        },
+        {
+            "offset": 1725336,
+            "string": "[Sign_Sword]古びた剣[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Sword]낡은 검[END]"
+        },
+        {
+            "offset": 1725352,
+            "string": "ファンダリア王家に伝わる名剣。[LINE]\n見た目の豪華さとは裏腹に、[LINE]\n鋭い切れ味を持つ。[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "팬더리아 왕가에 전해지는 명검.[LINE]\n화려한 외관과는 반대로,[LINE]\n날카로운 칼날을 가졌다.[END]"
+        },
+        {
+            "offset": 1725432,
+            "string": "[Sign_Sword]ロイヤルブレイド[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Sword]로열 블레이드[END]"
+        },
+        {
+            "offset": 1725456,
+            "string": "各国の軍隊に採用されている剣。[LINE]\nシンプルな作りで非常に扱いやすい。[LINE]\n[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "각국의 군대에서 채용된 검.[LINE]\n심플한 제작으로 매우 다루기 쉽다.[LINE]\n[END]"
+        },
+
+        {
+            "offset": 1725528,
+            "string": "[Sign_Sword]ナイトブレイド[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Sword]나이트 블레이드[END]"
+        },
+        {
+            "offset": 1725552,
+            "string": "地属性の知能ある剣。[LINE]\n人格は、才能に恵まれた若き青年。[LINE]\nピエール・ド・シャルティエ。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "땅 속성의 지능을 가진 검.[LINE]\n성격은 재능이 뛰어난 젊은 청년.[LINE]\n피에르 드 샤르띠에.[END]"
+        },
+        {
+            "offset": 1725640,
+            "string": "[Sign_Sword]シャルティエ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Sword]샤르띠에[END]"
+        },
+        {
+            "offset": 1725664,
+            "string": "風属性の知能ある剣。[LINE]\n人格は、知性と合理性を持った男性。[LINE]\nイクティノス・マイナード。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "바람 속성의 지능을 가진 검.[LINE]\n성격은 지성과 합리성을 가진 남성.[LINE]\n익티노스 마이나드.[END]"
+        },
+        {
+            "offset": 1725752,
+            "string": "[Sign_Sword]イクティノス[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Sword]익티노스[END]"
+        },
+        {
+            "offset": 1725776,
+            "string": "光属性の知能ある剣。[LINE]\n人格は、知識と経験のある老人。[LINE]\nラヴィル・クレメンテ。[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "빛 속성의 지능을 가진 검.[LINE]\n성격은 지식과 경험을 가진 노인.[LINE]\n레빌 클레멘트.[END]"
+        },
+        {
+            "offset": 1725856,
+            "string": "[Sign_Sword]クレメンテ[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_Sword]클레멘트[END]"
+        },
+        {
+            "offset": 1725872,
+            "string": "水属性の知能ある剣。[LINE]\n人格は、激情を秘めた理知的な女性。[LINE]\nアトワイト・エックス。[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "물 속성의 지능을 가진 검.[LINE]\n성격은 격정을 감춘 이성적인 여성.[LINE]\n아트와이트 엑스.[END]"
+        },
+        {
+            "offset": 1725952,
+            "string": "[Sign_Sword]アトワイト[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_Sword]아트와이트[END]"
+        },
+        {
+            "offset": 1725968,
+            "string": "火属性の知能ある剣。[LINE]\n人格は、熱血漢の切り込み隊長。[LINE]\nディムロス・ティンバー。[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "불 속성의 지능을 가진 검.[LINE]\n성격은 열혈 칼질 대장.[LINE]\n딤로스 팀버.[END]"
+        },
+        {
+            "offset": 1726048,
+            "string": "[Sign_Sword]ディムロス[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_Sword]딤로스[END]"
+        }
+    ]
+}
