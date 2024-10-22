@@ -471,7 +471,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그렇다면, 이제 고개 숙이면 안돼.
+그렇다면, 더 이상 고개 숙이면 안 돼.
 에밀리오, 힘내.
 [ENDBLOCK]
 <Marian>

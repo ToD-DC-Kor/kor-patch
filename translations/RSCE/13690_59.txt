@@ -387,7 +387,7 @@ select
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Stahn>들한 테 <Hugo> 님께도
+<Stahn> 일행에게 <Hugo> 님께도
 보고하겠다고는 했지만……
 [ENDBLOCK]
 <Chaltier>
