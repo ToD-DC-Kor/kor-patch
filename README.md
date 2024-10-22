@@ -36,7 +36,7 @@
 
 번역:
 
-| | 추출 | 검수 |
+| | 번역 | 검수 |
 | - | - | - |
 | 시나리오 대사 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/10) |
 | 전투 튜토리얼 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/80) |

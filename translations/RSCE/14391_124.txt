@@ -759,8 +759,8 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-오빠, 아침이에요!
-자, 자…… 일어났네.
+오빠, 아침이야!
+자, 어서 일어……났네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

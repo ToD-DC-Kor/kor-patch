@@ -1,8 +1,8 @@
 병사
 [ENDBLOCK]
-
+<IGNORE>
 [ENDBLOCK]
-수상한 녀석들め!
+수상한 녀석들이다!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]

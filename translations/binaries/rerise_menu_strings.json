@@ -1,6 +1,63 @@
 {
     "00063.md1": [
         {
+            "offset": 35552,
+            "string": "体力[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "체력[END]"
+        },
+        {
+            "offset": 35560,
+            "string": "集中力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "집중력[END]"
+        },
+        {
+            "offset": 35568,
+            "string": "回避率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "회피율[END]"
+        },
+        {
+            "offset": 35576,
+            "string": "命中率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "명중률[END]"
+        },
+        {
+            "offset": 35584,
+            "string": "術防御力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "술방어력[END]"
+        },
+        {
+            "offset": 35600,
+            "string": "防御力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "방어력[END]"
+        },
+        {
+            "offset": 35608,
+            "string": "術攻撃力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "술공격력[END]"
+        },
+        {
+            "offset": 35624,
+            "string": "攻撃力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "공격력[END]"
+        },
+
+        {
             "offset": 35736,
             "string": "[Circle_ani]決定[Cross_ani]戻る[Square_ani]説明変更[L1_ani][R1_ani]カテゴリ変更[END]",
             "original_bytes_length": 56,
