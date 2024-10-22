@@ -361,7 +361,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그리 늦지 않을 것 같아요.
+그리 늦지 않을 것 같아.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -370,7 +370,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그럼, 다녀올게요.
+그럼, 다녀올게.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -378,7 +378,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-뭐예요 <Marian>?
+뭐야 <Marian>?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -387,7 +387,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-아, 네……
+아, 응……
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -420,8 +420,8 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-알겠어요.
-다음부터 조심할게요.
+알겠어.
+다음부터는 조심할게.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]

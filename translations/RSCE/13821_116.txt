@@ -32,8 +32,7 @@
 알림
 [ENDBLOCK]
 <TAG_007>무너진 통로에서는 <Circle_ani>를 누르면
-점프해서 건널 수
-있습니다.
+점프해서 건널 수 있습니다.
 [ENDBLOCK]
 알림
 [ENDBLOCK]

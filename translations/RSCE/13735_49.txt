@@ -374,7 +374,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-고개를 들고 힘내세요,
+고개를 들고 기운 내,
 에밀리오.
 [ENDBLOCK]
 <Lion>
@@ -383,8 +383,8 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-뭔가 싫은 일이 있었군요.
-……그것도, 아버님 때문이겠죠.
+뭔가 싫은 일이 있었구나.
+……그것도, 아버님 때문이지?.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -392,17 +392,17 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-당신, 어릴 때부터 그랬어요.
-아버님 일이 되면, 그런 표정을 짓곤 했죠.
+너는, 어릴 때부터 그랬어.
+아버님 이야기만 나오면, 그런 표정을 짓곤 했지.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-<Hugo> 님…… 아버님의 이름이 너무 크셔서,
-싫은 일도 많이 겪었겠지만……
+<Hugo> 님…… 아버님의 이름이 너무 커서,
+힘든 일도 많이 겪었겠지만……
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그래도, 당신은 당신이에요.
+그렇더라도, 너는 너야.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -415,7 +415,7 @@
 <Marian>
 [ENDBLOCK]
 ……에밀리오, 만약 힘든 일이
-더 많다면…… 이름을 되돌리는 건 어때요?
+더 많다면…… 이름을 되돌리는 건 어때?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -466,18 +466,18 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-알겠어요. 그건 누가 정한 것도 아닌,
-당신의 결심이군요.
+알겠어. 그건 누가 정한 것도 아닌,
+너의 결심이구나.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그렇다면, 이제 고개 숙이면 안 돼요.
-에밀리오, 힘내세요.
+그렇다면, 더 이상 고개 숙이면 안 돼.
+에밀리오, 힘내.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그리고 힘들어질 때는, 언제든 울어요.
-그러면, 분명 다시 힘이 날 거예요.
+그리고 힘들어질 때는, 언제든 울어.
+그러면, 분명 다시 힘이 날 거야.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -497,7 +497,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-조심히 다녀오세요.
+조심히 다녀와.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -524,7 +524,7 @@
 <Marian>
 [ENDBLOCK]
 저녁 식사 준비 중이니,
-조금만 더 기다려 주세요.
+조금만 더 기다려줘.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -533,8 +533,8 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-또 그런 말씀을 하시고.
-아침에도 안 된다고 말씀드렸잖아요.
+또 그런 말을 하네.
+아침에도 안 된다고 말했잖아.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -553,7 +553,7 @@
 <Marian>
 [ENDBLOCK]
 기다리게 해서
-미안해요.
+미안해.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -572,7 +572,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-우선, 도구점부터 가죠.
+우선, 도구점부터 가자.
 [ENDBLOCK]
 알림
 [ENDBLOCK]

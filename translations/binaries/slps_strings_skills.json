@@ -87,7 +87,7 @@
         {
             "offset": 1693088,
             "string": "大型ハンマーを振り下ろしてピコピコする[LINE]\nハンマー。そういえば晶術。[END]",
-            "translation": "대형 망치를 휘두르고 피코피코 하는[LINE]\n망치. 그렇다면 정술.[END]",
+            "translation": "대형 망치를 휘둘러 기절시키는 해머[LINE]\n이거 정술이었지.[END]",
             "original_bytes_length": 66,
             "available_bytes_size": 71
         },
@@ -2299,7 +2299,7 @@
         {
             "offset": 1704640,
             "string": "闇の力を集中させ、前方に突き出す[LINE]\n術剣技。[END]",
-            "translation": "어둠의 힘을 집중시켜, 앞으로 내밀어[LINE]\n술검술.[END]",
+            "translation": "어둠의 힘을 집중시켜[LINE]\n전방으로 찌르는 술검술.[END]",
             "original_bytes_length": 42,
             "available_bytes_size": 47
         },
@@ -2315,7 +2315,7 @@
             "string": "ダッシュ突きから跳ね上げるように[LINE]\n斬り抜ける剣技。[END]",
             "original_bytes_length": 50,
             "available_bytes_size": 55,
-            "translation": "대시 찌르기에서 튕겨내듯이[LINE]\n베어내는 검술.[END]"
+            "translation": "대시 찌르기 후 뛰어오르듯[LINE]\n베어내는 검술.[END]"
         },
         {
             "offset": 1704760,

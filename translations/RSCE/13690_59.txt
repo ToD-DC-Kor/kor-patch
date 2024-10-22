@@ -387,8 +387,8 @@ select
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Stahn>네에게 <Hugo> 님께도
-보고하겠다고 했지만……
+<Stahn> 일행에게 <Hugo> 님께도
+보고하겠다고는 했지만……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -407,7 +407,7 @@ select
 <Hugo>
 [ENDBLOCK]
 범인을 놓쳐버렸나.
-정말 망신시켜 주는군.
+정말 망신시키는구나.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -419,8 +419,8 @@ select
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-그럼, 제가 폐하께 말씀드려
-즉시 배를 준비하도록 하겠습니다.
+그럼, 내가 폐하께 말씀드려
+즉시 배를 준비하도록 하지.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -448,7 +448,7 @@ select
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-정말 제 도움은……
+정말 네 도움은……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
