@@ -656,7 +656,7 @@
             "string": "魔神の槍を召喚すると共に、禁呪の力を[LINE]\n我が物とする闇系晶術。[END]",
             "original_bytes_length": 60,
             "available_bytes_size": 63,
-            "translation": "마신의 창을 소환함과 동시에, 금주(禁呪)의 힘을[LINE]\n내 것으로 하는 어둠 계열의 정술.[END]"
+            "translation": "마신의 창을 소환함과 동시에, 금주의 힘을[LINE]\n내 것으로 하는 어둠 계열의 정술.[END]"
         },
         {
             "offset": 1692352,

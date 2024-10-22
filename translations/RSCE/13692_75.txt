@@ -1071,11 +1071,11 @@
 <Lion>
 [ENDBLOCK]
 현재 신의 눈을 가지고
-칼발레이스로 향하고 있습니다.
+칼바레이스로 향하고 있습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-칼발레이스라고!
+칼바레이스라고!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

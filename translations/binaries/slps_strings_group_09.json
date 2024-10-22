@@ -199,7 +199,7 @@
         {
             "offset": 1724824,
             "string": "獣[END]",
-            "translation": "獣[END]",
+            "translation": "야수[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7
         },
@@ -318,7 +318,7 @@
         {
             "offset": 1724968,
             "string": "闇[END]",
-            "translation": "闇[END]",
+            "translation": "어둠[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7
         },

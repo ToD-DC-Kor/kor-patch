@@ -307,8 +307,8 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-저는 모르는 사이였다고는 해도
-대사제님에게 가담해 버렸습니다.
+저는 모르고 있었다고 해도
+대사제님을 도와주고 말았습니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

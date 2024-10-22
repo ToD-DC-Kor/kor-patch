@@ -32,7 +32,7 @@
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-어, 어서 오셨습니다.
+아, 잘 오셨습니다.
 그런데…… 무슨 일이신가요?
 [ENDBLOCK]
 <Walt>
@@ -42,7 +42,7 @@
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-어, 어서 오셨습니다.
+아, 잘 오셨습니다.
 그런데…… 무슨 일이신가요?
 [ENDBLOCK]
 <Walt>
