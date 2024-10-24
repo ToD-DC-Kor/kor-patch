@@ -430,7 +430,7 @@ select
 <Hugo>
 [ENDBLOCK]
 임무에 실패한 네가 혼자
-참상한들 폐하께서 뭐라 생각하시겠느냐.
+알현한들 폐하께서 뭐라 생각하시겠느냐.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
