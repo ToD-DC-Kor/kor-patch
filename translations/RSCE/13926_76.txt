@@ -691,7 +691,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Rutee>
 [ENDBLOCK]
 그거 어떻게 봐도,
-글레밤 일당과 신의 눈 아닌가요.
+글레밤 일당과 신의 눈 아닌가.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -751,7 +751,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-샤를도 보고 있으면
+샤르도 보고 있으면
 알 거야.
 [ENDBLOCK]
 <Lion>
@@ -816,8 +816,8 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……그렇구나.
-네 말값으로 사주지.
+……그렇군.
+네 정보를 사주지.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -831,7 +831,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Lion>
 [ENDBLOCK]
 너처럼 선한 척조차 하지 않는
-놈이 오히려 내겐 안심이 돼.
+놈이 오히려 나는 더 안심이 돼.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

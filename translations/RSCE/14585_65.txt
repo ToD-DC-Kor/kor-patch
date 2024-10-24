@@ -1,4 +1,4 @@
-notice
+알림
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]

@@ -1208,7 +1208,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-<Ashley>, 지금 참상했습니다.
+<Ashley>, 지금 알현했습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
