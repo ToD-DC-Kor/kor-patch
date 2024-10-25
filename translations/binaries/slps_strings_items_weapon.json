@@ -157,14 +157,14 @@
         {
             "offset": 1773104,
             "string": "口琴の一種。[LINE]\nアクアヴェイルで流行した楽器。[LINE]\n針のような鉄を指で弾いて鳴らす。[END]",
-            "translation": "발현악기의 일종.[LINE]\n커다란 삼각형 모양의 채로[LINE]\n현을 튕겨서 연주한다.[END]",
+            "translation": "발현악기의 일종.[LINE]\n아쿠아베일에서 유행한 악기.[LINE]\n세모난 채로 현을 튕겨 연주한다.[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79
         },
         {
             "offset": 1773184,
             "string": "[Sign_Sword]琵琶[END]",
-            "translation": "[Sign_Sword]비와[END]",
+            "translation": "[Sign_Sword]비파[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15
         },
