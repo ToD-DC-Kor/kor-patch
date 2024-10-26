@@ -15,13 +15,6 @@
             "translation": "스택이 오버플로우했을[LINE]\n가능성이 있습니다.[END]"
         },
         {
-            "offset": 1747440,
-            "string": "かつて勇名を馳せた船。[LINE]\n千年の時を経て海上に勇壮な姿を現した。[END]",
-            "original_bytes_length": 62,
-            "available_bytes_size": 63,
-            "translation": "한때 용명으로 유명했던 배.[LINE]\n천 년의 시간을 거쳐 바다 위에 용맹한 모습으로 나타났다.[END]"
-        },
-        {
             "offset": 1751160,
             "string": "プレイタイム[END]",
             "original_bytes_length": 13,

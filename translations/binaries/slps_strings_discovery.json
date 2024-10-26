@@ -1266,6 +1266,13 @@
             "original_bytes_length": 11,
             "available_bytes_size": 15,
             "translation": "티아의 꽃[END]"
+        },
+        {
+            "offset": 1747440,
+            "string": "かつて勇名を馳せた船。[LINE]\n千年の時を経て海上に勇壮な姿を現した。[END]",
+            "original_bytes_length": 62,
+            "available_bytes_size": 63,
+            "translation": "한때 명성을 떨쳤던 배.[LINE]\n천년의 세월을 거쳐 바다 위에 웅장한 모습을 드러냈다.[END]"
         }
     ]
 }
