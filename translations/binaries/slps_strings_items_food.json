@@ -12,14 +12,14 @@
             "string": "コラボ深[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "콜라보 심각한[END]"
+            "translation": "콜라보 심각한 [END]"
         },
         {
             "offset": 1803304,
             "string": "深[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "심각한[END]"
+            "translation": "심각한 [END]"
         },
         {
             "offset": 1803312,
@@ -47,14 +47,14 @@
             "string": "コラボ光と[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 빛과[END]"
+            "translation": "콜라보 빛과 [END]"
         },
         {
             "offset": 1803440,
             "string": "光と[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "빛과[END]"
+            "translation": "빛과 [END]"
         },
         {
             "offset": 1803448,
@@ -82,14 +82,14 @@
             "string": "コラボ四[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "콜라보 완전[END]"
+            "translation": "콜라보 완전 [END]"
         },
         {
             "offset": 1803592,
             "string": "四[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "완전[END]"
+            "translation": "완전 [END]"
         },
         {
             "offset": 1803600,
@@ -117,14 +117,14 @@
             "string": "コラボ懐か[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 퍼진[END]"
+            "translation": "콜라보 그립고 [END]"
         },
         {
             "offset": 1803736,
             "string": "懐か[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "퍼진[END]"
+            "translation": "그립고 [END]"
         },
         {
             "offset": 1803744,
@@ -222,14 +222,14 @@
             "string": "コラボパサ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 퍼석퍼석[END]"
+            "translation": "콜라보 퍼석퍼석 [END]"
         },
         {
             "offset": 1804208,
             "string": "パサ[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "퍼석퍼석[END]"
+            "translation": "퍼석퍼석 [END]"
         },
         {
             "offset": 1804216,
@@ -257,14 +257,14 @@
             "string": "コラボ目がチ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "따끔따끔[END]"
+            "translation": "콜라보 따끔따끔 [END]"
         },
         {
             "offset": 1804368,
             "string": "目がチ[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "따끔따끔[END]"
+            "translation": "따끔따끔 [END]"
         },
         {
             "offset": 1804376,
@@ -327,14 +327,14 @@
             "string": "コラボあわせ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "콜라보 모둠[END]"
+            "translation": "콜라보 모둠 [END]"
         },
         {
             "offset": 1804672,
             "string": "あわせ[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "모둠[END]"
+            "translation": "모둠 [END]"
         },
         {
             "offset": 1804680,
@@ -362,14 +362,14 @@
             "string": "コラボ親[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "콜라보 대박[END]"
+            "translation": "콜라보 대박 [END]"
         },
         {
             "offset": 1804840,
             "string": "親[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "대박[END]"
+            "translation": "대박 [END]"
         },
         {
             "offset": 1804848,
@@ -397,14 +397,14 @@
             "string": "コラボ深海[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 심해[END]"
+            "translation": "콜라보 심해 [END]"
         },
         {
             "offset": 1804976,
             "string": "深海[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "심해[END]"
+            "translation": "심해 [END]"
         },
         {
             "offset": 1804984,
@@ -432,14 +432,14 @@
             "string": "コラボ魚[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "콜라보 해물[END]"
+            "translation": "콜라보 해물 [END]"
         },
         {
             "offset": 1805120,
             "string": "魚[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "해물[END]"
+            "translation": "해물 [END]"
         },
         {
             "offset": 1805128,
@@ -467,14 +467,14 @@
             "string": "コラボパワ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 강력[END]"
+            "translation": "콜라보 단단한 [END]"
         },
         {
             "offset": 1805264,
             "string": "パワ[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "강력[END]"
+            "translation": "단단한 [END]"
         },
         {
             "offset": 1805272,
@@ -502,14 +502,14 @@
             "string": "コラボビューチ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 아름다운[END]"
+            "translation": "콜라보 아름다운 [END]"
         },
         {
             "offset": 1805424,
             "string": "ビューチ[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "아름다운[END]"
+            "translation": "아름다운 [END]"
         },
         {
             "offset": 1805440,
@@ -530,21 +530,21 @@
             "string": "フルーツサラダ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "과일 사라다[END]"
+            "translation": "과일 샐러드[END]"
         },
         {
             "offset": 1805584,
             "string": "コラボワンダ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "콜라보 환상적[END]"
+            "translation": "콜라보 환상적 [END]"
         },
         {
             "offset": 1805600,
             "string": "ワンダ[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "환상적[END]"
+            "translation": "환상적 [END]"
         },
         {
             "offset": 1805608,
@@ -572,14 +572,14 @@
             "string": "コラボ大[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "콜라보 대형[END]"
+            "translation": "콜라보 대형 [END]"
         },
         {
             "offset": 1805768,
             "string": "大[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "대형[END]"
+            "translation": "대형 [END]"
         },
         {
             "offset": 1805776,
@@ -607,14 +607,14 @@
             "string": "コラボお[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "콜라보 큰[END]"
+            "translation": "콜라보 큰 [END]"
         },
         {
             "offset": 1805928,
             "string": "お[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "큰[END]"
+            "translation": "큰 [END]"
         },
         {
             "offset": 1805936,
@@ -642,14 +642,14 @@
             "string": "コラボ結構[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 훌륭한[END]"
+            "translation": "콜라보 훌륭한 [END]"
         },
         {
             "offset": 1806072,
             "string": "結構[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "훌륭한[END]"
+            "translation": "훌륭한 [END]"
         },
         {
             "offset": 1806080,
@@ -677,14 +677,14 @@
             "string": "コラボかなり[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "콜라보 꽤 하는[END]"
+            "translation": "콜라보 꽤 하는 [END]"
         },
         {
             "offset": 1806224,
             "string": "かなり[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "꽤 하는[END]"
+            "translation": "꽤 하는 [END]"
         },
         {
             "offset": 1806232,
@@ -712,14 +712,14 @@
             "string": "コラボ１ポンド[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 1파운드[END]"
+            "translation": "콜라보 1파운드 [END]"
         },
         {
             "offset": 1806384,
             "string": "１ポンド[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "1파운드[END]"
+            "translation": "1파운드 [END]"
         },
         {
             "offset": 1806400,
@@ -747,14 +747,14 @@
             "string": "コラボ半端ない[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 장난 아닌[END]"
+            "translation": "콜라보 장난 아닌 [END]"
         },
         {
             "offset": 1806544,
             "string": "半端ない[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "장난 아닌[END]"
+            "translation": "장난 아닌 [END]"
         },
         {
             "offset": 1806560,
@@ -817,14 +817,14 @@
             "string": "コラボオニオン[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 양파[END]"
+            "translation": "콜라보 양파 [END]"
         },
         {
             "offset": 1806840,
             "string": "オニオン[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "양파[END]"
+            "translation": "양파 [END]"
         },
         {
             "offset": 1806856,
@@ -852,14 +852,14 @@
             "string": "コラボ特製[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 특제[END]"
+            "translation": "콜라보 특제 [END]"
         },
         {
             "offset": 1807008,
             "string": "特製[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "특제[END]"
+            "translation": "특제 [END]"
         },
         {
             "offset": 1807016,
@@ -887,14 +887,14 @@
             "string": "コラボとろとろ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 뭉근한[END]"
+            "translation": "콜라보 뭉근한 [END]"
         },
         {
             "offset": 1807160,
             "string": "とろとろ[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "뭉근한[END]"
+            "translation": "뭉근한 [END]"
         },
         {
             "offset": 1807176,
@@ -922,14 +922,14 @@
             "string": "コラボリゾート[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 리조트[END]"
+            "translation": "콜라보 리조트 [END]"
         },
         {
             "offset": 1807336,
             "string": "リゾート[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "리조트[END]"
+            "translation": "리조트 [END]"
         },
         {
             "offset": 1807352,
@@ -957,14 +957,14 @@
             "string": "コラボこってり[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 진한[END]"
+            "translation": "콜라보 진한 [END]"
         },
         {
             "offset": 1807488,
             "string": "こってり[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "진한[END]"
+            "translation": "진한 [END]"
         },
         {
             "offset": 1807504,
@@ -992,14 +992,14 @@
             "string": "コラボとびきり[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 특별한[END]"
+            "translation": "콜라보 특별한 [END]"
         },
         {
             "offset": 1807656,
             "string": "とびきり[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "특별한[END]"
+            "translation": "특별한 [END]"
         },
         {
             "offset": 1807672,
@@ -1027,14 +1027,14 @@
             "string": "コラボ二代目[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "콜라보 2대째[END]"
+            "translation": "콜라보 2대째 [END]"
         },
         {
             "offset": 1807816,
             "string": "二代目[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "2대째[END]"
+            "translation": "2대째 [END]"
         },
         {
             "offset": 1807824,
@@ -1062,14 +1062,14 @@
             "string": "コラボ特盛[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 특대[END]"
+            "translation": "콜라보 특대 [END]"
         },
         {
             "offset": 1807960,
             "string": "特盛[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "특대[END]"
+            "translation": "특대 [END]"
         },
         {
             "offset": 1807968,
@@ -1132,14 +1132,14 @@
             "string": "コラボ回鍋[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 두 번 찐[END]"
+            "translation": "콜라보 두 번 찐 [END]"
         },
         {
             "offset": 1808256,
             "string": "回鍋[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "두 번 찐[END]"
+            "translation": "두 번 찐 [END]"
         },
         {
             "offset": 1808264,
@@ -1167,14 +1167,14 @@
             "string": "コラボ激辛[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 아주 매운[END]"
+            "translation": "콜라보 아주 매운 [END]"
         },
         {
             "offset": 1808408,
             "string": "激辛[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "아주 매운[END]"
+            "translation": "아주 매운 [END]"
         },
         {
             "offset": 1808416,
@@ -1202,14 +1202,14 @@
             "string": "コラボマフ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 머플러[END]"
+            "translation": "콜라보 머플러 [END]"
         },
         {
             "offset": 1808544,
             "string": "マフ[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "머플러[END]"
+            "translation": "머플러 [END]"
         },
         {
             "offset": 1808552,
@@ -1237,14 +1237,14 @@
             "string": "コラボ武勇[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 무쌍[END]"
+            "translation": "콜라보 무쌍 [END]"
         },
         {
             "offset": 1808704,
             "string": "武勇[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "무쌍[END]"
+            "translation": "무쌍 [END]"
         },
         {
             "offset": 1808712,
@@ -1272,14 +1272,14 @@
             "string": "コラボ山の幸[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "콜라보 육지산[END]"
+            "translation": "콜라보 육지산 [END]"
         },
         {
             "offset": 1808856,
             "string": "山の幸[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "육지산[END]"
+            "translation": "육지산 [END]"
         },
         {
             "offset": 1808864,
@@ -1307,14 +1307,14 @@
             "string": "コラボ思わず[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "콜라보 어머나[END]"
+            "translation": "콜라보 신기한 [END]"
         },
         {
             "offset": 1809008,
             "string": "思わず[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "어머나[END]"
+            "translation": "신기한 [END]"
         },
         {
             "offset": 1809016,
@@ -1342,14 +1342,14 @@
             "string": "コラボ辛口[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 매운 맛[END]"
+            "translation": "콜라보 매운 맛 [END]"
         },
         {
             "offset": 1809168,
             "string": "辛口[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "매운 맛[END]"
+            "translation": "매운 맛 [END]"
         },
         {
             "offset": 1809176,
@@ -1377,14 +1377,14 @@
             "string": "コラボふわふわ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 폭신폭신[END]"
+            "translation": "콜라보 폭신폭신 [END]"
         },
         {
             "offset": 1809328,
             "string": "ふわふわ[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "폭신폭신[END]"
+            "translation": "폭신폭신 [END]"
         },
         {
             "offset": 1809344,
@@ -1412,14 +1412,14 @@
             "string": "コラボパラパラ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 고슬고슬[END]"
+            "translation": "콜라보 고슬고슬 [END]"
         },
         {
             "offset": 1809488,
             "string": "パラパラ[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "고슬고슬[END]"
+            "translation": "고슬고슬 [END]"
         },
         {
             "offset": 1809504,
@@ -1447,14 +1447,14 @@
             "string": "コラボかつ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 가다랑어[END]"
+            "translation": "콜라보 가다랑어 [END]"
         },
         {
             "offset": 1809648,
             "string": "かつ[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "가다랑어[END]"
+            "translation": "가다랑어 [END]"
         },
         {
             "offset": 1809656,
@@ -1482,14 +1482,14 @@
             "string": "コラボ千夜[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 천일 묵은[END]"
+            "translation": "콜라보 천일 묵은 [END]"
         },
         {
             "offset": 1809800,
             "string": "千夜[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "천일 묵은[END]"
+            "translation": "천일 묵은 [END]"
         },
         {
             "offset": 1809808,
@@ -1517,14 +1517,14 @@
             "string": "コラボすご[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜라보 엄청난[END]"
+            "translation": "콜라보 엄청난 [END]"
         },
         {
             "offset": 1809928,
             "string": "すご[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "엄청난[END]"
+            "translation": "엄청난 [END]"
         },
         {
             "offset": 1809936,
@@ -1552,14 +1552,14 @@
             "string": "コラボあつあつ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 뜨끈뜨끈[END]"
+            "translation": "콜라보 뜨끈뜨끈 [END]"
         },
         {
             "offset": 1810064,
             "string": "あつあつ[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "뜨끈뜨끈[END]"
+            "translation": "뜨끈뜨끈 [END]"
         },
         {
             "offset": 1810080,
@@ -1587,14 +1587,14 @@
             "string": "コラボほくほく[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 따끈따끈[END]"
+            "translation": "콜라보 따끈따끈 [END]"
         },
         {
             "offset": 1810208,
             "string": "ほくほく[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "따끈따끈[END]"
+            "translation": "따끈따끈 [END]"
         },
         {
             "offset": 1810224,
@@ -1622,14 +1622,14 @@
             "string": "コラボダブル[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "콜라보 더블[END]"
+            "translation": "콜라보 더블 [END]"
         },
         {
             "offset": 1810360,
             "string": "ダブル[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "더블[END]"
+            "translation": "더블 [END]"
         },
         {
             "offset": 1810368,
@@ -1657,14 +1657,14 @@
             "string": "コラボ黄金比率[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 황금 비율[END]"
+            "translation": "콜라보 황금 비율 [END]"
         },
         {
             "offset": 1810520,
             "string": "黄金比率[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "황금 비율[END]"
+            "translation": "황금 비율 [END]"
         },
         {
             "offset": 1810536,
@@ -1692,14 +1692,14 @@
             "string": "コラボシャキシャキ[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "콜라보 아삭아삭[END]"
+            "translation": "콜라보 아삭아삭 [END]"
         },
         {
             "offset": 1810704,
             "string": "シャキシャキ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "아삭아삭[END]"
+            "translation": "아삭아삭 [END]"
         },
         {
             "offset": 1810720,
@@ -1727,14 +1727,14 @@
             "string": "コラボのりパリ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "콜라보 바삭김[END]"
+            "translation": "콜라보 바삭김 [END]"
         },
         {
             "offset": 1810872,
             "string": "のりパリ[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "바삭김[END]"
+            "translation": "바삭김 [END]"
         },
         {
             "offset": 1810888,
