@@ -31,5 +31,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 역시 도련님이세요!
 [ENDBLOCK]
-……그만해, 샤를.
+……그만해, 샤르.
 [ENDBLOCK]

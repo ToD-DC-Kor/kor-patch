@@ -135,7 +135,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-이봐, 샤를.
+이봐, 샤르.
 빨리 이 사람을 데려가자.
 [ENDBLOCK]
 <Chaltier>

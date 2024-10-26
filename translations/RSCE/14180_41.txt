@@ -805,7 +805,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-갑자기 왜 그러니, 샤를?
+갑자기 왜 그러니, 샤르?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -827,7 +827,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-난 그저…… 샤를의 마음을
+난 그저…… 샤르의 마음을
 무시하고 싶지 않았을 뿐이야.
 [ENDBLOCK]
 <Chaltier>
@@ -887,7 +887,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-흥…… 내가 샤를을
+흥…… 내가 샤르를
 싫어하지 않는다면 말이지.
 [ENDBLOCK]
 <Chaltier>

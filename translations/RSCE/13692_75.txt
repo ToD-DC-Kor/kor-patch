@@ -1011,7 +1011,7 @@
 <Lion>
 [ENDBLOCK]
 그 건으로 긴급히 폐하께
-말씀드리고자 참상했습니다.
+말씀드리고자 알현했습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -1218,7 +1218,7 @@
 <Lion>
 [ENDBLOCK]
 <Lion> 매그너스,
-참상했습니다.
+알현했습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -1667,7 +1667,7 @@ select
 <Lion>
 [ENDBLOCK]
 <Lion> 매그너스.
-참상했습니다.
+알현했습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -2180,7 +2180,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-<Ashley>, 지금 참상했습니다.
+<Ashley>, 지금 알현했습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]

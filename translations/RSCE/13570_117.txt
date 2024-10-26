@@ -137,7 +137,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-샤를……
+샤르……
 걱정 끼쳐서 미안했어.
 [ENDBLOCK]
 <Lion>
@@ -155,7 +155,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-샤를이랑 같이라면 무적이라든가……
+샤르랑 같이라면 무적이라든가……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
