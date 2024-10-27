@@ -19,7 +19,7 @@
             "string": "肥料から生まれた戦闘用生き物。[LINE]\n空を飛ぶ機能（ある程度）や、必要以上に[LINE]\n痛がる機能（未定）を有する発掘好き。[END]",
             "original_bytes_length": 107,
             "available_bytes_size": 111,
-            "translation": "비료에서 태어난 전투용 생물. [LINE]\n약간의 공중을 나는 기능과, 필요 이상 아파하는 기능(미정)을 [LINE]\n가진 발굴을 좋아하는 존재. [END]"
+            "translation": "비료에서 태어난 전투용 생물. 하늘을 나는 기능(어느정도)과[LINE]\n필요 이상으로 아파하는 기능(미정)을 가진[LINE]\n발굴을 좋아하는 녀석.[END]"
         },
         {
             "offset": 18816,
@@ -397,7 +397,7 @@
             "string": "沈没船に住み着いた巨大ダコ。[LINE]\n攻撃が激しいので、ほとんどの状態異常[LINE]\nが効くことを利用して攻めたてよう。[END]",
             "original_bytes_length": 101,
             "available_bytes_size": 103,
-            "translation": "침몰선에 살고 있는 거대 닥코. [LINE]\n공격이 격해, 대부분의 상태 이상 [LINE]\n가 효과가 있으니 이용해 공격하자. [END]"
+            "translation": "침몰선에 서식하는 거대 문어.[LINE]\n공격이 격해, 대부분의 상태 이상이[LINE]\n통하는 것을 이용해 몰아붙이자. [END]"
         },
         {
             "offset": 23512,
@@ -474,7 +474,7 @@
             "string": "劣悪な環境に生息するヒル。[LINE]\n全ての攻撃に「熱毒」の効果を持つ。[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "열악한 환경에 서식하는 힐. [LINE]\n모든 공격에「열독」의 효과를 가진다. [LINE]\n[END]"
+            "translation": "열악한 환경에 서식하는 거머리. [LINE]\n모든 공격에 「열독」의 효과를 가진다. [LINE]\n[END]"
         },
         {
             "offset": 24536,
@@ -558,7 +558,7 @@
             "string": "アクアヴェイル地方に生息するタビーの[LINE]\n進化した姿。「怒りの咆哮」でパワーアップ[LINE]\n時は、強力な攻撃を行ってくる。[END]",
             "original_bytes_length": 109,
             "available_bytes_size": 111,
-            "translation": "아쿠아베일 지방에 서식하는 타비의 [LINE]\n진화한 모습. 「분노의 포효」로 파워업 [LINE]\n시에, 강력한 공격을 해 온다. [END]"
+            "translation": "아쿠아베일 지방에 서식하는 태비의 [LINE]\n진화한 모습. 「분노의 포효」로 파워업 [LINE]\n시에, 강력한 공격을 해 온다. [END]"
         },
         {
             "offset": 25736,
@@ -1398,7 +1398,7 @@
             "string": "小さな体を縮めてばねのように飛び上がって[LINE]\n攻撃してくるヒルの一種。[LINE]\n闇属性攻撃に弱い。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "작은 몸을 줄여서 코일처럼 뛰어올라 [LINE]\n공격해 오는 힐의 일종. [LINE]\n어둠 속성 공격에 약하다. [END]"
+            "translation": "작은 몸을 줄여서 코일처럼 뛰어올라[LINE]\n공격해 오는 거머리의 일종. [LINE]\n어둠 속성 공격에 약하다. [END]"
         },
         {
             "offset": 37648,
