@@ -182,7 +182,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Pirate[END]",
-            "translation": "파일레츠[END]"
+            "translation": "해적[END]"
         },
         {
             "offset": 2980,
@@ -230,7 +230,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Snow Bunny[END]",
-            "translation": "스노우 바니[END]"
+            "translation": "스노우 버니[END]"
         },
         {
             "offset": 3724,
@@ -254,7 +254,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Cuttlefish[END]",
-            "translation": "카틀피쉬[END]"
+            "translation": "갑오징어[END]"
         },
         {
             "offset": 4096,
@@ -278,7 +278,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Peepit[END]",
-            "translation": "피요피요[END]"
+            "translation": "삐요삐요[END]"
         },
         {
             "offset": 4468,
@@ -310,7 +310,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Mushroom[END]",
-            "translation": "머쉬룸[END]"
+            "translation": "버섯[END]"
         },
         {
             "offset": 4964,
@@ -342,7 +342,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Starfish[END]",
-            "translation": "스타피쉬[END]"
+            "translation": "불가사리[END]"
         },
         {
             "offset": 5460,
@@ -374,7 +374,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Basilisk[END]",
-            "translation": "바질리스크[END]"
+            "translation": "바실리스크[END]"
         },
         {
             "offset": 5956,
@@ -390,7 +390,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Lizard[END]",
-            "translation": "리절드[END]"
+            "translation": "리저드[END]"
         },
         {
             "offset": 6204,
@@ -398,7 +398,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Leech[END]",
-            "translation": "리치[END]"
+            "translation": "거머리[END]"
         },
         {
             "offset": 6328,
@@ -406,7 +406,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Bat[END]",
-            "translation": "배트[END]"
+            "translation": "박쥐[END]"
         },
         {
             "offset": 6452,
@@ -414,7 +414,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Peacock[END]",
-            "translation": "피콕[END]"
+            "translation": "공작[END]"
         },
         {
             "offset": 6576,
@@ -470,7 +470,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Skeleton[END]",
-            "translation": "스켈톤[END]"
+            "translation": "해골[END]"
         },
         {
             "offset": 7444,
@@ -478,7 +478,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Mummy[END]",
-            "translation": "머미[END]"
+            "translation": "미라[END]"
         },
         {
             "offset": 7568,
@@ -486,7 +486,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Vigilance[END]",
-            "translation": "비지랜드[END]"
+            "translation": "비질란스[END]"
         },
         {
             "offset": 7692,
@@ -494,7 +494,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Sweeper[END]",
-            "translation": "스위프[END]"
+            "translation": "스윕[END]"
         },
         {
             "offset": 7816,
@@ -550,7 +550,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Artillery[END]",
-            "translation": "아티렐리[END]"
+            "translation": "아틸러리[END]"
         },
         {
             "offset": 8684,
@@ -558,7 +558,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Cockroach[END]",
-            "translation": "콕로치[END]"
+            "translation": "코크로치[END]"
         },
         {
             "offset": 8808,
@@ -566,7 +566,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Insect Plant[END]",
-            "translation": "인섹트 플랜트[END]"
+            "translation": "식충 식물[END]"
         },
         {
             "offset": 8932,
@@ -582,7 +582,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Paghoul[END]",
-            "translation": "파글루스[END]"
+            "translation": "파굴루스[END]"
         },
         {
             "offset": 9180,
@@ -606,7 +606,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Squasher Bot[END]",
-            "translation": "스크오쉬[END]"
+            "translation": "스쿼시[END]"
         },
         {
             "offset": 9552,
@@ -622,7 +622,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Bite Plant[END]",
-            "translation": "바이트 플랜트[END]"
+            "translation": "식육 식물[END]"
         },
         {
             "offset": 9800,
@@ -670,7 +670,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Chien de Garde[END]",
-            "translation": "씨앤 드 갤드[END]"
+            "translation": "시앙 드 가르드[END]"
         },
         {
             "offset": 10544,
@@ -854,7 +854,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Paralyslime[END]",
-            "translation": "패럴라이슬라임[END]"
+            "translation": "마비 슬라임[END]"
         },
         {
             "offset": 13396,
@@ -974,7 +974,7 @@
             "original_bytes_length": 7,
             "available_bytes_size": 23,
             "english": "Hare[END]",
-            "translation": "할레[END]"
+            "translation": "하레[END]"
         },
         {
             "offset": 15256,
@@ -982,7 +982,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Ogre Bear[END]",
-            "translation": "오글 베어[END]"
+            "translation": "오우거 베어[END]"
         },
         {
             "offset": 15380,
@@ -990,7 +990,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Chirpee[END]",
-            "translation": "춘춘[END]"
+            "translation": "짹짹[END]"
         },
         {
             "offset": 15504,
@@ -1014,7 +1014,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Fluffy[END]",
-            "translation": "모프리나[END]"
+            "translation": "푹신이[END]"
         },
         {
             "offset": 15876,
@@ -1022,7 +1022,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Gentleman Luine[END]",
-            "translation": "젠틀 명태[END]"
+            "translation": "젠틀맨 타이[END]"
         },
         {
             "offset": 16000,
@@ -1030,7 +1030,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Gentleman Lester[END]",
-            "translation": "젠틀 미역[END]"
+            "translation": "젠틀맨 와카메[END]"
         },
         {
             "offset": 16124,
@@ -1038,7 +1038,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Gentleman Rhambling[END]",
-            "translation": "젠틀 피단[END]"
+            "translation": "젠틀맨 피단[END]"
         },
         {
             "offset": 16248,
@@ -1046,7 +1046,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Gentleman Valens[END]",
-            "translation": "젠틀 청어알[END]"
+            "translation": "젠틀맨 가즈노코[END]"
         },
         {
             "offset": 16372,
@@ -1134,7 +1134,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Rapid Bee[END]",
-            "translation": "래빗 비[END]"
+            "translation": "래비드 비[END]"
         },
         {
             "offset": 17736,
@@ -1174,7 +1174,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Muzzle Leech[END]",
-            "translation": "마즐 리치[END]"
+            "translation": "주둥이 거머리[END]"
         },
         {
             "offset": 18356,
@@ -1206,7 +1206,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Champignon[END]",
-            "translation": "샨피니온[END]"
+            "translation": "샴피뇽[END]"
         },
         {
             "offset": 18852,
@@ -1254,7 +1254,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Treant[END]",
-            "translation": "토렌트[END]"
+            "translation": "트렌트[END]"
         },
         {
             "offset": 19596,
@@ -1334,7 +1334,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Piipii[END]",
-            "translation": "피피[END]"
+            "translation": "삐삐[END]"
         },
         {
             "offset": 20836,
@@ -1350,7 +1350,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Basilisk King[END]",
-            "translation": "바질리스크 킹[END]"
+            "translation": "바실리스크 킹[END]"
         },
         {
             "offset": 21084,
@@ -1358,7 +1358,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Saber Tabby[END]",
-            "translation": "세이버 타비[END]"
+            "translation": "세이버 태비[END]"
         },
         {
             "offset": 21208,
@@ -1390,7 +1390,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Garidge[END]",
-            "translation": "개리지[END]"
+            "translation": "가리지[END]"
         },
         {
             "offset": 21704,
@@ -1430,7 +1430,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Infrared[END]",
-            "translation": "임프레이드[END]"
+            "translation": "인프레드[END]"
         },
         {
             "offset": 22324,
@@ -1462,7 +1462,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Growther[END]",
-            "translation": "글로우서[END]"
+            "translation": "그로우서[END]"
         },
         {
             "offset": 22820,
@@ -1470,7 +1470,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Corpse[END]",
-            "translation": "콥스[END]"
+            "translation": "코프스[END]"
         },
         {
             "offset": 22944,
@@ -1542,7 +1542,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Tentacle[END]",
-            "translation": "덴타클[END]"
+            "translation": "텐타클[END]"
         },
         {
             "offset": 24060,
@@ -1638,7 +1638,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Oxileps[END]",
-            "translation": "옥키시렙스[END]"
+            "translation": "옥시렙스[END]"
         },
         {
             "offset": 25548,
@@ -1718,7 +1718,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Iguana[END]",
-            "translation": "이거니아[END]"
+            "translation": "이구아나[END]"
         },
         {
             "offset": 26788,
@@ -1734,7 +1734,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Savage[END]",
-            "translation": "사베지[END]"
+            "translation": "새비지[END]"
         },
         {
             "offset": 27036,
@@ -1838,7 +1838,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Imposter[END]",
-            "translation": "인포스터[END]"
+            "translation": "임포스터[END]"
         },
         {
             "offset": 28648,
@@ -1854,7 +1854,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Catastrophe[END]",
-            "translation": "딜리전[END]"
+            "translation": "델리전[END]"
         },
         {
             "offset": 28896,
@@ -1974,7 +1974,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Gentle-M[END]",
-            "translation": "곡물[END]"
+            "translation": "고쿠모츠[END]"
         },
         {
             "offset": 30756,
