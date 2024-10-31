@@ -33,7 +33,7 @@
             "string": "ある空中都市の周辺には、実験プラントから[LINE]\nあふれた危険な植物が自生しているため、[LINE]\n気をつけて歩かないと痛い目にあうらしい。[END]",
             "original_bytes_length": 121,
             "available_bytes_size": 127,
-            "translation": "어떤 공중 도시 주변에는, 실험 플랜트에서[LINE]\n넘쳐나는 위험한 식물이 자생하고 있어서,[LINE]\n조심하지 않으면 아픈 경험을 하게 될 것 같다.[END]"
+            "translation": "어떤 공중 도시 주변에는, 실험 플랜트에서[LINE]\n넘쳐나온 위험한 식물이 자생하고 있어서,[LINE]\n조심하지 않으면 혼이 날 것 같다.[END]"
         },
         {
             "offset": 1735216,
@@ -82,7 +82,7 @@
             "string": "セインガルド王国が建国を記念して[LINE]\n建立した石碑。[LINE]\n[END]",
             "original_bytes_length": 49,
             "available_bytes_size": 55,
-            "translation": "세인갈드 왕국이 건국을 기념하여[LINE]\n세운 비석.[LINE]\n[END]"
+            "translation": "세인가르드 왕국이 건국을 기념하여[LINE]\n세운 비석.[LINE]\n[END]"
         },
         {
             "offset": 1735672,
@@ -103,7 +103,7 @@
             "string": "「ランブータン」という果物にそっくりな[LINE]\nお尻をしている豚。[LINE]\nブーブーうるさい。[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "‘람부탄’이라는 과일을 꼭 닮은[LINE]\n엉덩이를 가진 돼지.[LINE]\n부우 부우 시끄럽다.[END]"
+            "translation": "「람부탄」이라는 과일을 닮은[LINE]\n엉덩이를 가진 돼지.[LINE]\n꿀꿀 시끄럽다.[END]"
         },
         {
             "offset": 1735872,
@@ -124,7 +124,7 @@
             "string": "燃えた後には水しか残らない不思議な物質。[LINE]\n炎と氷の妖精の愛の結晶という伝説がある。[LINE]\n別名は「燃える氷」で、触ると冷たい。[END]",
             "original_bytes_length": 119,
             "available_bytes_size": 119,
-            "translation": "타고 난 뒤에는 물밖에 남지 않는 신기한 물질.[LINE]\n불과 얼음의 요정의 사랑의 결정체라는 전설이 있다.[LINE]\n별명은 ‘타는 얼음’이며, 만지면 차갑다.[END]"
+            "translation": "타고 난 뒤에는 물밖에 남지 않는 신기한 물질.[LINE]\n불과 얼음의 요정의 사랑의 결정체라는 전설이 있다.[LINE]\n별명은 「타는 얼음」이며, 만지면 차갑다.[END]"
         },
         {
             "offset": 1736088,
@@ -222,14 +222,14 @@
             "string": "地上の高原に生えている山男におなじみの[LINE]\n植物が、軍事基地だった空中都市の周辺でも[LINE]\n見られるらしい。[END]",
             "original_bytes_length": 97,
             "available_bytes_size": 103,
-            "translation": "지상의 고원에 자생하는 산악남자에게 익숙한[LINE]\n식물이, 군사 기지였던 공중 도시의 주변에서도[LINE]\n보인다고 한다.[END]"
+            "translation": "지상의 고원에 자생하는 산사나이에게 익숙한[LINE]\n식물이, 군사 기지였던 공중 도시의 주변에서도[LINE]\n보인다고 한다.[END]"
         },
         {
             "offset": 1737024,
             "string": "標高の高い場所でしか咲かない花。[LINE]\n花言葉は「アタック！」。[LINE]\n山男にはおなじみの植物。[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "고도가 높은 곳에서만 피는 꽃.[LINE]\n꽃말은 '공격!'.[LINE]\n산악남자에게 익숙한 식물.[END]"
+            "translation": "고도가 높은 곳에서만 피는 꽃.[LINE]\n꽃말은 「공격!」.[LINE]\n산사나이에게 익숙한 식물.[END]"
         },
         {
             "offset": 1737112,
@@ -348,7 +348,7 @@
             "string": "アンスズーンの周辺には、命の大切さと[LINE]\nはかなさを体現する健気な昆虫がいる[LINE]\nらしい。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "안스주른 주변에는, 생명의 소중함과[LINE]\n덧없음을 체현하는 굳센 곤충이 있다고 한다.[LINE]\n[END]"
+            "translation": "안스준 주변에는, 생명의 소중함과[LINE]\n덧없음을 체현하는 굳센 곤충이 있다고 한다.[LINE]\n[END]"
         },
         {
             "offset": 1738320,
@@ -453,21 +453,21 @@
             "string": "カルビオラの辺りには、片想いの人に告白の[LINE]\n代わりとして手渡す花が咲いているそうだ。[LINE]\n[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "칼비오라 근처에는, 짝사랑하는 사람에게 고백의[LINE]\n대신 손에 주는 꽃이 핀다고 한다.[LINE]\n[END]"
+            "translation": "까르비올라 근처에는, 짝사랑하는 사람에게 고백의[LINE]\n대신 손에 주는 꽃이 핀다고 한다.[LINE]\n[END]"
         },
         {
             "offset": 1739360,
             "string": "カルビオラに生息する耐乾性一年草。[LINE]\n草丈と花径が小さく、乾燥に強い。[LINE]\n花言葉は「私の事を想ってください」。[END]",
             "original_bytes_length": 105,
             "available_bytes_size": 111,
-            "translation": "칼비오라에 서식하는 내건성 일년초.[LINE]\n풀 높이와 꽃 지름이 작고, 건조에 강함.[LINE]\n꽃말은 '나를 생각해 주세요'.[END]"
+            "translation": "까르비올라에 서식하는 내건성 일년초.[LINE]\n풀 높이와 꽃 지름이 작고, 건조에 강함.[LINE]\n꽃말은 「나를 생각해 주세요」.[END]"
         },
         {
             "offset": 1739472,
             "string": "カルビオラビオラ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "칼비오라 비올라[END]"
+            "translation": "까르비올라 비올라[END]"
         },
         {
             "offset": 1739496,
@@ -586,7 +586,7 @@
             "string": "大雪の夜の翌朝に見つかる巨大な雪だるま。[LINE]\n「風のいたずら」説もあるが、定かではない。[LINE]\n[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "폭설의 밤 다음 아침에 발견되는 거대한 눈사람.[LINE]\n'바람의 장난'이라는 설도 있지만, 확실하지 않다.[LINE]\n[END]"
+            "translation": "폭설의 밤 다음 아침에 발견되는 거대한 눈사람.[LINE]\n「바람의 장난」이라는 설도 있지만, 확실하지 않다.[LINE]\n[END]"
         },
         {
             "offset": 1740832,
@@ -698,7 +698,7 @@
             "string": "仙桃[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "선복숭아[END]"
+            "translation": "선도[END]"
         },
         {
             "offset": 1741872,
@@ -1153,7 +1153,7 @@
             "string": "巧みに雪山を滑り降りる犬。[LINE]\nその技術には「ホットドッグなドッグだ」と[LINE]\n驚きの声多数。[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "능숙하게 눈산을 미끄러져 내려오는 개.[LINE]\n그 기술에 대해 \"핫도그 같은 개다\"라는[LINE]\n놀라움의 목소리가 많다.[END]"
+            "translation": "능숙하게 눈산을 미끄러져 내려오는 개.[LINE]\n그 기술에 대해 「핫도그 같은 개다」라는[LINE]\n놀라움의 목소리가 많다.[END]"
         },
         {
             "offset": 1746464,
@@ -1237,7 +1237,7 @@
             "string": "するどいくちばしを持つ鳥。[LINE]\n「ウソツツキにつつかれるよ」と、親は子の[LINE]\nウソをしかる。[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "날카로운 부리를 가진 새.[LINE]\n\"거짓말하는 새에 쪼일 거야\"라고, 부모는 아이의[LINE]\n거짓말을 나무란다.[END]"
+            "translation": "날카로운 부리를 가진 새.[LINE]\n「거짓말하는 새에 쪼일 거야」라고, 부모는 아이의[LINE]\n거짓말을 나무란다.[END]"
         },
         {
             "offset": 1747248,
@@ -1266,6 +1266,13 @@
             "original_bytes_length": 11,
             "available_bytes_size": 15,
             "translation": "티아의 꽃[END]"
+        },
+        {
+            "offset": 1747440,
+            "string": "かつて勇名を馳せた船。[LINE]\n千年の時を経て海上に勇壮な姿を現した。[END]",
+            "original_bytes_length": 62,
+            "available_bytes_size": 63,
+            "translation": "한때 명성을 떨쳤던 배.[LINE]\n천년의 세월을 거쳐 바다 위에 웅장한 모습을 드러냈다.[END]"
         }
     ]
 }
