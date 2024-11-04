@@ -680,7 +680,7 @@ select
 <Philia>
 [ENDBLOCK]
 여러분은 밤이 되면 오세요.
-뒷문 열쇠를 열어두겠습니다.
+뒷문을 열어두겠습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
