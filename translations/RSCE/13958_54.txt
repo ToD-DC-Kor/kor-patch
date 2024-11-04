@@ -654,7 +654,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-젠장, 미칠 수 있을까!
+젠장, 시간 안에 도착할 수 있을까!
 [ENDBLOCK]
 알림
 [ENDBLOCK]

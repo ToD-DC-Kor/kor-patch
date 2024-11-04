@@ -514,7 +514,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Johnny>
 [ENDBLOCK]
 그러고 보니,
-<Stahn>네는 어떻게 지내?
+<Stahn>일행은 어떻게 지내?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

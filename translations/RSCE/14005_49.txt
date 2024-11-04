@@ -533,7 +533,7 @@ select
 <Rutee>
 [ENDBLOCK]
 오베론 사의 자본이 들어와서
-최근에 급성장했대요.
+최근에 급성장했대.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -661,7 +661,7 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭐 혼자서 사 먹고 있는 거야.
+혼자서 뭐 먹고 있는 거야?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]

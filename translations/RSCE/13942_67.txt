@@ -785,7 +785,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-미처 못 막았군……
+결국 막지 못했군……
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
@@ -912,8 +912,8 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-기다려요, 여러분!
-너무 서두른다고요!
+기다려, 모두!
+너무 서두른다고!
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]

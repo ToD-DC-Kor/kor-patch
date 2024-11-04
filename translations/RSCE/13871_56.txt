@@ -692,7 +692,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Stahn>네들의…… 일인가요?
+<Stahn>일행의…… 일인가요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -751,8 +751,8 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-지금까지의 도련님께는 꿈이
-너무 적었어요.
+지금까지의 도련님은
+꿈이 너무 없었어요.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]

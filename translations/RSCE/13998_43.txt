@@ -181,23 +181,23 @@ reset---------
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-넵!
+핫!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-넵!
+핫!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-넵!
+핫!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Stahn>네도 돌아오지 않네요.
+<Stahn>일행도 돌아오지 않네요.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-아무도 돌아오지 않을 거예요, 도련님.
+아무도 돌아오지 않아요, 도련님.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -257,11 +257,11 @@ reset---------
 <Lion>
 [ENDBLOCK]
 잠깐, 집에 아무도
-없어지면 안 돼.
+없으면 안 돼.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그렇다고 내가 여길 떠나 <Ilene>과
+그렇다고 내가 여길 떠나 <Ilene>와
 엇갈리면 곤란하고……
 [ENDBLOCK]
 메이드
