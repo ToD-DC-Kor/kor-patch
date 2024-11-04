@@ -833,8 +833,8 @@ init_camera_homing!!!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-이런 사막 한가운데서 잘도 살아가.
-내라면 도저히 무리야.
+이런 사막 한가운데서 잘도 살아가고 있어.
+나라면, 도저히 불가능할 거야.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
