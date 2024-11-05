@@ -399,62 +399,62 @@
 [ENDBLOCK]
 부탁한다, 너희들!
 [ENDBLOCK]
-견습 하인
+견습 사용인
 [ENDBLOCK]
 안녕하세요!
 
 [ENDBLOCK]
-견습 하인
+견습 사용인
 [ENDBLOCK]
 아직 견습이지만,
 잘 부탁드립니다.
 [ENDBLOCK]
-견습 하인
+견습 사용인
 [ENDBLOCK]
 으…… 저 아직
 견습인 채로예요……
 [ENDBLOCK]
-견습 하인
+견습 사용인
 [ENDBLOCK]
 아세요? 요즘 소문의 <Lion> 님은
 사실 이 저택의……
 [ENDBLOCK]
-견습 하인
+견습 사용인
 [ENDBLOCK]
 죄, 죄송합니다!
 아무것도 아니에요!
 [ENDBLOCK]
-견습 하인
+견습 사용인
 [ENDBLOCK]
 저택 안에선 사적인 대화가 금지돼 있어.
 매일 숨이 막힐 것 같아.
 [ENDBLOCK]
-견습 하인
+견습 사용인
 [ENDBLOCK]
 하늘 아주 높은 곳에서
 빛이 확 쏟아져 내렸어.
 [ENDBLOCK]
-견습 하인
+견습 사용인
 [ENDBLOCK]
 그렇게 대단한 빛은
 지금까지 본 적이 없어.
 [ENDBLOCK]
-견습 하인
+견습 사용인
 [ENDBLOCK]
 주인님도 집사님도 사라지고,
 이 저택은 이제 끝이네.
 [ENDBLOCK]
-견습 하인
+견습 사용인
 [ENDBLOCK]
 지금까지 일한 월급도
 아마 못 받겠지……
 [ENDBLOCK]
-견습 하인
+견습 사용인
 [ENDBLOCK]
 <Marian> 씨가 돌아왔어.
 그 사람, 분위기가 바뀌었더라.
 [ENDBLOCK]
-견습 하인
+견습 사용인
 [ENDBLOCK]
 <Marian> 씨가 시켜서
 나도 성에 렌즈를 운반했어.

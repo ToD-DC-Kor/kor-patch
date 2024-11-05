@@ -1802,7 +1802,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-젠장, <Stahn>일행은 어디로 간 거야.
+젠장, <Stahn> 일행은 어디로 간 거야.
 아무래도 나 혼자로는 어떻게 할 수 없겠어.
 [ENDBLOCK]
 <Chaltier>
@@ -1844,7 +1844,7 @@ select
 <Chaltier>
 [ENDBLOCK]
 <Ilene>와 함께 있는 사람들이
-<Stahn>일행 같지 않아요?
+<Stahn> 일행 같지 않아요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

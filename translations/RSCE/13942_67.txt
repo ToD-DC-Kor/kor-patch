@@ -785,7 +785,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-결국 막지 못했군……
+늦어 버렸나……
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]

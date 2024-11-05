@@ -17,7 +17,7 @@
 <Greybum>
 [ENDBLOCK]
 누구한테 그런 말투를 쓰는 거지?
-많이 대단해졌구나, <Philia>!
+참 대단해졌구나, <Philia>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -231,7 +231,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-잠깐…… 제발 좀.
+제발…… 이러지마.
 <Stahn>, 정신 차려!
 [ENDBLOCK]
 <Philia>

@@ -193,7 +193,7 @@ reset---------
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Stahn>일행도 돌아오지 않네요.
+<Stahn> 일행도 돌아오지 않네요.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
