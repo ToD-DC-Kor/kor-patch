@@ -1,6 +1,6 @@
 <King>
 [ENDBLOCK]
-<Lion>아, 스트레이라이즈 신전 조사를
+<Lion>이여, 스트레이라이즈 신전 조사를
 부탁한다.
 [ENDBLOCK]
 <King>
@@ -24,7 +24,7 @@
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-<Lion>아, 스트레이라이즈 신전 조사를
+<Lion>이여, 스트레이라이즈 신전 조사를
 부탁한다.
 [ENDBLOCK]
 <King>
@@ -75,7 +75,7 @@
 <Dryden>
 [ENDBLOCK]
 폐하의 기대에 어긋나는 일은
-절대로 있어서는 안 되오.
+절대로 있어서는 안되오.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -90,7 +90,7 @@
 <Dryden>
 [ENDBLOCK]
 폐하의 기대에 어긋나는 일은
-절대로 있어서는 안 되오.
+절대로 있어서는 안되오.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -296,7 +296,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-(…… <Hugo>, 네가
+(…… <Hugo>, 대체
 무슨 생각을 하고 있는 거지?)
 [ENDBLOCK]
 <Dryden>

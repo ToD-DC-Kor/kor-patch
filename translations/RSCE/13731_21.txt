@@ -14,7 +14,7 @@
 [ENDBLOCK]
 젊은 어머니
 [ENDBLOCK]
-아들이 죄송합니다.
+아들 때문에 죄송합니다.
 다치지는 않으셨나요?
 [ENDBLOCK]
 <Stahn>
