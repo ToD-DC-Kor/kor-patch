@@ -1,5 +1,5 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -15,11 +15,11 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 네, 컷입니다.
 [ENDBLOCK]
-<Stahn> 씨. 여기는 "<Lion>의 적"
-이 아니라, "<Lion>의 원수"입니다.
+<Stahn> 씨. 여기는 『<Lion>의 적』
+이 아니라, 『<Lion>의 원수』입니다.
 [ENDBLOCK]
 아, 죄송합니다. 제가
-"<Lion>의 적"이라고 말했나요?
+『<Lion>의 적』이라고 말했나요?
 [ENDBLOCK]
 죄송했습니다.
 다시 한 번 부탁드립니다.
