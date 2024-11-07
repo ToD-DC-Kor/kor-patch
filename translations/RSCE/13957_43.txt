@@ -41,8 +41,8 @@
 [ENDBLOCK]
 토슈
 [ENDBLOCK]
-그럼 말이야, 「칠흑의 날개」 님을
-알아?
+그럼 말이야
+「칠흑의 날개」 님을 알아?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -658,8 +658,8 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-신전 내부에서 발견했지만, 틈을 타
-범인에게 다시 빼앗겼어.
+신전 내부에서 발견했지만, 허술한 틈을
+타서 범인에게 다시 빼앗기고 말았다.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]

@@ -187,7 +187,7 @@
             "string": "プラチナのように輝く甲羅を持つ希少な亀。[LINE]\n硬い甲羅と卵が高級装飾品として密漁される[LINE]\nため、種の絶滅が危ぶまれている。[END]",
             "original_bytes_length": 115,
             "available_bytes_size": 119,
-            "translation": "플래티넘처럼 빛나는 껍질을 가진 희귀한 거북이.[LINE]\n단단한 껍질과 알이 고급 장신구로 밀렵당하기 때문에,[LINE]\n종의 멸종이 우려되고 있다.[END]"
+            "translation": "플래티넘처럼 빛나는 껍질을 가진 희귀한 거북이.[LINE]\n단단한 껍질과 알이 고급 장신구로[LINE]\n밀렵당하기 때문에, 종의 멸종이 우려되고 있다.[END]"
         },
         {
             "offset": 1736712,
@@ -271,7 +271,7 @@
             "string": "光を増幅する石で作られた貴重な手鏡。[LINE]\n月明かりでもはっきりと姿を映すため、[LINE]\n化粧をしやすいと代々の女王に重宝された。[END]",
             "original_bytes_length": 115,
             "available_bytes_size": 119,
-            "translation": "빛을 증폭하는 돌로 만들어진 귀중한 손거울.[LINE]\n달빛에서도 뚜렷하게 모습을 비추기 때문에,[LINE]\n화장을 하기에 용이하다고 대대로의 여왕에게 귀중히 여겨졌다.[END]"
+            "translation": "빛을 증폭하는 돌로 만들어진 귀중한 손거울. 달빛에서도[LINE]\n뚜렷하게 모습을 비추기 때문에, 화장을 하기에[LINE]\n용이하다고 대대로의 여왕에게 귀중히 여겨졌다.[END]"
         },
         {
             "offset": 1737560,
@@ -439,7 +439,7 @@
             "string": "雪が降る冷たい川をのぼり、産卵をする鮭。[LINE]\n凍った川を硬い口先で砕いて進む姿は圧巻。[LINE]\n[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "눈이 내리는 차가운 강을 올라가서, 알을 낳는 연어.[LINE]\n얼어붙은 강을 단단한 주둥이로 부수며 나아가는 모습이 압권.[LINE]\n[END]"
+            "translation": "눈이 내리는 차가운 강을 올라가서, 알을 낳는 연어.[LINE]\n얼어붙은 강을 단단한 주둥이로 부수며[LINE]\n나아가는 모습이 압권.[LINE]\n[END]"
         },
         {
             "offset": 1739256,
@@ -586,7 +586,7 @@
             "string": "大雪の夜の翌朝に見つかる巨大な雪だるま。[LINE]\n「風のいたずら」説もあるが、定かではない。[LINE]\n[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "폭설의 밤 다음 아침에 발견되는 거대한 눈사람.[LINE]\n「바람의 장난」이라는 설도 있지만, 확실하지 않다.[LINE]\n[END]"
+            "translation": "폭설의 밤 다음 아침에 발견되는 거대한 눈사람.[LINE]\n「바람의 장난」이라는 설도 있지만,[LINE]\n확실하지 않다.[LINE]\n[END]"
         },
         {
             "offset": 1740832,
@@ -817,7 +817,7 @@
             "string": "大きなヒレで風に乗って空を飛ぶ巨大エイ。[LINE]\n最大飛行距離は５００メートルともいわれる。[LINE]\n[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "큰 지느러미로 바람을 타고 하늘을 나는 거대한 가오리.[LINE]\n최대 비행 거리는 500미터라고.[LINE]\n[END]"
+            "translation": "큰 지느러미로 바람을 타고[LINE]\n하늘을 나는 거대한 가오리.[LINE]\n최대 비행 거리는 500미터라고.[LINE]\n[END]"
         },
         {
             "offset": 1743008,
@@ -880,7 +880,7 @@
             "string": "樹齢１０００年を超える巨大な樹。[LINE]\nその生命力に人は憧れ、信仰の対象とした。[LINE]\n[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "수령 1000년을 넘는 거대한 나무.[LINE]\n그 생명력에 사람들은 동경하고, 신앙의 대상이 되었다.[LINE]\n[END]"
+            "translation": "수령 1000년을 넘는 거대한 나무.[LINE]\n그 생명력에 사람들은 동경하고,[LINE]\n신앙의 대상이 되었다.[LINE]\n[END]"
         },
         {
             "offset": 1743648,
@@ -1069,7 +1069,7 @@
             "string": "霧氷の一種で、樹についた水滴が凍りついて[LINE]\nできたもの。[LINE]\n樹に花が咲いたように見える。[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "안개 얼음의 일종으로, 나무에 붙은 물방울이 얼어서[LINE]\n생긴 것.[LINE]\n나무에 꽃이 핀 것처럼 보인다.[END]"
+            "translation": "안개 얼음의 일종으로, 나무에 붙은[LINE]\n물방울이 얼어서 생긴 것.[LINE]\n나무에 꽃이 핀 것처럼 보인다.[END]"
         },
         {
             "offset": 1745584,

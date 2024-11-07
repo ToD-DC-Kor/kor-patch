@@ -1503,7 +1503,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-아, 아니 저는 별로 먹고 싶은 건 아니……
+아, 아니 나는 별로 먹고 싶은 건 아니……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]

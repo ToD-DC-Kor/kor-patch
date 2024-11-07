@@ -24,7 +24,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-바닥에 구멍이 있어요!
+바닥에 구멍이 있어!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
