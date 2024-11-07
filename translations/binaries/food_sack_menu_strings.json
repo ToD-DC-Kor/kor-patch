@@ -1,0 +1,67 @@
+{
+    "00072.md1": [
+        {
+            "offset": 8464,
+            "string": "[Circle_ani]決定[Cross_ani]キャンセル[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]결정[Cross_ani]취소[END]"
+        },
+        {
+            "offset": 8496,
+            "string": "[Circle_ani]決定[Cross_ani]キャンセル[Left+Right_blink]リスト切替[END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "[Circle_ani]결정[Cross_ani]취소[Left+Right_blink]리스트 전환[END]"
+        },
+        {
+            "offset": 8544,
+            "string": "[Circle_ani]交換[Left+Right_blink]リスト切替[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]교환[Left+Right_blink]리스트 전환[END]"
+        },
+        {
+            "offset": 8576,
+            "string": "[Circle_ani]交換[Triangle_ani]外す[Select_ani]挿入[Left+Right_blink]リスト切替[END]",
+            "original_bytes_length": 46,
+            "available_bytes_size": 47,
+            "translation": "[Circle_ani]교환[Triangle_ani]제거[Select_ani]삽입[Left+Right_blink]리스트 전환[END]"
+        },
+        {
+            "offset": 13872,
+            "string": "ストラップ一覧[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "스트랩 목록[END]"
+        },
+        {
+            "offset": 13888,
+            "string": "全てのストラップを外すことはできません。[LINE]\n[END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "모든 스트랩을 제거할 수 없습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 13944,
+            "string": "交換中[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "교환중[END]"
+        },
+        {
+            "offset": 13952,
+            "string": "挿入中[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "삽입중[END]"
+        },
+        {
+            "offset": 14008,
+            "string": "２つ以上のストラップをセットした状態で[LINE]\n複数のストラップが条件を満たした場合、[LINE]\nその中で最も上にあるものが料理されます。[LINE]\n[END]",
+            "original_bytes_length": 120,
+            "available_bytes_size": 120,
+            "translation": "2개 이상의 스트랩을 설정한 상태에서[LINE]\n여러 개의 스트랩이 조건을 만족한 경우,[LINE]\n그 중에서 가장 위에 있는 것이 적용됩니다.[LINE]\n[END]"
+        }
+    ]
+}
