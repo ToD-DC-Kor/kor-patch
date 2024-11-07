@@ -96,7 +96,7 @@
             "string": "カルビオラの街でレンズを[LINE]\n回収した[Stahn]たち。[LINE]\n街の人々の声援はなかった[LINE]\nが、レンズを提供してくれた[LINE]\nだけでも、十分協力的と[LINE]\nいえるだろう。[END]",
             "original_bytes_length": 135,
             "available_bytes_size": 135,
-            "translation": "칼비올라의 마을에서 렌즈를[LINE]\n회수한 [Stahn] 일행.[LINE]\n마을 사람들의 응원은 없었지만,[LINE]\n렌즈를 제공해준 것만으로도,[LINE]\n충분히 협력적이라고[LINE]\n말할 수 있을 것이다.[END]"
+            "translation": "까르비올라의 마을에서 렌즈를[LINE]\n회수한 [Stahn] 일행.[LINE]\n마을 사람들의 응원은 없었지만,[LINE]\n렌즈를 제공해준 것만으로도,[LINE]\n충분히 협력적이라고[LINE]\n말할 수 있을 것이다.[END]"
         },
         {
             "offset": 34784,
@@ -110,7 +110,7 @@
             "string": "ハイデルベルグの街で、[LINE]\nレンズを回収した[LINE]\n[Stahn]たち。[LINE]\n[Woodrow]は留守役の[LINE]\n[Darzen]に、苦難の時はあと[LINE]\n少しで終わる、それまで耐え[LINE]\n忍んで欲しいと告げる。[END]",
             "original_bytes_length": 142,
             "available_bytes_size": 143,
-            "translation": "하이델베르크의 마을에서,[LINE]\n렌즈를 회수한[LINE]\n[Stahn] 일행.[LINE]\n[Woodrow]는 대리인인[LINE]\n[Darzen]에게, 고난의 시간은[LINE]\n곧 끝나니까, 그때까지 참고[LINE]\n기를 바란다고 전한다.[END]"
+            "translation": "하이델베르그의 마을에서,[LINE]\n렌즈를 회수한[LINE]\n[Stahn] 일행.[LINE]\n[Woodrow]는 대리인인[LINE]\n[Darzen]에게, 고난의 시간은[LINE]\n곧 끝나니까, 그때까지 참고[LINE]\n기를 바란다고 전한다.[END]"
         },
         {
             "offset": 35064,
@@ -334,21 +334,21 @@
             "string": "[Stahn]たちは[LINE]\nミックハイルに到着する。[LINE]\nクラウディスやヘルレイオス[LINE]\n同様、ここにも誰かが[LINE]\n待ち構えている可能性は[LINE]\n高い。[LINE]\nだが、ここまで来たら、[LINE]\nもはや後には引けない。[END]",
             "original_bytes_length": 161,
             "available_bytes_size": 167,
-            "translation": "[Stahn] 일행은[LINE]\n미크하일에 도착한다.[LINE]\n클라우디스나 헬레이오스[LINE]\n와 마찬가지로, 여기에도[LINE]\n누군가가 기다리고 있는[LINE]\n가능성은 높다.[LINE]\n그러나, 여기까지 왔으면,[LINE]\n이제는 더 이상 물러설 수 없다.[END]"
+            "translation": "[Stahn] 일행은[LINE]\n믹하일에 도착한다.[LINE]\n클라우디스나 헬레이오스[LINE]\n와 마찬가지로, 여기에도[LINE]\n누군가가 기다리고 있는[LINE]\n가능성은 높다.[LINE]\n그러나, 여기까지 왔으면,[LINE]\n이제는 더 이상 물러설 수 없다.[END]"
         },
         {
             "offset": 38960,
             "string": "シュサイアの出入り口へ[LINE]\nたどり着いた[Stahn][LINE]\nたち。[LINE]\n外殻大地を通って、[LINE]\n目指すはミックハイルだ。[END]",
             "original_bytes_length": 92,
             "available_bytes_size": 95,
-            "translation": "슈사이아의 입구로[LINE]\n도착한 [Stahn][LINE]\n일행.[LINE]\n외피대지를 통해,[LINE]\n목표는 미크하일이다.[END]"
+            "translation": "슈사이아의 입구로[LINE]\n도착한 [Stahn][LINE]\n일행.[LINE]\n외피대지를 통해,[LINE]\n목표는 믹하일이다.[END]"
         },
         {
             "offset": 39056,
             "string": "[Stahn]たちは[LINE]\nイグナシーから、シュサイア[LINE]\nへとやって来る。[LINE]\n目的地であるミックハイルへ[LINE]\nたどり着くには、ここから[LINE]\n外殻大地へ抜けなければ[LINE]\nならない。[END]",
             "original_bytes_length": 142,
             "available_bytes_size": 143,
-            "translation": "[Stahn] 일행은[LINE]\n이그나시에서, 슈사이아[LINE]\n로 찾아온다.[LINE]\n목적지인 미크하일로[LINE]\n도착하기 위해서는, 여기서[LINE]\n외피대지로 나가야만[LINE]\n한다.[END]"
+            "translation": "[Stahn] 일행은[LINE]\n이그나시에서, 슈사이아[LINE]\n로 찾아온다.[LINE]\n목적지인 믹하일로[LINE]\n도착하기 위해서는, 여기서[LINE]\n외피대지로 나가야만[LINE]\n한다.[END]"
         },
         {
             "offset": 39200,
@@ -362,7 +362,7 @@
             "string": "ひとまずラディスロウへ[LINE]\n戻ってきた[Stahn][LINE]\nたち。完成した中和装置を[LINE]\n受け取り、次に目指すは[LINE]\nミックハイル。[LINE]\nそこで浮遊クルーザーを[LINE]\n手に入れ、ダイクロフトへ[LINE]\n乗り込むのだ！[END]",
             "original_bytes_length": 165,
             "available_bytes_size": 167,
-            "translation": "일단 라디스로우로[LINE]\n돌아온 [Stahn][LINE]\n일행. 완성된 중화장치를[LINE]\n받아, 다음으로 향하는 곳은[LINE]\n미크하일. 거기서 부유[LINE]\n크루저를 손에 넣고,[LINE]\n다이크로프트로[LINE]\n탑승하는 것이다![END]"
+            "translation": "일단 라디슬로우로[LINE]\n돌아온 [Stahn][LINE]\n일행. 완성된 중화장치를[LINE]\n받아, 다음으로 향하는 곳은[LINE]\n믹하일. 거기서 부유[LINE]\n크루저를 손에 넣고,[LINE]\n다이크로프트로[LINE]\n탑승하는 것이다![END]"
         },
         {
             "offset": 39384,
@@ -376,7 +376,7 @@
             "string": "[Woodrow]は修復の完了[LINE]\nした[Igtenos]と、[LINE]\n正式に契約を交わす。[LINE]\nそこへ[Ritora]から、鏡面[LINE]\nバリアー中和装置が完成した[LINE]\nとの知らせが入る。[LINE]\n一行は装置を受け取るべく、[LINE]\nラディスロウへ戻る事に。[END]",
             "original_bytes_length": 173,
             "available_bytes_size": 175,
-            "translation": "[Woodrow]는 수리가 완료된[LINE]\n[Igtenos]와,[LINE]\n정식으로 계약을 맺는다.[LINE]\n그곳에 [Ritora]로부터, 거울[LINE]\n방벽 중화장치가 완성되었다는[LINE]\n소식이 들어온다.[LINE]\n일행은 장치를 받으러,[LINE]\n라디스로우로 돌아가기로 한다.[END]"
+            "translation": "[Woodrow]는 수리가 완료된[LINE]\n[Igtenos]와,[LINE]\n정식으로 계약을 맺는다.[LINE]\n그곳에 [Ritora]로부터, 거울[LINE]\n방벽 중화장치가 완성되었다는[LINE]\n소식이 들어온다.[LINE]\n일행은 장치를 받으러,[LINE]\n라디슬로우로 돌아가기로 한다.[END]"
         },
         {
             "offset": 39704,
@@ -425,7 +425,7 @@
             "string": "ラディスロウを後にした[LINE]\n[Stahn]たち。[LINE]\n次の目的地はヘルレイオス。[LINE]\nまずはアンスズーンを通って[LINE]\nイグナシーへ戻り、そこから[LINE]\n転送装置でロディオンへ[LINE]\n向かわなければならない。[END]",
             "original_bytes_length": 164,
             "available_bytes_size": 167,
-            "translation": "라디스로우를 떠난[LINE]\n[Stahn] 일행.[LINE]\n다음 목적지는 헬레이오스.[LINE]\n먼저 안스즈운을 통해[LINE]\n이그나시로 돌아가, 거기서[LINE]\n전송장치로 로디온으로[LINE]\n향해야만 한다.[END]"
+            "translation": "라디슬로우를 떠난[LINE]\n[Stahn] 일행.[LINE]\n다음 목적지는 헬레이오스.[LINE]\n먼저 안스준을 통해[LINE]\n이그나시로 돌아가, 거기서[LINE]\n전송장치로 로디온으로[LINE]\n향해야만 한다.[END]"
         },
         {
             "offset": 40672,
@@ -446,14 +446,14 @@
             "string": "アンスズーンのシステムが[LINE]\nダウンしているせいで、[LINE]\n外へ出られなくなった[LINE]\n[Stahn]たち一行。[LINE]\nソーディアンの提示した[LINE]\n作戦は、エネルギーユニット[LINE]\nを集め、メインシステムに[LINE]\nつなぐ事だった。[LINE]\n[END]",
             "original_bytes_length": 178,
             "available_bytes_size": 183,
-            "translation": "안스즈운의 시스템이[LINE]\n다운되어 있어,[LINE]\n밖으로 나갈 수 없게 된[LINE]\n[Stahn] 일행.[LINE]\n소디안이 제시한[LINE]\n작전은, 에너지 유닛을[LINE]\n모아, 메인 시스템에[LINE]\n연결하는 것이었다.[LINE]\n[END]"
+            "translation": "안스준의 시스템이[LINE]\n다운되어 있어,[LINE]\n밖으로 나갈 수 없게 된[LINE]\n[Stahn] 일행.[LINE]\n소디안이 제시한[LINE]\n작전은, 에너지 유닛을[LINE]\n모아, 메인 시스템에[LINE]\n연결하는 것이었다.[LINE]\n[END]"
         },
         {
             "offset": 41168,
             "string": "転送装置を用い、イグナシー[LINE]\nから一瞬で別の空中都市[LINE]\nアンスズーンに移動した[LINE]\n[Stahn]たち。[LINE]\n次の目的はここを抜け、[LINE]\n守護竜の制御装置がある[LINE]\nクラウディスにたどり着く[LINE]\n事だ。[END]",
             "original_bytes_length": 163,
             "available_bytes_size": 167,
-            "translation": "전송장치를 이용해, 이그나시[LINE]\n에서 순식간에 다른 천공도시[LINE]\n안스즈운으로 이동한[LINE]\n[Stahn] 일행.[LINE]\n다음 목적지는 여기를 나와,[LINE]\n수호용의 제어장치가 있는[LINE]\n클라우디스에 도착하는[LINE]\n것이다.[END]"
+            "translation": "전송장치를 이용해, 이그나시[LINE]\n에서 순식간에 다른 천공도시[LINE]\n안스준으로 이동한[LINE]\n[Stahn] 일행.[LINE]\n다음 목적지는 여기를 나와,[LINE]\n수호용의 제어장치가 있는[LINE]\n클라우디스에 도착하는[LINE]\n것이다.[END]"
         },
         {
             "offset": 41336,
@@ -467,7 +467,7 @@
             "string": "転送装置のターミナルを確保[LINE]\nした[Stahn]たち。[LINE]\n行き先をアンスズーンに設定[LINE]\nし、一行は装置に入る。[LINE]\n[END]",
             "original_bytes_length": 94,
             "available_bytes_size": 95,
-            "translation": "전송장치의 터미널을 확보[LINE]\n한 [Stahn] 일행.[LINE]\n목적지를 안스즈운으로 설정[LINE]\n하고, 일행은 장치에 들어간다.[LINE]\n[END]"
+            "translation": "전송장치의 터미널을 확보[LINE]\n한 [Stahn] 일행.[LINE]\n목적지를 안스준으로 설정[LINE]\n하고, 일행은 장치에 들어간다.[LINE]\n[END]"
         },
         {
             "offset": 41448,
@@ -488,14 +488,14 @@
             "string": "ラディスロウを出ようとして[LINE]\nいた[Stahn]たちに、[LINE]\n[Reynolds]から報告が入る。[LINE]\nダリルシェイドとの間に[LINE]\n無重量エレベーターが開通[LINE]\nしたらしい。[LINE]\nこれでいつでも地上へ[LINE]\n戻れる。[END]",
             "original_bytes_length": 158,
             "available_bytes_size": 159,
-            "translation": "라디스로우를 나가려고 하던[LINE]\n[Stahn] 일행에게,[LINE]\n[Reynolds]로부터 보고가 들어온다.[LINE]\n다릴쉐이드와의 사이에[LINE]\n무중량 엘리베이터가 개통[LINE]\n된 것으로 보인다.[LINE]\n이제 언제든지 지상으로[LINE]\n돌아갈 수 있다.[END]"
+            "translation": "라디슬로우를 나가려고 하던[LINE]\n[Stahn] 일행에게,[LINE]\n[Reynolds]로부터 보고가 들어온다.[LINE]\n다릴쉐이드와의 사이에[LINE]\n무중량 엘리베이터가 개통[LINE]\n된 것으로 보인다.[LINE]\n이제 언제든지 지상으로[LINE]\n돌아갈 수 있다.[END]"
         },
         {
             "offset": 41760,
             "string": "ラディスロウを浮上させ、[LINE]\nダイクロフトを目指した[LINE]\n[Stahn]たちだったが、[LINE]\n[Hugo]に撃墜されて[LINE]\nしまう。[LINE]\n作戦は変更され、[LINE]\n一行は空中都市のひとつ、[LINE]\nイグナシーを目指す事に。[END]",
             "original_bytes_length": 162,
             "available_bytes_size": 167,
-            "translation": "라디스로우를 부상시켜,[LINE]\n다이크로프트를 향한[LINE]\n[Stahn] 일행이었으나,[LINE]\n[Hugo]에게 격추당해[LINE]\n버린다.[LINE]\n작전은 변경되어,[LINE]\n일행은 천공도시 중 하나인,[LINE]\n이그나시를 향하는 것으로.[END]"
+            "translation": "라디슬로우를 부상시켜,[LINE]\n다이크로프트를 향한[LINE]\n[Stahn] 일행이었으나,[LINE]\n[Hugo]에게 격추당해[LINE]\n버린다.[LINE]\n작전은 변경되어,[LINE]\n일행은 천공도시 중 하나인,[LINE]\n이그나시를 향하는 것으로.[END]"
         },
         {
             "offset": 41928,
@@ -523,7 +523,7 @@
             "string": "遺跡を出ようとした[LINE]\n[Stahn]たちの耳に、[LINE]\n[Hugo]の声がとどろく。[LINE]\n続いて発射される、二発目の[LINE]\nベルクラント。[LINE]\n地上が闇に閉ざされるまで、[LINE]\nもう猶予はない。早く、[LINE]\nラディスロウへ戻らねば。[END]",
             "original_bytes_length": 176,
             "available_bytes_size": 176,
-            "translation": "유적을 나가려던[LINE]\n[Stahn] 일행의 귀에,[LINE]\n[Hugo]의 목소리가 울린다.[LINE]\n이어 발사되는, 두 번째[LINE]\n벨크란트.[LINE]\n지상이 어둠에 가려지기까지,[LINE]\n더 이상 유예는 없다. 빨리,[LINE]\n라디스로우로 돌아가야 한다.[END]"
+            "translation": "유적을 나가려던[LINE]\n[Stahn] 일행의 귀에,[LINE]\n[Hugo]의 목소리가 울린다.[LINE]\n이어 발사되는, 두 번째[LINE]\n벨크란트.[LINE]\n지상이 어둠에 가려지기까지,[LINE]\n더 이상 유예는 없다. 빨리,[LINE]\n라디슬로우로 돌아가야 한다.[END]"
         },
         {
             "offset": 42424,
@@ -544,7 +544,7 @@
             "string": "ラディスロウを浮上させる[LINE]\n装置、Ｒキーのある遺跡に[LINE]\nたどり着いた一行。[LINE]\n[Stahn]は[Dymlos]に[LINE]\n[Lion]の事を意識[LINE]\nしすぎるなと釘を刺される。[LINE]\n[Stahn]は大義は忘れて[LINE]\nいないと答えるが……[END]",
             "original_bytes_length": 168,
             "available_bytes_size": 168,
-            "translation": "라디스로우를 부상시키는[LINE]\n장치, R키가 있는 유적에[LINE]\n도착한 일행.[LINE]\n[Stahn]은 [Dymlos]에게[LINE]\n[Lion]에 대해 의식[LINE]\n하고 있지 않다고 지적당한다.[LINE]\n[Stahn]은 대의를 잊지[LINE]\n않았다고 대답하지만……[END]"
+            "translation": "라디슬로우를 부상시키는[LINE]\n장치, R키가 있는 유적에[LINE]\n도착한 일행.[LINE]\n[Stahn]은 [Dymlos]에게[LINE]\n[Lion]에 대해 의식[LINE]\n하고 있지 않다고 지적당한다.[LINE]\n[Stahn]은 대의를 잊지[LINE]\n않았다고 대답하지만……[END]"
         },
         {
             "offset": 42880,
@@ -558,7 +558,7 @@
             "string": "リーネの村の近くにある[LINE]\n遺跡を目指すため、[LINE]\nラディスロウを発つ一行。[LINE]\n[Lion]の敵を討とうと[LINE]\n決意する[Stahn]。[LINE]\n傍らでは[Rutee]が、[LINE]\n[Lion]との最後の[LINE]\n会話の内容に思い悩む。[END]",
             "original_bytes_length": 160,
             "available_bytes_size": 160,
-            "translation": "리네의 마을 근처에 있는[LINE]\n유적을 향해, 라디스로우를[LINE]\n떠나는 일행.[LINE]\n[Lion]의 적을 처치하려고[LINE]\n결의하는 [Stahn].[LINE]\n옆에서 [Rutee]가,[LINE]\n[Lion]과의 마지막[LINE]\n대화 내용에 고민한다.[END]"
+            "translation": "리네의 마을 근처에 있는[LINE]\n유적을 향해, 라디슬로우를[LINE]\n떠나는 일행.[LINE]\n[Lion]의 적을 처치하려고[LINE]\n결의하는 [Stahn].[LINE]\n옆에서 [Rutee]가,[LINE]\n[Lion]과의 마지막[LINE]\n대화 내용에 고민한다.[END]"
         },
         {
             "offset": 43056,
@@ -572,14 +572,14 @@
             "string": "[Stahn]たちは海竜に[LINE]\n乗り、ラディスロウへやって[LINE]\n来る。[LINE]\n[Ritora]は奥の中枢部にいる[LINE]\nらしい。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "[Stahn] 일행은 해룡에[LINE]\n타고, 라디스로우로 찾아[LINE]\n온다.[LINE]\n[Ritora]는 깊은 중추부에[LINE]\n있는 것으로 보인다.[END]"
+            "translation": "[Stahn] 일행은 해룡에[LINE]\n타고, 라디슬로우로 찾아[LINE]\n온다.[LINE]\n[Ritora]는 깊은 중추부에[LINE]\n있는 것으로 보인다.[END]"
         },
         {
             "offset": 43328,
             "string": "空中都市を復活させたのは[LINE]\n[Hugo]だった。[Hugo]は[LINE]\n天地戦争の開戦を世界中に[LINE]\n宣言する。[LINE]\n[Stahn]たちは地上軍[LINE]\n総司令[Ritora]の召集命令を[LINE]\n受け、ラディスロウへと[LINE]\n向かう。[END]",
             "original_bytes_length": 156,
             "available_bytes_size": 159,
-            "translation": "천공도시를 부활시킨 것은[LINE]\n[Hugo]였다. [Hugo]는[LINE]\n천지전쟁의 개전을 전 세계에[LINE]\n선언한다.[LINE]\n[Stahn] 일행은 지상군[LINE]\n총사령 [Ritora]의 소집명령을[LINE]\n받고, 라디스로우로[LINE]\n향한다.[END]"
+            "translation": "천공도시를 부활시킨 것은[LINE]\n[Hugo]였다. [Hugo]는[LINE]\n천지전쟁의 개전을 전 세계에[LINE]\n선언한다.[LINE]\n[Stahn] 일행은 지상군[LINE]\n총사령 [Ritora]의 소집명령을[LINE]\n받고, 라디슬로우로[LINE]\n향한다.[END]"
         },
         {
             "offset": 43488,
@@ -670,21 +670,21 @@
             "string": "[Stahn]たちは[LINE]\n[Woodrow]、[Chelsea][LINE]\nと再会する。[LINE]\nふたりを改めて仲間に加え、[LINE]\n一行はハイデルベルグを発つ[LINE]\n事に。[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "[Stahn] 일행은[LINE]\n[Woodrow], [Chelsea][LINE]\n과 재회한다.[LINE]\n둘을 다시 한번 동료로[LINE]\n추가하고, 일행은 하이델베르크를[LINE]\n떠나기로 한다.[END]"
+            "translation": "[Stahn] 일행은[LINE]\n[Woodrow], [Chelsea][LINE]\n과 재회한다.[LINE]\n둘을 다시 한번 동료로[LINE]\n추가하고, 일행은 하이델베르그를[LINE]\n떠나기로 한다.[END]"
         },
         {
             "offset": 45016,
             "string": "ハイデルベルグの街は、[LINE]\n以前と比べ、格段に活気に[LINE]\n満ちていた。[LINE]\n[Philia]の話では、[LINE]\nつい最近、[Woodrow]が[LINE]\n王位に就いたらしい。[LINE]\n一行は[Woodrow]に[LINE]\n会うべく、城を目指す。[END]",
             "original_bytes_length": 153,
             "available_bytes_size": 159,
-            "translation": "하이델베르크의 마을은,[LINE]\n이전과 비교해, 확실히 활기에[LINE]\n넘쳐 있었다.[LINE]\n[Philia]의 이야기에 따르면,[LINE]\n얼마 전, [Woodrow]가[LINE]\n왕위에 오른 것으로 보인다.[LINE]\n일행은 [Woodrow]에게[LINE]\n만나기 위해, 성을 향한다.[END]"
+            "translation": "하이델베르그의 마을은,[LINE]\n이전과 비교해, 확실히 활기에[LINE]\n넘쳐 있었다.[LINE]\n[Philia]의 이야기에 따르면,[LINE]\n얼마 전, [Woodrow]가[LINE]\n왕위에 오른 것으로 보인다.[LINE]\n일행은 [Woodrow]에게[LINE]\n만나기 위해, 성을 향한다.[END]"
         },
         {
             "offset": 45176,
             "string": "[Mary]は[Dalis]の[LINE]\n後押しを受け、再び[LINE]\n[Stahn]たちと行動を共にする[LINE]\n事になる。頼もしい仲間を[LINE]\n得て、意気あがる一行。[LINE]\n次の目的地は、[Woodrow]の[LINE]\nいるハイデルベルグ城だ。[END]",
             "original_bytes_length": 155,
             "available_bytes_size": 159,
-            "translation": "[Mary]는 [Dalis]의[LINE]\n후방을 받아, 다시[LINE]\n[Stahn] 일행과 행동을 함께[LINE]\n하게 된다. 믿음직한 동료를[LINE]\n얻어, 의기를 내는 일행.[LINE]\n다음 목적지는, [Woodrow]의[LINE]\n있는 하이델베르크 성이다.[END]"
+            "translation": "[Mary]는 [Dalis]의[LINE]\n후방을 받아, 다시[LINE]\n[Stahn] 일행과 행동을 함께[LINE]\n하게 된다. 믿음직한 동료를[LINE]\n얻어, 의기를 내는 일행.[LINE]\n다음 목적지는, [Woodrow]의[LINE]\n있는 하이델베르그 성이다.[END]"
         },
         {
             "offset": 45336,
@@ -761,7 +761,7 @@
             "string": "ハイデルベルグの決戦[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "하이델베르크의 결전[END]"
+            "translation": "하이델베르그의 결전[END]"
         },
         {
             "offset": 46488,
@@ -782,7 +782,7 @@
             "string": "[Stahn]たちは[LINE]\nハイデルベルグに到着する。[LINE]\n街は喪に服しているかの[LINE]\nように静まり返っていた。[LINE]\n一行は非常通路を用いて、[LINE]\n城に潜入する事にする。[END]",
             "original_bytes_length": 135,
             "available_bytes_size": 135,
-            "translation": "[Stahn] 일행은[LINE]\n하이델베르크에 도착한다.[LINE]\n마을은 애도에 빠져 있는 것처럼[LINE]\n조용했다.[LINE]\n일행은 비상통로를 이용하여,[LINE]\n성에 침투하기로 한다.[END]"
+            "translation": "[Stahn] 일행은[LINE]\n하이델베르그에 도착한다.[LINE]\n마을은 애도에 빠져 있는 것처럼[LINE]\n조용했다.[LINE]\n일행은 비상통로를 이용하여,[LINE]\n성에 침투하기로 한다.[END]"
         },
         {
             "offset": 46936,
@@ -796,14 +796,14 @@
             "string": "[Stahn]たちは[LINE]\nサイリルの街を出て、[LINE]\nハイデルベルグへ向け出発[LINE]\nする。[LINE]\n[Woodrow]は父イザークが[LINE]\nなぜサイリルに強硬な態度を[LINE]\n取ったのかわからず、[LINE]\nひとり思い悩む。[END]",
             "original_bytes_length": 150,
             "available_bytes_size": 151,
-            "translation": "[Stahn] 일행은[LINE]\n사이릴의 마을을 떠나,[LINE]\n하이델베르크로 향해 출발[LINE]\n한다.[LINE]\n[Woodrow]는 아버지 이자크가[LINE]\n왜 사이릴에 강경한 태도를[LINE]\n취했는지 모르고,[LINE]\n혼자 고민한다.[END]"
+            "translation": "[Stahn] 일행은[LINE]\n사이릴의 마을을 떠나,[LINE]\n하이델베르그로 향해 출발[LINE]\n한다.[LINE]\n[Woodrow]는 아버지 이자크가[LINE]\n왜 사이릴에 강경한 태도를[LINE]\n취했는지 모르고,[LINE]\n혼자 고민한다.[END]"
         },
         {
             "offset": 47104,
             "string": "[Mary]はついに記憶を[LINE]\n取り戻す。先に会った[Dalis][LINE]\nは[Mary]の夫だった。[LINE]\n[Dalis]は本当に、[Greybum]と[LINE]\n手を組んでいるのか？[LINE]\n真相を確かめるためにも、[LINE]\n早くハイデルベルグへと[LINE]\n向かわなければならない。[END]",
             "original_bytes_length": 183,
             "available_bytes_size": 183,
-            "translation": "[Mary]는 드디어 기억을[LINE]\n되찾는다. 먼저 만난 [Dalis]는[LINE]\n[Mary]의 남편이었다.[LINE]\n[Dalis]는 정말로, [Greybum]과[LINE]\n손을 잡고 있는 것인가?[LINE]\n진상을 확인하기 위해서도,[LINE]\n빨리 하이델베르크로[LINE]\n향해야만 한다.[END]"
+            "translation": "[Mary]는 드디어 기억을[LINE]\n되찾는다. 먼저 만난 [Dalis]는[LINE]\n[Mary]의 남편이었다.[LINE]\n[Dalis]는 정말로, [Greybum]과[LINE]\n손을 잡고 있는 것인가?[LINE]\n진상을 확인하기 위해서도,[LINE]\n빨리 하이델베르그로[LINE]\n향해야만 한다.[END]"
         },
         {
             "offset": 47288,
@@ -838,7 +838,7 @@
             "string": "[Greybum]は反乱軍を率いて[LINE]\nハイデルベルグを攻略した[LINE]\nらしい。[LINE]\n[Woodrow]と[Chelsea][LINE]\nを仲間に加え、[LINE]\n[Stahn]たちは[LINE]\nハイデルベルグへ向け、[LINE]\n出発する事にする。[END]",
             "original_bytes_length": 142,
             "available_bytes_size": 143,
-            "translation": "[Greybum]은 반란군을 이끌고[LINE]\n하이델베르크를 공략한[LINE]\n것으로 보인다.[LINE]\n[Woodrow]와 [Chelsea][LINE]\n를 동료로 추가하고,[LINE]\n[Stahn] 일행은[LINE]\n하이델베르크로 향해,[LINE]\n출발하기로 한다.[END]"
+            "translation": "[Greybum]은 반란군을 이끌고[LINE]\n하이델베르그를 공략한[LINE]\n것으로 보인다.[LINE]\n[Woodrow]와 [Chelsea][LINE]\n를 동료로 추가하고,[LINE]\n[Stahn] 일행은[LINE]\n하이델베르그로 향해,[LINE]\n출발하기로 한다.[END]"
         },
         {
             "offset": 47824,
@@ -901,7 +901,7 @@
             "string": "ついにトウケイ城の中へと[LINE]\n突入した[Stahn]たち。[LINE]\n[Tiberius]と[Greybum]は、[LINE]\n城の最上階にいるらしい。[LINE]\nここまで来たら、[LINE]\n一気に駆け抜けるだけだ！[END]",
             "original_bytes_length": 129,
             "available_bytes_size": 135,
-            "translation": "드디어 토우케이 성 안으로[LINE]\n돌입한 [Stahn] 일행.[LINE]\n[Tiberius]와 [Greybum]은,[LINE]\n성의 최상층에 있는 것으로 보인다.[LINE]\n여기까지 왔으면,[LINE]\n일어서서 뚫고 나가는 것뿐이다![END]"
+            "translation": "드디어 토케이 성 안으로[LINE]\n돌입한 [Stahn] 일행.[LINE]\n[Tiberius]와 [Greybum]은,[LINE]\n성의 최상층에 있는 것으로 보인다.[LINE]\n여기까지 왔으면,[LINE]\n일어서서 뚫고 나가는 것뿐이다![END]"
         },
         {
             "offset": 48880,
@@ -915,14 +915,14 @@
             "string": "トウケイ領の街中にある[LINE]\n船着場へ到着した[LINE]\n[Stahn]たち。[LINE]\n予め街に潜入していたシデン[LINE]\n領の者の力を借り、トウケイ[LINE]\n城を目指す。[END]",
             "original_bytes_length": 119,
             "available_bytes_size": 119,
-            "translation": "토우케이 영토의 마을 중앙에 있는[LINE]\n선착장에 도착한[LINE]\n[Stahn] 일행.[LINE]\n미리 마을에 침투해 있던 시덴[LINE]\n영토의 자의 힘을 빌려, 토우케이[LINE]\n성을 향한다.[END]"
+            "translation": "토케이 영토의 마을 중앙에 있는[LINE]\n선착장에 도착한[LINE]\n[Stahn] 일행.[LINE]\n미리 마을에 침투해 있던 시덴[LINE]\n영토의 자의 힘을 빌려, 토케이[LINE]\n성을 향한다.[END]"
         },
         {
             "offset": 49016,
             "string": "トウケイ領の海上防衛線を[LINE]\n突破し、[Stahn]たちの[LINE]\n乗った船は港へと侵入する。[LINE]\nその後一行は[Tiberius]と[LINE]\n[Greybum]のいる城へ潜入[LINE]\nするべく、街の中央にある[LINE]\n船着場へと向かう。[END]",
             "original_bytes_length": 156,
             "available_bytes_size": 159,
-            "translation": "토우케이 영토의 해상 방어선을[LINE]\n돌파하고, [Stahn] 일행의[LINE]\n탄 배는 항구로 침입한다.[LINE]\n그 후 일행은 [Tiberius]와[LINE]\n[Greybum]의 있는 성으로 침투[LINE]\n하기 위해, 마을 중앙에 있는[LINE]\n선착장으로 향한다.[END]"
+            "translation": "토케이 영토의 해상 방어선을[LINE]\n돌파하고, [Stahn] 일행의[LINE]\n탄 배는 항구로 침입한다.[LINE]\n그 후 일행은 [Tiberius]와[LINE]\n[Greybum]의 있는 성으로 침투[LINE]\n하기 위해, 마을 중앙에 있는[LINE]\n선착장으로 향한다.[END]"
         },
         {
             "offset": 49176,
@@ -943,7 +943,7 @@
             "string": "黒十字艦隊の船に乗り、[LINE]\nトウケイ領を目指す[LINE]\n[Stahn]たち。[LINE]\nだが航海の途中、不意に船が[LINE]\n衝撃に見舞われる。[LINE]\nもしや敵が？[LINE]\n[Stahn]たちは状況を[LINE]\n確認するべく甲板へ向かう。[END]",
             "original_bytes_length": 158,
             "available_bytes_size": 159,
-            "translation": "흑십자 함대의 배에 타고,[LINE]\n토우케이 영토를 향하는[LINE]\n[Stahn] 일행.[LINE]\n그러나 항해 중간, 갑자기 배가[LINE]\n충격을 받는다.[LINE]\n혹시 적이?[LINE]\n[Stahn] 일행은 상황을[LINE]\n확인하기 위해 갑판으로 향한다.[END]"
+            "translation": "흑십자 함대의 배에 타고,[LINE]\n토케이 영토를 향하는[LINE]\n[Stahn] 일행.[LINE]\n그러나 항해 중간, 갑자기 배가[LINE]\n충격을 받는다.[LINE]\n혹시 적이?[LINE]\n[Stahn] 일행은 상황을[LINE]\n확인하기 위해 갑판으로 향한다.[END]"
         },
         {
             "offset": 49488,
@@ -957,7 +957,7 @@
             "string": "モリュウ城の外へ出た一行は[LINE]\n[Rihanna]の出迎えを受ける。[LINE]\n[Stahn]たちは[Fayte][LINE]\n率いる黒十字艦隊の船で[LINE]\nトウケイ領へ乗り込むべく、[LINE]\n港へと向かう。[END]",
             "original_bytes_length": 133,
             "available_bytes_size": 135,
-            "translation": "모류 성 밖으로 나온 일행은[LINE]\n[Rihanna]의 맞이를 받는다.[LINE]\n[Stahn] 일행은 [Fayte][LINE]\n를 이끄는 흑십자 함대의 배로[LINE]\n토우케이 영토로 탑승하기 위해,[LINE]\n항구로 향한다.[END]"
+            "translation": "모류 성 밖으로 나온 일행은[LINE]\n[Rihanna]의 맞이를 받는다.[LINE]\n[Stahn] 일행은 [Fayte][LINE]\n를 이끄는 흑십자 함대의 배로[LINE]\n토케이 영토로 탑승하기 위해,[LINE]\n항구로 향한다.[END]"
         },
         {
             "offset": 49648,
@@ -1167,14 +1167,14 @@
             "string": "チェリクの街へ戻ってきた[LINE]\n[Stahn]たち。[LINE]\n船に乗るには、隣接する[LINE]\nカルバレイス港へ行かねば[LINE]\nならない。[END]",
             "original_bytes_length": 96,
             "available_bytes_size": 96,
-            "translation": "체릭의 마을로 돌아온[LINE]\n[Stahn] 일행.[LINE]\n배를 타려면, 인접한[LINE]\n칼바레이스 항구로 가야만[LINE]\n한다.[END]"
+            "translation": "체리크의 마을로 돌아온[LINE]\n[Stahn] 일행.[LINE]\n배를 타려면, 인접한[LINE]\n칼바레이스 항구로 가야만[LINE]\n한다.[END]"
         },
         {
             "offset": 53424,
             "string": "[Stahn]たちは神殿の[LINE]\n地下で、[Greybum]と対峙する[LINE]\nものの、逃げられてしまう。[LINE]\n[Baruk]の救援もあり、[LINE]\n窮地を脱した一行は、[LINE]\n船でノイシュタットを目指す[LINE]\nため、チェリクの街へ[LINE]\n戻る事にする。[END]",
             "original_bytes_length": 173,
             "available_bytes_size": 175,
-            "translation": "[Stahn] 일행은 신전의[LINE]\n지하에서, [Greybum]과 대면하는[LINE]\n바람에, 도망쳐버린다.[LINE]\n[Baruk]의 구출도 있어,[LINE]\n교지를 벗어난 일행은,[LINE]\n배로 노이슈타트를 향해[LINE]\n가기 위해, 체릭의 마을로[LINE]\n돌아가기로 한다.[END]"
+            "translation": "[Stahn] 일행은 신전의[LINE]\n지하에서, [Greybum]과 대면하는[LINE]\n바람에, 도망쳐버린다.[LINE]\n[Baruk]의 구출도 있어,[LINE]\n교지를 벗어난 일행은,[LINE]\n배로 노이슈타트를 향해[LINE]\n가기 위해, 체리크의 마을로[LINE]\n돌아가기로 한다.[END]"
         },
         {
             "offset": 53600,
@@ -1195,7 +1195,7 @@
             "string": "カルビオラの宿に滞在して[LINE]\nいた[Stahn]たちは、[LINE]\n夜になってから行動を開始[LINE]\nする。[LINE]\n[Philia]が神殿の裏口の[LINE]\n鍵を開けてくれている[LINE]\nはずだ。[END]",
             "original_bytes_length": 125,
             "available_bytes_size": 127,
-            "translation": "칼비올라의 숙소에 머물던[LINE]\n[Stahn] 일행은,[LINE]\n밤이 되자 행동을 시작한다.[LINE]\n[Philia]가 신전의 뒷문의[LINE]\n열쇠를 열어주고 있을[LINE]\n것이다.[END]"
+            "translation": "까르비올라의 숙소에 머물던[LINE]\n[Stahn] 일행은,[LINE]\n밤이 되자 행동을 시작한다.[LINE]\n[Philia]가 신전의 뒷문의[LINE]\n열쇠를 열어주고 있을[LINE]\n것이다.[END]"
         },
         {
             "offset": 54032,
@@ -1209,7 +1209,7 @@
             "string": "カルビオラに到着した[LINE]\n[Stahn]たちは、[LINE]\n街の住人からストレイライズ[LINE]\n神殿の場所を聞き出す。[LINE]\nそこに[Greybum]がいるかも[LINE]\nしれない。[END]",
             "original_bytes_length": 118,
             "available_bytes_size": 119,
-            "translation": "칼비올라에 도착한[LINE]\n[Stahn] 일행은,[LINE]\n마을 주민으로부터 스트레이라이즈[LINE]\n신전의 위치를 물어본다.[LINE]\n그곳에 [Greybum]이[LINE]\n있을지도 모른다.[END]"
+            "translation": "까르비올라에 도착한[LINE]\n[Stahn] 일행은,[LINE]\n마을 주민으로부터 스트레이라이즈[LINE]\n신전의 위치를 물어본다.[LINE]\n그곳에 [Greybum]이[LINE]\n있을지도 모른다.[END]"
         },
         {
             "offset": 54280,
@@ -1223,7 +1223,7 @@
             "string": "[Stahn]たちは[LINE]\n[Greybum]らしき一団が、[LINE]\nカルバレイスの首都である[LINE]\nカルビオラへ向かった事を[LINE]\n突き止める。[LINE]\nそして後を追うべく、[LINE]\nチェリクの街を後にする。[END]",
             "original_bytes_length": 141,
             "available_bytes_size": 143,
-            "translation": "[Stahn] 일행은[LINE]\n[Greybum] 같은 일행이,[LINE]\n칼바레이스의 수도인[LINE]\n칼비올라로 향한 것을[LINE]\n알아낸다.[LINE]\n그리고 뒤를 쫓기 위해,[LINE]\n체릭의 마을을 떠난다.[END]"
+            "translation": "[Stahn] 일행은[LINE]\n[Greybum] 같은 일행이,[LINE]\n칼바레이스의 수도인[LINE]\n까르비올라로 향한 것을[LINE]\n알아낸다.[LINE]\n그리고 뒤를 쫓기 위해,[LINE]\n체리크의 마을을 떠난다.[END]"
         },
         {
             "offset": 54440,
@@ -1734,21 +1734,21 @@
             "string": "[Lion]たちは[LINE]\nハイデルベルグに到着する。[LINE]\n街は喪に服しているかの[LINE]\nように静まり返っていた。[LINE]\n一行は非常通路を用いて、[LINE]\n城に潜入する事にする。[END]",
             "original_bytes_length": 135,
             "available_bytes_size": 135,
-            "translation": "[Lion] 일행은[LINE]\n하이델베르크에 도착한다.[LINE]\n도시는 장례를 치르는 듯[LINE]\n조용히 침묵하고 있었다.[LINE]\n일행은 비상 통로를 이용해,[LINE]\n성에 잠입하기로 한다.[END]"
+            "translation": "[Lion] 일행은[LINE]\n하이델베르그에 도착한다.[LINE]\n도시는 장례를 치르는 듯[LINE]\n조용히 침묵하고 있었다.[LINE]\n일행은 비상 통로를 이용해,[LINE]\n성에 잠입하기로 한다.[END]"
         },
         {
             "offset": 63120,
             "string": "[Lion]たちは[LINE]\nサイリルの街を出て、[LINE]\nハイデルベルグへ向け出発する。[LINE]\n[Woodrow]は父イザークが[LINE]\nなぜサイリルに強硬な態度を[LINE]\n取ったのか分からず、[LINE]\nひとり思い悩む。[END]",
             "original_bytes_length": 149,
             "available_bytes_size": 151,
-            "translation": "[Lion] 일행은[LINE]\n사이리루를 떠나, [LINE]\n하이델베르크로 향해 출발한다.[LINE]\n[Woodrow]는 아버지 이자크가[LINE]\n왜 사이리루에 강경한 태도를[LINE]\n취했는지 알지 못하고,[LINE]\n혼자서 고민한다.[END]"
+            "translation": "[Lion] 일행은[LINE]\n사이리루를 떠나, [LINE]\n하이델베르그로 향해 출발한다.[LINE]\n[Woodrow]는 아버지 이자크가[LINE]\n왜 사이리루에 강경한 태도를[LINE]\n취했는지 알지 못하고,[LINE]\n혼자서 고민한다.[END]"
         },
         {
             "offset": 63272,
             "string": "[Mary]はついに記憶を[LINE]\n取り戻す。先に会った[Dalis]は[LINE]\n[Mary]の夫だった。[LINE]\n[Dalis]は本当に、[Greybum]と[LINE]\n手を組んでいるのか？[LINE]\n真相を確かめるためにも、[LINE]\n早くハイデルベルグへと[LINE]\n向かわなければならない。[END]",
             "original_bytes_length": 183,
             "available_bytes_size": 183,
-            "translation": "[Mary]는 드디어 기억을[LINE]\n되찾는다. 전에 만난[Dalis]는[LINE]\n[Mary]의 남편이었다.[LINE]\n[Dalis]는 정말로,[Greybum]과[LINE]\n손을 잡고 있는 것인가?[LINE]\n진실을 확인하기 위해서라도,[LINE]\n빨리 하이델베르크로[LINE]\n가야만 한다.[END]"
+            "translation": "[Mary]는 드디어 기억을[LINE]\n되찾는다. 전에 만난[Dalis]는[LINE]\n[Mary]의 남편이었다.[LINE]\n[Dalis]는 정말로,[Greybum]과[LINE]\n손을 잡고 있는 것인가?[LINE]\n진실을 확인하기 위해서라도,[LINE]\n빨리 하이델베르그로[LINE]\n가야만 한다.[END]"
         },
         {
             "offset": 63456,
@@ -1769,7 +1769,7 @@
             "string": "[Greybum]は反乱軍を率いて[LINE]\nハイデルベルグを攻略した[LINE]\nらしい。[LINE]\n[Woodrow]と[Chelsea]を[LINE]\n仲間に加え、[Lion]たちは[LINE]\nハイデルベルグへ向け、[LINE]\n出発する。[END]",
             "original_bytes_length": 129,
             "available_bytes_size": 135,
-            "translation": "[Greybum]은 반란군을 이끌고[LINE]\n하이델베르크를 정복한[LINE]\n모양이다.[LINE]\n[Woodrow]와[Chelsea]를[LINE]\n동료로 추가하고,[Lion] 일행은[LINE]\n하이델베르크로 향해,[LINE]\n출발한다.[END]"
+            "translation": "[Greybum]은 반란군을 이끌고[LINE]\n하이델베르그를 정복한[LINE]\n모양이다.[LINE]\n[Woodrow]와[Chelsea]를[LINE]\n동료로 추가하고,[Lion] 일행은[LINE]\n하이델베르그로 향해,[LINE]\n출발한다.[END]"
         },
         {
             "offset": 63912,
@@ -1818,7 +1818,7 @@
             "string": "ついにトウケイ城の中へと[LINE]\n突入した[Lion]たち。[LINE]\n[Tiberius]と[Greybum]は、[LINE]\n城の最上階にいるらしい。[LINE]\nここまで来たら、[LINE]\n一気に駆け抜けるだけだ！[END]",
             "original_bytes_length": 129,
             "available_bytes_size": 135,
-            "translation": "드디어 토우케이 성 안으로[LINE]\n돌입한[Lion] 일행.[LINE]\n[Tiberius]와[Greybum]은,[LINE]\n성의 최상층에 있는 것 같다.[LINE]\n이곳까지 왔으니,[LINE]\n한 번에 돌진할 뿐이다! [END]"
+            "translation": "드디어 토케이 성 안으로[LINE]\n돌입한[Lion] 일행.[LINE]\n[Tiberius]와[Greybum]은,[LINE]\n성의 최상층에 있는 것 같다.[LINE]\n이곳까지 왔으니,[LINE]\n한 번에 돌진할 뿐이다! [END]"
         },
         {
             "offset": 64944,
@@ -1853,7 +1853,7 @@
             "string": "[Batista]を倒し、[Fayte]を[LINE]\n救出した[Lion]たち。[LINE]\n[Lion]たちは[Fayte][LINE]\n率いる黒十字艦隊の船で[LINE]\nトウケイ領へ乗り込むべく、[LINE]\n港へと向かう。[LINE]\n[Greybum]の背中が見えてきたぞ！[END]",
             "original_bytes_length": 151,
             "available_bytes_size": 151,
-            "translation": "[Batista]를倒하고,[Fayte]를[LINE]\n구출한[Lion] 일행.[LINE]\n[Lion] 일행은[Fayte][LINE]\n이끄는 흑십자 함대의 배로[LINE]\n토우케이 영토에 침투하기 위해,[LINE]\n항구로 향한다.[LINE]\n[Greybum]의 뒷모습이 보인다![END]"
+            "translation": "[Batista]를倒하고,[Fayte]를[LINE]\n구출한[Lion] 일행.[LINE]\n[Lion] 일행은[Fayte][LINE]\n이끄는 흑십자 함대의 배로[LINE]\n토케이 영토에 침투하기 위해,[LINE]\n항구로 향한다.[LINE]\n[Greybum]의 뒷모습이 보인다![END]"
         },
         {
             "offset": 65672,
@@ -2049,7 +2049,7 @@
             "string": "カルビオラの宿に滞在していた[LINE]\n[Lion]たち。夜になり、[LINE]\n辺りが静まり返る時を[LINE]\n見計って、行動を開始する。[LINE]\n[Philia]が神殿の裏口の[LINE]\n鍵を開けてくれているはずだ。[END]",
             "original_bytes_length": 148,
             "available_bytes_size": 151,
-            "translation": "칼비올라의 숙소에 머물고 있던[LINE]\n[Leon] 일행.[LINE]\n밤이 되고, [LINE]\n주변이 조용해지는 순간을[LINE]\n보고, 행동을 시작한다.[LINE]\n[Philia]가 신전의 뒷문 열쇠를[LINE]\n열어주고 있을 것이다.[END]"
+            "translation": "까르비올라의 숙소에 머물고 있던[LINE]\n[Leon] 일행.[LINE]\n밤이 되고, [LINE]\n주변이 조용해지는 순간을[LINE]\n보고, 행동을 시작한다.[LINE]\n[Philia]가 신전의 뒷문을[LINE]\n열어두고 있을 것이다.[END]"
         },
         {
             "offset": 69584,
@@ -2070,14 +2070,14 @@
             "string": "カルビオラに到着した[LINE]\n[Lion]たちは、街の住人から[LINE]\nストレイライズ神殿の場所を[LINE]\n聞き出す。[LINE]\n神殿はどうやら街の中に[LINE]\nあるようだ。[END]",
             "original_bytes_length": 121,
             "available_bytes_size": 127,
-            "translation": "칼비올라에 도착한[LINE]\n[Lion] 일행은, 마을 주민으로부터[LINE]\n스트레이라이즈 신전의 위치를[LINE]\n물어본다.[LINE]\n신전은 어떻게든 마을 안에[LINE]\n있는 것 같다.[END]"
+            "translation": "까르비올라에 도착한[LINE]\n[Lion] 일행은, 마을 주민으로부터[LINE]\n스트레이라이즈 신전의 위치를[LINE]\n물어본다.[LINE]\n신전은 어떻게든 마을 안에[LINE]\n있는 것 같다.[END]"
         },
         {
             "offset": 70040,
             "string": "[Lion]は[Greybum]らしき[LINE]\n一団が、カルバレイスの[LINE]\n首都であるカルビオラへ[LINE]\n向かった事を突き止める。[LINE]\n後を追うべく、急ぎ[LINE]\nチェリクの街を後にする。[END]",
             "original_bytes_length": 134,
             "available_bytes_size": 135,
-            "translation": "[Lion]은[Greybum] 일행이,[LINE]\n칼바레이스의[LINE]\n수도인 칼비올라로[LINE]\n향했다는 사실을 밝혀낸다.[LINE]\n뒤를 쫓기 위해, 급히[LINE]\n체리크의 마을을 떠난다.[END]"
+            "translation": "[Lion]은[Greybum] 일행이,[LINE]\n칼바레이스의[LINE]\n수도인 까르비올라로[LINE]\n향했다는 사실을 밝혀낸다.[LINE]\n뒤를 쫓기 위해, 급히[LINE]\n체리크의 마을을 떠난다.[END]"
         },
         {
             "offset": 70176,

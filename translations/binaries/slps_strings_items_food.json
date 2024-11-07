@@ -1,0 +1,1754 @@
+{
+    "SLPS": [
+        {
+            "offset": 1803272,
+            "string": "至高暗黒丼[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "최고의 암흑 덮밥[END]"
+        },
+        {
+            "offset": 1803288,
+            "string": "コラボ深[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "콜라보 심각한 [END]"
+        },
+        {
+            "offset": 1803304,
+            "string": "深[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "심각한 [END]"
+        },
+        {
+            "offset": 1803312,
+            "string": "闇鍋が出るストラップ。[LINE]\n何が入っているのかわからない！[LINE]\n食べる時は暗闇で。[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "어둠 전골이 나오는 스트랩.[LINE]\n뭐가 들었는지 전혀 모르겠어![LINE]\n먹을 때는 어둠 속에서.[END]"
+        },
+        {
+            "offset": 1803392,
+            "string": "[Sign_3]闇鍋[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]어둠 전골[END]"
+        },
+        {
+            "offset": 1803408,
+            "string": "究極暗黒鍋[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "궁극의 암흑 전골[END]"
+        },
+        {
+            "offset": 1803424,
+            "string": "コラボ光と[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 빛과 [END]"
+        },
+        {
+            "offset": 1803440,
+            "string": "光と[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "빛과 [END]"
+        },
+        {
+            "offset": 1803448,
+            "string": "闇丼が出るストラップ。[LINE]\n様々なものがつっこまれた恐怖の丼。[LINE]\nまずい日もあれば美味い日もある？[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "어둠 덮밥이 나오는 스트랩.[LINE]\n이것저것 뒤섞인 무서운 덮밥.[LINE]\n맛없는 날도 있고 맛있는 날도 있겠지?[END]"
+        },
+        {
+            "offset": 1803544,
+            "string": "[Sign_3]闇丼[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]어둠 덮밥[END]"
+        },
+        {
+            "offset": 1803560,
+            "string": "バーベキュー[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "바베큐[END]"
+        },
+        {
+            "offset": 1803576,
+            "string": "コラボ四[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "콜라보 완전 [END]"
+        },
+        {
+            "offset": 1803592,
+            "string": "四[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "완전 [END]"
+        },
+        {
+            "offset": 1803600,
+            "string": "半生ケバブが出るストラップ。[LINE]\nお肉はしっかり焼いてください。[LINE]\nお腹が痛くなりませんように……[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "덜 익은 케밥이 나오는 스트랩.[LINE]\n고기는 확실히 익히자.[LINE]\n배가 아프지 않기를…[END]"
+        },
+        {
+            "offset": 1803696,
+            "string": "[Sign_3]半生ケバブ[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_3]덜 익은 케밥[END]"
+        },
+        {
+            "offset": 1803712,
+            "string": "ナン[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "난[END]"
+        },
+        {
+            "offset": 1803720,
+            "string": "コラボ懐か[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 그립고 [END]"
+        },
+        {
+            "offset": 1803736,
+            "string": "懐か[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "그립고 [END]"
+        },
+        {
+            "offset": 1803744,
+            "string": "しなしなブリトーが出るストラップ。[LINE]\nだいぶ時間が過ぎちゃった？[LINE]\n溶けて固くなったチーズが悲しい。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "눅눅한 부리토가 나오는 스트랩.[LINE]\n만들고 나서 꽤 오래 지났나?[LINE]\n녹았다가 굳은 치즈의 애처로운 맛.[END]"
+        },
+        {
+            "offset": 1803840,
+            "string": "[Sign_3]しなしなブリトー[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]눅눅한 부리토[END]"
+        },
+        {
+            "offset": 1803864,
+            "string": "こんがりドッグ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "노릇노릇 핫도그[END]"
+        },
+        {
+            "offset": 1803880,
+            "string": "コラボ活性[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 활성[END]"
+        },
+        {
+            "offset": 1803896,
+            "string": "活性[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "활성[END]"
+        },
+        {
+            "offset": 1803904,
+            "string": "炭ドッグが出るストラップ。[LINE]\n焼きすぎた！すっかり焦げた[LINE]\nソーセージは苦い味がした。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "탄 핫도그가 나오는 스트랩.[LINE]\n너무 구웠어! 완전히 탔어![LINE]\n소세지에서 쓴 맛이 난다.[END]"
+        },
+        {
+            "offset": 1803992,
+            "string": "[Sign_3]炭ドッグ[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]탄 핫도그[END]"
+        },
+        {
+            "offset": 1804008,
+            "string": "カツサンド[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "돈까스 샌드위치[END]"
+        },
+        {
+            "offset": 1804024,
+            "string": "コラボ非[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "콜라보 비[END]"
+        },
+        {
+            "offset": 1804040,
+            "string": "非[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "비[END]"
+        },
+        {
+            "offset": 1804048,
+            "string": "圧縮ハンバーガーが出るストラップ。[LINE]\n誰かのお尻の下敷きになったに違い[LINE]\nない。食べやすくはなりました。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "압축 햄버거가 나오는 스트랩.[LINE]\n누가 엉덩이로 깔아뭉갠 게 분명하다.[LINE]\n먹기 편해지긴 했다.[END]"
+        },
+        {
+            "offset": 1804152,
+            "string": "[Sign_3]圧縮ハンバーガー[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]압축 햄버거[END]"
+        },
+        {
+            "offset": 1804176,
+            "string": "クラッカー[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "크래커[END]"
+        },
+        {
+            "offset": 1804192,
+            "string": "コラボパサ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 퍼석퍼석 [END]"
+        },
+        {
+            "offset": 1804208,
+            "string": "パサ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "퍼석퍼석 [END]"
+        },
+        {
+            "offset": 1804216,
+            "string": "パサパサンドイッチが出るストラップ。[LINE]\nなるべく早くに食べましょう。[LINE]\n喉につまってしょうがない。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "바싹 마른 샌드위치가 나오는 스트랩.[LINE]\n가능한 빨리 먹자.[LINE]\n목이 막히지만 어쩔 수 없다.[END]"
+        },
+        {
+            "offset": 1804312,
+            "string": "[Sign_3]パサパサンドイッチ[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_3]바싹 마른 샌드위치[END]"
+        },
+        {
+            "offset": 1804336,
+            "string": "焼きおにぎり[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "구운 주먹밥[END]"
+        },
+        {
+            "offset": 1804352,
+            "string": "コラボ目がチ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "콜라보 따끔따끔 [END]"
+        },
+        {
+            "offset": 1804368,
+            "string": "目がチ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "따끔따끔 [END]"
+        },
+        {
+            "offset": 1804376,
+            "string": "カチカチおにぎりが出るストラップ。[LINE]\n歯が弱い人は要注意。[LINE]\n顎が鍛えられます。[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "딱딱한 주먹밥이 나오는 스트랩.[LINE]\n이빨이 약한 사람은 주의할 것.[LINE]\n턱이 단련된다.[END]"
+        },
+        {
+            "offset": 1804456,
+            "string": "[Sign_3]カチカチおにぎり[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]딱딱한 주먹밥[END]"
+        },
+        {
+            "offset": 1804480,
+            "string": "マーボー豆腐[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "마파두부[END]"
+        },
+        {
+            "offset": 1804496,
+            "string": "コラボウ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "콜라보 엄[END]"
+        },
+        {
+            "offset": 1804512,
+            "string": "ウ[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "엄[END]"
+        },
+        {
+            "offset": 1804520,
+            "string": "マーボーカレーが出るストラップ。[LINE]\n軍に伝わる秘伝の味。二つの辛味が[LINE]\n織り成す究極のハーモニー！[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "마파 카레가 나오는 스트랩.[LINE]\n군에 전해지는 비밀스러운 맛.[LINE]\n두 매운 맛이 자아낸 궁극의 하모니![END]"
+        },
+        {
+            "offset": 1804616,
+            "string": "[Sign_3]マーボーカレー[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]마파 카레[END]"
+        },
+        {
+            "offset": 1804640,
+            "string": "みそ田楽[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "된장 꼬치구이[END]"
+        },
+        {
+            "offset": 1804656,
+            "string": "コラボあわせ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "콜라보 모둠 [END]"
+        },
+        {
+            "offset": 1804672,
+            "string": "あわせ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "모둠 [END]"
+        },
+        {
+            "offset": 1804680,
+            "string": "みそおでんが出るストラップ。[LINE]\n甘みのある上質な味噌たれが口の中[LINE]\nで染み渡る。お酒の共にも最適です。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "된장 오뎅이 나오는 스트랩.[LINE]\n달콤한 고급 된장 양념의 맛이[LINE]\n입 안에 스며든다. 술안주로 최고.[END]"
+        },
+        {
+            "offset": 1804784,
+            "string": "[Sign_3]みそおでん[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_3]된장 오뎅[END]"
+        },
+        {
+            "offset": 1804800,
+            "string": "まんぼうの天ぷら[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "개복치 튀김[END]"
+        },
+        {
+            "offset": 1804824,
+            "string": "コラボ親[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "콜라보 대박 [END]"
+        },
+        {
+            "offset": 1804840,
+            "string": "親[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "대박 [END]"
+        },
+        {
+            "offset": 1804848,
+            "string": "まんぼうの串焼きが出るストラップ。[LINE]\n美味しく食べる事が大事です。[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "개복치 꼬치구이가 나오는 스트랩.[LINE]\n맛있게 먹는 것이 중요.[LINE]\n[END]"
+        },
+        {
+            "offset": 1804920,
+            "string": "[Sign_3]まんぼうの串焼き[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]개복치 꼬치구이[END]"
+        },
+        {
+            "offset": 1804944,
+            "string": "魚肉ソーセージ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "어육 소시지[END]"
+        },
+        {
+            "offset": 1804960,
+            "string": "コラボ深海[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 심해 [END]"
+        },
+        {
+            "offset": 1804976,
+            "string": "深海[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "심해 [END]"
+        },
+        {
+            "offset": 1804984,
+            "string": "魚鍋が出るストラップ。[LINE]\n魚がメインの鍋。魚の出汁がたまり[LINE]\nません。残りは雑炊にどうぞ。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "해물탕이 나오는 스트랩.[LINE]\n개운한 생선 육수는 참을 수 없다.[LINE]\n남은 건 죽을 끓이자.[END]"
+        },
+        {
+            "offset": 1805072,
+            "string": "[Sign_3]魚鍋[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]해물탕[END]"
+        },
+        {
+            "offset": 1805088,
+            "string": "みそ煮込み[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "된장찌개[END]"
+        },
+        {
+            "offset": 1805104,
+            "string": "コラボ魚[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "콜라보 해물 [END]"
+        },
+        {
+            "offset": 1805120,
+            "string": "魚[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "해물 [END]"
+        },
+        {
+            "offset": 1805128,
+            "string": "肉鍋が出るストラップ。[LINE]\nお肉がメインの鍋。肉の出汁が[LINE]\nたまりません。残りはうどんでも。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "고기 전골이 나오는 스트랩.[LINE]\n진한 고기 육수는 참을 수 없다.[LINE]\n남은 건 우동으로 만들자.[END]"
+        },
+        {
+            "offset": 1805216,
+            "string": "[Sign_3]肉鍋[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]고기 전골[END]"
+        },
+        {
+            "offset": 1805232,
+            "string": "とうふステーキ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "두부 스테이크[END]"
+        },
+        {
+            "offset": 1805248,
+            "string": "コラボパワ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 단단한 [END]"
+        },
+        {
+            "offset": 1805264,
+            "string": "パワ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "단단한 [END]"
+        },
+        {
+            "offset": 1805272,
+            "string": "フルーツとうふが出るストラップ。[LINE]\nとうふとフルーツを混ぜた、[LINE]\nなんともいえない食感の食べ物。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "과일 두부가 나오는 스트랩.[LINE]\n두부와 과일을 섞은,[LINE]\n형언할 수 없는 식감의 음식.[END]"
+        },
+        {
+            "offset": 1805368,
+            "string": "[Sign_3]フルーツとうふ[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]과일 두부[END]"
+        },
+        {
+            "offset": 1805392,
+            "string": "くんせいチーズ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "훈제 치즈[END]"
+        },
+        {
+            "offset": 1805408,
+            "string": "コラボビューチ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 아름다운 [END]"
+        },
+        {
+            "offset": 1805424,
+            "string": "ビューチ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "아름다운 [END]"
+        },
+        {
+            "offset": 1805440,
+            "string": "フルーツチーズが出るストラップ。[LINE]\nすり潰したフルーツと牛乳を混ぜて[LINE]\nチーズにする。おやつにピッタリ！[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "과일 치즈가 나오는 스트랩.[LINE]\n잘게 썬 과일과 우유로 만든 치즈.[LINE]\n간식으로 딱 좋아![END]"
+        },
+        {
+            "offset": 1805544,
+            "string": "[Sign_3]フルーツチーズ[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]과일 치즈[END]"
+        },
+        {
+            "offset": 1805568,
+            "string": "フルーツサラダ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "과일 샐러드[END]"
+        },
+        {
+            "offset": 1805584,
+            "string": "コラボワンダ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "콜라보 환상적 [END]"
+        },
+        {
+            "offset": 1805600,
+            "string": "ワンダ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "환상적 [END]"
+        },
+        {
+            "offset": 1805608,
+            "string": "フルーツパフェが出るストラップ。[LINE]\n色々なフルーツを生クリームや[LINE]\nアイスにトッピング。甘くてウマイ。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "생과일 파르페가 나오는 스트랩.[LINE]\n생크림이나 아이스크림 위에[LINE]\n여러 과일을 올렸다. 달고 맛있다.[END]"
+        },
+        {
+            "offset": 1805712,
+            "string": "[Sign_3]フルーツパフェ[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]생과일 파르페[END]"
+        },
+        {
+            "offset": 1805736,
+            "string": "特上にぎり寿司[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "특상 초밥[END]"
+        },
+        {
+            "offset": 1805752,
+            "string": "コラボ大[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "콜라보 대형 [END]"
+        },
+        {
+            "offset": 1805768,
+            "string": "大[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "대형 [END]"
+        },
+        {
+            "offset": 1805776,
+            "string": "舟盛りが出るストラップ。[LINE]\n新鮮な魚介類を伝統にのっとって[LINE]\n盛りつけました。まだ生きてます。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "모둠회가 나오는 스트랩.[LINE]\n물고기를 배 모양 접시에 올렸다.[LINE]\n아직 살아있을 정도로 싱싱하다.[END]"
+        },
+        {
+            "offset": 1805872,
+            "string": "[Sign_3]舟盛り[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]모둠회[END]"
+        },
+        {
+            "offset": 1805888,
+            "string": "トロのあぶり握り[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "구운 참치 초밥[END]"
+        },
+        {
+            "offset": 1805912,
+            "string": "コラボお[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "콜라보 큰 [END]"
+        },
+        {
+            "offset": 1805928,
+            "string": "お[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "큰 [END]"
+        },
+        {
+            "offset": 1805936,
+            "string": "お刺身が出るストラップ。[LINE]\n新鮮な魚介類を薄く切ったもの。[LINE]\nプリプリとした身がたまらない。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "생선회가 나오는 스트랩.[LINE]\n신선한 물고기를 얇게 썬 요리.[LINE]\n탱탱한 식감이 일품.[END]"
+        },
+        {
+            "offset": 1806024,
+            "string": "[Sign_3]お刺身[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]생선회[END]"
+        },
+        {
+            "offset": 1806040,
+            "string": "しゃぶしゃぶ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "샤브샤브[END]"
+        },
+        {
+            "offset": 1806056,
+            "string": "コラボ結構[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 훌륭한 [END]"
+        },
+        {
+            "offset": 1806072,
+            "string": "結構[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "훌륭한 [END]"
+        },
+        {
+            "offset": 1806080,
+            "string": "すき焼きが出るストラップ。[LINE]\n牛肉を鉄鍋で甘辛く焼いて煮たもの。[LINE]\nお米と一緒に食べても合います。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "스키야키가 나오는 스트랩.[LINE]\n잘 끓인 불고기를 날계란에 푹.[LINE]\n밥하고 먹어도 잘 어울린다.[END]"
+        },
+        {
+            "offset": 1806176,
+            "string": "[Sign_3]すき焼き[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]스키야키[END]"
+        },
+        {
+            "offset": 1806192,
+            "string": "たこ焼き[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "타코야키[END]"
+        },
+        {
+            "offset": 1806208,
+            "string": "コラボかなり[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "콜라보 꽤 하는 [END]"
+        },
+        {
+            "offset": 1806224,
+            "string": "かなり[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "꽤 하는 [END]"
+        },
+        {
+            "offset": 1806232,
+            "string": "お好み焼きが出るストラップ。[LINE]\n水で溶いた小麦粉にお好みの具を。[LINE]\nトッピングにかつお節と青ノリを。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "오코노미야키가 나오는 스트랩.[LINE]\n묽은 밀가루 반죽에 재료는 취향대로.[LINE]\n토핑은 가다랑어포와 김가루.[END]"
+        },
+        {
+            "offset": 1806328,
+            "string": "[Sign_3]お好み焼き[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_3]오코노미야키[END]"
+        },
+        {
+            "offset": 1806344,
+            "string": "サイコロステーキ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "큐브 스테이크[END]"
+        },
+        {
+            "offset": 1806368,
+            "string": "コラボ１ポンド[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 1파운드 [END]"
+        },
+        {
+            "offset": 1806384,
+            "string": "１ポンド[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "1파운드 [END]"
+        },
+        {
+            "offset": 1806400,
+            "string": "ステーキが出るストラップ。[LINE]\n厚く切った肉をただ焼くだけ！[LINE]\n肉の素晴らしさが実感できます。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "스테이크가 나오는 스트랩.[LINE]\n두툼한 고기를 굽기만 하면 된다고![LINE]\n고기의 훌륭함을 실감할 수 있다.[END]"
+        },
+        {
+            "offset": 1806488,
+            "string": "[Sign_3]ステーキ[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]스테이크[END]"
+        },
+        {
+            "offset": 1806504,
+            "string": "チーズハンバーグ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "치즈 햄버그[END]"
+        },
+        {
+            "offset": 1806528,
+            "string": "コラボ半端ない[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 장난 아닌 [END]"
+        },
+        {
+            "offset": 1806544,
+            "string": "半端ない[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "장난 아닌 [END]"
+        },
+        {
+            "offset": 1806560,
+            "string": "ハンバーグが出るストラップ。[LINE]\nつけ合わせは甘く煮たにんじんを。[LINE]\nよく捏ねるほど美味しくなります。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "햄버그가 나오는 스트랩.[LINE]\n달달한 당근을 곁들여 먹는다.[LINE]\n잘 반죽할수록 맛있어진다.[END]"
+        },
+        {
+            "offset": 1806656,
+            "string": "[Sign_3]ハンバーグ[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_3]햄버그[END]"
+        },
+        {
+            "offset": 1806672,
+            "string": "カルボナーラ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "카르보나라[END]"
+        },
+        {
+            "offset": 1806688,
+            "string": "コラボデミ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 데미[END]"
+        },
+        {
+            "offset": 1806704,
+            "string": "デミ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "데미[END]"
+        },
+        {
+            "offset": 1806712,
+            "string": "グラスパが出るストラップ。[LINE]\nグラタンとスパゲッティを同時に[LINE]\n楽しめる逸品！まずは一口。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "그라탱 스파게티가 나오는 스트랩.[LINE]\n그라탕과 스파게티를 같이 즐기자![LINE]\n우선 한 입 냠냠.[END]"
+        },
+        {
+            "offset": 1806800,
+            "string": "[Sign_3]グラスパ[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]그라탱 스파게티[END]"
+        },
+        {
+            "offset": 1806816,
+            "string": "ドリア[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "도리아[END]"
+        },
+        {
+            "offset": 1806824,
+            "string": "コラボオニオン[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 양파 [END]"
+        },
+        {
+            "offset": 1806840,
+            "string": "オニオン[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "양파 [END]"
+        },
+        {
+            "offset": 1806856,
+            "string": "グラタンが出るストラップ。[LINE]\nたっぷり具材にたっぷりチーズ。焦[LINE]\nげたチーズの香りは空腹を誘います。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "그라탱이 나오는 스트랩.[LINE]\n풍성한 속재료에 치즈가 가득.[LINE]\n노릇노릇한 치즈 향이 식욕을 돋운다.[END]"
+        },
+        {
+            "offset": 1806952,
+            "string": "[Sign_3]グラタン[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]그라탱[END]"
+        },
+        {
+            "offset": 1806968,
+            "string": "トマトスパゲッティ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "토마토 스파게티[END]"
+        },
+        {
+            "offset": 1806992,
+            "string": "コラボ特製[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 특제 [END]"
+        },
+        {
+            "offset": 1807008,
+            "string": "特製[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "특제 [END]"
+        },
+        {
+            "offset": 1807016,
+            "string": "ミートソースが出るストラップ。[LINE]\nタマネギとひき肉はたっぷりと。[LINE]\nソースの跳ねに要注意。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "미트 소스가 나오는 스트랩.[LINE]\n양파와 다진 고기가 듬뿍.[LINE]\n소스가 잘 튀니 조심하자.[END]"
+        },
+        {
+            "offset": 1807104,
+            "string": "[Sign_3]ミートソース[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]미트 소스[END]"
+        },
+        {
+            "offset": 1807128,
+            "string": "豚の角煮[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "돼지고기 장조림[END]"
+        },
+        {
+            "offset": 1807144,
+            "string": "コラボとろとろ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 뭉근한 [END]"
+        },
+        {
+            "offset": 1807160,
+            "string": "とろとろ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "뭉근한 [END]"
+        },
+        {
+            "offset": 1807176,
+            "string": "ビーフストロガノフが出るストラップ。[LINE]\n牛肉をサワークリームのソースで煮[LINE]\n込んだもの。贅沢で上品なお味。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "비프 스트로가노프가 나오는 스트랩.[LINE]\n소고기를 사워크림 소스에 끓인 요리.[LINE]\n사치스럽고 고급스러운 맛.[END]"
+        },
+        {
+            "offset": 1807280,
+            "string": "[Sign_3]ビーフストロガノフ[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_3]비프 스트로가노프[END]"
+        },
+        {
+            "offset": 1807304,
+            "string": "カルビクッパ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "갈비국밥[END]"
+        },
+        {
+            "offset": 1807320,
+            "string": "コラボリゾート[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 리조트 [END]"
+        },
+        {
+            "offset": 1807336,
+            "string": "リゾート[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "리조트 [END]"
+        },
+        {
+            "offset": 1807352,
+            "string": "リゾットが出るストラップ。[LINE]\n油で炒めた米に肉や魚、キノコで炒[LINE]\nめたスープを含ませたもの。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "리소토가 나오는 스트랩.[LINE]\n볶은 쌀에 고기나 생선, 버섯 육수를[LINE]\n같이 부어서 졸였다.[END]"
+        },
+        {
+            "offset": 1807440,
+            "string": "[Sign_3]リゾット[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]리소토[END]"
+        },
+        {
+            "offset": 1807456,
+            "string": "ビーフシチュー[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "비프 스튜[END]"
+        },
+        {
+            "offset": 1807472,
+            "string": "コラボこってり[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 진한 [END]"
+        },
+        {
+            "offset": 1807488,
+            "string": "こってり[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "진한 [END]"
+        },
+        {
+            "offset": 1807504,
+            "string": "クラムチャウダーが出るストラップ。[LINE]\nハマグリとベーコン・野菜などを[LINE]\n煮込んだスープ。寒い日にどうぞ。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "클램 차우더가 나오는 스트랩.[LINE]\n대합과 베이컨, 채소를 넣은 스프.[LINE]\n추운 날에 먹자.[END]"
+        },
+        {
+            "offset": 1807608,
+            "string": "[Sign_3]クラムチャウダー[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]클램 차우더[END]"
+        },
+        {
+            "offset": 1807632,
+            "string": "うに丼[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "성게알 덮밥[END]"
+        },
+        {
+            "offset": 1807640,
+            "string": "コラボとびきり[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 특별한 [END]"
+        },
+        {
+            "offset": 1807656,
+            "string": "とびきり[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "특별한 [END]"
+        },
+        {
+            "offset": 1807672,
+            "string": "海鮮丼が出るストラップ。[LINE]\n新鮮な魚介類をご飯の上へ。季節に[LINE]\nよって素材も変わる。贅沢な一品。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "해산물 덮밥이 나오는 스트랩.[LINE]\n신선한 해산물을 밥 위에 얹어 먹는다.[LINE]\n계절마다 재료가 바뀌는 호화로운 음식.[END]"
+        },
+        {
+            "offset": 1807768,
+            "string": "[Sign_3]海鮮丼[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]해산물 덮밥[END]"
+        },
+        {
+            "offset": 1807784,
+            "string": "いくら丼[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "연어알 덮밥[END]"
+        },
+        {
+            "offset": 1807800,
+            "string": "コラボ二代目[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "콜라보 2대째 [END]"
+        },
+        {
+            "offset": 1807816,
+            "string": "二代目[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "2대째 [END]"
+        },
+        {
+            "offset": 1807824,
+            "string": "親子丼が出るストラップ。[LINE]\n甘く煮た鶏肉を卵でとじました。[LINE]\n白飯と一緒にお食べください。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "닭고기 달걀덮밥이 나오는 스트랩.[LINE]\n달달한 닭고기에 달걀물을 부었다.[LINE]\n흰 쌀밥과 같이 먹자.[END]"
+        },
+        {
+            "offset": 1807912,
+            "string": "[Sign_3]親子丼[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]닭고기 달걀덮밥[END]"
+        },
+        {
+            "offset": 1807928,
+            "string": "まんぼう丼[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "개복치 덮밥[END]"
+        },
+        {
+            "offset": 1807944,
+            "string": "コラボ特盛[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 특대 [END]"
+        },
+        {
+            "offset": 1807960,
+            "string": "特盛[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "특대 [END]"
+        },
+        {
+            "offset": 1807968,
+            "string": "牛丼が出るストラップ。[LINE]\n牛肉をネギなどと煮て、汁とともに[LINE]\nどんぶり飯に。忘れられない味。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "쇠고기 덮밥이 나오는 스트랩.[LINE]\n불고기처럼 끓인 소고기를 덮밥으로.[LINE]\n잊을 수 없는 맛.[END]"
+        },
+        {
+            "offset": 1808056,
+            "string": "[Sign_3]牛丼[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]쇠고기 덮밥[END]"
+        },
+        {
+            "offset": 1808072,
+            "string": "ライスバーガー[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "밥버거[END]"
+        },
+        {
+            "offset": 1808088,
+            "string": "コラボコロコ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "콜라보 코로코[END]"
+        },
+        {
+            "offset": 1808104,
+            "string": "コロコ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "코로코[END]"
+        },
+        {
+            "offset": 1808112,
+            "string": "ロコモコが出るストラップ。[LINE]\nご飯の上にハンバーグと目玉焼き。[LINE]\nシンプルだけどめちゃうまい！[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "로코모코가 나오는 스트랩.[LINE]\n햄버그와 달걀프라이를[LINE]\n밥 위에 얹었다. 단순하지만 맛있다![END]"
+        },
+        {
+            "offset": 1808208,
+            "string": "[Sign_3]ロコモコ[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]로코모코[END]"
+        },
+        {
+            "offset": 1808224,
+            "string": "カレーまん[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "카레호빵[END]"
+        },
+        {
+            "offset": 1808240,
+            "string": "コラボ回鍋[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 두 번 찐 [END]"
+        },
+        {
+            "offset": 1808256,
+            "string": "回鍋[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "두 번 찐 [END]"
+        },
+        {
+            "offset": 1808264,
+            "string": "肉まんが出るストラップ。[LINE]\n一口食べれば口いっぱいに肉汁が！[LINE]\n寒い日は食べたくなる一品。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "고기호빵이 나오는 스트랩.[LINE]\n한 입 먹으면 입안 가득 육즙이! [LINE]\n추운 날에 먹고 싶어지는 맛.[END]"
+        },
+        {
+            "offset": 1808352,
+            "string": "[Sign_3]肉まん[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]고기호빵[END]"
+        },
+        {
+            "offset": 1808368,
+            "string": "キムチチャーハン[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "김치 볶음밥[END]"
+        },
+        {
+            "offset": 1808392,
+            "string": "コラボ激辛[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 아주 매운 [END]"
+        },
+        {
+            "offset": 1808408,
+            "string": "激辛[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "아주 매운 [END]"
+        },
+        {
+            "offset": 1808416,
+            "string": "キムチが出るストラップ。[LINE]\n辛いものが苦手な人は要注意。[LINE]\n匂いも味も刺激的。[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "김치가 나오는 스트랩.[LINE]\n매운맛에 약한 사람은 주의할 것.[LINE]\n향도 맛도 자극적.[END]"
+        },
+        {
+            "offset": 1808496,
+            "string": "[Sign_3]キムチ[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]김치[END]"
+        },
+        {
+            "offset": 1808512,
+            "string": "蒸しぱん[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "술빵[END]"
+        },
+        {
+            "offset": 1808528,
+            "string": "コラボマフ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 머플러 [END]"
+        },
+        {
+            "offset": 1808544,
+            "string": "マフ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "머플러 [END]"
+        },
+        {
+            "offset": 1808552,
+            "string": "マフィンが出るストラップ。[LINE]\nふくらませた小さな丸い菓子パン。[LINE]\n生クリームをつけるのもお勧め。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "머핀이 나오는 스트랩.[LINE]\n봉긋하게 부푼 작고 둥근 빵.[LINE]\n생크림을 얹어도 맛있다.[END]"
+        },
+        {
+            "offset": 1808648,
+            "string": "[Sign_3]マフィン[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]머핀[END]"
+        },
+        {
+            "offset": 1808664,
+            "string": "豚のしょうが焼き[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "돼지고기 생강구이[END]"
+        },
+        {
+            "offset": 1808688,
+            "string": "コラボ武勇[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 무쌍 [END]"
+        },
+        {
+            "offset": 1808704,
+            "string": "武勇[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "무쌍 [END]"
+        },
+        {
+            "offset": 1808712,
+            "string": "オリエンタルライスが出るストラップ。[LINE]\nにらと豚バラ肉をご飯にのせ[LINE]\nたもの。スタミナ抜群！[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "오리엔탈 라이스가 나오는 스트랩.[LINE]\n부추와 삼겹살을 밥에 얹었다.[LINE]\n원기 회복에 좋다![END]"
+        },
+        {
+            "offset": 1808800,
+            "string": "[Sign_3]オリエンタルライス[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_3]오리엔탈 라이스[END]"
+        },
+        {
+            "offset": 1808824,
+            "string": "煮込みラーメン[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "푹 끓인 라멘[END]"
+        },
+        {
+            "offset": 1808840,
+            "string": "コラボ山の幸[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "콜라보 육지산 [END]"
+        },
+        {
+            "offset": 1808856,
+            "string": "山の幸[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "육지산 [END]"
+        },
+        {
+            "offset": 1808864,
+            "string": "パエリアが出るストラップ。[LINE]\n米に肉や魚介類を入れ、オリーブ油[LINE]\nとサフランを加えて煮込んだもの。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "파에야가 나오는 스트랩.[LINE]\n쌀에 고기나 해산물을 넣고[LINE]\n올리브유와 사프란 육수로 끓인 것.[END]"
+        },
+        {
+            "offset": 1808960,
+            "string": "[Sign_3]パエリア[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]파에야[END]"
+        },
+        {
+            "offset": 1808976,
+            "string": "チーズオムレツ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "치즈 오믈렛[END]"
+        },
+        {
+            "offset": 1808992,
+            "string": "コラボ思わず[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "콜라보 신기한 [END]"
+        },
+        {
+            "offset": 1809008,
+            "string": "思わず[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "신기한 [END]"
+        },
+        {
+            "offset": 1809016,
+            "string": "オムハヤシが出るストラップ。[LINE]\nオムライスとハヤシライスの合体！[LINE]\nボリュームタップリで贅沢な味です。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "오므하이라이스가 나오는 스트랩.[LINE]\n오므라이스와 하이라이스의 합체![LINE]\n볼륨 가득한 사치스러운 맛.[END]"
+        },
+        {
+            "offset": 1809120,
+            "string": "[Sign_3]オムハヤシ[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_3]오므하이라이스[END]"
+        },
+        {
+            "offset": 1809136,
+            "string": "カレーうどん[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "카레 우동[END]"
+        },
+        {
+            "offset": 1809152,
+            "string": "コラボ辛口[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 매운 맛 [END]"
+        },
+        {
+            "offset": 1809168,
+            "string": "辛口[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "매운 맛 [END]"
+        },
+        {
+            "offset": 1809176,
+            "string": "カレーライスが出るストラップ。[LINE]\nリンゴとハチミツ入り。甘くて少し[LINE]\nスパイシー。家庭の味です。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "카레라이스가 나오는 스트랩.[LINE]\n사과와 꿀이 들어가서 달콤하고[LINE]\n약간 맵다. 집밥의 맛.[END]"
+        },
+        {
+            "offset": 1809272,
+            "string": "[Sign_3]カレーライス[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]카레라이스[END]"
+        },
+        {
+            "offset": 1809296,
+            "string": "クレープ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "크레페[END]"
+        },
+        {
+            "offset": 1809312,
+            "string": "コラボふわふわ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 폭신폭신 [END]"
+        },
+        {
+            "offset": 1809328,
+            "string": "ふわふわ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "폭신폭신 [END]"
+        },
+        {
+            "offset": 1809344,
+            "string": "オムライスが出るストラップ。[LINE]\nケチャップご飯にトロトロ卵を被せ[LINE]\nたもの。子供たちの大好物。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "오므라이스가 나오는 스트랩.[LINE]\n케첩과 밥 위에 달걀 지단을 얹은 것.[LINE]\n아이들이 매우 좋아한다.[END]"
+        },
+        {
+            "offset": 1809440,
+            "string": "[Sign_3]オムライス[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_3]오므라이스[END]"
+        },
+        {
+            "offset": 1809456,
+            "string": "エビピラフ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "새우 필라프[END]"
+        },
+        {
+            "offset": 1809472,
+            "string": "コラボパラパラ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 고슬고슬 [END]"
+        },
+        {
+            "offset": 1809488,
+            "string": "パラパラ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "고슬고슬 [END]"
+        },
+        {
+            "offset": 1809504,
+            "string": "チャーハンが出るストラップ。[LINE]\n肉や野菜・卵などをまぜて油で炒め[LINE]\n味をつけた焼き飯。単品でも満足。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "볶음밥이 나오는 스트랩.[LINE]\n고기, 채소, 달걀 등을 기름에 볶았다.[LINE]\n이것만 먹어도 맛있다.[END]"
+        },
+        {
+            "offset": 1809600,
+            "string": "[Sign_3]チャーハン[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_3]볶음밥[END]"
+        },
+        {
+            "offset": 1809616,
+            "string": "さけ茶漬け[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "연어 오차즈케[END]"
+        },
+        {
+            "offset": 1809632,
+            "string": "コラボかつ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 가다랑어 [END]"
+        },
+        {
+            "offset": 1809648,
+            "string": "かつ[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "가다랑어 [END]"
+        },
+        {
+            "offset": 1809656,
+            "string": "お茶漬けが出るストラップ。[LINE]\nご飯に薄味のだし汁をかけて食べる[LINE]\nもの。さらさらっとかっ込めます。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "오차즈케가 나오는 스트랩.[LINE]\n밥에 담백한 차를 부어서 먹는다.[LINE]\n쓱쓱 비비면 술술 넘어간다.[END]"
+        },
+        {
+            "offset": 1809752,
+            "string": "[Sign_3]お茶漬け[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]오차즈케[END]"
+        },
+        {
+            "offset": 1809768,
+            "string": "みそ漬け[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "미소 절임[END]"
+        },
+        {
+            "offset": 1809784,
+            "string": "コラボ千夜[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 천일 묵은 [END]"
+        },
+        {
+            "offset": 1809800,
+            "string": "千夜[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "천일 묵은 [END]"
+        },
+        {
+            "offset": 1809808,
+            "string": "一夜漬けが出るストラップ。[LINE]\n一夜で漬けた漬物。[LINE]\nあっさりして食べやすい。[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "겉절이가 나오는 스트랩.[LINE]\n채소를 하룻밤 동안 절인 요리.[LINE]\n담백해서 먹기 쉽다.[END]"
+        },
+        {
+            "offset": 1809880,
+            "string": "[Sign_3]一夜漬け[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]겉절이[END]"
+        },
+        {
+            "offset": 1809896,
+            "string": "きつねうどん[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "유부우동[END]"
+        },
+        {
+            "offset": 1809912,
+            "string": "コラボすご[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜라보 엄청난 [END]"
+        },
+        {
+            "offset": 1809928,
+            "string": "すご[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "엄청난 [END]"
+        },
+        {
+            "offset": 1809936,
+            "string": "いなり寿司が出るストラップ。[LINE]\n甘く煮た油揚げの中にすし飯を詰め[LINE]\nたもの。お子様にも人気。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "유부초밥이 나오는 스트랩.[LINE]\n달달한 유부 안에 초밥을 채웠다.[LINE]\n어린이에게도 인기.[END]"
+        },
+        {
+            "offset": 1810024,
+            "string": "[Sign_3]いなり寿司[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_3]유부초밥[END]"
+        },
+        {
+            "offset": 1810040,
+            "string": "焼き鳥[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "닭꼬치[END]"
+        },
+        {
+            "offset": 1810048,
+            "string": "コラボあつあつ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 뜨끈뜨끈 [END]"
+        },
+        {
+            "offset": 1810064,
+            "string": "あつあつ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "뜨끈뜨끈 [END]"
+        },
+        {
+            "offset": 1810080,
+            "string": "ケバブが出るストラップ。[LINE]\n串に刺した肉をゆっくりと回しなが[LINE]\nらじっくり焼き上げたもの。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "케밥이 나오는 스트랩.[LINE]\n꼬챙이에 꽂은 고기를[LINE]\n천천히 돌리면서 구웠다.[END]"
+        },
+        {
+            "offset": 1810168,
+            "string": "[Sign_3]ケバブ[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]케밥[END]"
+        },
+        {
+            "offset": 1810184,
+            "string": "春巻き[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "춘권[END]"
+        },
+        {
+            "offset": 1810192,
+            "string": "コラボほくほく[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 따끈따끈 [END]"
+        },
+        {
+            "offset": 1810208,
+            "string": "ほくほく[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "따끈따끈 [END]"
+        },
+        {
+            "offset": 1810224,
+            "string": "ブリトーが出るストラップ。[LINE]\nライス・肉・豆・野菜などの具を[LINE]\nトルティーヤで巻いたもの。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "부리토가 나오는 스트랩.[LINE]\n밥, 고기, 콩, 채소 등의 재료를[LINE]\n토르티야로 감싼 요리.[END]"
+        },
+        {
+            "offset": 1810312,
+            "string": "[Sign_3]ブリトー[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]부리토[END]"
+        },
+        {
+            "offset": 1810328,
+            "string": "チリドッグ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "칠리 핫도그[END]"
+        },
+        {
+            "offset": 1810344,
+            "string": "コラボダブル[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "콜라보 더블 [END]"
+        },
+        {
+            "offset": 1810360,
+            "string": "ダブル[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "더블 [END]"
+        },
+        {
+            "offset": 1810368,
+            "string": "ホットドッグが出るストラップ。[LINE]\n細長いパンに切れ目を入れ、温めた[LINE]\nソーセージをはさんだもの。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "핫도그가 나오는 스트랩.[LINE]\n길쭉한 빵에 칼집을 내서,[LINE]\n따뜻한 소시지를 넣었다.[END]"
+        },
+        {
+            "offset": 1810464,
+            "string": "[Sign_3]ホットドッグ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]핫도그[END]"
+        },
+        {
+            "offset": 1810488,
+            "string": "ダブルバーガー[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "더블 버거[END]"
+        },
+        {
+            "offset": 1810504,
+            "string": "コラボ黄金比率[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 황금 비율 [END]"
+        },
+        {
+            "offset": 1810520,
+            "string": "黄金比率[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "황금 비율 [END]"
+        },
+        {
+            "offset": 1810536,
+            "string": "ハンバーガーが出るストラップ。[LINE]\nジューシーなハンバーグをパンで[LINE]\n挟みました。ボリューム満点！[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "햄버거가 나오는 스트랩.[LINE]\n육즙이 풍부한 패티를[LINE]\n빵 사이에 끼웠다. 볼륨 만점![END]"
+        },
+        {
+            "offset": 1810632,
+            "string": "[Sign_3]ハンバーガー[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]햄버거[END]"
+        },
+        {
+            "offset": 1810656,
+            "string": "ハムエッグサンド[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "햄 에그 샌드위치[END]"
+        },
+        {
+            "offset": 1810680,
+            "string": "コラボシャキシャキ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "콜라보 아삭아삭 [END]"
+        },
+        {
+            "offset": 1810704,
+            "string": "シャキシャキ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "아삭아삭 [END]"
+        },
+        {
+            "offset": 1810720,
+            "string": "サンドイッチが出るストラップ。[LINE]\n野菜とハムをサンドしたもの。[LINE]\nどこでも手軽に食べられます。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "샌드위치가 나오는 스트랩.[LINE]\n채소와 햄을 채워 넣은 요리.[LINE]\n어디서나 간편하게 먹을 수 있다.[END]"
+        },
+        {
+            "offset": 1810816,
+            "string": "[Sign_3]サンドイッチ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_3]샌드위치[END]"
+        },
+        {
+            "offset": 1810840,
+            "string": "手巻き寿司[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "손말이 초밥[END]"
+        },
+        {
+            "offset": 1810856,
+            "string": "コラボのりパリ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "콜라보 바삭김 [END]"
+        },
+        {
+            "offset": 1810872,
+            "string": "のりパリ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "바삭김 [END]"
+        },
+        {
+            "offset": 1810888,
+            "string": "おにぎりが出るストラップ。[LINE]\n愛情を込めて丁寧に握りました。[LINE]\n旅のお供に最適。[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "주먹밥이 나오는 스트랩.[LINE]\n사랑을 담아 정성껏 만들었다.[LINE]\n여행길 최고의 동반자.[END]"
+        },
+        {
+            "offset": 1810968,
+            "string": "[Sign_3]おにぎり[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_3]주먹밥[END]"
+        }
+    ]
+}
