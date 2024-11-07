@@ -1,24 +1,24 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-그런데 <Philia>는,
-왜 기술 이름을 말하지 않게 된 거야?
+그러고 보니 <Philia>,
+왜 기술 이름을 말하지 않게 됐어?
 [ENDBLOCK]
-봐, 자기 이름을 붙였잖아……
+있잖아, 자기 이름을 붙인 그거……
 [ENDBLOCK]
-아아……
+그래……
 [ENDBLOCK]
-딱히 이유는 없어요.
-그냥 그런 기분이에요.
+특별한 이유는 없어요.
+그냥요.
 [ENDBLOCK]
-흠, 그렇구나.
+흠, 그래?
 [ENDBLOCK]
-<Philia>는……
+<Philia>ㅡ정말……
 [ENDBLOCK]
-전에 내가 한 말,
-혹시 듣고 있었던 건가요?
+전에 내가 말했던 거,
+혹시 듣고 있었던 걸까?
 [ENDBLOCK]

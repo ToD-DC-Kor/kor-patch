@@ -1,229 +1,229 @@
-세인가르드 병사
+병사
 [ENDBLOCK]
-정원을 바라보면 마음이 편안해진다.
-경비에도 신경을 쓰게 된다.
-[ENDBLOCK]
-세인가르드 병사
-[ENDBLOCK]
-비행룡이 돌아온 것도,
-전부 <Lion> 님 덕분입니다.
+정원을 보고 있으면 마음이 편안해져.
+경비에도 더 집중할 수 있게 되지.
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-정원을 바라보면 마음이 편안해진다.
-경비에도 신경을 쓰게 된다.
+비행룡이 돌아온 것도
+모두 <Lion> 님 덕분입니다.
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-…
+정원을 보고 있으면 마음이 편안해져.
+경비에도 더 집중할 수 있게 되지.
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-우리는 <Lion>이나 <Hugo>에게,
-속아왔던 걸까?
+……
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-천상왕 <Miktran>…
-그게 흑막의 이름인가…
+우리는 <Lion>이나 <Hugo>에게
+속고 있었던 걸까?
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-이 집적 렌즈포는 인류의 카드.
-무슨 일이 있어도 지켜야 한다.
+천상왕 <Miktran>……
+그게 배후 인물의 이름인가……
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-햇빛은 아름다운 것이구나…
+이 집적렌즈포는 인류의 마지막 희망이야.
+어떻게든 지켜내야 해.
+[ENDBLOCK]
+세인가르드 병사
+[ENDBLOCK]
+햇빛이란 참 아름다운 것이구나……
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-이 성은 구조가 훌륭하지만,
-방어 면에서는 불안한 점이 없지 않다.
+이 성은 겉모습은 훌륭하지만,
+방어 면에서는 불안한 점이 없지 않아.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-뭐, 여기서 함락될 일은,
-만에 하나도 없겠지만…
+뭐, 여기가 함락될 일은
+만에 하나도 없겠지만……
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-요즘, 후궁님이 모습을 보이지 않으신다.
-몸 상태가 좋지 않은 것 같다.
+요즘 왕비 폐하께서 모습을 보이지 않으시네.
+건강이 좋지 않으신 모양이야.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-이 성은 구조가 훌륭하지만,
-방어 면에서는 불안한 점이 없지 않다.
+이 성은 겉모습은 훌륭하지만,
+방어 면에서는 불안한 점이 없지 않아.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-뭐, 여기서 함락될 일은,
-만에 하나도 없겠지만…
+뭐, 여기가 함락될 일은
+만에 하나도 없겠지만……
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-…미안하다.
-우리가 무능한 탓에.
+……미안하네.
+우리가 무능했을 뿐이야.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-<Lion>에게 비행룡을 빼앗긴 것은,
-우리가 안전을 과신했기 때문이다.
+<Lion>에게 비행룡을 빼앗긴 건
+우리가 안전을 과신했기 때문이야.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-우리의 책임은 너무나 크다.
-어떻게 해야 할지…
+우리의 책임이 너무나 크네.
+어떻게 해야 할지……
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-오베론 사의 <Hugo>가,
-그 방송을 흘렸다는 건가?
+오베론사의 <Hugo>가
+그 방송을 내보냈다고?
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-<Reynolds> 씨의 연구실로 가려면,
-왼쪽 입구로 가세요.
+<Reynolds> 씨 연구실로 가려면
+왼쪽 입구로 가.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-벨클란트의 포신이,
-바다에 떨어졌다는 것은 사실인가?
+벨크란트의 포신이
+바다에 떨어졌다는 게 사실인가?
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-집적 렌즈포가 완성될 때까지,
-여기는 무슨 일이 있어도 지켜보이겠다.
+집적렌즈포가 완성될 때까지
+여기는 어떻게든 지켜내겠어.
 [ENDBLOCK]
 군인
 [ENDBLOCK]
-세상을 잘 부탁한다.
+세계를 부탁한다.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-이 정원, 예쁘지요?
-우리 아빠가 관리했어요.
+이 정원, 예쁘지?
+우리 아빠가 정비하셨어.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-이전에 드라이덴 아저씨가
-놀아주셨거든요.
+얼마 전에 드라이든 아저씨가
+놀아주셨어.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-이 정원, 예쁘지요?
-우리 아빠가 관리했어요.
+이 정원, 예쁘지?
+우리 아빠가 정비하셨어.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-요즘, 성의 사람들이,
-모두 긴장하고 있답니다.
+요즘 성 안의 사람들이
+다들 예민해져 있어.
 [ENDBLOCK]
-소년
+남자아이
 [ENDBLOCK]
-왜 전쟁이 시작됐던 걸까?
-어떻게 끝낼 수 있을까?
+왜 전쟁이 시작된 거야?
+어떻게 하면 끝나는 거야?
 [ENDBLOCK]
-소년
+남자아이
 [ENDBLOCK]
-성 밖은 위험하니까,
-나가서는 안 된다고 해.
+성 밖은 위험하다고
+나가면 안 된대.
 [ENDBLOCK]
-소년
+남자아이
 [ENDBLOCK]
-전 세계의 렌즈를,
-여기 정원에 모은다고 해.
+전 세계의 렌즈를
+여기 정원에 모은대.
 [ENDBLOCK]
-소년
+남자아이
 [ENDBLOCK]
-우와, 하늘에 구멍이 뚫렸어!
-구멍이 뚫렸다고!
+우와, 하늘에 구멍이 났어!
+구멍이 났어!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-집합 렌즈포는,
-이곳에 건설할 예정입니다.
+집적렌즈포는
+이 장소에 건조할 예정입니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-집합 렌즈포는 곧 완성됩니다.
+집적렌즈포는 곧 완성됩니다.
 렌즈 조달을 부탁드립니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-집합 렌즈포는 일단 완성되었습니다.
+집적렌즈포는 일단 완성되었습니다.
 이제 작전을 실행하기만 하면 됩니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-사령관, 당신에게 배운 것을,
-나는 평생 잊지 않겠습니다.
+사령관님, 당신에게 배운 것을
+저는 평생 잊지 않겠습니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-…모두, 부탁해. 사령관을 위해서,
-반드시<Miktran>을 쓰러뜨려 줘!
+……여러분, 부탁해. 사령관을 위해서라도
+반드시 <Miktran>을 물리쳐 줘!
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-<Reynolds> 님은 현재,
-면회 불가 상태입니다.
+<Reynolds> 씨는 현재
+면회 사절 중입니다.
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-하지만, 우리나라 정예 의사들이
-대기하고 있으니, 안심하세요.
+하지만 우리나라 최고의 의사들이
+담당하고 있으니 안심하세요.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-소디언 팀 여러분의 승리를,
-믿고 있습니다.
+소디언 팀 여러분의 승리를
+믿고 있소.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-우리가 할 수 있는 일은 모두 했다.
-이제는 부탁하네, 여러분.
+우리가 할 수 있는 일은 모두 했소.
+나머지는 부탁하오, 여러분.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-여기까지인가…
+여기까지인가……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Reynolds> 님,
-렌즈를 회수해왔습니다.
+<Reynolds> 님, 
+렌즈를 회수해 왔어요.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
 수고했어!
-일부러 와줘서 고마워.
+다녀와줘서 고마워.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-흠, 집합 렌즈포 제작도,
-상당히 진행된 것 같군.
+흠, 집적 렌즈포의 제작도
+꽤 진행된 것 같군.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-그래, 일단 완성되었어.
+네, 일단 완성했습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-정말인가요? 대단해요!
+정말인가요? 야호!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-사실 에너지 변환 효율을,
-더 높이고 싶지만 말이야.
+사실은 에너지 변환 효율을
+더 높이고 싶었는데 말이야.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-그렇게 하면 출력을 높일 수 있으니까.
+그러면 출력을 올릴 수 있으니까.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-현재 상태로는, 부족한 건가요?
+지금 상태로는 부족한가요?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -232,30 +232,30 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-분명 외각를 관통하게 될 거야.
+반드시 외각을 뚫어낼 수 있을 거야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그런데 관통하는 건,
-외각의 어디든 괜찮은 건가요?
+그러고 보니 뚫는 건
+외각 어디든 상관없나요?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-아니…어디를 조준할지는,
+아니…… 어디를 겨냥할지는
 이미 정해져 있어.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-작전 실행할 때 알려줄게.
+작전 실행 때 알려줄게.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇군요, 기대돼요!
+그렇군요, 기대되는데요!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-그럼 우리는,
-폐하에게 잠시 보고하러 가죠.
+그럼 우리는
+폐하께 일단 보고드리러 가볼까요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -263,136 +263,136 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-기대돼, 라…
+기대… 된다라…
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-왔군요. 집합 렌즈포의 준비도,
+왔군요. 집적 렌즈포의 준비도
 순조롭게 진행되고 있어요.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-비행룡의 수리도 완료되었다고,
-방금 보고가 들어왔어.
+비행룡의 수리도 완료됐다고
+방금 전에 보고가 들어왔어.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-이제 언제든지 날 수 있어.
+이제 언제든 날아오를 수 있어.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-그럼 발사에向けて의,
-최종 시퀀스에 돌입합니다.
+그럼 발사를 위한
+최종 시퀀스에 돌입하겠습니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-집합 렌즈포 조준 세팅.
-목표・라디스로우.
+집적 렌즈포 조준 세팅.
+목표 - 라디슬로우.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-굳이 라디스로우를 조준할 필요가?
+굳이 라디슬로우를 겨냥할 필요가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-왜 그런 일을 하는 거죠,
-<Reynolds> 씨!
+왜 그런 짓을 하시는 겁니까,
+<Reynolds> 님!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-외각을 잘 봐주세요.
+외각을 잘 보세요.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-곳곳에, 파란 반구 같은 것이
-보이죠?
+곳곳에 파란 반구 같은 것이
+보이시죠?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-흠. 저것은 뭔가?
+음. 저건 뭐지?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-에너지 흡수기입니다.
+에너지 흡수체입니다.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-뭔 소리야. 즉…
+뭐라고? 그렇다면……
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-저것의 영향으로, 렌즈포가 외각에 닿으면,
-에너지가 흡수되어 버린단 말이야.
+저것의 영향으로 렌즈포가 외각에 맞으면
+에너지가 흡수되어 버리는 겁니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그런…!
+그럴 수가……!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-하지만…
+하지만……
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-라디스로우가 보이는 부분만은,
-흡수기의 영향을 받지 않아.
+라디슬로우가 보이는 부분만은
+흡수체의 영향을 받지 않습니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-그러니까 그곳을 조준해 쏘는 것이,
-가장 확실한 방법이야.
+그래서 그곳을 겨냥해 뚫는 것이
+가장 확실한 거예요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-만약<Ritora>가, 아직 살아 있다면?
+만약 <Ritora>가 아직 살아있다면?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-라디스로우는 아직 남아 있으니까,
-가능성은 있지 않나요?
+라디슬로우가 아직 남아있으니
+가능성이 있지 않나요?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-어떤 경우라도, 지휘관도 그냥 넘어가지는 않을 거야.
-코어 크리스탈이 통째로 날아가겠지.
+물론 그럴 경우, 사령도 온전하지 못하겠지..
+코어 크리스탈 통채로 날아가 버릴 거야.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-그건<Ritora>에게,
-확실히 죽음을 의미해.
+그건 <Ritora>가
+틀림없이 죽는다는 의미예요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그럴 수는 없어!
+그럴 순 없어요!
 다른 방법은 없나요!?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-있다면 그쪽을 선택할 거야.
-나도 사실 싫어!
+있었다면 그쪽을 선택했겠지.
+나도 정말 싫어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Reynolds> 님…
+<Reynolds> 님……
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-그래서 출력을 높이고 싶었어.
+그래서 출력을 올리고 싶었던 거야.
 어디를 겨냥해도 괜찮도록.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-하지만, 렌즈 포의 내구성을 고려하면,
-한계였어…
+하지만 렌즈포의 내구력을 생각하면
+한계였어……
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-자신을 탓하지 마, <Reynolds>.
-너는 정말 잘했어.
+자책하지 마라, <Reynolds>.
+넌 정말 잘 해냈다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ritora>…？
+<Ritora>……?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -400,68 +400,68 @@
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-간신히 통신 기능을 회복했어.
-그렇지만, 바람 앞의 등불이야.
+어떻게든 통신 기능을 회복시켰다.
+다만, 바람 앞의 등불과 같지만.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
 소디언 팀 여러분,
-주저해서는 안 돼.
+망설이지 마라.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-이건 내가 가진 모든 정보를 분석해,
-도출한 답이야.
+이것은 내가 가진 모든 정보를 분석하여
+도출해낸 해답이다.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Ritora>…！
+<Ritora>……!
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-지상의 미래는 여러분의 손에 달려 있어.
-주저하지 말고 해보도록 해.
+지상의 미래는 여러분의 손에 달려있다.
+주저하지 말고 해라.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-…
+……
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>은<Ritora>의 뜻을,
-汲んでやってほしい.
+<Stahn>, <Ritora>의 뜻을
+헤아려 주길 바란다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…알겠어.
-<Reynolds> 님, 부탁해.
+……알겠어.
+<Reynolds> 님, 부탁드립니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-<King>폐하, 작전 시작 선언을.
+<King> 폐하, 작전 개시 선언을 해주십시오.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-세계의 존망을 걸고, 지금부터,
+세계의 존망을 걸고, 지금부터
 최종 작전을 발동한다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-집합 렌즈 포, 발사 준비!
+집적 렌즈포, 발사 준비!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
 에너지 충전률 80퍼센트.
-집합 렌즈 회로 연결.
+집적 렌즈 회로 접속.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-제너레이터 내 압력 상승.
+제너레이터 내부 압력 상승.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-집합 렌즈 포 발사 준비 완료.
-모두, 대충격, 대섬광 방어.
+집적 렌즈포 발사 준비 완료.
+전원, 충격 방어, 섬광 방어.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -471,21 +471,21 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-집속 렌즈포, 발사!
+집적 렌즈포, 발사!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-저게… 우리의 희망의 빛이야.
+저것이…… 우리의 희망의 빛.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-아아. <Ritora>가 인도해준,
+그래. <Ritora>가 인도해 준,
 소중한 빛이야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 그 빛을 우리 손으로,
-더 크게, 영원한 것으로 만들어야 해.
+더 크고 영원한 것으로 만들 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -494,72 +494,72 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-오오ーっ！
+오오ー!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-오오ーっ！
+오오ー!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-오오ーっ！
+오오ー!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-오오ーっ！
+오오ー!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-오오ーっ！
+오오ー!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-오오ーっ！
+오오ー!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-오오ーっ！
+오오ー!
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-아홉,
+9,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-아홉, 여덟,
+9, 8,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-아홉, 여덟, 일곱,
+9, 8, 7,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-아홉, 여덟, 일곱, 여섯,
+9, 8, 7, 6,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-아홉, 여덟, 일곱, 여섯, 다섯,
+9, 8, 7, 6, 5,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-아홉, 여덟, 일곱, 여섯, 다섯, 넷,
+9, 8, 7, 6, 5, 4,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-아홉, 여덟, 일곱, 여섯, 다섯, 넷, 셋,
+9, 8, 7, 6, 5, 4, 3,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-아홉, 여덟, 일곱, 여섯, 다섯, 넷, 셋, 둘,
+9, 8, 7, 6, 5, 4, 3, 2,
 [ENDBLOCK]
 <TAG_007>최종 카운트다운 시작.
-아홉, 여덟, 일곱, 여섯, 다섯, 넷, 셋, 둘, 하나.
+9, 8, 7, 6, 5, 4, 3, 2, 1.
 [ENDBLOCK]
 <x18><x65><x58><x74><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>현재 소지하고 있는 가르드:<TAG_033>가르드
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-예
+네
 아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x90><x80></color>가
 [ENDBLOCK]
-파티에 합류했습니다.
+파티에 가입했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
@@ -571,9 +571,9 @@ notice
 [ENDBLOCK]
 <x18><x65><x58><x80><x00><x80><x18><x65><x58><x84><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x90><x80></color>가
 [ENDBLOCK]
@@ -581,32 +581,32 @@ notice
 [ENDBLOCK]
 <x18><x65><x58><x80><x00><x80><x18><x65><x58><x84><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xB4><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xB4><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xB0><x00><x80></color>를 획득했습니다.
+<x18><x65><x58><xB0><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
 <x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
-<turquoise>거래칭호
+<turquoise>교역 칭호
 [ENDBLOCK]
 <x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
-<turquoise>온천칭호
+<turquoise>온천 칭호
 [ENDBLOCK]
 <x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
-<turquoise>자유칭호
+<turquoise>자유 칭호
 [ENDBLOCK]
 <x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>내추럴레인저
+칭호: <turquoise>네이처 레인저
 [ENDBLOCK]
 <x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>대시 시리즈
+칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
 <x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
@@ -614,11 +614,11 @@ notice
 [ENDBLOCK]
 <x19><x69><x48><xA4><x80>들은
 [ENDBLOCK]
-<turquoise>퀴즈칭호
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x48><xA4><x80>는
+<x19><x69><x48><xA4><x80>은(는)
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x58><xA8><x00><x80>
 <x18><x65><x58><xAC><x00><x80>
@@ -626,151 +626,152 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>는
+<x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>연동 ID와 게임 패스워드를 발행합니다.
 이 ID와 패스워드를 연동 웹사이트에서
-입력함으로써, Destiny의 세계가
+입력하면, 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 패스워드는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+<TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>게임 중의 이벤트나 미니게임을
 클리어하면 연동 ID와 게임 패스워드가
-발행될 수 있습니다.
+발행되는 경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>이 연동 ID와 게임 패스워드를
-웹사이트에서 입력하면 Destiny
-의 세계가 더욱 넓어집니다.
+웹사이트에 입력하면 데스티니
+세계가 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>웹사이트에서 입력할
-연동 ID와 게임 패스워드를 잊어버린 경우는
-피츠갈드에 있는 여행자의 오두막에서
+<TAG_007>웹사이트에 입력할
+연동 ID와 게임 패스워드를 잊어버린 경우에는
+피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외각 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+외각 없는 휘도 설정은 (RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-1단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-2단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-3단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-설정이 이루어지지 않았습니다！（tod=<TAG_059>）
+설정이 없습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-장치는 작동하지 않고 있습니다.
+장치가 작동하고 있지 않습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 워프 장치가 작동했습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><x90><x80>의 소디언 장치가
+<TAG_007><x19><x71><x48><x90><x80>의 소디언 디바이스가
 사용 가능해졌습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「칭호 설명」
-칭호란 캐릭터에 세팅할 수 있는,
-캐릭터 파라미터 중 하나입니다.
-구체적인 세팅 방법은 다음과 같습니다.
+<TAG_007>「칭호의 설명」
+칭호란 캐릭터에 설정할 수 있는,
+캐릭터 파라미터의 하나입니다.
+구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>메인 메뉴를 열면, 캐릭터의
-상태를 표시합니다.
-그 화면에서<Square_ani>를 누르면, 캐릭터의
-상태 표시를 전환할 수 있습니다.
+<TAG_007>메인 메뉴를 연 후, 캐릭터의
+스테이터스를 표시합니다.
+그 화면에서 <Square_ani>을 누르면, 캐릭터의
+스테이터스 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>상태의 가장 위에는, 「칭호」라고 적힌
-페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
+<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
 획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>칭호의 용도에는 두 가지가 있습니다.
-첫 번째는…
-「칭호를 세팅하고, 마을 사람에게 이야기하자」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는……
+「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>마을 사람 중에는, 칭호를 세팅하고 이야기하면,
-당신에게 관심을 가지는 사람이 있습니다. 마을 사람에게 여러 번
-이야기했을 때, 이상한 행동을 할 수 있습니다.
-그때는, 가지고 있는 칭호를 다시 세팅한 후,
-다시 이야기해 보세요.
+<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
+당신에게 흥미를 보이는 사람이 있습니다.
+마을 사람들에게 여러 번 말을 걸었을 때,
+이상한 행동을 하는 경우가 있습니다.
+그때는 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 말을 걸어보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
-머리 위에「？」가 나올 수 있습니다.
-그때는, 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 세팅하고, 다시 이야기해 보세요.
-무언가 기쁜 일이 일어날지도 모릅니다.
+<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
+머리 위에 「？」가 나타나는 경우가 있습니다.
+그때는 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 말을 걸어보세요.
+뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>두 번째 용도는…
-「상태 화면을 멋지게 꾸미자」
+<TAG_007>사용법의 두 번째는……
+「스테이터스 화면을 멋지게 꾸며보자」
 모은 칭호 중에서 마음에 드는 것이 있다면,
-세팅하여 상태 화면을 멋지게 연출해 보세요.
+설정해서 스테이터스 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>「돌차기 놀이」란,
 필드에 있는 돌을 차서,
 특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
 1: 마을 밖에 있는 특정 돌을 차면,
-		게임이 시작됩니다.
-2: 전투는, 돌차기 놀이의 클리어 조건에
+		게임 스타트가 됩니다.
+2: 전투는 돌차기 놀이의 클리어 조건에
 		영향을 미치지 않습니다.
-3: 마을이나 던전을 드나들면,
-		돌은 원래 장소로 돌아갑니다.
+3: 마을이나 던전을 출입하면,
+		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

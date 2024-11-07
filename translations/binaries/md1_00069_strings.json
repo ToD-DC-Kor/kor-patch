@@ -1,0 +1,18 @@
+{
+    "00069.md1": [
+        {
+            "offset": 2488,
+            "string": "[Cross_ani]戻る[L3_ani][R3_ani]図鑑切替[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "[Cross_ani]뒤로[L3_ani][R3_ani]도감 전환[END]"
+        },
+        {
+            "offset": 2544,
+            "string": "取得率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "획득률[END]"
+        }
+    ]
+}
