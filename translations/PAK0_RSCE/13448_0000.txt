@@ -4,7 +4,7 @@
 [ENDBLOCK]
 <TAG_007><S06><yellow>Lock-On !!
 [ENDBLOCK]
-<S03><yellow>로크온 수：<x17><x71><x46><xDC><x80>羽
+<S03><yellow>록온 수: <x17><x71><x46><xDC><x80>마리
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -13,57 +13,57 @@
 select
 [ENDBLOCK]
 <TAG_007>들어가시겠습니까?
-네
+예
 아니요
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>지상에 내려가시겠습니까?
-네
+<TAG_007>지상으로 내려가시겠습니까?
+예
 아니요
 [ENDBLOCK]
 Hole Select
 [ENDBLOCK]
-<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
-Hole 02 (Par <x17><x71><x48><x3C><x80>)
+<TAG_007>홀 01 (파 <x17><x71><x48><x38><x80>)
+홀 02 (파 <x17><x71><x48><x3C><x80>)
 [ENDBLOCK]
 Hole Select
 [ENDBLOCK]
-<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
-Hole 02 (Par <x17><x71><x48><x3C><x80>)
-Hole 03 (Par <x17><x71><x48><x40><x80>)
+<TAG_007>홀 01 (파 <x17><x71><x48><x38><x80>)
+홀 02 (파 <x17><x71><x48><x3C><x80>)
+홀 03 (파 <x17><x71><x48><x40><x80>)
 [ENDBLOCK]
 Hole Select
 [ENDBLOCK]
-<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
-Hole 02 (Par <x17><x71><x48><x3C><x80>)
-Hole 03 (Par <x17><x71><x48><x40><x80>)
-Hole 04 (Par <x17><x71><x48><x44><x80>)
+<TAG_007>홀 01 (파 <x17><x71><x48><x38><x80>)
+홀 02 (파 <x17><x71><x48><x3C><x80>)
+홀 03 (파 <x17><x71><x48><x40><x80>)
+홀 04 (파 <x17><x71><x48><x44><x80>)
 [ENDBLOCK]
 Hole Select
 [ENDBLOCK]
-<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
-Hole 02 (Par <x17><x71><x48><x3C><x80>)
-Hole 03 (Par <x17><x71><x48><x40><x80>)
-Hole 04 (Par <x17><x71><x48><x44><x80>)
-Hole 05 (Par <x17><x71><x48><x48><x80>)
+<TAG_007>홀 01 (파 <x17><x71><x48><x38><x80>)
+홀 02 (파 <x17><x71><x48><x3C><x80>)
+홀 03 (파 <x17><x71><x48><x40><x80>)
+홀 04 (파 <x17><x71><x48><x44><x80>)
+홀 05 (파 <x17><x71><x48><x48><x80>)
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><TAG_001><yellow>Hole <x17><x71><x46><xF8><x80>
- Par <x17><x71><x47><x08><x80>
+<TAG_007><TAG_001><yellow>홀 <x17><x71><x46><xF8><x80>
+ 파 <x17><x71><x47><x08><x80>
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><TAG_001><yellow>시작 !!
+<TAG_007><TAG_001><yellow>시작!!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><TAG_001><yellow>ＣＬＥＡＲ!!
+<TAG_007><TAG_001><yellow>클리어!!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><x06><x80><x02><x00><x00><yellow>언더 파!!
+<TAG_007><x06><x80><x02><x00><x00><yellow>언더파!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
@@ -85,25 +85,25 @@ debug
 [ENDBLOCK]
 <TAG_007>홀 5의 상품 획득!!
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>선택할 수 있는 홀이 추가되었습니다!!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><x06><xE0><x01><x00><x00><yellow>Nice Shot!!
+<TAG_007><x06><xE0><x01><x00><x00><yellow>나이스 샷!!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><x06><xE0><x01><x00><x00><red>Out of Bounds...
+<TAG_007><x06><xE0><x01><x00><x00><red>아웃 오브 바운즈...
 [ENDBLOCK]
 Main Menu
 [ENDBLOCK]
 <TAG_007>플레이어 선택
-위치를 변경하다
-1타부터 다시 시작하다
-홀 선택으로 돌아가다
-게임을 종료하다
+위치 변경
+첫 번째 샷부터 다시 시작
+홀 선택으로 돌아가기
+게임 종료
 [ENDBLOCK]
 Select
 [ENDBLOCK]
@@ -121,15 +121,15 @@ Select
 Re-try
 [ENDBLOCK]
 <TAG_007>현재 플레이 중인 홀을
-1타부터 다시 시작하시겠습니까？
-네
+첫 번째 샷부터 다시 시작하시겠습니까?
+예
 아니요
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>다른 선택할 수 있는 홀이 없습니다.
+<TAG_007>선택할 수 있는 다른 홀이 없습니다.
 [ENDBLOCK]
-종료
+Exit
 [ENDBLOCK]
 <TAG_007>미니게임을 종료하시겠습니까?
 예

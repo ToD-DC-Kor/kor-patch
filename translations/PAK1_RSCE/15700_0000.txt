@@ -5,20 +5,20 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-아직 자기소개를 하지 않았네.
+아직 자기소개를 안 했었지.
 나는 <Stahn> 엘론이야.
 [ENDBLOCK]
-<Stahn> 씨, 맞죠?
+<Stahn> 씨, 맞죠.
 [ENDBLOCK]
-여자 두 사람의 이름이,
-<Mary> 씨와 <Rutee>야.
+여자 두 분의 이름이,
+<Mary> 씨와 <Rutee>.
 [ENDBLOCK]
-<Mary> 씨와 <Rutee> 씨.
+<Mary> 씨랑 <Rutee> 씨.
 네.
 [ENDBLOCK]
-그리고 <Lion>이야. 몸은 작지만,
-정말 강하거든!
+나머지는 <Lion>이야. 체구는 작지만,
+엄청 강하다고!
 [ENDBLOCK]
-너, 그런 걸 <Lion>에게 물어보면,
-분명 그냥 넘어가지 않을 거야.
+너, 그런 말 <Lion>한테 들리면,
+분명 가만히 안 있을 거야.
 [ENDBLOCK]
