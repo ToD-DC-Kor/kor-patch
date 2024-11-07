@@ -1,24 +1,24 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-씨앗을 심고～♪
+씨~앗을 심어서~♪
 [ENDBLOCK]
-물도 주면～♪
+물~을 뿌려주면~♪
 [ENDBLOCK]
-싹이 나고 열매가 열렸네～♪
+싹~이 나고 열매 맺었네~♪
 [ENDBLOCK]
-고마워, <Chelsea>.
+기분 좋아 보이네, <Chelsea>.
 [ENDBLOCK]
-씨앗을 기르는 건 꽤 재미있네요.
-유용한 것들도 수확할 수 있고, 일석이조입니다.
+씨앗을 키우는 게 꽤 재미있네요.
+쓸모 있는 것도 수확할 수 있고, 일석이조예요.
 [ENDBLOCK]
 <Chelsea>가 즐거워 보여서 다행이야.
 [ENDBLOCK]
 앞으로도 그 기세로 부탁해.
 [ENDBLOCK]
-네! 
+네!
 [ENDBLOCK]

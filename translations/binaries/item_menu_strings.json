@@ -1,0 +1,221 @@
+{
+    "00062.md1": [
+        {
+            "offset": 30864,
+            "string": "[Circle_ani]使う[Cross_ani]戻る[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Circle_ani]사용[Cross_ani]뒤로[END]"
+        },
+        {
+            "offset": 30888,
+            "string": "[Circle_ani]装備[Cross_ani]キャンセル[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]장착[Cross_ani]취소[END]"
+        },
+        {
+            "offset": 30920,
+            "string": "[Circle_ani]使う[Cross_ani]キャンセル[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]사용[Cross_ani]취소[END]"
+        },
+        {
+            "offset": 30952,
+            "string": "[Circle_ani]決定[Cross_ani]キャンセル[Left+Right_blink]増減[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "[Circle_ani]확인[Cross_ani]취소[Left+Right_blink]증감[END]"
+        },
+        {
+            "offset": 30992,
+            "string": "[Circle_ani]決定[Cross_ani]キャンセル[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]확인[Cross_ani]취소[END]"
+        },
+        {
+            "offset": 31024,
+            "string": "[Cross_ani]戻る[Triangle_ani]捨てる[Square_ani]説明変更[L1_ani][R1_ani]カテゴリ変更[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "[Cross_ani]뒤로[Triangle_ani]버리기[Square_ani]설명변경[L1_ani][R1_ani]카테고리변경[END]"
+        },
+        {
+            "offset": 31088,
+            "string": "装備：",
+            "original_bytes_length": 6,
+            "available_bytes_size": 6,
+            "translation": "장착："
+        },
+        {
+            "offset": 31104,
+            "string": "貴重品[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "소지품[END]"
+        },
+        {
+            "offset": 31112,
+            "string": "ストラップ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "스트랩[END]"
+        },
+        {
+            "offset": 31128,
+            "string": "宝石[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "보석[END]"
+        },
+        {
+            "offset": 31136,
+            "string": "固有装備[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "고유장비[END]"
+        },
+        {
+            "offset": 31152,
+            "string": "防具[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "방어구[END]"
+        },
+        {
+            "offset": 31160,
+            "string": "武器[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "무기[END]"
+        },
+        {
+            "offset": 31168,
+            "string": "道具[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "도구[END]"
+        },
+        {
+            "offset": 31176,
+            "string": "新規[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "신규[END]"
+        },
+        {
+            "offset": 34480,
+            "string": "使用しますか？[LINE]\nはい[LINE]\nいいえ[LINE]\n[END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "사용하시겠습니까?[LINE]\n예[LINE]\n아니오[LINE]\n[END]"
+        },
+        {
+            "offset": 34512,
+            "string": "[PlaceHolderA]は外せないため[LINE]\n捨てられません。[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "[PlaceHolderA]은(는) 제거할 수 없어[LINE]\n버림 불가.[END]"
+        },
+        {
+            "offset": 34552,
+            "string": "[PlaceHolderA]は捨てられません。[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[PlaceHolderA]은(는) 버림 불가[END]"
+        },
+        {
+            "offset": 34672,
+            "string": "[PlaceHolderA]はなくなりました。[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[PlaceHolderA]이(가) 사라졌다.[END]"
+        },
+        {
+            "offset": 34696,
+            "string": "全身に聖気をまとった[LINE]\nような気がする。[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "성스러운 기운이 온몸을[LINE]\n감싼 듯하다.[END]"
+        },
+        {
+            "offset": 34736,
+            "string": "全身に邪気をまとった[LINE]\nような気がする。[END]",
+            "original_bytes_length": 38,
+            "available_bytes_size": 39,
+            "translation": "사악한 기운이 온몸을[LINE]\n감싼 듯하다.[END]"
+        },
+        {
+            "offset": 34816,
+            "string": "使う[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "사용[END]"
+        },
+        {
+            "offset": 34824,
+            "string": "装備[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "장착[END]"
+        },
+        {
+            "offset": 34832,
+            "string": "デバイス[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "디바이스[END]"
+        },
+        {
+            "offset": 34848,
+            "string": "リライズ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "리라이즈[END]"
+        },
+        {
+            "offset": 34904,
+            "string": "捨てる[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "버리기[END]"
+        },
+        {
+            "offset": 34912,
+            "string": "やめる[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "취소[END]"
+        },
+        {
+            "offset": 34936,
+            "string": "使う[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "사용[END]"
+        },
+        {
+            "offset": 34944,
+            "string": "やめる[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "취소[END]"
+        },
+        {
+            "offset": 34976,
+            "string": "誰に使用しますか？[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "누구에게 사용?[END]"
+        },
+        {
+            "offset": 35032,
+            "string": "誰が装備しますか？[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "누가 착용할까요?[END]"
+        }
+    ]
+}

@@ -1,24 +1,24 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Woodrow> 씨의 꿈은 무엇인가요?
+<Woodrow> 님의 꿈은 무엇인가요?
 [ENDBLOCK]
-팬더리아를 훌륭한 나라로 만드는 것입니다.
-꿈이라기보다는, 이것은 제 의무입니다.
+팬더리아를 훌륭한 나라로 만드는 거야.
+꿈이라기보다는 이건 내 의무지.
 [ENDBLOCK]
-괜찮습니다. <Woodrow> 님이라면,
-절대, 훌륭한 왕이 되실 것입니다.
+괜찮아요. <Woodrow> 님이라면,
+절~대로 훌륭한 왕이 되실 거예요.
 [ENDBLOCK]
-감사합니다.
+고마워.
 [ENDBLOCK]
-그래서, <Woodrow> 님의 옆에는,
-항상 제가……꺄아아!
+그리고 <Woodrow> 님 옆에는,
+항상 제가…… 꺄아아악!
 [ENDBLOCK]
 <Chelsea>, 무슨 일이야?
 [ENDBLOCK]
-젊음의 과열이겠지.
+젊음의 패기로 인한 일탈이겠지.
 [ENDBLOCK]

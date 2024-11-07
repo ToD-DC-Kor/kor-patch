@@ -1,0 +1,69 @@
+{
+    "00070.md1": [
+        {
+            "offset": 24720,
+            "string": "[Left+Right_blink]リスト切替 [Cross_ani]戻る[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Left+Right_blink]리스트 전환 [Cross_ani]뒤로[END]"
+        },
+        {
+            "offset": 24752,
+            "string": "ショップリスト[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "상점 목록[END]"
+        },
+        {
+            "offset": 24768,
+            "string": "アイテムリスト[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "아이템 목록[END]"
+        },
+        {
+            "offset": 24784,
+            "string": "[Select_ani]ボタンで地上と外殻のマップを[LINE]\n切り替えることができるようになりました。[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "[Select_ani]버튼으로 지상과 외각의 맵을[LINE]\n전환할 수 있게 되었습니다.[END]"
+        },
+        {
+            "offset": 24864,
+            "string": "[TAG_007][PlaceHolderT]へ[LINE]\n移動しますか？[LINE]\nはい[LINE]\nいいえ[LINE]\n[END]",
+            "original_bytes_length": 41,
+            "available_bytes_size": 47,
+            "translation": "[TAG_007][PlaceHolderT]로[LINE]\n이동하시겠습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
+        },
+        {
+            "offset": 24912,
+            "string": "自動操縦[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "자동조종[END]"
+        },
+        {
+            "offset": 24928,
+            "string": "単価[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "단가[END]"
+        },
+
+
+        {
+            "offset": 24952,
+            "string": "タウン[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "마을[END]"
+        },
+        {
+            "offset": 24960,
+            "string": "ダンジョン[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "던전[END]"
+        }
+    ]
+}

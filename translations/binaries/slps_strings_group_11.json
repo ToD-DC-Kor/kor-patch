@@ -1,0 +1,32 @@
+{
+    "SLPS": [
+        {
+            "offset": 1750392,
+            "string": "[Select_ani]表示キャラ切替 [Triangle_ani]並べ替え [Square_ani]サポート切替[END]",
+            "original_bytes_length": 52,
+            "available_bytes_size": 55,
+            "translation": "[Select_ani]캐릭터 표시 전환 [Triangle_ani]정렬 [Square_ani]지원 전환[END]"
+        },
+        {
+            "offset": 1750448,
+            "string": "[Select_ani]表示キャラ切替 [Triangle_ani]並べ替え [END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "[Select_ani]캐릭터 표시 전환 [Triangle_ani]정렬[END]"
+        },
+        {
+            "offset": 1750488,
+            "string": "[Select_ani]カスタム [Circle_ani]決定 [Cross_ani]戻る[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "[Select_ani]커스텀 [Circle_ani]결정 [Cross_ani]돌아가기[END]"
+        },
+        {
+            "offset": 1750528,
+            "string": "[TAG_007]戦闘を開始します。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 53,
+            "available_bytes_size": 63,
+            "translation": "[TAG_007] 전투를 시작합니다.[LINE]\n괜찮습니까?[LINE]\n네[LINE]\n아니요[END]"
+        }
+    ]
+}
