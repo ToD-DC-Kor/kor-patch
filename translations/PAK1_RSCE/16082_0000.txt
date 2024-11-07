@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-믹트란의 곳으로 서두르자!
+믹트란에게 빨리 가자!
 [ENDBLOCK]

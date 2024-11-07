@@ -1,0 +1,67 @@
+{
+    "00075.md1": [
+        {
+            "offset": 7584,
+            "string": "[Circle_ani]購入[Cross_ani]戻る[Left+Right_blink]増減[Square_ani]説明変更[END]",
+            "original_bytes_length": 44,
+            "available_bytes_size": 47,
+            "translation": "[Circle_ani]구매[Cross_ani]돌아가기[Left+Right_blink]증감[Square_ani]설명변경[END]"
+        },
+        {
+            "offset": 7632,
+            "string": "[Circle_ani]決定[Cross_ani]キャンセル[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]결정[Cross_ani]취소[END]"
+        },
+        {
+            "offset": 7664,
+            "string": "宝石をこれ以上所持することはできません。[LINE]\n[END]",
+            "original_bytes_length": 42,
+            "available_bytes_size": 47,
+            "translation": "보석을 더 이상 소지할 수 없습니다.[LINE]\n[END]"
+        },
+        {
+            "offset": 7712,
+            "string": "合計[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "합계[END]"
+        },
+        {
+            "offset": 7736,
+            "string": "単価[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "단가[END]"
+        },
+        {
+            "offset": 7744,
+            "string": "交換[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "교환[END]"
+        },
+        {
+            "offset": 7752,
+            "string": "所持[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "소지[END]"
+        },
+        {
+            "offset": 7776,
+            "string": "選択されたアイテムと交換します。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "선택한 아이템과 교환합니다.[LINE]\n괜찮으시겠습니까?[LINE]\n예[LINE]\n아니오[LINE]\n[END]"
+        },
+        {
+            "offset": 7840,
+            "string": "交換[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "교환[END]"
+        }
+    ]
+}
