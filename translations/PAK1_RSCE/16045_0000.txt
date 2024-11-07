@@ -1,25 +1,25 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Woodrow>님은,
-절대 제가 지켜드리겠습니다.
+<Woodrow> 님은,
+제가 반드시 지키겠습니다.
 [ENDBLOCK]
 <Chelsea>에게 무슨 일이 생기면,
-알바 선생님께 얼굴을 내밀 수가 없어요.
+알바 선생님을 뵐 면목이 없어.
 [ENDBLOCK]
-그렇다면, 제 일은,
-<Woodrow>님이 지켜주세요.
+그렇다면, 저는
+<Woodrow> 님이 지켜주세요.
 [ENDBLOCK]
-그래, 그렇게 하자.
-백성을守る 것이 왕의 의무다.
+그렇군. 그렇게 하도록 하지.
+백성을 지키는 것이 왕의 의무니까.
 [ENDBLOCK]
-그런 의미는 아니지만요.
+그런 의미는 아닌데요.
 [ENDBLOCK]
-<Chelsea>님, 적극적이시네요.
+<Chelsea> 씨, 적극적이네요.
 [ENDBLOCK]
 하지만, 오늘도 진전이 없구나.
 [ENDBLOCK]
