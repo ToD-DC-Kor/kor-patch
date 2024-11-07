@@ -1,0 +1,1698 @@
+{
+    "00066.md1": [
+        {
+            "offset": 18568,
+            "string": "人語を操る事ができる、神妖と呼ばれる獣。[LINE]\nはたして、その目的とは……[LINE]\n[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71,
+            "translation": "사람의 말을 구사할 수 있는, 신요라 불리는 짐승. [LINE]\n그 목적은 과연……[LINE]\n[END]"
+        },
+        {
+            "offset": 18640,
+            "string": "突如現れた謎の巨大兵器。[LINE]\n隙を見せると強力な晶術を使ってくる。[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "갑자기 나타난 의문의 거대 무기. [LINE]\n기회를 노출하면 강력한 정술을 사용해 온다. [LINE]\n[END]"
+        },
+        {
+            "offset": 18704,
+            "string": "肥料から生まれた戦闘用生き物。[LINE]\n空を飛ぶ機能（ある程度）や、必要以上に[LINE]\n痛がる機能（未定）を有する発掘好き。[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "비료에서 태어난 전투용 생물. 하늘을 나는 기능(어느정도)과[LINE]\n필요 이상으로 아파하는 기능(미정)을 가진[LINE]\n발굴을 좋아하는 녀석.[END]"
+        },
+        {
+            "offset": 18816,
+            "string": "天上軍の新型晶術兵器。[LINE]\n強力な晶術を多く操る。[LINE]\n[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "천상군의 신형 정술 무기. [LINE]\n강력한 정술을 많이 다룬다. [LINE]\n[END]"
+        },
+        {
+            "offset": 18864,
+            "string": "天上軍の新型生体兵器。[LINE]\n接近戦、特に１対１での戦いを得意とする。[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "천상군의 신형 생체 무기. [LINE]\n접근전, 특히 1대1에서의 전투를 잘한다. [LINE]\n[END]"
+        },
+        {
+            "offset": 18936,
+            "string": "硬い甲羅を持つ空飛ぶ水棲生物。[LINE]\n敵の攻撃に反応して反撃してくるが、[LINE]\n普段はじっとしている。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "단단한 갑옷을 가진 하늘을 나는 수생생물. [LINE]\n적의 공격에 반응하여 반격해 오지만, [LINE]\n보통은 가만히 있는다. [END]"
+        },
+        {
+            "offset": 19032,
+            "string": "闇の力を司る深海の怪物。[LINE]\n闇の息吹が掛かった水を吐きつけ[LINE]\n相手を封印状態にする。[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "어둠의 힘을 다스리는 심해의 괴물. [LINE]\n어둠의 숨결이 걸린 물을 뱉어내어 [LINE]\n상대를 봉인 상태로 만든다. [END]"
+        },
+        {
+            "offset": 19112,
+            "string": "深海の格闘家。[LINE]\n格闘家らしく、正々堂々と一番強いものを[LINE]\n狙って攻撃してくる。[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "심해의 격투가. [LINE]\n격투가답게, 정정당당하게 가장 강한 것을 [LINE]\n노리고 공격해 온다. [END]"
+        },
+        {
+            "offset": 19192,
+            "string": "死を司ると言われる海の悪魔。[LINE]\n相手を一撃で葬り去る晶術を使う……[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "죽음을 다스린다고 하는 바다의 악마. [LINE]\n상대를 일격으로 매장시키는 정술을 사용한다…… [LINE]\n[END]"
+        },
+        {
+            "offset": 19264,
+            "string": "全ての攻撃、晶術が無属性の[LINE]\n珍しいモンスター。[LINE]\nガードか避けるかしか防ぐ方法はない。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "모든 공격 정술이 무속성의 [LINE]\n드문 몬스터. [LINE]\n가드나 피하는 것밖에 막는 방법은 없다. [END]"
+        },
+        {
+            "offset": 19352,
+            "string": "全ての属性を軽減する最強の鎧。[LINE]\n唯一無属性の攻撃のみ軽減できない。[LINE]\n[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "모든 속성을 경감하는 최강의 갑옷. [LINE]\n유일하게 무속성의 공격만 경감할 수 없다. [LINE]\n[END]"
+        },
+        {
+            "offset": 19424,
+            "string": "ふさふさしたかわいい生き物。[LINE]\nお腹の袋には「ヒーロー？」が入っています。[LINE]\n[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "푹신한 귀여운 생물. [LINE]\n배의 주머니에는 '히어로?'가 들어 있습니다. [LINE]\n[END]"
+        },
+        {
+            "offset": 19504,
+            "string": "先進的な技術を用いて作られた兵器。[LINE]\nどんな距離からでも攻撃してくる。[LINE]\n[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71,
+            "translation": "최신 기술을 사용하여 만들어진 무기. [LINE]\n어떤 거리에서도 공격해 온다. [LINE]\n[END]"
+        },
+        {
+            "offset": 19576,
+            "string": "漆黒のウロコを持つドラゴン。[LINE]\nブレイク時と残り１体になった時の[LINE]\n攻撃に注意！[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "칠흑의 비늘을 가진 드래곤. [LINE]\n브레이크 시와 마지막 1체가 되었을 때의 [LINE]\n공격에 주의! [END]"
+        },
+        {
+            "offset": 19656,
+            "string": "悪魔の瞳を持つモンスター。[LINE]\n絶えず能力減少を引き起こす晶術を使う。[LINE]\n[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "악마의 눈을 가진 몬스터. [LINE]\n끊임없이 능력 감소를 일으키는 정술을 사용한다. [LINE]\n[END]"
+        },
+        {
+            "offset": 19728,
+            "string": "伸縮自在の触手を持つ人型の最終兵器。[LINE]\n攻撃力が非常に高く、[LINE]\nＨＰが減ると攻撃が激しくなる。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "신축성이 있는 촉수를 가진 인류의 최종 무기. [LINE]\n공격력이 매우 높으며, [LINE]\nHP가 줄면 공격이 격해진다. [END]"
+        },
+        {
+            "offset": 19824,
+            "string": "闇に魅入られたドラゴンの子供。[LINE]\n闇の力で火と水、相反する効果を持つ[LINE]\n炎を吐く事ができる。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "어둠에 빠진 드래곤의 아이. [LINE]\n어둠의 힘으로 불과 물, 상반되는 효과를 가진 [LINE]\n불을 뿜을 수 있다. [END]"
+        },
+        {
+            "offset": 19912,
+            "string": "「破滅」という名のモンスター。[LINE]\n爆発に巻き込まれて破滅しないように。[LINE]\nガードが固いので、ガードを崩す攻撃必須！[END]",
+            "original_bytes_length": 109,
+            "available_bytes_size": 111,
+            "translation": "'파멸'이라는 이름의 몬스터. [LINE]\n폭발에 휘말려 파멸하지 않도록. [LINE]\n가드가 단단하기 때문에, 가드를 무너트리는 공격 필수! [END]"
+        },
+        {
+            "offset": 20024,
+            "string": "巨大な二足歩行の機械。[LINE]\n強靭な脚力でジャンプし、踏みつける攻撃は、[LINE]\n大ダメージを受けるので注意。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "거대한 이족 보행의 기계. [LINE]\n강력한 다리의 힘으로 점프하고, 밟기 공격은, [LINE]\n큰 피해를 입기 때문에 주의. [END]"
+        },
+        {
+            "offset": 20120,
+            "string": "悪意に満ちた刀身を持つ魔法剣。[LINE]\n全ての攻撃に「術攻撃力」を下げる[LINE]\n効果を持つ。[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "악의에 찬 칼날을 가진 마법검. [LINE]\n모든 공격에 '정술 공격력'을 낮추는 [LINE]\n효과를 가진다. [END]"
+        },
+        {
+            "offset": 20200,
+            "string": "常に後方から援護射撃してくる邪魔な敵。[LINE]\n常に位置を把握しながら戦おう。[LINE]\n[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "항상 후방에서 지원 사격해 오는 방해하는 적. [LINE]\n항상 위치를 파악하면서 싸우자. [LINE]\n[END]"
+        },
+        {
+            "offset": 20272,
+            "string": "さまざまな補助系晶術を使用してくる[LINE]\n難攻不落の機動兵器。[LINE]\n敵の残りに応じて晶術を変化させる。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "다양한 보조계 정술을 사용해 오는 [LINE]\n난공불락의 기동 무기. [LINE]\n적의 남은에 따라 정술을 변화시킨다. [END]"
+        },
+        {
+            "offset": 20368,
+            "string": "人を食らう危険な植物。[LINE]\n吸引力がアップしており、[LINE]\n少しぐらい離れていても吸い込んでしまう。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "사람을 먹는 위험한 식물. [LINE]\n흡입력이 강화되어 있어, [LINE]\n조금 멀리 있어도 빨아들여 버린다. [END]"
+        },
+        {
+            "offset": 20464,
+            "string": "あちらこちらに溶解液を落としていく[LINE]\n迷惑極まりないモンスター。[LINE]\n移動するときは地面をよく見て。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "저기저기에 용해액을 떨어뜨리는 [LINE]\n귀찮음이 극도로 심한 몬스터. [LINE]\n이동할 때는 땅을 잘 보자. [END]"
+        },
+        {
+            "offset": 20560,
+            "string": "遠距離支援を得意とする移動砲台。[LINE]\n近距離での踏み潰し攻撃は、[LINE]\nすぐには起きられなくなる。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "원거리 지원이 특기인 이동포대. [LINE]\n근거리에서 밟아버리는 공격은, [LINE]\n곧바로 일어날 수 없게 된다. [END]"
+        },
+        {
+            "offset": 20648,
+            "string": "集団でところかまわず爆撃してくる敵。[LINE]\n塵も積もればなんとやらという事で、[LINE]\n最初に倒しておくべき。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "집단으로 장소를 가리지 않고 폭격해오는 적. [LINE]\n티끌 모아 태산이라는 말처럼, [LINE]\n가장 먼저 처치해야 한다. [END]"
+        },
+        {
+            "offset": 20744,
+            "string": "全ての攻撃晶術をマスターした兵器。[LINE]\n各属性の一番威力のある晶術を使用してくる。[LINE]\n[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "모든 공격 정술을 마스터한 무기. [LINE]\n각 속성의 가장 위력 있는 정술을 사용해 온다. [LINE]\n[END]"
+        },
+        {
+            "offset": 20824,
+            "string": "地獄よりの使者。[LINE]\n闇属性に耐性がないのが注目ポイント！[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55,
+            "translation": "지옥에서 온 사자. [LINE]\n어둠 속성에 대한 내성이 없는 것이 주목 포인트! [LINE]\n[END]"
+        },
+        {
+            "offset": 20880,
+            "string": "壊れやすい警備ロボ。[LINE]\nＨＰが減ると内部の回路が故障し、[LINE]\n攻撃の制御が効かなくなる……[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "쉽게 고장나는 경비 로봇. [LINE]\nHP가 줄면 내부 회로가 고장나서, [LINE]\n공격의 제어가 통하지 않게 된다…… [END]"
+        },
+        {
+            "offset": 20968,
+            "string": "ひたすら仲間を呼ぶ厄介な機械。[LINE]\n水属性に耐性がないのが注目ポイント！[LINE]\n[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71,
+            "translation": "열심히 동료를 부르는 귀찮은 기계. [LINE]\n물 속성에 대한 내성이 없는 것이 주목 포인트! [LINE]\n[END]"
+        },
+        {
+            "offset": 21040,
+            "string": "右手に闇属性、左手に光属性を持つ。[LINE]\nでも光属性が弱点……[LINE]\n敵の残りに応じて晶術が強力になる。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "오른손에 어둠 속성, 왼손에 빛 속성을 가진. [LINE]\n하지만 빛 속성이 약점…… [LINE]\n적의 남은에 따라 정술이 강력해진다. [END]"
+        },
+        {
+            "offset": 21136,
+            "string": "神聖なる生き物として崇められる獣。[LINE]\n戦闘時間によって行動パターンが変化する。[LINE]\n[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "신성한 생물로 숭배받는 짐승. [LINE]\n전투 시간에 따라 행동 패턴이 변화한다. [LINE]\n[END]"
+        },
+        {
+            "offset": 21216,
+            "string": "遺跡に巣くう猛獣。[LINE]\n体全体を使った吹き飛ばし攻撃が得意。[LINE]\nガードが固いので、ガードを崩す攻撃必須！[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "유적에 둥지를 튼 맹수. [LINE]\n전신을 사용한 날려버리기 공격이 능숙. [LINE]\n가드가 단단하기 때문에, 가드를 무너트리는 공격 필수! [END]"
+        },
+        {
+            "offset": 21320,
+            "string": "遺跡に巣くうコウモリ。[LINE]\n常にＨＰが多い者を集団で狙ってくる。[LINE]\n[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "유적에 둥지를 튼 박쥐. [LINE]\n항상 HP가 많은 자를 집단으로 노리고 온다. [LINE]\n[END]"
+        },
+        {
+            "offset": 21384,
+            "string": "硬いウロコを持つトカゲの一種。[LINE]\n後方から回転しながら尻尾をたたきつける[LINE]\n攻撃が強力。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "단단한 비늘을 가진 도마뱀의 일종. [LINE]\n후방에서 회전하면서 꼬리를 휘두르는 [LINE]\n공격이 강력하다. [END]"
+        },
+        {
+            "offset": 21472,
+            "string": "地属性の効果を持つ水を吐きつける水棲生物。[LINE]\n下から噴出す水圧がアップしており、[LINE]\n食らうと上空まで吹き飛ばされてしまう。[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "지속성의 효과를 가진 물을 뱉어내는 수생생물. [LINE]\n아래에서 분출하는 수압이 업되어 있어, [LINE]\n맞으면 상공까지 날아가 버린다. [END]"
+        },
+        {
+            "offset": 21592,
+            "string": "自ら移動する事はほとんどないが、[LINE]\nどこからでもタックルしてくる厄介な敵。[LINE]\n距離が近いと鎌で攻撃してくる事もある。[END]",
+            "original_bytes_length": 111,
+            "available_bytes_size": 111,
+            "translation": "스스로 이동하는 것은 거의 없지만, [LINE]\n어디서든 태클해 오는 귀찮은 적. [LINE]\n거리가 가까우면 낫으로 공격해 오는 경우도 있다. [END]"
+        },
+        {
+            "offset": 21704,
+            "string": "スーパーなヒトデ。[LINE]\n目にも止まらぬスピードで背後に回り、[LINE]\n怪力で敵を吹き飛ばす。[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "슈퍼인 해변불가사리. [LINE]\n눈에도 띄지 않는 속도로 뒤로 돌아가, [LINE]\n괴력으로 적을 날려버린다. [END]"
+        },
+        {
+            "offset": 21784,
+            "string": "古代に使われていた鉱石から生ませた石像。[LINE]\nほかの敵が前にいると素早く行動する。[LINE]\n[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "고대에 사용되었던 광석에서 태어난 석상. [LINE]\n다른 적이 앞에 있으면 빨리 행동한다. [LINE]\n[END]"
+        },
+        {
+            "offset": 21864,
+            "string": "遺跡に生える痺れキノコ。[LINE]\nガードが固いので、ガードを崩す攻撃必須！[LINE]\n[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "유적에 자라는 마비 버섯. [LINE]\n가드가 단단하기 때문에, 가드를 무너트리는 공격 필수! [LINE]\n[END]"
+        },
+        {
+            "offset": 21936,
+            "string": "薄い赤色の光の玉。[LINE]\n光属性の攻撃しか効果がほとんどない。[LINE]\n[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63,
+            "translation": "엷은 붉은색 빛의 구슬. [LINE]\n빛 속성의 공격만 효과가 거의 없다. [LINE]\n[END]"
+        },
+        {
+            "offset": 22000,
+            "string": "常に炎を吐き続けるドラゴン。[LINE]\nガード後に反撃してくる事があるので[LINE]\n攻撃はよく考えて！[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "항상 불을 뿜어내는 드래곤. [LINE]\n가드 후에 반격해 오는 경우가 있으니 [LINE]\n공격은 잘 생각해! [END]"
+        },
+        {
+            "offset": 22088,
+            "string": "異形の頭部を持つモンスター。[LINE]\n吐き出される煙は停滞時間が非常に長く、[LINE]\nあたると攻撃力がダウンする。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "이형의 머리를 가진 몬스터. [LINE]\n뱉어져 나오는 연기는 정체 시간이 매우 길어, [LINE]\n맞으면 공격력이 다운한다. [END]"
+        },
+        {
+            "offset": 22192,
+            "string": "最凶、最悪の暴れ熊。[LINE]\n一発、一発の攻撃力が高いので[LINE]\n弱点を突いて一気に倒してしまおう。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "최凶, 최악의 난폭곰. [LINE]\n한발, 한발의 공격력이 높으니 [LINE]\n약점을 찌르고 일격에 쓰러뜨리자. [END]"
+        },
+        {
+            "offset": 22280,
+            "string": "集団で行動するウサギ。[LINE]\n仲間がやられるごとに攻撃が激しくなる。[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "집단으로 행동하는 토끼. [LINE]\n동료가 쓰러질 때마다 공격이 격해진다. [LINE]\n[END]"
+        },
+        {
+            "offset": 22344,
+            "string": "すべて水属性晶術を操るローパー。[LINE]\nまた、闇の攻撃属性も持つ。[LINE]\nＨＰの残りに応じて行動が変化する。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "모두 물 속성 정술을 다루는 로퍼. [LINE]\n또한, 어둠의 공격 속성도 가진다. [LINE]\nHP의 남은에 따라 행동이 변화한다. [END]"
+        },
+        {
+            "offset": 22440,
+            "string": "一度噛み付くとなかなか離れない[LINE]\n仕付けのなっていないオオカミ……[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "한 번 물면 쉽게 놓지 않는 [LINE]\n훈련되지 않은 늑대…… [LINE]\n[END]"
+        },
+        {
+            "offset": 22512,
+            "string": "素早い動きで相手を翻弄するハチ。[LINE]\n固まっているところをまとめて倒すのが爽快。[LINE]\n[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "빠른 움직임으로 상대를 헷갈리는 벌. [LINE]\n모여 있는 곳을 한꺼번에 쓰러뜨리는 것이 상쾌하다. [LINE]\n[END]"
+        },
+        {
+            "offset": 22592,
+            "string": "水から生まれたゲル状の物体。[LINE]\n水から生まれたので、もちろん[LINE]\n水の攻撃属性を持っています。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "물에서 태어난 겔 상의 물체. [LINE]\n물에서 태어났으니, 물론 [LINE]\n물의 공격 속성을 가지고 있다. [END]"
+        },
+        {
+            "offset": 22680,
+            "string": "遺跡に巣くうといわれる怪物。[LINE]\nガードが固いので、ガードを崩す攻撃必須！[LINE]\n[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "유적에 둥지를 튼다고 하는 괴물. [LINE]\n가드가 단단하기 때문에, 가드를 무너트리는 공격 필수! [LINE]\n[END]"
+        },
+        {
+            "offset": 22752,
+            "string": "「ルーン」のうち詠唱を行うパーツ。[LINE]\n上級晶術までをも操るため、[LINE]\n詠唱速度の速い範囲晶術で邪魔をすべき。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "「룬」 중 주문을 하는 부분. [LINE]\n상급 정술까지를 다루기 때문에, [LINE]\n영창 속도가 빠른 범위 정술로 방해해야 한다. [END]"
+        },
+        {
+            "offset": 22856,
+            "string": "「ルーン」のうち直接攻撃に特化したパーツ。[LINE]\nいちど飲み込まれると消化されんばかりに[LINE]\n噛み砕かれる。頭上に注意せよ。[END]",
+            "original_bytes_length": 113,
+            "available_bytes_size": 119,
+            "translation": "「룬」 중 직접 공격에 특화된 부분. [LINE]\n한 번 삼켜지면 소화되지 않을 만큼 [LINE]\n물어뜯긴다. 머리 위에 주의하라. [END]"
+        },
+        {
+            "offset": 22976,
+            "string": "生命の集合体、「ルーン」のパーツ。[LINE]\n他のパーツにエネルギーを供給し、[LINE]\n再生させる能力を持つ。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "생명의 집합체, 「룬」의 부분. [LINE]\n다른 부분에 에너지를 공급하고, [LINE]\n재생시키는 능력을 가진다. [END]"
+        },
+        {
+            "offset": 23072,
+            "string": "誰かに似ている気もする人型兵器？[LINE]\n心の中の妖精さんが具現化したのか？[LINE]\n飛び道具をやになるくらい連射する。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "누군가 닮았다고 느껴지는 인류 무기? [LINE]\n마음 속의 요정이 구현화한 것인가? [LINE]\n비행 도구를 불에 태울 정도로 연사한다. [END]"
+        },
+        {
+            "offset": 23176,
+            "string": "異常進化した昆虫と見られるが、その知能は[LINE]\n具現結晶化を行える程。パーティキャラを[LINE]\n具現化させ、襲わせてくる。[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "이상 진화한 곤충으로 보이지만, 그 지능은 [LINE]\n구현 결정화를 할 정도. 파티 캐릭터를 [LINE]\n구현화시켜, 습격시킨다. [END]"
+        },
+        {
+            "offset": 23288,
+            "string": "かつて、鬼神の異名を取り、七将軍を[LINE]\n結成したとされる男がいた。だが、その男は[LINE]\n何者かによって暗殺されたと言われている。[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "한때, 귀신의 별명을 얻고, 칠장군을 [LINE]\n결성했다고 알려진 남자가 있었다. 그러나, 그 남자는 [LINE]\n누군가에 의해 암살당했다고 한다. [END]"
+        },
+        {
+            "offset": 23408,
+            "string": "沈没船に住み着いた巨大ダコ。[LINE]\n攻撃が激しいので、ほとんどの状態異常[LINE]\nが効くことを利用して攻めたてよう。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "침몰선에 서식하는 거대 문어.[LINE]\n공격이 격해, 대부분의 상태 이상이[LINE]\n통하는 것을 이용해 몰아붙이자. [END]"
+        },
+        {
+            "offset": 23512,
+            "string": "全てがコングマンそっくりで誰にも見分けが[LINE]\nつかないぞ！　いったいどこが違うのか[LINE]\nさっぱりわかりません！[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "모두 콩맨과 똑같아서 누구에게도 구별이 [LINE]\n안 된다! 도대체 어디가 다른지 [LINE]\n전혀 알 수 없습니다! [END]"
+        },
+        {
+            "offset": 23616,
+            "string": "闘技場のチャンピオンとしての誇りに[LINE]\n満ち溢れたナイスタフガイ。[LINE]\n殴られずに殴るのがいちばんよい。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "투기장의 챔피언으로서의 자부심에 [LINE]\n넘쳐 흐르는 나이스타프가이. [LINE]\n맞지 않고 맞는 것이 가장 좋다. [END]"
+        },
+        {
+            "offset": 23712,
+            "string": "意思を持った爆発物。[LINE]\n密かに近寄って爆発する危険な敵。[LINE]\n耐性属性での攻撃は自殺行為そのもの。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "의지를 가진 폭발물. [LINE]\n은밀하게 가까이 다가와 폭발하는 위험한 적. [LINE]\n내성 속성으로의 공격은 자살행위 그 자체다. [END]"
+        },
+        {
+            "offset": 23808,
+            "string": "後方支援用の移動式砲台。[LINE]\n遠距離だけでなく近距離からの攻撃も強力。[LINE]\n後方の敵に対しても攻撃してくる。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "후방 지원용 이동식 포대. [LINE]\n원거리뿐만 아니라 근거리에서의 공격도 강력. [LINE]\n후방의 적에 대해서도 공격해 온다. [END]"
+        },
+        {
+            "offset": 23912,
+            "string": "暗黒剣士の魂が乗り移った漆黒の鎧。[LINE]\n火水地風、それぞれの属性剣には[LINE]\n熱毒、睡眠、石化、衰弱の効果を持つ。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "암흑검사의 영혼이 타계한 칠흑의 갑옷. [LINE]\n불, 물, 땅, 바람, 각각의 속성 검에는 [LINE]\n열독, 수면, 석화, 쇠약의 효과를 가진다. [END]"
+        },
+        {
+            "offset": 24016,
+            "string": "最新の支援用爆撃生体兵器。[LINE]\nミサイルに術攻撃力ダウンの効果を持つ。[LINE]\n[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "최신의 지원용 폭격 생체 무기. [LINE]\n미사일에 마법 공격력 다운의 효과를 가진다. [LINE]\n[END]"
+        },
+        {
+            "offset": 24088,
+            "string": "ダイクロフトを警護する生体兵器。[LINE]\n全ての属性の中級晶術を操る事ができる。[LINE]\n始めに倒しておくのがベスト。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "다이크로프트를 경호하는 생체 무기. [LINE]\n모든 속성의 중급 정술을 다룰 수 있다. [LINE]\n처음에 쓰러뜨려 두는 것이 베스트다. [END]"
+        },
+        {
+            "offset": 24192,
+            "string": "ダイクロフトに配備された警護生体兵器。[LINE]\n近距離での戦闘を得意とするが、[LINE]\n後方からビームで援護してくる事もある。[END]",
+            "original_bytes_length": 109,
+            "available_bytes_size": 111,
+            "translation": "다이크로프트에 배치된 경호 생체 무기. [LINE]\n근거리에서의 전투를 잘하나, [LINE]\n후방에서 빔으로 지원해 오는 경우도 있다. [END]"
+        },
+        {
+            "offset": 24304,
+            "string": "トラッシュマウンテンにお宝を求めて入った[LINE]\nトレジャーハンターの末路。[LINE]\n全ての攻撃に「石化」の効果を持つ。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "트래시마운틴에 보물을 찾으러 들어간 [LINE]\n트레져헌터의 최후. [LINE]\n모든 공격에「석화」의 효과를 가진다. [END]"
+        },
+        {
+            "offset": 24408,
+            "string": "人の怨念が具現化した姿。[LINE]\n全ての攻撃に「封印」の効果を持つ。[LINE]\n[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "사람의 원한이 구현화한 모습. [LINE]\n모든 공격에「봉인」의 효과를 가진다. [LINE]\n[END]"
+        },
+        {
+            "offset": 24472,
+            "string": "劣悪な環境に生息するヒル。[LINE]\n全ての攻撃に「熱毒」の効果を持つ。[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "열악한 환경에 서식하는 거머리. [LINE]\n모든 공격에 「열독」의 효과를 가진다. [LINE]\n[END]"
+        },
+        {
+            "offset": 24536,
+            "string": "トラッシュマウンテンのガスと光の結晶体。[LINE]\n全ての攻撃に「マヒ」の効果を持つ。[LINE]\nまた、ＨＰが低くなると分裂する事がある。[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "트래시마운틴의 가스와 빛의 결정체. [LINE]\n모든 공격에「마비」의 효과를 가진다. [LINE]\n또한, HP가 낮아지면 분열하는 경우가 있다. [END]"
+        },
+        {
+            "offset": 24656,
+            "string": "火の攻撃属性を持つ鳥。[LINE]\n耐性属性の攻撃をするとパワーアップし、[LINE]\n攻撃力が激増する。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "불의 공격 속성을 가진 새. [LINE]\n내성 속성의 공격을 하면 파워업하고, [LINE]\n공격력이 격증한다. [END]"
+        },
+        {
+            "offset": 24744,
+            "string": "火の攻撃属性を持つコウモリ。[LINE]\n「毒電波」攻撃で熱毒状態になる。[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "불의 공격 속성을 가진 박쥐. [LINE]\n「독전파」 공격으로 열독 상태가 된다. [LINE]\n[END]"
+        },
+        {
+            "offset": 24808,
+            "string": "火の攻撃属性と、火属性晶術を操る水棲生物。[LINE]\n時間がたつと、強力な火属性晶術を[LINE]\n使ってくるので早めに倒したい。[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "불의 공격 속성과, 불 속성 정술을 다루는 수생생물. [LINE]\n시간이 지나면, 강력한 불 속성 정술을 [LINE]\n사용해 오니 빨리 쓰러뜨리고 싶다. [END]"
+        },
+        {
+            "offset": 24920,
+            "string": "局地防衛用の機動生体兵器。[LINE]\nブレイク時に強力な反撃をしてくる。[LINE]\n時には勇気を持って突撃すべし！[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "지역 방어용 기동 생체 무기. [LINE]\n브레이크 시에 강력한 반격을 해 온다. [LINE]\n때로는 용기를 가지고 돌격해야 한다! [END]"
+        },
+        {
+            "offset": 25016,
+            "string": "空に浮かぶ謎の鉱石。[LINE]\nジャンプすると反撃されて近づけないので、[LINE]\n遠距離攻撃から地面に落として接近しよう。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "하늘에 떠 있는 수수께끼의 광석. [LINE]\n점프하면 반격당해 가까이 갈 수 없으니, [LINE]\n원거리 공격에서 땅에 떨어뜨려 접근하자. [END]"
+        },
+        {
+            "offset": 25120,
+            "string": "大きな角を持つドラゴンの一種。[LINE]\n強力なファイアブレスとファイアボールを[LINE]\n吐く。ガード後の反撃に注意。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "큰 뿔을 가진 드래곤의 일종. [LINE]\n강력한 파이어 브레스와 파이어 볼을 [LINE]\n뱉는다. 가드 후의 반격에 주의. [END]"
+        },
+        {
+            "offset": 25224,
+            "string": "自立歩行型支援砲台。[LINE]\n足元から放たれる「エナジーブレット」は、[LINE]\nマヒになってしまうので注意。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "자립 보행형 지원 포대. [LINE]\n발밑에서 발사되는「에너지 블렛」은, [LINE]\n마비가 되어 버리니 주의. [END]"
+        },
+        {
+            "offset": 25320,
+            "string": "最新型ＨＳ、ＯＢＨＳ００２に身を包んだ[LINE]\nオベロン社員。多くの弱点を克服したが、[LINE]\n水分の浸入による錆は克服できなかった……[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "최신형 HS, OBHS002에 몸을 감싼 [LINE]\n오베론 직원. 많은 약점을 극복했지만, [LINE]\n수분의 침입에 의한 녹은 극복할 수 없었다…… [END]"
+        },
+        {
+            "offset": 25440,
+            "string": "頭部に大量のミサイルを備える迎撃ユニット。[LINE]\nガード後に暴走して突撃してくる事がある。[LINE]\n[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "머리에 대량의 미사일을 갖춘 대응 유닛. [LINE]\n가드 후에 폭주하여 돌격해 오는 경우가 있다. [LINE]\n[END]"
+        },
+        {
+            "offset": 25528,
+            "string": "侵入者を発見すると、警報で容赦なく[LINE]\n応援を呼ぶ警備ロボ。敵でいっぱいになる[LINE]\n前に倒してしまおう。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "침입자를 발견하면, 경보로 가차 없이 [LINE]\n지원을 부르는 경비 로봇. 적으로 가득 차는 [LINE]\n앞에 쓰러뜨리자. [END]"
+        },
+        {
+            "offset": 25624,
+            "string": "アクアヴェイル地方に生息するタビーの[LINE]\n進化した姿。「怒りの咆哮」でパワーアップ[LINE]\n時は、強力な攻撃を行ってくる。[END]",
+            "original_bytes_length": 109,
+            "available_bytes_size": 111,
+            "translation": "아쿠아베일 지방에 서식하는 태비의 [LINE]\n진화한 모습. 「분노의 포효」로 파워업 [LINE]\n시에, 강력한 공격을 해 온다. [END]"
+        },
+        {
+            "offset": 25736,
+            "string": "強固な鱗を持つバジリスクの王様。[LINE]\n空中に敵がいると回転攻撃で襲ってくる。[LINE]\n[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "강한 비늘을 가진 바질리스크의 왕님. [LINE]\n하늘에 적이 있으면 회전 공격으로 습격해 온다. [LINE]\n[END]"
+        },
+        {
+            "offset": 25816,
+            "string": "熱毒と封印、ふたつの状態異常を操るヘビ。[LINE]\n噛み付かれると封印に、[LINE]\n毒液を浴びると熱毒になる。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "열독과 봉인, 두 가지 상태 이상을 다루는 뱀. [LINE]\n물리면 봉인에, [LINE]\n독액을 받으면 열독이 된다. [END]"
+        },
+        {
+            "offset": 25912,
+            "string": "外殻に適応するために進化した小鳥。[LINE]\nはばたきで小さな竜巻を起こし、[LINE]\n相手を吹き飛ばす事ができる。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "외피에 적응하기 위해 진화한 작은 새. [LINE]\n날개짓으로 작은 회오리를 일으켜, [LINE]\n상대를 날려버릴 수 있다. [END]"
+        },
+        {
+            "offset": 26008,
+            "string": "風属性晶術を操る水槽生物。[LINE]\n距離に応じて使う晶術が変化する。[LINE]\n吐き出す水は、水属性と風属性の効果を持つ。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "바람 속성 정술을 다루는 수조 생물. [LINE]\n거리에 따라 사용하는 정술이 변화한다. [LINE]\n뱉는 물은, 물 속성과 바람 속성의 효과를 가진다. [END]"
+        },
+        {
+            "offset": 26112,
+            "string": "素早い動きでこちらの後ろから攻撃してくる[LINE]\n厄介な敵。ダメージは少ないが怪力の持ち主[LINE]\nで、全ての攻撃で吹き飛ばされてしまう。[END]",
+            "original_bytes_length": 121,
+            "available_bytes_size": 127,
+            "translation": "빠른 움직임으로 여기저기에서 공격해 오는 [LINE]\n성가신 적. 데미지는 적지만 강력한 힘의 소유자 [LINE]\n로, 모든 공격으로 날아가 버린다. [END]"
+        },
+        {
+            "offset": 26240,
+            "string": "マヒになる体液を体内に持つ不定形生物。[LINE]\n距離によって攻撃方法が変化し、[LINE]\n吐き出す溶解液は防御力がダウンしてしまう。[END]",
+            "original_bytes_length": 113,
+            "available_bytes_size": 119,
+            "translation": "마비가 되는 체액을 체내에 가지고 있는 불규칙한 생물. [LINE]\n거리에 따라 공격 방법이 변화하며, [LINE]\n뱉는 용해액은 방어력이 다운되어 버린다. [END]"
+        },
+        {
+            "offset": 26360,
+            "string": "回復晶術を扱う生体兵器。[LINE]\n回復晶術以外にも攻撃晶術も使う事ができる。[LINE]\n[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71,
+            "translation": "회복 정술을 다루는 생체 무기. [LINE]\n회복 정술 이외에도 공격 정술도 사용할 수 있다. [LINE]\n[END]"
+        },
+        {
+            "offset": 26432,
+            "string": "火属性晶術を操る事に特化された生体兵器。[LINE]\n時間経過と共に、晶術の威力がアップする。[LINE]\n火属性耐性必須！[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "불 속성 정술을 다루는 데 특화된 생체 무기. [LINE]\n시간이 지날수록, 정술의 위력이 업그레이드된다. [LINE]\n불 속성 내성 필수! [END]"
+        },
+        {
+            "offset": 26536,
+            "string": "催眠波を放つ、動きの素早いコウモリ。[LINE]\nそれ以外にも攻撃力ダウンの効果が[LINE]\nある攻撃をしてくる。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "최면파를 방출하는, 움직임이 빠른 박쥐. [LINE]\n그 외에도 공격력 다운의 효과가 [LINE]\n있는 공격을 해 온다. [END]"
+        },
+        {
+            "offset": 26632,
+            "string": "ファンダリアの奥地に生息していた蛾の[LINE]\n凶暴化した姿。以前より攻撃的になり、[LINE]\nマヒになる燐粉を撒き散らす。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "팬더리아의 깊은 곳에 서식하던 나방의 [LINE]\n凶暴화한 모습. 이전보다 공격적으로 되어, [LINE]\n마비가 되는 인분을 흩뿌린다. [END]"
+        },
+        {
+            "offset": 26736,
+            "string": "天上人の骸骨がモンスター化した姿。[LINE]\n挟み撃ちなどで追い詰めると、[LINE]\n攻撃が激しくなる。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "천상인의 해골이 몬스터화한 모습. [LINE]\n틈새 공격 등으로 몰아붙이면, [LINE]\n공격이 격해진다. [END]"
+        },
+        {
+            "offset": 26824,
+            "string": "外殻の上を不気味にさまよう不死者。[LINE]\nＨＰが減ると、狂ったように攻撃してくる。[LINE]\n[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "외피 위를 무시무시하게 배회하는 불사자. [LINE]\nHP가 줄면, 미쳐날듯이 공격해 온다. [LINE]\n[END]"
+        },
+        {
+            "offset": 26904,
+            "string": "闇属性晶術を操る巨木。[LINE]\n耐性属性で攻撃すると、[LINE]\n強力な攻撃で反撃してくる。[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "암흑 속성 정술을 다루는 거목. [LINE]\n내성 속성으로 공격하면, [LINE]\n강력한 공격으로 반격해 온다. [END]"
+        },
+        {
+            "offset": 26984,
+            "string": "攻撃力ダウン効果を持つ爆弾を放つ[LINE]\n爆撃生体兵器。時間がたつと、爆弾を落とす[LINE]\n攻撃を行ってくる。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "공격력 다운 효과를 가진 폭탄을 던지는 [LINE]\n폭격 생체 무기. 시간이 지나면, 폭탄을 떨어뜨리는 [LINE]\n공격을 해 온다. [END]"
+        },
+        {
+            "offset": 27080,
+            "string": "ロディオンを警護する生体兵器。[LINE]\n時間がたつとパワーアップし、攻撃力が[LINE]\nアップするので早めの対処を！[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "로디온을 경호하는 생체 무기. [LINE]\n시간이 지나면 파워업하고, 공격력이 [LINE]\n업그레이드되니 빨리 대처를! [END]"
+        },
+        {
+            "offset": 27184,
+            "string": "外敵を排除するためだけの目的に作られた[LINE]\n機械。防御力をダウンさせる効果を持つ[LINE]\nミサイルを乱射してくる。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "외적을 제거하기 위한 목적으로 만들어진 [LINE]\n기계. 방어력을 다운시키는 효과를 가진 [LINE]\n미사일을 난사해 온다. [END]"
+        },
+        {
+            "offset": 27288,
+            "string": "動きの素早いカマキリ型モンスター。[LINE]\n鎌に斬りつけられると、目がくらんで[LINE]\n命中率が下がってしまう。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "움직임이 빠른 카마키리형 몬스터. [LINE]\n낫으로 베어지면, 눈이 부셔져 [LINE]\n명중률이 낮아져 버린다. [END]"
+        },
+        {
+            "offset": 27384,
+            "string": "クラウディス内を飛び回る昆虫。[LINE]\n口から炎を吐き、ブラスト時には[LINE]\n体の回りに炎をまとう。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "클라우디스 내부를 날아다니는 곤충. [LINE]\n입에서 불을 뿜고, 블라스트 시에는 [LINE]\n몸 주변에 불을 둘러싼다. [END]"
+        },
+        {
+            "offset": 27472,
+            "string": "クラウディスに生息する実験植物。[LINE]\n攻撃的で、風属性の晶術を操る。[LINE]\n近くにいると飛び上がって踏み潰してくる。[END]",
+            "original_bytes_length": 105,
+            "available_bytes_size": 111,
+            "translation": "클라우디스에 서식하는 실험 식물. [LINE]\n공격적이며, 바람 속성 정술을 다룬다. [LINE]\n가까이 있으면 뛰어올라 밟아버려 온다. [END]"
+        },
+        {
+            "offset": 27584,
+            "string": "野生のピーコックが凶暴化した姿。[LINE]\n自らは飛ぶ事はできないため、[LINE]\n飛んでいるものを見るとすぐに攻撃してくる。[END]",
+            "original_bytes_length": 105,
+            "available_bytes_size": 111,
+            "translation": "야생의 피콕이 凶暴화한 모습. [LINE]\n스스로는 날 수 없어, [LINE]\n날고 있는 것을 보면 즉시 공격해 온다. [END]"
+        },
+        {
+            "offset": 27696,
+            "string": "暴れん坊の白猿。[LINE]\n投げてくる岩は、気を失うほど硬い。[LINE]\n暴れ始めると手がつけられなくなる。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "난폭한 백원숭이. [LINE]\n던져 오는 바위는, 기절할 정도로 단단하다. [LINE]\n난폭해지면 손을 놓을 수 없어진다. [END]"
+        },
+        {
+            "offset": 27784,
+            "string": "石化ガスを吐く空飛ぶイカ。[LINE]\n隊列によって前衛を援護したり[LINE]\n晶術を使ったり臨機応変に戦う。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "석화 가스를 뿜는 날아다니는 오징어. [LINE]\n대열에 따라 선봉을 지원하거나 [LINE]\n정술을 사용하거나 임기응변으로 싸운다. [END]"
+        },
+        {
+            "offset": 27872,
+            "string": "普段は余り移動しないが近づくと[LINE]\n攻撃してくる。近づきすぎると[LINE]\n血を吸われて回復するので注意！[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "보통은 많이 움직이지 않지만 가까워지면 [LINE]\n공격해 온다. 가까이 가면 [LINE]\n피를 빨려 회복하기 때문에 주의! [END]"
+        },
+        {
+            "offset": 27968,
+            "string": "闇属性を持つ三つ首のヘビ。[LINE]\n噛み付かれたり、毒液を受けると[LINE]\n封印状態になる事がある。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "암흑 속성을 가진 세 머리의 뱀. [LINE]\n물리면, 독액을 받으면 [LINE]\n봉인 상태가 되는 경우가 있다. [END]"
+        },
+        {
+            "offset": 28056,
+            "string": "アンスズーンを徘徊する異形のモンスター。[LINE]\n体液に触れるとたちどころに[LINE]\n封印状態になるので注意が必要。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "안스준을 배회하는 이형의 몬스터. [LINE]\n체액에 닿으면 즉시 [LINE]\n봉인 상태가 되니 주의가 필요하다. [END]"
+        },
+        {
+            "offset": 28160,
+            "string": "ベルクラントの砲撃で大地と共に浮き上がり、[LINE]\n凶暴化したモンスター。尻尾での攻撃を[LINE]\n得意とし、集団で弱いものを狙ってくる。[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "벨크란트의 포격으로 대지와 함께 떠오르며, [LINE]\n凶暴화한 몬스터. 꼬리로의 공격을 [LINE]\n특기로 하며, 집단으로 약한 것을 노리고 온다. [END]"
+        },
+        {
+            "offset": 28280,
+            "string": "ベルクラントの砲撃で大地と共に浮き上がり、[LINE]\n凶暴化したモンスター。体力が減るか[LINE]\n残り一体になると暴れだす……[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "벨크란트의 포격으로 대지와 함께 떠오르며, [LINE]\n凶暴화한 몬스터. 체력이 줄거나 [LINE]\n남은 한 마리가 되면 난동을 부린다…… [END]"
+        },
+        {
+            "offset": 28392,
+            "string": "ベルクラントの砲撃で大地と共に浮き上がり、[LINE]\n凶暴化したモンスター。強力な毒針を持ち、[LINE]\n刺さるとほぼ確実に毒になる。[END]",
+            "original_bytes_length": 113,
+            "available_bytes_size": 119,
+            "translation": "벨크란트의 포격으로 대지와 함께 떠오르며, [LINE]\n凶暴화한 몬스터. 강력한 독침을 가지며, [LINE]\n찔리면 거의 확실히 독이 된다. [END]"
+        },
+        {
+            "offset": 28512,
+            "string": "ベルクラントの砲撃で大地と共に浮き上がり、[LINE]\n凶暴化したモンスター。[LINE]\n地属性晶術を得意とする。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "벨크란트의 포격으로 대지와 함께 떠오르며, [LINE]\n凶暴화한 몬스터. [LINE]\n지속 속성 정술을 특기로 한다. [END]"
+        },
+        {
+            "offset": 28608,
+            "string": "……[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "……[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 28616,
+            "string": "神殿に潜む霧の怪物。[LINE]\n闇属性の晶術を操り、直接攻撃では[LINE]\n防御力が下がってしまう厄介な相手。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "신전에 숨은 안개의 몬스터. [LINE]\n암흑 속성 정술을 다루며, 직접 공격으로는 [LINE]\n방어력이 낮아져 버리는 성가신 상대. [END]"
+        },
+        {
+            "offset": 28712,
+            "string": "闇属性の攻撃を持つモンスター。[LINE]\n攻撃を受けると高確率で[LINE]\n攻撃力が下がってしまう。[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "암흑 속성의 공격을 가진 몬스터. [LINE]\n공격을 받으면 높은 확률로 [LINE]\n공격력이 낮아져 버린다. [END]"
+        },
+        {
+            "offset": 28792,
+            "string": "神殿を護る石像。[LINE]\nブラスト時の攻撃はガードを[LINE]\n打ち砕かれるので注意。[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "신전을 보호하는 석상. [LINE]\n블라스트 시의 공격은 가드를 [LINE]\n깨뜨리니 주의. [END]"
+        },
+        {
+            "offset": 28864,
+            "string": "Ｒキーを護る、鎧戦士。[LINE]\n火水地風、それぞれの属性を持つ剣を操る。[LINE]\nまた、剣の力を使い属性技も使ってくる。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "R 키를 보호하는, 갑옷 전사. [LINE]\n불물지풍, 각각의 속성을 가진 검을 다룬다. [LINE]\n또한, 검의 힘을 이용한 속성 기술도 사용해 온다. [END]"
+        },
+        {
+            "offset": 28968,
+            "string": "水属性と火属性、両方の属性を持つ[LINE]\n攻撃をするモンスター。[LINE]\n尻尾での攻撃はダウン攻撃なので注意！[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "물 속성과 불 속성, 양쪽의 속성을 가진 [LINE]\n공격을 하는 몬스터. [LINE]\n꼬리로의 공격은 다운 공격이니 주의! [END]"
+        },
+        {
+            "offset": 29064,
+            "string": "触手が青いのでブルーローパー。[LINE]\nＨＰが減ってくると自爆する。[LINE]\n自爆しそうになったら離れるのが吉。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "촉수가 푸른 것으로 블루로퍼. [LINE]\nHP가 줄어들면 자폭한다. [LINE]\n자폭할 것 같아지면 멀어지는 것이 좋다. [END]"
+        },
+        {
+            "offset": 29160,
+            "string": "ちょろちょろと動き回る厄介なヒトデ。[LINE]\n闇の攻撃属性を持つ。[LINE]\n[END]",
+            "original_bytes_length": 59,
+            "available_bytes_size": 63,
+            "translation": "총총거리며 움직이는 성가신 해변 둥지. [LINE]\n암흑의 공격 속성을 가진다. [LINE]\n[END]"
+        },
+        {
+            "offset": 29224,
+            "string": "オベロン社の科学技術で改造された怪物。[LINE]\n無理な強化のため、怒り出すと暴走するなど[LINE]\n不安定な部分が見受けられる。[END]",
+            "original_bytes_length": 109,
+            "available_bytes_size": 111,
+            "translation": "오베론 사의 과학 기술로 개조된 몬스터. [LINE]\n무리한 강화로, 화를 내면 폭주하는 등 [LINE]\n불안정한 부분이 보이는 것으로 보인다. [END]"
+        },
+        {
+            "offset": 29336,
+            "string": "カズノコと呼ばれる伝説のイトノコギリを[LINE]\n作ることを生業とすることを頑なに拒んで[LINE]\nいる友達の近所に旅行したジェントルマン。[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "카즈노코라 불리는 전설의 물벌레를 [LINE]\n만드는 것을 직업으로 하는 것을 완강히 거부하고 [LINE]\n있는 친구의 근처로 여행한 젠틀맨. [END]"
+        },
+        {
+            "offset": 29456,
+            "string": "ピータンと呼ばれるひよこの愛称とは似ても[LINE]\n似つかぬ足の裏を弱点にする日が来ることを[LINE]\n密かに夢見ていない様子のジェントルマン。[END]",
+            "original_bytes_length": 123,
+            "available_bytes_size": 127,
+            "translation": "피탄이라 불리는 병아리의 애칭과는 닮지도 [LINE]\n않는 발바닥을 약점으로 하는 날이 올 것을 [LINE]\n비밀리에 꿈꾸지 않는 모습의 젠틀맨. [END]"
+        },
+        {
+            "offset": 29584,
+            "string": "ワカメと呼ばれる亀の転生した姿とはいかん[LINE]\nともしがたいことに極度の焦燥感を感じた[LINE]\nことのないことを自慢するジェントルマン。[END]",
+            "original_bytes_length": 121,
+            "available_bytes_size": 127,
+            "translation": "와카메라 불리는 거북이의 전생한 모습과는 어찌 [LINE]\n할 수 없는 일에 극도의 초조함을 느낀 [LINE]\n적이 없는 것을 자랑하는 젠틀맨. [END]"
+        },
+        {
+            "offset": 29712,
+            "string": "メンタイと呼ばれる鯛の守護神と噂される[LINE]\nことをあまり耳にしないことに一抹の不安[LINE]\nを覚えることは一切ないジェントルマン。[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "멘타이라 불리는 물고기의 수호신으로 소문되는 [LINE]\n것을 거의 듣지 않는 것에 한희의 불안 [LINE]\n을 느끼는 일은 전혀 없는 젠틀맨. [END]"
+        },
+        {
+            "offset": 29832,
+            "string": "もふもふしたかわいい生き物。[LINE]\nお腹の袋には「運命」と「再誕」と「永遠」[LINE]\nが入っています。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "푹신푹신한 귀여운 생물. [LINE]\n배의 주머니에는 「운명」과 「재탄생」과 「영원」 [LINE]\n이 들어 있습니다. [END]"
+        },
+        {
+            "offset": 29920,
+            "string": "ファンダリア地方の森に多く生える照葉樹。[LINE]\n食べると眠くなる実がなっている。[LINE]\n[Stahn]は寝ると起きないので注意……[END]",
+            "original_bytes_length": 108,
+            "available_bytes_size": 111,
+            "translation": "팬더리아 지방의 숲에 많이 자라는 열엽수. [LINE]\n먹으면 졸리게 하는 열매가 달려 있다. [LINE]\n[Stahn]은 자면 일어나지 않으니 주의…… [END]"
+        },
+        {
+            "offset": 30032,
+            "string": "トサカが特徴の中型の鳥。[LINE]\n羽に特有の毒が混ざっており、[LINE]\nまれに目がくらんで命中率が下がる。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "머리둥근 특징의 중형 새. [LINE]\n깃털에 특유의 독이 섞여 있어, [LINE]\n가끔 눈이 부셔 명중률이 낮아진다. [END]"
+        },
+        {
+            "offset": 30128,
+            "string": "ファンダリア地方に生息する小鳥。[LINE]\n集団で生活し、外敵と判断すれば、[LINE]\n一団となって襲ってくる。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "팬더리아 지방에 서식하는 작은 새. [LINE]\n집단으로 생활하며, 외적으로 판단하면, [LINE]\n일평생과 함께 습격해 온다. [END]"
+        },
+        {
+            "offset": 30224,
+            "string": "なんらかの影響で凶暴化したクマ。[LINE]\n後方から、腕をゴムのように伸ばす攻撃は、[LINE]\n非常に攻撃範囲が広いので注意！[END]",
+            "original_bytes_length": 105,
+            "available_bytes_size": 111,
+            "translation": "뭔가의 영향으로 포악해진 곰.[LINE]\n뒤쪽에서 팔을 고무처럼 뻗는 공격은,[LINE]\n공격 범위가 매우 넓으니 주의![END]"
+        },
+        {
+            "offset": 30336,
+            "string": "何らかの影響で、突然変異したウサギ。[LINE]\n頭も賢くなり、特定の相手を[LINE]\n集団で狙ってくる事がある。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "어떤 영향으로, 돌연변이한 토끼. [LINE]\n머리도 똑똑해지고, 특정한 상대를 [LINE]\n집단으로 노리고 온다. [END]"
+        },
+        {
+            "offset": 30432,
+            "string": "遠隔攻撃ユニット。自動操縦に加え、[LINE]\nイレーヌの指示により攻撃目標を切り替える。[LINE]\nひとつずつ丁寧に破壊していくしかない。[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "원격 공격 유닛. 자동 조종에 더해, [LINE]\n이레인의 지시에 따라 공격 목표를 전환한다. [LINE]\n하나씩 세심하게 파괴해 가야 한다. [END]"
+        },
+        {
+            "offset": 30552,
+            "string": "神の眼の力を得て晶術をも操るようになる。[LINE]\n更に「ペネトレイト」を発動すると４発まで[LINE]\n攻撃に対してのけぞらなくなる強敵。[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "신의 눈의 힘을 얻어 정술을 다루게 된다. [LINE]\n더욱이 「페네트레이트」를 발동하면 4발까지 [LINE]\n공격에 대해 물러서지 않게 되는 강적. [END]"
+        },
+        {
+            "offset": 30672,
+            "string": "雇われ身の素早い盗賊。[LINE]\n自慢の脚力で、上空から石化毒を塗った[LINE]\nナイフを投げてくる。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "고용된 빠른 도적. [LINE]\n자랑하는 다리 힘으로, 상공에서 석화독을 바른 [LINE]\n나이프를 던져 온다. [END]"
+        },
+        {
+            "offset": 30760,
+            "string": "ファンダリア地方の森深くに生息する蛾。[LINE]\n非常に臆病な性格で、[LINE]\n常に相手との距離をとろうとする。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "팬더리아 지방의 깊은 숲에 서식하는 나방. [LINE]\n매우 소심한 성격으로, [LINE]\n항상 상대와의 거리를 두려고 한다. [END]"
+        },
+        {
+            "offset": 30856,
+            "string": "アクアヴェイルに生息するいたずら好きの[LINE]\nサル。岩を投げてくる攻撃は[LINE]\nいたずらではすまない。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "아쿠아베일에 서식하는 장난 좋아하는 [LINE]\n원숭이. 바위를 던져 오는 공격은 [LINE]\n장난으로는 끝나지 않는다. [END]"
+        },
+        {
+            "offset": 30952,
+            "string": "ハイデルベルグ地下に住み着くコウモリ。[LINE]\n雑食で、催眠波で眠らせてから[LINE]\n相手を捕食する。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "하이델베르그 지하에 살고 있는 박쥐. [LINE]\n잡식으로, 최면파로 재우고 나서 [LINE]\n상대를 포식한다. [END]"
+        },
+        {
+            "offset": 31040,
+            "string": "空中に漂う水分の結晶。[LINE]\n寒い地方によく現れ、寒い場所だと[LINE]\n一定の間隔で発生する場合がある。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "공중에 떠다니는 수분의 결정. [LINE]\n추운 지방에 자주 나타나며, 추운 곳이면 [LINE]\n일정한 간격으로 발생하는 경우가 있다. [END]"
+        },
+        {
+            "offset": 31136,
+            "string": "トウケイ城に仕える兵士。[LINE]\nピンチになると必殺の三連突きを[LINE]\n使ってくる。[END]",
+            "original_bytes_length": 69,
+            "available_bytes_size": 71,
+            "translation": "토케이성에 시종하는 병사. [LINE]\n핀치가 되면 필살의 삼연찌르기를 [LINE]\n사용해 온다. [END]"
+        },
+        {
+            "offset": 31208,
+            "string": "相手を石化させて食らう凶悪なモンスター。[LINE]\n背びれを大きく広げて回転しながら[LINE]\n飛び掛ってくる。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "상대를 석화시켜 먹는 흉악한 몬스터.[LINE]\n등지느러미를 크게 펴고 회전하면서[LINE]\n덮쳐온다.[END]"
+        },
+        {
+            "offset": 31304,
+            "string": "強靭な体を持つドラゴンの末裔。[LINE]\nファイアブレスとファイアボールを[LINE]\n使い分ける事ができる。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "강건한 몸을 가진 드래곤의 후예. [LINE]\n파이어브레스와 파이어 볼을 [LINE]\n사용할 수 있다. [END]"
+        },
+        {
+            "offset": 31392,
+            "string": "ドラゴンの様に硬いうろこを持つ昆虫。[LINE]\n風の晶術を操り、熱毒になる炎を吐く強敵。[LINE]\n[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "드래곤처럼 단단한 비늘을 가진 곤충. [LINE]\n바람의 정술을 다루며, 열독이 되는 불을 뿜는 강적. [LINE]\n[END]"
+        },
+        {
+            "offset": 31472,
+            "string": "モリュウ城を守る番犬。[LINE]\n回避率が高く、ブラストになると使う[LINE]\nショックウェイブは必ずマヒになってしまう。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "모류성을 지키는 경비견. [LINE]\n회피율이 높으며, 블라스트가 되면 사용하는 [LINE]\n쇼크웨이브는 반드시 마비가 된다. [END]"
+        },
+        {
+            "offset": 31576,
+            "string": "モリュウに雇われている傭兵。[LINE]\nナイフに痺れ毒をたっぷりと塗ってあり、[LINE]\n痺れている隙に、暗殺するのが得意。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "모류에 고용되어 있는 용병. [LINE]\n나이프에 마비독을 풍부히 바르고 있으며, [LINE]\n마비되어 있는 틈에, 암살하는 것이 특기. [END]"
+        },
+        {
+            "offset": 31680,
+            "string": "洞窟に生える光キノコ。[LINE]\n飛ばしてくる胞子に触れるとマヒになる。[LINE]\nまた、離れると晶術を使用してくる。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "동굴에 자라는 빛 버섯. [LINE]\n날려 오는 포자에 닿으면 마비가 된다. [LINE]\n또한, 멀어지면 정술을 사용해 온다. [END]"
+        },
+        {
+            "offset": 31784,
+            "string": "触ると痺れるゲル状物体。[LINE]\n物理攻撃に耐性を持ち、ピンチになると[LINE]\nまれに分裂する事がある。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "닿으면 마비되는 젤 상태 물체. [LINE]\n물리 공격에 저항을 가지며, 핀치가 되면 [LINE]\n가끔 분열하는 경우가 있다. [END]"
+        },
+        {
+            "offset": 31872,
+            "string": "洞窟に巣くう謎の生物。[LINE]\n体に似合わぬ大きな口で噛み付いてくる。[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "동굴에 둥지를 틀고 있는 수수께끼의 생물. [LINE]\n몸에 어울리지 않는 큰 입으로 물어온다. [LINE]\n[END]"
+        },
+        {
+            "offset": 31936,
+            "string": "バルックから召喚された生物。[LINE]\n高速で飛び回り、ＨＰが少なくなると[LINE]\n自爆するので注意が必要。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "발룩에서 소환된 생물. [LINE]\n고속으로 날아다니며, HP가 줄어들면 [LINE]\n자폭하기 때문에 주의가 필요하다. [END]"
+        },
+        {
+            "offset": 32032,
+            "string": "古代の力で動く岩人形。改良版。[LINE]\n全体的なパラメータアップと共に、[LINE]\n攻撃パターンも改良された。[END]",
+            "original_bytes_length": 91,
+            "available_bytes_size": 95,
+            "translation": "고대의 힘으로 움직이는 바위인형. 개량판. [LINE]\n전체적인 파라미터 업과 함께, [LINE]\n공격 패턴도 개량되었다. [END]"
+        },
+        {
+            "offset": 32128,
+            "string": "結界石をより戦闘に特化させたもの。[LINE]\n地属性の晶術を操り、[LINE]\n二種類のゴーレムを召喚する事が可能。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "결계석을 더 전투에 특화시킨 것. [LINE]\n지속 속성 정술을 다루며, [LINE]\n두 종류의 골렘을 소환하는 것이 가능하다. [END]"
+        },
+        {
+            "offset": 32224,
+            "string": "カルバレイスの神殿に仕える男性神官。[LINE]\nビショップよりランクが高く、[LINE]\n肉体的にも精神的にも鍛えられている。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "칼바레이스의 신전에 시종하는 남성 신관. [LINE]\n비숍보다 랭크가 높으며, [LINE]\n육체적으로도 정신적으로도 단련되어 있다. [END]"
+        },
+        {
+            "offset": 32328,
+            "string": "カルバレイスの神殿に仕える女性神官。[LINE]\nプリーストよりランクが高く、[LINE]\n上位の晶術も扱う事ができる。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "칼바레이스의 신전에 시종하는 여성 신관. [LINE]\n프리스트보다 랭크가 높으며, [LINE]\n상위의 정술도 다룰 수 있다. [END]"
+        },
+        {
+            "offset": 32424,
+            "string": "砂漠に生息するハゲワシの一種。[LINE]\n道に迷った旅人を、得意のファイアボール[LINE]\nで焼いて食べる。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "사막에 서식하는 매의 일종. [LINE]\n길을 잃은 여행자를, 특기의 파이어 볼 [LINE]\n으로 구워 먹는다. [END]"
+        },
+        {
+            "offset": 32512,
+            "string": "ケイブクィーン本体とは別の意志を持った[LINE]\n肩部にある複数のうごめく口。[LINE]\n晶術を使うが晶術に弱い。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "케이브퀸 본체와는 다른 의지를 가진 [LINE]\n어깨 부분에 있는 여러 개의 기어오는 입. [LINE]\n정술을 사용하지만 정술에 약하다. [END]"
+        },
+        {
+            "offset": 32608,
+            "string": "ケイブクィーン本体とは別の意志を持ち[LINE]\n行動している生物。[LINE]\n人間でも軽々と飲み込んでしまう。[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "케이브퀸 본체와는 다른 의지를 가지고 [LINE]\n행동하고 있는 생물. [LINE]\n사람이라도 쉽게 삼켜 버린다. [END]"
+        },
+        {
+            "offset": 32704,
+            "string": "ケイブシャークが融合した「らしい」生物。[LINE]\n各部位がそれぞれ意志を持ち攻撃してくる。[LINE]\nケイブシャークを生み出す事もある。[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "케이브샤크가 융합된 「것 같은」 생물. [LINE]\n각 부위가 각각 의지를 가지고 공격해 온다. [LINE]\n케이브샤크를 만들어 내기도 한다. [END]"
+        },
+        {
+            "offset": 32824,
+            "string": "戦士の戦いにアイテムなぞ持ち込む事を[LINE]\n嫌う彼の前でアイテムを使うのは危険だ。[LINE]\nが、危険を省みぬからこそここにいる筈だ！[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "전사의 전투에 아이템 따위를 가지고 오는 것을 [LINE]\n싫어하는 그의 앞에서 아이템을 사용하는 것은 위험하다. [LINE]\n하지만, 위험을 무시하는 바로 그 이유로 여기에 있는 것이다! [END]"
+        },
+        {
+            "offset": 32944,
+            "string": "光属性晶術を操る、空飛ぶイカ。[LINE]\n腕を伸ばして縛り上げてくる攻撃が得意。[LINE]\n[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "빛 속성 정술을 다루는, 날아다니는 오징어. [LINE]\n팔을 뻗어 묶어 올려 오는 공격이 특기. [LINE]\n[END]"
+        },
+        {
+            "offset": 33016,
+            "string": "ハイデルベルグ城を襲った反乱軍の兵士。[LINE]\n正規軍の中にも反乱軍に加わったものもおり、[LINE]\n兵士間の統率が取れている。[END]",
+            "original_bytes_length": 109,
+            "available_bytes_size": 111,
+            "translation": "하이델베르그성을 습격한 반란군의 병사. [LINE]\n정규군 중에도 반란군에 가담한 자도 있어, [LINE]\n병사 사이의 통제가 되어 있다. [END]"
+        },
+        {
+            "offset": 33128,
+            "string": "フィッツガルド地方に生える広葉樹が、[LINE]\nレンズの影響でモンスター化した姿。[LINE]\n地属性の晶術を自在に操る。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "피츠가르드 지방에 자라는 활엽수가, [LINE]\n렌즈의 영향으로 몬스터화한 모습. [LINE]\n지속 속성 정술을 자유롭게 다룬다. [END]"
+        },
+        {
+            "offset": 33232,
+            "string": "フィッツガルド地方に生息するイノシシ。[LINE]\n自然が多く残るこの地の生き物は、[LINE]\n野性味にあふれており、少々凶暴。[END]",
+            "original_bytes_length": 105,
+            "available_bytes_size": 111,
+            "translation": "피츠가르드 지방에 서식하는 멧돼지. [LINE]\n자연이 많이 남아 있는 이 지역의 생물은, [LINE]\n야성미에 넘쳐 있으며, 약간 흉포하다. [END]"
+        },
+        {
+            "offset": 33344,
+            "string": "フィッツガルド地方に生息するハチ。[LINE]\nセインガルド地方に生息するビーと同様に、[LINE]\n針に強力な毒を持っている。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "피츠가르드 지방에 서식하는 벌. [LINE]\n세인가르드 지방에 서식하는 비와 같이, [LINE]\n바늘에 강력한 독을 가지고 있다. [END]"
+        },
+        {
+            "offset": 33448,
+            "string": "炎の術剣技を極めたソーディアン・マスター。[LINE]\nその剣技は豪快かつ圧倒的。防御だけでなく、[LINE]\n時には勇気をもって踏み込め！[END]",
+            "original_bytes_length": 115,
+            "available_bytes_size": 119,
+            "translation": "불의 술검술을 극명한 소디언 마스터. [LINE]\n그 검술은 호화롭고 압도적. 방어뿐만 아니라, [LINE]\n때로는 용기를 가지고 밟아라! [END]"
+        },
+        {
+            "offset": 33568,
+            "string": "攻撃、晶術ともに凶悪で、[LINE]\n光・闇耐性をつけないとかなり厳しい。[LINE]\n詠唱を始めたら全力で阻止するしかない。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "공격, 정술 모두 흉악하며, [LINE]\n빛·어둠 저항을 붙이지 않으면 상당히 엄격하다. [LINE]\n연장을 시작하면 전력으로 저지해야 한다. [END]"
+        },
+        {
+            "offset": 33672,
+            "string": "天上軍の最新生体兵器。[LINE]\n強力な貫通レーザーと、ターゲットを[LINE]\n逃さない誘導レーザーを放ってくる。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "천상군의 최신 생체병기. [LINE]\n강력한 관통 레이저와, 타겟을 [LINE]\n놓치지 않는 유도 레이저를 발사해 온다. [END]"
+        },
+        {
+            "offset": 33768,
+            "string": "※非表示[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "※비표시[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 33784,
+            "string": "巨大な水棲生物。ぬるっとした身体で[LINE]\nすり抜けやすいため戦いにくく、[LINE]\n攻撃を三発まで受け流してしまう。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "거대한 수생생물. 미끄러운 몸으로 [LINE]\n빠져나가기 쉬워 전투하기 어렵고, [LINE]\n공격을 세 발까지 피해버린다. [END]"
+        },
+        {
+            "offset": 33888,
+            "string": "セインガルド王国に仕える兵士。[LINE]\nセインガルド兵を三人部下に持ち、一般兵は[LINE]\n上級兵の指示に必ず従わなければならない。[END]",
+            "original_bytes_length": 113,
+            "available_bytes_size": 119,
+            "translation": "세인가르드 왕국에 시종하는 병사. [LINE]\n세인가르드병을 세 명 부하로 두며, 일반병은 [LINE]\n상급병의 지시에 반드시 따라야 한다. [END]"
+        },
+        {
+            "offset": 34008,
+            "string": "工場内を徘徊する警備モンスター。[LINE]\n素早い動きでこちらの背後に回り込んでくる。[LINE]\n噛み付かれるとまれに衰弱状態になる。[END]",
+            "original_bytes_length": 113,
+            "available_bytes_size": 119,
+            "translation": "공장 내를 배회하는 경비 몬스터. [LINE]\n빠른 움직임으로 여기저기 뒤로 돌아온다. [LINE]\n물어뜯기면 가끔 쇠약 상태가 된다. [END]"
+        },
+        {
+            "offset": 34128,
+            "string": "強靭な肉体を持つドラゴン。[LINE]\n並大抵の攻撃では傷つかない。[LINE]\nブラスト時の攻撃は非常に強力。[END]",
+            "original_bytes_length": 87,
+            "available_bytes_size": 87,
+            "translation": "강건한 육체를 가진 드래곤. [LINE]\n평범한 공격으로는 상처를 입지 않는다. [LINE]\n블라스트 시의 공격은 매우 강력하다. [END]"
+        },
+        {
+            "offset": 34216,
+            "string": "一つ目の謎の飛行生物。[LINE]\nワープで背後に忍び寄り攻撃してくる。[LINE]\nまた、補助系の晶術を使用してくる。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "한 눈의 수수께끼의 비행생물. [LINE]\n워프로 뒤로 몰래 다가와 공격해 온다. [LINE]\n또한, 보조계의 정술을 사용해 온다. [END]"
+        },
+        {
+            "offset": 34312,
+            "string": "頭部のない人型の生体兵器。[LINE]\n触手を自由に操って攻撃してくる。[LINE]\nＨＰが減ってくると……[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "머리가 없는 인형의 생체병기. [LINE]\n주둥이를 자유롭게 다루어 공격해 온다. [LINE]\nHP가 줄어들면……[END]"
+        },
+        {
+            "offset": 34400,
+            "string": "トラッシュマウンテンの毒ガスや塵などが、[LINE]\nレンズの影響で生命体になった姿。[LINE]\n全ての攻撃に「衰弱」の効果を持つ。[END]",
+            "original_bytes_length": 109,
+            "available_bytes_size": 111,
+            "translation": "트래시마운틴의 독가스나 먼지 등이, [LINE]\n렌즈의 영향으로 생명체가 된 모습. [LINE]\n모든 공격에 「쇠약」의 효과를 가진다. [END]"
+        },
+        {
+            "offset": 34512,
+            "string": "強力なファイアブレスとファイアボールを[LINE]\n吐くドラゴンの子供。[LINE]\n火属性耐性必須！[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "강력한 파이어브레스와 파이어 볼을 [LINE]\n뿜는 드래곤의 아이. [LINE]\n불 속성 저항 필수! [END]"
+        },
+        {
+            "offset": 34592,
+            "string": "ベルクラントを護る食肉植物。[LINE]\n植物でありながら肉を食らう恐ろしい植物。[LINE]\n耐性属性に対して反応して反撃してくる。[END]",
+            "original_bytes_length": 109,
+            "available_bytes_size": 111,
+            "translation": "벨크란트를 지키는 식육식물. [LINE]\n식물임에도 고기를 먹는 무서운 식물. [LINE]\n저항 속성에 반응하여 반격해 온다. [END]"
+        },
+        {
+            "offset": 34704,
+            "string": "「爆発物」という名の生体兵器。[LINE]\nその名の通り爆発する。[LINE]\n耐性属性の攻撃しすぎに注意……[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "「폭발물」이라는 이름의 생체병기. [LINE]\n그 이름 그대로 폭발한다. [LINE]\n저항 속성의 공격에 너무 주의……[END]"
+        },
+        {
+            "offset": 34792,
+            "string": "二足歩行型の巨大な巡回用ロボット。[LINE]\n特出した武器はないが、巨大な足で蹴り[LINE]\n飛ばされると、ひとたまりもない……[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "이족보행형 거대한 순회용 로봇. [LINE]\n특출한 무기는 없지만, 거대한 다리로 차기 [LINE]\n날려버리면, 한턱도 없다……[END]"
+        },
+        {
+            "offset": 34904,
+            "string": "硬い甲羅を持つ、空飛ぶ水棲生物。[LINE]\n晶術ダメージを受けると突進してくる。[LINE]\n[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "단단한 갑옷을 가진, 날아다니는 수생생물. [LINE]\n정술 데미지를 받으면 돌진해 온다. [LINE]\n[END]"
+        },
+        {
+            "offset": 34976,
+            "string": "天上軍がソーディアンに対抗するために[LINE]\n開発した生体兵器。ソーディアンとは違い[LINE]\n自ら行動する事が可能。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "천상군이 소디언에 대항하기 위해 [LINE]\n개발한 생체병기. 소디언과는 다르게 [LINE]\n스스로 행동하는 것이 가능하다. [END]"
+        },
+        {
+            "offset": 35080,
+            "string": "音属性のビームを放つ、移動式砲台。[LINE]\n後方から発射するミサイルは熱毒効果を持つ。[LINE]\nまた、足に隠し針を持つ。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "음파 속성 빔을 발사하는, 이동식 포대. [LINE]\n후방에서 발사하는 미사일은 열독 효과를 가진다. [LINE]\n또한, 다리에 숨은 바늘을 가지고 있다. [END]"
+        },
+        {
+            "offset": 35184,
+            "string": "巨大な盾を備えた機動生体兵器。[LINE]\n攻撃、補助などいろいろ行動が可能で、[LINE]\nちょっとした攻撃では傷つかない。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "거대한 방패를 갖춘 기동생체병기. [LINE]\n공격, 보조 등 여러 가지 행동이 가능하며, [LINE]\n조금의 공격으로는 상처를 입지 않는다. [END]"
+        },
+        {
+            "offset": 35288,
+            "string": "巨大な実験用食虫植物。[LINE]\n種には攻撃力ダウンの効果があり、[LINE]\nブレイク時には、吸い込み攻撃をしてくる。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "거대한 실험용 식충식물. [LINE]\n씨앗에는 공격력 다운 효과가 있으며, [LINE]\n브레이크 시에는, 빨아들이는 공격을 해 온다. [END]"
+        },
+        {
+            "offset": 35392,
+            "string": "背中の甲羅に大量の毒を持つ[LINE]\nクモ型モンスター。地面に垂らす溶解液は[LINE]\nダッシュで突き抜ける事が可能。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "등껍질에 대량의 독을 가진 [LINE]\n거미형 몬스터. 땅에 늘어뜨리는 용해액은 [LINE]\n대시로 뚫고 나갈 수 있다. [END]"
+        },
+        {
+            "offset": 35496,
+            "string": "アンスズーンを警備するガードロボ。[LINE]\n砲台による遠距離からの支援を得意とする。[LINE]\n近距離で撃たれると爆発力がアップして危険。[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "안스준을 경비하는 가드로봇. [LINE]\n포대에 의한 원거리에서의 지원을 특기로 한다. [LINE]\n근거리에서 맞으면 폭발력이 업되어 위험하다. [END]"
+        },
+        {
+            "offset": 35616,
+            "string": "アンスズーンを徘徊する警備ロボ。[LINE]\n味方を呼ぶぐらいしか機能はないが、[LINE]\n一番厄介なので早めに倒すのがオススメ！[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "안스준을 배회하는 경비로봇. [LINE]\n아군을 부르는 정도밖에 기능은 없지만, [LINE]\n가장 성가신 것이므로 빨리 쓰러뜨리는 것이 추천! [END]"
+        },
+        {
+            "offset": 35728,
+            "string": "後方支援用として作られた人工生命体。[LINE]\n攻撃力は低いものの、回復晶術や、[LINE]\n補助晶術を使用してくる。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "후방 지원용으로 만들어진 인공생명체. [LINE]\n공격력은 낮지만, 회복 정술이나, [LINE]\n보조 정술을 사용해 온다. [END]"
+        },
+        {
+            "offset": 35824,
+            "string": "支援用として作られた人工生命体。[LINE]\n直接攻撃、遠距離攻撃共に得意とする。[LINE]\n移動速度が速いので、隊列の乱れに注意！[END]",
+            "original_bytes_length": 109,
+            "available_bytes_size": 111,
+            "translation": "지원용으로 만들어진 인공생명체. [LINE]\n직접 공격, 원거리 공격 모두 특기로 한다. [LINE]\n이동 속도가 빠르므로, 행렬의 어긋남에 주의! [END]"
+        },
+        {
+            "offset": 35936,
+            "string": "天上軍の技術で作られた人工生命体。[LINE]\nさまざまな属性の晶術攻撃を得意とする。[LINE]\nガード後に反撃してくる事がある。[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "천상군의 기술로 만들어진 인공생명체. [LINE]\n다양한 속성의 정술 공격을 특기로 한다. [LINE]\n가드 후에 반격해 온다. [END]"
+        },
+        {
+            "offset": 36048,
+            "string": "天上軍の技術で作られた人工生命体。[LINE]\n尾に備え付けられた剣での攻撃を得意とする。[LINE]\n肩の盾でガード後に反撃してくる事がある。[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "천상군의 기술로 만들어진 인공생명체. [LINE]\n꼬리에 갖춰진 검으로의 공격을 특기로 한다. [LINE]\n어깨의 방패로 가드 후에 반격해 온다. [END]"
+        },
+        {
+            "offset": 36168,
+            "string": "防護服をまとったオベロン社の研究員。[LINE]\n手持ちの銃は用途に応じて切り替えが可能で、[LINE]\n特に衰弱効果を持つガスには注意が必要。[END]",
+            "original_bytes_length": 119,
+            "available_bytes_size": 119,
+            "translation": "방호복을 입은 오베론사의 연구원. [LINE]\n손에 든 총은 용도에 따라 전환이 가능하며, [LINE]\n특히 쇠약 효과를 가진 가스에는 주의가 필요하다. [END]"
+        },
+        {
+            "offset": 36288,
+            "string": "侵入者撃退用の自動迎撃ロボット。[LINE]\n頭部からミサイルを乱射してくる。[LINE]\nまれに暴走する事も……[END]",
+            "original_bytes_length": 89,
+            "available_bytes_size": 95,
+            "translation": "침입자 격퇴용 자동 대응 로봇. [LINE]\n머리부터 미사일을 난사해 온다. [LINE]\n가끔 폭주하는 경우도……[END]"
+        },
+        {
+            "offset": 36384,
+            "string": "監視用の自動巡回ロボット。不審者を発見す[LINE]\nると警報機で応援を呼ぶ。また小型の機銃を[LINE]\n備えており警告に従わないと発砲してくる。[END]",
+            "original_bytes_length": 123,
+            "available_bytes_size": 127,
+            "translation": "감시용 자동 순회 로봇. 수상자를 발견하면 경보기로 지원을 부른다. 또한 소형 기관총을 갖추고 있어 경고에 따르지 않으면 발포해 온다. [END]"
+        },
+        {
+            "offset": 36512,
+            "string": "負傷者をレンズの影響で化け物にしたもの。[LINE]\n普段はボーっとしているが[LINE]\nとたんに駆け出してくる事がある。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "부상자를 렌즈의 영향으로 몬스터로 만든 것. [LINE]\n평소는 멍하니 있지만 [LINE]\n갑자기 달려나오는 경우가 있다. [END]"
+        },
+        {
+            "offset": 36616,
+            "string": "人間の骸をレンズの力で復活させた化け物。[LINE]\n常に足元を狙って攻撃してくる。[LINE]\nまた、攻撃力を下げる晶術を使ってくる。[END]",
+            "original_bytes_length": 111,
+            "available_bytes_size": 111,
+            "translation": "인간의 시체를 렌즈의 힘으로 부활시킨 몬스터. [LINE]\n항상 발밑을 노리고 공격해 온다. [LINE]\n또한, 공격력을 낮추는 정술을 사용해 온다. [END]"
+        },
+        {
+            "offset": 36728,
+            "string": "ハイデルベルグの囚人とされる不死の者。[LINE]\nすでに痛みなど感じないので、少しぐらいの[LINE]\n攻撃を受けてもお構いなしに突き進んでくる。[END]",
+            "original_bytes_length": 123,
+            "available_bytes_size": 127,
+            "translation": "하이델베르그의 죄수로 여겨지는 불사의 자. [LINE]\n이미 아픔 등을 느끼지 않으므로, 조금 정도의 [LINE]\n공격을 받아도 신경 쓰지 않고 돌진해 온다. [END]"
+        },
+        {
+            "offset": 36856,
+            "string": "ハイデルベルグに集まる負の感情のかたまり。[LINE]\n実体が無いに等しいため、[LINE]\nほとんどの攻撃が効きづらい。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "하이델베르그에 모이는 부정 감정의 덩어리. [LINE]\n실체가 없는 것과 같아, [LINE]\n대부분의 공격이 통하지 않는다. [END]"
+        },
+        {
+            "offset": 36960,
+            "string": "非常に硬い装甲をもつ昆虫。[LINE]\nまた、鎌には睡眠毒も染み出ている。[LINE]\n唯一の弱点はかすかに見える目とか……[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "매우 단단한 갑옷을 가진 곤충. [LINE]\n또한, 낫에는 수면독도 스며들어 있다. [LINE]\n유일한 약점은 희미하게 보이는 눈과……[END]"
+        },
+        {
+            "offset": 37064,
+            "string": "アクアヴェイル地方に生息する大型の肉食獣。[LINE]\n強暴だが非常に賢く、[LINE]\n見世物小屋などでも見る事ができる。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "아쿠아베일 지방에 서식하는 대형의 육식수. [LINE]\n폭력적이지만 매우 똑똑하며, [LINE]\n전시장 등에서도 볼 수 있다. [END]"
+        },
+        {
+            "offset": 37168,
+            "string": "モリュウに仕える正規兵。[LINE]\n長いリーチを誇る、槍での攻撃を得意とする。[LINE]\n後ろの仲間も巻き込まれないように注意。[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "모류에 시종하는 정규병. [LINE]\n긴 리치를 자랑하는, 창으로의 공격을 특기로 한다. [LINE]\n뒤의 동료도 휘말리지 않도록 주의. [END]"
+        },
+        {
+            "offset": 37280,
+            "string": "伸縮自在の大きな角を持つモンスター。[LINE]\n力が強く、自慢の角で、邪魔なものを[LINE]\n吹き飛ばして突き進む。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "신축성 있는 큰 뿔을 가진 몬스터. [LINE]\n힘이 강하며, 자랑의 뿔로, 방해물을 [LINE]\n날려버리고 돌진한다. [END]"
+        },
+        {
+            "offset": 37376,
+            "string": "美しい羽を持つ大型の鳥。[LINE]\n大きくなりすぎて飛ぶ事が[LINE]\nできなくなったが、走ると早い。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "아름다운 날개를 가진 대형의 새. [LINE]\n커져버려서 날 수가 [LINE]\n없어졌지만, 뛰면 빠르다. [END]"
+        },
+        {
+            "offset": 37464,
+            "string": "洞窟に集団で生息するコウモリ。[LINE]\n飛行能力を生かしていろいろな相手を[LINE]\n狙ってくるような動きをする。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "동굴에 집단으로 서식하는 박쥐. [LINE]\n비행 능력을 살려 여러 가지 상대를 [LINE]\n노리며 오는 듯한 움직임을 한다. [END]"
+        },
+        {
+            "offset": 37560,
+            "string": "小さな体を縮めてばねのように飛び上がって[LINE]\n攻撃してくるヒルの一種。[LINE]\n闇属性攻撃に弱い。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "작은 몸을 줄여서 코일처럼 뛰어올라[LINE]\n공격해 오는 거머리의 일종. [LINE]\n어둠 속성 공격에 약하다. [END]"
+        },
+        {
+            "offset": 37648,
+            "string": "二足歩行のトカゲ型モンスター。[LINE]\n素早い噛みつきには注意が必要で、[LINE]\n乾いた皮膚は、地属性に耐性を持つ。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "이족보행의 도마뱀형 몬스터. [LINE]\n빠른 물어뜯기에는 주의가 필요하며, [LINE]\n마른 피부는, 땅 속성에 저항을 가진다. [END]"
+        },
+        {
+            "offset": 37752,
+            "string": "口から勢いよく水を吐き出す海の化け物。[LINE]\n地面に顔を突っ込んでいるときは、[LINE]\n水を噴射しようとしているので注意。[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "입에서 힘차게 물을 뱉는 바다의 몬스터. [LINE]\n땅에 얼굴을 묻고 있을 때는, [LINE]\n물을 분사하려고 하니 주의. [END]"
+        },
+        {
+            "offset": 37864,
+            "string": "硬いうろこを持つ爬虫類。[LINE]\n腹に隠された瞳に凝視されると、[LINE]\n石化状態になるので注意。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "단단한 비늘을 가진 파충류. [LINE]\n배에 숨겨진 눈에 응시당하면, [LINE]\n석화 상태가 되니 주의. [END]"
+        },
+        {
+            "offset": 37952,
+            "string": "三つの首を持つ、ヘビのモンスター。[LINE]\n体内に強力な毒を持っており、[LINE]\nすべての攻撃で、熱毒になる危険がある。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "세 개의 머리를 가진, 뱀의 몬스터. [LINE]\n체내에 강력한 독을 가지고 있으며, [LINE]\n모든 공격에서, 열독이 될 위험이 있다. [END]"
+        },
+        {
+            "offset": 38056,
+            "string": "砂漠に生息する大型のハエ。[LINE]\nやたらと炎を吐き出すので、[LINE]\nうかつに飛び込むと危険！[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "사막에 서식하는 대형의 파리. [LINE]\n무턱대고 불을 뿜으니, [LINE]\n부주의하게 날아들면 위험! [END]"
+        },
+        {
+            "offset": 38136,
+            "string": "触手に水属性の攻撃属性を持っており、[LINE]\nスタンにとっては非常に厄介な敵。[LINE]\nローパーの名称は触手の色で決まる。[END]",
+            "original_bytes_length": 105,
+            "available_bytes_size": 111,
+            "translation": "촉수에 물 속성 공격 속성을 가지고 있으며, [LINE]\n스턴에게는 매우 성가신 적. [LINE]\n로퍼의 명칭은 촉수의 색으로 결정된다. [END]"
+        },
+        {
+            "offset": 38248,
+            "string": "二足歩行型ヒトデモンスター。[LINE]\n攻撃力はそれほど高くないが、軽快な動きで[LINE]\nこちらの隊列を乱してくる。[END]",
+            "original_bytes_length": 97,
+            "available_bytes_size": 103,
+            "translation": "이족보행형 물병이 몬스터. [LINE]\n공격력은 그리 높지 않지만, 경쾌한 움직임으로 [LINE]\n여기의 행렬을 어지럽히고 온다. [END]"
+        },
+        {
+            "offset": 38352,
+            "string": "古代の力で動く岩人形。[LINE]\n体が岩でできているので物理攻撃には強いが、[LINE]\n鈍器などで殴られると意外にもろい。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "고대의 힘으로 움직이는 바위인형. [LINE]\n몸이 바위로 되어 있어서 물리 공격에는 강하지만, [LINE]\n둔기 등으로 때려 맞으면 의외로 부서진다. [END]"
+        },
+        {
+            "offset": 38456,
+            "string": "ストレイライズ神殿の扉を封印する結界石。[LINE]\n晶術を使って攻撃してくる。また、ゴーレム[LINE]\nを召喚してくるので先に壊すのがベスト！[END]",
+            "original_bytes_length": 121,
+            "available_bytes_size": 127,
+            "translation": "스트레이라이즈 신전의 문을 봉인하는 결계석. [LINE]\n정술을 사용해 공격해 온다. 또한, 골렘 [LINE]\n을 소환해 오니 먼저 부수는 것이 베스트! [END]"
+        },
+        {
+            "offset": 38584,
+            "string": "突然変異によりモンスター化してしまった木。[LINE]\n後方から晶術を使ってくる厄介者。[LINE]\n植物らしく、水属性に強く、よく燃える。[END]",
+            "original_bytes_length": 115,
+            "available_bytes_size": 119,
+            "translation": "돌연변이로 몬스터화해 버린 나무. [LINE]\n후방에서 정술을 사용해 오는 성가신 자. [LINE]\n식물 같아, 물 속성에 강하며, 잘 타버린다. [END]"
+        },
+        {
+            "offset": 38704,
+            "string": "毒キノコのモンスター。[LINE]\n傘から放たれる胞子には[LINE]\n毒の成分が混ざっている。[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "독버섯의 몬스터. [LINE]\n우산에서 방출되는 포자에는 [LINE]\n독 성분이 섞여 있다. [END]"
+        },
+        {
+            "offset": 38776,
+            "string": "ストレイライズの森に生息するサル。[LINE]\n攻撃的な性格で、神殿参拝者をよく襲う。[LINE]\n人間が餌を与えすぎてこうなったとか……[END]",
+            "original_bytes_length": 113,
+            "available_bytes_size": 119,
+            "translation": "스트레이라이즈의 숲에 서식하는 원숭이. [LINE]\n공격적인 성격으로, 신전 참배자를 자주 습격한다. [LINE]\n인간이 먹이를 너무 주어서 이렇게 된 것 같다……[END]"
+        },
+        {
+            "offset": 38896,
+            "string": "巨大な牙を持つイノシシ型モンスター。[LINE]\n気性が荒く、自慢の牙で、[LINE]\n目に入ったターゲットを次々と吹き飛ばす。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "거대한 어금니를 가진 멧돼지형 몬스터. [LINE]\n기질이 거친데, 자랑의 어금니로, [LINE]\n눈에 들어온 타겟을 차례로 날려버린다. [END]"
+        },
+        {
+            "offset": 39000,
+            "string": "空気中のホコリなどが集まって形成された[LINE]\nモンスター。実体が無いに等しいため、[LINE]\n物理的な攻撃はほとんど通じない。[END]",
+            "original_bytes_length": 109,
+            "available_bytes_size": 111,
+            "translation": "공기 중의 먼지 등이 모여 형성된 [LINE]\n몬스터. 실체가 없는 것과 같아, [LINE]\n물리적인 공격은 거의 통하지 않는다. [END]"
+        },
+        {
+            "offset": 39112,
+            "string": "ファンダリア地方に生息する小鳥型の[LINE]\nモンスター。小さな体からは想像もできない[LINE]\nほどの勢いのある突撃攻撃をしてくる。[END]",
+            "original_bytes_length": 113,
+            "available_bytes_size": 119,
+            "translation": "팬더리아 지방에 서식하는 작은 새형의 [LINE]\n몬스터. 작은 몸에서는 상상도 못할 [LINE]\n만큼의 세기 있는 돌진 공격을 해 온다. [END]"
+        },
+        {
+            "offset": 39232,
+            "string": "ウルフと共に飛行竜を襲撃したモンスター。[LINE]\n強力なファイアブレスを吐いてくるので、[LINE]\n動きをよく見て攻撃しよう。[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "울프와 함께 비행용을 습격한 몬스터. [LINE]\n강력한 파이어브레스를 뿜어오니, [LINE]\n움직임을 잘 보고 공격하자. [END]"
+        },
+        {
+            "offset": 39344,
+            "string": "ストレイライズ神殿に仕える男性神官。[LINE]\n棍棒による攻撃を得意とする。[LINE]\nプリーストに対して密かな思いを寄せる……[END]",
+            "original_bytes_length": 107,
+            "available_bytes_size": 111,
+            "translation": "스트레이라이즈 신전에 시종하는 남성 신관. [LINE]\n둔기에 의한 공격을 특기로 한다. [LINE]\n프리스트에게 비밀스런 마음을 품는……[END]"
+        },
+        {
+            "offset": 39456,
+            "string": "深海に生息するイカ型モンスター。[LINE]\n口から吐き出すイカ墨は、その場に停滞[LINE]\nするので攻撃の際には注意が必要。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "심해에 서식하는 오징어형 몬스터. [LINE]\n입에서 뱉는 오징어 먹물은, 그 자리에 정체 [LINE]\n하는 것이므로 공격할 때에는 주의가 필요하다. [END]"
+        },
+        {
+            "offset": 39560,
+            "string": "外敵の多い砂漠で生き抜くために、[LINE]\n尻尾がスパイクのように進化したウサギ。[LINE]\n尻尾を飛ばす攻撃は非常に強力。[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "외적이 많은 사막에서 살아남기 위해, [LINE]\n꼬리가 스파이크처럼 진화한 토끼. [LINE]\n꼬리를 날리는 공격은 매우 강력하다. [END]"
+        },
+        {
+            "offset": 39664,
+            "string": "巨大な爪が特徴的なクマ型モンスター。[LINE]\n行動は遅いが攻撃力は高いので、[LINE]\nガードしつつ、慎重に攻撃しよう。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "거대한 발톱이 특징적인 곰형 몬스터. [LINE]\n행동은 느리지만 공격력은 높으니, [LINE]\n가드하면서, 신중히 공격하자. [END]"
+        },
+        {
+            "offset": 39768,
+            "string": "ファンダリア地方に生息する雪うさぎが[LINE]\nモンスター化した姿。発達した脚力から[LINE]\n放たれるキックは非常に強力！[END]",
+            "original_bytes_length": 103,
+            "available_bytes_size": 103,
+            "translation": "팬더리아 지방에 서식하는 눈토끼가 [LINE]\n몬스터화한 모습. 발달한 다리력으로부터 [LINE]\n날려지는 킥은 매우 강력! [END]"
+        },
+        {
+            "offset": 39872,
+            "string": "セインガルド地方の海辺に生息する[LINE]\n触手だらけの不思議な生物。[LINE]\n触手による攻撃はリーチが長いので注意！[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "세인가르드 지방의 바닷가에 서식하는 [LINE]\n촉수 투성이의 신비한 생물. [LINE]\n촉수에 의한 공격은 리치가 길기 때문에 주의! [END]"
+        },
+        {
+            "offset": 39976,
+            "string": "ワイバーンと共に飛行竜を襲撃した[LINE]\nモンスター。動きは素早いが[LINE]\nよく見て[Square_copy]で防御してから攻撃が基本！[END]",
+            "original_bytes_length": 100,
+            "available_bytes_size": 103,
+            "translation": "와이번과 함께 비행용을 습격한 [LINE]\n몬스터. 움직임은 빠르지만 [LINE]\n잘 보고 [Square_copy]로 방어한 후 공격이 기본! [END]"
+        },
+        {
+            "offset": 40080,
+            "string": "尻尾の針に強力な毒を持つハチ型モンスター。[LINE]\n動きが素早く、移動能力を生かし[LINE]\n常に奥の敵を狙ってくる。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "꼬리의 바늘에 강력한 독을 가진 벌형 몬스터. [LINE]\n움직임이 빠르며, 이동 능력을 살려 [LINE]\n항상 깊은 적을 노리며 오는. [END]"
+        },
+        {
+            "offset": 40184,
+            "string": "洞窟に生息する謎のゲル状物体。[LINE]\n自らの体の一部を投げてくる事がある。[LINE]\nまた、晶術に非常に弱い。[END]",
+            "original_bytes_length": 93,
+            "available_bytes_size": 95,
+            "translation": "동굴에 서식하는 수수께끼의 겔 상태 물체. [LINE]\n자신의 몸의 일부를 던져 오는 경우가 있다. [LINE]\n또한, 정술에 매우 약하다. [END]"
+        },
+        {
+            "offset": 40280,
+            "string": "セインガルド地方に生息する中型の鳥。[LINE]\n鋭いくちばしを持ち、[LINE]\n後方から自らの羽を飛ばして攻撃してくる。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "세인가르드 지방에 서식하는 중형의 새. [LINE]\n날카로운 부리를 가지며, [LINE]\n후방에서 자신의 날개를 날려 공격해 오는. [END]"
+        },
+        {
+            "offset": 40384,
+            "string": "根っからの職業海賊だが、[LINE]\nアイテムは盗まない。[LINE]\n好んで弱っている相手を狙ってくる。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "근본부터의 직업 해적이지만, [LINE]\n아이템은 훔치지 않는다. [LINE]\n좋아하는 약해진 상대를 노리며 오는. [END]"
+        },
+        {
+            "offset": 40472,
+            "string": "セインガルド王国に仕える兵士。[LINE]\n強靭な肉体から繰り出される剣撃に[LINE]\n死角は見当たらない。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "세인가르드 왕국에 시종하는 병사. [LINE]\n강건한 육체로부터 펼쳐지는 검격에 [LINE]\n사각은 찾아볼 수 없다. [END]"
+        },
+        {
+            "offset": 40560,
+            "string": "ストレイライズ神殿に仕える女性神官。[LINE]\n晶術を得意とし、攻撃、回復両方をこなす。[LINE]\nビショップのことは護衛としか思っていない。[END]",
+            "original_bytes_length": 121,
+            "available_bytes_size": 127,
+            "translation": "스트레이라이즈 신전에 시종하는 여성 신관. [LINE]\n정술을 특기로 하며, 공격, 회복 양쪽을 소화한다. [LINE]\n비숍에 대해서는 보호자로만 생각하고 있다. [END]"
+        },
+        {
+            "offset": 40688,
+            "string": "大きな口を持つ謎の生物。[LINE]\n大きな口を使って相手を丸飲みにしてしまう。[LINE]\n飲み込まれてしまうとマヒになるので注意。[END]",
+            "original_bytes_length": 109,
+            "available_bytes_size": 111,
+            "translation": "큰 입을 가진 수수께끼의 생물. [LINE]\n큰 입을 사용해 상대를 통째로 삼켜 버린다. [LINE]\n삼켜져 버리면 마비가 되니 주의. [END]"
+        },
+        {
+            "offset": 40800,
+            "string": "光と闇を属性とするベルセリオスを操る。[LINE]\n攻撃力も高く、状態異常耐性、[LINE]\n属性軽減ができないと苦戦は必至。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "빛과 어둠을 속성으로 하는 벨세리오스를 조종한다. [LINE]\n공격력도 높고, 상태이상 저항성, [LINE]\n속성 경감이 안 되면 고전은 불가피하다. [END]"
+        },
+        {
+            "offset": 40904,
+            "string": "光と闇のソーディアン、ベルセリオスで[LINE]\n障壁展開と共に晶術を繰り出してくる。[LINE]\nまとめて食らわないように隊列を散らそう。[END]",
+            "original_bytes_length": 115,
+            "available_bytes_size": 119,
+            "translation": "빛과 어둠의 소디언, 벨세리오스로 [LINE]\n장벽 전개와 함께 정술을 펼쳐 온다. [LINE]\n한꺼번에 맞지 않도록 행렬을 흩어보자. [END]"
+        },
+        {
+            "offset": 41024,
+            "string": "歩行状態から飛行状態に変形すると[LINE]\n不利な状況に陥ってしまう。[LINE]\n一気に連携を掛けて地上へ落とそう。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "걷기 상태에서 비행 상태로 변형하면 [LINE]\n불리한 상황에 빠져버린다. [LINE]\n일거에 협력을 걸어 땅 위로 떨어뜨리자. [END]"
+        },
+        {
+            "offset": 41120,
+            "string": "遠隔式攻撃ユニットを操って攻撃、[LINE]\n電磁バリアによって殆どの攻撃を防御するが、[LINE]\nユニットの生成でもエネルギーを消費する。[END]",
+            "original_bytes_length": 117,
+            "available_bytes_size": 119,
+            "translation": "원격식 공격 유닛을 조종해 공격, [LINE]\n전자기 바리어로 거의 모든 공격을 방어하지만, [LINE]\n유닛 생성에도 에너지를 소비한다. [END]"
+        },
+        {
+            "offset": 41240,
+            "string": "禁呪によって蟲を操る力と、硬い装甲を[LINE]\n得た。様々な攻撃を繰り出してくるが、[LINE]\n特に生み出す蟲は放っておくと辛い。[END]",
+            "original_bytes_length": 109,
+            "available_bytes_size": 111,
+            "translation": "금주에 의해 벌레를 조종하는 힘과, 단단한 갑옷을 [LINE]\n얻었다. 다양한 공격을 펼쳐 오지만, [LINE]\n특히 만들어낸 벌레는 방치하면 힘들다. [END]"
+        },
+        {
+            "offset": 41352,
+            "string": "大剣による剣術は正統派なものだが、[LINE]\n決死の覚悟か、ダッシュ中・攻撃中には[LINE]\nのけぞらせる事ができない。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "대검에 의한 검술은 정통파인 것이나, [LINE]\n결사의 각오인지, 대시 중, 공격 중에는 [LINE]\n물러서게 할 수 없다. [END]"
+        },
+        {
+            "offset": 41456,
+            "string": "水属性の妖剣を使いこなす刀の達人。[LINE]\nその切れ味による攻撃力は非常に高く、[LINE]\n多少の傷からでも一気に倒される恐れがある。[END]",
+            "original_bytes_length": 115,
+            "available_bytes_size": 119,
+            "translation": "물 속성의 요검을 다루는 칼의 달인. [LINE]\n그 날카로움에 의한 공격력은 매우 높으며, [LINE]\n조금의 상처에서도 일거에 쓰러질 우려가 있다. [END]"
+        },
+        {
+            "offset": 41576,
+            "string": "グレバムの部下の神官。[LINE]\n爪による素早い攻撃を繰り出し、[LINE]\nHPが少ない者を常に狙ってくる。[END]",
+            "original_bytes_length": 85,
+            "available_bytes_size": 87,
+            "translation": "글레밤의 부하 신관. [LINE]\n발톱에 의한 빠른 공격을 펼쳐 오며, [LINE]\nHP가 적은 자를 항상 노리며 오는. [END]"
+        },
+        {
+            "offset": 41664,
+            "string": "剣術に加え、気功術も使いこなす。[LINE]\nＨＰが少なくなった相手に繰り出される[LINE]\n「斬廻滅衝」は恐怖の一言に尽きる。[END]",
+            "original_bytes_length": 105,
+            "available_bytes_size": 111,
+            "translation": "검술에 더해, 기공술도 다룬다. [LINE]\nＨＰ가 적어진 상대에게 펼쳐지는 [LINE]\n「참회멸충」은 공포의 한마디에 다한다. [END]"
+        },
+        {
+            "offset": 41776,
+            "string": "闘技場で遊んでる兄様にご立腹の様子。[LINE]\nへんなフェイントにも気をつけたほうが[LINE]\nいいが、「ターンオーバー」は相当危険。[END]",
+            "original_bytes_length": 113,
+            "available_bytes_size": 119,
+            "translation": "투기장에서 놀고 있는 형님에게 화난 모습. [LINE]\n이상한 페인트에도 조심하는 편이 [LINE]\n좋지만, 「턴 오버」는 상당히 위험하다. [END]"
+        },
+        {
+            "offset": 41896,
+            "string": "闘技場の英雄である[LINE]\nチャンピオンの中のチャンピオン。[LINE]\n油断するとひどい目にあうぞ！[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "투기장의 영웅인 [LINE]\n챔피언 중의 챔피언. [LINE]\n유단하면 심한 눈에 봄! [END]"
+        },
+        {
+            "offset": 41984,
+            "string": "セインガルド王国客員剣士。[LINE]\nシャルティエのソーディアンマスター。[LINE]\n多彩な剣技と地系の晶術を操る。[END]",
+            "original_bytes_length": 95,
+            "available_bytes_size": 95,
+            "translation": "세인가르드 왕국 손님 검사. [LINE]\n샬티에의 소디언 마스터. [LINE]\n다채로운 검술과 땅계의 정술을 조종한다. [END]"
+        }
+    ]
+}

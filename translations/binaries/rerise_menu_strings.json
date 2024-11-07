@@ -1,0 +1,320 @@
+{
+    "00063.md1": [
+        {
+            "offset": 35552,
+            "string": "体力[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "체력[END]"
+        },
+        {
+            "offset": 35560,
+            "string": "集中力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "집중력[END]"
+        },
+        {
+            "offset": 35568,
+            "string": "回避率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "회피율[END]"
+        },
+        {
+            "offset": 35576,
+            "string": "命中率[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "명중률[END]"
+        },
+        {
+            "offset": 35584,
+            "string": "術防御力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "술방어력[END]"
+        },
+        {
+            "offset": 35600,
+            "string": "防御力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "방어력[END]"
+        },
+        {
+            "offset": 35608,
+            "string": "術攻撃力[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "술공격력[END]"
+        },
+        {
+            "offset": 35624,
+            "string": "攻撃力[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "공격력[END]"
+        },
+
+        {
+            "offset": 35736,
+            "string": "[Circle_ani]決定[Cross_ani]戻る[Square_ani]説明変更[L1_ani][R1_ani]カテゴリ変更[END]",
+            "original_bytes_length": 56,
+            "available_bytes_size": 56,
+            "translation": "[Circle_ani]결정[Cross_ani]뒤로[Square_ani]설명변경[L1_ani][R1_ani]카테고리변경[END]"
+        },
+        {
+            "offset": 35792,
+            "string": "パーティレベル[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "파티레벨[END]"
+        },
+        {
+            "offset": 35816,
+            "string": "あと[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "남음[END]"
+        },
+        {
+            "offset": 35832,
+            "string": "所持レンズ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "소지 렌즈[END]"
+        },
+        {
+            "offset": 35864,
+            "string": "消費レンズ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "소비 렌즈[END]"
+        },
+        {
+            "offset": 35952,
+            "string": "装備：[PlaceHolderC][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "장비：[PlaceHolderC][END]"
+        },
+        {
+            "offset": 35968,
+            "string": "宝石[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "보석[END]"
+        },
+        {
+            "offset": 35976,
+            "string": "防具[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "방어구[END]"
+        },
+        {
+            "offset": 35984,
+            "string": "武器[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "무기[END]"
+        },
+        {
+            "offset": 35992,
+            "string": "道具[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "도구[END]"
+        },
+        {
+            "offset": 36136,
+            "string": "[Circle_ani]決定[Cross_ani]戻る[Square_ani]説明変更[L1_ani][R1_ani]カテゴリ変更[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 71,
+            "translation": "[Circle_ani]결정[Cross_ani]뒤로[Square_ani]설명 변경[L1_ani][R1_ani]카테고리 변경[END]"
+        },
+        {
+            "offset": 36256,
+            "string": "[TAG_007]『[PlaceHolderA]』に[LINE]\nリライズしますか？[LINE]\n[S14]（[PlaceHolderB]は失われます）[TAG_002][LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 80,
+            "available_bytes_size": 80,
+            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈 할까요?[LINE]\n[S14]（[PlaceHolderB]는 사라집니다）[TAG_002][LINE]\n예[LINE]\n아니요[END]"
+        },
+        {
+            "offset": 36336,
+            "string": "[TAG_007]リライズに必要なレンズが不足しています。[END]",
+            "original_bytes_length": 46,
+            "available_bytes_size": 47,
+            "translation": "[TAG_007]리라이즈에 필요한 렌즈가 부족합니다.[END]"
+        },
+        {
+            "offset": 36384,
+            "string": "[TAG_007]『[PlaceHolderA]』は[LINE]\nいっぱいでこれ以上持てません。[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 48,
+            "translation": "[TAG_007]『[PlaceHolderA]』가[LINE]\n가득 차서 가질 수 없습니다.[END]"
+        },
+        {
+            "offset": 36432,
+            "string": "[TAG_007]『[PlaceHolderA]』を[LINE]\n手に入れました。[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "[TAG_007]『[PlaceHolderA]』를[LINE]\n얻었습니다.[END]"
+        },
+        {
+            "offset": 36472,
+            "string": "[TAG_007]『[PlaceHolderA]』を[LINE]\nこれ以上リライズする事は出来ません。[END]",
+            "original_bytes_length": 54,
+            "available_bytes_size": 55,
+            "translation": "[TAG_007]『[PlaceHolderA]』를[LINE]\n더 이상 리라이즈할 수 없습니다.[END]"
+        },
+        {
+            "offset": 36528,
+            "string": "[TAG_007]宝石は[LINE]\nいっぱいでこれ以上持てません。[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "[TAG_007]보석이[LINE]\n가득 차서 가질 수 없습니다.[END]"
+        },
+        {
+            "offset": 36696,
+            "string": "[Up+Down_blink]選択切替[Circle_ani]決定[Cross_ani]戻る[Square_ani]説明変更[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 55,
+            "translation": "[Up+Down_blink]선택 변경[Circle_ani]결정[Cross_ani]뒤로[Square_ani]설명 변경[END]"
+        },
+        {
+            "offset": 36792,
+            "string": "[TAG_007]『[PlaceHolderA]』に[LINE]\nリライズしますか？[LINE]\n[S14]（[PlaceHolderB]は失われます）[TAG_002][LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 80,
+            "available_bytes_size": 80,
+            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈 할까요?[LINE]\n[S14]（[PlaceHolderB]는 사라집니다）[TAG_002][LINE]\n예[LINE]\n아니요[END]"
+        },
+        {
+            "offset": 36872,
+            "string": "[TAG_007]リライズに必要なレンズが不足しています。[END]",
+            "original_bytes_length": 46,
+            "available_bytes_size": 47,
+            "translation": "[TAG_007]리라이즈에 필요한 렌즈가 부족합니다.[END]"
+        },
+        {
+            "offset": 36920,
+            "string": "[TAG_007]『[PlaceHolderA]』は[LINE]\nいっぱいでこれ以上持てません。[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 48,
+            "translation": "[TAG_007]『[PlaceHolderA]』가[LINE]\n가득 차서 가질 수 없습니다.[END]"
+        },
+        {
+            "offset": 36968,
+            "string": "[TAG_007]『[PlaceHolderA]』を[LINE]\n手に入れました。[END]",
+            "original_bytes_length": 34,
+            "available_bytes_size": 39,
+            "translation": "[TAG_007]『[PlaceHolderA]』를[LINE]\n얻었습니다.[END]"
+        },
+        {
+            "offset": 37008,
+            "string": "[TAG_007]『[PlaceHolderA]』を[LINE]\nこれ以上リライズする事は出来ません。[END]",
+            "original_bytes_length": 54,
+            "available_bytes_size": 55,
+            "translation": "[TAG_007]『[PlaceHolderA]』를[LINE]\n더 이상 리라이즈할 수 없습니다.[END]"
+        },
+        {
+            "offset": 37064,
+            "string": "[TAG_007]パーティレベルが、[LINE]\nリライズ可能レベルに達していません。[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "[TAG_007]파티레벨이[LINE]\n리라이즈 가능 레벨에 도달하지 않았습니다.[END]"
+        },
+        {
+            "offset": 37128,
+            "string": "斧[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "도끼[END]"
+        },
+        {
+            "offset": 37136,
+            "string": "小弓[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "작은활[END]"
+        },
+        {
+            "offset": 37144,
+            "string": "ナックル[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "너클[END]"
+        },
+        {
+            "offset": 37160,
+            "string": "楽器[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "악기[END]"
+        },
+        {
+            "offset": 37168,
+            "string": "おたま[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "주걱[END]"
+        },
+        {
+            "offset": 37176,
+            "string": "アーマー[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "아머[END]"
+        },
+        {
+            "offset": 37192,
+            "string": "プレート[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "플레이트[END]"
+        },
+        {
+            "offset": 37208,
+            "string": "ウェア[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "착용[END]"
+        },
+        {
+            "offset": 37216,
+            "string": "クローク[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "망토[END]"
+        },
+        {
+            "offset": 37232,
+            "string": "ローブ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "로브[END]"
+        },
+        {
+            "offset": 37240,
+            "string": "[TAG_007]『[PlaceHolderA]』に[LINE]\nリライズするにはコレクター図鑑の[LINE]\n[turquoise][PlaceHolderB][/color]を[LINE]\nコンプリートする必要があります。[END]",
+            "original_bytes_length": 101,
+            "available_bytes_size": 103,
+            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈 하려면 콜렉터 도감의[LINE]\n[turquoise][PlaceHolderB][/color]를[LINE]\n완성해야 합니다.[END]"
+        },
+        {
+            "offset": 37344,
+            "string": "[TAG_007]『[PlaceHolderA]』に[LINE]\nリライズするには[LINE]\n『[PlaceHolderB]』が必要です。[END]",
+            "original_bytes_length": 56,
+            "available_bytes_size": 63,
+            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈 하려면[LINE]\n『[PlaceHolderB]』가 필요합니다.[END]"
+        },
+        {
+            "offset": 37576,
+            "string": "[Up+Down_blink]選択切替[Circle_ani]決定[Cross_ani]戻る[Square_ani]説明変更[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 247,
+            "translation": "[Up+Down_blink]선택 변경[Circle_ani]결정[Cross_ani]뒤로[Square_ani]설명 변경[END]"
+        }
+    ]
+}
