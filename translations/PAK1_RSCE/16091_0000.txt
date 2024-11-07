@@ -1,32 +1,32 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-믹트란이 원하는 세계 같은 건,
-인정할 수 없어! 
+믹트란이 바라는 세상 따위,
+인정할 수 없어!
 [ENDBLOCK]
 그렇지, <Rutee>!
 [ENDBLOCK]
-당연하지! 
-절대 믹트란을 쓰러뜨릴 거야!
+당연하지!
+절대로 믹트란을 물리칠 거야!
 [ENDBLOCK]
 
 좋아, <Philia>!
 [ENDBLOCK]
-물론이야! 
-우리 세계를 다시 평화롭게!
+물론입니다!
+우리의 세계를 다시 평화롭게 만들어요!
 [ENDBLOCK]
-그래요, <Woodrow> 씨!
+그렇죠, <Woodrow> 님!
 [ENDBLOCK]
-그렇지! 
+그 말씀 그대로입니다!
 [ENDBLOCK]
 빛이 있는 우리의 세계를
 되찾자!
 [ENDBLOCK]
-이제는 더는 돌아갈 수 없어……
+이제부터는 돌이킬 수 없어……
 [ENDBLOCK]
 모두 준비됐지!
 [ENDBLOCK]
