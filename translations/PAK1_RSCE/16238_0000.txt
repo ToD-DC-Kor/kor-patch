@@ -1,16 +1,16 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-이봐, 젊은이……
+저기 도련님……
 [ENDBLOCK]
-여기가 전에 신의 눈을
-봉인한 장소죠?
+이곳이 이전에 신의 눈을
+봉인한 장소맞죠?
 [ENDBLOCK]
-…………
+……
 [ENDBLOCK]
-젊은이……
+스탄……
 [ENDBLOCK]
