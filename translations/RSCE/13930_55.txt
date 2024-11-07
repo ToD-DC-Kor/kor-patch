@@ -12,74 +12,74 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-<Baruk> 님…？
+<Baruk> 씨……?
 [ENDBLOCK]
 오베론 직원
 [ENDBLOCK]
 아니군요.
-그럼, 누구신가요？
+저, 누구신가요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 <Stahn>이라고 해.
-그럼… 당신은？
+저는 <Stahn>이라고 합니다.
+저기…… 당신은요?
 [ENDBLOCK]
 오베론 직원
 [ENDBLOCK]
 실례했습니다. 저는 여기서
-일하고 있는 사람입니다.
+일하는 사람입니다.
 [ENDBLOCK]
 오베론 직원
 [ENDBLOCK]
-나쉬라고 합니다.
+내쉬라고 합니다.
 잘 부탁드립니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나쉬님이군요.
-저야말로…
+내쉬씨군요.
+저야말로……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-어떻게 된 일인가요, <Stahn> 님？
+무슨 일이십니까, <Stahn> 씨?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-이봐, <Philia>.
-나쉬라는 이름을,
-어디선가 들어본 기억 없어？
+있잖아, <Philia>.
+내쉬라는 이름을
+어디서 들어본 것 같지 않아?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-나쉬인가…？
-그렇다면 확실히…
+내쉬라……
+그러고 보니 확실히……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아아! 칼비올라의
-엘레나 씨 아버지.
+아아! 까르비올라의
+엘레나씨의 아버지.
 [ENDBLOCK]
-나쉬
+내쉬
 [ENDBLOCK]
-엘레나를 아는 거예요!?
+엘레나를 아시나요!?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-사실 우리는 예전에…
+사실 전에 저희가……
 [ENDBLOCK]
-나쉬
+내쉬
 [ENDBLOCK]
-그렇군요, 조부모님과는 아니고,
-저와 함께 살고 싶다고…
+그렇군요, 조부모와가 아니라
+저와 함께 살고 싶다고……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 네.
 [ENDBLOCK]
-나쉬
+내쉬
 [ENDBLOCK]
 알겠습니다.
-엘레나를 만나러 가겠습니다.
+엘레나를 만나겠습니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -92,200 +92,200 @@
 <Baruk>
 [ENDBLOCK]
 기업은 이익을 추구할 뿐만 아니라,
-지역 사회에도 기여해야 한다.
+지역 사회에도 공헌해야 해.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-나는 <Baruk> 재단을 통해,
-이 지역 사람들의 삶을 지원하고 싶다.
+나는 <Baruk> 기금을 통해
+이 지역 사람들의 삶을 지원하고 싶어.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-무언가 정보가 들어오면, 알려주겠다.
-그때까지 이곳에 머물면 좋겠다.
+정보가 들어오면 알려주지.
+그때까지 이 지역에 머무는 게 좋겠어.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-너무 무리하지 않길 바랐다.
-내가 <Hugo> 총재에게 혼날 테니.
+너무 무리하지 않았으면 좋겠어.
+내가 <Hugo> 총수님께 혼날 테니까.
 [ENDBLOCK]
 비서
 [ENDBLOCK]
-<Baruk> 님은 칼바레이스의 발전을,
-진심으로 바라신답니다.
+<Baruk> 씨는 칼바레이스의 발전을
+진심으로 바라고 계세요.
 [ENDBLOCK]
 비서
 [ENDBLOCK]
-여러분이 마을을 떠났다는 소식을 들었을 때,
-<Baruk> 씨는 드물게도 당황하고 있었습니다.
+여러분이 마을을 떠났다는 걸 알았을 때,
+<Baruk> 씨는 드물게 당황하셨어요.
 [ENDBLOCK]
 비서
 [ENDBLOCK]
-<Baruk> 씨…
-어디로 가버린 건가요?
+<Baruk> 씨……
+어디로 가버리신 걸까요?
 [ENDBLOCK]
 비서
 [ENDBLOCK]
-이제 두 번 다시,<Baruk> 씨는
-돌아오지 않을 것 같은 기분이 듭니다.
+이제 <Baruk> 씨는
+다시는 돌아오지 않을 것 같아요.
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-빨리 세인가르드 본부로,
-영전이 되지 않을까…
+빨리 세인가르드 본부로
+영전되면 좋겠는데……
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-앗! 지금 한 말은,
+앗! 지금 한 말은
 비밀로 해주세요!
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-빨리 세인가르드 본부로…
-아니, 아니.
+빨리 세인가르드 본부로……
+아니 아니.
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-<Baruk> 씨는 다릴셰이드 본부에
+<Baruk> 씨는 다릴쉐이드 본부에
 출장 중입니다.
 [ENDBLOCK]
 부하
 [ENDBLOCK]
 세인가르드가 공격받았다고?
-오베론 사 본부는 괜찮은 건가?
+오베론사 본부는 괜찮은 거야?
 [ENDBLOCK]
 부하
 [ENDBLOCK]
-비록<Baruk> 씨가 돌아오지 않더라도,
-그 사람의 뜻은 제가 이어받겠습니다.
+<Baruk> 씨가 돌아오지 않더라도,
+그분의 뜻은 제가 이어받겠습니다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-오랜만이다, 발룩.
+오랜만이군, 발룩.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-<Lion>, 와줘서 고맙다.
-마을 사람들에게 여기 위치를 물어봤나?
+<Lion>, 잘 왔다.
+마을 사람들에게 이곳을 물어봤나?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-아니, 혼자 힘으로 찾아왔다.
-이 마을의 주민들은, 예의가 없구나.
+아니, 혼자 힘으로 찾아왔어.
+이 마을 주민들은 예의가 없군.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-너가 그걸 말한다고?
+네가 그걸 말하는 거야?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Mary>, 봐.
-저쪽에 귀여운 것이 있어.
+<Mary>, 봐봐.
+저쪽에 귀여운 게 있어.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-어디야?
+어디?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-하하하. 칼바레이스의 사람들은,
-타인에 대한 경계심이 강하거든.
+하하하. 칼바레이스 사람들은
+외지인에 대한 경계심이 강하거든.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-오랜 역사를 바탕으로 한 행동이야.
-너무 신경 쓰지 마라.
+오랜 역사에서 비롯된 행동이야.
+너무 신경 쓰지 마.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-역사란…?
+역사라……
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-칼바레이스인의 조상은,
-옛날에 있었던 전쟁의 패자라고 하더군.
+칼바레이스인의 선조는
+아주 옛날에 있었던 전쟁의 패자라고 해.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-천지전쟁…인가요?
+천지전쟁…… 말인가요?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-그렇다.
+그래.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-…
+……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-얼마나 오래된 전쟁인지는 모르겠지만,
-언제까지 그런 것에 신경 쓰고 있겠어.
+얼마나 오래된 전쟁인지 모르겠지만,
+계속 그런 걸 신경 쓰고 있다니.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-그것은 승자의 논리다.
-패자에게는 패자의 생각이 있는 법이다.
+그건 승자의 논리지.
+패자에겐 패자의 생각이 있는 법이야.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-실제로 칼바레이스의 사람들은,
-다른 나라에 비해 생활 수준이 낮다.
+실제로 칼바레이스 사람들은
+다른 나라에 비해 생활 수준이 낮아.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-오랫동안, 다른 나라에 억압받아 왔기 때문이다.
-불만이 생기는 것도 무리 없다.
+오랫동안 다른 나라에 억압당해 왔기 때문이지.
+앙금이 생기는 것도 무리가 아니야.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-내가 바룩 재단을 운영하는 것은,
-여기 사람들의 삶을 더 편하게 하기 위해서다.
+내가 발룩 기금을 운영하는 이유는
+이곳 사람들의 삶을 편하게 하기 위해서야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-바룩 씨는 대단한 사람이군요.
+발룩씨는 대단한 분이네요.
 그런 생각을 할 수 있다니.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 이런 곳이 있는 줄도,
+저는 이런 곳이 있다는 것조차
 몰랐어요.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-뭐, 말하는 건 쉽지.
-목표를 달성하기까지는 아직 시간이 걸린다.
+뭐, 말하기만 하면 쉬운 거지.
+목표 달성까지는 아직 멀었어.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-…그건 그렇고, 본론으로 들어가자.
-휴고 님으로부터, 연락도 받았다.
+……그건 그렇고, 본론으로 들어가지.
+휴고 님으로부터 연락도 받았어.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-어떤 신의 눈…이라고 하는 걸,
-찾고 있다고 하더군.
+뭔가 신의 눈…… 이란 걸
+찾고 있다더군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 그렇습니다.
-혹시 아는 게 없으신가요?
+혹시 아시는 바가 있나요?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-나도 사람을 시켜서 조사해봤지만,
-지금까지는 단서가 없다.
+나도 사람들을 시켜 조사해봤지만,
+지금으로선 단서가 없어.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-칼바레이스에 기항한 배들을,
-철저히 조사하게 하고는 있지만.
+칼바레이스에 정박한 배를
+철저히 조사하고 있지만 말이야.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-무언가 정보가 들어오면, 알려주겠다.
-그때까지 이 도시에 머무르면 좋겠다.
+정보가 들어오면 알려줄게.
+그때까지 이 마을에 머무는 게 좋겠어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -294,82 +294,82 @@
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-맡겨 주게.
-…그런데 정말 놀랍군.
+맡겨두게.
+……그나저나 놀랍군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무엇이요?
+무엇이 말입니까?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-<Lion>이 동년배와,
-친하게 지내고 있는 걸 보니까 말이야.
+<Lion>이 또래와
+사이좋게 지내는 걸 보다니 말이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-동료들끼리니까요.
-친해지지 않을 수 없죠.
+동료니까요.
+당연히 사이좋게 지내죠.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…그, <Lion>.
+……그렇지, <Lion>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-듣기 싫은 소리 하지 마, 바룩.
-나는 이들과 친하게 지내고 있지 않아.
+오해의 소지가 있는 말을 하지 마, 발룩.
+나는 이 녀석들과 사이좋게 지내지 않아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇게 말하면 안 되지.
-지금까지 함께해온 거 아니야.
+그렇게 말하지 마.
+지금까지 함께 해왔잖아.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-명령받아서 어쩔 수 없이 한 거지.
-본래라면, 나 혼자서도 충분했어.
+명령받아서 어쩔 수 없이 한 거야.
+원래대로라면 나 혼자로도 충분했어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>…
+<Lion>……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-동료니, 친한 사이라니, 오싹하다.
-잘 들어, 한 번 더 말해 두겠다.
+동료니 사이좋다니, 역겨워.
+알아들었어? 다시 한 번 말해두지.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-나는 너처럼, 뻔뻔하고,
-멍청하고, 친근하게 굴는 놈이 아주 싫다.
+나는 너처럼 뻔뻔하고,
+능청맞고, 친근한 척하는 놈이 정말 싫어。
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-기분 나쁘게 생각하지 마라.
-항상 접근하기 어려워 보였던 건 예전부터지.
+기분 나빠하지 마.
+예전부터 좀 까다롭게 굴긴 했거든.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-괜찮습니다. 분명 언젠가는,
-잘 될 거예요.
+괜찮습니다. 언젠가는 분명
+잘 지낼 수 있게 될 거예요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 <Lion>을 좋아하니까.
-본질적으로 좋은 놈이라고 믿고 있어.
+저는 <Lion>을 좋아하니까요.
+본성은 좋은 녀석이라고 믿고 있어요.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-그런 면에서 의외로,
-알기 쉬운 부분도 있지.
+저렇게 보여도 의외로
+단순한 면도 있거든.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-감정의 변화가 있다면,
-금방 전달될 거야.
+마음의 변화가 있다면
+분명 금방 전해질 거야.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
@@ -379,21 +379,21 @@ notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>가
 [ENDBLOCK]
-파티에 합류했습니다.
+파티에 가입했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
-전투에 참여할 수 있습니다.
+전투에 참가할 수 있습니다.
 [ENDBLOCK]
-동행하겠습니다.
+동행합니다.
 [ENDBLOCK]
 파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>가
 [ENDBLOCK]
@@ -401,11 +401,11 @@ notice
 [ENDBLOCK]
 <x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x57><xE8><x00><x80></color>을 획득했습니다.
+<x18><x65><x57><xE8><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80>들은
@@ -422,11 +422,11 @@ notice
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>내추럴레인저
+칭호: <turquoise>네이처 레인저
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>대시 시리즈
+칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80>들은
 [ENDBLOCK]
@@ -436,9 +436,9 @@ notice
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>는
+<x19><x69><x47><xDC><x80>은(는)
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x57><xE0><x00><x80>
 <x18><x65><x57><xE4><x00><x80>
@@ -446,151 +446,152 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>는
+<x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 패스워드를 발급합니다.
-이 ID와 패스워드를 연동 웹사이트에
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에서
 입력하면, 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>자세한 내용은 아래 URL에서 확인하세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 패스워드는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+<TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>게임 중의 이벤트나 미니게임을
 클리어하면 연동 ID와 게임 패스워드가
 발행되는 경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>이 연동 ID와 게임 패스워드를
 웹사이트에 입력하면 데스티니
-의 세계가 더욱 넓어집니다.
+세계가 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 패스워드를 잊어버린 경우는
-피츠갈드에 있는 여행자의 오두막에서
+연동 ID와 게임 패스워드를 잊어버린 경우에는
+피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외곽 없이 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
 [ENDBLOCK]
-첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-설정이 되어 있지 않습니다！（tod=<TAG_059>）
+설정이 없습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-장치는 작동하고 있지 않습니다.
+장치가 작동하고 있지 않습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 워프 장치가 작동했습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x19><x71><x47><xC8><x80>의 소디언 장치가
-사용 가능해졌습니다.
+<TAG_007><x19><x71><x47><xC8><x80>의 소디언 디바이스가
+ 사용 가능해졌습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>「칭호의 설명」
-칭호란 캐릭터에 세팅할 수 있는,
-캐릭터 파라미터 중 하나입니다.
-구체적인 세팅 방법은 다음과 같습니다.
+칭호란 캐릭터에 설정할 수 있는,
+캐릭터 파라미터의 하나입니다.
+구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>메인 메뉴를 열고, 캐릭터의
-상태를 표시합니다.
-그 화면에서<Square_ani>를 누르면, 캐릭터의
-상태 표시를 전환할 수 있습니다.
+<TAG_007>메인 메뉴를 연 후, 캐릭터의
+스테이터스를 표시합니다.
+그 화면에서 <Square_ani>을 누르면, 캐릭터의
+스테이터스 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
-페이지가 있습니다. 그 화면에서<Triangle_ani>를 누르면,
+<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
 획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>칭호의 용도에는 두 가지가 있습니다.
-첫 번째는…
-「칭호를 세팅하고, 시민에게 이야기하자」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는……
+「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>시민 중에는, 칭호를 세팅하고 이야기하면,
-당신에게 관심을 가지는 사람이 있습니다. 시민에게 여러 번
-이야기했을 때, 이상한 행동을 하는 경우가 있습니다.
-그때는, 가지고 있는 칭호를 다시 세팅한 후,
-다시 한 번 이야기해보세요.
+<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
+당신에게 흥미를 보이는 사람이 있습니다.
+마을 사람들에게 여러 번 말을 걸었을 때,
+이상한 행동을 하는 경우가 있습니다.
+그때는 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 말을 걸어보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>힌트: 시민에게 이야기했을 때, 플레이어의
-머리 위에 「？」가 나오는 경우가 있습니다.
-그때는, 시민의 대사와 관련이 있을 법한
-칭호를 세팅하고, 다시 한번 이야기해보세요.
-무언가 기쁜 일이 일어날지도 모릅니다.
+<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
+머리 위에 「？」가 나타나는 경우가 있습니다.
+그때는 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 말을 걸어보세요.
+뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>두 번째 용도는…
-「상태 화면을 멋지게 꾸미자」
-모은 칭호 중에서, 마음에 드는 것이 있다면,
-세팅하여 상태 화면을 멋지게 연출해봅시다.
+<TAG_007>사용법의 두 번째는……
+「스테이터스 화면을 멋지게 꾸며보자」
+모은 칭호 중에서 마음에 드는 것이 있다면,
+설정해서 스테이터스 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>「돌차기 놀이」란,
 필드에 있는 돌을 차서,
 특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는, 돌차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 드나들면,
-		돌은 원래 장소로 돌아갑니다.
+2: 전투는 돌차기 놀이의 클리어 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
+		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
