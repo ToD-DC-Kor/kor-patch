@@ -1,0 +1,557 @@
+{
+    "SLPS": [
+        {
+            "offset": 1810984,
+            "string": "[Sign_Key]天地神明の石版・明[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_Key]천지신명 석판・명[END]"
+        },
+        {
+            "offset": 1811008,
+            "string": "[Sign_Key]天地神明の石版・神[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_Key]천지신명 석판・신[END]"
+        },
+        {
+            "offset": 1811032,
+            "string": "[Sign_Key]天地神明の石版・地[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_Key]천지신명 석판・지[END]"
+        },
+        {
+            "offset": 1811056,
+            "string": "何かの紋章が書かれている石版。[LINE]\n不思議な力を感じる……[LINE]\n[END]",
+            "original_bytes_length": 55,
+            "available_bytes_size": 55,
+            "translation": "어떤 문장이 새겨진 석판.[LINE]\n신비한 힘이 느껴진다…[LINE]\n[END]"
+        },
+        {
+            "offset": 1811112,
+            "string": "[Sign_Key]天地神明の石版・天[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_Key]천지신명 석판・천[END]"
+        },
+        {
+            "offset": 1811136,
+            "string": "モリュウ城の給水装置を[LINE]\n調節するためのバルブ。[LINE]\n[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "모류 성의 급수 장치를 조절하는 밸브.[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 1811184,
+            "string": "[Sign_Key]バルブ[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Key]밸브[END]"
+        },
+        {
+            "offset": 1811200,
+            "string": "完全球体の非常に珍しいレンズ。[LINE]\n富裕層のステータスとして扱われる。[LINE]\n[END]",
+            "original_bytes_length": 67,
+            "available_bytes_size": 71,
+            "translation": "완전한 구형의 매우 희귀한 렌즈.[LINE]\n부유층의 자격으로 취급된다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1811272,
+            "string": "[Sign_Lens1]スフィアレンズ[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Lens1]스피어 렌즈[END]"
+        },
+        {
+            "offset": 1811296,
+            "string": "非常に強度の高いレンズ。[LINE]\n軍事用装甲などにも用いられる。[LINE]\n[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63,
+            "translation": "매우 강도가 높은 렌즈.[LINE]\n군사용 장갑판 등에도 사용된다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1811360,
+            "string": "[Sign_Lens2]タフレンズ[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_Lens2]터프 렌즈[END]"
+        },
+        {
+            "offset": 1811376,
+            "string": "やや珍しい、濃い青色のレンズ。[LINE]\n高価な家具などの飾りに[LINE]\n用いることもある。[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "꽤 희귀한 짙푸른 색 렌즈.[LINE]\n값비싼 가구 등에[LINE]\n장식으로 사용하기도 한다.[END]"
+        },
+        {
+            "offset": 1811456,
+            "string": "[Sign_Lens3]ブルーレンズ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Lens3]블루 렌즈[END]"
+        },
+        {
+            "offset": 1811480,
+            "string": "傷のない精錬されたレンズ。[LINE]\n一般的にレンズといえばこれ。[LINE]\n[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63,
+            "translation": "흠 없이 정련된 렌즈.[LINE]\n보통 렌즈라고 하면 이걸 뜻한다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1811544,
+            "string": "[Sign_Lens4]クリアレンズ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Lens4]클리어 렌즈[END]"
+        },
+        {
+            "offset": 1811568,
+            "string": "傷のついたレンズ。[LINE]\n安価ではあるが取引は可能。[LINE]\n[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "흠집이 난 렌즈.[LINE]\n헐값이지만 거래할 수는 있다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1811616,
+            "string": "[Sign_Lens5]ラフレンズ[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_Lens5]러프 렌즈[END]"
+        },
+        {
+            "offset": 1811632,
+            "string": "ＥＸダンジョン「アルカナルイン」[LINE]\nに入るための鍵。[LINE]\n[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "EX 던전 「아르카나 루인」에[LINE]\n들어가기 위한 열쇠.[LINE]\n[END]"
+        },
+        {
+            "offset": 1811688,
+            "string": "[Sign_Key]アルカナキー[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]아르카나 키[END]"
+        },
+        {
+            "offset": 1811712,
+            "string": "集積レンズ砲の出力を確保するため[LINE]\nにカルバレイスの人たちが集めた[LINE]\nレンズ。[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "집적 렌즈포의 출력을 확보하기 위해[LINE]\n칼바레이스 사람들이 모은 렌즈.[LINE]\n[END]"
+        },
+        {
+            "offset": 1811792,
+            "string": "[Sign_Key]砂漠のレンズ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]사막의 렌즈[END]"
+        },
+        {
+            "offset": 1811816,
+            "string": "集積レンズ砲の出力を確保するため[LINE]\nにアクアヴェイルの人たちが集めた[LINE]\nレンズ。[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "집적 렌즈포의 출력을 확보하기 위해[LINE]\n아쿠아베일 사람들이 모은 렌즈.[LINE]\n[END]"
+        },
+        {
+            "offset": 1811896,
+            "string": "[Sign_Key]島国のレンズ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]섬나라의 렌즈[END]"
+        },
+        {
+            "offset": 1811920,
+            "string": "集積レンズ砲の出力を確保するため[LINE]\nにファンダリアの人たちが集めた[LINE]\nレンズ。[END]",
+            "original_bytes_length": 73,
+            "available_bytes_size": 79,
+            "translation": "집적 렌즈포의 출력을 확보하기 위해[LINE]\n팬더리아 사람들이 모은 렌즈[LINE]\n[END]"
+        },
+        {
+            "offset": 1812000,
+            "string": "[Sign_Key]雪国のレンズ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]설국의 렌즈[END]"
+        },
+        {
+            "offset": 1812024,
+            "string": "集積レンズ砲の出力を確保するため[LINE]\nにフィッツガルドの人たちが集めた[LINE]\nレンズ。[END]",
+            "original_bytes_length": 75,
+            "available_bytes_size": 79,
+            "translation": "집적 렌즈포의 출력을 확보하기 위해[LINE]\n피츠가르드 사람들이 모은 렌즈[LINE]\n[END]"
+        },
+        {
+            "offset": 1812104,
+            "string": "[Sign_Key]新興国のレンズ[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]신흥국의 렌즈[END]"
+        },
+        {
+            "offset": 1812128,
+            "string": "生体金属の原料の青い鉱石。[LINE]\n飛行竜を直すのに十分な量がある。[LINE]\n[END]",
+            "original_bytes_length": 61,
+            "available_bytes_size": 63,
+            "translation": "생체 금속의 원료인 푸른 광석.[LINE]\n비행룡을 수리할 수 있을 정도로 많다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1812192,
+            "string": "[Sign_Key]マス・ベルセリウム[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_Key]마스 베르셀리움[END]"
+        },
+        {
+            "offset": 1812216,
+            "string": "生体金属の原料の青い鉱石。[LINE]\n飛行竜を直すのに必要。[LINE]\n[END]",
+            "original_bytes_length": 51,
+            "available_bytes_size": 55,
+            "translation": "생체 금속의 원료인 푸른 광석.[LINE]\n비행룡을 수리하는 데에 필요하다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1812272,
+            "string": "[Sign_Key]ベルセリウム[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]베르셀리움[END]"
+        },
+        {
+            "offset": 1812296,
+            "string": "鏡面バリアーを中和するための装置。[LINE]\n[LINE]\n[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "경면 배리어를 중화하기 위한 장치.[LINE]\n[LINE]\n[END]"
+        },
+        {
+            "offset": 1812336,
+            "string": "[Sign_Key]鏡面バリアー中和装置[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Sign_Key]경면 배리어 중화 장치[END]"
+        },
+        {
+            "offset": 1812368,
+            "string": "ヘルレイオスの扉を[LINE]\n開けるための灰色カードキー。[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "헬레이오스의 문을 열기 위한[LINE]\n회색 카드 키.[LINE]\n[END]"
+        },
+        {
+            "offset": 1812424,
+            "string": "[Sign_Key]灰色カードキー[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]회색 카드 키[END]"
+        },
+        {
+            "offset": 1812448,
+            "string": "ヘルレイオスの扉を[LINE]\n開けるための黄色カードキー。[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "헬레이오스의 문을 열기 위한[LINE]\n노란색 카드 키.[LINE]\n[END]"
+        },
+        {
+            "offset": 1812504,
+            "string": "[Sign_Key]黄色カードキー[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]노란색 카드 키[END]"
+        },
+        {
+            "offset": 1812528,
+            "string": "ヘルレイオスの扉を[LINE]\n開けるための青色カードキー。[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "헬레이오스의 문을 열기 위한[LINE]\n파란색 카드 키.[LINE]\n[END]"
+        },
+        {
+            "offset": 1812584,
+            "string": "[Sign_Key]青色カードキー[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]파란색 카드 키[END]"
+        },
+        {
+            "offset": 1812608,
+            "string": "ヘルレイオスの扉を[LINE]\n開けるための赤色カードキー。[LINE]\n[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "헬레이오스의 문을 열기 위한[LINE]\n빨간색 카드 키.[LINE]\n[END]"
+        },
+        {
+            "offset": 1812664,
+            "string": "[Sign_Key]赤色カードキー[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]빨간색 카드 키[END]"
+        },
+        {
+            "offset": 1812688,
+            "string": "アンスズーンのメインシステムに[LINE]\nエネルギーを供給するユニット。[LINE]\n[END]",
+            "original_bytes_length": 63,
+            "available_bytes_size": 63,
+            "translation": "안스준의 메인 시스템에[LINE]\n에너지를 공급하는 유닛.[LINE]\n[END]"
+        },
+        {
+            "offset": 1812752,
+            "string": "[Sign_Key]エネルギーユニット[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_Key]에너지 유닛[END]"
+        },
+        {
+            "offset": 1812776,
+            "string": "ラディスロウの機能を[LINE]\n復活させるための装置。[LINE]\n[END]",
+            "original_bytes_length": 45,
+            "available_bytes_size": 47,
+            "translation": "라디슬로우의 기능을[LINE]\n복원하기 위한 장치.[LINE]\n[END]"
+        },
+        {
+            "offset": 1812824,
+            "string": "[Sign_Key]Ｒキー[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Key]R 키[END]"
+        },
+        {
+            "offset": 1812840,
+            "string": "動物の角で作ったラッパ。[LINE]\n海の近くで使うと海竜が呼べる。[LINE]\n[END]",
+            "original_bytes_length": 57,
+            "available_bytes_size": 63,
+            "translation": "동물의 뿔로 만든 나팔.[LINE]\n바다 근처에서 사용하면[LINE]\n해룡을 부를 수 있다.[END]"
+        },
+        {
+            "offset": 1812904,
+            "string": "[Sign_Key]つのぶえ[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Key]뿔 나팔[END]"
+        },
+        {
+            "offset": 1812920,
+            "string": "堅い土地を掘り起こすのに使う道具。[LINE]\n先端の両端がくちばしのように[LINE]\nとがっている。[END]",
+            "original_bytes_length": 79,
+            "available_bytes_size": 79,
+            "translation": "단단한 땅을 팔 때 쓰는 도구.[LINE]\n양쪽 날 끝이 부리처럼 뾰족하다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1813000,
+            "string": "[Sign_Key]つるはし[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Key]곡괭이[END]"
+        },
+        {
+            "offset": 1813016,
+            "string": "セインガルドからファンダリアへ[LINE]\n入るために必要な通行証。[LINE]\nこれがないと大変……[END]",
+            "original_bytes_length": 77,
+            "available_bytes_size": 79,
+            "translation": "세인가르드에서 팬더리아로[LINE]\n입국하기 위해 필요한 통행증.[LINE]\n이게 없으면 큰일나겠지…[END]"
+        },
+        {
+            "offset": 1813096,
+            "string": "[Sign_Key]通行証[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Sign_Key]통행증[END]"
+        },
+        {
+            "offset": 1813112,
+            "string": "背負えるように改造された大型の箱。[LINE]\nフードストラップを１６個装着可能。[LINE]\n[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "메고 다닐 수 있게 개조된 대형 상자.[LINE]\n푸드 스트랩을 16개 장착할 수 있다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1813184,
+            "string": "[Sign_Key]フードボックス[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]음식 상자[END]"
+        },
+        {
+            "offset": 1813208,
+            "string": "長旅にも安心なリュックサック。[LINE]\nフードストラップを８個装着可能。[LINE]\n[END]",
+            "original_bytes_length": 65,
+            "available_bytes_size": 71,
+            "translation": "긴 여행에도 안심할 수 있는 배낭.[LINE]\n푸드 스트랩을 8개 장착할 수 있다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1813280,
+            "string": "[Sign_Key]フードリュック[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]음식 배낭[END]"
+        },
+        {
+            "offset": 1813304,
+            "string": "買い物などにも便利な[LINE]\n肩掛けのバッグ。[LINE]\nフードストラップを６個装着可能。[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "쇼핑할 때도 유용하게 쓸 수 있는[LINE]\n어깨에 메는 가방.[LINE]\n푸드 스트랩을 6개 장착할 수 있다.[END]"
+        },
+        {
+            "offset": 1813376,
+            "string": "[Sign_Key]フードバッグ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]음식 가방[END]"
+        },
+        {
+            "offset": 1813400,
+            "string": "自動的に料理が出てくる不思議な袋。[LINE]\nフード補充し忘れに注意しよう！[LINE]\nフードストラップを４個装着可能。[END]",
+            "original_bytes_length": 99,
+            "available_bytes_size": 103,
+            "translation": "자동으로 요리가 나오는 신기한 주머니.[LINE]\n푸드 보충을 잊지 않도록 주의하자![LINE]\n푸드 스트랩을 4개 장착할 수 있다.[END]"
+        },
+        {
+            "offset": 1813504,
+            "string": "[Sign_Key]フードサック[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]음식 주머니[END]"
+        },
+        {
+            "offset": 1813528,
+            "string": "かくれた気配を探り当てる占い棒。[LINE]\nフィールド移動中に[R2_ani]ボタンで[LINE]\n起動する。[END]",
+            "original_bytes_length": 76,
+            "available_bytes_size": 79,
+            "translation": "숨겨진 기척을 탐지하는 점술봉.[LINE]\n필드 이동 중 [R2_ani]를 눌러 작동할 수 있다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1813608,
+            "string": "[Sign_Key]ダウジングロッド[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]다우징 로드[END]"
+        },
+        {
+            "offset": 1813632,
+            "string": "レンズの力で強い熱を発射する指輪。[LINE]\n[Square_ani]ボタンで発射する。[LINE]\n[END]",
+            "original_bytes_length": 60,
+            "available_bytes_size": 63,
+            "translation": "렌즈의 힘으로 강한 열을 발사하는 반지.[LINE]\n[Square_ani]를 눌러 발사할 수 있다.[LINE]\n[END]"
+        },
+        {
+            "offset": 1813696,
+            "string": "[Sign_Key]ソーサラーリング[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]소서러 링[END]"
+        },
+        {
+            "offset": 1813720,
+            "string": "カスタム設定でモンスター図鑑の[LINE]\nディフィニットストライク表示を[LINE]\n変更できる戦術書。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "커스텀 설정에서 몬스터 도감의[LINE]\n디피니트 스트라이크 표시를[LINE]\n변경할 수 있는 전술서.[END]"
+        },
+        {
+            "offset": 1813808,
+            "string": "[Sign_Key]ディフィニット戦記[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_Key]디피니트 전기[END]"
+        },
+        {
+            "offset": 1813832,
+            "string": "移動・攻撃を自分で行う操作[LINE]\n「マニュアル」が術技メニューから[LINE]\n選択可能になる戦術書。[END]",
+            "original_bytes_length": 83,
+            "available_bytes_size": 87,
+            "translation": "이동・공격을 직접 할 수 있는 조작[LINE]\n「매뉴얼」을 기술 메뉴에서[LINE]\n선택할 수 있게 되는 전술서.[END]"
+        },
+        {
+            "offset": 1813920,
+            "string": "[Sign_Key]マニュアルの書[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]매뉴얼의 서[END]"
+        },
+        {
+            "offset": 1813944,
+            "string": "ここまでの物語のあらすじを読む事[LINE]\nができる本。[LINE]\n[END]",
+            "original_bytes_length": 47,
+            "available_bytes_size": 47,
+            "translation": "지금까지 있었던 이야기의[LINE]\n개요를 읽을 수 있는 책.[END]"
+        },
+        {
+            "offset": 1813992,
+            "string": "[Sign_Key]あらすじブック[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]줄거리 책[END]"
+        },
+        {
+            "offset": 1814016,
+            "string": "入手したことのあるアイテムが[LINE]\n載った図鑑。全部集めれば何か[LINE]\nいいことがあるかも……[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "손에 넣은 아이템이 기록된 도감.[LINE]\n전부 채우면 좋은 일이 있을지도…[LINE]\n[END]"
+        },
+        {
+            "offset": 1814104,
+            "string": "[Sign_Key]コレクター図鑑[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]콜렉터 도감[END]"
+        },
+        {
+            "offset": 1814128,
+            "string": "世界中で発見したものをまとめた[LINE]\n図鑑。[LINE]\n旅の途中で出会った思い出の記録。[END]",
+            "original_bytes_length": 71,
+            "available_bytes_size": 71,
+            "translation": "전 세계에서 발견한 것을 정리한 도감.[LINE]\n여행 중에 만난 추억의 기록.[LINE]\n[END]"
+        },
+        {
+            "offset": 1814200,
+            "string": "[Sign_Key]ディスカバリー図鑑[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "[Sign_Key]디스커버리 도감[END]"
+        },
+        {
+            "offset": 1814224,
+            "string": "今まで食べたことのある[LINE]\n料理が載った図鑑。[LINE]\n[END]",
+            "original_bytes_length": 43,
+            "available_bytes_size": 47,
+            "translation": "지금까지 먹어본 적 있는[LINE]\n요리가 실린 도감.[LINE]\n[END]"
+        },
+        {
+            "offset": 1814272,
+            "string": "[Sign_Key]フード図鑑[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Sign_Key]음식 도감[END]"
+        },
+        {
+            "offset": 1814288,
+            "string": "今までの戦った敵をまとめた図鑑。[LINE]\n戦闘中[R1_copy]を押した状態で[LINE]\n[Circle_ani2]でも起動できる。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "지금까지 싸운 적을 정리한 도감.[LINE]\n전투 중 [R1_copy]를 누른 상태에서[LINE]\n[Circle_ani2]를 눌러도 볼 수 있다.[END]"
+        },
+        {
+            "offset": 1814376,
+            "string": "[Sign_Key]モンスター図鑑[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Sign_Key]몬스터 도감[END]"
+        },
+        {
+            "offset": 1814400,
+            "string": "世界を旅する者には欠かせない地図。[LINE]\nフィールドを移動中、[LINE]\n[R3_ani]ボタンで起動する。[END]",
+            "original_bytes_length": 80,
+            "available_bytes_size": 80,
+            "translation": "세계를 여행하는 사람의 필수품인 지도.[LINE]\n필드 이동 중 [R3_ani]를 눌러도 볼 수 있다.[END]"
+        },
+        {
+            "offset": 1814480,
+            "string": "[Sign_Key]ワールドマップ[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 26,
+            "translation": "[Sign_Key]세계지도[END]"
+        }
+    ]
+}
