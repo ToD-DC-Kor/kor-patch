@@ -1,0 +1,424 @@
+{
+    "SLPS": [
+        {
+            "offset": 1677568,
+            "string": "リリス[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "리리스[END]"
+        },
+        {
+            "offset": 1677576,
+            "string": "マイティ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "마이티[END]"
+        },
+        {
+            "offset": 1677592,
+            "string": "コングマン[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콩맨[END]"
+        },
+        {
+            "offset": 1677608,
+            "string": "シデン[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "시덴[END]"
+        },
+        {
+            "offset": 1677616,
+            "string": "ジョニー[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "죠니[END]"
+        },
+        {
+            "offset": 1677632,
+            "string": "トーン[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "톤[END]"
+        },
+        {
+            "offset": 1677640,
+            "string": "チェルシー[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "첼시[END]"
+        },
+        {
+            "offset": 1677656,
+            "string": "エージェント[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "에이전트[END]"
+        },
+        {
+            "offset": 1677672,
+            "string": "マリー[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "마리[END]"
+        },
+        {
+            "offset": 1677680,
+            "string": "マグナス[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "매그너스[END]"
+        },
+        {
+            "offset": 1677696,
+            "string": "リオン[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "리온[END]"
+        },
+        {
+            "offset": 1677704,
+            "string": "ケルヴィン[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "켈빈[END]"
+        },
+        {
+            "offset": 1677720,
+            "string": "ウッドロウ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "우드로우[END]"
+        },
+        {
+            "offset": 1677736,
+            "string": "フィリス[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "필리스[END]"
+        },
+        {
+            "offset": 1677752,
+            "string": "フィリア[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "필리아[END]"
+        },
+        {
+            "offset": 1677768,
+            "string": "カトレット[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "커틀렛[END]"
+        },
+        {
+            "offset": 1677784,
+            "string": "ルーティ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "루티[END]"
+        },
+        {
+            "offset": 1677800,
+            "string": "エルロン[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "엘론[END]"
+        },
+        {
+            "offset": 1677816,
+            "string": "スタン[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "스탄[END]"
+        },
+        {
+            "offset": 1677824,
+            "string": "アルバ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "알바[END]"
+        },
+        {
+            "offset": 1677832,
+            "string": "王妃[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "왕비[END]"
+        },
+        {
+            "offset": 1677840,
+            "string": "国王[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "국왕[END]"
+        },
+        {
+            "offset": 1677848,
+            "string": "バッカス[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "바카스[END]"
+        },
+        {
+            "offset": 1677864,
+            "string": "ウォルト[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "월트[END]"
+        },
+        {
+            "offset": 1677880,
+            "string": "ミリー[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "밀리[END]"
+        },
+        {
+            "offset": 1677888,
+            "string": "ジョン[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "존[END]"
+        },
+        {
+            "offset": 1677896,
+            "string": "グリッド[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "그리드[END]"
+        },
+        {
+            "offset": 1677912,
+            "string": "アイルツ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "아일츠[END]"
+        },
+        {
+            "offset": 1677928,
+            "string": "ミライナ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "미라이나[END]"
+        },
+        {
+            "offset": 1677944,
+            "string": "アスクス[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "아스크스[END]"
+        },
+        {
+            "offset": 1677960,
+            "string": "ニコラス[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "니콜라스[END]"
+        },
+        {
+            "offset": 1677976,
+            "string": "イスアード[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "이사드[END]"
+        },
+        {
+            "offset": 1677992,
+            "string": "ロベルト[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "로베르토[END]"
+        },
+        {
+            "offset": 1678008,
+            "string": "ドライデン[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "드라이든[END]"
+        },
+        {
+            "offset": 1678024,
+            "string": "アシュレイ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "애슐리[END]"
+        },
+        {
+            "offset": 1678040,
+            "string": "フィンレイ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "핀레이[END]"
+        },
+        {
+            "offset": 1678056,
+            "string": "エレノア[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "엘레노아[END]"
+        },
+        {
+            "offset": 1678072,
+            "string": "リアーナ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "리아나[END]"
+        },
+        {
+            "offset": 1678088,
+            "string": "フェイト[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "페이트[END]"
+        },
+        {
+            "offset": 1678104,
+            "string": "ダーゼン[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "다젠[END]"
+        },
+        {
+            "offset": 1678120,
+            "string": "レイノルズ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "레이놀즈[END]"
+        },
+        {
+            "offset": 1678136,
+            "string": "リトラー[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "리트라[END]"
+        },
+        {
+            "offset": 1678152,
+            "string": "マリアン[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "마리안[END]"
+        },
+        {
+            "offset": 1678168,
+            "string": "レンブラント[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "렘브란트[END]"
+        },
+        {
+            "offset": 1678184,
+            "string": "イレーヌ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "일레느[END]"
+        },
+        {
+            "offset": 1678200,
+            "string": "バルック[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "발룩[END]"
+        },
+        {
+            "offset": 1678216,
+            "string": "ダリス[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "다리스[END]"
+        },
+        {
+            "offset": 1678224,
+            "string": "ティベリウス[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "티베리우스[END]"
+        },
+        {
+            "offset": 1678240,
+            "string": "バティスタ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "바티스타[END]"
+        },
+        {
+            "offset": 1678256,
+            "string": "ミクトラン[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "믹트란[END]"
+        },
+        {
+            "offset": 1678272,
+            "string": "ヒューゴ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "휴고[END]"
+        },
+        {
+            "offset": 1678288,
+            "string": "グレバム[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "글레밤[END]"
+        },
+        {
+            "offset": 1678304,
+            "string": "ベルセリオス[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "베르셀리우스[END]"
+        },
+        {
+            "offset": 1678320,
+            "string": "クレメンテ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "클레멘트[END]"
+        },
+        {
+            "offset": 1678336,
+            "string": "イクティノス[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "익티노스[END]"
+        },
+        {
+            "offset": 1678352,
+            "string": "シャルティエ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "샤르띠에[END]"
+        },
+        {
+            "offset": 1678368,
+            "string": "アトワイト[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "아트와이트[END]"
+        },
+        {
+            "offset": 1678384,
+            "string": "ディムロス[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "딤로스[END]"
+        },
+        {
+            "offset": 1678400,
+            "string": "ＴｏＤ現在いる場所の名前[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "ToD 현재 있는 장소의 이름[END]"
+        },
+        {
+            "offset": 1678432,
+            "string": "ＴｏＤ　セーブデータ[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "ToD  세이브 데이터[END]"
+        }
+    ]
+}

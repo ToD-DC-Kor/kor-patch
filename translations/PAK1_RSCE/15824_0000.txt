@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-감옥에 가서, 페이트를 구하자.
+감옥에 가서 페이트를 구하자.
 [ENDBLOCK]

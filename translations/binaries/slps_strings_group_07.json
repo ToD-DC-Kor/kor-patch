@@ -1,0 +1,347 @@
+{
+    "SLPS": [
+        {
+            "offset": 1686976,
+            "string": "[Cross_ani]リタイア[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Cross_ani]리타이어[END]"
+        },
+        {
+            "offset": 1686992,
+            "string": "[Circle_ani]次の階層へ[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Circle_ani]다음 층으로[END]"
+        },
+        {
+            "offset": 1687008,
+            "string": "[Left]左 [Right]右 [Cross_ani]戻る[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Left]왼쪽 [Right]오른쪽 [Cross_ani]돌아가기[END]"
+        },
+        {
+            "offset": 1687040,
+            "string": "[Up]上 [Down]下 [Cross_ani]戻る[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Up]위 [Down]아래 [Cross_ani]돌아가기[END]"
+        },
+        {
+            "offset": 1687072,
+            "string": "[Circle_ani]見る[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]보기[END]"
+        },
+        {
+            "offset": 1687088,
+            "string": "[Cross_ani]爆弾を蹴る[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Cross_ani]폭탄을 차다[END]"
+        },
+        {
+            "offset": 1687104,
+            "string": "[Cross_ani]キック[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Cross_ani]킥[END]"
+        },
+        {
+            "offset": 1687120,
+            "string": "[Circle_ani]捕まえる[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]잡기[END]"
+        },
+        {
+            "offset": 1687136,
+            "string": "[Circle_ani]メニューを開く[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Circle_ani]메뉴 열기[END]"
+        },
+        {
+            "offset": 1687160,
+            "string": "[Circle_ani]選択 [Cross_ani]戻る[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Circle_ani]선택 [Cross_ani]돌아가기[END]"
+        },
+        {
+            "offset": 1687184,
+            "string": "[Circle_ani]ダリルシェイドへ戻る[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]다릴쉐이드로 돌아가기[END]"
+        },
+        {
+            "offset": 1687216,
+            "string": "[Cross_ani]海竜から降りる[END]",
+            "original_bytes_length": 20,
+            "available_bytes_size": 23,
+            "translation": "[Cross_ani]해룡에서 내리기[END]"
+        },
+        {
+            "offset": 1687240,
+            "string": "[Circle_ani]海竜を呼ぶ[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[Circle_ani]해룡 부르기[END]"
+        },
+        {
+            "offset": 1687256,
+            "string": "[Cross_ani]着陸する[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Cross_ani]착륙하기[END]"
+        },
+        {
+            "offset": 1687272,
+            "string": "[Circle_ani]搭乗する[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]탑승하기[END]"
+        },
+        {
+            "offset": 1687288,
+            "string": "[Circle_ani]決定[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]결정[END]"
+        },
+        {
+            "offset": 1687304,
+            "string": "[Circle_ani]決定 [Cross_ani]キャンセル[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]결정 [Cross_ani]취소[END]"
+        },
+        {
+            "offset": 1687336,
+            "string": "[Circle_ani]次へ[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]다음[END]"
+        },
+        {
+            "offset": 1687352,
+            "string": "[Circle_ani]ワープ[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]워프[END]"
+        },
+        {
+            "offset": 1687368,
+            "string": "[Circle_ani]セーブ[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]저장[END]"
+        },
+        {
+            "offset": 1687384,
+            "string": "[Circle_ani]！！！[END]",
+            "translation": "[Circle_ani]！！！[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1687400,
+            "string": "[Circle_ani]？？？[END]",
+            "translation": "[Circle_ani]？？？[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15
+        },
+        {
+            "offset": 1687416,
+            "string": "[Circle_ani]つかむ[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]잡기[END]"
+        },
+        {
+            "offset": 1687432,
+            "string": "[Circle_ani]動かす[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]움직이기[END]"
+        },
+        {
+            "offset": 1687448,
+            "string": "[Circle_ani]出る[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]나가기[END]"
+        },
+        {
+            "offset": 1687464,
+            "string": "[Circle_ani]食べる[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]먹기[END]"
+        },
+        {
+            "offset": 1687480,
+            "string": "[Circle_ani]休む[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]쉬기[END]"
+        },
+        {
+            "offset": 1687496,
+            "string": "[Circle_ani]読む[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]읽기[END]"
+        },
+        {
+            "offset": 1687512,
+            "string": "[Circle_ani]叩く[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]치기[END]"
+        },
+        {
+            "offset": 1687528,
+            "string": "[Circle_ani]ジャンプ[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]점프[END]"
+        },
+        {
+            "offset": 1687544,
+            "string": "[Circle_ani]降りる[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]내리기[END]"
+        },
+        {
+            "offset": 1687560,
+            "string": "[Circle_ani]登る[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]오르기[END]"
+        },
+        {
+            "offset": 1687576,
+            "string": "[Circle_ani]スイッチ[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]스위치[END]"
+        },
+        {
+            "offset": 1687592,
+            "string": "[Circle_ani]操作[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]조작[END]"
+        },
+        {
+            "offset": 1687608,
+            "string": "[Circle_ani]引く[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]당기기[END]"
+        },
+        {
+            "offset": 1687624,
+            "string": "[Circle_ani]押す[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]밀기[END]"
+        },
+        {
+            "offset": 1687640,
+            "string": "[Circle_ani]開ける[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]열기[END]"
+        },
+        {
+            "offset": 1687656,
+            "string": "[Circle_ani]調べる[END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]조사하기[END]"
+        },
+        {
+            "offset": 1687672,
+            "string": "[Circle_ani]ショップ[END]",
+            "original_bytes_length": 14,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]상점[END]"
+        },
+        {
+            "offset": 1687688,
+            "string": "[Circle_ani][TAG_015]を出る[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "[Circle_ani][TAG_015] 나가기[END]"
+        },
+        {
+            "offset": 1687712,
+            "string": "[Circle_ani]話す[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]말하기[END]"
+        },
+        {
+            "offset": 1687728,
+            "string": "[Circle_ani]入る[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_ani]들어가기[END]"
+        },
+        {
+            "offset": 1687744,
+            "string": "[Circle_ani]フィールドへ[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 31,
+            "translation": "[Circle_ani]필드로[END]"
+        },
+        {
+            "offset": 1687776,
+            "string": "[Select_ani] [TAG_016][TAG_015][TAG_017][END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Select_ani] [TAG_016][TAG_015][TAG_017][END]"
+        },
+        {
+            "offset": 1687800,
+            "string": "[TAG_007]初めてプレイをする場合は、[LINE]\n[text_tag0]\"Stan's side\"[text_tag1] からプレイする事を[LINE]\n強く推奨します。[LINE]\n　[LINE]\n[text_tag0]\"Lion's side\"[text_tag1] で[LINE]\nゲームを開始しても[LINE]\nよろしいですか？[LINE]\n　[LINE]\nはい[LINE]\nいいえ[END]",
+            "original_bytes_length": 173,
+            "available_bytes_size": 175,
+            "translation": "[TAG_007]처음 플레이하시는 경우는,[LINE]\n[text_tag0]\"Stan's side\"[text_tag1]에서 플레이하는 것을[LINE]\n강력히 권장합니다.[LINE]\n　[LINE]\n[text_tag0]\"Lion's side\"[text_tag1]에서[LINE]\n게임을 시작해도[LINE]\n괜찮습니까?[LINE]\n　[LINE]\n예[LINE]\n아니오[END]"
+        },
+        {
+            "offset": 1687976,
+            "string": "notice[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "알림[END]"
+        },
+        {
+            "offset": 1687984,
+            "string": "どちらでゲームを開始しますか？[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "누구 시점에서 시작할까요?[END]"
+        },
+        {
+            "offset": 1688016,
+            "string": "[TAG_007][TAG_002][text_tag1]主人公スタン・エルロンの視点で[LINE]\n物語を進めるモードです。[LINE]\n初めてプレイされる方や、[LINE]\nオリジナル版で最後まで[LINE]\n遊ばれていない方は[LINE]\nこちらから始める事をお奨めします。[END]",
+            "original_bytes_length": 173,
+            "available_bytes_size": 175,
+            "translation": "[TAG_007][TAG_002][text_tag1]주인공 스탄・엘론의 시점에서[LINE]\n이야기를 진행하는 모드입니다.[LINE]\n처음 플레이하시는 분이나,[LINE]\n오리지널을 끝까지 플레이하지[LINE]\n않으신 분은 이쪽부터 시작할[LINE]\n것을 추천합니다.[END]"
+        },
+        {
+            "offset": 1688192,
+            "string": "[TAG_007][TAG_002][text_tag1]リオン・マグナスの視点で[LINE]\n物語を進めるモードです。[LINE]\nスタン視点の物語を表だとすると、[LINE]\nこちらは裏の物語になります。[LINE]\nスタンの物語で全貌を知ってから[LINE]\nプレイすることで、より一層楽しめます。[END]",
+            "original_bytes_length": 197,
+            "available_bytes_size": 199,
+            "translation": "[TAG_007][TAG_002][text_tag1]리온・매그너스의 시점에서[LINE]\n이야기를 진행하는 모드입니다.[LINE]\n스탄 시점에서는 볼 수 없는 숨겨진,[LINE]\n이야기를 볼 수 있기 때문에,[LINE]\n스탄의 이야기로 전모를 알고 나서[LINE]\n플레이하면, 더욱 재밌습니다.[END]"
+        }
+    ]
+}

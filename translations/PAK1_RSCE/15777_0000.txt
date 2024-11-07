@@ -5,23 +5,23 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Stahn>、나는 이제, 
-내 마음을 억누를 수 없어……！
+<Stahn>, 나는 이제
+내 마음을 억누를 수 없어……!
 [ENDBLOCK]
-응？
+엥?
 [ENDBLOCK]
-<Mary>、무슨 말을 하려는 거야？
-너 혹시……
+<Mary>, 무슨 말을 하려는 거야?
+설마 너……
 [ENDBLOCK]
-제발. <Stahn>의 티아라를, 
+부탁해. <Stahn>의 티아라를
 나에게 줘.
 [ENDBLOCK]
-무리야. 벗으려고 하면, 
-찌릿찌릿할 거야.
+불가능해요. 벗으려고 하면
+찌릿찌릿해질 거예요.
 [ENDBLOCK]
 <Rutee>……
 [ENDBLOCK]
-내 것도 안 돼. 찌릿찌릿하니까.
+내 것도 안 돼. 찌릿찌릿할 테니까.
 [ENDBLOCK]
 하아……
 [ENDBLOCK]

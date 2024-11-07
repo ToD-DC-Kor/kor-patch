@@ -1,20 +1,21 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Chelsea>의 미래의 꿈은 뭐야?
+<Chelsea>의 장래 꿈은 뭐야?
 [ENDBLOCK]
-그건 물어볼 필요도 없겠지.
+그건 물어볼 필요도 없을 것 같은데.
 [ENDBLOCK]
-신부감으로 정해져 있어! 물론, 상대는 <Woodrow>님이야.
+신부가 되는 거죠, 당연히!
+물론 상대는 <Woodrow> 님이에요.
 [ENDBLOCK]
-봐, 맞지?
+봤지?
 [ENDBLOCK]
-<Chelsea>는 대단해.
-그렇게 확실한 꿈이 있다니.
+<Chelsea>는 대단하네.
+그렇게 확실한 꿈이 있다니 말이야.
 [ENDBLOCK]
-꿈이라기보다는, 이루지 못할 야망이지.
+꿈이라기보다는 이루지 못할 야망이지.
 [ENDBLOCK]
