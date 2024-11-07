@@ -1,0 +1,242 @@
+{
+    "SLPS": [
+        {
+            "offset": 1816880,
+            "string": "最大ＣＣ＋１[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "최대 CC + 1[END]"
+        },
+        {
+            "offset": 1816896,
+            "string": "最小ＣＣ＋１[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "최소 CC + 1[END]"
+        },
+        {
+            "offset": 1816912,
+            "string": "ブラストゲージ＋５０[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "블라스트 게이지 + 50[END]"
+        },
+        {
+            "offset": 1816936,
+            "string": "ブラストゲージ＋２５[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "블라스트 게이지 + 25[END]"
+        },
+        {
+            "offset": 1816960,
+            "string": "闇属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "어둠 속성 경감[END]"
+        },
+        {
+            "offset": 1816976,
+            "string": "光属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "빛 속성 경감[END]"
+        },
+        {
+            "offset": 1816992,
+            "string": "水属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "물 속성 경감[END]"
+        },
+        {
+            "offset": 1817008,
+            "string": "火属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "불 속성 경감[END]"
+        },
+        {
+            "offset": 1817024,
+            "string": "風属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "바람 속성 경감[END]"
+        },
+        {
+            "offset": 1817040,
+            "string": "地属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "땅 속성 경감[END]"
+        },
+        {
+            "offset": 1817056,
+            "string": "音属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "음파 속성 경감[END]"
+        },
+        {
+            "offset": 1817072,
+            "string": "射属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "사격 속성 경감[END]"
+        },
+        {
+            "offset": 1817088,
+            "string": "打属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "타격 속성 경감[END]"
+        },
+        {
+            "offset": 1817104,
+            "string": "斬属性軽減[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "참격 속성 경감[END]"
+        },
+        {
+            "offset": 1817120,
+            "string": "封印防止[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "봉인 방지[END]"
+        },
+        {
+            "offset": 1817136,
+            "string": "マヒ防止[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "마비 방지[END]"
+        },
+        {
+            "offset": 1817152,
+            "string": "睡眠防止[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "수면 방지[END]"
+        },
+        {
+            "offset": 1817168,
+            "string": "熱毒防止[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "열독 방지[END]"
+        },
+        {
+            "offset": 1817184,
+            "string": "衰弱防止[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "쇠약 방지[END]"
+        },
+        {
+            "offset": 1817200,
+            "string": "石化防止[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "석화 방지[END]"
+        },
+        {
+            "offset": 1817216,
+            "string": "戦闘不能回復[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "전투 불능 회복[END]"
+        },
+        {
+            "offset": 1817232,
+            "string": "特殊効果なし[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "특수 효과 없음[END]"
+        },
+        {
+            "offset": 1817248,
+            "string": "戦闘中、誰かのＨＰが[TAG_015]％以下[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "전투 중, 누군가의 HP가 [TAG_015]％ 이하[END]"
+        },
+        {
+            "offset": 1817280,
+            "string": "戦闘中、全員のＨＰ合計が[TAG_015]％以下[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "전투 중, 모든 사람의 HP 합계가 [TAG_015]％ 이하[END]"
+        },
+        {
+            "offset": 1817320,
+            "string": "戦闘中、[TAG_015]属性攻撃を受けたら[END]",
+            "original_bytes_length": 32,
+            "available_bytes_size": 32,
+            "translation": "전투 중, [TAG_015] 속성 공격을 받으면[END]"
+        },
+        {
+            "offset": 1817352,
+            "string": "戦闘中、[TAG_015]状態になったら[END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "전투 중, [TAG_015] 상태가 되면[END]"
+        },
+        {
+            "offset": 1817384,
+            "string": "戦闘中、[TAG_015]ヒット以上したら[END]",
+            "original_bytes_length": 30,
+            "available_bytes_size": 31,
+            "translation": "전투 중, [TAG_015] 히트 이상이면[END]"
+        },
+        {
+            "offset": 1817416,
+            "string": "戦闘中、アイテムを使ったら[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "전투 중, 아이템을 사용하면[END]"
+        },
+        {
+            "offset": 1817448,
+            "string": "戦闘中、戦闘不能者がいたら[END]",
+            "original_bytes_length": 27,
+            "available_bytes_size": 31,
+            "translation": "전투 중, 전투 불능자가 있다면[END]"
+        },
+        {
+            "offset": 1817480,
+            "string": "戦闘開始[TAG_015]秒後[END]",
+            "original_bytes_length": 18,
+            "available_bytes_size": 23,
+            "translation": "전투 시작 [TAG_015] 초 후[END]"
+        },
+        {
+            "offset": 1817504,
+            "string": "誰かのＨＰが[TAG_015]％以下[END]",
+            "original_bytes_length": 24,
+            "available_bytes_size": 24,
+            "translation": "누군가의 HP가 [TAG_015]％ 이하[END]"
+        },
+        {
+            "offset": 1817528,
+            "string": "全員のＨＰ合計が[TAG_015]％以下[END]",
+            "original_bytes_length": 28,
+            "available_bytes_size": 31,
+            "translation": "모든 사람의 HP 합계가 [TAG_015]％ 이하[END]"
+        },
+        {
+            "offset": 1817560,
+            "string": "戦闘不能者がいたら[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "전투 불능자가 있다면[END]"
+        },
+        {
+            "offset": 1817584,
+            "string": "[TAG_015]戦闘ごとに[END]",
+            "original_bytes_length": 16,
+            "available_bytes_size": 16,
+            "translation": "[TAG_015]회 전투할 때마다[END]"
+        }
+    ]
+}
