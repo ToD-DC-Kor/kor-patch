@@ -1,23 +1,23 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-후우. 정크랜드를 떠나고 나니,
+휴. 정크랜드를 나온 후라 그런지,
 공기가 맛있네요.
 [ENDBLOCK]
-어쩌면 평소의 <Philia>로 돌아온 것 같네.
+어떻게 보면 평소의 <Philia>로 돌아온 것 같네.
 [ENDBLOCK]
-그런…… 마치 사람이 다른 것처럼,
-말하지 말아 주세요.
+그렇게…… 마치 다른 사람이 된 것처럼
+말씀하지 말아주세요.
 [ENDBLOCK]
-<Philia>군, 잠깐 괜찮을까.
+<Philia>, 잠깐 괜찮을까?
 [ENDBLOCK]
 아, 네.
 [ENDBLOCK]
-상당히…… 달라졌었지?
+꽤나…… 달랐었지?
 [ENDBLOCK]
 ……응.
 [ENDBLOCK]

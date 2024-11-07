@@ -1,0 +1,361 @@
+{
+    "SLPS": [
+        {
+            "offset": 1816104,
+            "string": "闇鍋[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "어둠 전골[END]"
+        },
+        {
+            "offset": 1816112,
+            "string": "闇丼[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "어둠 덮밥[END]"
+        },
+        {
+            "offset": 1816120,
+            "string": "半生ケバブ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "덜 익은 케밥[END]"
+        },
+        {
+            "offset": 1816136,
+            "string": "しなしなブリトー[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "다 녹은 브리또[END]"
+        },
+        {
+            "offset": 1816160,
+            "string": "炭ドッグ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "탄 핫도그[END]"
+        },
+        {
+            "offset": 1816176,
+            "string": "圧縮ハンバーガー[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "압축 햄버거[END]"
+        },
+        {
+            "offset": 1816200,
+            "string": "パサパサンドイッチ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "퍼석퍼석 샌드위치[END]"
+        },
+        {
+            "offset": 1816224,
+            "string": "カチカチおにぎり[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "딱딱한 주먹밥[END]"
+        },
+        {
+            "offset": 1816248,
+            "string": "マーボーカレー[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "마파 카레[END]"
+        },
+        {
+            "offset": 1816264,
+            "string": "みそおでん[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "된장 오뎅[END]"
+        },
+        {
+            "offset": 1816280,
+            "string": "まんぼうの串焼き[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "개복치 꼬치구이[END]"
+        },
+        {
+            "offset": 1816304,
+            "string": "魚鍋[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "생선 전골[END]"
+        },
+        {
+            "offset": 1816312,
+            "string": "肉鍋[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "고기 전골[END]"
+        },
+        {
+            "offset": 1816320,
+            "string": "フルーツとうふ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "과일 두부[END]"
+        },
+        {
+            "offset": 1816336,
+            "string": "フルーツチーズ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "과일 치즈[END]"
+        },
+        {
+            "offset": 1816352,
+            "string": "フルーツパフェ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "과일 파르페[END]"
+        },
+        {
+            "offset": 1816368,
+            "string": "舟盛り[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "배에 담은 요리[END]"
+        },
+        {
+            "offset": 1816376,
+            "string": "お刺身[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "생선회[END]"
+        },
+        {
+            "offset": 1816384,
+            "string": "すき焼き[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "스키야키[END]"
+        },
+        {
+            "offset": 1816400,
+            "string": "お好み焼き[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "오코노미야키[END]"
+        },
+        {
+            "offset": 1816416,
+            "string": "ステーキ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "스테이크[END]"
+        },
+        {
+            "offset": 1816432,
+            "string": "ハンバーグ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "햄버거[END]"
+        },
+        {
+            "offset": 1816448,
+            "string": "グラスパ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "그라스파[END]"
+        },
+        {
+            "offset": 1816464,
+            "string": "グラタン[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "그라탱[END]"
+        },
+        {
+            "offset": 1816480,
+            "string": "ミートソース[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "미트 소스[END]"
+        },
+        {
+            "offset": 1816496,
+            "string": "ビーフストロガノフ[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "비프 스트로가노프[END]"
+        },
+        {
+            "offset": 1816520,
+            "string": "リゾット[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "리조또[END]"
+        },
+        {
+            "offset": 1816536,
+            "string": "クラムチャウダー[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "클램 차우더[END]"
+        },
+        {
+            "offset": 1816560,
+            "string": "海鮮丼[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "해산물덮밥[END]"
+        },
+        {
+            "offset": 1816568,
+            "string": "親子丼[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "닭고기 계란덮밥[END]"
+        },
+        {
+            "offset": 1816576,
+            "string": "牛丼[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "쇠고기 덮밥[END]"
+        },
+        {
+            "offset": 1816584,
+            "string": "ロコモコ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "로코모코[END]"
+        },
+        {
+            "offset": 1816600,
+            "string": "肉まん[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "고기만두[END]"
+        },
+        {
+            "offset": 1816608,
+            "string": "キムチ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "김치[END]"
+        },
+        {
+            "offset": 1816616,
+            "string": "マフィン[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "머핀[END]"
+        },
+        {
+            "offset": 1816632,
+            "string": "オリエンタルライス[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "오리엔탈 라이스[END]"
+        },
+        {
+            "offset": 1816656,
+            "string": "パエリア[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "파엘리아[END]"
+        },
+        {
+            "offset": 1816672,
+            "string": "オムハヤシ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "오므라이스[END]"
+        },
+        {
+            "offset": 1816688,
+            "string": "カレーライス[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "커리 라이스[END]"
+        },
+        {
+            "offset": 1816704,
+            "string": "オムライス[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "오믈렛 라이스[END]"
+        },
+        {
+            "offset": 1816720,
+            "string": "チャーハン[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "볶음밥[END]"
+        },
+        {
+            "offset": 1816736,
+            "string": "お茶漬け[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "오차즈케[END]"
+        },
+        {
+            "offset": 1816752,
+            "string": "一夜漬け[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "이치야즈케[END]"
+        },
+        {
+            "offset": 1816768,
+            "string": "いなり寿司[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "유부초밥[END]"
+        },
+        {
+            "offset": 1816784,
+            "string": "ケバブ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "케밥[END]"
+        },
+        {
+            "offset": 1816792,
+            "string": "ブリトー[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "브리또[END]"
+        },
+        {
+            "offset": 1816808,
+            "string": "ホットドッグ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "핫도그[END]"
+        },
+        {
+            "offset": 1816824,
+            "string": "ハンバーガー[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "햄버거[END]"
+        },
+        {
+            "offset": 1816840,
+            "string": "サンドイッチ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "샌드위치[END]"
+        },
+        {
+            "offset": 1816856,
+            "string": "[LINE]\n[END]",
+            "original_bytes_length": 2,
+            "available_bytes_size": 7,
+            "translation": "[LINE]\n[END]"
+        },
+        {
+            "offset": 1816864,
+            "string": "おにぎり[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "주먹밥[END]"
+        }
+    ]
+}

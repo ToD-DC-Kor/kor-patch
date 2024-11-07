@@ -5,7 +5,7 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Chelsea>는 언제부터 활을 쐈어?
+<Chelsea>언제부터 활을 했어?
 [ENDBLOCK]
 세 살 정도부터였죠.
 [ENDBLOCK]
