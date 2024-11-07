@@ -1,21 +1,21 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Lion>님. 다시는 제 일을,
-어린아이 취급하지 마세요.
+<Lion> 씨. 다시는 저를
+어린애 취급하지 말아주세요.
 [ENDBLOCK]
-…………
+……
 [ENDBLOCK]
-<Chelsea>야, 저기서 함께,
+<Chelsea>, 저기 가서 같이
 눈사람 만들지 않을래?
 [ENDBLOCK]
-만들어요! 	와아, 재밌겠다♪
+만들게요!	와, 재밌겠다♪
 [ENDBLOCK]
-역시……어린아이네요.
+역시…… 어린애네요.
 [ENDBLOCK]
 흥, 시시하군.
 [ENDBLOCK]
