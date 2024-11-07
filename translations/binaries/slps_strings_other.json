@@ -1,0 +1,46 @@
+{
+    "SLPS": [
+        {
+            "offset": 1679360,
+            "string": "テイルズオブデスティニー[LINE]\nディレクターズカットの[LINE]\nディスクがセットされていません。[END]",
+            "original_bytes_length": 81,
+            "available_bytes_size": 87,
+            "translation": "테일즈 오브 데스티니[LINE]\n디렉터스 컷의[LINE]\n디스크가 세팅되지 않았습니다.[END]"
+        },
+        {
+            "offset": 1679608,
+            "string": "スタックがオーバーフローした[LINE]\n可能性があります。[END]",
+            "original_bytes_length": 48,
+            "available_bytes_size": 55,
+            "translation": "스택이 오버플로우했을[LINE]\n가능성이 있습니다.[END]"
+        },
+        {
+            "offset": 1751160,
+            "string": "プレイタイム[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "플레이 타임[END]"
+        },
+        {
+            "offset": 1751208,
+            "string": "所持ガルド[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "소지 가르드[END]"
+        },
+        {
+            "offset": 1751232,
+            "string": "所持レンズ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "소지 렌즈[END]"
+        },
+        {
+            "offset": 1751264,
+            "string": "現在位置[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "현재 위치[END]"
+        }
+    ]
+}
