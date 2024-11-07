@@ -1,0 +1,725 @@
+{
+    "SLPS": [
+        {
+            "offset": 1814688,
+            "string": "フライハイ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "플라이하이[END]"
+        },
+        {
+            "offset": 1814704,
+            "string": "オーダーメイド[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "주문 제작[END]"
+        },
+        {
+            "offset": 1814720,
+            "string": "機能美[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "기능미[END]"
+        },
+        {
+            "offset": 1814728,
+            "string": "秘密兵器[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "비밀병기[END]"
+        },
+        {
+            "offset": 1814744,
+            "string": "コレクター[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "콜렉터[END]"
+        },
+        {
+            "offset": 1814760,
+            "string": "バランスアップ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "균형 상승[END]"
+        },
+        {
+            "offset": 1814776,
+            "string": "にゃも[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "냐모[END]"
+        },
+        {
+            "offset": 1814784,
+            "string": "変美畏女多留[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "변미위여다류[END]"
+        },
+        {
+            "offset": 1814800,
+            "string": "がらくた市場[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "잡동사니 시장[END]"
+        },
+        {
+            "offset": 1814816,
+            "string": "ジャンクフード[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "정크 푸드[END]"
+        },
+        {
+            "offset": 1814832,
+            "string": "良き旅人の杖[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "좋은 여행자의 지팡이[END]"
+        },
+        {
+            "offset": 1814848,
+            "string": "花かんむり[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "꽃 화관[END]"
+        },
+        {
+            "offset": 1814864,
+            "string": "なかよし[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "친구[END]"
+        },
+        {
+            "offset": 1814880,
+            "string": "にわとり館[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "닭집[END]"
+        },
+        {
+            "offset": 1814896,
+            "string": "安息角[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "안식각[END]"
+        },
+        {
+            "offset": 1814904,
+            "string": "商売根性[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "장사 근성[END]"
+        },
+        {
+            "offset": 1814920,
+            "string": "雪国支店[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "눈나라 지점[END]"
+        },
+        {
+            "offset": 1814936,
+            "string": "永劫回帰[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "영겁회귀[END]"
+        },
+        {
+            "offset": 1814952,
+            "string": "悲しいお店[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "슬픈 가게[END]"
+        },
+        {
+            "offset": 1814968,
+            "string": "ディスリガード[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "디스리 가드[END]"
+        },
+        {
+            "offset": 1814984,
+            "string": "サザンクロス[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "사잔 크로스[END]"
+        },
+        {
+            "offset": 1815000,
+            "string": "ファーベント[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "파벤트[END]"
+        },
+        {
+            "offset": 1815016,
+            "string": "氷大河[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "얼음 대하[END]"
+        },
+        {
+            "offset": 1815024,
+            "string": "硝子の森[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "유리의 숲[END]"
+        },
+        {
+            "offset": 1815040,
+            "string": "雪解け水[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "눈녹은 물[END]"
+        },
+        {
+            "offset": 1815056,
+            "string": "雪景色[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "눈경치[END]"
+        },
+        {
+            "offset": 1815064,
+            "string": "雪月花[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "설월화[END]"
+        },
+        {
+            "offset": 1815072,
+            "string": "雪迷宮[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "눈미궁[END]"
+        },
+        {
+            "offset": 1815080,
+            "string": "雪割草[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "눈갈래꽃[END]"
+        },
+        {
+            "offset": 1815088,
+            "string": "非常口[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "비상구[END]"
+        },
+        {
+            "offset": 1815096,
+            "string": "花鳥風月[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "화조풍월[END]"
+        },
+        {
+            "offset": 1815112,
+            "string": "大器晩成[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "대기만성[END]"
+        },
+        {
+            "offset": 1815128,
+            "string": "武陵桃源[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "무릉도원[END]"
+        },
+        {
+            "offset": 1815144,
+            "string": "明鏡止水[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "명경지수[END]"
+        },
+        {
+            "offset": 1815160,
+            "string": "うまい屋[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "맛있는 집[END]"
+        },
+        {
+            "offset": 1815176,
+            "string": "名称未定[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "이름 미정[END]"
+        },
+        {
+            "offset": 1815192,
+            "string": "彩の色[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "다양한 색[END]"
+        },
+        {
+            "offset": 1815200,
+            "string": "海神[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "바다의 신[END]"
+        },
+        {
+            "offset": 1815208,
+            "string": "水月花[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "수월화[END]"
+        },
+        {
+            "offset": 1815216,
+            "string": "やどかり堂[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "게 하우스[END]"
+        },
+        {
+            "offset": 1815232,
+            "string": "家内安全[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "가내 안전[END]"
+        },
+        {
+            "offset": 1815248,
+            "string": "黄金郷[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "황금의 고향[END]"
+        },
+        {
+            "offset": 1815256,
+            "string": "オリエント[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "오리엔트[END]"
+        },
+        {
+            "offset": 1815272,
+            "string": "けもの道[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "짐승의 길[END]"
+        },
+        {
+            "offset": 1815288,
+            "string": "船上出張[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "배 위 출장[END]"
+        },
+        {
+            "offset": 1815304,
+            "string": "西大陸支店[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "서대륙 지점[END]"
+        },
+        {
+            "offset": 1815320,
+            "string": "銀の糸[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "은의 실[END]"
+        },
+        {
+            "offset": 1815328,
+            "string": "アーケディア[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "아케디아[END]"
+        },
+        {
+            "offset": 1815344,
+            "string": "ギブアンドテイク[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "주고받기[END]"
+        },
+        {
+            "offset": 1815368,
+            "string": "満腹亭[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "포만정[END]"
+        },
+        {
+            "offset": 1815376,
+            "string": "北西支店[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "북서 지점[END]"
+        },
+        {
+            "offset": 1815392,
+            "string": "シルクロード[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "실크로드[END]"
+        },
+        {
+            "offset": 1815408,
+            "string": "月の砂漠[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "달의 사막[END]"
+        },
+        {
+            "offset": 1815424,
+            "string": "月夜道[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "달밤 길[END]"
+        },
+        {
+            "offset": 1815432,
+            "string": "元気一発[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "힘차게 한 방[END]"
+        },
+        {
+            "offset": 1815448,
+            "string": "砂の嵐[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "모래 폭풍[END]"
+        },
+        {
+            "offset": 1815456,
+            "string": "オアシス[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "오아시스[END]"
+        },
+        {
+            "offset": 1815472,
+            "string": "恵みの大地[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "은혜의 대지[END]"
+        },
+        {
+            "offset": 1815488,
+            "string": "バラライカ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "바라라이카[END]"
+        },
+        {
+            "offset": 1815504,
+            "string": "ライトニング[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "라이트닝[END]"
+        },
+        {
+            "offset": 1815520,
+            "string": "旅人の友[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "여행자의 친구[END]"
+        },
+        {
+            "offset": 1815536,
+            "string": "腹ごしらえ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "배를 채우기[END]"
+        },
+        {
+            "offset": 1815552,
+            "string": "中央本店[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "중앙 본점[END]"
+        },
+        {
+            "offset": 1815568,
+            "string": "自分自身[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "자신[END]"
+        },
+        {
+            "offset": 1815584,
+            "string": "騎士勲章[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "기사 훈장[END]"
+        },
+        {
+            "offset": 1815600,
+            "string": "七将軍[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "칠장군[END]"
+        },
+        {
+            "offset": 1815608,
+            "string": "天下太平[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "천하태평[END]"
+        },
+        {
+            "offset": 1815624,
+            "string": "ピッコロ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "피콜로[END]"
+        },
+        {
+            "offset": 1815640,
+            "string": "白騎士[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "백기사[END]"
+        },
+        {
+            "offset": 1815648,
+            "string": "極楽鳥[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "극락조[END]"
+        },
+        {
+            "offset": 1815656,
+            "string": "いっぷく[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "일푸크[END]"
+        },
+        {
+            "offset": 1815672,
+            "string": "サイグローグ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "사이그로그[END]"
+        },
+        {
+            "offset": 1815688,
+            "string": "スノイ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "스노이[END]"
+        },
+        {
+            "offset": 1815696,
+            "string": "ブリザード[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "블리자드[END]"
+        },
+        {
+            "offset": 1815712,
+            "string": "ボーダーライン[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "경계선[END]"
+        },
+        {
+            "offset": 1815728,
+            "string": "ウォームアップ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "워밍업[END]"
+        },
+        {
+            "offset": 1815744,
+            "string": "雑貨屋[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "잡화점[END]"
+        },
+        {
+            "offset": 1815752,
+            "string": "武具屋[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "무기점[END]"
+        },
+        {
+            "offset": 1815760,
+            "string": "装飾屋[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "장식점[END]"
+        },
+        {
+            "offset": 1815768,
+            "string": "防具屋[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "방어구점[END]"
+        },
+        {
+            "offset": 1815776,
+            "string": "武器屋[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "무기점[END]"
+        },
+        {
+            "offset": 1815784,
+            "string": "食材屋[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "식자재점[END]"
+        },
+        {
+            "offset": 1815792,
+            "string": "道具屋[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "도구점[END]"
+        },
+        {
+            "offset": 1815800,
+            "string": "行商人[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "행상인[END]"
+        },
+        {
+            "offset": 1815808,
+            "string": "ねこにんの村[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "고양이맨 마을[END]"
+        },
+        {
+            "offset": 1815824,
+            "string": "オベロン社[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "오베론사[END]"
+        },
+        {
+            "offset": 1815840,
+            "string": "ラディスロウ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "라디슬로우[END]"
+        },
+        {
+            "offset": 1815856,
+            "string": "ジャンクランド[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "정크랜드[END]"
+        },
+        {
+            "offset": 1815872,
+            "string": "クレスタ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "크레스타[END]"
+        },
+        {
+            "offset": 1815888,
+            "string": "リーネ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "리네[END]"
+        },
+        {
+            "offset": 1815896,
+            "string": "ハイデルベルグ[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "하이델베르그[END]"
+        },
+        {
+            "offset": 1815912,
+            "string": "サイリル[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "사이릴[END]"
+        },
+        {
+            "offset": 1815928,
+            "string": "スノーフリア[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "스노우플리아[END]"
+        },
+        {
+            "offset": 1815944,
+            "string": "トウケイ領[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "도케이령[END]"
+        },
+        {
+            "offset": 1815960,
+            "string": "モリュウ領[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "모리유령[END]"
+        },
+        {
+            "offset": 1815976,
+            "string": "シデン領[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "시덴령[END]"
+        },
+        {
+            "offset": 1815992,
+            "string": "ノイシュタット[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "노이슈타트[END]"
+        },
+        {
+            "offset": 1816008,
+            "string": "カルビオラ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "까르비올라[END]"
+        },
+        {
+            "offset": 1816024,
+            "string": "チェリク[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "체리크[END]"
+        },
+        {
+            "offset": 1816040,
+            "string": "アルメイダ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "알메이다[END]"
+        },
+        {
+            "offset": 1816056,
+            "string": "ダリルシェイド[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "다릴쉐이드[END]"
+        },
+        {
+            "offset": 1816072,
+            "string": "ハーメンツ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "하멘츠[END]"
+        },
+        {
+            "offset": 1816088,
+            "string": "ジェノス[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "제노스[END]"
+        }
+    ]
+}
