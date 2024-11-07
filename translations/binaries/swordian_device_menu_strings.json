@@ -1,0 +1,46 @@
+{
+    "00060.md1": [
+        {
+            "offset": 23872,
+            "string": "[Circle_ani]付替え[Cross_ani]戻る[L1_ani][R1_ani]ソーディアン変更[END]",
+            "original_bytes_length": 49,
+            "available_bytes_size": 55,
+            "translation": "[Circle_ani]교체[Cross_ani]뒤로[L1_ani][R1_ani]소디언 변경[END]"
+        },
+        {
+            "offset": 23928,
+            "string": "[Circle_ani]付替え[Cross_ani]戻る[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Circle_ani]교체[Cross_ani]뒤로[END]"
+        },
+        {
+            "offset": 60096,
+            "string": "熟練度：[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "숙련도：[END]"
+        },
+        {
+            "offset": 60112,
+            "string": "熟練度：[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "숙련도：[END]"
+        },
+        {
+            "offset": 60128,
+            "string": "マスター[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "마스터[END]"
+        },
+        {
+            "offset": 60192,
+            "string": "デバイスポイント[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "디바이스 포인트[END]"
+        }
+    ]
+}

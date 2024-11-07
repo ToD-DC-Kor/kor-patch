@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-지상은 마음대로 하게 두지 않겠다!
+지상을 마음대로 하게 두지 않겠다!
 [ENDBLOCK]
