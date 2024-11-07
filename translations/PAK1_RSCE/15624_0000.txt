@@ -5,5 +5,5 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-제노스의 마을까지 이제 조금 남았다.
+제노스 마을까지 얼마 남지 않았어.
 [ENDBLOCK]

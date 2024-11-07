@@ -2,112 +2,112 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아～, 바다는 크고,
-기분이 좋네～.
+아~ 바다는 정말 크고
+기분 좋네~.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-나는 배 여행은 처음이라,
-신나!
+나, 배 여행은 처음이라
+신이 나!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-관광 여행이 아닌 거다.
-그렇게 들떠서 있으니.
+관광 여행이 아니다.
+그렇게 들뜨지 마라.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>…
+<Philia>……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn> 님… 저, 뭔가…?
+<Stahn> 님…… 저기, 무슨……?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>라고 하잖아. 신의 눈에 대한,
-전부터 어느 정도 알고 있었겠지?
+<Philia>는 말이야. 신의 눈에 대해
+전부터 어느 정도 알고 있었지?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-조금만,
-문헌에서 읽어본 정도인데…
+아주 조금,
+문헌에서 읽은 정도예요……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇다면 알려줄 수 없겠니?
-나는 정말로, 아무것도 모르니까.
+그럼 좀 알려줄 수 있어?
+난 정말 아무것도 모르거든.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-네, 알겠습니다.
+네, 네. 알겠습니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-…<Stahn> 님은,
-천지전쟁을 알고 있나요?
+……<Stahn> 님은
+천지전쟁을 아세요?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-일반적으로는 단순한 전설로 여겨지지만,
-실제로 있었던 일인 것 같습니다.
+일반적으로는 그저 전설로 여겨지지만,
+실제로 있었던 일인 것 같아요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-천지… 하늘과 땅에서, 전쟁?
+천지…… 하늘과 땅의 전쟁?
 어떻게?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-명칭은 단지 비유일 것입니다.
-세계를 두 개로 나누는 정도의 의미라고 생각합니다.
+명칭은 어디까지나 비유겠죠.
+세계를 둘로 나눌 정도의 의미라고 생각해요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그 천지전쟁의 원인이 된 것이,
-신의 눈이라고 문헌에 적혀 있습니다.
+그 천지전쟁의 원인이 된 것이
+신의 눈이라고 문헌에 쓰여 있어요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-「세계를 엄청난 재앙에,
-끌어들인 원흉」인가…
+「세계를 엄청난 재앙에
+휘말리게 한 원흉」인가……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-나는 직접 목격했기에 알 수 있습니다.
-소름끼치고… 압도적인 존재감이었어요.
+저는 직접 봤기 때문에 알아요.
+불길하고…… 압도적인 존재감이었어요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그런 것을 세상에 내놓아서는 안 됩니다.
-무슨 수를 써서라도, 되찾아야 해요.
+그런 물건을 세상에 내놓아서는 안 돼요.
+어떻게든 되찾아야 해요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…응, 그렇구나.
+……응, 그렇지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>는 정말 박식하구나.
-앞으로도 여러 가지 가르쳐줘.
+<Philia>는 박식하구나.
+앞으로도 여러 가지 알려줘.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-네, 알겠습니다!
+네, 네!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-아가씨를 데리고 왔어요.
+도련님을 모셔왔어요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>, 안색이 좋지 않네.
-몸 상태가 안 좋은 건 아닐까?
+<Lion>, 안색이 안 좋아 보이는데.
+몸 상태가 안 좋은 거 아니야?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-이제 그레밤를 추적하기 위해,
-너희들에게 하나, 제안이 있어.
+이제부터 글레밤을 추적하는데 있어서,
+너희들에게 하나 제안이 있어.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -116,45 +116,45 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-사실 이 근처의 해역에, 또 하나의,
-소디언이 잠들어 있는 장소가 있습니다.
+사실 이 근처 해역에 또 하나의
+소디언이 잠들어 있는 곳이 있어요.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-정확히는 제2대륙 근처의 해저에 가라앉은,
-아주 오래된 수송선 안입니다.
+정확히는 제2대륙 근처 해중에 가라앉은
+아주 오래된 수송선 안이죠.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-소디언의 이름은 클레멘테.
-반드시 우리에게 도움이 될 것입니다.
+소디언의 이름은 클레멘트.
+반드시 우리에게 도움이 될 거야.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-회수하러 갑시다, 어린 양.
+회수하러 가죠, 도련님.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-흠…
+흠……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-좋아요, 가보죠.
-그런 기회는 없으니까요.
+좋잖아, 가보자.
+좋은 기회인걸.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-…이번에는,
-팔아버릴 수도 있으니.
+……이번에야말로
+팔아치울 수도 있고.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그 수송선이 가라앉아 있는 장소의,
-정확한 위치는 알 수 있나?
+그 수송선이 가라앉아 있는 곳의
+정확한 위치를 알고 있나?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-알고 있습니다.
+알고 있어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -162,32 +162,32 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-감사합니다, 어린 양.
+감사합니다, 도련님.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-네 번째 소디언인가. 기대되네.
-이번에는 어떤 걸까?
+네 번째 소디언이구나. 기대된다.
+이번엔 어떤 걸까?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn> 님. 저…
+<Stahn> 님. 저기……
 감사합니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn> 님의 배려 덕분에,
-많이 마음이 진정되었습니다.
+<Stahn> 님의 배려 덕분에
+마음이 많이 진정되었어요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-앞으로도, 모르는 것이 있으면,
-꼭 물어봐 주세요.
+앞으로도 모르는 게 있으면
+꼭 물어보세요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-제가 아는 범위에서,
-최선을 다해 답변하겠습니다.
+제가 아는 범위에서
+최선을 다해 답해드릴게요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -195,69 +195,69 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-너에게는 잘했어.
+너 치고는 제법 잘한 편이다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 소리야?
+무슨 일이야?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-자기 스스로 깨닫지 못하고 있구나. 뭐 괜찮아.
-그것도 너답지.
+스스로 깨닫지 못하고 있나. 
+뭐 좋아. 그것도 너다운 모습이겠지.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-또 <Greybum>을,
-놓쳐버렸습니다…
+또 <Greybum>을
+놓쳐버렸어요……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-우리 모두의 책임이다.
-다음에는 반드시 잡으러 가자.
+우리 모두의 책임이야.
+다음에야말로 꼭 잡자.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-…네, 그렇네요.
+……네, 그렇죠.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Greybum>는, 신전에 있었을 때,
-어떤 놈이었어?
+<Greybum>은 신전에 있을 때
+어떤 사람이었어?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-학식이 있고, 신앙심도 깊은,
-매우 존경할 수 있는 인물이었습니다.
+학식이 있고 신앙심도 깊은,
+정말 존경할 만한 인물이었어요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-많은 신관들이 그를 따르고,
-그의 아래에 모였던 것인데…
+많은 신관들이 그를 따르며
+그 밑으로 모여들었죠……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그렇고 말고… 칼비올라에서는,
-<Batista>의 모습이 보이지 않았어.
+그러고 보니…… 까르비올라에서는
+<Batista>의 모습이 보이지 않았어요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Batista>라고?
+<Batista>가 누구야?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Greybum>의 측근이었던, 신부야.
-나에게도 선배에 해당하는 사람인데…
+<Greybum>의 측근이었던 사제예요.
+저에게는 선배이기도 했는데……
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-<Greybum> 님에게 따르지 않다니,
-바보 같은 여자다, <Philia>.
+<Greybum> 님을 따르지 않다니,
+바보 같은 여자로군, <Philia>.
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-너 같은 녀석은,
-그렇게 돌이 되는 것이 어울리겠군!
+너 같은 놈은
+그렇게 돌이 되는 게 어울린다고!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -265,159 +265,160 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-죄, 죄송합니다.
-저도 모르게 멍해져 버렸네요…
+죄, 죄송해요.
+멍하니 있었네요……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 일이야, <Lion>?
+왜 그래, <Lion>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-…갑판에 있어.
+……갑판에 있을 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion> 녀석, 안색이 나빠 보였는데,
-괜찮을까.
+<Lion>, 안색이 안 좋아 보이던데
+괜찮을까?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-항상 그런 건 아니잖아?
+원래 저런 거 아니야?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…앞으로 갈 아쿠아베일은,
+……이제 가는 아쿠아베일이란 데는
 어떤 나라야?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-사실 아쿠아베일이라는 것은,
-단일 국가의 이름이 아니야.
+사실 아쿠아베일이란 건
+단일 국가의 이름이 아니에요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-시덴, 모리유, 토케이로 이루어진,
-연합 공국의 총칭이야.
+시덴, 모류, 토케이로 이루어진
+연합공국의 총칭이에요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 국토는 여러 섬으로 이루어져 있고,
-배로 왕래하는 것 같아.
+배로 왕래한다고 해요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene> 씨가,
-적국 같은 것이라고 말했는데.
+<Ilene> 씨가
+적국 같은 거라고 했는데.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-거기는 쇄국 체제를 갖추고 있어서,
-다른 나라와 거의 교류가 없다고 해.
+그곳은 쇄국 체제를 유지하고 있어서
+다른 나라와 거의 교류가 없어요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-특히 세인가르드와는 사이가 나쁘다고.
-그에 대한 발언일 거야.
+특히 세인가르드와는 사이가 안 좋다고 하더라고요.
+그걸 두고 한 말일 거예요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-풍문에 의하면, 아쿠아베일에는,
-강력한 해군이 있다고 하더군.
+소문에 의하면 아쿠아베일에는
+강력한 해군이 있다고 하더라.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뜻밖에, 무장 선단과 연결되어 있을지도 몰라.
+의외로 무장선단과 연결되어 있을지도.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그건 어떻게 생각하니…
+그건 어떨까요……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 일이야, <Lion>?
+왜 그래, <Lion>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-생각할 게 생겼어. 갑판에 있어.
+생각할 게 있어. 갑판에 있을 거야.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-그렇구나, 신의 눈인가…
-그런 일이 있었단 말이냐.
+그렇구나, 신의 눈이라……
+그런 일이 있었다니.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-이제 점점 내 힘이 필요해지겠군!
+이거 더욱더 내 힘이 필요하겠어!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-…그런데, <Philia>는 왜
-처음에 내게 왔어?
+……그런데 <Philia>는 왜
+처음에 내게 온 거야?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-어? 그건, 그…
+엣? 그건, 음……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-죄, 죄송합니다.
-폐를 끼쳤나요…?
+죄, 죄송해요.
+폐를…… 끼쳤나요?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-이런, <Stahn>! <Philia> 씨를 괴롭히지 마.
+이 자식아, <Stahn>!
+<Philia> 씨를 곤란하게 하지 마!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-괴롭히고 있는 게 아니야. 그냥…
+곤란하게 하고 있지 않아. 단지……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 <Lion>과 먼저 합류하지 않은 건
-왜일까 싶어서.
+왜일까 하고 생각했을 뿐이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇잖아, 가장 가까이에 있었을 텐데?
+왜냐하면 제일 가까이 있었을 텐데?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion> 씨는…
-행방이 불명인 것 같아요.
+<Lion> 님은……
+행방을 모른다고 해요.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-<Philia>가 <King>이나 장군에게 물어봐도,
-명확한 대답이 돌아오지 않았어.
+<Philia>가 <King>이나 장군에게 물어봐도
+명확한 답변이 없었던 거지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-걱정이네…
-이상한 일이 없었으면 좋겠어.
+걱정되네……
+이상한 일이 생기지 않았으면 좋겠는데.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Chaltier>도 함께 있으니,
+<Chaltier>도 함께 있으니까
 괜찮을 거라고 생각하지만.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-서둘러 다른 분들과 합류해서,
-세인가르드로 돌아가요.
+서둘러 다른 분들과 합류해서
+세인가르드로 돌아가죠.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn> 씨의 상태는…?
+<Stahn> 님의 상태는……?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-안 돼. 아무리 이야기해도 소용없어.
-무서운 얼굴로 갑판에 서 있잖아.
+안 돼. 아무리 말을 걸어도 소용없어.
+무서운 표정으로 갑판에 서 있어.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-그렇구나…
+그렇군……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -425,85 +426,85 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-조금은 사람을 의심하는 법을 배우라고,
-말했는데.
+조금은 사람을 의심하는 법을 배우라고
+말했을 텐데.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Stahn> 씨…괜찮을까요.
+<Stahn> 님…… 괜찮으실까요.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Stahn>은 사람에 대한 배려가 강해.
-그래서 지금 고통받고 있어.
+<Stahn>은 사람에 대한 배려심이 강해.
+그래서 지금 괴로워하고 있는 거야.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-그런 그를 지탱하는 것도, 소디언이나,
+그런 그를 지지하는 것도 소디언과
 우리 동료들의 역할이겠지.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-그렇네…
+그래……
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>현재 소지한 가르드:<TAG_033>가르드
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 네
 아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x64><x80></color>이
+<TAG_007><S03><turquoise><x19><x71><x48><x64><x80></color>가
 [ENDBLOCK]
-파티에 합류했습니다.
+파티에 가입했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
-전투에 참여할 수 있습니다.
+전투에 참가할 수 있습니다.
 [ENDBLOCK]
-함께 갑니다.
+동행합니다.
 [ENDBLOCK]
 파티에 복귀했습니다.
 [ENDBLOCK]
 <x18><x65><x58><x54><x00><x80><x18><x65><x58><x58><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x48><x64><x80></color>이
+<TAG_007><S03><turquoise><x19><x71><x48><x64><x80></color>가
 [ENDBLOCK]
 파티에서 빠졌습니다.
 [ENDBLOCK]
 <x18><x65><x58><x54><x00><x80><x18><x65><x58><x58><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x88><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x88><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x84><x00><x80></color>를 획득했습니다.
+<x18><x65><x58><x84><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
 <x19><x69><x48><x78><x80>들은
 [ENDBLOCK]
-<turquoise>거래칭호
+<turquoise>교역 칭호
 [ENDBLOCK]
 <x19><x69><x48><x78><x80>들은
 [ENDBLOCK]
-<turquoise>온천칭호
+<turquoise>온천 칭호
 [ENDBLOCK]
 <x19><x69><x48><x78><x80>들은
 [ENDBLOCK]
-<turquoise>자유칭호
+<turquoise>자유 칭호
 [ENDBLOCK]
 <x19><x69><x48><x78><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>내추럴레인저
+칭호: <turquoise>네이처 레인저
 [ENDBLOCK]
 <x19><x69><x48><x78><x80>들은
 [ENDBLOCK]
-칭호：<turquoise>대시 시리즈
+칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
 <x19><x69><x48><x78><x80>들은
 [ENDBLOCK]
@@ -511,11 +512,11 @@ notice
 [ENDBLOCK]
 <x19><x69><x48><x78><x80>들은
 [ENDBLOCK]
-<turquoise>퀴즈칭호
+<turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x48><x78><x80>는
+<x19><x69><x48><x78><x80>은(는)
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x58><x7C><x00><x80>
 <x18><x65><x58><x80><x00><x80>
@@ -523,150 +524,151 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>는
+<x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
-이 ID와 비밀번호를 연동 웹사이트에서
-입력함으로써, 데스티니의 세계가
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에서
+입력하면, 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+<TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>게임 중의 이벤트나 미니게임을
-클리어하면 연동 ID와 게임 비밀번호가
-발급될 수 있습니다.
+클리어하면 연동 ID와 게임 패스워드가
+발행되는 경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>이 연동 ID와 게임 비밀번호를
-웹사이트에서 입력함으로써 데스티니
-의 세계가 더욱 넓어집니다.
+<TAG_007>이 연동 ID와 게임 패스워드를
+웹사이트에 입력하면 데스티니
+세계가 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>웹사이트에서 입력할
-연동 ID와 게임 비밀번호를 잊어버렸다면
-피츠갈드에 있는 여행자의 오두막에서
+<TAG_007>웹사이트에 입력할
+연동 ID와 게임 패스워드를 잊어버린 경우에는
+피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-껍데기 없는 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
 
 [ENDBLOCK]
-첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-설정이 이루어지지 않았습니다！（tod=<TAG_059>）
+설정이 없습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-장치는 작동하지 않습니다.
+장치가 작동하고 있지 않습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 워프 장치가 작동했습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><x64><x80>의 소디언 장치가
+<TAG_007><x19><x71><x48><x64><x80>의 소디언 디바이스가
 사용 가능해졌습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>「칭호의 설명」
-칭호란 캐릭터에 세트할 수 있는,
-캐릭터 파라미터 중 하나입니다.
-구체적인 세트 방법은 다음과 같습니다.
+칭호란 캐릭터에 설정할 수 있는,
+캐릭터 파라미터의 하나입니다.
+구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>메인 메뉴를 연 후, 캐릭터의
-상태를 표시합니다.
-그 화면에서 <Square_ani>를 누르면, 캐릭터의
-상태 표시를 전환할 수 있습니다.
+스테이터스를 표시합니다.
+그 화면에서 <Square_ani>을 누르면, 캐릭터의
+스테이터스 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
-페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면,
+<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
 획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>칭호의 용도에는 두 가지가 있습니다.
-첫 번째는…
-「칭호를 세트하고, 주민에게 이야기해보세요」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는……
+「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>주민 중에는, 칭호를 세트하고 이야기함으로써,
-당신에게 관심을 가지는 사람이 있습니다. 주민에게 몇 번
-이야기했을 때, 신기한 행동을 할 수 있습니다.
-그때는, 가지고 있는 칭호를 다시 세트한 후,
-다시 이야기해보세요.
+<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
+당신에게 흥미를 보이는 사람이 있습니다.
+마을 사람들에게 여러 번 말을 걸었을 때,
+이상한 행동을 하는 경우가 있습니다.
+그때는 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 말을 걸어보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>힌트: 주민에게 이야기했을 때, 플레이어의
-머리 위에 「？」가 나올 수 있습니다.
-그때는, 주민의 대사와 관련이 있을 것 같은
-칭호를 세트하고, 다시 이야기해보세요.
-무언가 기쁜 일이 일어날지도 모릅니다.
+<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
+머리 위에 「？」가 나타나는 경우가 있습니다.
+그때는 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 말을 걸어보세요.
+뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>용도의 두 번째는…
-「상태 화면을 멋지게 꾸미자」
-모은 칭호 중에서, 혹시 마음에 드는 것이 있다면,
-세트하여 상태 화면을 멋지게 연출해봅시다.
+<TAG_007>사용법의 두 번째는……
+「스테이터스 화면을 멋지게 꾸며보자」
+모은 칭호 중에서 마음에 드는 것이 있다면,
+설정해서 스테이터스 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「돌차기 놀이는」,
+<TAG_007>「돌차기 놀이」란,
 필드에 있는 돌을 차서,
 특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는, 돌차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 드나들면,
+2: 전투는 돌차기 놀이의 클리어 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
 		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]

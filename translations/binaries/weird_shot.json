@@ -1,0 +1,593 @@
+{
+    "00019.md1": [
+        {
+            "offset": 101696,
+            "string": "すぺしゃる・さんくす[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "Special Thanks[END]"
+        },
+        {
+            "offset": 101720,
+            "string": "さうんど[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "사운드[END]"
+
+        },
+        {
+            "offset": 101736,
+            "string": "ぐらふぃっく[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "그래픽[END]"
+        },
+        {
+            "offset": 101752,
+            "string": "ぷろぐらむ[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "프로그램[END]"
+        },
+        {
+            "offset": 101768,
+            "string": "すたっふ[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "스탭[END]"
+        },
+        {
+            "offset": 101784,
+            "string": "５．アイテムを駆使する！[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "5. 아이템 활용하기![END]"
+        },
+        {
+            "offset": 101816,
+            "string": "４．敵の弾を相殺する！[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "4. 적의 탄환 상쇄하기![END]"
+        },
+        {
+            "offset": 101840,
+            "string": "３．無駄に矢を打たない！[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "3. 화살 낭비하지 않기![END]"
+        },
+        {
+            "offset": 101872,
+            "string": "２．チェイン数を増やす！[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "2. 체인 수 늘리기![END]"
+        },
+        {
+            "offset": 101904,
+            "string": "１．一度の攻撃でたくさん倒す！[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "1. 한 번의 공격으로 많이 처치![END]"
+        },
+        {
+            "offset": 101936,
+            "string": "得点を上げるコツ[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "점수 올리는 요령[END]"
+        },
+        {
+            "offset": 101960,
+            "string": "なくなるから注意してね。[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "없어지니까 주의해.[END]"
+        },
+        {
+            "offset": 101992,
+            "string": "ジャンプ時と着地時のパワーは[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "점프 시와 착지 시에 파워가[END]"
+        },
+        {
+            "offset": 102024,
+            "string": "地上の攻撃は当たらないけど、[END]",
+            "original_bytes_length": 29,
+            "available_bytes_size": 31,
+            "translation": "지상 공격은 맞지 않지만,[END]"
+        },
+        {
+            "offset": 102056,
+            "string": "通常より早くパワーが溜まるし、[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "평소보다 빨리 파워가 차고,[END]"
+        },
+        {
+            "offset": 102088,
+            "string": "[Triangle_ani2]でジャンプできるよ、[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[Triangle_ani2]로 점프할 수 있어,[END]"
+        },
+        {
+            "offset": 102120,
+            "string": "上を目指すなら[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "위를 노린다면[END]"
+        },
+        {
+            "offset": 102136,
+            "string": "暇な時に確認してね！[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "시간 날 때 확인해 봐![END]"
+        },
+        {
+            "offset": 102160,
+            "string": "チェイン数は、画面の右上に出るよ！！[END]",
+            "original_bytes_length": 37,
+            "available_bytes_size": 39,
+            "translation": "체인은 화면 오른쪽 위에 나와![END]"
+        },
+        {
+            "offset": 102200,
+            "string": "もらえる得点が増えるよ。[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "받을 수 있는 점수가 늘어나.[END]"
+        },
+        {
+            "offset": 102232,
+            "string": "チェイン数を上げることによって[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "체인 수를 올리면[END]"
+        },
+        {
+            "offset": 102264,
+            "string": "連続で敵を倒すこと！[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "연속으로 적을 처치하는 거야![END]"
+        },
+        {
+            "offset": 102288,
+            "string": "ミスをしないで、[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "실수하지 않고,[END]"
+        },
+        {
+            "offset": 102312,
+            "string": "チェインとは[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "체인이란[END]"
+        },
+        {
+            "offset": 102328,
+            "string": "景品もあるから、頑張ってね～！！[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "경품도 있으니, 열심히 해봐~!![END]"
+        },
+        {
+            "offset": 102368,
+            "string": "得点アップにつながる。[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "점수 상승으로 이어져.[END]"
+        },
+        {
+            "offset": 102392,
+            "string": "ランクが上がれば敵が増え[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "랭크가 올라가면 적이 늘어나고[END]"
+        },
+        {
+            "offset": 102424,
+            "string": "ランクが上がるよ。[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 23,
+            "translation": "랭크가 올라가.[END]"
+        },
+        {
+            "offset": 102448,
+            "string": "条件を満たすことで、[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "조건을 만족하면,[END]"
+        },
+        {
+            "offset": 102472,
+            "string": "時間と得点の[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "시간과 점수의[END]"
+        },
+        {
+            "offset": 102488,
+            "string": "ランクアップ[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "랭크 업[END]"
+        },
+        {
+            "offset": 102504,
+            "string": "　　　奥義[Square_ani2]で発動[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "　　　필살기[Square_ani2]로 발동[END]"
+        },
+        {
+            "offset": 102528,
+            "string": "　　　得点が２倍[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "　　　점수가 2배[END]"
+        },
+        {
+            "offset": 102552,
+            "string": "　　　ダメージを受けない[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "　　　피해를 입지 않아[END]"
+        },
+        {
+            "offset": 102584,
+            "string": "　　　矢が真っ直ぐ飛ぶ[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "　　　화살이 직선으로 날아가[END]"
+        },
+        {
+            "offset": 102608,
+            "string": "　　　矢に貫通能力が付く[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "　　　화살에 관통 능력이 붙어[END]"
+        },
+        {
+            "offset": 102640,
+            "string": "　　　矢が３本になる[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "　　　화살이 3개가 돼[END]"
+        },
+        {
+            "offset": 102664,
+            "string": "アイテムについて[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "아이템에 대해[END]"
+        },
+        {
+            "offset": 102688,
+            "string": "乱発しない事が上達のカギだよ！！[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "남발 않는 게 실력 향상의 열쇠야!![END]"
+        },
+        {
+            "offset": 102728,
+            "string": "溜まる毎に、攻撃に特殊効果がつく、[END]",
+            "original_bytes_length": 35,
+            "available_bytes_size": 39,
+            "translation": "모이면 공격에 특수 효과가 붙어,[END]"
+        },
+        {
+            "offset": 102768,
+            "string": "コレがパワーゲージだよ。[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "이게 파워 게이지야.[END]"
+        },
+        {
+            "offset": 102800,
+            "string": "下に星型のゲージが出る。[END]",
+            "original_bytes_length": 25,
+            "available_bytes_size": 31,
+            "translation": "아래에 별 모양 게이지가 나와.[END]"
+        },
+        {
+            "offset": 102832,
+            "string": "パワーを溜めるとライフゲージの[END]",
+            "original_bytes_length": 31,
+            "available_bytes_size": 31,
+            "translation": "파워를 모으면 라이프 게이지[END]"
+        },
+        {
+            "offset": 102864,
+            "string": "パワーゲージについて[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 23,
+            "translation": "파워 게이지에 대해[END]"
+        },
+        {
+            "offset": 102888,
+            "string": "多くの得点を手に入れると・・・！[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "많은 점수를 얻으면...![END]"
+        },
+        {
+            "offset": 102928,
+            "string": "上のタイムゲージが無くなるまでに[END]",
+            "original_bytes_length": 33,
+            "available_bytes_size": 39,
+            "translation": "위쪽 타임 게이지가 없어질 때까지[END]"
+        },
+        {
+            "offset": 102968,
+            "string": "これだけだよ！[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "이게 전부야![END]"
+        },
+        {
+            "offset": 102984,
+            "string": "[L_stick_Press]で方向を定めて放つ！[END]",
+            "original_bytes_length": 26,
+            "available_bytes_size": 31,
+            "translation": "[L_stick_Press]로 방향을 정해 발사해![END]"
+        },
+        {
+            "offset": 103016,
+            "string": "[Circle_Press]押しっぱなしでパワーを溜める、[END]",
+            "original_bytes_length": 36,
+            "available_bytes_size": 39,
+            "translation": "[Circle_Press]를 계속 눌러 파워를 모으고,[END]"
+        },
+        {
+            "offset": 103056,
+            "string": "[LINE]\n[END]",
+            "original_bytes_length": 2,
+            "available_bytes_size": 7,
+            "translation": "[LINE]\n[END]"
+        },
+        {
+            "offset": 103064,
+            "string": "操作は簡単！[END]",
+            "original_bytes_length": 13,
+            "available_bytes_size": 15,
+            "translation": "조작은 간단해![END]"
+        },
+        {
+            "offset": 103080,
+            "string": "[Cross_Press]SKIP[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Cross_Press]SKIP[END]"
+        },
+        {
+            "offset": 103096,
+            "string": "[Cross_ani]SKIP[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Cross_ani]SKIP[END]"
+        },
+        {
+            "offset": 103112,
+            "string": "[Circle_Press]WAIT[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "[Circle_Press]WAIT[END]"
+        },
+        {
+            "offset": 103128,
+            "string": "YOU ARE CHAMPION[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 23,
+            "translation": "YOU ARE CHAMPION[END]"
+        },
+        {
+            "offset": 103152,
+            "string": "GOD[END]",
+            "original_bytes_length": 4,
+            "available_bytes_size": 7,
+            "translation": "GOD[END]"
+        },
+        {
+            "offset": 103160,
+            "string": "S[END]",
+            "original_bytes_length": 2,
+            "available_bytes_size": 7,
+            "translation": "S[END]"
+        },
+        {
+            "offset": 103168,
+            "string": "A[END]",
+            "original_bytes_length": 2,
+            "available_bytes_size": 7,
+            "translation": "A[END]"
+        },
+        {
+            "offset": 103176,
+            "string": "B[END]",
+            "original_bytes_length": 2,
+            "available_bytes_size": 7,
+            "translation": "B[END]"
+        },
+        {
+            "offset": 103184,
+            "string": "C[END]",
+            "original_bytes_length": 2,
+            "available_bytes_size": 7,
+            "translation": "C[END]"
+        },
+        {
+            "offset": 103192,
+            "string": "D[END]",
+            "original_bytes_length": 2,
+            "available_bytes_size": 7,
+            "translation": "D[END]"
+        },
+        {
+            "offset": 103200,
+            "string": "RANK[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "RANK[END]"
+        },
+        {
+            "offset": 103208,
+            "string": "POINT[END]",
+            "original_bytes_length": 6,
+            "available_bytes_size": 7,
+            "translation": "POINT[END]"
+        },
+        {
+            "offset": 103216,
+            "string": "RANKING[END]",
+            "original_bytes_length": 8,
+            "available_bytes_size": 8,
+            "translation": "RANKING[END]"
+        },
+        {
+            "offset": 103224,
+            "string": "OUT[END]",
+            "original_bytes_length": 4,
+            "available_bytes_size": 7,
+            "translation": "OUT[END]"
+        },
+        {
+            "offset": 103232,
+            "string": "3RD[END]",
+            "original_bytes_length": 4,
+            "available_bytes_size": 7,
+            "translation": "3RD[END]"
+        },
+        {
+            "offset": 103240,
+            "string": "2ND[END]",
+            "original_bytes_length": 4,
+            "available_bytes_size": 7,
+            "translation": "2ND[END]"
+        },
+        {
+            "offset": 103248,
+            "string": "1ST[END]",
+            "original_bytes_length": 4,
+            "available_bytes_size": 7,
+            "translation": "1ST[END]"
+        },
+        {
+            "offset": 103256,
+            "string": "MAX HITS[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "MAX HITS[END]"
+        },
+        {
+            "offset": 103272,
+            "string": "MAX CHAINS[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "MAX CHAINS[END]"
+        },
+        {
+            "offset": 103288,
+            "string": "TIME[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "TIME[END]"
+        },
+        {
+            "offset": 103296,
+            "string": "[Select_ani]：タイトルに戻る[END]",
+            "original_bytes_length": 22,
+            "available_bytes_size": 23,
+            "translation": "[Select_ani]：타이틀로 돌아가기[END]"
+        },
+        {
+            "offset": 103320,
+            "string": "死天[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "사천[END]"
+        },
+        {
+            "offset": 103328,
+            "string": "雹雨[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "박우[END]"
+        },
+        {
+            "offset": 103336,
+            "string": "飛燕[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "비연[END]"
+        },
+        {
+            "offset": 103344,
+            "string": "豪烈[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 7,
+            "translation": "호열[END]"
+        },
+        {
+            "offset": 103352,
+            "string": "[Up]:[TAG_015][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Up]:[TAG_015][END]"
+        },
+        {
+            "offset": 103368,
+            "string": "[Left+Right]:[TAG_015][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Left+Right]:[TAG_015][END]"
+        },
+        {
+            "offset": 103384,
+            "string": "[Down]:[TAG_015][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Down]:[TAG_015][END]"
+        },
+        {
+            "offset": 103400,
+            "string": "[Cross_copy]:[TAG_015][END]",
+            "original_bytes_length": 12,
+            "available_bytes_size": 15,
+            "translation": "[Cross_copy]:[TAG_015][END]"
+        },
+        {
+            "offset": 103416,
+            "string": "スタート[END]",
+            "original_bytes_length": 9,
+            "available_bytes_size": 15,
+            "translation": "Start[END]"
+        },
+        {
+            "offset": 103432,
+            "string": "Time Over[END]",
+            "original_bytes_length": 10,
+            "available_bytes_size": 15,
+            "translation": "Time Over[END]"
+        },
+        {
+            "offset": 103448,
+            "string": "Congratulation[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "Congratulation[END]"
+        },
+        {
+            "offset": 103464,
+            "string": "ポーズ[END]",
+            "original_bytes_length": 7,
+            "available_bytes_size": 7,
+            "translation": "Pause[END]"
+        }
+    ]
+}

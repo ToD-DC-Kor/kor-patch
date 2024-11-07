@@ -1,9 +1,9 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-쥐를 잡는거야.
+쥐를 잡도록 하게.
 [ENDBLOCK]

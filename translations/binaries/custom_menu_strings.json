@@ -607,6 +607,29 @@
             "original_bytes_length": 21,
             "available_bytes_size": 23,
             "translation": "창이 열립니다[END]"
+        },
+        
+        {
+            "offset": 32624,
+            "string": "赤[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "빨강[END]"
+        },
+        {
+            "offset": 32616,
+            "string": "緑[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "초록[END]"
+        },
+        {
+            "offset": 32608,
+            "string": "青[END]",
+            "original_bytes_length": 3,
+            "available_bytes_size": 7,
+            "translation": "파랑[END]"
         }
+
     ]
 }
