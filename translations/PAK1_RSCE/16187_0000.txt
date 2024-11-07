@@ -1,32 +1,32 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-저, <Stahn>씨의 소중한 사람은……
+저기, <Stahn> 님의 소중한 사람이란……
 [ENDBLOCK]
-<Stahn>！
+<Stahn>!
 [ENDBLOCK]
-어떻게 된 건가요, <Mary>씨？
+무슨 일이세요, <Mary> 씨?
 [ENDBLOCK]
-<Stahn>、솔직하게 대답해 줘.
-그 점쟁이와 무엇을 이야기했어？
+<Stahn>, 솔직하게 대답해줘.
+그 점쟁이와 무슨 얘기를 했지?
 [ENDBLOCK]
-와, 저도 그걸 듣고 싶었어요.
+저, 저도 그걸 듣고 싶었어요.
 [ENDBLOCK]
-가정 안전, 이긴 한데요？
+가내안전이요?
 [ENDBLOCK]
-……뭐？
-……어？
+……네?
+……엥?
 [ENDBLOCK]
-아니, 그러니까. 가정 안전이라고요.
+아니, 그러니까. 가내안전이라고요.
 [ENDBLOCK]
-<Stahn>、그건……점괘가 아니라 기원이다.
+<Stahn>, 그건……점이 아니라 기원이야.
 [ENDBLOCK]
-<Woodrow>！
-<Rutee>씨！
+<Woodrow>!
+<Rutee> 씨!
 [ENDBLOCK]
-……？
+……?
 [ENDBLOCK]
