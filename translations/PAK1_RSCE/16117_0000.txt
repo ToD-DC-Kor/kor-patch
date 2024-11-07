@@ -1,24 +1,24 @@
 
-보너스
+おまけ
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-…………
+……
 [ENDBLOCK]
-와아아아, <Lilith>가！	<Lilith>가！
-倒れたままだあ～～っ！
+으아아아, <Lilith>가! <Lilith>가!
+쓰러진 채로야～～!
 [ENDBLOCK]
-괜찮아요, <Stahn>씨。
-라이프 보틀을 사용하면 금방 회복해요。
+괜찮아요, <Stahn> 님.
+라이프 보틀을 사용하면 금방 회복돼요.
 [ENDBLOCK]
-미안해, 미안해 <Lilith>！
-내가 옆에 있으면서 이런 일이 생기다니！
+미안해, 미안해 <Lilith>!
+내가 곁에 있었는데 이런 일이 벌어지다니!
 [ENDBLOCK]
-<Stahn>씨는 <Lilith>씨를,
-정말 소중하게 생각하고 있군요。
+<Stahn> 님은 <Lilith> 님을,
+정말 소중하게 생각하고 계시네요.
 [ENDBLOCK]
-떠들기만 해서는,
-어쩔 수 없지만요。
+소란 피우는 것만으로는,
+아무것도 해결되지 않는다구.
 [ENDBLOCK]

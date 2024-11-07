@@ -1,132 +1,133 @@
 <Dalis>
 [ENDBLOCK]
-얼굴색이 좋지 않네…
-여러 가지 일이 있어서 피곤한가 보군.
+안색이 좋지 않군……
+여러 일로 피곤한 모양이구나.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-조금 쉬고 가는 게 어때?
+잠시 쉬었다 가는 게 어떠냐?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-그래, 맞아.
+그래, 그러자.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dalis> 님의 상처 상태는
-어떻습니까?
+<Dalis> 씨의 상처 상태는
+어떤가요?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-일상생활에는 문제가 없다.
-하지만, 예전의 체력으로 돌아가려면
-아직 시간이 걸릴 거야.
+일상생활에는 문제없어.
+하지만 예전의 체력을 되찾으려면
+아직 시간이 많이 걸릴 거야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇군요…
-빨리 건강해지길 바랍니다.
+그렇군요……
+빨리 건강해지면 좋겠어요.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-…고마워.
+……고마워요.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-…어, 어~음.
+……으, 으음.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-…<Mary>.
+……<Mary>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-자다가 <Mary> 님의 이름을
-부르고 있네요?
+잠꼬대로 <Mary> 씨의 이름을
+부르고 있어요?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Dalis>…부끄럽군.
+<Dalis>…… 부끄럽군.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-…♪
+……♪
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-마, <Mary>…
-그 복장은…
+마, <Mary>……
+그 차림은……
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-귀엽지 않나.
-모두도 함께야.
+귀엽지?
+다들 같이 입고 있어.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-나는 오래전부터, 귀여운 것들에
-둘러싸여 살고 싶었어.
+나는 오래전부터 귀여운 것들에
+둘러싸여 살고 싶다고 생각했어.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-드디어 내 꿈이 이루어졌어!<Dalis>도 기쁘겠지?
+드디어 내 꿈이 이루어졌어!
+<Dalis>도 기쁘지?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-그래! <Dalis>도
-이걸 입으면 좋겠어.
+그래!	<Dalis>도
+이걸 입으면 돼.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-아, 아니, 나는 사양할게…
+아, 아니, 나는 사양할게……
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-부끄러워할 필요 없어.
-절대, 잘 어울릴 거야♪
+부끄러워할 것 없어.
+절대 잘 어울릴 거야♪
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-…그, 그만해줘!
+……그, 그만둬!
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<S07>우와ーーーーーーーっ！！！
+<S07>우와아아아아아악!!!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Lion> 아닌가.
-잘 지내고 있었어?
+<Lion>이 아닌가.
+잘 지내고 있었나?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 흥. 너야말로
-그렇게 건강해 보이지.
+건강해 보이는구나.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-아, 그때 네가
-나를 봐주지 않았으면 큰일 날 뻔했어.
+그래. 그때 네가
+날 놓아준 덕분이야.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 지금은 다리스와 평온한
-날들을 보내고 있어.
+나날을 보내고 있어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 그런데,
-다리스는 어떻게 됐지?
+그 다리스는 어디 갔나?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-다리스라면 도시 북쪽의
-수비소에 나갔어.
+다리스라면 마을 북쪽
+초소에 갔다.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-최근에는 스노우플리아 온천에서
-치료 중이야.
+최근에는 스노우프리아 온천에서
+치료를 받고 있거든.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -135,130 +136,130 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그래.
-그건 다행이네.
+그렇군.
+다행이구나.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-여기까지 일부러 왔으니까.
-오늘 밤 저녁을 함께 해줘.
+일부러 여기까지 왔으니
+오늘 저녁은 먹고 가라.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-내가 정성껏,
-비스트 미트 포와레를 대접할게.
+내가 정성껏
+비스트 미트 포와레를 대접하지.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 물론, 늦어지면
-숙박해도 괜찮아.
+자고 가도 상관없어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-아니, 사양할게.
+아니, 그만두겠어.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-왜 그럴까?
+왜 그러나?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 나도 임무가 있고,
-그렇게 한가하진 않아.
+그렇게 한가하지 않아.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-그래… 그건 아쉽네.
+그런가…… 아쉽구나.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그럼, 나는 이만 실례할게.
+그럼, 나는 이만 가보겠어.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-아, 다시 와 줘.
+그래, 또 오게.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Lion>라면, 다리스도
+<Lion>이라면, 다리스도
 언제든 환영할 거야.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>책의 틈새에서
+<TAG_005>책 틈새에서
 러브레터를 발견했다.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>다리스 씨에게
-～～～～～～～～～
-							당신을 동경하는 ○○보다
+<TAG_005>다리스 님께
+~~~~~~~~~
+							당신을 사모하는 ○○ 올림
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-보지 않은 일로 하자…
+보지 않은 걸로 하자……
 [ENDBLOCK]
 
 [ENDBLOCK]
 <TAG_005>조용히 러브레터를
-원래 장소에 돌려놓았다.
+원래 자리에 돌려놓았다.
 [ENDBLOCK]
 
 [ENDBLOCK]
 <TAG_005>다리스와 <Mary>의
-추억이 담긴 책들이 나란히 있다.
+추억이 가득한 책들이 늘어서 있다.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>눈하늘풀이 하얀 꽃을 피우고 있다.
+<TAG_005>설백초에 하얀 꽃이 피어 있다.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Mary> 조심해.
-반드시 돌아와 줘.
+<Mary>, 조심해.
+꼭 돌아와야 해.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
 안녕, 너희들.
-<Mary>는 도움이 되고 있니?
+<Mary>는 도움이 되고 있나?
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-내 몸 상태는 많이 좋아졌다.
-온천 덕분이야.
+내 몸 상태는 많이 좋아졌어.
+온천 덕분이지.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-사이릴에 대한 것은 맡겨 줘.
-사람들의 동요는 내가 억제할게.
+사이릴의 일은 나한테 맡겨.
+사람들의 동요는 내가 진정시키겠어.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-성으로 가서, <Darzen> 님과,
-대책을 협의할 생각이야.
+성에 가서 <Darzen> 님과
+해결책을 논의하려고 해.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-더 이상 사이릴 사람들을,
+더 이상 사이릴 사람들을
 불안에 빠뜨릴 수는 없으니까.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-드래곤은 도움이 되고 있는 것 같군.
-<Darzen> 님도 기뻐할 거야.
+드래곤이 도움이 되고 있는 것 같군.
+<Darzen> 님도 기뻐하실 거야.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Stahn> 너와 다른 여러분,
-잘 부탁해.
+<Stahn>군, 그리고 다른 여러분,
+잘 부탁드리네.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-…<Woodrow> 반드시 돌아와.
+……<Woodrow>, 꼭 돌아와야 해.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-…그리고, <Mary>. 사랑해.
+……그리고 <Mary>. 사랑해.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -267,33 +268,33 @@
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-언제든지 다시 와 줘.
+언제든 다시 와줘.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-서두를 필요 없어. 우리에게는,
-시간이 충분히 있어야 해.
+서두를 필요 없어. 우리에겐
+시간이 충분히 있을 거야.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 천천히 가면 돼.
-그렇지, <Dalis>?
+그렇지?	<Dalis>.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-예
+네
 아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x04><x80></color>가
 [ENDBLOCK]
-파티에 합류했습니다.
+파티에 가입했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
-전투에 참여할 수 있습니다.
+전투에 참가할 수 있습니다.
 [ENDBLOCK]
 동행합니다.
 [ENDBLOCK]
@@ -301,9 +302,9 @@ notice
 [ENDBLOCK]
 <x18><x65><x57><xF4><x00><x80><x18><x65><x57><xF8><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x04><x80></color>가
 [ENDBLOCK]
@@ -311,44 +312,44 @@ notice
 [ENDBLOCK]
 <x18><x65><x57><xF4><x00><x80><x18><x65><x57><xF8><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x28><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x28><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x24><x00><x80></color>를 획득했습니다.
+<x18><x65><x58><x24><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x48><x18><x80>들은
+<x19><x69><x48><x18><x80>일행은
 [ENDBLOCK]
-<turquoise>거래 칭호
+<turquoise>교역 칭호
 [ENDBLOCK]
-<x19><x69><x48><x18><x80>들은
+<x19><x69><x48><x18><x80>일행은
 [ENDBLOCK]
 <turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x48><x18><x80>들은
+<x19><x69><x48><x18><x80>일행은
 [ENDBLOCK]
 <turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x48><x18><x80>들은
+<x19><x69><x48><x18><x80>일행은
 [ENDBLOCK]
-칭호：<turquoise>내추럴 레인저
+칭호: <turquoise>네이처 레인저
 [ENDBLOCK]
-<x19><x69><x48><x18><x80>들은
+<x19><x69><x48><x18><x80>일행은
 [ENDBLOCK]
-칭호：<turquoise>대시 시리즈
+칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x48><x18><x80>들은
+<x19><x69><x48><x18><x80>일행은
 [ENDBLOCK]
 <turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x48><x18><x80>들은
+<x19><x69><x48><x18><x80>일행은
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x48><x18><x80>는
+<x19><x69><x48><x18><x80>은(는)
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007><x18><x65><x58><x1C><x00><x80>
 <x18><x65><x58><x20><x00><x80>
@@ -356,151 +357,151 @@ notice
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<x1A><x20><x72><x0C><x98><x80>는
+<x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
-이 ID와 비밀번호를 연동 웹사이트에
-입력함으로써, 데스티니의 세계가
+<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
+이 ID와 패스워드를 연동 웹사이트에서
+입력하면, 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>자세한 사항은 아래 URL에서 확인해 주세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>연동 ID는<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 비밀번호는<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+<TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>게임 중의 이벤트나 미니게임을
-클리어하면 연동 ID와 게임 비밀번호가
-발급될 수 있습니다.
+클리어하면 연동 ID와 게임 패스워드가
+발행되는 경우가 있습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>이 연동 ID와 게임 비밀번호를
-웹사이트에 입력함으로써 데스티니
-의 세계가 더욱 넓어집니다.
+<TAG_007>이 연동 ID와 게임 패스워드를
+웹사이트에 입력하면 데스티니
+세계가 더욱 넓어집니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 비밀번호를 잊어버린 경우는
+연동 ID와 게임 패스워드를 잊어버린 경우에는
 피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외곽 없음의 밝기 설정은(RGBA)=(128, 128, 128, 128)입니다
+외각 없는 휘도 설정은 (RGBA)=(128, 128, 128, 128)입니다
 
 [ENDBLOCK]
-첫 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-두 번째 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-세 번째 단계의 밝기 설정은(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
 
 [ENDBLOCK]
-최종 단계의 밝기 설정은(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
 
 [ENDBLOCK]
-설정이 이루어지지 않았습니다!(tod=<TAG_059>)
+설정이 없습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-장치는 작동하지 않고 있습니다.
+장치가 작동하고 있지 않습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-워프 장치가 작동하였습니다.
+워프 장치가 작동했습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x19><x71><x48><x04><x80>의 소디언 장치가
+<TAG_007><x19><x71><x48><x04><x80>의 소디언 디바이스가
 사용 가능해졌습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「칭호 설명」
+<TAG_007>「칭호의 설명」
 칭호란 캐릭터에 설정할 수 있는,
-캐릭터 파라미터 중 하나입니다.
+캐릭터 파라미터의 하나입니다.
 구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
 <TAG_007>메인 메뉴를 연 후, 캐릭터의
-스탯을 표시합니다.
-그 화면에서 <Square_ani>를 누르면, 캐릭터의
-스탯 표시를 전환할 수 있습니다.
+스테이터스를 표시합니다.
+그 화면에서 <Square_ani>을 누르면, 캐릭터의
+스테이터스 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>상태의 가장 위에, 「칭호」라고 적힌
-페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면,
+<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
 획득한 칭호를 전환할 수 있습니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>칭호의 사용 방법에는 두 가지가 있습니다.
-첫 번째는…
-「칭호를 설정하고, 마을 사람에게 이야기해 보세요」
+<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+첫 번째는……
+「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>마을 사람 중에는, 칭호를 설정하고 이야기함으로써,
-당신에게 관심을 가지는 사람이 있습니다.
-마을 사람에게 몇 번 이야기했을 때,
-신기한 행동을 할 때가 있습니다.
-그 때는, 가지고 있는 칭호를 다시 설정한 후,
-다시 이야기해 보세요.
+<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
+당신에게 흥미를 보이는 사람이 있습니다.
+마을 사람들에게 여러 번 말을 걸었을 때,
+이상한 행동을 하는 경우가 있습니다.
+그때는 가지고 있는 칭호를 다시 설정한 후,
+다시 한 번 말을 걸어보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 이야기했을 때, 플레이어의
-머리 위에 「？」가 나타날 수 있습니다.
-그때는, 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 설정하고, 다시 이야기해 보세요.
-무언가 기쁜 일이 일어날지도 모릅니다.
+<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
+머리 위에 「？」가 나타나는 경우가 있습니다.
+그때는 마을 사람의 대사와 관련이 있을 것 같은
+칭호를 설정하고, 다시 말을 걸어보세요.
+뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>사용 방법의 두 번째는…
-「상태 화면을 멋지게 꾸미자」
-모은 칭호 중에서, 만약 마음에 드는 것이 있다면,
-설정하여 상태 화면을 멋지게 연출해 보세요.
+<TAG_007>사용법의 두 번째는……
+「스테이터스 화면을 멋지게 꾸며보자」
+모은 칭호 중에서 마음에 드는 것이 있다면,
+설정해서 스테이터스 화면을 멋지게 연출해 보세요.
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007>「돌 차기 놀이는」
+<TAG_007>「돌차기 놀이」란,
 필드에 있는 돌을 차서,
 특정 조건을 클리어하는 놀이입니다.
 
 [ENDBLOCK]
-notice
+알림
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
+<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는, 돌 차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 출입하면,
+2: 전투는 돌차기 놀이의 클리어 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
 		돌은 원래 위치로 돌아갑니다.
 
 [ENDBLOCK]
