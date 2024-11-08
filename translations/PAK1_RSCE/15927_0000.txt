@@ -5,7 +5,7 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Lion> 님이 그런 일을 당하다니……
+<Lion>이 그런 일을 당하다니……
 [ENDBLOCK]
 <Lion> 님은 마리안이라는 분을
 정말 소중하게 여기고 계셨군요.

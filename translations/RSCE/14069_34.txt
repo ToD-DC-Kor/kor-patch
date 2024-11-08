@@ -279,7 +279,7 @@
 <Lion>
 [ENDBLOCK]
 혹시 있다면
-빌려주실 수 있을까요?
+빌려줄 수 있을까?
 [ENDBLOCK]
 가정부
 [ENDBLOCK]
@@ -320,7 +320,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그래서, 빌려주실 수 있을까요?
+그래서, 빌려줄 수 있을까?
 [ENDBLOCK]
 확실히 항구의 창고에 있었을 거야.
 [ENDBLOCK]

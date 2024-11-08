@@ -1644,7 +1644,7 @@ select
 <Rutee>
 [ENDBLOCK]
 오베론 사의 자본이 들어와서
-최근에 급성장했대요.
+최근에 급성장했대.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1772,7 +1772,7 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭐 혼자서 사 먹고 있는 거야.
+혼자서 뭐 먹고 있는 거야?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1802,7 +1802,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-젠장, <Stahn>네는 어디로 간 거야.
+젠장, <Stahn> 일행은 어디로 간 거야.
 아무래도 나 혼자로는 어떻게 할 수 없겠어.
 [ENDBLOCK]
 <Chaltier>
@@ -1843,8 +1843,8 @@ select
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Ilene>과 함께 있는 사람들이
-<Stahn>네일 것 같지 않아요?
+<Ilene>와 함께 있는 사람들이
+<Stahn> 일행 같지 않아요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

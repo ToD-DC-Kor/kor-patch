@@ -16,8 +16,8 @@
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-누구한테 그런 말투를 쓰는 거지.
-대단해졌구나, <Philia>!
+누구한테 그런 말투를 쓰는 거지?
+참 대단해졌구나, <Philia>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -159,7 +159,7 @@
 <Rutee>
 [ENDBLOCK]
 <Stahn>을 내버려 둘 생각이야?
-구해줬으면서.
+도움받았으면서.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -231,8 +231,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-잠깐…… 용서해줘.
-<Stahn>, 눈 떠!
+제발…… 이러지마.
+<Stahn>, 정신 차려!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

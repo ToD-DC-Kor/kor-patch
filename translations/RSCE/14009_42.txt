@@ -512,7 +512,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-자, 언니가
+자, 누나가
 같이 엄마를 찾아줄 테니까
 걱정하지 마.
 [ENDBLOCK]
@@ -523,7 +523,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Rutee>
 [ENDBLOCK]
 만약 엄마를 찾으면,
-이 언니가 친절하게 대해줬다고
+이 누나가 친절하게 대해줬다고
 말할 수 있겠지?
 [ENDBLOCK]
 아이
@@ -565,7 +565,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-이 언니가
+이 누나가
 친절하게 대해줬어요.
 [ENDBLOCK]
 <Lion>

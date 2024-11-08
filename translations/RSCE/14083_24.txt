@@ -1,6 +1,6 @@
 <Stahn>
 [ENDBLOCK]
-여기가 해저 동굴의 입구군요.
+여기가 해저 동굴의 입구군.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
