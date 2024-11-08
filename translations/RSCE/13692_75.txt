@@ -155,7 +155,7 @@
 <Hugo>
 [ENDBLOCK]
 준비한 배는 다릴쉐이드 항구에
-입항할 예정이오.
+입항할 예정이다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1094,7 +1094,7 @@
 <King>
 [ENDBLOCK]
 그렇게까지 말한다면…… 
-알겠다. 내 배를 준비시키지.
+알겠다. 짐의 배를 준비시키지.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]

@@ -462,8 +462,8 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 선원
 [ENDBLOCK]
-칼바레이스로 가고 싶으세요?
-방금 전에 배가 출발했어요.
+칼바레이스로 가고 싶다고?
+마침 방금 배가 출발한 참이야.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -472,7 +472,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Stahn>
 [ENDBLOCK]
 그 배에 큰 짐을
-실지 않았나요?
+실지 않았어?
 [ENDBLOCK]
 잘 알고 있네. 엄청 큰 걸
 항구 사람들 총동원해서 실었지.
@@ -502,7 +502,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-저도 같은 생각을 하고 있었어요.
+나도 같은 생각을 하고 있었어.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -510,7 +510,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 꼭 합류하고 싶네요.
 [ENDBLOCK]
 특별 선박을 갑자기 준비하다니.
-당신, 대단한 인맥의 소유자군요.
+당신, 대단한 인맥의 소유자구만.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

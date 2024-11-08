@@ -97,7 +97,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-도련님을 모셔왔어요.
+도련님을 모셔왔어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
