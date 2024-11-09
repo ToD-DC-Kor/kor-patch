@@ -6,7 +6,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 몬스터 도감이 전부 채워진 것 같군.
-여러분, 수고했어!
+모두, 수고했어!
 [ENDBLOCK]
 가하하하하!
 [ENDBLOCK]

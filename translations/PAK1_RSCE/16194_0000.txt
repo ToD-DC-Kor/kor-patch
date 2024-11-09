@@ -5,13 +5,13 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-들리느냐, 휴고!
+들리냐, 휴고!
 [ENDBLOCK]
 누가 네 맘대로 하게 두겠어!
 누가 네 뜻대로 하게 두겠어!
 [ENDBLOCK]
 반드시 대가를 치르게 해주겠어……!
-<Lion>의 원수는, 절대로 갚아주겠어!
+<Lion>의 적은, 절대로 갚아주겠어!
 [ENDBLOCK]
 네, 컷입니다.
 [ENDBLOCK]

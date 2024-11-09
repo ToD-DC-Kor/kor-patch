@@ -1435,7 +1435,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그것보다 샬.
+그것보다 샤르.
 저택으로 돌아가자.
 [ENDBLOCK]
 <Lion>
