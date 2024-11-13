@@ -100,12 +100,12 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-야호, 기다리게 했군!
+야호, 기다리셨습니다!
 
 [ENDBLOCK]
 ?????
 [ENDBLOCK]
-야호, 기다리게 했군!
+야호, 기다리셨습니다!
 
 [ENDBLOCK]
 <Hugo>
@@ -197,7 +197,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-무슨 보고야…… 말도 안 돼……
+뭐가 보고야…… 웃기지 마……
 
 [ENDBLOCK]
 <Stahn>
@@ -387,7 +387,7 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-그런 일이다. 죄인을 데리고
+그런 셈이다. 죄인을 데리고
 폐하께 오도록.
 [ENDBLOCK]
 <Hugo>

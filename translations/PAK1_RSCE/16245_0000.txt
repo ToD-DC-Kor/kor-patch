@@ -14,7 +14,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 특제 약품에 담가뒀으니까
 괜찮겠죠?
 [ENDBLOCK]
-콜록! 콜록! 이 녀석!
+콜록! 콜록! 야!!
 [ENDBLOCK]
 ……입에 안 맞으셨나요?
 [ENDBLOCK]

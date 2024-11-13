@@ -137,8 +137,8 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-에밀리오, 힘내요.
-힘들다고 해도 포기하지 말아요.
+에밀리오, 힘내.
+힘들다고 해도 포기하지 마렴.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]

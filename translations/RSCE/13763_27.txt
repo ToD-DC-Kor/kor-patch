@@ -176,7 +176,7 @@
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-처음 뵙겠습니다.
+처음 보았다구요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

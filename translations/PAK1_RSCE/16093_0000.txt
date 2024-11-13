@@ -23,7 +23,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 0점.
 [ENDBLOCK]
-뭐라고요!
+뭐라고!
 [ENDBLOCK]
 자, 자, 그렇게 나쁘지만은 않아.
 <Stahn>의 솔직한 마음이 전해졌어.

@@ -34,10 +34,10 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 ……그렇게 생각하나？
 [ENDBLOCK]
-어쩌면…… 성장한
+어쩌면…… 듬직해진
 도련님을 보고 휴고 님도……
 [ENDBLOCK]
-『참았다, <Lion>！』
+『잘했다, <Lion>！』
 [ENDBLOCK]
 ……이렇게 말씀하실지도 모릅니다.
 [ENDBLOCK]
