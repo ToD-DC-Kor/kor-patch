@@ -5,7 +5,7 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-우리 둘이서 인가.
+우리 둘이서인가.
 [ENDBLOCK]
 그럼요!
 [ENDBLOCK]
