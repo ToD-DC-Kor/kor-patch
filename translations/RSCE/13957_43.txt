@@ -649,7 +649,7 @@
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-그래서, 목적한 물건은
+그래서, 찾던 물건은
 찾았나?
 [ENDBLOCK]
 <Lion>

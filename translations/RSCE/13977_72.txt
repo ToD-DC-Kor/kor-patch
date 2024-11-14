@@ -54,7 +54,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-알고 있겠지!
+알고 있으시죠!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -62,7 +62,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-하지만…… 이대로라면 <Stahn>이 위험해요!
+하지만…… 저대로 두면 <Stahn> 일행이!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
