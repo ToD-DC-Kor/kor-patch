@@ -350,7 +350,7 @@
 <Marian>
 [ENDBLOCK]
 그렇습니까. 그럼,
-차라도 대접할까요?
+차라도 내 올까요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

@@ -600,7 +600,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-당황하지 마. 바다룡이다.
+당황하지 마. 해룡이다.
 비행룡과 비슷한 거라고 생각하면 돼.
 [ENDBLOCK]
 <Stahn>

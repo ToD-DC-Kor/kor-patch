@@ -5,6 +5,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-공중 크루저를 찾는 것이
+부유 크루저를 찾는 것이
 최우선이 아닐까요?
 [ENDBLOCK]

@@ -876,7 +876,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-샬, 우리는 지금까지도 둘이서
+샤르, 우리는 지금까지도 둘이서
 해왔어. 그건 앞으로도 변함없을 거야.
 [ENDBLOCK]
 <Lion>
@@ -895,7 +895,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-샬, 부탁해. 협력해 줘.
+샤르, 부탁해. 협력해 줘.
 나는 <Marian>을 구하고 싶어.
 [ENDBLOCK]
 <Chaltier>

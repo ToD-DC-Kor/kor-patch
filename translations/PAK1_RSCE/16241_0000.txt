@@ -20,5 +20,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 렌즈를 밟았을 뿐이다.
 [ENDBLOCK]
-제 렌즈~!
+내 렌즈~!
 [ENDBLOCK]

@@ -137,8 +137,8 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-에밀리오, 힘내요.
-힘들다고 해도 포기하지 말아요.
+에밀리오, 힘내.
+힘들다고 해도 포기하지 마렴.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -238,11 +238,11 @@
 <Hugo>
 [ENDBLOCK]
 문헌에 따르면, 소디언은
-모두 여섯 개가 있었다고 해.
+모두 여섯 개가 있었다고 하지.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-그 중 절반이 여기 모였어.
+그 중 절반이 여기 모였다.
 생각해보면 대단한 일이야.
 [ENDBLOCK]
 <Stahn>
@@ -252,12 +252,12 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-자. 여러분에게 다시 한 번 임무를 전하겠소.
+자. 여러분에게 다시 한 번 임무를 전하겠네.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
 왕도 다릴쉐이드 북쪽에 있는
-스트레이라이즈 신전으로 가주셨으면 합니다.
+스트레이라이즈 신전으로 가주셨으면 하네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -270,7 +270,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-알고 있어요. 내가 병사가 되기 위한
+알고 있어. 내가 병사가 되기 위한
 기회니까.
 [ENDBLOCK]
 <Dymlos>
@@ -364,8 +364,8 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그렇네요.
-미안해요, 에밀리오.
+그렇네.
+미안해, 에밀리오.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -392,7 +392,7 @@
 <Marian>
 [ENDBLOCK]
 어쩔 수 없는 아이네. 그래서야
-휴고 님께 혼나실 거예요.
+휴고 님께 혼날거야.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -402,7 +402,7 @@
 <Marian>
 [ENDBLOCK]
 에밀리오……
-그런 말씀을 하시면 안 돼요.
+그런 말투 하면 안돼.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -411,7 +411,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-이해해 주시면 됐어요.
+이해해 주었다면 됐어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -420,7 +420,7 @@
 <Marian>
 [ENDBLOCK]
 에밀리오……
-조심히 다녀오세요.
+조심히 다녀오렴.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

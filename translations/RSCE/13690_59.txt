@@ -448,7 +448,7 @@ select
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-정말 네 도움은……
+정말 내 도움은……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

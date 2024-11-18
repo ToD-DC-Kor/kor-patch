@@ -9,8 +9,8 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 <Rutee> 씨, 무슨 일 있으세요?
 [ENDBLOCK]
-우리도 꽤나 부자가 됐네요.
-이 가르드 산을 봐요!
+우리도 꽤나 부자가 됐네.
+이 가르드 산을 봐!
 [ENDBLOCK]
 ……아아, 이 모든 게 내 거라니……
 [ENDBLOCK]

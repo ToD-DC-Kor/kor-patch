@@ -6,8 +6,8 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 <Stahn>과 <Rutee>를
-그대로 둘 수 없죠.
+그대로 둘 수 없겠네요.
 [ENDBLOCK]
 시덴 영지로 돌아가서
-로프를 구하겠어.
+로프를 구하자.
 [ENDBLOCK]

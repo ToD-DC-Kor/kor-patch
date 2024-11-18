@@ -121,7 +121,7 @@
 남자아이
 [ENDBLOCK]
 이 정원, 예쁘지?
-내 아빠가 정비하셨어.
+우리 아빠가 정비하셨어.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
@@ -131,7 +131,7 @@
 남자아이
 [ENDBLOCK]
 이 정원, 예쁘지?
-내 아빠가 정비하셨어.
+우리 아빠가 정비하셨어.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
@@ -517,12 +517,12 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-뭐야 너희들. 아직 있었어?
+뭐야 너희들. 아직 있었나?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
 그보다 <Ashley>를
-못 봤어?
+못 봤나?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -536,7 +536,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-무슨 일이야?
+무슨 일인가요?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]

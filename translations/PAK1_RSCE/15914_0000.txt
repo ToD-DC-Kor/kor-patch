@@ -6,5 +6,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 광장에 가야겠네.
-모두가 기다리고 있을 겠지?
+다들 기다리고 있겠지?
 [ENDBLOCK]

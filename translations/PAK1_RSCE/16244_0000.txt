@@ -5,10 +5,10 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Lion>, 피코햄을 많이
-낼 수 없어.
+<Lion>, 피코한을 많이
+꺼낼 수 없어?
 [ENDBLOCK]
-내서 뭐하게?
+꺼내서 뭐하게?
 [ENDBLOCK]
 잡화점에 팔면 돈이 될까 해서.
 [ENDBLOCK]

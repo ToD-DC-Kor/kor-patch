@@ -9,10 +9,10 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 하아~암, 모두들 안녕.
 [ENDBLOCK]
-<Rutee>양, 이왕 이렇게 된 거 
-간식 좀 준비해 줘.
+<Rutee>야, 갑작스럽지만 
+간식좀 준비해 줘.
 [ENDBLOCK]
-<Philia>양은 꽃을 좀 따와 주렴.
+<Philia>는 꽃을 좀 따와 주렴.
 하아~암.
 [ENDBLOCK]
 알겠습니다.
@@ -23,11 +23,11 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 하아~암. 그러게~.
 [ENDBLOCK]
-<Mary>양은 늘 하던 대로 나랑 놀자.
+<Mary>는 늘 하던 대로 나랑 놀자.
 [ENDBLOCK]
-있잖아, <Mary>양 듣고 있어?
+있잖아, <Mary>야 듣고 있어?
 [ENDBLOCK]
-마리…… 양……
+마리…… 야……
 [ENDBLOCK]
-으아악!	방금 그 꿈은 뭐야!
+으아악!	방금 그 꿈은 뭐에요!
 [ENDBLOCK]

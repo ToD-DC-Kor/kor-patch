@@ -822,7 +822,7 @@ openflag -><x17><x71><x48><xA0><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-헤에, 여기가 죠니 영지구나.
+헤에, 여기가 시덴 영지구나.
 건물 모양이 특이하네.
 [ENDBLOCK]
 <Stahn>
