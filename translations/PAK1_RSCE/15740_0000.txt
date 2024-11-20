@@ -10,7 +10,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 ……쿨쿨～……
 [ENDBLOCK]
-이봐, <Stahn>. 일어나지 않겠나.
+이봐, <Stahn>. 얼른 일어나.
 빨리 칼바레이스 항구로 가자.
 [ENDBLOCK]
 음……조금만 더……
@@ -25,5 +25,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 ……저기 <Lion>, 우리,
 서로를 이해하게 된 거 아니었어?
 [ENDBLOCK]
-……시끄럽다.
+……시끄러.
 [ENDBLOCK]
