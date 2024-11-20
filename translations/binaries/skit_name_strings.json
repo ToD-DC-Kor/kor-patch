@@ -4331,7 +4331,7 @@
             "string": "初めてのセインガルド城[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "처음 가보는 세인가드 성[END]"
+            "translation": "처음 가보는 세인가르드 성[END]"
         },
         {
             "offset": 89800,
@@ -4646,7 +4646,7 @@
             "string": "セインガルドは北の門から[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "세인가드는 북문에서[END]"
+            "translation": "세인가르드는 북문에서[END]"
         },
         {
             "offset": 90816,
@@ -4688,7 +4688,7 @@
             "string": "セインガルドまではもうすぐ[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "세인가드까지는 얼마 안 남았어[END]"
+            "translation": "세인가르드까지는 얼마 안 남았어[END]"
         },
         {
             "offset": 90936,
