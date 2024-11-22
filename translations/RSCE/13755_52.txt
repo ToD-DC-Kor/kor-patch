@@ -215,26 +215,26 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-요리는 어떠세요?
+요리는 어때?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-정말 맛있어요.
+정말 맛있어.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그렇습니까. 그렇다면
-오늘의 요리사도 기뻐하겠네요.
+그래? 그렇다면
+오늘의 요리사도 기뻐하겠네.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-오늘의 요리사?\t평소의
+오늘의 요리사? 평소의
 주방장이 아닌 거야?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-네. 주방장님이 몸이 좋지 않으셔서,
-오늘 요리는 제가 만들었어요.
+응. 주방장님이 몸이 좋지 않아서,
+오늘 요리는 내가 만들었어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -252,8 +252,8 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-고마워요. 그럼 내일 장보기도
-열심히 해야겠네요.
+고마워. 그럼 내일 장보기도
+열심히 해야겠네.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -262,7 +262,7 @@
 <Marian>
 [ENDBLOCK]
 주방장님이 쉬시는 동안,
-제가 장보기와 요리를 맡게 됐어요.
+제가 장보기와 요리를 맡게 됐어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -270,8 +270,8 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-아니에요, 괜찮아요.
-그저 시내를 한 바퀴 도는 것뿐이니까요.
+아니야, 괜찮아.
+그저 시내를 한 바퀴 도는 것뿐이니까.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -286,7 +286,7 @@
 <Marian>
 [ENDBLOCK]
 어머. 그렇다면
-거절할 수 없겠네요.
+거절할 수 없겠네.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -308,7 +308,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-저, 정말 행복했어요.
+저, 정말 행복했어.
 고마워요 에밀리오……
 [ENDBLOCK]
 <Lion>

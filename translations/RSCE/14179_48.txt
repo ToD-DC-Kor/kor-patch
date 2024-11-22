@@ -223,7 +223,7 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-여러분의 준비가 끝나면
+여러분의 준비가 완료되는 대로
 항구로 와 주세요.
 [ENDBLOCK]
 알림

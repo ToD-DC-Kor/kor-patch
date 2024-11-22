@@ -139,7 +139,7 @@ WALL_2다!!
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-여러분의 준비가 되는 대로
+여러분의 준비가 완료되는 대로
 항구로 와 주세요.
 [ENDBLOCK]
 알림

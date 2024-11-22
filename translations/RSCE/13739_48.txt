@@ -678,11 +678,11 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <Marian>
 [ENDBLOCK]
 이 바다는 내가 저택에
-왔을 때부터 전혀 변하지 않았네요.
+왔을 때부터 전혀 변하지 않았네.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-하지만 변한 것도 있어요.
+하지만 변한 것도 있어.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -694,7 +694,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-솔직히 놀랐어요.
+솔직히 놀랐어.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -711,7 +711,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-어, 왜요?
+어, 왜?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
