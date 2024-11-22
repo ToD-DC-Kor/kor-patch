@@ -35,7 +35,7 @@
 <Rutee>
 [ENDBLOCK]
 <Greybum>처럼,
-몬스터의 두목이라도 될 생각인가요?
+몬스터의 두목이라도 될 생각인가?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -73,8 +73,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-당신을 위해 한 게 아니에요.
-너무 우쭐대지 말아주세요.
+당신을 위해 한 게 아니야.
+너무 우쭐대지 말아줘.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -265,7 +265,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>, 위험해요!
+<Stahn>, 위험해!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

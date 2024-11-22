@@ -1372,7 +1372,7 @@ EX 포인트에 대해
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-네 의견 같은 건 듣지 않았어.
+네 의견 같은 건 듣지 않겠어.
 나는…… <Marian>을 되찾을 거야.
 [ENDBLOCK]
 <Lion>

@@ -489,7 +489,7 @@
 <Dymlos>
 [ENDBLOCK]
 여기엔 <Woodrow>도 있다는 걸 잊지 마라.
-불필요한 행동은 삼가야 한다.
+불필요한 행동은 하지 않는 것이 좋을 거다.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

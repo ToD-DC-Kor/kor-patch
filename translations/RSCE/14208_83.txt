@@ -128,7 +128,7 @@
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-<Philia>……징징이는군,
+<Philia>……정말 끈질기군,
 여기까지 날 쫓아오다니.
 [ENDBLOCK]
 <Philia>

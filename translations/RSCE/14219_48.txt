@@ -342,8 +342,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-큰일이네요.
-<Stahn>, 빨리 구출하러 가요.
+큰일이네.
+<Stahn>, 빨리 구출하러 가자.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

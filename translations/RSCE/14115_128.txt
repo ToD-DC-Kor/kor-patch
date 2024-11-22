@@ -935,7 +935,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-시덴 영지와 분위기가 비슷하네요.
+시덴 영지와 분위기가 비슷하네.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]

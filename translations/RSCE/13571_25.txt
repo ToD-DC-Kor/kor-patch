@@ -73,8 +73,8 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-죠니의 동굴 말이야. 지면이 무너져서 나랑
-<Stahn>이 떨어졌잖아.
+시덴의 해저 동굴에서 말이야.
+지면이 무너져서 나랑 <Stahn>이 떨어졌잖아.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -226,8 +226,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-방, 들어
-주셨으면 하는 게 있어요……
+도련님, 들어 주셨으면 하는 게 있어요……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -240,11 +239,11 @@
 <Lion>
 [ENDBLOCK]
 어떻게 하면…… <Marian>을
-구할 수 있을까요……!
+구할 수 있을까……!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-들어주세요, 방!
+들어주세요, 도련님!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -280,7 +279,7 @@
 <Lion>
 [ENDBLOCK]
 날 믿는다고 했던 건……
-그게 거짓말이었던 거야!
+그건 거짓말이었던 거야!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]

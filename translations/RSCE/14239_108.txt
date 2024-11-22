@@ -542,8 +542,8 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-서두르지 말고 천천히 기억해도 돼요.
-천천히…… 알겠죠?
+서두르지 말고 천천히 기억해도 돼.
+천천히…… 알겠지?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]

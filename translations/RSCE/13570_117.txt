@@ -106,11 +106,11 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-!	……나는 대체……?
+……나는 대체……?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-스탄, 정신이 들었나요!
+도련님, 정신이 들었나요!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -132,7 +132,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-스탄, 계속
+도련님이, 계속
 눈을 뜨지 않으니까 저는……
 [ENDBLOCK]
 <Lion>
@@ -242,7 +242,7 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-네게 해야 할
+니가 해야 할
 일이 생겼거든.
 [ENDBLOCK]
 <Hugo>

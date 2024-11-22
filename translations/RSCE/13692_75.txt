@@ -1242,7 +1242,7 @@
 <King>
 [ENDBLOCK]
 자네에게는 쉬운 임무일지 모르지만
-이 임무의 의의는 크다.
+이 임무는 매우 중요하다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
