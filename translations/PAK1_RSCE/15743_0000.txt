@@ -5,7 +5,7 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Philia>가 신전 뒷문의 열쇠를
+<Philia>가 신전 뒷문을
 열어주겠다고 했었지.
 [ENDBLOCK]
 기다리게 하면 미안하겠네.

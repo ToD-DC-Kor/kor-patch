@@ -6,5 +6,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 레이놀즈의 연구실은
-성 안에 있다.
+성 안이다.
 [ENDBLOCK]

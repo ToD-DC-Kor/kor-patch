@@ -82,7 +82,7 @@
 <Rutee>
 [ENDBLOCK]
 우리가 싸우는 동안
-글레밤이 가져간 것 같아요.
+글레밤이 가져간 것 같네.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -96,7 +96,7 @@
 <Chaltier>
 [ENDBLOCK]
 빨리 쫓아가면
-아직 늦지 않을지도 모릅니다?
+아직 늦지 않을지도 몰라요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -123,7 +123,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-둘 다 적당히 하지 않겠어?
+둘 다 적당히 해.
 지금은 말다툼할 때가 아니야!
 [ENDBLOCK]
 <Stahn>

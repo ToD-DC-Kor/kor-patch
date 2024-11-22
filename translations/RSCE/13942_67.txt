@@ -726,7 +726,7 @@ select
 <Rutee>
 [ENDBLOCK]
 우와, 뭐야 저거.
-<Lion>, 기분 나쁘지 않아?
+<Lion> 쟤, 기분 나쁘지 않아?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -912,7 +912,7 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-기다려, 모두!
+기다려, 너희들!
 너무 서두른다고!
 [ENDBLOCK]
 <Baruk>

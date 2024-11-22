@@ -475,7 +475,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-미안해, 오빠.
+미안해, 형아.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -506,7 +506,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-흥. 그래서 뭐?\n훔쳐지는 쪽이 나쁜 거 아냐?
+흥. 그래서 뭐? 훔쳐지는 쪽이 나쁜 거 아냐?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -521,7 +521,7 @@ init_camera_homing!!!
 <Stahn>
 [ENDBLOCK]
 용서해주자, <Rutee>.
-훔쳐지지 않았으니까.
+도둑맞지 않았으니까.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
@@ -535,7 +535,7 @@ init_camera_homing!!!
 <Rutee>
 [ENDBLOCK]
 우리는 아무것도 훔치지 않았어.
-훔친 건 너희가……
+훔쳐간 건 너희잖아……
 [ENDBLOCK]
 소년
 [ENDBLOCK]
@@ -562,7 +562,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-지금이야!
+지금이다!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -593,7 +593,7 @@ init_camera_homing!!!
 <Stahn>
 [ENDBLOCK]
 방금 소년에게 렌즈를
-훔칠 뻔했어요……
+도둑맞을 뻔했어요……
 [ENDBLOCK]
 남
 [ENDBLOCK]
@@ -607,7 +607,7 @@ init_camera_homing!!!
 남
 [ENDBLOCK]
 서쪽에 있는 쓰레기 마을이야.
-너희와는 전혀 상관없는 곳이지.
+너희와는 전혀 연이 없는 곳이지.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

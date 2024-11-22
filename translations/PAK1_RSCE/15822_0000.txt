@@ -13,7 +13,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 눈물이 나~♪
 [ENDBLOCK]
-야, 노래 그만 불러.
+야, 노래좀 멈추게 해.
 [ENDBLOCK]
 뭐 어때. 재밌는데.
 [ENDBLOCK]
@@ -27,7 +27,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 누군가의 노래 같네.
 [ENDBLOCK]
-그게 어때서?
+그게 어쨋다는거지.
 [ENDBLOCK]
 모르는 건 언제나~♪
 [ENDBLOCK]
