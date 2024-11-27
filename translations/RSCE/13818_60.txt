@@ -488,7 +488,7 @@ discovery:<x17><x15><x7B><x80>
 <Rutee>
 [ENDBLOCK]
 무슨 일이 있었는지
-말씀해 주시겠습니까?
+말해 줄 수 있겠어?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]

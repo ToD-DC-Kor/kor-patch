@@ -259,7 +259,7 @@
 <Stahn>
 [ENDBLOCK]
 좋아! 힘내서
-어떻게든 신전에 가볼까!
+어쩌구 신전에 가볼까!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -331,8 +331,8 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-줄 것이 있었는데 잊고 있었어.
-이걸 가져가.
+줄 것이 있었는데 잊고 있었군.
+이걸 가져 가거라.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

@@ -10,14 +10,14 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 있잖아, 자기 이름을 붙인 그거……
 [ENDBLOCK]
-그래……
+아……
 [ENDBLOCK]
 특별한 이유는 없어요.
 그냥요.
 [ENDBLOCK]
 흠, 그래?
 [ENDBLOCK]
-<Philia>ㅡ정말……
+<Philia>ㅡ혹시……
 [ENDBLOCK]
 전에 내가 말했던 거,
 혹시 듣고 있었던 걸까?

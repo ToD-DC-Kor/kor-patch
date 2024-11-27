@@ -60,7 +60,7 @@
 [ENDBLOCK]
 <John>
 [ENDBLOCK]
-오, 오야빈!
+대, 대장!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

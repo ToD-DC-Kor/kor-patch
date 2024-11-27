@@ -61,7 +61,7 @@
 <Lion>
 [ENDBLOCK]
 그럭저럭이야.
-샬은 어때?
+샤르는 어때?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]

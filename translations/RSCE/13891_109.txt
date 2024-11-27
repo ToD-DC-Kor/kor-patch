@@ -178,7 +178,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-실은…… 신의 눈을 빼앗겼어요.
+실은…… 신의 눈을 빼앗겼어.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]

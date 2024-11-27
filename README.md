@@ -128,7 +128,7 @@
   - Proofreading translated text, offering suggestions for improvement.
 - 권형근, a game guide contributor.
   - Provided a translated game guide to assist with text verification.
-- 이장호, a text proofreader and playtester.
+- 상남자, a text proofreader and playtester.
   - Proofreading translated text, offering suggestions for improvement and playtesting.
 
 ## Credits

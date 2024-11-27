@@ -46,7 +46,7 @@
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-이것도 이것대로 꽤 재밌군.
+이것도 이것대로 꽤 재밌어.
 
 [ENDBLOCK]
 <Rutee>

@@ -18,7 +18,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 <Johnny> 씨~♪
 [ENDBLOCK]
 누굴 격려한다는 거야, 정말!
-<Johnny> 씨가 들을 리가 없잖아.
+<Johnny> 가 들을 리가 없잖아.
 [ENDBLOCK]
 치료에 방해되니까 거기서 비키세요!
 [ENDBLOCK]

@@ -9,5 +9,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 네가 말을 많이 하니까 그렇지.
 [ENDBLOCK]
-이거라도 드시겠습니까?
+이거라도 드시겠어요?
 [ENDBLOCK]

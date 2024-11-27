@@ -288,7 +288,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-엥?
+네?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -303,7 +303,7 @@
 <Philia>
 [ENDBLOCK]
 아니에요…… 저,
-이분들과 함께 가겠습니다.
+이 분들과 함께 가겠습니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -339,7 +339,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그 녀석 신경 쓰지 마.
+저 녀석은  신경 쓰지 마.
 항상 저런 식이니까.
 [ENDBLOCK]
 <Stahn>

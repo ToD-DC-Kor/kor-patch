@@ -1811,7 +1811,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-이런 때에 뭘 웃고 있는 거야, 샬.
+이런 때에 뭘 웃고 있는 거야, 샤르.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]

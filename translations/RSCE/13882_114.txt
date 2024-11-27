@@ -493,7 +493,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-이 앞은 무슨 일이 일어날지 모른다.
+이 앞은 무슨 일이 일어날지 몰라.
 <Philia>는 해룡 안에서 기다려 줘.
 [ENDBLOCK]
 <Mary>
