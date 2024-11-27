@@ -467,126 +467,126 @@
             "string": "『革命』と描かれたバンダナ。[LINE]\nどんな事でも揺るがない！[LINE]\n全ての状態異常を防止する。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "‘혁명’이라고 쓰인 반다나.[LINE]\n어떤 일에도 흔들리지 않아![LINE]\n모든 상태이상을 방지한다.[END]"
+            "translation": "『혁명』이라고 쓰인 반다나.[LINE]\n어떤 일에도 흔들리지 않아![LINE]\n모든 상태이상을 방지한다.[END]"
         },
         {
             "offset": 1797224,
             "string": "[Sign_1]革命バンダナ[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_1]혁명 반다나.[END]"
+            "translation": "[Sign_1]혁명 반다나[END]"
         },
         {
             "offset": 1797248,
             "string": "『豪傑』と描かれたバンダナ。[LINE]\n攻撃力が大幅に上昇する。[LINE]\n[END]",
             "original_bytes_length": 55,
             "available_bytes_size": 55,
-            "translation": "‘호걸’이라고 쓰인 반다나.[LINE]\n공격력이 대폭 상승한다.[LINE]\n[END]"
+            "translation": "『호걸』이라고 쓰인 반다나.[LINE]\n공격력이 대폭 상승한다.[LINE]\n[END]"
         },
         {
             "offset": 1797304,
             "string": "[Sign_1]豪傑バンダナ[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_1]호걸 반다나.[END]"
+            "translation": "[Sign_1]호걸 반다나[END]"
         },
         {
             "offset": 1797328,
             "string": "『滅殺』と描かれたバンダナ。[LINE]\n封印を防止し、命中率を上昇させる。[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "‘멸살’이라고 쓰인 반다나.[LINE]\n봉인을 방지하고, 명중률이 상승한다.[LINE]\n[END]"
+            "translation": "『멸살』이라고 쓰인 반다나.[LINE]\n봉인을 방지하고, 명중률이 상승한다.[LINE]\n[END]"
         },
         {
             "offset": 1797400,
             "string": "[Sign_1]滅殺バンダナ[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_1]멸살 반다나.[END]"
+            "translation": "[Sign_1]멸살 반다나[END]"
         },
         {
             "offset": 1797424,
             "string": "『疾風』と描かれたバンダナ。[LINE]\n衰弱を防止し、回避率を上昇させる。[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "‘질풍’이라고 쓰인 반다나.[LINE]\n쇠약을 방지하고, 회피율이 상승한다.[LINE]\n[END]"
+            "translation": "『질풍』이라고 쓰인 반다나.[LINE]\n쇠약을 방지하고, 회피율이 상승한다.[LINE]\n[END]"
         },
         {
             "offset": 1797496,
             "string": "[Sign_1]疾風バンダナ[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_1]질풍 반다나.[END]"
+            "translation": "[Sign_1]질풍 반다나[END]"
         },
         {
             "offset": 1797520,
             "string": "『覚醒』と描かれたバンダナ。[LINE]\n睡眠を防止し、集中力を上昇させる。[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "‘각성’이라고 쓰인 반다나.[LINE]\n수면을 방지하고, 집중력이 상승한다.[LINE]\n[END]"
+            "translation": "『각성』이라고 쓰인 반다나.[LINE]\n수면을 방지하고, 집중력이 상승한다.[LINE]\n[END]"
         },
         {
             "offset": 1797592,
             "string": "[Sign_1]覚醒バンダナ[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_1]각성 반다나.[END]"
+            "translation": "[Sign_1]각성 반다나[END]"
         },
         {
             "offset": 1797616,
             "string": "『天空』と描かれたバンダナ。[LINE]\n麻痺を防止し、体力を上昇させる。[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "‘천공’이라고 쓰인 반다나.[LINE]\n마비를 방지하고, 체력이 상승한다.[LINE]\n[END]"
+            "translation": "『천공』이라고 쓰인 반다나.[LINE]\n마비를 방지하고, 체력이 상승한다.[LINE]\n[END]"
         },
         {
             "offset": 1797680,
             "string": "[Sign_1]天空バンダナ[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_1]천공 반다나.[END]"
+            "translation": "[Sign_1]천공 반다나[END]"
         },
         {
             "offset": 1797704,
             "string": "『堅牢』と描かれたバンダナ。[LINE]\n石化を防止し、防御力を上昇させる。[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "‘견고’라고 쓰인 반다나.[LINE]\n석화를 방지하고, 방어력이 상승한다.[LINE]\n[END]"
+            "translation": "『견고』라고 쓰인 반다나.[LINE]\n석화를 방지하고, 방어력이 상승한다.[LINE]\n[END]"
         },
         {
             "offset": 1797776,
             "string": "[Sign_1]堅牢バンダナ[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_1]견고 반다나.[END]"
+            "translation": "[Sign_1]견고 반다나[END]"
         },
         {
             "offset": 1797800,
             "string": "『激烈』と描かれたバンダナ。[LINE]\n熱毒を防止し、攻撃力を上昇させる。[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "‘격렬’이라고 쓰인 반다나.[LINE]\n열독을 방지하고, 공격력이 상승한다.[LINE]\n[END]"
+            "translation": "『격렬』이라고 쓰인 반다나.[LINE]\n열독을 방지하고, 공격력이 상승한다.[LINE]\n[END]"
         },
         {
             "offset": 1797872,
             "string": "[Sign_1]激烈バンダナ[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_1]격렬 반다나.[END]"
+            "translation": "[Sign_1]격렬 반다나[END]"
         },
         {
             "offset": 1797896,
             "string": "『必勝』と描かれたバンダナ。[LINE]\n気が引き締まり、攻撃力アップ！[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "‘필승’이라고 쓰인 반다나.[LINE]\n정신 바짝 차리고, 공격력 업![LINE]\n[END]"
+            "translation": "『필승』이라고 쓰인 반다나.[LINE]\n정신 바짝 차리고, 공격력 업![LINE]\n[END]"
         },
         {
             "offset": 1797960,
             "string": "[Sign_1]必勝バンダナ[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Sign_1]필승 반다나.[END]"
+            "translation": "[Sign_1]필승 반다나[END]"
         },
         {
             "offset": 1797984,
