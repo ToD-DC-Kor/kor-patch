@@ -10,5 +10,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 걸어서 제노스를 넘어가는, 두 가지 방법이 있어.
 [ENDBLOCK]
-방법은 네가 선택해.
+방법은 맡기도록 하지.
 [ENDBLOCK]

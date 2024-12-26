@@ -45,7 +45,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 시장
 [ENDBLOCK]
-네가 사과할 게 뭐야!
+당신이 왜 사과해!
 [ENDBLOCK]
 엘레나
 [ENDBLOCK]
@@ -59,7 +59,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 시장
 [ENDBLOCK]
-더 이상 모르겠다!
+이제 몰라 됐어!
 마음대로 해라!
 [ENDBLOCK]
 <Philia>
@@ -69,7 +69,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 엘레나
 [ENDBLOCK]
-내 피의 반은
+제 피의 반은
 당신들과 같거든요.
 [ENDBLOCK]
 엘레나
@@ -114,7 +114,7 @@ init_camera_homing!!!
 엘레나
 [ENDBLOCK]
 저 이제 싫어요.
-저 할아버지와 할머니가.
+제 할아버지와 할머니가.
 [ENDBLOCK]
 엘레나
 [ENDBLOCK]

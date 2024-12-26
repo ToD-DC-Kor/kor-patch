@@ -138,49 +138,49 @@
             "string": "無事にベルセリウムを届けた[LINE]\n[Stahn]たちに、[LINE]\n[Reynolds]から伝言が。[LINE]\n話があるので、セインガルド[LINE]\n城まで来て欲しいとの事[LINE]\nだが……[END]",
             "original_bytes_length": 118,
             "available_bytes_size": 119,
-            "translation": "무사히 벨세리움을 전달한[LINE]\n[Stahn] 일행에게,[LINE]\n[Reynolds]로부터 전언이 있다.[LINE]\n이야기가 있으니, 세인가르드[LINE]\n성까지 와주길 바란다는 것[LINE]\n이지만……[END]"
+            "translation": "무사히 베르셀리움을 전달한[LINE]\n[Stahn] 일행에게,[LINE]\n[Reynolds]로부터 전언이 있다.[LINE]\n이야기가 있으니, 세인가르드[LINE]\n성까지 와주길 바란다는 것[LINE]\n이지만……[END]"
         },
         {
             "offset": 35528,
             "string": "街の人々の協力により、[LINE]\n大量のベルセリウムを手に[LINE]\n入れた[Stahn]たち。[LINE]\n人々に厚く礼を述べた後、[LINE]\n一行は飛行竜のあるダリル[LINE]\nシェイドへ戻る事にする。[END]",
             "original_bytes_length": 141,
             "available_bytes_size": 143,
-            "translation": "마을 사람들의 협력으로,[LINE]\n대량의 벨세리움을 손에[LINE]\n넣은 [Stahn] 일행.[LINE]\n사람들에게 감사를 표한 후,[LINE]\n일행은 비행룡이 있는 다릴[LINE]\n쉐이드로 돌아가기로 한다.[END]"
+            "translation": "마을 사람들의 협력으로,[LINE]\n대량의 베르셀리움을 손에[LINE]\n넣은 [Stahn] 일행.[LINE]\n사람들에게 감사를 표한 후,[LINE]\n일행은 비행룡이 있는 다릴[LINE]\n쉐이드로 돌아가기로 한다.[END]"
         },
         {
             "offset": 35672,
             "string": "トラッシュマウンテンの中で[LINE]\nベルセリウムを発見した[LINE]\n[Stahn]たち。[LINE]\nだが期待したほどの量は[LINE]\n得られなかった。[LINE]\nこれからどうするべきか？[LINE]\n善後策を協議するべく、[LINE]\n一行は外へ出る事にする。[END]",
             "original_bytes_length": 175,
             "available_bytes_size": 175,
-            "translation": "트래시 마운틴 속에서[LINE]\n벨세리움을 발견한[LINE]\n[Stahn] 일행.[LINE]\n그러나 기대했던 만큼의 양은[LINE]\n얻지 못했다.[LINE]\n이제 어떻게 해야 할까?[LINE]\n대책을 협의하기 위해,[LINE]\n일행은 밖으로 나가기로 한다.[END]"
+            "translation": "트래시 마운틴 속에서[LINE]\n베르셀리움을 발견한[LINE]\n[Stahn] 일행.[LINE]\n그러나 기대했던 만큼의 양은[LINE]\n얻지 못했다.[LINE]\n이제 어떻게 해야 할까?[LINE]\n대책을 협의하기 위해,[LINE]\n일행은 밖으로 나가기로 한다.[END]"
         },
         {
             "offset": 35848,
             "string": "[Stahn]たちは[LINE]\nトラッシュマウンテンの中に[LINE]\n入る。そこは有毒ガスが充満[LINE]\nした、危険な場所だった。[LINE]\n果たしてベルセリウムは[LINE]\n見つかるのだろうか？[END]",
             "original_bytes_length": 135,
             "available_bytes_size": 135,
-            "translation": "[Stahn] 일행은[LINE]\n트래시 마운틴 속으로[LINE]\n들어간다. 그곳은 유독 가스가[LINE]\n가득한, 위험한 곳이었다.[LINE]\n과연 벨세리움은[LINE]\n찾을 수 있을까?[END]"
+            "translation": "[Stahn] 일행은[LINE]\n트래시 마운틴 속으로[LINE]\n들어간다. 그곳은 유독 가스가[LINE]\n가득한, 위험한 곳이었다.[LINE]\n과연 베르셀리움은[LINE]\n찾을 수 있을까?[END]"
         },
         {
             "offset": 35984,
             "string": "ベルセリウムを探して、[LINE]\n[Stahn]たちは懸命に[LINE]\nゴミ漁りを続ける。[LINE]\nそこへひとりの青年が[LINE]\n近づいてきて、トラッシュ[LINE]\nマウンテンの入り口を開いて[LINE]\nくれる。[END]",
             "original_bytes_length": 142,
             "available_bytes_size": 143,
-            "translation": "벨세리움을 찾아,[LINE]\n[Stahn] 일행은 열심히[LINE]\n쓰레기를 뒤지기를 계속한다.[LINE]\n그곳에 한 사내가[LINE]\n다가와, 트래시[LINE]\n마운틴의 입구를 열어준다.[END]"
+            "translation": "베르셀리움을 찾아,[LINE]\n[Stahn] 일행은 열심히[LINE]\n쓰레기를 뒤지기를 계속한다.[LINE]\n그곳에 한 사내가[LINE]\n다가와, 트래시[LINE]\n마운틴의 입구를 열어준다.[END]"
         },
         {
             "offset": 36128,
             "string": "飛行竜を修復するため、[LINE]\nベルセリウムを求めて[LINE]\nジャンクランドを訪れた[LINE]\n[Stahn]たち。[LINE]\n街の人に協力を求めるも、[LINE]\n反応は芳しくない。[LINE]\nやむなく一行は、自分たち[LINE]\nだけで捜索を開始するが……[END]",
             "original_bytes_length": 175,
             "available_bytes_size": 175,
-            "translation": "비행룡을 수리하기 위해,[LINE]\n벨세리움을 찾으려[LINE]\n정크랜드를 방문한[LINE]\n[Stahn] 일행.[LINE]\n마을 사람에게 협력을 요청해도,[LINE]\n반응은 좋지 않다.[LINE]\n억지로 일행은, 스스로[LINE]\n탐색을 시작하지만……[END]"
+            "translation": "비행룡을 수리하기 위해,[LINE]\n베르셀리움을 찾으려[LINE]\n정크랜드를 방문한[LINE]\n[Stahn] 일행.[LINE]\n마을 사람에게 협력을 요청해도,[LINE]\n반응은 좋지 않다.[LINE]\n억지로 일행은, 스스로[LINE]\n탐색을 시작하지만……[END]"
         },
         {
             "offset": 36304,
             "string": "ベルセリウムを探して[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "벨세리움을 찾아서[END]"
+            "translation": "베르셀리움을 찾아서[END]"
         },
         {
             "offset": 36328,
