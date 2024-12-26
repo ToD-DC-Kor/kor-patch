@@ -149,7 +149,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-클레멘트 노익장, 장난은
+클레멘트 영감, 장난은
 적당히 해주시지.
 [ENDBLOCK]
 <Stahn>

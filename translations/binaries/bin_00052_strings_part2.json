@@ -159,14 +159,14 @@
             "string": "[Stahn]たちは[LINE]\nトラッシュマウンテンの中に[LINE]\n入る。そこは有毒ガスが充満[LINE]\nした、危険な場所だった。[LINE]\n果たしてベルセリウムは[LINE]\n見つかるのだろうか？[END]",
             "original_bytes_length": 135,
             "available_bytes_size": 135,
-            "translation": "[Stahn] 일행은[LINE]\n트래시 마운틴 속으로[LINE]\n들어간다. 그곳은 유독 가스가[LINE]\n가득한, 위험한 곳이었다.[LINE]\n과연 은[LINE]\n찾을 수 있을까?[END]"
+            "translation": "[Stahn] 일행은[LINE]\n트래시 마운틴 속으로[LINE]\n들어간다. 그곳은 유독 가스가[LINE]\n가득한, 위험한 곳이었다.[LINE]\n과연 베르셀리움은[LINE]\n찾을 수 있을까?[END]"
         },
         {
             "offset": 35984,
             "string": "ベルセリウムを探して、[LINE]\n[Stahn]たちは懸命に[LINE]\nゴミ漁りを続ける。[LINE]\nそこへひとりの青年が[LINE]\n近づいてきて、トラッシュ[LINE]\nマウンテンの入り口を開いて[LINE]\nくれる。[END]",
             "original_bytes_length": 142,
             "available_bytes_size": 143,
-            "translation": "을 찾아,[LINE]\n[Stahn] 일행은 열심히[LINE]\n쓰레기를 뒤지기를 계속한다.[LINE]\n그곳에 한 사내가[LINE]\n다가와, 트래시[LINE]\n마운틴의 입구를 열어준다.[END]"
+            "translation": "베르셀리움을 찾아,[LINE]\n[Stahn] 일행은 열심히[LINE]\n쓰레기를 뒤지기를 계속한다.[LINE]\n그곳에 한 사내가[LINE]\n다가와, 트래시[LINE]\n마운틴의 입구를 열어준다.[END]"
         },
         {
             "offset": 36128,

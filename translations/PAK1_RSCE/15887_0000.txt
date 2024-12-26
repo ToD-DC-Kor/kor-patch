@@ -5,7 +5,7 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-왕님을 만나러 가기 전에,
+임금님을 만나러 가기 전에,
 <Woodrow> 씨를 만나러 가자.
 [ENDBLOCK]
 노이슈타트에서 배를 타야겠네.

@@ -54,7 +54,7 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-알고 있으시죠!
+알고 있잖아요!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

@@ -138,7 +138,7 @@ init_camera_homing!!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇게까지 말하는건 좀……
+그렇게까지 말하지 않아도……
 [ENDBLOCK]
 엘레나
 [ENDBLOCK]

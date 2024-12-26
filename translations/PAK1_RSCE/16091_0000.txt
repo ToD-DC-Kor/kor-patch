@@ -21,7 +21,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 그렇죠, <Woodrow> 씨!
 [ENDBLOCK]
-그 말 대로네!
+그 말대로네!
 [ENDBLOCK]
 빛이 있는 우리의 세계를
 되찾자!

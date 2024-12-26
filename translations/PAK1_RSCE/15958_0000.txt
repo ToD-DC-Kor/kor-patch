@@ -11,7 +11,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 이게 생각대로 잘 안 돼서요……
 [ENDBLOCK]
-이봐 노익장, 이 수상한 액체,
+이봐, 이 수상한 액체,
 사람이 다뤄도 괜찮은 거야?
 [ENDBLOCK]
 내가 <Philia>를

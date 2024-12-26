@@ -13,7 +13,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 그렇게…… 마치 다른 사람이 된 것처럼
 말씀하지 말아주세요.
 [ENDBLOCK]
-<Philia>군, 잠깐 괜찮을까?
+<Philia>, 잠깐 괜찮을까?
 [ENDBLOCK]
 아, 네.
 [ENDBLOCK]

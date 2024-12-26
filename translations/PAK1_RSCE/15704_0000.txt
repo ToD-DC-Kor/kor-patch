@@ -6,5 +6,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 스트레이라이즈 신전 안을
-조사해 보도록 하자.
+조사해봅시다.
 [ENDBLOCK]

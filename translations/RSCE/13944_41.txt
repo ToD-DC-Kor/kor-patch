@@ -506,7 +506,8 @@ init_camera_homing!!!
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-흥. 그래서 뭐? 훔쳐지는 쪽이 나쁜 거 아냐?
+흥. 그래서 뭐?
+훔쳐지는 쪽이 나쁜 거 아냐?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
