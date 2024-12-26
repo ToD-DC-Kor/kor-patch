@@ -6,5 +6,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 에너지 유닛을
-메인 시스템에 연결하라.
+메인 시스템에 연결하는거다.
 [ENDBLOCK]

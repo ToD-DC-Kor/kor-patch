@@ -6,5 +6,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 아이스캔디 가게는
-마을 광장에 있다.
+마을 광장에 있어.
 [ENDBLOCK]

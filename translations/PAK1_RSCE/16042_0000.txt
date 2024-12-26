@@ -12,10 +12,10 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 어차피 귀찮은 일은 다 떠넘기고,
 재미나게 살고 싶다는 거겠죠?
 [ENDBLOCK]
-<Rutee>, 그건 좀 심한 말 아니야?
-<Johnny> 님도 이렇게 보여도 사실은……
+<Rutee>, 그건 좀 말이 심하잖아
+<Johnny> 씨가 이래 보여도 사실은……
 [ENDBLOCK]
 정답이야. 대단하네, <Rutee>.
 [ENDBLOCK]
-보이는 그대로네요.
+보이는 그대로네.
 [ENDBLOCK]

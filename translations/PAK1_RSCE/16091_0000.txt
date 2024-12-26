@@ -14,14 +14,14 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 절대로 믹트란을 물리칠 거야!
 [ENDBLOCK]
 
-좋아, <Philia>!
+괜찮지, <Philia>!
 [ENDBLOCK]
 물론입니다!
-우리의 세계를 다시 평화롭게 만들어요!
+우리의 세계를 다시 평화롭게!
 [ENDBLOCK]
-그렇죠, <Woodrow> 님!
+그렇죠, <Woodrow> 씨!
 [ENDBLOCK]
-그 말씀 그대로입니다!
+그 말대로네!
 [ENDBLOCK]
 빛이 있는 우리의 세계를
 되찾자!

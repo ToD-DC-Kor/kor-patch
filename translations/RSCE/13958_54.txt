@@ -645,7 +645,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-이런!
+이건!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]

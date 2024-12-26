@@ -8,7 +8,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 <Woodrow> 님,
 제가 도와드릴 일은 없을까요?
 [ENDBLOCK]
-괜찮아. 지금은 충분히 인원이 있어.
+괜찮아. 도와줄 일이 없어.
 [ENDBLOCK]
 무언가 필요하시다면,
 바로 저에게 말씀해 주세요.
@@ -16,7 +16,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 고마워. 큰 도움이 되는구나.
 [ENDBLOCK]
 네, <Woodrow> 님께 도움이 되는 것이
-제게는 행복이니까요.
+제 행복이니까요.
 [ENDBLOCK]
 <Chelsea> 씨, 열심히 하고 있네요.
 [ENDBLOCK]
