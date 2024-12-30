@@ -106,7 +106,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……나는 대체……?
+!	……나는 대체……?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -242,7 +242,7 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-니가 해야 할
+네게 해야 할
 일이 생겼거든.
 [ENDBLOCK]
 <Hugo>

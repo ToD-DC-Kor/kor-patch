@@ -226,7 +226,8 @@
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-도련님, 들어 주셨으면 하는 게 있어요……
+도련님, 들어 주셨으면
+하는 게 있어요……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

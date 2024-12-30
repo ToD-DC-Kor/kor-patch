@@ -766,11 +766,11 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-어머, 오늘은 일찍 일어났네, 에밀리오.
+어머, 오늘은 일찍 일어났네요, 에밀리오.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-곧 아침 식사 준비할게.
+곧 아침 식사 준비할게요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -780,7 +780,7 @@
 <Marian>
 [ENDBLOCK]
 그렇게 말해주니 기쁘지만,
-마음만 받을게.
+마음만 받을게요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -788,7 +788,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-요즘은 일이 바쁜 것 같네.
+요즘은 일이 바쁜 것 같네요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -797,7 +797,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그때부터 벌써 2개월 이상 지났네.
+그때부터 벌써 2개월 이상 지났네요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -807,7 +807,7 @@
 <Marian>
 [ENDBLOCK]
 친구들을 만나지 못해서
-외롭지는 않아?
+외롭지는 않나요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -817,7 +817,7 @@
 <Marian>
 [ENDBLOCK]
 후후후. 에밀리오,
-정말 많이 변했어.
+정말 많이 변했어요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -826,8 +826,8 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-아니야. 지금의 당신이
-훨씬 더 좋아.
+아니에요. 지금의 당신이
+훨씬 더 좋아요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -836,7 +836,7 @@
 <Marian>
 [ENDBLOCK]
 아, 맞다.
-이거야.
+이거예요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -844,7 +844,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-내가 준비한 부적이야.
+내가 준비한 부적이에요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -862,8 +862,8 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그 이야기, 이미 여러 번 들었어.
-그리고 항상 즐거워 보이던데.
+그 이야기, 이미 여러 번 들었어요.
+그리고 항상 즐거워 보이던데요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -871,7 +871,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-자, 차 더 마셔.
+자, 차 더 마셔요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -880,7 +880,7 @@
 <Marian>
 [ENDBLOCK]
 그나저나, 어제 돌아온 후로
-꽤 기분이 좋아 보이네?
+꽤 기분이 좋아 보이네요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -916,7 +916,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-네, 조심히 다녀와.
+네, 조심히 다녀와요.
 아, 그러고 보니!
 [ENDBLOCK]
 <Lion>
@@ -926,7 +926,7 @@
 <Marian>
 [ENDBLOCK]
 오늘 <Hugo> 님이
-저택으로 돌아오신대.
+저택으로 돌아오신대요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
