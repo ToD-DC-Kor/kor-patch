@@ -607,14 +607,14 @@
             "string": "獅子戦吼：エイミングステップ中に灼光拳[END]",
             "original_bytes_length": 39,
             "available_bytes_size": 39,
-            "translation": "사자전구: 에이밍 스텝 중에 작광권[END]"
+            "translation": "사자전후: 에이밍 스텝 중에 작광권[END]"
         },
         {
             "offset": 1710784,
             "string": "獅吼爆炎陣：紅蓮剣中に獅子戦吼[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "사후폭염진: 홍련검 중에 사자전구[END]"
+            "translation": "사후폭염진: 홍련검 중에 사자전후[END]"
         },
         {
             "offset": 1710816,
