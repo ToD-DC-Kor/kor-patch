@@ -1,9 +1,9 @@
 <Lion>
 [ENDBLOCK]
-<xE0>
-[ENDBLOCK]
 본 적 없는 녀석들이야.
 이놈들이 정체불명의 몬스터인가!
+[ENDBLOCK]
+<IGNORE>
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
