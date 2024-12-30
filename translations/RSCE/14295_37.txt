@@ -417,7 +417,7 @@ select
 <Woodrow>
 [ENDBLOCK]
 얼마 전 성에서 떨어질 때 지나온,
-비상 통로를 사용하자.
+비상 통로를 이용하자.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]

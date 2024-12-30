@@ -1034,7 +1034,7 @@
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-저기, 그런데 오빠
+저기, 그런데 형아
 무슨 일이야?
 [ENDBLOCK]
 <Lion>
@@ -1121,7 +1121,7 @@
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-저기, 오빠~!
+저기, 형아~!
 다음에 놀자~!
 [ENDBLOCK]
 여자아이

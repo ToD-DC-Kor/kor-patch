@@ -779,7 +779,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그렇게 말해주시니 기쁘지만,
+그렇게 말해주니 기쁘지만,
 마음만 받을게요.
 [ENDBLOCK]
 <Lion>
@@ -844,7 +844,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-제가 준비한 부적이에요.
+내가 준비한 부적이에요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -863,7 +863,7 @@
 <Marian>
 [ENDBLOCK]
 그 이야기, 이미 여러 번 들었어요.
-그리고 항상 즐거워 보이시던데요.
+그리고 항상 즐거워 보이던데요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -871,7 +871,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-자, 차 더 드세요.
+자, 차 더 마셔요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -879,8 +879,8 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그나저나, 어제 돌아오신 후로
-꽤 기분이 좋아 보이시네요?
+그나저나, 어제 돌아온 후로
+꽤 기분이 좋아 보이네요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -916,7 +916,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-네, 조심히 다녀오세요.
+네, 조심히 다녀와요.
 아, 그러고 보니!
 [ENDBLOCK]
 <Lion>
@@ -951,7 +951,7 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-안녕히 가세요.
+잘 다녀오세요.
 [ENDBLOCK]
 알림
 [ENDBLOCK]

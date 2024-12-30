@@ -711,7 +711,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-어, 왜요?
+어, 왜?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]

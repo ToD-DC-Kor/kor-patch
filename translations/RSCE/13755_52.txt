@@ -215,20 +215,20 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-요리는 어떠세요?
+요리는 어떤가요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-정말 맛있어요.
+정말 맛있어.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그렇습니까. 그렇다면
+그래요? 그렇다면
 오늘의 요리사도 기뻐하겠네요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-오늘의 요리사?\t평소의
+오늘의 요리사? 평소의
 주방장이 아닌 거야?
 [ENDBLOCK]
 <Marian>
