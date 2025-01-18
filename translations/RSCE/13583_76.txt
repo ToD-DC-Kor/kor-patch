@@ -292,7 +292,7 @@ select
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-피곤하면 쉬어가세요.
+피곤하면 쉬어가거라.
 네
 아니요
 [ENDBLOCK]
