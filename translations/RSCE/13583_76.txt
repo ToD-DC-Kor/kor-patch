@@ -473,7 +473,7 @@ select
 <Woodrow>
 [ENDBLOCK]
 편지가 도착했거든.
-소환되었다니 어쩔 수 없어.
+부름을 받아서 어쩔 수 없어.
 
 [ENDBLOCK]
 <Woodrow>
