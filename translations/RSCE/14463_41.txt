@@ -119,7 +119,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Lion>군……너는……!
+<Lion>……너는……!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]

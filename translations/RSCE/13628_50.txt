@@ -664,7 +664,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Stahn>군. 자네가 가진 검은
+<Stahn>. 자네가 가진 검은
 분명 특별한 것일세.
 
 [ENDBLOCK]

@@ -564,47 +564,47 @@ debug
 [ENDBLOCK]
 부인
 [ENDBLOCK]
-어머, <Lion>군?
+어머, <Lion>?
 지금 너 얘기 하고 있었어.
 [ENDBLOCK]
 부인
 [ENDBLOCK]
-당신이 <Lion>군?
+당신이 <Lion>?
 와ー, 가까이서 봐도 미소년이구나!
 [ENDBLOCK]
 부인
 [ENDBLOCK]
-들었어, <Lion>군!
+들었어, <Lion>!
 큰 임무를 완수했다면서?
 [ENDBLOCK]
 부인
 [ENDBLOCK]
 어머어머. 나한테 말을 거네.
-<Lion>군은 정말 귀여워.
+<Lion>은 정말 귀여워.
 [ENDBLOCK]
 부인
 [ENDBLOCK]
-얼마 전에 소문의 <Lion>군을 봤어.
+얼마 전에 소문의 <Lion>을 봤어.
 반할 것 같은 미소년이었지.
 [ENDBLOCK]
 부인
 [ENDBLOCK]
 병사들 소문으로는
-<Lion>군이 또 큰 임무를 완수했대.
+<Lion>이 또 큰 임무를 완수했대.
 [ENDBLOCK]
 부인
 [ENDBLOCK]
-최근에 <Lion>군 모습을 못 봤는데,
+최근에 <Lion>의 모습을 못 봤는데,
 어디 멀리 갔나?
 [ENDBLOCK]
 부인
 [ENDBLOCK]
-<Lion>군은 이렇게 힘든 시기에
+<Lion>은 이렇게 힘든 시기에
 어디로 가버린 거야?
 [ENDBLOCK]
 부인
 [ENDBLOCK]
-<Lion>군이 나쁜 사람이었다는 소문이 있지만,
+<Lion>이 나쁜 사람이었다는 소문이 있지만,
 난 믿지 않아.
 [ENDBLOCK]
 부인
@@ -619,7 +619,7 @@ debug
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-<Lion> 자네가 출세했으면 좋겠네.
+<Lion>이 출세했으면 좋겠네.
 이제 칠장군 시대는 아니니까 말이야.
 [ENDBLOCK]
 어머니
@@ -628,12 +628,12 @@ debug
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-<Lion> 자네도 곧 칠장군으로
+<Lion>도 곧 칠장군으로
 선발되지 않을까?
 [ENDBLOCK]
 어머니
 [ENDBLOCK]
-<Lion> 자네가 출세했으면 좋겠어.
+<Lion>이 출세했으면 좋겠어.
 이제 칠장군 시대는 아니야.
 [ENDBLOCK]
 어머니

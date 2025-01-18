@@ -93,7 +93,7 @@ select
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-사실 말이야, <Stahn>군. 나와
+사실 말이야, <Stahn>. 나와
 <Chelsea>가 처음 만났을 때 이야기인데.
 [ENDBLOCK]
 <Alba>
@@ -178,7 +178,7 @@ select
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-자, 너무하지 않나, <Stahn>군.
+자, 너무하지 않나, <Stahn>.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -427,7 +427,7 @@ select
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-아, 아니야. <Stahn>군의 목표가
+아, 아니야. <Stahn>의 목표가
 잘 되기를 기도하고 있다네.
 
 [ENDBLOCK]
@@ -502,7 +502,7 @@ select
 <Woodrow>
 [ENDBLOCK]
 그럼 준비가 되는 대로
-출발하자. <Stahn>군.
+출발하자. <Stahn>.
 
 [ENDBLOCK]
 <Stahn>

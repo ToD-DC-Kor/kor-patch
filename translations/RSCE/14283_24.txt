@@ -162,7 +162,7 @@
 [ENDBLOCK]
 모험가
 [ENDBLOCK]
-어라? 네가 <Stahn>군이니?
+어라? 네가 <Stahn>이니?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

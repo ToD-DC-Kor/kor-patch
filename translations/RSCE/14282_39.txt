@@ -250,7 +250,7 @@
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Stahn>군, 그리고 다른 여러분,
+<Stahn>, 그리고 다른 여러분,
 잘 부탁드리네.
 [ENDBLOCK]
 <Dalis>

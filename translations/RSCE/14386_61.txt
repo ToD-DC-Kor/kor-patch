@@ -24,7 +24,7 @@ set_drgn
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-어라, <Stahn>군.
+어라, <Stahn>.
 어디 가니?
 [ENDBLOCK]
 <Stahn>
@@ -38,7 +38,7 @@ select
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-세상!?	<Stahn>군이?
+세상!?	<Stahn>이?
 
 [ENDBLOCK]
 <Stahn>
@@ -56,12 +56,12 @@ select
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-정말, <Stahn>군은 어린애 같아!
+정말, <Stahn>은 어린애 같아!
 
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-하지만, 그게 <Stahn>군다운 것 같기도 해.
+하지만, 그게 <Stahn>다운 것 같기도 해.
 
 [ENDBLOCK]
 <Stahn>
@@ -80,7 +80,7 @@ select
 촌장의 딸
 [ENDBLOCK]
 꽤 비밀주의가
-되었네 <Stahn>군은.
+되었네 <Stahn>은.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -103,7 +103,7 @@ select
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-그래? <Stahn>군은
+그래? <Stahn>은
 언제까지나 어린애라고 생각했는데……
 [ENDBLOCK]
 촌장의 딸
@@ -117,7 +117,7 @@ select
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-그럼 <Stahn>군,
+그럼 <Stahn>,
 조심히 다녀와.
 [ENDBLOCK]
 매기 아줌마
@@ -147,7 +147,7 @@ select
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>군, 뭐든
+<Rutee>, 뭐든
 한계라는 게 있는 법이야.
 [ENDBLOCK]
 <Stahn>
@@ -834,7 +834,7 @@ select
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-<Stahn>군, 옛날에 우리 집 정원 꽃을
+<Stahn>, 옛날에 우리 집 정원 꽃을
 전부 뽑아버린 거 기억나?
 [ENDBLOCK]
 촌장의 딸
@@ -844,17 +844,17 @@ select
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-<Stahn>군의
+<Stahn>의
 아는 분인가요?
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-<Stahn>군, 마을로 돌아오고 싶어지면
+<Stahn>, 마을로 돌아오고 싶어지면
 언제든 돌아와도 좋아.
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-<Stahn>군을
+<Stahn>을
 잘 부탁드립니다.
 [ENDBLOCK]
 촌장의 딸
@@ -865,12 +865,12 @@ select
 촌장의 딸
 [ENDBLOCK]
 이제 다시는 햇살 아래에서
-<Stahn>군과 이야기할 수 없는 걸까?
+<Stahn>과 이야기할 수 없는 걸까?
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
 다시 한 번 햇살 아래에서
-<Stahn>군과 이야기하고 싶었는데.
+<Stahn>과 이야기하고 싶었는데.
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
@@ -1011,7 +1011,7 @@ event_happen -> <TAG_031>, talk <x17><x69><x48><xE0><x80>, cond<TAG_032>
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-키득키득. <Stahn>군,
+키득키득. <Stahn>,
 즐거워 보이네.
 [ENDBLOCK]
 <Stahn>
@@ -1027,7 +1027,7 @@ event_happen -> <TAG_031>, talk <x17><x69><x48><xE0><x80>, cond<TAG_032>
 [ENDBLOCK]
 그런가?
 [ENDBLOCK]
-나, 그런 <Stahn>군을
+나, 그런 <Stahn>을
 옛날부터 꽤 좋아했어.
 [ENDBLOCK]
 <Stahn>
@@ -1058,7 +1058,7 @@ event_happen -> <TAG_031>, talk <x17><x69><x48><xE0><x80>, cond<TAG_032>
 최상급 소고기잖아!
 이런 걸 받아도 되나.
 [ENDBLOCK]
-괜찮아. <Stahn>군에게 도움이 된다면
+괜찮아. <Stahn>에게 도움이 된다면
 나도 기쁘니까.
 [ENDBLOCK]
 <Stahn>
@@ -1810,7 +1810,7 @@ select
 [ENDBLOCK]
 루웨인
 [ENDBLOCK]
-사실은 말이야, <Stahn> 군. 나도 네
+사실은 말이야, <Stahn>. 나도 네
 할머니를 좋아했었단다.
 [ENDBLOCK]
 <Stahn>
@@ -1831,7 +1831,7 @@ select
 루웨인
 [ENDBLOCK]
 그런 건 모르는 일이죠.
-<Stahn> 군은 정말로 내 손자였을
+<Stahn>은 정말로 내 손자였을
 지도 모르죠.
 [ENDBLOCK]
 <Stahn>

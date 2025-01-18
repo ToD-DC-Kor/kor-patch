@@ -160,7 +160,7 @@ select
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-그래, <Stahn>군.
+그래, <Stahn>.
 <Chelsea>와 같은 나이의 남자아이 없니?
 [ENDBLOCK]
 <Alba>
@@ -244,7 +244,7 @@ select
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-사실 말이야, <Stahn>군. 나와
+사실 말이야, <Stahn>. 나와
 <Chelsea>가 처음 만났을 때 이야기인데.
 [ENDBLOCK]
 <Alba>
@@ -329,7 +329,7 @@ select
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
-자, 너무하지 않나, <Stahn>군.
+자, 너무하지 않나, <Stahn>.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]

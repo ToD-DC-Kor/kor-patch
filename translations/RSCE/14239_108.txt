@@ -448,7 +448,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Stahn>군은 훌륭한 마스터가 되는 길을
+<Stahn>은 훌륭한 마스터가 되는 길을
 착실히 걷고 있는 것 같군.
 [ENDBLOCK]
 <Woodrow>
@@ -561,7 +561,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-괜찮아, <Stahn>군.
+괜찮아, <Stahn>.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -579,7 +579,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-자, <Stahn>군
+자, <Stahn>
 이 반지를 사용해서 눈앞의
 눈을 녹여보게.
 [ENDBLOCK]

@@ -513,7 +513,7 @@
 <Woodrow>
 [ENDBLOCK]
 그때는 목소리가 들리지 않는 척해서
-미안했네. <Dymlos>군.
+미안했네. <Dymlos>.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -619,7 +619,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Stahn>군 일행이……?
+<Stahn> 일행이……?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]

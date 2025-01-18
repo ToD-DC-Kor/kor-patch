@@ -110,7 +110,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Stahn>군, 그만 좀 하지 않겠나!
+<Stahn>, 그만 좀 하지 않겠나!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -118,7 +118,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Lion>군이 얼마나 큰 각오로
+<Lion>이 얼마나 큰 각오로
 우리를 도망가게 해줬다고 생각해?
 [ENDBLOCK]
 <Woodrow>
@@ -132,7 +132,7 @@
 <Woodrow>
 [ENDBLOCK]
 어쨌든, 비행룡에 타자.
-<Stahn>군과 <Rutee>군을 안으로!
+<Stahn>과 <Rutee>를 안으로!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]

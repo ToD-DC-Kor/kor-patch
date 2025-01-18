@@ -28,7 +28,7 @@ reset---------
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-<Stahn>군…… 왜 여기에?
+<Stahn>…… 왜 여기에?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -79,7 +79,7 @@ reset---------
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-있잖아 <Stahn>군. 왜 이 세상에서
+있잖아 <Stahn>. 왜 이 세상에서
 다툼이 없어지지 않는 걸까?
 [ENDBLOCK]
 <Ilene>
@@ -113,7 +113,7 @@ reset---------
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-<Stahn>군은 무슨 이상이 있니?
+<Stahn>은 무슨 이상이 있니?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -141,7 +141,7 @@ reset---------
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-신기하네. <Stahn>군과 이야기하다 보니
+신기하네. <Stahn>과 이야기하다 보니
 왠지 기운이 나는 것 같아.
 [ENDBLOCK]
 <Stahn>

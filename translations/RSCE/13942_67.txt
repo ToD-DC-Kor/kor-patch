@@ -789,7 +789,7 @@ select
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-<Stahn>군, 괜찮나?
+<Stahn>, 괜찮나?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

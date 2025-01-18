@@ -9,7 +9,7 @@
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-오랜만이네, <Stahn>군.
+오랜만이네, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -36,7 +36,7 @@
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-<Stahn>군은 노이슈타트가 지금
+<Stahn>은 노이슈타트가 지금
 어떻게 되어가고 있는지 알고 있니?
 [ENDBLOCK]
 <Stahn>
@@ -54,7 +54,7 @@
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-<Stahn>군도 세계 곳곳을 돌아다니며
+<Stahn>도 세계 곳곳을 돌아다니며
 비슷한 상황을 목격했겠지?
 [ENDBLOCK]
 <Stahn>
@@ -106,7 +106,7 @@
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-강하네…… <Stahn>군……
+강하네…… <Stahn>……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -163,11 +163,11 @@
 <Ilene>
 [ENDBLOCK]
 정말로 순수하고 곧은 성격이구나.
-그게 <Stahn>군의 매력인가……
+그게 <Stahn>의 매력인가……
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-<Stahn>군…… 언제까지나
+<Stahn>…… 언제까지나
 지금의 너다움을 잃지 말아줘.
 [ENDBLOCK]
 <Ilene>
@@ -185,7 +185,7 @@
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-미안해…… <Stahn>군.
+미안해…… <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

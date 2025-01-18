@@ -5,6 +5,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Stahn>자네, 제노스로 가려면
+<Stahn>, 제노스로 가려면
 반대 방향이야.
 [ENDBLOCK]

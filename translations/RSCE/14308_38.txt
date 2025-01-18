@@ -146,7 +146,7 @@
 <Woodrow>
 [ENDBLOCK]
 확실히 마음이 아프네.
-하지만 <Stahn> 군 혼자에게 거짓말을
+하지만 <Stahn> 혼자에게 거짓말을
 하게 할 수는 없어.
 [ENDBLOCK]
 <Woodrow>

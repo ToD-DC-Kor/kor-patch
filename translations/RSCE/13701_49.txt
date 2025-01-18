@@ -464,7 +464,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-어이, <Lion>군이랑
+어이, <Lion>이랑
 음…… 너는……?
 [ENDBLOCK]
 <Stahn>
@@ -473,7 +473,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-<Stahn>군이구나. 나는 <Ashley>야.
+<Stahn>이구나. 나는 <Ashley>야.
 그런데 너희들 뭐 하고 있어?
 [ENDBLOCK]
 <Stahn>
@@ -493,7 +493,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 <Ashley>
 [ENDBLOCK]
 네가 신의 눈을……?
-그렇다면 <Lion>군이?
+그렇다면 <Lion>이?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

@@ -360,7 +360,7 @@
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Mary>, <Stahn>군들과 가거라.
+<Mary>, <Stahn> 일행과 가거라.
 나는 이제 괜찮다.
 [ENDBLOCK]
 <Stahn>
@@ -410,7 +410,7 @@
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-게다가 우리는 <Stahn>군들에게
+게다가 우리는 <Stahn> 일행에게
 큰 은혜를 입고 있어.
 [ENDBLOCK]
 <Dalis>

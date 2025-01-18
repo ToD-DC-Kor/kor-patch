@@ -25,7 +25,7 @@ select
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>군을 두고 가면 안 돼.
+<x19><x6A><x04><x80>을(를) 두고 가면 안 돼.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
@@ -57,7 +57,7 @@ select
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<x19><x6A><x04><x80>군을 두고 가는 건
+<x19><x6A><x04><x80>을(를) 두고 가는 건
 좋지 않을 거야.
 [ENDBLOCK]
 <Leader>
@@ -95,7 +95,7 @@ select
 <Woodrow>
 [ENDBLOCK]
 아니, <Chelsea>는
-<Stahn>군들과 가거라.
+<Stahn> 일행과 가거라.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]

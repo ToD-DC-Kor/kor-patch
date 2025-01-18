@@ -2068,7 +2068,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 리온
 [ENDBLOCK]
-잘 말했어 <Ascus>군.
+잘 말했어 <Ascus>.
 음~~ 대단해!
 [ENDBLOCK]
 <Dryden>

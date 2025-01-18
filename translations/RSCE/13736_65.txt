@@ -328,7 +328,7 @@
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Stahn>군의 관직 이야기도
+<Stahn>의 관직 이야기도
 내가 폐하께 말씀드리지.
 [ENDBLOCK]
 <Hugo>

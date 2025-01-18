@@ -920,7 +920,7 @@ R키 입수, 수고했다.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Stahn> 군은 그걸로 납득이 된 건가?
+<Stahn>은 그걸로 납득이 된 건가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

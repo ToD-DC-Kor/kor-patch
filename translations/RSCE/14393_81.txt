@@ -513,7 +513,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-누굴 찾고 있니, <Stahn>군.
+누굴 찾고 있니, <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

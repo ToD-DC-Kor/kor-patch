@@ -1180,7 +1180,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
-그럼, 부탁해 <Stahn>군.
+그럼, 부탁해 <Stahn>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1201,7 +1201,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 프란츠
 [ENDBLOCK]
-안녕, <Stahn>군에 <Rutee>군!
+안녕, <Stahn>, <Rutee>!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

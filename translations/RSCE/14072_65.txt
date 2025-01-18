@@ -681,7 +681,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 모험가
 [ENDBLOCK]
-어라? 네가 <Stahn>군이니?
+어라? 네가 <Stahn>이니?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

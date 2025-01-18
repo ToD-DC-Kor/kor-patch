@@ -14,7 +14,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 ……
 [ENDBLOCK]
-<Philia>군, 무슨 일 있는가?
+<Philia>, 무슨 일 있는가?
 [ENDBLOCK]
 아니에요, 아무것도 아닙니다.
 [ENDBLOCK]

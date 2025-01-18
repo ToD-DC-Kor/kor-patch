@@ -168,7 +168,7 @@
 [ENDBLOCK]
 사쿠라바
 [ENDBLOCK]
-「<Johnny>군은 피아노 못 치네」라고.
+「<Johnny>는 피아노 못 치네」라고.
 [ENDBLOCK]
 사쿠라바
 [ENDBLOCK]
@@ -201,7 +201,7 @@
 사쿠라바
 [ENDBLOCK]
 뭐 그런 거야.
-<Stahn>군.
+<Stahn>.
 [ENDBLOCK]
 사쿠라바
 [ENDBLOCK]

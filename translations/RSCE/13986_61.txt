@@ -981,7 +981,7 @@ select
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-어째서 <Stahn>군이 여기 있는 거야!?
+어째서 <Stahn>이 여기 있는 거야!?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1004,7 +1004,7 @@ select
 [ENDBLOCK]
 촌장의 딸
 [ENDBLOCK]
-그래요. <Stahn>군과 그녀의
+그래요. <Stahn>과 그녀의
 방해가 되면 안 되겠네요.
 [ENDBLOCK]
 <Stahn>

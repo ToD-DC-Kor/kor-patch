@@ -1229,7 +1229,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 잡화점
 [ENDBLOCK]
-아니, <Rutee>군이군.
+어, <Rutee>인가?
 [ENDBLOCK]
 잡화점
 [ENDBLOCK]
@@ -1248,7 +1248,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 잡화점
 [ENDBLOCK]
-아니, <Rutee>군이군.
+어, <Rutee>인가?
 [ENDBLOCK]
 잡화점
 [ENDBLOCK]

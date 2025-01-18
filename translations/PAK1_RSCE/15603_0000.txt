@@ -9,7 +9,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 눈이 신기한 거니?
 [ENDBLOCK]
-<Stahn> 군은 어디 출신이지?
+<Stahn>은 어디 출신이지?
 [ENDBLOCK]
 피츠가르드의 리네라는 마을이에요.
 [ENDBLOCK]

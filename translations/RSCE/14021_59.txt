@@ -17,11 +17,11 @@
 <Rembrandt>
 [ENDBLOCK]
 네가 지금 이렇게 살아있는 건,
-<Hugo> 군 덕분이야.
+<Hugo> 덕분이야.
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-나는 말이야, <Hugo> 군의 힘이
+나는 말이야, <Hugo>의 힘이
 되고자 하고 있어.
 [ENDBLOCK]
 <Rembrandt>
@@ -41,8 +41,8 @@
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-네가 크면, <Hugo> 군과
-크리스 군, 나와 네가 넷이서 일할 수
+네가 크면, <Hugo>와 크리스,
+그리고 나와 넷이서 같이 일할 수
 있으면 좋겠다고 생각하게 되는구나.
 [ENDBLOCK]
 <Rembrandt>
