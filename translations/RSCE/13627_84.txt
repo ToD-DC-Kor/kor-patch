@@ -1260,7 +1260,7 @@ debug
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-「리리아즈」?	처음 들어보는데.
+「리라아즈」?	처음 들어보는데.
 
 [ENDBLOCK]
 <Atwight>
