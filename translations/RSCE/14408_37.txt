@@ -698,7 +698,7 @@
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-<Rutee> 언니, 어서 와!
+<Rutee> 누나, 어서 와!
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
@@ -706,7 +706,7 @@
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-<Rutee> 언니, 다녀오세요!
+<Rutee> 누나, 다녀오세요!
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
@@ -714,23 +714,23 @@
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-<Rutee> 언니, 어서 와!
+<Rutee> 누나, 어서 와!
 돌아와 줬구나!
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-<Rutee> 언니가
+<Rutee> 누나가
 없으면 외로워~
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
 나, 이제 안 울 거야.
-<Rutee> 언니, 힘내세요~!
+<Rutee> 누나, 힘내세요~!
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
 나, 이제 안 울 거야.
-언니도 열심히 하고 있잖아.
+누나도 열심히 하고 있잖아.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
@@ -1026,7 +1026,7 @@
 남자아이
 [ENDBLOCK]
 야, 모르는 사람이랑 놀면 안 된다고
-언니가 항상 말하잖아.
+누나가 항상 말하잖아.
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]

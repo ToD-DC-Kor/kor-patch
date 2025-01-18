@@ -714,12 +714,12 @@
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-<Rutee> 언니, 어서 와!
+<Rutee> 누나, 어서 와!
 돌아와 줬구나!
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-<Rutee> 언니가
+<Rutee> 누나가
 없으면 외로워~
 [ENDBLOCK]
 남자아이
