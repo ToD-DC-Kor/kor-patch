@@ -148,7 +148,7 @@ g
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-형, 잘 먹네.
+형씨, 잘 먹네.
 더욱 마음에 들어.
 
 [ENDBLOCK]

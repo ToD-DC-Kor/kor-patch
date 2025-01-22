@@ -72,7 +72,7 @@
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-안녕, 형. 그 후로
+안녕, 형씨. 그 후로
 렌즈 수집은 어떻게 되가?
 [ENDBLOCK]
 <Walt>
@@ -254,7 +254,7 @@
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-재밌군, 형. 마음에 들어.
+재밌군, 형씨. 마음에 들어.
 말한 대로 지불해주지.
 
 [ENDBLOCK]

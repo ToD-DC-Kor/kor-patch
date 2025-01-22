@@ -1115,7 +1115,7 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-형을 때린다고?
+오빠를 때린다고?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]

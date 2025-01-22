@@ -1643,7 +1643,7 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-저, 저는.
+저, 저기.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1652,7 +1652,7 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-저도……?
+나도……?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1949,12 +1949,12 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-당신 정말 강하시고.
-네, 부탁드려요.
+당신 정말 강하잖아요.
+그렇죠? 제발 부탁드려요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그만두고 싶어지면 마음대로
+그만두고 싶어지면, 멋대로
 노이슈타트로 돌아가겠다.
 [ENDBLOCK]
 <Lilith>
@@ -2004,11 +2004,11 @@ select
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-우리 오빠를 때리세요.
+우리 오빠를 때리기 위해서예요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-형을 때린다고?
+오빠를 때린다고?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
