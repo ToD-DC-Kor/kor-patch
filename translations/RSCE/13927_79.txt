@@ -196,8 +196,8 @@
 [ENDBLOCK]
 선장
 [ENDBLOCK]
-발룩 님의 명령입니다.
-안으로 들어가세요.
+발룩 님의 명을 받았습니다.
+안으로 들어오세요.
 [ENDBLOCK]
 선장
 [ENDBLOCK]

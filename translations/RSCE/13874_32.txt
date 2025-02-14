@@ -121,7 +121,7 @@
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-정확히는 제2대륙 근처 해중에 가라앉은
+정확히는 제2대륙 근처 바닷속에 가라앉은
 아주 오래된 수송선 안이죠.
 [ENDBLOCK]
 <Dymlos>
