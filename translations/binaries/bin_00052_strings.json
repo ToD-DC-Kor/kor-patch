@@ -5,7 +5,7 @@
             "string": "[TAG_007]メモリーカード差込口１にメモリーカード（ＰＳ２）が[LINE]\n挿入されていません。[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "[TAG_007]메모리 카드 슬롯 1에 메모리 카드(PS2)가 삽입되어 있지 않습니다.[END]"
+            "translation": "[TAG_007]메모리 카드 슬롯 1에 메모리 카드(PS2)가[LINE]\n삽입되어 있지 않습니다.[END]"
         },
         {
             "offset": 30600,
