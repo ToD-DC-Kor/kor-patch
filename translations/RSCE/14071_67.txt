@@ -103,7 +103,7 @@
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-오빠가 하는 말,
+형이 하는 말,
 어려워서 모르겠어!!
 [ENDBLOCK]
 <Lion>
