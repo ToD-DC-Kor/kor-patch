@@ -868,36 +868,36 @@ set_drgn
 부족한 게 없니?
 소지품을 잘 확인해 두렴.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 희귀한 생물이군요.
 왕도에서도 본 적이 없어요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이 마을은 좋네요. 시골에서 흔히 있는
 폐쇄적인 면이 없어요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 저는 세인가르드 출신입니다.
 그 나라는 지금 어떻게 되고 있나요?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 멸망하지 않았다고요? 다행이군요……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 진정 우수한, 선택받은 자들의 세계……
 그게 하늘 위에 있는 걸까요?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 고향도 걱정되지만, 지금은 여기서
 마을을 지키는 데 전력을 다하겠습니다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이곳 사람들에게 신세를 졌습니다.
 은혜를 갚아야죠.

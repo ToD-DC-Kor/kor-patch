@@ -167,38 +167,38 @@
 [ENDBLOCK]
 그렇네, 일단은 안심이란 거네.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 도시가 엉망이 되기 전에
 <Greybum>을 물리칠 수 있어서 다행이야.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 천상계……
 폐하께서는 뭔가 알고 계신 건가요?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 천상계라……
 그런 게 옛날에 있었던 거야?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 폐하, 정말 암흑 세계입니다……
 
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 정말로 암흑에 갇혀버렸어.
 방송에서 말한 그대로야……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 폐하, 제가 할 수 있는 일이 있습니까?
 뭐든 도와드리겠습니다!
 
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 제가 할 수 있는 일이 있습니까?
 뭐든 도와드리겠습니다!
@@ -382,20 +382,20 @@
 무사히 돌아오실 때까지
 눈 치우기를 계속하겠습니다!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 가족에게도 눈 내린 풍경을 보여주고 싶어요.
 틀림없이 놀랄 거예요……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 가능하다면 고향으로 돌아가고 싶습니다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 고향은 어떻게 되고 있을까요……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 가족이 무사한지 걱정됩니다.
 [ENDBLOCK]

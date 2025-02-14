@@ -474,32 +474,32 @@ init_camera_homing!!!
 <TAG_005>특산품
 「닥터 피 맥주」의 큰 통이다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 외지인이 신전을 지은 건
 우리를 감시하기 위해서라는 소문이 있어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 저 방송을 환영하는 사람이
 여기엔 많은데…… 괜찮은 걸까?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 지상의 민이라고 하면,
 우리도 포함되는 거 아닌가?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 칼바레이스도 공격을 받았어……
 걱정이 현실이 되고 말았군
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 정크랜드의 지인에게서
 연락이 왔어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 네 연설이 마음에 와닿았다더라.
 다행이네.

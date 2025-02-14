@@ -198,22 +198,22 @@
 저, <Philia> 씨가
 부러워요……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이 앞은 관계자 외에는
 출입을 삼가 주시기 바랍니다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이 앞이 배틀필드가 됩니다.
 결심이 서면 들어가세요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 마을이 몬스터로? 
 하지만, 내가 여길 떠나면……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 지금, 이 안에는 마을 사람들이
 많이 피난해 있어.

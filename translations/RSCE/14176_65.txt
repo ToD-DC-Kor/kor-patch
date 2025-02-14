@@ -596,52 +596,52 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 무기를 제대로 다룰 줄 모르는 녀석은
 어른 취급 못 받는다고.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 아, 공기가 맛있어!
 자유 만세!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Greybum>이 죽었다더군.
 활용해 먹으라고!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 계속해서
 여러 가지 일이 일어나는구나……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 하늘에서 몬스터가 떨어졌어.
 아니, 눈속임이 아니라고!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 렌즈라면
 얼마든지 줄 수 있어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이겨라!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 음? 자네는 디피니트 전기를
 가지고 있지 않은가?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 자네의 실력이라면 충분할 거야.
 이걸 줄게.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이것은 몬스터에게 유효한 연계기
 「디피니트 스트라이크」를
 나타낸 것이다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 소중히 사용해주게.
 [ENDBLOCK]
@@ -660,40 +660,40 @@ aaaaa:::: <x1D><x76><x40><x18><x80> <x17><x28><xFC><x05><x24><x16><x14><x6F><x80
 디피니트 스트라이크를 볼 수 있습니다.
 
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 아, 공기가 맛있어!
 자유 만세!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Greybum>이 죽었다더군.
 활! 쌤통이지!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 일이 계속해서 터지는구만……
 여러 가지로 말이야.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 하늘에서 몬스터가 떨어졌어.
 아니, 내 눈이 잘못 본 게 아니라고!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 렌즈라면 얼마든지
 줄 수 있다고.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이겨라!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 지금의 자네에게는 할 말이 없어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 좀 더 실력을 키워오게나.
 [ENDBLOCK]

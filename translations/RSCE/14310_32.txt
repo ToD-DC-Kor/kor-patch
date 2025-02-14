@@ -473,32 +473,32 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 어서 오세요.
 무엇을 도와드릴까요?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 성을 습격한 드래곤이
 지금은 군대의 관리 하에 있다고 해요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 적어도 비행룡이라도 있다면
 하늘에서도 공격할 수 있을 텐데.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 성을 습격한 그 드래곤으로
 뭔가 할 수 없을까?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 그 드래곤 말이야, 군대가 개조해서
 탈 수 있게 만들었다더라고?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 내가 전부터 말했던 걸
 군대도 드디어 깨달은 모양이군!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 당신들이 그 드래곤을
 타고 있는 거야?

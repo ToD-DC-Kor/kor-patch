@@ -216,23 +216,23 @@
 지금까지 외지인이라고 부르고 미안해.
 부탁이니까 세계를 구해줘!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 음? 자네는 디피니트 전기를
 가지고 있지 않은가?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 자네의 실력이라면 충분할 거야.
 이걸 줄게.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이것은 몬스터에게 유효한 연계기
 「디피니트 스트라이크」를
 나타낸 것이다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 소중히 사용해주게.
 [ENDBLOCK]
@@ -286,11 +286,11 @@
 말할 필요도 없지.
 해보자고.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 지금의 자네에게는 할 말이 없어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 좀 더 실력을 키워오게나.
 [ENDBLOCK]

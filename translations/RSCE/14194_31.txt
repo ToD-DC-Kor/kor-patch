@@ -5,7 +5,7 @@
 [ENDBLOCK]
 당신은 칼바레이스 사람인가요?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 넌 뭐야……
 [ENDBLOCK]
@@ -13,38 +13,38 @@
 [ENDBLOCK]
 아니요, 실은 말이죠……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 그래서 어쩌라고……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 그런 건 상관없어……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이 토케이는 최악이야.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 쇄국, 작은 섬나라, 외부인을 싫어하는
 조건이 다 갖춰져 있잖아.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 압정에 시달리는 사람들의 분노는
 나 같은 더 약한 사람들에게 향해.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 게다가 이 세상의 상황은……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 하지만 너희들 얘기를 들으니
 온몸이 뜨거워지는걸.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 오랜만에 힘내볼까!
 [ENDBLOCK]
@@ -52,72 +52,72 @@
 [ENDBLOCK]
 네!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 내가 아는 한,
 숨어 있는 칼바레이스인도 나 하나뿐이야.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 정크랜드 녀석에게
 안부 전해줘.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 내가 아는 한,
 숨어 있는 칼바레이스인도 나 하나뿐이야.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 정크랜드 녀석에게
 안부 전해줘.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 다음 대왕은 누구일까?
 시덴 영지의 아르투르 님일까.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이 근처에서는 다음 대왕 후보로
 모류 영지의 <Fayte> 님이 유력해.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 집 안에만 틀어박혀 있으면
 하늘이 이상하다는 걸 신경 쓸 일도 없겠지?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 렌즈, 렌즈 말이야……
 지금 가져가려고 했었는데.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 렌즈를 줬으니까
 제대로 해줘야 해?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 다음 대왕은 누구일까?
 시덴 영지의 아르투르 님일까.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이 근처에서는 다음 대왕 후보로
 모류 영지의 <Fayte> 님이 유력해.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 집 안에만 틀어박혀 있으면
 하늘이 이상하다는 걸 신경 쓸 일도 없겠지?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 렌즈, 렌즈 말이야……
 지금 가져가려고 했었는데.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 렌즈를 줬으니까
 제대로 해줘야 해?

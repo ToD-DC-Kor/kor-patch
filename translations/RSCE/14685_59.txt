@@ -385,17 +385,17 @@ openflag -><x17><x71><x48><x78><x80>
 목숨이 아깝다면 그 안에 들어가지 마세요.
 유독 가스에 당할 거예요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 여기 있는 건 아주 옛날 사람들이 버린
 쓰레기라고 해요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 무슨 일이 일어나든
 어차피 우리와는 상관없어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 그 파란 돌이 쓸모있는 날이 올 줄이야.
 [ENDBLOCK]

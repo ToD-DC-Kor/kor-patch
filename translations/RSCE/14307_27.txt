@@ -189,7 +189,7 @@ select
 [ENDBLOCK]
 쾅!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 ……으악! 이봐이봐,
 장난치면 안 돼.
@@ -203,7 +203,7 @@ select
 [ENDBLOCK]
 쾅!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 ……으악! 이봐이봐,
 장난치면 안 돼.
@@ -226,21 +226,21 @@ select
 렌즈 산이 없어져 버렸어.
 아쉽다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 장난치면 안 돼.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 천 년이나 전에, 저런 공중도시가
 만들어졌다니……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 우리는 천지전쟁이라는 이름의 전투에서,
 패배했다는 건가……?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Greybum>에게도 굴하지 않았던 우리다.
 이번에도 절대 지지 않을 거야.
@@ -330,23 +330,23 @@ select
 여러분이 승리를 거두고 귀환하시는,
 그 모습이 눈에 선합니다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 음? 자네는 디피니트 전기를
 가지고 있지 않은가?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 자네의 실력이라면 충분할 거야.
 이걸 줄게.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이것은 몬스터에게 유효한 연계기
 「디피니트 스트라이크」를
 나타낸 것이다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 소중히 사용해주게.
 [ENDBLOCK]
@@ -365,16 +365,16 @@ select
 디피니트 스트라이크를 볼 수 있습니다.
 
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 음? 더 이상 줄 것은
 없다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 지금의 자네에게는 할 말이 없어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 좀 더 실력을 키워오게나.
 [ENDBLOCK]

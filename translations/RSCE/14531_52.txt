@@ -2,7 +2,7 @@
 [ENDBLOCK]
 동
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 서
 [ENDBLOCK]

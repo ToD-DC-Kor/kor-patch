@@ -121,7 +121,7 @@
 [ENDBLOCK]
 어서 오세요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 오랜만입니다.
 [ENDBLOCK]
@@ -133,7 +133,7 @@
 [ENDBLOCK]
 대체, 무슨 일이야!?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 그때는 정말 감사했습니다.
 [ENDBLOCK]
@@ -156,11 +156,11 @@
 갑옷을 벗으니까
 완전히 달라 보이네.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 감사합니다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 지금은 병사를 그만두고,
 시골에서 가업을 돕고 있습니다.
@@ -169,7 +169,7 @@
 [ENDBLOCK]
 헤에, 그렇구나.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 그래서…… 저…… 그…… 음……
 [ENDBLOCK]
@@ -177,7 +177,7 @@
 [ENDBLOCK]
 뭐야? 할 말 있으면 똑바로 해.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 저, 저의 고향에……
 같이 가주시지 않겠습니까!
@@ -186,7 +186,7 @@
 [ENDBLOCK]
 설마, 그게……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 부모님께 당신을
 소개하고 싶어서……
@@ -203,7 +203,7 @@
 [ENDBLOCK]
 거절하는 게 너무 빠르잖아!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 그렇군요……
 [ENDBLOCK]
@@ -236,7 +236,7 @@
 [ENDBLOCK]
 그리고……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 ……?
 [ENDBLOCK]

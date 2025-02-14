@@ -341,61 +341,61 @@
 저택에서 일하는 <Marian>이라는 여자는
 누군가의 귀환을 기다리고 있다더군.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이제는 렌즈 제품 없는 생활은
 상상할 수 없습니다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Hugo> 총수의 공적은
 너무나도 위대합니다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 저도 예전엔 렌즈 헌터였는데,
 <Rembrandt> 님께 발탁되었습니다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이제는 렌즈 제품 없는 생활은
 상상할 수 없지?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Hugo> 총수의 공적은
 너무나도 위대해.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 나도 예전엔 렌즈 헌터였는데,
 <Rembrandt> 님께 발탁됐지.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 선택받은 자들에 의한 새로운 세계라……
 나도 데려가 주면 좋겠는데.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 결국 하늘에서 마중은 오지 않았어.
 나는 선택받지 못한 모양이군.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 렌즈 헌터 시절은 항상 위험과
 인접해 있었지.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이제 와서 하늘이 외각으로 덮였다고
 겁먹지는 않을 거야.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 부탁해, 탐욕의 마녀!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 부탁한다, 너희들!
 [ENDBLOCK]

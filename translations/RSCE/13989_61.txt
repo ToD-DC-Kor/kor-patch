@@ -897,36 +897,36 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 너희들, 렌즈를 모으고 있다고?
 뭐에 쓰려고 그러는 거야?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 하층 마을에 정말 멋진 여성이 있어.
 어떻게든 가까워질 수 없을까……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 하층 마을의 그 사람이 이번 소동으로
 다치지 않았으면 좋겠는데……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 얼마 전에 여동생이랑 같이 있는 걸
 하층 마을의 그 사람에게 들켜버렸어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 오해하지 않았으면 좋겠는데……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 그 사람은 지금 어떤 기분일까.
 상황을 보러 가고 싶지만…… 음……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 나 같은 사람이 하층 마을에 가면
 무사하지 못할 거라고 들었고……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 음…… 어떡하지……
 [ENDBLOCK]

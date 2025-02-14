@@ -16,7 +16,7 @@
 ●●●●●● 구름 종료 ●●●●●●
 
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 당신 분명……
 [ENDBLOCK]
@@ -29,11 +29,11 @@ select
 <TAG_007>광대의…… 
 나는……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Johnny>겠지?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 흥, 알고 있어.
 [ENDBLOCK]
@@ -41,7 +41,7 @@ select
 [ENDBLOCK]
 그거 참 고마워.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 놀러 다니면서 익힌 게
 그 말재주와 쓸모없는
@@ -51,7 +51,7 @@ select
 [ENDBLOCK]
 ……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 뭐야. 이제 말대꾸도 못 하나?
 [ENDBLOCK]
@@ -59,31 +59,31 @@ select
 [ENDBLOCK]
 ……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 난 너 같은
 대충 사는 녀석이 싫어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Fayte> 님의 친구인지 뭔지는 모르겠지만,
 난 네가 싫어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Fayte> 님을 구해줘서
 고맙긴 하지만.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Fayte> 님과 네가 어울리는 건
 반대야!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Johnny>겠지?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 흥, 알고 있어.
 [ENDBLOCK]
@@ -680,37 +680,37 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x30><x80>
 타마도 응원한대.
 힘내!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 흥, 들리는군, 들려!
 거리 사람들의 한탄하는 소리가!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 걱정 마, 여러분.
 정의의 편이 어떻게든 해결할 테니.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 여러분, 내 말이 맞았죠?
 정의의 편이 어떻게든 해결했잖아.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 정의의 편의 정체는 비밀이야.
 아니아니, 나는 아니라고.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 여러분, 침착하세요!
 이럴 때야말로 히어로의 출동이다!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 ……안 된대.
 이렇게 되면 어쩔 수 없대.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 당신들이야말로 히어로예요!
 [ENDBLOCK]

@@ -738,27 +738,27 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 승리를 기원하고 있어요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 쉽게 돈 버는 방법은 없을까?
 
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 하늘에 떠 있는 우산 같은 거,
 그게 뭘까?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 농작물 가격이 오르는군……
 지금 사재기해볼까.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 지금이라면 렌즈를 사재기해서
 돈을 벌 수 있을 것 같은데……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 렌즈는 이제 필요 없는 건가?
 사재기했는데 말이야!
@@ -1033,17 +1033,17 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이봐, 나는 질투쟁이야.
 그것도 아주 심한. 뭐 어때!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 오! 너희들 중에도
 나처럼 질투하는 녀석이 있군.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 내가 화나 있는 이유를
 들어보지 않겠어?
@@ -1053,90 +1053,90 @@ select
 <TAG_007>네
 아니요
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이건 며칠 전 이야기야.
 
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 칠장군의 루웨인 님이
 꾸민 것 같은데……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 우리의 마돈나,
 칠장군의 <Melina> 양과!
 
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 하필이면 같은 칠장군인
 <Ascus> 녀석을 데이트시켰다고.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 배신자~.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 루웨인 님의 지시로
 <Ascus>와 데이트를 하게 된
 <Melina> 양이었지만……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 아무리 기다려도 <Ascus>
 녀석은…… 나타나지 않았어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Ascus> 바보는
 몇 시간이나 늦게 왔다고.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Ascus>가 말했어.
 「미안, 잊고 있었어」라고.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 아, 이건 <Ascus> 본인의 목소리라고
 생각하고 들어줘.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Melina> 양은 이렇게 대답했어.
 「장난하지 마. 몇 시간이나 기다리게 해!」
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Ascus>는 「그렇다면
 돌아가면 됐잖아」라고.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Melina> 양, 「이, 이건
 루웨인 님의 명령이야. 마음대로
 돌아갈 수 없잖아」라고.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 바보는 계속 말했어. 「나는 이런 것에
 관심 없어. 당연히 너한테도 말이야.
 나에겐 해야 할 일이 있어」라고.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Melina> 양은 「어째서 내가
 차이는 거야! <Ascus> 바보!」
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 「바보는 나야…… 어째서
 그런 녀석을……」
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 뭐, <Melina> 양에게
 망신을 준 <Ascus>는 용서할 수 없어!
@@ -1170,7 +1170,7 @@ select
 지난번 데이트가 어떻게 됐는지
 알고 있는 사람을 찾고 있었어요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이게 <Ascus>의 정체예요!
 그러니 앞으로는 <Melina> 양을……

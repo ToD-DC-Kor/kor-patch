@@ -277,77 +277,77 @@
 우리가 협력할 수 있는 일이 있다면
 뭐든지 하겠습니다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 너희들도 스트레이라이즈 신전의
 참배객이지?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 여행자 차림을 하고 있어서
 한눈에 알아봤어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 어라? 어디서 본 얼굴인데.
 
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 ……알았다! 작년에도
 스트레이라이즈 신전에 참배하러 온 사람이지?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 요 며칠 동안 아무도 신전에서
 돌아오지 않고 있어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 신전에서 일어난 사건 이야기는
 이미 이 마을에 전해졌어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 글레밤이 사라졌다고는 해도,
 신전의 신용을 회복하는 건 힘들 거야.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 너희들도 스트레이라이즈 신전의
 참배객이지?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 여행자 차림을 하고 있어서
 한눈에 알아봤어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 요 며칠 동안 아무도 신전에서
 돌아오지 않고 있어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 신전에서 일어난 사건 이야기는
 이미 이 마을에 전해졌어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 글레밤이 사라졌다고는 해도,
 신전의 신용을 회복하는 건 힘들 거야.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 그렇게 대단한 힘을 보여주면
 이제 어쩔 수 없지……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 요즘 마을을 습격하는 몬스터가
 늘고 있어. 어떻게 해야 하지.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 나도 내가 할 수 있는 일을 할 생각이야.
 [ENDBLOCK]
@@ -423,23 +423,23 @@
 길에서 쓰러지지 않도록
 꼼꼼히 준비하고 가세요!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 음? 자네는 디피니트 전기를
 가지고 있지 않은가?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 자네의 실력이라면 충분할 거야.
 이걸 줄게.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이것은 몬스터에게 유효한 연계기
 「디피니트 스트라이크」를
 나타낸 것이다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 소중히 사용해주게.
 [ENDBLOCK]
@@ -458,16 +458,16 @@
 디피니트 스트라이크를 볼 수 있습니다.
 
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 음? 더 이상 줄 것은
 없다.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 지금의 자네에게는 할 말이 없어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 좀 더 실력을 키워오게나.
 [ENDBLOCK]

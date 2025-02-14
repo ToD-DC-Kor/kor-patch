@@ -460,7 +460,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 ●●●●●● 구름 종료 ●●●●●●
 
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 없, 없어!
 [ENDBLOCK]
@@ -468,7 +468,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 무엇이 없나요?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 팬더리아로 돌아가는 데 필요한
 통행증이 없어.
@@ -478,7 +478,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 세인가르드 방면으로의 통행증이라면
 어떻게든 될 텐데.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이러다간 돌아갈 수 없겠어……
 [ENDBLOCK]
@@ -486,7 +486,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 어딘가에 떨어뜨린 건가요?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 아아!
 [ENDBLOCK]
@@ -494,7 +494,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 기억나셨나요?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 ……화장실.
 [ENDBLOCK]
@@ -502,19 +502,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 그렇다면 빨리 가서……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 아마도…… 흘려버렸어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 뭔가 방법을 생각해보자……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 하아, 나는 새장 속의 새야……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 하아……
 [ENDBLOCK]
@@ -522,17 +522,17 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 어떻게 되셨나요?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 아니, 이미 오래 전에
 팬더리아로의 통행증을 잃어버렸어.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 계속, 이 제노스에서
 나갈 수 없는 거야.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 말 그대로, 새장 속의 새라고.
 [ENDBLOCK]
@@ -558,22 +558,22 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 ……엥?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 오오!
 정말 용기를 북돋아주는 말이군!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 아가씨, 당신 덕분에
 기운이 났어요……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 최근에는 의기소침해져서,
 여관에서도 나오지 않았어요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 나를 새장 안에 가두고 있었던 건,
 바로 내 자신의 마음이었군요!
@@ -582,12 +582,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 네, 그렇다고 생각해요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 포기하지 않고, 팬더리아로 돌아갈 방법을
 찾아볼게요!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 이건 정말 감사의 표시예요.
 받아주세요.
@@ -715,7 +715,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 당신은 칼바레이스 사람인가요?
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 어떻게 알고 있지?
 [ENDBLOCK]
@@ -723,11 +723,11 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 실은……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 그렇군……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 좋아, 알겠어.
 이걸 줄게.
@@ -736,32 +736,32 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 감사합니다!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 너희 같은 녀석들을,
 좀 더 일찍 만났더라면 좋았을 텐데.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 앞으로도 서로
 힘내자고!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 그래 그래, 분명 사이릴에도
 숨어있는 칼바레이스인이 있을 거야.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 다만 꽤나,
 병약한 녀석이었지만 말이야.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 분명 사이릴에도
 숨어있는 칼바레이스인이 있을 거야.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 다만 꽤나,
 병약한 녀석이었지만 말이야.
@@ -976,37 +976,37 @@ debug
 <Woodrow> 전하께서,
 반드시 평화를 되찾아 주실 거예요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 저 여자, 예쁘다.
 어떻게든 말을 걸고 싶은데……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 뭐라고 말을 걸까?
 그대의 눈동자에 건배!	아니 아니……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 저 여자, 예쁘다.
 어떻게든 말을 걸고 싶은데……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 저 여자에게 말을 걸고 싶어서,
 계속 말을 걸지 못하고 있어……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 저 여자에게 말을 걸어야지,
 말할 상황이 아니게 됐네……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 괜찮아, 내가 당신을 지킬게요.
 …… 이렇게 말하면 되는데.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 하아…… 계속 이대로,
 말을 걸 수 없는 건가……
@@ -1065,7 +1065,7 @@ debug
 의기소침해질 것 같으면 마른 수건으로 몸을 문질러.
 힘내라고.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 뭔가 방법을 생각해보자……
 [ENDBLOCK]

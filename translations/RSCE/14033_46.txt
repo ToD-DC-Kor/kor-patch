@@ -3,7 +3,7 @@
 요즘 들어, 정신차려보면 여기로
 발걸음이 향하고 있어요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 힘든 현실을 잊고,
 어린 시절의 추억을
@@ -32,7 +32,7 @@
 정말…… 너한테는
 못 당하겠어, <Stahn>.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Kongman> 씨가 동경했던
 챔피언이요?
@@ -120,12 +120,12 @@
 어이쿠, 재미없는 얘기를
 해버렸군…… 가자……
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 정신차려보면, 여기로 발걸음이
 향하고 있어요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 뭔가 보이지 않는 손에,
 이끌려 오는 것 같은……
@@ -208,22 +208,22 @@
 [ENDBLOCK]
 그럼, 힘내세요.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 저는 항상 <Kongman>에게 베팅합니다.
 그래서 한 번도 진 적이 없죠.
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 <Kongman>이 없어지면,
 누구에게 베팅해야 하나요!
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 최근에는 제대로 된 녀석이 출전하지 않아요.
 
 [ENDBLOCK]
-남
+남성
 [ENDBLOCK]
 마이티의 용맹한 모습이,
 아직도 잊혀지지 않습니다.
