@@ -535,7 +535,7 @@
         {
             "offset": 1758384,
             "string": "リライズで、術技が使用不可になる[LINE]\n状態異常「封印」を防止する宝石に[LINE]\n変化する。[END]",
-            "translation": "리라이즈하면 술기를 막는[LINE]\n상태이상 「봉인」을 방지하는[LINE]\n보석으로 변한다.[END]",
+            "translation": "리라이즈하면 기술을 막는[LINE]\n상태이상 「봉인」을 방지하는[LINE]\n보석으로 변한다.[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79
         },

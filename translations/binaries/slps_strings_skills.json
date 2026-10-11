@@ -2049,7 +2049,7 @@
             "string": "雷の力で敵に裁きを下す術技。[LINE]\n追加効果でＨＰが回復する。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "번개로 적을 심판하는 술기.[LINE]\n추가 효과로 HP가 회복된다.[END]"
+            "translation": "번개로 적을 심판하는 기술.[LINE]\n추가 효과로 HP가 회복된다.[END]"
         },
         {
             "offset": 1703552,
@@ -2063,7 +2063,7 @@
             "string": "有象無象にビンを投げつける術技。[LINE]\n石化の追加効果を持つ。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "온갖 적에게 병을 던지는 술기.[LINE]\n석화 추가 효과를 지닌다.[END]"
+            "translation": "온갖 적에게 병을 던지는 기술.[LINE]\n석화 추가 효과를 지닌다.[END]"
         },
         {
             "offset": 1703632,
@@ -2077,7 +2077,7 @@
             "string": "味方全体を短時間敵の攻撃から護る術技。[LINE]\n術防御力も同時に上昇させる。[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71,
-            "translation": "아군 모두를 잠시 적 공격에서 지키는 술기.[LINE]\n정술 방어력도 함께 높인다.[END]"
+            "translation": "아군 모두를 잠시 적 공격에서 지키는 기술.[LINE]\n정술 방어력도 함께 높인다.[END]"
         },
         {
             "offset": 1703720,
@@ -2089,7 +2089,7 @@
         {
             "offset": 1703744,
             "string": "炸裂するビンを続けて投げ込む術技。[LINE]\n封印の追加効果を持つ。[END]",
-            "translation": "폭발하는 병을 연속으로 던지는 술기.[LINE]\n봉인 추가 효과를 지닌다.[END]",
+            "translation": "폭발하는 병을 연속으로 던지는 기술.[LINE]\n봉인 추가 효과를 지닌다.[END]",
             "original_bytes_length": 58,
             "available_bytes_size": 63
         },
@@ -2103,7 +2103,7 @@
         {
             "offset": 1703824,
             "string": "術者の周囲に障壁を張り巡らし、敵の侵入[LINE]\nを防ぐ術技。攻撃力減少の追加効果を持つ。[END]",
-            "translation": "술사 주변에 장벽을 둘러 적의 침입을[LINE]\n막는 술기. 공격력 감소 추가 효과를 지닌다.[END]",
+            "translation": "술사 주변에 장벽을 둘러 적의 침입을[LINE]\n막는 기술. 공격력 감소 추가 효과를 지닌다.[END]",
             "original_bytes_length": 80,
             "available_bytes_size": 80
         },
@@ -2117,7 +2117,7 @@
         {
             "offset": 1703928,
             "string": "炸裂する液体を仕込んだビンを投げる術技。[LINE]\n睡眠の追加効果を持つ。[END]",
-            "translation": "폭발성 액체를 넣은 병을 던지는 술기.[LINE]\n수면 추가 효과를 지닌다.[END]",
+            "translation": "폭발성 액체를 넣은 병을 던지는 기술.[LINE]\n수면 추가 효과를 지닌다.[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64
         },
@@ -2539,7 +2539,7 @@
             "string": "晶力を込めた拳を突き出し、捕らえた[LINE]\n敵を爆砕する、打撃属性を持つ術技。[END]",
             "original_bytes_length": 70,
             "available_bytes_size": 71,
-            "translation": "정술력을 담은 주먹으로 붙잡은[LINE]\n적을 폭파하는 타격 속성 술기.[END]"
+            "translation": "정술력을 담은 주먹으로 붙잡은[LINE]\n적을 폭파하는 타격 속성 기술.[END]"
         },
         {
             "offset": 1705928,
@@ -2658,7 +2658,7 @@
             "string": "灼熱の空中回転蹴りを繰り出す術技。[LINE]\n空中戦に持ち込むのに有用。[END]",
             "original_bytes_length": 62,
             "available_bytes_size": 63,
-            "translation": "작열의 공중 회전 차기를 펼치는 술기.[LINE]\n공중전으로 이끌기 좋다.[END]"
+            "translation": "작열의 공중 회전 차기를 펼치는 기술.[LINE]\n공중전으로 이끌기 좋다.[END]"
         },
         {
             "offset": 1706432,

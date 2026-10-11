@@ -12,7 +12,7 @@
             "string": "[Circle_ani]術技使用[Cross_ani]戻る[Square_ani]使用切替[L1_ani][R1_ani]キャラ変更[Select_ani]操作切替[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79,
-            "translation": "[Circle_ani]술기 사용[Cross_ani]뒤로[Square_ani]사용 전환[L1_ani][R1_ani]캐릭터 변경[Select_ani]조작 전환[END]"
+            "translation": "[Circle_ani]기술 사용[Cross_ani]뒤로[Square_ani]사용 전환[L1_ani][R1_ani]캐릭터 변경[Select_ani]조작 전환[END]"
         },
         {
             "offset": 25152,
@@ -33,7 +33,7 @@
             "string": "[Circle_ani]術技使用[Cross_ani]戻る[Square_ani]使用切替[Select_ani]操作切替[END]",
             "original_bytes_length": 52,
             "available_bytes_size": 55,
-            "translation": "[Circle_ani]술기 사용[Cross_ani]뒤로[Square_ani]사용 전환[Select_ani]조작 전환[END]"
+            "translation": "[Circle_ani]기술 사용[Cross_ani]뒤로[Square_ani]사용 전환[Select_ani]조작 전환[END]"
         },
         {
             "offset": 25320,
@@ -54,7 +54,7 @@
             "string": "[Circle_ani]術技使用[Cross_ani]戻る[Square_ani]使用切替[L1_ani][R1_ani]キャラ変更[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63,
-            "translation": "[Circle_ani]술기 사용[Cross_ani]뒤로[Square_ani]사용 전환[L1_ani][R1_ani]캐릭터 변경[END]"
+            "translation": "[Circle_ani]기술 사용[Cross_ani]뒤로[Square_ani]사용 전환[L1_ani][R1_ani]캐릭터 변경[END]"
         },
         {
             "offset": 25480,
@@ -75,7 +75,7 @@
             "string": "[Circle_ani]術技使用[Cross_ani]戻る[Square_ani]使用切替[END]",
             "original_bytes_length": 38,
             "available_bytes_size": 39,
-            "translation": "[Circle_ani]술기 사용[Cross_ani]뒤로[Square_ani]사용 전환[END]"
+            "translation": "[Circle_ani]기술 사용[Cross_ani]뒤로[Square_ani]사용 전환[END]"
         },
         {
             "offset": 25600,

@@ -320,7 +320,7 @@
             "string": "notice[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "알림[END]"
+            "translation": "notice[END]"
         },
         {
             "offset": 1687984,

@@ -12,147 +12,147 @@
             "string": "MUNDANE[END]",
             "original_bytes_length": 8,
             "available_bytes_size": 8,
-            "translation": "평범한[END]"
+            "translation": "MUNDANE[END]"
         },
         {
             "offset": 244944,
             "string": "BORING[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "지루한[END]"
+            "translation": "BORING[END]"
         },
         {
             "offset": 244952,
             "string": "WORTHY[END]",
             "original_bytes_length": 8,
             "available_bytes_size": 8,
-            "translation": "값진[END]"
+            "translation": "WORTHY[END]"
         },
         {
             "offset": 244960,
             "string": "BLESSED[END]",
             "original_bytes_length": 8,
             "available_bytes_size": 8,
-            "translation": "축복된[END]"
+            "translation": "BLESSED[END]"
         },
         {
             "offset": 244968,
             "string": "DELIGHTFUL[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "즐거운[END]"
+            "translation": "DELIGHTFUL[END]"
         },
         {
             "offset": 244984,
             "string": "CLASSY[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "우아한[END]"
+            "translation": "CLASSY[END]"
         },
         {
             "offset": 244992,
             "string": "MORIBUND[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "빈사의[END]"
+            "translation": "MORIBUND[END]"
         },
         {
             "offset": 245008,
             "string": "MAJESTIC[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "장엄한[END]"
+            "translation": "MAJESTIC[END]"
         },
         {
             "offset": 245024,
             "string": "VALUABLE[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "귀중한[END]"
+            "translation": "VALUABLE[END]"
         },
         {
             "offset": 245040,
             "string": "TRAGIC[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "비극의[END]"
+            "translation": "TRAGIC[END]"
         },
         {
             "offset": 245048,
             "string": "MIRACULOUS[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "기적의[END]"
+            "translation": "MIRACULOUS[END]"
         },
         {
             "offset": 245064,
             "string": "MARVELOUS[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "놀라운[END]"
+            "translation": "MARVELOUS[END]"
         },
         {
             "offset": 245080,
             "string": "EXCELLENT[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "탁월한[END]"
+            "translation": "EXCELLENT[END]"
         },
         {
             "offset": 245096,
             "string": "CONSUMERISTIC[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "소비적인[END]"
+            "translation": "CONSUMERISTIC[END]"
         },
         {
             "offset": 245112,
             "string": "SKILLFUL[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "능숙한[END]"
+            "translation": "SKILLFUL[END]"
         },
         {
             "offset": 245128,
             "string": "SUPREME[END]",
             "original_bytes_length": 8,
             "available_bytes_size": 8,
-            "translation": "최고의[END]"
+            "translation": "SUPREME[END]"
         },
         {
             "offset": 245136,
             "string": "UNSCATHED[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "무피해[END]"
+            "translation": "UNSCATHED[END]"
         },
         {
             "offset": 245152,
             "string": "LAZY[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "나태한[END]"
+            "translation": "LAZY[END]"
         },
         {
             "offset": 245160,
             "string": "IMMEDIATE[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "즉각적인[END]"
+            "translation": "IMMEDIATE[END]"
         },
         {
             "offset": 245176,
             "string": "INSTANTANEOUS[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "순식간의[END]"
+            "translation": "INSTANTANEOUS[END]"
         },
         {
             "offset": 245192,
             "string": "DEVASTATING[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "압도적인[END]"
+            "translation": "DEVASTATING[END]"
         },
         {
             "offset": 245208,
@@ -187,7 +187,7 @@
             "string": "PENETRATE[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "페네트레이트[END]"
+            "translation": "PENETRATE[END]"
         },
         {
             "offset": 245296,
@@ -285,7 +285,7 @@
             "string": "[TAG_015]つの術技を習得[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[TAG_015]개의 술기를 습득[END]"
+            "translation": "[TAG_015]개의 기술을 습득[END]"
         },
         {
             "offset": 245672,
@@ -369,7 +369,7 @@
             "string": "Ｌｅｖｅｌ[TAG_015][TAG_016][TAG_017][END]",
             "original_bytes_length": 28,
             "available_bytes_size": 31,
-            "translation": "레벨[TAG_015][TAG_016][TAG_017][END]"
+            "translation": "Ｌｅｖｅｌ[TAG_015][TAG_016][TAG_017][END]"
         },
         {
             "offset": 245808,
@@ -383,7 +383,7 @@
             "string": "術技[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "술기[END]"
+            "translation": "기술[END]"
         },
         {
             "offset": 245832,
@@ -411,252 +411,252 @@
             "string": "[Cross_copy]SKIP[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "[Cross_copy]건너뛰기[END]"
+            "translation": "[Cross_copy]SKIP[END]"
         },
         {
             "offset": 245888,
             "string": "[Circle_copy]WAIT[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "[Circle_copy]대기[END]"
+            "translation": "[Circle_copy]WAIT[END]"
         },
         {
             "offset": 245904,
             "string": "BONUSEXP[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "경험치 보너스[END]"
+            "translation": "BONUSEXP[END]"
         },
         {
             "offset": 245920,
             "string": "TRYAGAIN...[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "재도전...[END]"
+            "translation": "TRYAGAIN...[END]"
         },
         {
             "offset": 245936,
             "string": "DEFINITESTRIKE!![END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "디피니트 스트라이크!![END]"
+            "translation": "DEFINITESTRIKE!![END]"
         },
         {
             "offset": 245960,
             "string": "STRIKECHAIN![END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "스트라이크체인[END]"
+            "translation": "STRIKECHAIN![END]"
         },
         {
             "offset": 245976,
             "string": "CANNOTEQUIP[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "장착 불가[END]"
+            "translation": "CANNOTEQUIP[END]"
         },
         {
             "offset": 245992,
             "string": "RESERVEITEM[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "아이템 대기[END]"
+            "translation": "RESERVEITEM[END]"
         },
         {
             "offset": 246008,
             "string": "CANNOTUSEITEM[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "사용 불가[END]"
+            "translation": "CANNOTUSEITEM[END]"
         },
         {
             "offset": 246024,
             "string": "CLEAR[END]",
             "original_bytes_length": 6,
             "available_bytes_size": 7,
-            "translation": "완료[END]"
+            "translation": "CLEAR[END]"
         },
         {
             "offset": 246032,
             "string": "CRITICAL[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "크리티컬[END]"
+            "translation": "CRITICAL[END]"
         },
         {
             "offset": 246048,
             "string": "BLOCK[END]",
             "original_bytes_length": 6,
             "available_bytes_size": 7,
-            "translation": "방어[END]"
+            "translation": "BLOCK[END]"
         },
         {
             "offset": 246056,
             "string": "VITALDOWN[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "체력 감소[END]"
+            "translation": "VITALDOWN[END]"
         },
         {
             "offset": 246072,
             "string": "CONCENTRATEDOWN[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "집중 감소[END]"
+            "translation": "CONCENTRATEDOWN[END]"
         },
         {
             "offset": 246096,
             "string": "EVADEDOWN[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "회피 감소[END]"
+            "translation": "EVADEDOWN[END]"
         },
         {
             "offset": 246112,
             "string": "HITRATEDOWN[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "명중률 감소[END]"
+            "translation": "HITRATEDOWN[END]"
         },
         {
             "offset": 246128,
             "string": "RESISTDOWN[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "정술 방어 감소[END]"
+            "translation": "RESISTDOWN[END]"
         },
         {
             "offset": 246144,
             "string": "DEFENCEDOWN[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "방어 감소[END]"
+            "translation": "DEFENCEDOWN[END]"
         },
         {
             "offset": 246160,
             "string": "MINDDOWN[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "정술 공격 감소[END]"
+            "translation": "MINDDOWN[END]"
         },
         {
             "offset": 246176,
             "string": "ATTACKDOWN[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "공격 감소[END]"
+            "translation": "ATTACKDOWN[END]"
         },
         {
             "offset": 246192,
             "string": "VITALUP[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "체력 상승[END]"
+            "translation": "VITALUP[END]"
         },
         {
             "offset": 246208,
             "string": "CONCENTRATEUP[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "집중 상승[END]"
+            "translation": "CONCENTRATEUP[END]"
         },
         {
             "offset": 246224,
             "string": "EVADEUP[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "회피 상승[END]"
+            "translation": "EVADEUP[END]"
         },
         {
             "offset": 246240,
             "string": "HITRATEUP[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "명중률 상승[END]"
+            "translation": "HITRATEUP[END]"
         },
         {
             "offset": 246256,
             "string": "RESISTUP[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "정술 방어 상승[END]"
+            "translation": "RESISTUP[END]"
         },
         {
             "offset": 246272,
             "string": "DEFENCEUP[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "방어 상승[END]"
+            "translation": "DEFENCEUP[END]"
         },
         {
             "offset": 246288,
             "string": "MINDUP[END]",
             "original_bytes_length": 8,
             "available_bytes_size": 8,
-            "translation": "술공↑[END]"
+            "translation": "MINDUP[END]"
         },
         {
             "offset": 246296,
             "string": "ATTACKUP[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "공격 상승[END]"
+            "translation": "ATTACKUP[END]"
         },
         {
             "offset": 246312,
             "string": "STOP[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "정지[END]"
+            "translation": "STOP[END]"
         },
         {
             "offset": 246320,
             "string": "DOWNSIZE[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "소형화[END]"
+            "translation": "DOWNSIZE[END]"
         },
         {
             "offset": 246336,
             "string": "SEAL[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "봉인[END]"
+            "translation": "SEAL[END]"
         },
         {
             "offset": 246344,
             "string": "PARALYZE[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "마비[END]"
+            "translation": "PARALYZE[END]"
         },
         {
             "offset": 246360,
             "string": "SLEEP[END]",
             "original_bytes_length": 6,
             "available_bytes_size": 7,
-            "translation": "수면[END]"
+            "translation": "SLEEP[END]"
         },
         {
             "offset": 246368,
             "string": "POISON[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "열독[END]"
+            "translation": "POISON[END]"
         },
         {
             "offset": 246376,
             "string": "WASTE[END]",
             "original_bytes_length": 6,
             "available_bytes_size": 7,
-            "translation": "쇠약[END]"
+            "translation": "WASTE[END]"
         },
         {
             "offset": 246384,
             "string": "STONE[END]",
             "original_bytes_length": 6,
             "available_bytes_size": 7,
-            "translation": "석화[END]"
+            "translation": "STONE[END]"
         },
         {
             "offset": 246392,
@@ -894,28 +894,28 @@
             "string": "TARGET[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "타겟[END]"
+            "translation": "TARGET[END]"
         },
         {
             "offset": 246832,
             "string": "USER[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "사용자[END]"
+            "translation": "USER[END]"
         },
         {
             "offset": 246840,
             "string": "DAMAGEBREAK[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "데미지브레이크[END]"
+            "translation": "DAMAGEBREAK[END]"
         },
         {
             "offset": 246856,
             "string": "ENEMYAPPEARED![END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "적 출현![END]"
+            "translation": "ENEMYAPPEARED![END]"
         },
         {
             "offset": 246872,
@@ -929,7 +929,7 @@
             "string": "CHARGE[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "차지[END]"
+            "translation": "CHARGE[END]"
         },
         {
             "offset": 246888,
@@ -943,35 +943,35 @@
             "string": "DOWN![END]",
             "original_bytes_length": 6,
             "available_bytes_size": 7,
-            "translation": "다운![END]"
+            "translation": "DOWN![END]"
         },
         {
             "offset": 246904,
             "string": "SMASH![END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "강타![END]"
+            "translation": "SMASH![END]"
         },
         {
             "offset": 246912,
             "string": "MISS[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "빗나감[END]"
+            "translation": "MISS[END]"
         },
         {
             "offset": 246920,
             "string": "EMPTY[END]",
             "original_bytes_length": 6,
             "available_bytes_size": 7,
-            "translation": "없음[END]"
+            "translation": "EMPTY[END]"
         },
         {
             "offset": 246928,
             "string": "GETITEM![END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "아이템 획득![END]"
+            "translation": "GETITEM![END]"
         },
         {
             "offset": 246944,
@@ -999,7 +999,7 @@
             "string": "BLASTCALIBER[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "블라스트캘리버[END]"
+            "translation": "BLASTCALIBER[END]"
         },
         {
             "offset": 246992,
@@ -1069,7 +1069,7 @@
             "string": "術技[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "술기[END]"
+            "translation": "기술[END]"
         },
         {
             "offset": 247104,
@@ -1167,28 +1167,28 @@
             "string": "ESCAPED[END]",
             "original_bytes_length": 8,
             "available_bytes_size": 8,
-            "translation": "도주함[END]"
+            "translation": "ESCAPED[END]"
         },
         {
             "offset": 247224,
             "string": "CANNOTESCAPE[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "도주 불가[END]"
+            "translation": "CANNOTESCAPE[END]"
         },
         {
             "offset": 247240,
             "string": "ESCAPEGAGE[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "도주 게이지[END]"
+            "translation": "ESCAPEGAGE[END]"
         },
         {
             "offset": 247256,
             "string": "WEAKPOINT[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "약점[END]"
+            "translation": "WEAKPOINT[END]"
         },
         {
             "offset": 247272,
@@ -1209,21 +1209,21 @@
             "string": "STATUS[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "상태[END]"
+            "translation": "STATUS[END]"
         },
         {
             "offset": 247296,
             "string": "REDUCE[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "내성[END]"
+            "translation": "REDUCE[END]"
         },
         {
             "offset": 247304,
             "string": "WEAK[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "약점[END]"
+            "translation": "WEAK[END]"
         },
         {
             "offset": 247312,
@@ -1237,7 +1237,7 @@
             "string": "NAME[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "이름[END]"
+            "translation": "NAME[END]"
         },
         {
             "offset": 247328,
@@ -1251,21 +1251,21 @@
             "string": "RETRY?[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "다시?[END]"
+            "translation": "RETRY?[END]"
         },
         {
             "offset": 247360,
             "string": "RESERVE[END]",
             "original_bytes_length": 8,
             "available_bytes_size": 8,
-            "translation": "대기[END]"
+            "translation": "RESERVE[END]"
         },
         {
             "offset": 247368,
             "string": "GUARD[END]",
             "original_bytes_length": 6,
             "available_bytes_size": 7,
-            "translation": "방어[END]"
+            "translation": "GUARD[END]"
         },
         {
             "offset": 247376,
@@ -1286,28 +1286,28 @@
             "string": "MANUAL[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "수동[END]"
+            "translation": "MANUAL[END]"
         },
         {
             "offset": 247416,
             "string": "SEMIAUTO[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "반자동[END]"
+            "translation": "SEMIAUTO[END]"
         },
         {
             "offset": 247432,
             "string": "AUTO[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "자동[END]"
+            "translation": "AUTO[END]"
         },
         {
             "offset": 247440,
             "string": "PAUSE[END]",
             "original_bytes_length": 6,
             "available_bytes_size": 7,
-            "translation": "정지[END]"
+            "translation": "PAUSE[END]"
         },
 
 
@@ -1631,7 +1631,7 @@
             "string": "攻撃力の高い[Cross_ani2]術技で決めるのが効率的。[END]",
             "original_bytes_length": 42,
             "available_bytes_size": 47,
-            "translation": "위력 높은 [Cross_ani2]술기로 끝내면 효율적이야.[END]"
+            "translation": "위력 높은 [Cross_ani2]기술로 끝내면 효율적이야.[END]"
         },
         {
             "offset": 257720,
@@ -1855,14 +1855,14 @@
             "string": "多彩な術技でクリティカッた[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "다채로운 술기로 크리티컬[END]"
+            "translation": "다채로운 기술로 크리티컬[END]"
         },
         {
             "offset": 256280,
             "string": "[turquoise]違う術技で連携[/color]すると、[END]",
             "original_bytes_length": 33,
             "available_bytes_size": 39,
-            "translation": "[turquoise]다른 술기를 연계[/color]하면,[END]"
+            "translation": "[turquoise]다른 기술을 연계[/color]하면,[END]"
         },
         {
             "offset": 256232,
@@ -2114,7 +2114,7 @@
             "string": "術技が使用できなくなってしまう。[END]",
             "original_bytes_length": 33,
             "available_bytes_size": 39,
-            "translation": "술기를 쓸 수 없게 돼.[END]"
+            "translation": "기술을 쓸 수 없게 돼.[END]"
         },
         {
             "offset": 254800,
@@ -2142,7 +2142,7 @@
             "string": "メインステータスと術技[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "주요 능력치와 술기[END]"
+            "translation": "주요 능력치와 기술[END]"
         },
         {
             "offset": 254632,
@@ -2156,7 +2156,7 @@
             "string": "[yellow]攻撃力：[/color]通常攻撃、[Sign_4]・[Sign_5]マークの術技に影響[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63,
-            "translation": "[yellow]공격력：[/color]일반 공격, [Sign_4]・[Sign_5]마크의 술기에 영향[END]"
+            "translation": "[yellow]공격력：[/color]일반 공격, [Sign_4]・[Sign_5]마크의 기술에 영향[END]"
         },
         {
             "offset": 254520,
@@ -2170,7 +2170,7 @@
             "string": "[yellow]術攻撃力：[/color][Sign_5]・[Sign_6]マークの術技に影響[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "[yellow]정술 공격력：[/color][Sign_5]・[Sign_6]마크의 술기에 영향[END]"
+            "translation": "[yellow]정술 공격력：[/color][Sign_5]・[Sign_6]마크의 기술에 영향[END]"
         },
         {
             "offset": 254408,
@@ -2408,7 +2408,7 @@
             "string": "多彩な術技を使いこなし、敵に攻撃のヒマを与えるな！[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "다양한 술기를 사용해서, 적에게 공격의 틈을 주지 마![END]"
+            "translation": "다양한 기술을 사용해서, 적에게 공격의 틈을 주지 마![END]"
         },
         {
             "offset": 252952,
@@ -3171,21 +3171,21 @@
             "string": "[Cross_ani2]で術技攻撃！[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Cross_ani2]로 술기 공격![END]"
+            "translation": "[Cross_ani2]로 기술 공격![END]"
         },
         {
             "offset": 248208,
             "string": "[Cross_ani2]:術技[LINE]\n[Triangle_ani2]術技メニューでセットした、[LINE]\n強力な攻撃を繰り出せる！[LINE]\n[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79,
-            "translation": "[Cross_ani2]:술기[LINE]\n[Triangle_ani2]술기 메뉴에 설정한[LINE]\n강력한 공격을 쓸 수 있어![LINE]\n[END]"
+            "translation": "[Cross_ani2]:기술[LINE]\n[Triangle_ani2]기술 메뉴에 설정한[LINE]\n강력한 공격을 쓸 수 있어![LINE]\n[END]"
         },
         {
             "offset": 248168,
             "string": "[Circle_ani2]通常攻撃と[Cross_ani2]術技を連続入力！[END]",
             "original_bytes_length": 37,
             "available_bytes_size": 39,
-            "translation": "[Circle_ani2]일반 공격과[Cross_ani2]술기를 연속 입력![END]"
+            "translation": "[Circle_ani2]일반 공격과[Cross_ani2]기술을 연속 입력![END]"
         },
         {
             "offset": 248072,

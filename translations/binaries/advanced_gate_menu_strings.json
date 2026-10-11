@@ -117,7 +117,7 @@
             "string": "以下のデータを引き継ぎます。[LINE]\n・図鑑用データ[LINE]\n・料理回数[LINE]\n・称号履歴[LINE]\n・術技回数[LINE]\n[END]",
             "original_bytes_length": 78,
             "available_bytes_size": 79,
-            "translation": "다음 데이터를 이어받습니다.[LINE]\n・도감 데이터[LINE]\n・요리 횟수[LINE]\n・칭호 기록[LINE]\n・술기 횟수[LINE]\n[END]"
+            "translation": "다음 데이터를 이어받습니다.[LINE]\n・도감 데이터[LINE]\n・요리 횟수[LINE]\n・칭호 기록[LINE]\n・기술 횟수[LINE]\n[END]"
         },
         {
             "offset": 12920,
@@ -166,14 +166,14 @@
             "string": "習得した術技を引き継ぎます。[LINE]\n「なんだ、この剣？妙に手になじむ……」[LINE]\nそんな気持ちもわかる。契約とか気にしないこと。[END]",
             "original_bytes_length": 117,
             "available_bytes_size": 119,
-            "translation": "습득한 술기를 이어받습니다. [LINE]\n「뭐지, 이 검은? 묘하게 잘 맞는다……」[LINE]\n그런 느낌도 이해해. 계약 같은 것은 신경 쓰지 마.[END]"
+            "translation": "습득한 기술을 이어받습니다. [LINE]\n「뭐지, 이 검은? 묘하게 잘 맞는다……」[LINE]\n그런 느낌도 이해해. 계약 같은 것은 신경 쓰지 마.[END]"
         },
         {
             "offset": 13320,
             "string": "術技引き継ぎ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "술기 이어받기[END]"
+            "translation": "기술 이어받기[END]"
         },
         {
             "offset": 13336,

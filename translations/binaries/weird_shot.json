@@ -363,35 +363,35 @@
             "string": "[Cross_Press]SKIP[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "[Cross_Press]건너뛰기[END]"
+            "translation": "[Cross_Press]SKIP[END]"
         },
         {
             "offset": 103096,
             "string": "[Cross_ani]SKIP[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "[Cross_ani]건너뛰기[END]"
+            "translation": "[Cross_ani]SKIP[END]"
         },
         {
             "offset": 103112,
             "string": "[Circle_Press]WAIT[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "[Circle_Press]대기[END]"
+            "translation": "[Circle_Press]WAIT[END]"
         },
         {
             "offset": 103128,
             "string": "YOU ARE CHAMPION[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "당신이 챔피언[END]"
+            "translation": "YOU ARE CHAMPION[END]"
         },
         {
             "offset": 103152,
             "string": "GOD[END]",
             "original_bytes_length": 4,
             "available_bytes_size": 7,
-            "translation": "신급[END]"
+            "translation": "GOD[END]"
         },
         {
             "offset": 103160,
@@ -433,70 +433,70 @@
             "string": "RANK[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "랭크[END]"
+            "translation": "RANK[END]"
         },
         {
             "offset": 103208,
             "string": "POINT[END]",
             "original_bytes_length": 6,
             "available_bytes_size": 7,
-            "translation": "점수[END]"
+            "translation": "POINT[END]"
         },
         {
             "offset": 103216,
             "string": "RANKING[END]",
             "original_bytes_length": 8,
             "available_bytes_size": 8,
-            "translation": "순위[END]"
+            "translation": "RANKING[END]"
         },
         {
             "offset": 103224,
             "string": "OUT[END]",
             "original_bytes_length": 4,
             "available_bytes_size": 7,
-            "translation": "아웃[END]"
+            "translation": "OUT[END]"
         },
         {
             "offset": 103232,
             "string": "3RD[END]",
             "original_bytes_length": 4,
             "available_bytes_size": 7,
-            "translation": "3위[END]"
+            "translation": "3RD[END]"
         },
         {
             "offset": 103240,
             "string": "2ND[END]",
             "original_bytes_length": 4,
             "available_bytes_size": 7,
-            "translation": "2위[END]"
+            "translation": "2ND[END]"
         },
         {
             "offset": 103248,
             "string": "1ST[END]",
             "original_bytes_length": 4,
             "available_bytes_size": 7,
-            "translation": "1위[END]"
+            "translation": "1ST[END]"
         },
         {
             "offset": 103256,
             "string": "MAX HITS[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "최대 히트[END]"
+            "translation": "MAX HITS[END]"
         },
         {
             "offset": 103272,
             "string": "MAX CHAINS[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "최대 체인[END]"
+            "translation": "MAX CHAINS[END]"
         },
         {
             "offset": 103288,
             "string": "TIME[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "시간[END]"
+            "translation": "TIME[END]"
         },
         {
             "offset": 103296,
@@ -573,14 +573,14 @@
             "string": "Time Over[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "시간 초과[END]"
+            "translation": "Time Over[END]"
         },
         {
             "offset": 103448,
             "string": "Congratulation[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "축하합니다[END]"
+            "translation": "Congratulation[END]"
         },
         {
             "offset": 103464,

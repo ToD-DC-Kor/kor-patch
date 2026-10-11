@@ -430,14 +430,14 @@
             "string": "術技ショートカット２[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "술기 단축키 2[END]"
+            "translation": "기술 단축키 2[END]"
         },
         {
             "offset": 32392,
             "string": "術技ショートカット１[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "술기 단축키 1[END]"
+            "translation": "기술 단축키 1[END]"
         },
         {
             "offset": 32416,
@@ -472,7 +472,7 @@
             "string": "術技[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "술기[END]"
+            "translation": "기술[END]"
         },
         {
             "offset": 32496,
