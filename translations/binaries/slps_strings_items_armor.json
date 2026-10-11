@@ -432,7 +432,7 @@
             "string": "防風、防寒のためのクローク。[LINE]\n寒い日でもかさばらずに暖かい。[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "바람과 추위를 막는 망토.[LINE]\n추운 날에도 두껍지 않아[LINE]\n따뜻하다.[END]"
+            "translation": "바람과 추위를 막는 망토.[LINE]\n추운 날에도 두껍지 않아 따뜻하다.[LINE]\n[END]"
         },
         {
             "offset": 1783944,
@@ -1391,7 +1391,7 @@
             "string": "大地母神の守護を受けた上半身鎧。[LINE]\n聖なるオーラが外敵から身を守る。[LINE]\n[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "대지모신의 수호를 받는 갑옷.[LINE]\n성스러운 오라가[LINE]\n적으로부터 몸을 지켜준다.[END]"
+            "translation": "대지모신의 수호를 받는 갑옷.[LINE]\n성스러운 오라가 적으로부터 지켜준다.[LINE]\n[END]"
         },
         {
             "offset": 1790784,

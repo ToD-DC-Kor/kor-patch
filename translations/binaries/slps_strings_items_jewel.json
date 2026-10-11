@@ -374,7 +374,7 @@
         {
             "offset": 1770336,
             "string": "戦闘中、[Square_ani2]＋[Down_blink]で[LINE]\n短時間完全回避する宝石。[LINE]\n[END]",
-            "translation": "전투 중 [Square_ani2]＋[Down_blink]로[LINE]\n잠시 모든 공격을[LINE]\n회피하는 보석.[END]",
+            "translation": "전투 중 [Square_ani2]＋[Down_blink]로[LINE]\n잠시 모든 공격을 피하는 보석.[LINE]\n[END]",
             "original_bytes_length": 49,
             "available_bytes_size": 55
         },

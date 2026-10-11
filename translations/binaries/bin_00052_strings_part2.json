@@ -1370,7 +1370,7 @@
             "string": "[Walt]の屋敷に到着した[LINE]\n[Stahn]たち。[LINE]\n[Rutee]が[Walt]の[LINE]\nボディガードに来意を[LINE]\n告げると、[Walt]から[LINE]\n二階へ来るよう言われる。[LINE]\n[END]",
             "original_bytes_length": 116,
             "available_bytes_size": 119,
-            "translation": "[Walt]의 저택에 도착한[LINE] [Stahn] 일행.[LINE] [Rutee]가[Walt]의[LINE] 경호원에게 용건을[LINE] 말하자,[Walt]에게서[LINE] 2층으로 오라고 한다.[LINE] [END]"
+            "translation": "[Walt]의 저택에 도착한[LINE] [Stahn] 일행.[LINE] [Rutee]가[Walt]의[LINE] 경호원에게 용건을[LINE] 말하자,[Walt]에게서[LINE] 2층으로 오라고 한다.[LINE]\n[END]"
         },
         {
             "offset": 57024,

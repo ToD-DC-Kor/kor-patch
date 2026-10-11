@@ -297,7 +297,7 @@
         {
             "offset": 1756496,
             "string": "リライズで、戦闘中、[Square_ani2]＋[Down_blink]で、[LINE]\n短時間完全回避する宝石に変化する。[LINE]\n[END]",
-            "translation": "리라이즈 시 전투 중 [Square_ani2]＋[Down_blink]로[LINE]\n잠시 완전히 회피하는[LINE]\n보석이 된다.[END]",
+            "translation": "리라이즈 시 전투 중 [Square_ani2]＋[Down_blink]로[LINE]\n잠시 완전히 회피하는 보석이 된다.[LINE]\n[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79
         },
@@ -829,7 +829,7 @@
         {
             "offset": 1760392,
             "string": "羽の紋様が入ったワッペン。[LINE]\nなりふり構わず英雄になりたくなる。[LINE]\n[END]",
-            "translation": "깃털 문양이 든 와펜.[LINE]\n체면도 아랑곳없이[LINE]\n영웅이 되고 싶어진다.[END]",
+            "translation": "깃털 문양이 든 와펜.[LINE]\n체면도 아랑곳없이 영웅이 되고 싶어진다.[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },

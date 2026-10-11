@@ -1300,7 +1300,7 @@
             "string": "ストレイライズ神官として、[LINE]\n神との婚姻契約によりその恩寵を授かる。[LINE]\n[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "스트레이라이즈 신관으로서,[LINE]\n신과의 혼인 계약에 의해[LINE]\n그 은총을 받는다.[END]"
+            "translation": "스트레이라이즈 신관으로서,[LINE]\n신과의 혼인 계약에 의해 그 은총을 받는다.[LINE]\n[END]"
         },
         {
             "offset": 1826952,
@@ -1692,7 +1692,7 @@
             "string": "全ての自然と文明を愛し守り抜く、[LINE]\nそんな冒険家に贈られる名誉ある称号。[LINE]\n[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "모든 자연과 문명을 사랑하고 지키는[LINE]\n그런 모험가에게 주는[LINE]\n명예로운 칭호.[END]"
+            "translation": "모든 자연과 문명을 사랑하고 지키는[LINE]\n모험가에게 주는 명예로운 칭호.[LINE]\n[END]"
         },
         {
             "offset": 1829680,
@@ -1776,7 +1776,7 @@
             "string": "[Lilith]・エルロンの兄。[LINE]\nけど、未だに朝は起こしてもらってます。[LINE]\n[END]",
             "original_bytes_length": 62,
             "available_bytes_size": 63,
-            "translation": "[Lilith]・엘론의 오빠.[LINE]\n하지만 아직도 아침엔[LINE]\n동생이 깨워주고 있다.[END]"
+            "translation": "[Lilith]・엘론의 오빠.[LINE]\n하지만 아직도 아침엔 동생이 깨워준다.[LINE]\n[END]"
         },
         {
             "offset": 1830296,

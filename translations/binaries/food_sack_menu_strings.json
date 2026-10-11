@@ -61,7 +61,7 @@
             "string": "２つ以上のストラップをセットした状態で[LINE]\n複数のストラップが条件を満たした場合、[LINE]\nその中で最も上にあるものが料理されます。[LINE]\n[END]",
             "original_bytes_length": 120,
             "available_bytes_size": 120,
-            "translation": "스트랩을 2개 이상 장착했을 때[LINE]여러 스트랩의 조건이 충족되면,[LINE]가장 위에 있는 요리가 만들어집니다.[LINE][END]"
+            "translation": "스트랩을 2개 이상 장착했을 때[LINE]여러 스트랩의 조건이 충족되면,[LINE]가장 위에 있는 요리가 만들어집니다.[LINE]\n[END]"
         }
     ]
 }

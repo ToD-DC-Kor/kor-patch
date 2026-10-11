@@ -320,7 +320,7 @@
             "string": "動物の角で作ったラッパ。[LINE]\n海の近くで使うと海竜が呼べる。[LINE]\n[END]",
             "original_bytes_length": 57,
             "available_bytes_size": 63,
-            "translation": "동물 뿔로 만든 나팔.[LINE]\n바다 근처에서 쓰면[LINE]\n해룡을 부를 수 있다.[END]"
+            "translation": "동물 뿔로 만든 나팔.[LINE]\n바다 근처에서 쓰면 해룡을 부를 수 있다.[LINE]\n[END]"
         },
         {
             "offset": 1812904,

@@ -759,7 +759,7 @@
         {
             "offset": 1777184,
             "string": "三日月型の幅広い斧頭を持つ戦斧。[LINE]\n敵を切断するのに特化している。[LINE]\n[END]",
-            "translation": "초승달 모양의[LINE]\n넓은 머리를 지닌 전투 도끼.[LINE]\n적을 절단하는 데 특화됐다.[END]",
+            "translation": "초승달 모양의 넓은 머리를 지닌 전투 도끼.[LINE]\n적을 절단하는 데 특화됐다.[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71
         },
@@ -843,7 +843,7 @@
         {
             "offset": 1777736,
             "string": "三日月型の斧頭が特徴の戦斧。[LINE]\n少ない金属で作ることが可能な斧。[LINE]\n[END]",
-            "translation": "초승달 모양 머리가[LINE]\n특징인 전투 도끼.[LINE]\n적은 금속으로 제작 가능.[END]",
+            "translation": "초승달 모양 머리가 특징인 전투 도끼.[LINE]\n적은 금속으로 제작 가능.[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },
