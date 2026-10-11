@@ -411,14 +411,14 @@
             "string": "ベルクラントの砲撃でできたクレーターに[LINE]\nよって、地中に埋もれていた芸術品が出現[LINE]\nしたそうだ。[END]",
             "original_bytes_length": 91,
             "available_bytes_size": 95,
-            "translation": "벨클란트의 포격으로 생긴 크레이터에[LINE]\n따라, 지중에 묻혀 있던 예술품이 나타났다고 한다.[LINE]\n[END]"
+            "translation": "벨크란트의 포격으로 생긴 크레이터에[LINE]\n따라, 지중에 묻혀 있던 예술품이 나타났다고 한다.[LINE]\n[END]"
         },
         {
             "offset": 1738960,
             "string": "ベルクラントの砲撃でできたクレーターに[LINE]\n出現した古代の都市遺跡。[LINE]\nその姿にロマンを感じずにはいられない。[END]",
             "original_bytes_length": 103,
             "available_bytes_size": 103,
-            "translation": "벨클란트의 포격으로 생긴 크레이터에[LINE]\n나타난 고대 도시 유적.[LINE]\n그 모습에서 로망을 느끼지 않을 수 없다.[END]"
+            "translation": "벨크란트의 포격으로 생긴 크레이터에[LINE]\n나타난 고대 도시 유적.[LINE]\n그 모습에서 로망을 느끼지 않을 수 없다.[END]"
         },
         {
             "offset": 1739064,
@@ -432,7 +432,7 @@
             "string": "ファンダリアとセインガルドを隔てている[LINE]\n川では、根性のある魚を見る事ができる[LINE]\nらしい。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "팬더리아와 세인갈드를 가르는[LINE]\n강에서는, 근성이 있는 물고기를 볼 수 있다고 한다.[LINE]\n[END]"
+            "translation": "팬더리아와 세인가르드를 가르는[LINE]\n강에서는, 근성이 있는 물고기를 볼 수 있다고 한다.[LINE]\n[END]"
         },
         {
             "offset": 1739168,
@@ -642,7 +642,7 @@
             "string": "ジャンクランドの住民が、砂漠である物を[LINE]\n見つけて家に持ち帰ったのだが、気持ちが[LINE]\n悪い事が起こったので捨てたという。[END]",
             "original_bytes_length": 113,
             "available_bytes_size": 119,
-            "translation": "정크랜드 주민이 사막에서 어떤 것을[LINE]\n발견해 집으로 가져갂는데, 기분[LINE]\n나쁜 일이 일어나서 버렸다고 한다.[END]"
+            "translation": "정크랜드 주민이 사막에서 발견해[LINE]\n집으로 가져갔으나, 불길한 일이[LINE]\n잇따르자 내다 버렸다고 한다.[END]"
         },
         {
             "offset": 1741368,
@@ -1020,7 +1020,7 @@
             "string": "セインガルドから来た行商人が国境を越えて[LINE]\n少し行ったところで、人にいたずらをする[LINE]\n奇妙な植物を見つけたと言っていたらしい。[END]",
             "original_bytes_length": 121,
             "available_bytes_size": 127,
-            "translation": "세인갈드에서 온 행상인이 국경을 넘어[LINE]\n조금 가다보니, 사람에게 장난치는[LINE]\n이상한 식물을 발견했다고.[END]"
+            "translation": "세인가르드에서 온 행상인이 국경을 넘어[LINE]\n조금 가다보니, 사람에게 장난치는[LINE]\n이상한 식물을 발견했다고.[END]"
         },
         {
             "offset": 1745032,
@@ -1125,7 +1125,7 @@
             "string": "雪国でなくても寒いのだろうか？[LINE]\n国境を越えた先のセインガルドの村の周辺に、[LINE]\nいつも寄り添っている動物がいるそうだ。[END]",
             "original_bytes_length": 113,
             "available_bytes_size": 119,
-            "translation": "눈나라가 아니어도 추운 걸까?[LINE]\n국경을 넘은 곳의 세인갈드 마을 주변에,[LINE]\n항상 함께하는 동물이 있다고.[END]"
+            "translation": "눈나라가 아니어도 추운 걸까?[LINE]\n국경을 넘은 곳의 세인가르드 마을 주변에,[LINE]\n항상 함께하는 동물이 있다고.[END]"
         },
         {
             "offset": 1746152,

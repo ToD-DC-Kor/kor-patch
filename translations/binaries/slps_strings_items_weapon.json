@@ -1235,14 +1235,14 @@
         {
             "offset": 1780448,
             "string": "地属性の知能ある剣。[LINE]\n人格は、才能に恵まれた若き青年。[LINE]\nピエール・ド・シャルティエ。[END]",
-            "translation": "땅 속성의 지능을 가진 검.[LINE]\n성격은 재능이 뛰어난 젊은 청년.[LINE]\n피에르 드 샤르띠에.[END]",
+            "translation": "땅 속성의 지능을 가진 검.[LINE]\n성격은 재능이 뛰어난 젊은 청년.[LINE]\n피에르 드 샤르티에.[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87
         },
         {
             "offset": 1780536,
             "string": "[Sign_Sword]シャルティエ[END]",
-            "translation": "[Sign_Sword]샤르띠에[END]",
+            "translation": "[Sign_Sword]샤르티에[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -1263,14 +1263,14 @@
         {
             "offset": 1780672,
             "string": "光属性の知能ある剣。[LINE]\n人格は、知識と経験のある老人。[LINE]\nラヴィル・クレメンテ。[END]",
-            "translation": "빛 속성의 지능을 가진 검.[LINE]\n성격은 지식과 경험이 있는 노인.[LINE]\n레빌 클레멘트.[END]",
+            "translation": "빛 속성의 지능을 가진 검.[LINE]\n성격은 지식과 경험이 있는 노인.[LINE]\n레빌 클레멘테.[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79
         },
         {
             "offset": 1780752,
             "string": "[Sign_Sword]クレメンテ[END]",
-            "translation": "[Sign_Sword]클레멘트[END]",
+            "translation": "[Sign_Sword]클레멘테[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16
         },

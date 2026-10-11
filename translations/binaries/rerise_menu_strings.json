@@ -33,7 +33,7 @@
             "string": "術防御力[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "술방어력[END]"
+            "translation": "정술 방어력[END]"
         },
         {
             "offset": 35600,
@@ -47,7 +47,7 @@
             "string": "術攻撃力[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "술공격력[END]"
+            "translation": "정술 공격력[END]"
         },
         {
             "offset": 35624,
@@ -62,14 +62,14 @@
             "string": "[Circle_ani]決定[Cross_ani]戻る[Square_ani]説明変更[L1_ani][R1_ani]カテゴリ変更[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "[Circle_ani]결정[Cross_ani]뒤로[Square_ani]설명변경[L1_ani][R1_ani]카테고리변경[END]"
+            "translation": "[Circle_ani]확인[Cross_ani]뒤로[Square_ani]설명 변경[L1_ani][R1_ani]카테고리변경[END]"
         },
         {
             "offset": 35792,
             "string": "パーティレベル[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "파티레벨[END]"
+            "translation": "파티 레벨[END]"
         },
         {
             "offset": 35816,
@@ -132,14 +132,14 @@
             "string": "[Circle_ani]決定[Cross_ani]戻る[Square_ani]説明変更[L1_ani][R1_ani]カテゴリ変更[END]",
             "original_bytes_length": 57,
             "available_bytes_size": 71,
-            "translation": "[Circle_ani]결정[Cross_ani]뒤로[Square_ani]설명 변경[L1_ani][R1_ani]카테고리 변경[END]"
+            "translation": "[Circle_ani]확인[Cross_ani]뒤로[Square_ani]설명 변경[L1_ani][R1_ani]카테고리 변경[END]"
         },
         {
             "offset": 36256,
             "string": "[TAG_007]『[PlaceHolderA]』に[LINE]\nリライズしますか？[LINE]\n[S14]（[PlaceHolderB]は失われます）[TAG_002][LINE]\nはい[LINE]\nいいえ[END]",
             "original_bytes_length": 80,
             "available_bytes_size": 80,
-            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈 할까요?[LINE]\n[S14]（[PlaceHolderB]는 사라집니다）[TAG_002][LINE]\n예[LINE]\n아니요[END]"
+            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈할까요?[LINE]\n[S14]（[PlaceHolderB]는 사라집니다）[TAG_002][LINE]\n예[LINE]\n아니요[END]"
         },
         {
             "offset": 36336,
@@ -181,14 +181,14 @@
             "string": "[Up+Down_blink]選択切替[Circle_ani]決定[Cross_ani]戻る[Square_ani]説明変更[END]",
             "original_bytes_length": 48,
             "available_bytes_size": 55,
-            "translation": "[Up+Down_blink]선택 변경[Circle_ani]결정[Cross_ani]뒤로[Square_ani]설명 변경[END]"
+            "translation": "[Up+Down_blink]선택 변경[Circle_ani]확인[Cross_ani]뒤로[Square_ani]설명 변경[END]"
         },
         {
             "offset": 36792,
             "string": "[TAG_007]『[PlaceHolderA]』に[LINE]\nリライズしますか？[LINE]\n[S14]（[PlaceHolderB]は失われます）[TAG_002][LINE]\nはい[LINE]\nいいえ[END]",
             "original_bytes_length": 80,
             "available_bytes_size": 80,
-            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈 할까요?[LINE]\n[S14]（[PlaceHolderB]는 사라집니다）[TAG_002][LINE]\n예[LINE]\n아니요[END]"
+            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈할까요?[LINE]\n[S14]（[PlaceHolderB]는 사라집니다）[TAG_002][LINE]\n예[LINE]\n아니요[END]"
         },
         {
             "offset": 36872,
@@ -223,7 +223,7 @@
             "string": "[TAG_007]パーティレベルが、[LINE]\nリライズ可能レベルに達していません。[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "[TAG_007]파티레벨이[LINE]\n리라이즈 가능 레벨에 도달하지 않았습니다.[END]"
+            "translation": "[TAG_007]파티 레벨이[LINE]\n리라이즈 가능 레벨에 도달하지 않았습니다.[END]"
         },
         {
             "offset": 37128,
@@ -237,7 +237,7 @@
             "string": "小弓[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "작은활[END]"
+            "translation": "소궁[END]"
         },
         {
             "offset": 37144,
@@ -258,7 +258,7 @@
             "string": "おたま[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "주걱[END]"
+            "translation": "국자[END]"
         },
         {
             "offset": 37176,
@@ -279,7 +279,7 @@
             "string": "ウェア[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "착용[END]"
+            "translation": "웨어[END]"
         },
         {
             "offset": 37216,
@@ -314,7 +314,7 @@
             "string": "[Up+Down_blink]選択切替[Circle_ani]決定[Cross_ani]戻る[Square_ani]説明変更[END]",
             "original_bytes_length": 48,
             "available_bytes_size": 247,
-            "translation": "[Up+Down_blink]선택 변경[Circle_ani]결정[Cross_ani]뒤로[Square_ani]설명 변경[END]"
+            "translation": "[Up+Down_blink]선택 변경[Circle_ani]확인[Cross_ani]뒤로[Square_ani]설명 변경[END]"
         }
     ]
 }

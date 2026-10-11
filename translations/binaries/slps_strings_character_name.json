@@ -54,7 +54,7 @@
             "string": "エージェント[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "에이전트[END]"
+            "translation": "에이젠트[END]"
         },
         {
             "offset": 1677672,
@@ -110,7 +110,7 @@
             "string": "カトレット[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "커틀렛[END]"
+            "translation": "카틀릿[END]"
         },
         {
             "offset": 1677784,
@@ -362,7 +362,7 @@
             "string": "グレバム[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "글레밤[END]"
+            "translation": "그레밤[END]"
         },
         {
             "offset": 1678304,
@@ -376,7 +376,7 @@
             "string": "クレメンテ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "클레멘트[END]"
+            "translation": "클레멘테[END]"
         },
         {
             "offset": 1678336,
@@ -390,7 +390,7 @@
             "string": "シャルティエ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "샤르띠에[END]"
+            "translation": "샤르티에[END]"
         },
         {
             "offset": 1678368,

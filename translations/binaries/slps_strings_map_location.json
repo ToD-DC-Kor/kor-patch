@@ -292,7 +292,7 @@
             "string": "飛行竜セインガルド周りA[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "비행룡 세인갈드 주변 A[END]"
+            "translation": "비행룡 세인가르드 A[END]"
         },
         {
             "offset": 1728952,
@@ -698,14 +698,14 @@
             "string": "セインガルド城A(夜)[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "세인갈드 성A(밤)[END]"
+            "translation": "세인가르드 성A(밤)[END]"
         },
         {
             "offset": 1730048,
             "string": "セインガルド城A[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "세인갈드 성A[END]"
+            "translation": "세인가르드 성A[END]"
         },
         {
             "offset": 1730064,

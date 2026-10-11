@@ -285,14 +285,14 @@
             "string": "グレバム[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "글레밤[END]"
+            "translation": "그레밤[END]"
         },
         {
             "offset": 46208,
             "string": "シャルティエ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "샤르띠에[END]"
+            "translation": "샤르티에[END]"
         },
         {
             "offset": 46224,
@@ -306,7 +306,7 @@
             "string": "クレメンテ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "클레멘트[END]"
+            "translation": "클레멘테[END]"
         },
         {
             "offset": 46256,

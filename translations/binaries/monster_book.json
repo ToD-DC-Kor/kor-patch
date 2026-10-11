@@ -943,7 +943,7 @@
             "string": "空中に漂う水分の結晶。[LINE]\n寒い地方によく現れ、寒い場所だと[LINE]\n一定の間隔で発生する場合がある。[END]",
             "original_bytes_length": 89,
             "available_bytes_size": 95,
-            "translation": "공중에 떠다니는 수분의 결정. [LINE]\n추운 지방에 자주 나타나며, 추운 곳이면 [LINE]\n일정한 간격으로 발생하는 경우가 있다. [END]"
+            "translation": "공중에 떠도는 수분의 결정.[LINE]\n추운 지방에 자주 나타나며,[LINE]\n추운 곳에서는 주기적으로 생기기도 한다.[END]"
         },
         {
             "offset": 31136,
@@ -978,14 +978,14 @@
             "string": "モリュウ城を守る番犬。[LINE]\n回避率が高く、ブラストになると使う[LINE]\nショックウェイブは必ずマヒになってしまう。[END]",
             "original_bytes_length": 101,
             "available_bytes_size": 103,
-            "translation": "모류성을 지키는 경비견. [LINE]\n회피율이 높으며, 블라스트가 되면 사용하는 [LINE]\n쇼크웨이브는 반드시 마비가 된다. [END]"
+            "translation": "모리유 성을 지키는 경비견.[LINE]\n회피율이 높고 블라스트 상태에서 쓰는[LINE]\n쇼크웨이브는 반드시 마비를 일으킨다.[END]"
         },
         {
             "offset": 31576,
             "string": "モリュウに雇われている傭兵。[LINE]\nナイフに痺れ毒をたっぷりと塗ってあり、[LINE]\n痺れている隙に、暗殺するのが得意。[END]",
             "original_bytes_length": 103,
             "available_bytes_size": 103,
-            "translation": "모류에 고용되어 있는 용병. [LINE]\n나이프에 마비독을 풍부히 바르고 있으며, [LINE]\n마비되어 있는 틈에, 암살하는 것이 특기. [END]"
+            "translation": "모리유에 고용된 용병.[LINE]\n칼에 마비독을 듬뿍 발라 놓고[LINE]\n상대가 마비된 틈에 암살한다.[END]"
         },
         {
             "offset": 31680,
@@ -1307,7 +1307,7 @@
             "string": "防護服をまとったオベロン社の研究員。[LINE]\n手持ちの銃は用途に応じて切り替えが可能で、[LINE]\n特に衰弱効果を持つガスには注意が必要。[END]",
             "original_bytes_length": 119,
             "available_bytes_size": 119,
-            "translation": "방호복을 입은 오베론사의 연구원. [LINE]\n손에 든 총은 용도에 따라 전환이 가능하며, [LINE]\n특히 쇠약 효과를 가진 가스에는 주의가 필요하다. [END]"
+            "translation": "방호복을 입은 오베론 사 연구원.[LINE]\n용도에 따라 총을 전환하며,[LINE]\n특히 쇠약 효과가 있는 가스에 주의해야 한다.[END]"
         },
         {
             "offset": 36288,
@@ -1370,7 +1370,7 @@
             "string": "モリュウに仕える正規兵。[LINE]\n長いリーチを誇る、槍での攻撃を得意とする。[LINE]\n後ろの仲間も巻き込まれないように注意。[END]",
             "original_bytes_length": 107,
             "available_bytes_size": 111,
-            "translation": "모류에 시종하는 정규병. [LINE]\n긴 리치를 자랑하는, 창으로의 공격을 특기로 한다. [LINE]\n뒤의 동료도 휘말리지 않도록 주의. [END]"
+            "translation": "모리유를 섬기는 정규병.[LINE]\n사거리가 긴 창으로 공격한다.[LINE]\n뒤에 있는 동료까지 휘말리지 않도록 주의.[END]"
         },
         {
             "offset": 37280,
@@ -1664,7 +1664,7 @@
             "string": "グレバムの部下の神官。[LINE]\n爪による素早い攻撃を繰り出し、[LINE]\nHPが少ない者を常に狙ってくる。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "글레밤의 부하 신관. [LINE]\n발톱에 의한 빠른 공격을 펼쳐 오며, [LINE]\nHP가 적은 자를 항상 노리며 오는. [END]"
+            "translation": "그레밤의 부하 신관.[LINE]\n발톱으로 재빠르게 공격하며,[LINE]\n늘 HP가 적은 상대를 노린다.[END]"
         },
         {
             "offset": 41664,

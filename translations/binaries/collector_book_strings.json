@@ -68,7 +68,7 @@
             "string": "貴重品[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "보물[END]"
+            "translation": "귀중품[END]"
         },
         {
             "offset": 12144,
@@ -166,7 +166,7 @@
             "string": "固有装備[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "고유장비[END]"
+            "translation": "고유 장비[END]"
         },
         {
             "offset": 12296,

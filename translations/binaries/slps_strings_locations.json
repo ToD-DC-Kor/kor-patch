@@ -47,7 +47,7 @@
             "string": "ハイデルベルグ城・対グレバム戦[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "하이델베르그 성・글레밤 전투[END]"
+            "translation": "하이델베르그 성・그레밤 전투[END]"
         },
         {
             "offset": 1714424,
@@ -1349,28 +1349,28 @@
             "string": "セインガルド上級兵戦[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "세인갈드 상급 병 전투[END]"
+            "translation": "세인가르드 상급병전[END]"
         },
         {
             "offset": 1720040,
             "string": "オベロン社海底洞窟モンスター戦３[END]",
             "original_bytes_length": 33,
             "available_bytes_size": 39,
-            "translation": "오베론사 해저 동굴 몬스터 전투 3[END]"
+            "translation": "오베론 사 해저 동굴 몬스터 전투 3[END]"
         },
         {
             "offset": 1720080,
             "string": "オベロン社海底洞窟モンスター戦２[END]",
             "original_bytes_length": 33,
             "available_bytes_size": 39,
-            "translation": "오베론사 해저 동굴 몬스터 전투 2[END]"
+            "translation": "오베론 사 해저 동굴 몬스터 전투 2[END]"
         },
         {
             "offset": 1720120,
             "string": "オベロン社海底洞窟モンスター戦１[END]",
             "original_bytes_length": 33,
             "available_bytes_size": 39,
-            "translation": "오베론사 해저 동굴 몬스터 전투 1[END]"
+            "translation": "오베론 사 해저 동굴 몬스터 전투 1[END]"
         },
         {
             "offset": 1720160,
@@ -1853,14 +1853,14 @@
             "string": "セインガルドF3(ストレイライズの森周辺)[END]",
             "original_bytes_length": 39,
             "available_bytes_size": 39,
-            "translation": "세인갈드 F3 (스트레이라이즈의 숲 주변)[END]"
+            "translation": "세인가르드F3(스트레이라이즈 숲 주변)[END]"
         },
         {
             "offset": 1721960,
             "string": "セインガルドF3(ダリルシェイド周辺)[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
-            "translation": "세인갈드 F3 (다릴쉐이드 주변)[END]"
+            "translation": "세인가르드 F3 (다릴쉐이드 주변)[END]"
         },
         {
             "offset": 1722000,
@@ -1881,7 +1881,7 @@
             "string": "ベルクラント[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "벨클란트[END]"
+            "translation": "벨크란트[END]"
         },
         {
             "offset": 1722048,
@@ -2070,7 +2070,7 @@
             "string": "オベロン社秘密工場[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "오베론사 비밀 공장[END]"
+            "translation": "오베론 사 비밀 공장[END]"
         },
         {
             "offset": 1722664,
@@ -2098,14 +2098,14 @@
             "string": "セインガルドF2(ストレイライズの森周辺)[END]",
             "original_bytes_length": 39,
             "available_bytes_size": 39,
-            "translation": "세인갈드 F2 (스트레이라이즈의 숲 주변)[END]"
+            "translation": "세인가르드F2(스트레이라이즈 숲 주변)[END]"
         },
         {
             "offset": 1722800,
             "string": "セインガルドF2(ダリルシェイド周辺)[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
-            "translation": "세인갈드 F2 (다릴쉐이드 주변)[END]"
+            "translation": "세인가르드 F2 (다릴쉐이드 주변)[END]"
         },
         {
             "offset": 1722840,
@@ -2140,7 +2140,7 @@
             "string": "グレバム戦[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "글레밤 전투[END]"
+            "translation": "그레밤 전투[END]"
         },
         {
             "offset": 1722976,
@@ -2406,7 +2406,7 @@
             "string": "セインガルドF1(ストレイライズの森周辺)[END]",
             "original_bytes_length": 39,
             "available_bytes_size": 39,
-            "translation": "세인갈드 F1 (스트레이라이즈의 숲 주변)[END]"
+            "translation": "세인가르드F1(스트레이라이즈 숲 주변)[END]"
         },
         {
             "offset": 1723848,
@@ -2420,21 +2420,21 @@
             "string": "セインガルド兵士戦２[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "세인갈드 병사 전투 2[END]"
+            "translation": "세인가르드 병사 전투 2[END]"
         },
         {
             "offset": 1723888,
             "string": "セインガルド兵士戦１[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "세인갈드 병사 전투 1[END]"
+            "translation": "세인가르드 병사 전투 1[END]"
         },
         {
             "offset": 1723912,
             "string": "セインガルドF1(ダリルシェイド周辺)[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
-            "translation": "세인갈드 F1 (다릴쉐이드 주변)[END]"
+            "translation": "세인가르드 F1 (다릴쉐이드 주변)[END]"
         },
         {
             "offset": 1723952,
@@ -2630,7 +2630,7 @@
             "string": "オベロン社[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "오베론사[END]"
+            "translation": "오베론 사[END]"
         }
     ]
 }

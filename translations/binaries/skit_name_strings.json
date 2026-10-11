@@ -187,7 +187,7 @@
             "string": "モリュウ領を探そう[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "모류 영지를 찾자[END]"
+            "translation": "모리유 영지를 찾자[END]"
         },
         {
             "offset": 76464,
@@ -243,7 +243,7 @@
             "string": "グレバムを追うぞ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "글레밤을 쫓자[END]"
+            "translation": "그레밤을 쫓자[END]"
         },
         {
             "offset": 76656,
@@ -537,7 +537,7 @@
             "string": "泣きシャルティエ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "우는 샤르띠에[END]"
+            "translation": "우는 샤르티에[END]"
         },
         {
             "offset": 77576,
@@ -1230,7 +1230,7 @@
             "string": "ガルド求めてえんやこら[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "갈드를 찾아 열심히[END]"
+            "translation": "가르드를 찾아 열심히[END]"
         },
         {
             "offset": 79504,
@@ -3155,7 +3155,7 @@
             "string": "グレバムと神の眼[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "글레밤과 신의 눈[END]"
+            "translation": "그레밤과 신의 눈[END]"
         },
         {
             "offset": 85904,
@@ -3169,7 +3169,7 @@
             "string": "グレバムを追ってファンダリアへ[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "글레밤을 쫓아 팬더리아로[END]"
+            "translation": "그레밤을 쫓아 팬더리아로[END]"
         },
         {
             "offset": 85960,
@@ -3379,14 +3379,14 @@
             "string": "小船でモリュウ城へ[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "작은 배로 모류 성으로[END]"
+            "translation": "배로 모리유 성에[END]"
         },
         {
             "offset": 86600,
             "string": "モリュウ城へは小船に乗って[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "모류 성으로는 작은 배를 타고[END]"
+            "translation": "모리유 성으로는 작은 배를 타고[END]"
         },
         {
             "offset": 86632,
@@ -3407,7 +3407,7 @@
             "string": "モリュウ領で情報収集[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "모류 영토에서 정보 수집[END]"
+            "translation": "모리유에서 정보 수집[END]"
         },
         {
             "offset": 86696,
@@ -3435,7 +3435,7 @@
             "string": "クレメンテの趣味[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "클레멘트의 취미[END]"
+            "translation": "클레멘테의 취미[END]"
         },
         {
             "offset": 86768,
@@ -3456,28 +3456,28 @@
             "string": "モリュウ領は水の街[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "모류 영토는 물의 도시[END]"
+            "translation": "모리유는 물의 도시[END]"
         },
         {
             "offset": 86832,
             "string": "モリュウ領へ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "모류 영토로[END]"
+            "translation": "모리유 영토로[END]"
         },
         {
             "offset": 86848,
             "string": "モリュウ領へ行こう[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "모류 영토로 가자[END]"
+            "translation": "모리유 영토로 가자[END]"
         },
         {
             "offset": 86872,
             "string": "海底洞窟を抜けてモリュウ領へ[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "해저 동굴을 지나 모류 영토로[END]"
+            "translation": "해저 동굴을 지나 모리유 영토로[END]"
         },
         {
             "offset": 86904,
@@ -3617,14 +3617,14 @@
             "string": "目指すはグレバム[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "목표는 글레밤[END]"
+            "translation": "목표는 그레밤[END]"
         },
         {
             "offset": 87384,
             "string": "シャルティエってどんな人？[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "샤르띠에는 어떤 사람?[END]"
+            "translation": "샤르티에는 어떤 사람?[END]"
         },
         {
             "offset": 87416,
@@ -3911,7 +3911,7 @@
             "string": "クレメンテってどんな人？[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "클레멘트는 어떤 사람?[END]"
+            "translation": "클레멘테는 어떤 사람?[END]"
         },
         {
             "offset": 88384,
@@ -4016,14 +4016,14 @@
             "string": "この奥にクレメンテが[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "이 안쪽에 클레멘트가[END]"
+            "translation": "이 안쪽에 클레멘테가[END]"
         },
         {
             "offset": 88728,
             "string": "クレメンテはラディスロウの奥に[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "클레멘트는 라디슬로우 안쪽에[END]"
+            "translation": "클레멘테는 라디슬로우 안쪽에[END]"
         },
         {
             "offset": 88760,

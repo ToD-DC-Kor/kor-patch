@@ -1921,7 +1921,7 @@
         {
             "offset": 1767080,
             "string": "オベロン社が開発した戦う人の味方。[LINE]\nＨＰが全快するドリンク。[LINE]\n今日のあなたに、この１本！[END]",
-            "translation": "오베론사가 개발한 전투를 위한 든든한 파트너.[LINE]\nHP가 전부 회복되는 음료.[LINE]\n오늘도 당신을 위한, 한 병![END]",
+            "translation": "오베론 사가 개발한 전사의 동반자.[LINE]\nHP를 모두 회복하는 음료.[LINE]\n오늘도 당신에게 이 한 병![END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87
         },
@@ -1935,7 +1935,7 @@
         {
             "offset": 1767200,
             "string": "オベロン社が開発した働く人の味方。[LINE]\n最大ＨＰの６０％分ＨＰが回復する。[LINE]\n疲労時の栄養補給に。[END]",
-            "translation": "오베론사가 개발한 직장인의 친구.[LINE]\n최대 HP의 60%만큼 HP가 회복된다.[LINE]\n피로 시 영양 보충에 좋다.[END]",
+            "translation": "오베론 사가 개발한 직장인의 친구.[LINE]\n최대 HP의 60%만큼 HP가 회복된다.[LINE]\n피로 시 영양 보충에 좋다.[END]",
             "original_bytes_length": 91,
             "available_bytes_size": 95
         },
@@ -1949,7 +1949,7 @@
         {
             "offset": 1767320,
             "string": "オベロン社が開発した庶民の味方。[LINE]\n最大ＨＰの４０％分ＨＰが回復する。[LINE]\n元気ハツラツ！[END]",
-            "translation": "오베론사가 개발한 백성의 친구.[LINE]\n최대 HP의 40%만큼 HP가 회복된다.[LINE]\n건강 활력 충전![END]",
+            "translation": "오베론 사가 개발한 백성의 친구.[LINE]\n최대 HP의 40%만큼 HP가 회복된다.[LINE]\n건강 활력 충전![END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87
         },

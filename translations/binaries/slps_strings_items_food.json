@@ -1006,7 +1006,7 @@
             "string": "海鮮丼が出るストラップ。[LINE]\n新鮮な魚介類をご飯の上へ。季節に[LINE]\nよって素材も変わる。贅沢な一品。[END]",
             "original_bytes_length": 91,
             "available_bytes_size": 95,
-            "translation": "해산물 덮밥이 나오는 스트랩.[LINE]\n신선한 해산물을 밥 위에 얹어 먹는다.[LINE]\n계절마다 재료가 바뀌는 호화로운 음식.[END]"
+            "translation": "해산물 덮밥이 나오는 스트랩.[LINE]\n신선한 해산물을 밥 위에 올린다.[LINE]\n제철 재료로 만든 호화로운 요리.[END]"
         },
         {
             "offset": 1807768,

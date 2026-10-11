@@ -733,7 +733,7 @@
             "string": "サイリルの[Mary]・エージェント（２４）。[LINE]\n１７０ｃｍ５４ｋｇ[LINE]\nダリスの剣を肌身離さずに持ち歩いている。[END]",
             "original_bytes_length": 102,
             "available_bytes_size": 103,
-            "translation": "사이릴의 [Mary]・에이전트(24).[LINE]\n170cm 54kg[LINE]\n다리스의 검을 항상 지니고 다닌다.[END]"
+            "translation": "사이릴의 [Mary]・에이젠트(24).[LINE]\n170cm 54kg[LINE]\n다리스의 검을 항상 지니고 다닌다.[END]"
         },
         {
             "offset": 1822712,
@@ -1216,7 +1216,7 @@
             "string": "[Philia]・フィリス司祭（１９）。[LINE]\n１６２ｃｍ４５ｋｇ[LINE]\nソーディアンクレメンテのマスター。[END]",
             "original_bytes_length": 86,
             "available_bytes_size": 87,
-            "translation": "[Philia]・필리스 사제(19세).[LINE]\n162cm 45kg[LINE]\n소디언 클레멘트의 마스터.[END]"
+            "translation": "[Philia]・필리스 사제(19세).[LINE]\n162cm 45kg[LINE]\n소디언 클레멘테의 마스터.[END]"
         },
         {
             "offset": 1826344,
@@ -1293,7 +1293,7 @@
             "string": "A級エージェント[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "A급 에이전트[END]"
+            "translation": "A급 에이젠트[END]"
         },
         {
             "offset": 1826880,
@@ -1426,7 +1426,7 @@
             "string": "孤児院育ちの[Rutee]・カトレット（１８）。[LINE]\n１５７ｃｍ４６ｋｇ[LINE]\nソーディアンアトワイトのマスター。[END]",
             "original_bytes_length": 96,
             "available_bytes_size": 96,
-            "translation": "고아원에서 자란 [Rutee]・커틀렛(18세).[LINE]\n157cm 46kg[LINE]\n소디언 아트와이트의 마스터.[END]"
+            "translation": "고아원에서 자란 [Rutee]・카틀릿(18세).[LINE]\n157cm 46kg[LINE]\n소디언 아트와이트의 마스터.[END]"
         },
         {
             "offset": 1827864,
