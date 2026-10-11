@@ -159,7 +159,7 @@
             "string": "%sVICTORY![END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "%s 승리![END]"
+            "translation": "%sVICTORY![END]"
         },
         {
             "offset": 245224,
