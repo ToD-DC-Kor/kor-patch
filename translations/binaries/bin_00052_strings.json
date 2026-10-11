@@ -26,7 +26,7 @@
             "string": "[TAG_007]メモリーカード差込口１のメモリーカード（ＰＳ２）を[LINE]\nチェック中です。[LINE]\nメモリーカード（ＰＳ２）を抜いたり、電源を切ったり[LINE]\nしないでください。[END]",
             "original_bytes_length": 143,
             "available_bytes_size": 143,
-            "translation": "[TAG_007]메모리 카드 슬롯 1의 메모리 카드(PS2)를[LINE]\n체크 중입니다.[LINE]\n메모리 카드(PS2)를 빼거나, 전원을 끄지 마십시오.[END]"
+            "translation": "[TAG_007]메모리 카드 슬롯 1의 메모리 카드(PS2)를[LINE]\n확인 중입니다.[LINE]\n메모리 카드(PS2)를 빼거나 전원을[LINE]\n끄지 마십시오.[END]"
         },
         {
             "offset": 30952,
@@ -61,7 +61,7 @@
             "string": "[TAG_007]データを新規作成します。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63,
-            "translation": "[TAG_007]데이터를 신규 생성합니다.[LINE]\n진행할까요?[LINE]\n예[LINE]\n아니요[END]"
+            "translation": "[TAG_007]데이터를 신규 생성합니다.[LINE]\n진행하시겠습니까?[LINE]\n예[LINE]\n아니요[END]"
         },
         {
             "offset": 31232,
@@ -75,7 +75,7 @@
             "string": "[TAG_007]選択中のデータに上書きセーブします。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "[TAG_007]선택 중인 데이터에 덮어쓰기합니다.[LINE]\n진행할까요?[LINE]\n예[LINE]\n아니요[END]"
+            "translation": "[TAG_007]선택 중인 데이터에 덮어쓰기합니다.[LINE]\n진행하시겠습니까?[LINE]\n예[LINE]\n아니요[END]"
         },
         {
             "offset": 31472,
@@ -103,7 +103,7 @@
             "string": "[TAG_007]ロードを中止しますか？[LINE]\nはい[LINE]\nいいえ[END]",
             "original_bytes_length": 40,
             "available_bytes_size": 40,
-            "translation": "[TAG_007]불러오기를 중단할까요?[LINE]\n예[LINE]\n아니요[END]"
+            "translation": "[TAG_007]불러오기를 중단합니까?[LINE]\n예[LINE]\n아니요[END]"
         },
         {
             "offset": 31672,
@@ -124,7 +124,7 @@
             "string": "[TAG_007]選択中のデータをロードします。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "[TAG_007]선택 중인 데이터를 불러옵니다.[LINE]\n진행할까요?[LINE]\n예[LINE]\n아니요[END]"
+            "translation": "[TAG_007]선택 중인 데이터를 불러옵니다.[LINE]\n진행하시겠습니까?[LINE]\n예[LINE]\n아니요[END]"
         },
         {
             "offset": 31896,
@@ -145,7 +145,7 @@
             "string": "[TAG_007]ロードが完了しました！[END]",
             "original_bytes_length": 28,
             "available_bytes_size": 31,
-            "translation": "[TAG_007]불러오기 완료![END]"
+            "translation": "[TAG_007]불러오기 완료했습니다![END]"
         },
         {
             "offset": 32056,
@@ -159,14 +159,14 @@
             "string": "[TAG_007]ゲームを中断しますか？[LINE]\nただし、再開後は中断データがなくなりますので[LINE]\nご注意ください。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[END]",
             "original_bytes_length": 119,
             "available_bytes_size": 119,
-            "translation": "[TAG_007]게임을 중단하시겠습니까?[LINE]\n다만, 재개 후에는 중단 데이터가 사라지므로[LINE]\n주의하십시오.[LINE]\n진행할까요?[LINE]\n예[LINE]\n아니요[END]"
+            "translation": "[TAG_007]게임을 중단하시겠습니까?[LINE]\n다만, 재개 후에는 중단 데이터가 사라지므로[LINE]\n주의하십시오.[LINE]\n진행하시겠습니까?[LINE]\n예[LINE]\n아니요[END]"
         },
         {
             "offset": 32280,
             "string": "[TAG_007]ゲームを中断しますか？[LINE]\nただし、再開後は中断データがなくなりますので[LINE]\nご注意ください。（中断データは上書きされます）[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[END]",
             "original_bytes_length": 149,
             "available_bytes_size": 151,
-            "translation": "[TAG_007]게임을 중단하시겠습니까?[LINE]\n다만, 재개 후에는 중단 데이터가 사라지므로[LINE]\n주의하십시오.(중단 데이터가 덮어씌워집니다)[LINE]\n진행할까요?[LINE]\n예[LINE]\n아니요[END]"
+            "translation": "[TAG_007]게임을 중단하시겠습니까?[LINE]\n다만, 재개 후에는 중단 데이터가 사라지므로[LINE]\n주의하십시오.(중단 데이터가 덮어씌워집니다)[LINE]\n진행하시겠습니까?[LINE]\n예[LINE]\n아니요[END]"
         },
         {
             "offset": 32432,
@@ -180,7 +180,7 @@
             "string": "[TAG_007]選択中のデータを引継いで、[LINE]\n[TAG_015]周目から始めますか？[LINE]\nはい[LINE]\nいいえ[END]",
             "original_bytes_length": 70,
             "available_bytes_size": 71,
-            "translation": "[TAG_007]선택 중인 데이터를 이어받아,[LINE]\n[TAG_015]회차부터 시작할까요?[LINE]\n예[LINE]\n아니요[END]"
+            "translation": "[TAG_007]선택한 데이터를 이어받아[LINE]\n[TAG_015]회차로 시작하시겠습니까?[LINE]\n예[LINE]\n아니요[END]"
         },
         {
             "offset": 32672,

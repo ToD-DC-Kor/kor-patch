@@ -139,7 +139,7 @@
             "string": "[TAG_007]『[PlaceHolderA]』に[LINE]\nリライズしますか？[LINE]\n[S14]（[PlaceHolderB]は失われます）[TAG_002][LINE]\nはい[LINE]\nいいえ[END]",
             "original_bytes_length": 80,
             "available_bytes_size": 80,
-            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈할까요?[LINE]\n[S14]（[PlaceHolderB]는 사라집니다）[TAG_002][LINE]\n예[LINE]\n아니요[END]"
+            "translation": "[TAG_007]『[PlaceHolderA]』로[LINE]\n리라이즈하시겠습니까?[LINE]\n[S14]（[PlaceHolderB]는 소실）[TAG_002][LINE]\n예[LINE]\n아니요[END]"
         },
         {
             "offset": 36336,
@@ -188,7 +188,7 @@
             "string": "[TAG_007]『[PlaceHolderA]』に[LINE]\nリライズしますか？[LINE]\n[S14]（[PlaceHolderB]は失われます）[TAG_002][LINE]\nはい[LINE]\nいいえ[END]",
             "original_bytes_length": 80,
             "available_bytes_size": 80,
-            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈할까요?[LINE]\n[S14]（[PlaceHolderB]는 사라집니다）[TAG_002][LINE]\n예[LINE]\n아니요[END]"
+            "translation": "[TAG_007]『[PlaceHolderA]』로[LINE]\n리라이즈하시겠습니까?[LINE]\n[S14]（[PlaceHolderB]는 소실）[TAG_002][LINE]\n예[LINE]\n아니요[END]"
         },
         {
             "offset": 36872,
@@ -265,7 +265,7 @@
             "string": "アーマー[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "아머[END]"
+            "translation": "갑옷[END]"
         },
         {
             "offset": 37192,
@@ -300,14 +300,14 @@
             "string": "[TAG_007]『[PlaceHolderA]』に[LINE]\nリライズするにはコレクター図鑑の[LINE]\n[turquoise][PlaceHolderB][/color]を[LINE]\nコンプリートする必要があります。[END]",
             "original_bytes_length": 101,
             "available_bytes_size": 103,
-            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈 하려면 콜렉터 도감의[LINE]\n[turquoise][PlaceHolderB][/color]를[LINE]\n완성해야 합니다.[END]"
+            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈하려면 컬렉터 도감의[LINE]\n[turquoise][PlaceHolderB][/color]를[LINE]\n완성해야 합니다.[END]"
         },
         {
             "offset": 37344,
             "string": "[TAG_007]『[PlaceHolderA]』に[LINE]\nリライズするには[LINE]\n『[PlaceHolderB]』が必要です。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 63,
-            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈 하려면[LINE]\n『[PlaceHolderB]』가 필요합니다.[END]"
+            "translation": "[TAG_007]『[PlaceHolderA]』에[LINE]\n리라이즈하려면[LINE]\n『[PlaceHolderB]』가 필요합니다.[END]"
         },
         {
             "offset": 37576,

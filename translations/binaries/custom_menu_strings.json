@@ -96,7 +96,7 @@
             "string": "戦闘中カメラ[LINE]\n[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "전투 중 카메라[LINE]\n[END]"
+            "translation": "전투 카메라[LINE]\n[END]"
         },
         {
             "offset": 30584,
@@ -110,7 +110,7 @@
             "string": "上下移動方向[LINE]\n[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "상하 이동 방향[LINE]\n[END]"
+            "translation": "상하 이동[LINE]\n[END]"
         },
         {
             "offset": 30416,
@@ -145,7 +145,7 @@
             "string": "フェイス・ステータス絵[LINE]\n[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "얼굴 상태 그림[LINE]\n[END]"
+            "translation": "얼굴·상태 그림[LINE]\n[END]"
         },
 
         {
@@ -153,14 +153,14 @@
             "string": "メッセージの表示速度を変更します。[LINE]\n表示速度１の時はフェードしません。[LINE]\n[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "메시지 표시 속도를 변경합니다.[LINE]\n표시 속도 1일 때는 페이드되지 않습니다.[LINE]\n[END]"
+            "translation": "메시지 표시 속도를 바꿉니다.[LINE]\n속도 1일 때는 페이드되지 않습니다.[LINE]\n[END]"
         },
         {
             "offset": 30848,
             "string": "ＯＮにするとボタンを押さなくても自動で[LINE]\nメッセージを送るようになります。[LINE]\n[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79,
-            "translation": "ON으로 하면 버튼을 누르지 않아도 자동으로[LINE]\n메시지를 보내게 됩니다.[LINE]\n[END]"
+            "translation": "ON으로 하면 버튼을 누르지 않아도 자동으로[LINE]\n메시지를 넘깁니다.[LINE]\n[END]"
         },
         {
             "offset": 30824,
@@ -181,7 +181,7 @@
             "string": "画面の表示位置を調整します。[LINE]\n[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "화면의 표시 위치를 조정합니다.[LINE]\n[END]"
+            "translation": "화면 표시 위치를 조정합니다.[LINE]\n[END]"
         },
         {
             "offset": 30672,
@@ -251,7 +251,7 @@
             "string": "メニュー内トップに表示されるプレイヤーキャラの[LINE]\n顔と、ステータスメニューの絵を変更できます。[LINE]\n[END]",
             "original_bytes_length": 93,
             "available_bytes_size": 95,
-            "translation": "메뉴 내 상단에 표시되는 플레이어 캐릭터의[LINE]\n얼굴과, 스테이터스 메뉴의 그림을 변경할 수 있습니다.[LINE]\n[END]"
+            "translation": "메뉴 상단에 표시되는 플레이어의 얼굴과[LINE]\n스테이터스 메뉴의 그림을 바꿀 수 있습니다.[LINE]\n[END]"
         },
 
 
@@ -281,7 +281,7 @@
             "string": "通常の戦闘難易度です。[LINE]\n[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "일반적인 전투 난이도입니다.[LINE]\n[END]"
+            "translation": "보통 전투 난이도입니다[LINE]\n[END]"
         },
         {
             "offset": 31864,
@@ -295,7 +295,7 @@
             "string": "NORMALより、やや高い難易度です。[LINE]\n敵味方とも各ダメージ倍率が変化します。[END]",
             "original_bytes_length": 72,
             "available_bytes_size": 72,
-            "translation": "NORMAL보다 약간 높은 난이도.[LINE]\n적, 아군 모두 각 데미지 배율 변화합니다.[END]"
+            "translation": "NORMAL보다 조금 어렵습니다.[LINE]\n적과 아군의 데미지 배율이 달라집니다.[END]"
         },
         {
             "offset": 31784,
@@ -380,7 +380,7 @@
             "string": "敵全員を画面内に表示します。[LINE]\n[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "적 전원을 화면 내에 표시.[LINE]\n[END]"
+            "translation": "적 전원을 화면에 표시합니다.[LINE]\n[END]"
         },
         {
             "offset": 32032,
@@ -416,7 +416,7 @@
             "string": "敵に対して指定された連携を決めることで[LINE]\n戦闘を有利に進めることができま す。[LINE]\n[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "적에 대해 지정된 연계를 결정하여[LINE]\n전투를 유리하게 진행할 수 있습니다.[LINE]\n[END]"
+            "translation": "적에게 지정된 연계를 성공시키면[LINE]\n전투를 유리하게 진행할 수 있습니다.[LINE]\n[END]"
         },
         {
             "offset": 32360,
@@ -430,14 +430,14 @@
             "string": "術技ショートカット２[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "기술 단축키 2[END]"
+            "translation": "술기 단축키 2[END]"
         },
         {
             "offset": 32392,
             "string": "術技ショートカット１[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "기술 단축키 1[END]"
+            "translation": "술기 단축키 1[END]"
         },
         {
             "offset": 32416,
@@ -451,7 +451,7 @@
             "string": "ブラストキャリバー[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "블래스트 캘리버[END]"
+            "translation": "블라스트 캘리버[END]"
         },
         {
             "offset": 32464,
@@ -472,7 +472,7 @@
             "string": "術技[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "기술[END]"
+            "translation": "술기[END]"
         },
         {
             "offset": 32496,

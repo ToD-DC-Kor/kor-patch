@@ -5,7 +5,7 @@
             "string": "飛行竜の船倉に厳重保管されていた、[LINE]\n変わった形の妙に手になじむ剣。[LINE]\n何か得体の知れない力を感じる……[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "비행룡의 선창에 엄중하게 보관되어 있었던,[LINE]\n이상하게 손에 잘 맞는 검.[LINE]\n무언가 정체불명의 힘을 느낀다…[END]"
+            "translation": "비행룡 선창에 엄중히 보관되던 검.[LINE]\n특이한 모양인데 묘하게 손에 익는다.[LINE]\n정체 모를 힘이 느껴진다……[END]"
         },
         {
             "offset": 1725336,
@@ -33,7 +33,7 @@
             "string": "各国の軍隊に採用されている剣。[LINE]\nシンプルな作りで非常に扱いやすい。[LINE]\n[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "각국의 군대에서 채용된 검.[LINE]\n심플한 제작으로 매우 다루기 쉽다.[LINE]\n[END]"
+            "translation": "각국의 군대에서 채용된 검.[LINE]\n단순한 구조라 매우 다루기 쉽다.[LINE]\n[END]"
         },
 
         {
@@ -104,7 +104,7 @@
             "string": "火属性の知能ある剣。[LINE]\n人格は、熱血漢の切り込み隊長。[LINE]\nディムロス・ティンバー。[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "불 속성의 지능을 가진 검.[LINE]\n성격은 열혈 칼질 대장.[LINE]\n딤로스 팀버.[END]"
+            "translation": "불 속성의 지능을 가진 검.[LINE]\n성격은 열혈 선봉대장.[LINE]\n딤로스 팀버.[END]"
         },
         {
             "offset": 1726048,

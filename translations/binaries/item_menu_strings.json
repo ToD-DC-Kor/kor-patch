@@ -117,21 +117,21 @@
             "string": "[PlaceHolderA]は外せないため[LINE]\n捨てられません。[END]",
             "original_bytes_length": 37,
             "available_bytes_size": 39,
-            "translation": "[PlaceHolderA]은(는) 못 빼서[LINE]버릴 수 없습니다.[END]"
+            "translation": "[PlaceHolderA]은(는) 못 빼서[LINE]\n버릴 수 없습니다.[END]"
         },
         {
             "offset": 34552,
             "string": "[PlaceHolderA]は捨てられません。[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "[PlaceHolderA] 버릴 수 없습니다.[END]"
+            "translation": "[PlaceHolderA]은(는) 버리기 불가[END]"
         },
         {
             "offset": 34672,
             "string": "[PlaceHolderA]はなくなりました。[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "[PlaceHolderA]이(가) 사라졌다.[END]"
+            "translation": "[PlaceHolderA] 소진됐습니다.[END]"
         },
         {
             "offset": 34696,
@@ -208,14 +208,14 @@
             "string": "誰に使用しますか？[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "누구에게 사용할까요?[END]"
+            "translation": "누구에게 사용합니까?[END]"
         },
         {
             "offset": 35032,
             "string": "誰が装備しますか？[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "누가 장착할까요?[END]"
+            "translation": "누가 장착합니까?[END]"
         }
     ]
 }

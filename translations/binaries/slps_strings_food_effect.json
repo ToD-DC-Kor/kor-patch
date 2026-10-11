@@ -159,21 +159,21 @@
             "string": "戦闘中、誰かのＨＰが[TAG_015]％以下[END]",
             "original_bytes_length": 32,
             "available_bytes_size": 32,
-            "translation": "전투 중, 누군가의 HP가 [TAG_015]％ 이하[END]"
+            "translation": "전투 중 누군가의 HP[TAG_015]％ 이하[END]"
         },
         {
             "offset": 1817280,
             "string": "戦闘中、全員のＨＰ合計が[TAG_015]％以下[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39,
-            "translation": "전투 중, 모든 사람의 HP 합계가 [TAG_015]％ 이하[END]"
+            "translation": "전투 중, 전원의 HP 합계가 [TAG_015]％ 이하[END]"
         },
         {
             "offset": 1817320,
             "string": "戦闘中、[TAG_015]属性攻撃を受けたら[END]",
             "original_bytes_length": 32,
             "available_bytes_size": 32,
-            "translation": "전투 중, [TAG_015] 속성 공격을 받으면[END]"
+            "translation": "전투 중 [TAG_015]속성 공격을 받으면[END]"
         },
         {
             "offset": 1817352,
@@ -215,14 +215,14 @@
             "string": "誰かのＨＰが[TAG_015]％以下[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "누군가의 HP가 [TAG_015]％ 이하[END]"
+            "translation": "누군가의 HP[TAG_015]％ 이하[END]"
         },
         {
             "offset": 1817528,
             "string": "全員のＨＰ合計が[TAG_015]％以下[END]",
             "original_bytes_length": 28,
             "available_bytes_size": 31,
-            "translation": "모든 사람의 HP 합계가 [TAG_015]％ 이하[END]"
+            "translation": "전원의 HP 합계가 [TAG_015]％ 이하[END]"
         },
         {
             "offset": 1817560,
@@ -236,7 +236,7 @@
             "string": "[TAG_015]戦闘ごとに[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[TAG_015]회 전투할 때마다[END]"
+            "translation": "[TAG_015]전마다[END]"
         }
     ]
 }

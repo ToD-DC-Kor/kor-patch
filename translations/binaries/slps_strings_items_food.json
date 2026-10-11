@@ -5,7 +5,7 @@
             "string": "至高暗黒丼[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "최고의 암흑 덮밥[END]"
+            "translation": "최고 암흑덮밥[END]"
         },
         {
             "offset": 1803288,
@@ -40,7 +40,7 @@
             "string": "究極暗黒鍋[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "궁극의 암흑 전골[END]"
+            "translation": "궁극 암흑전골[END]"
         },
         {
             "offset": 1803424,
@@ -145,7 +145,7 @@
             "string": "こんがりドッグ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "노릇노릇 핫도그[END]"
+            "translation": "노릇한 핫도그[END]"
         },
         {
             "offset": 1803880,
@@ -166,7 +166,7 @@
             "string": "炭ドッグが出るストラップ。[LINE]\n焼きすぎた！すっかり焦げた[LINE]\nソーセージは苦い味がした。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "탄 핫도그가 나오는 스트랩.[LINE]\n너무 구웠어! 완전히 탔어![LINE]\n소세지에서 쓴 맛이 난다.[END]"
+            "translation": "탄 핫도그가 나오는 스트랩.[LINE]\n너무 구웠어! 완전히 탔어![LINE]\n소시지에서 쓴맛이 난다.[END]"
         },
         {
             "offset": 1803992,
@@ -180,7 +180,7 @@
             "string": "カツサンド[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "돈까스 샌드위치[END]"
+            "translation": "돈가스샌드위치[END]"
         },
         {
             "offset": 1804024,
@@ -236,7 +236,7 @@
             "string": "パサパサンドイッチが出るストラップ。[LINE]\nなるべく早くに食べましょう。[LINE]\n喉につまってしょうがない。[END]",
             "original_bytes_length": 93,
             "available_bytes_size": 95,
-            "translation": "바싹 마른 샌드위치가 나오는 스트랩.[LINE]\n가능한 빨리 먹자.[LINE]\n목이 막히지만 어쩔 수 없다.[END]"
+            "translation": "바싹 마른 샌드위치가 나오는 스트랩.[LINE]\n가능한 빨리 먹자.[LINE]\n자꾸 목에 걸려 곤란하다.[END]"
         },
         {
             "offset": 1804312,
@@ -411,14 +411,14 @@
             "string": "魚鍋が出るストラップ。[LINE]\n魚がメインの鍋。魚の出汁がたまり[LINE]\nません。残りは雑炊にどうぞ。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "해물탕이 나오는 스트랩.[LINE]\n개운한 생선 육수는 참을 수 없다.[LINE]\n남은 건 죽을 끓이자.[END]"
+            "translation": "생선탕이 나오는 스트랩.[LINE]\n생선이 주재료인 탕. 육수가 일품.[LINE]\n남은 국물은 죽으로 즐기자.[END]"
         },
         {
             "offset": 1805072,
             "string": "[Sign_3]魚鍋[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "[Sign_3]해물탕[END]"
+            "translation": "[Sign_3]생선탕[END]"
         },
         {
             "offset": 1805088,
@@ -516,7 +516,7 @@
             "string": "フルーツチーズが出るストラップ。[LINE]\nすり潰したフルーツと牛乳を混ぜて[LINE]\nチーズにする。おやつにピッタリ！[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "과일 치즈가 나오는 스트랩.[LINE]\n잘게 썬 과일과 우유로 만든 치즈.[LINE]\n간식으로 딱 좋아![END]"
+            "translation": "과일 치즈가 나오는 스트랩.[LINE]\n으깬 과일과 우유로 만든 치즈.[LINE]\n간식으로 딱 좋아![END]"
         },
         {
             "offset": 1805544,
@@ -656,7 +656,7 @@
             "string": "すき焼きが出るストラップ。[LINE]\n牛肉を鉄鍋で甘辛く焼いて煮たもの。[LINE]\nお米と一緒に食べても合います。[END]",
             "original_bytes_length": 93,
             "available_bytes_size": 95,
-            "translation": "스키야키가 나오는 스트랩.[LINE]\n잘 끓인 불고기를 날계란에 푹.[LINE]\n밥하고 먹어도 잘 어울린다.[END]"
+            "translation": "스키야키가 나오는 스트랩.[LINE]\n쇠고기를 철냄비에 달고 짭짤하게 익혔다.[LINE]\n밥하고 먹어도 잘 어울린다.[END]"
         },
         {
             "offset": 1806176,
@@ -726,7 +726,7 @@
             "string": "ステーキが出るストラップ。[LINE]\n厚く切った肉をただ焼くだけ！[LINE]\n肉の素晴らしさが実感できます。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "스테이크가 나오는 스트랩.[LINE]\n두툼한 고기를 굽기만 하면 된다고![LINE]\n고기의 훌륭함을 실감할 수 있다.[END]"
+            "translation": "스테이크가 나오는 스트랩.[LINE]\n두툼한 고기를 굽기만 하면 끝![LINE]\n고기의 훌륭함을 실감한다.[END]"
         },
         {
             "offset": 1806488,
@@ -796,14 +796,14 @@
             "string": "グラスパが出るストラップ。[LINE]\nグラタンとスパゲッティを同時に[LINE]\n楽しめる逸品！まずは一口。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "그라탱 스파게티가 나오는 스트랩.[LINE]\n그라탕과 스파게티를 같이 즐기자![LINE]\n우선 한 입 냠냠.[END]"
+            "translation": "그라스파가 나오는 스트랩.[LINE]\n그라탱과 스파게티를 같이 즐기자![LINE]\n우선 한 입 맛보자.[END]"
         },
         {
             "offset": 1806800,
             "string": "[Sign_3]グラスパ[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_3]그라탱 스파게티[END]"
+            "translation": "[Sign_3]그라스파[END]"
         },
         {
             "offset": 1806816,
@@ -880,7 +880,7 @@
             "string": "豚の角煮[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "돼지고기 장조림[END]"
+            "translation": "돼지고기장조림[END]"
         },
         {
             "offset": 1807144,
@@ -1013,7 +1013,7 @@
             "string": "[Sign_3]海鮮丼[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "[Sign_3]해산물 덮밥[END]"
+            "translation": "[Sign_3]해물덮밥[END]"
         },
         {
             "offset": 1807784,
@@ -1195,7 +1195,7 @@
             "string": "蒸しぱん[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "술빵[END]"
+            "translation": "찐빵[END]"
         },
         {
             "offset": 1808528,
@@ -1391,7 +1391,7 @@
             "string": "オムライスが出るストラップ。[LINE]\nケチャップご飯にトロトロ卵を被せ[LINE]\nたもの。子供たちの大好物。[END]",
             "original_bytes_length": 89,
             "available_bytes_size": 95,
-            "translation": "오므라이스가 나오는 스트랩.[LINE]\n케첩과 밥 위에 달걀 지단을 얹은 것.[LINE]\n아이들이 매우 좋아한다.[END]"
+            "translation": "오므라이스가 나오는 스트랩.[LINE]\n케첩 밥 위에 부드러운 달걀을 덮었다.[LINE]\n아이들이 매우 좋아한다.[END]"
         },
         {
             "offset": 1809440,
@@ -1461,7 +1461,7 @@
             "string": "お茶漬けが出るストラップ。[LINE]\nご飯に薄味のだし汁をかけて食べる[LINE]\nもの。さらさらっとかっ込めます。[END]",
             "original_bytes_length": 93,
             "available_bytes_size": 95,
-            "translation": "오차즈케가 나오는 스트랩.[LINE]\n밥에 담백한 차를 부어서 먹는다.[LINE]\n쓱쓱 비비면 술술 넘어간다.[END]"
+            "translation": "오차즈케가 나오는 스트랩.[LINE]\n밥에 담백한 육수를 부어 먹는다.[LINE]\n후루룩 술술 넘어간다.[END]"
         },
         {
             "offset": 1809752,
@@ -1496,14 +1496,14 @@
             "string": "一夜漬けが出るストラップ。[LINE]\n一夜で漬けた漬物。[LINE]\nあっさりして食べやすい。[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "겉절이가 나오는 스트랩.[LINE]\n채소를 하룻밤 동안 절인 요리.[LINE]\n담백해서 먹기 쉽다.[END]"
+            "translation": "밤새 절임이 나오는 스트랩.[LINE]\n채소를 하룻밤 절인 요리.[LINE]\n담백해 먹기 쉽다.[END]"
         },
         {
             "offset": 1809880,
             "string": "[Sign_3]一夜漬け[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_3]겉절이[END]"
+            "translation": "[Sign_3]밤새 절임[END]"
         },
         {
             "offset": 1809896,

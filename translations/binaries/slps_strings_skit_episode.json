@@ -33,14 +33,14 @@
             "string": "ふたりの兵士[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "두 사람의 병사[END]"
+            "translation": "두 명의 병사[END]"
         },
         {
             "offset": 1679856,
             "string": "奈落からの救出[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "나락에서의 구출[END]"
+            "translation": "나락에서 구출[END]"
         },
         {
             "offset": 1679872,
@@ -54,7 +54,7 @@
             "string": "[Hugo]の思惑[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "[Hugo]의 생각[END]"
+            "translation": "[Hugo]의 속셈[END]"
         },
         {
             "offset": 1679904,
@@ -131,7 +131,7 @@
             "string": "闇に閉ざされた世界[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "어둠에 닫힌 세계[END]"
+            "translation": "어둠에 갇힌 세계[END]"
         },
         {
             "offset": 1680120,
@@ -145,21 +145,21 @@
             "string": "策士襲撃！[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "책략가 습격！[END]"
+            "translation": "책사 습격![END]"
         },
         {
             "offset": 1680152,
             "string": "哀惜の佳人[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "애석한 미인[END]"
+            "translation": "슬픔의 여인[END]"
         },
         {
             "offset": 1680168,
             "string": "雄略の顛末[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "웅략의 전말[END]"
+            "translation": "웅략의 결말[END]"
         },
         {
             "offset": 1680184,
@@ -187,7 +187,7 @@
             "string": "空中都市の復活[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "공중 도시의 부활[END]"
+            "translation": "공중도시 부활[END]"
         },
         {
             "offset": 1680264,
@@ -201,7 +201,7 @@
             "string": "孤島の秘密[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "고립된 섬의 비밀[END]"
+            "translation": "외딴섬의 비밀[END]"
         },
         {
             "offset": 1680296,
@@ -229,7 +229,7 @@
             "string": "秘密の地下通路[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "비밀의 지하 통로[END]"
+            "translation": "비밀 지하통로[END]"
         },
         {
             "offset": 1680376,
@@ -264,63 +264,63 @@
             "string": "[Tiberius]大王の城[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Tiberius] 대왕의 성[END]"
+            "translation": "[Tiberius] 대왕 성[END]"
         },
         {
             "offset": 1680464,
             "string": "しじまに沈む大王の城[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "고요에 가라앉는 대왕의 성[END]"
+            "translation": "침묵에 잠긴 대왕의 성[END]"
         },
         {
             "offset": 1680488,
             "string": "大暴れ！海の軟体生物[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "대폭주! 바다의 연체동물[END]"
+            "translation": "대폭주!바다 연체동물[END]"
         },
         {
             "offset": 1680512,
             "string": "いざモリュウ城[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "이제 모리유 성으로[END]"
+            "translation": "자, 모리유 성[END]"
         },
         {
             "offset": 1680528,
             "string": "陽気な吟遊詩人[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "명랑한 음유시인[END]"
+            "translation": "명랑 음유시인[END]"
         },
         {
             "offset": 1680544,
             "string": "奈落の底で[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "나락의 바닥에서[END]"
+            "translation": "나락 밑에서[END]"
         },
         {
             "offset": 1680560,
             "string": "モリュウへの道[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "모리유로 가는 길[END]"
+            "translation": "모리유 가는 길[END]"
         },
         {
             "offset": 1680576,
             "string": "武装船団を叩け！[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "무장선단을 처치하라![END]"
+            "translation": "무장선단을 격파하라![END]"
         },
         {
             "offset": 1680600,
             "string": "美しき協力者[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "아름다운 협력자[END]"
+            "translation": "미모의 협력자[END]"
         },
         {
             "offset": 1680616,
@@ -362,7 +362,7 @@
             "string": "王国の少年剣士[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "왕국의 소년 검士[END]"
+            "translation": "왕국 소년 검사[END]"
         },
         {
             "offset": 1680736,
@@ -390,7 +390,7 @@
             "string": "迷い子[Chelsea][END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "길 잃은 아이 [Chelsea][END]"
+            "translation": "길 잃은 [Chelsea][END]"
         },
         {
             "offset": 1680800,

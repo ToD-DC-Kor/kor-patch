@@ -26,7 +26,7 @@
             "string": "[Circle_ani]交換[Triangle_ani]外す[Select_ani]挿入[Left+Right_blink]リスト切替[END]",
             "original_bytes_length": 46,
             "available_bytes_size": 47,
-            "translation": "[Circle_ani]교환[Triangle_ani]제거[Select_ani]삽입[Left+Right_blink]리스트 전환[END]"
+            "translation": "[Circle_ani]교환[Triangle_ani]해제[Select_ani]삽입[Left+Right_blink]리스트 전환[END]"
         },
         {
             "offset": 13872,
@@ -40,7 +40,7 @@
             "string": "全てのストラップを外すことはできません。[LINE]\n[END]",
             "original_bytes_length": 42,
             "available_bytes_size": 47,
-            "translation": "모든 스트랩을 제거할 수 없습니다.[LINE]\n[END]"
+            "translation": "스트랩을 전부 해제할 수는 없습니다.[LINE]\n[END]"
         },
         {
             "offset": 13944,

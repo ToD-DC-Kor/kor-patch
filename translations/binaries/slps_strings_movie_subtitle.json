@@ -47,35 +47,35 @@
             "string": "いいか[Stahn][END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "잘 들어라 [Stahn][END]"
+            "translation": "잘 들어라[Stahn][END]"
         },
         {
             "offset": 1682776,
             "string": "我はお前に力を貸そう[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "내가 너에게 힘을 빌려주마[END]"
+            "translation": "네게 힘을 빌려주마[END]"
         },
         {
             "offset": 1682752,
             "string": "だからお前も我を信じろ[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "그러니 너도 나를 믿어라[END]"
+            "translation": "그러니 너도 날 믿어라[END]"
         },
         {
             "offset": 1682728,
             "string": "我を強く握りしめろ[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "나를 힘껏 움켜쥐어라.[END]"
+            "translation": "나를 힘껏 움켜쥐어라[END]"
         },
         {
             "offset": 1682696,
             "string": "そして我の名を唱えるがいい[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "그리고 내 이름을 외쳐라.[END]"
+            "translation": "그리고 내 이름을 외쳐라[END]"
         },
         {
             "offset": 1682680,
@@ -147,7 +147,7 @@
             "string": "付き合わせてすまないな　シャル[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "말려들게 해서 미안하군, 샤르.[END]"
+            "translation": "함께하게 해 미안하군, 샤르.[END]"
         },
         {
             "offset": 1683016,
@@ -226,7 +226,7 @@
             "string": "我らは長く生きすぎた[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "우린 너무 오래 살았어[END]"
+            "translation": "우린 너무 오래 살았다[END]"
         },
         {
             "offset": 1683528,
@@ -254,7 +254,7 @@
             "string": "世話のかかる者ほど　愛着がわくというのは本当だな[END]",
             "original_bytes_length": 49,
             "available_bytes_size": 55,
-            "translation": "손이 많이 갈수록 정이 든다더니, 정말이군.[END]"
+            "translation": "손이 갈수록 정이 든다더니 정말이군[END]"
         },
         {
             "offset": 1683416,
@@ -268,14 +268,14 @@
             "string": "お前との出会い[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "너와 만나……[END]"
+            "translation": "너와의 만남[END]"
         },
         {
             "offset": 1683360,
             "string": "その後の変遷を経て　今に至る過程こそ[END]",
             "original_bytes_length": 37,
             "available_bytes_size": 39,
-            "translation": "변화를 거쳐 여기까지 온 여정이[END]"
+            "translation": "그 뒤 변화를 거쳐 지금까지 온 과정이[END]"
         },
         {
             "offset": 1683344,
@@ -303,7 +303,7 @@
             "string": "我がマスター　[Stahn]・エルロンよ[END]",
             "original_bytes_length": 32,
             "available_bytes_size": 32,
-            "translation": "나의 마스터, [Stahn] 엘론이여.[END]"
+            "translation": "나의 마스터, [Stahn] 엘론이여[END]"
         },
         {
             "offset": 1683216,

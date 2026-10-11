@@ -61,7 +61,7 @@
             "string": "フードサック仙人の庵[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "음식 주머니 선인의 암자[END]"
+            "translation": "음식주머니 선인의 암자[END]"
         },
         {
             "offset": 1730952,
@@ -82,7 +82,7 @@
             "string": "旅人の小屋[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "여행자의 오두막[END]"
+            "translation": "여행자 오두막[END]"
         },
         {
             "offset": 1731064,
@@ -425,7 +425,7 @@
             "string": "首都カルビオラ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "수도 까르비올라[END]"
+            "translation": "수도까르비올라[END]"
         },
         {
             "offset": 1732864,
@@ -446,7 +446,7 @@
             "string": "港町チェリク[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "항구 도시 체리크[END]"
+            "translation": "항구체리크[END]"
         },
         {
             "offset": 1733000,
@@ -635,7 +635,7 @@
             "string": "地上への穴[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "지상으로의 구멍[END]"
+            "translation": "지상행 구멍[END]"
         },
         {
             "offset": 1734040,
@@ -733,7 +733,7 @@
             "string": "ヘルレイオス[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "헬레리오스[END]"
+            "translation": "헬레이오스[END]"
         },
         {
             "offset": 1734480,

@@ -12,7 +12,7 @@
             "string": "急ぐぞ[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "서두르자[END]"
+            "translation": "서둘러[END]"
         },
         {
             "offset": 75816,
@@ -68,7 +68,7 @@
             "string": "この奥から封印施設へ[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "이 안쪽에서 봉인 시설로[END]"
+            "translation": "이 안에서 봉인 시설로[END]"
         },
         {
             "offset": 76008,
@@ -82,7 +82,7 @@
             "string": "飛行竜は城にあるはずだ[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "비행룡은 성에 있을 거야[END]"
+            "translation": "비행룡은 성에 있을걸[END]"
         },
         {
             "offset": 76056,
@@ -96,7 +96,7 @@
             "string": "急いで屋敷に戻ろう[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "서둘러 저택으로 돌아가자[END]"
+            "translation": "어서 저택으로 돌아가자[END]"
         },
         {
             "offset": 76104,
@@ -110,7 +110,7 @@
             "string": "クレスタ北の砂浜を探してみよう[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "크레스타 북쪽의 해변을 찾아보자[END]"
+            "translation": "크레스타 북쪽 해변을 찾아보자[END]"
         },
         {
             "offset": 76160,
@@ -152,14 +152,14 @@
             "string": "屋敷に帰ろう[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "저택으로 돌아가자[END]"
+            "translation": "저택으로 복귀[END]"
         },
         {
             "offset": 76328,
             "string": "ストレイライズ神殿へ[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "스트레이라이즈 신전으로[END]"
+            "translation": "스트레이라이즈 신전행[END]"
         },
         {
             "offset": 76352,
@@ -201,14 +201,14 @@
             "string": "シデン領に引き返すぞ[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "죠니 영지로 돌아가자[END]"
+            "translation": "시덴 영지로 돌아가자[END]"
         },
         {
             "offset": 76504,
             "string": "シデン領へ戻るぞ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "죠니 영지로 돌아가자[END]"
+            "translation": "시덴 영지로 돌아가자[END]"
         },
         {
             "offset": 76528,
@@ -222,7 +222,7 @@
             "string": "街の外に用はない[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "거리 밖에 볼일 없어[END]"
+            "translation": "마을 밖에 볼일 없어[END]"
         },
         {
             "offset": 76584,
@@ -250,7 +250,7 @@
             "string": "街の外ではなく、神殿の裏口へ[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "거리 밖이 아니라 신전 뒷문으로[END]"
+            "translation": "마을 밖 말고 신전 뒷문으로[END]"
         },
         {
             "offset": 76688,
@@ -271,7 +271,7 @@
             "string": "街の中を見よう[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "거리 안을 보자[END]"
+            "translation": "마을 구경하자[END]"
         },
         {
             "offset": 76744,
@@ -292,7 +292,7 @@
             "string": "会っておきたい……[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "만나고 싶어……[END]"
+            "translation": "만나 두고 싶어……[END]"
         },
         {
             "offset": 76808,
@@ -334,7 +334,7 @@
             "string": "隠し通路から奥へ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "숨겨진 통로에서 안쪽으로[END]"
+            "translation": "비밀 통로로 안쪽으로[END]"
         },
         {
             "offset": 76912,
@@ -369,7 +369,7 @@
             "string": "屋敷に戻ろう[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "저택으로 돌아가자[END]"
+            "translation": "저택으로 복귀[END]"
         },
         {
             "offset": 77024,
@@ -460,7 +460,7 @@
             "string": "喉渇いたね[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "목 마르네[END]"
+            "translation": "목마르네[END]"
         },
         {
             "offset": 77360,
@@ -495,14 +495,14 @@
             "string": "島に見えた建物[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "섬에서 보인 건물[END]"
+            "translation": "섬에 보인 건물[END]"
         },
         {
             "offset": 77448,
             "string": "砂浜[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "모래사장[END]"
+            "translation": "백사장[END]"
         },
         {
             "offset": 77456,
@@ -572,7 +572,7 @@
             "string": "いらいら[Lion][END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "짜증나는 [Lion][END]"
+            "translation": "짜증 난 [Lion][END]"
         },
         {
             "offset": 77672,
@@ -600,7 +600,7 @@
             "string": "アトワイトがいれば生きていけるかもね。水出すし[END]",
             "original_bytes_length": 47,
             "available_bytes_size": 47,
-            "translation": "아트와이트가 있으면 살 수 있을지도. 물도 나오고[END]"
+            "translation": "아트와이트가 있으면 살 수 있을지도. 물도 나와[END]"
         },
         {
             "offset": 77776,
@@ -719,7 +719,7 @@
             "string": "特典映像・楽屋[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "특전 영상・분장실[END]"
+            "translation": "특전・분장실[END]"
         },
         {
             "offset": 78112,
@@ -747,7 +747,7 @@
             "string": "あいつが俺で、俺がそいつで、そいつが……[END]",
             "original_bytes_length": 41,
             "available_bytes_size": 47,
-            "translation": "그 녀석이 나고, 내가 그 녀석이고, 그 녀석이……[END]"
+            "translation": "그 녀석이 나고, 내가 그 녀석이고, 녀석이……[END]"
         },
         {
             "offset": 78216,
@@ -845,14 +845,14 @@
             "string": "せっぱ！[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "서두르자![END]"
+            "translation": "셋파![END]"
         },
         {
             "offset": 78448,
             "string": "そもさん！[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "소마 씨![END]"
+            "translation": "소모상![END]"
         },
         {
             "offset": 78464,
@@ -880,14 +880,14 @@
             "string": "この街に用はない[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "이 거리에 볼일 없어[END]"
+            "translation": "이 마을에 볼일 없어[END]"
         },
         {
             "offset": 78536,
             "string": "浮遊クルーザーが最優先[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "부유 크루저가 최우선이야[END]"
+            "translation": "부유 크루저가 최우선[END]"
         },
         {
             "offset": 78560,
@@ -908,7 +908,7 @@
             "string": "守護竜が重要だ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "수호룡이 중요해[END]"
+            "translation": "중요한 수호룡[END]"
         },
         {
             "offset": 78640,
@@ -964,56 +964,56 @@
             "string": "ここから北西に[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "여기서 북서쪽으로[END]"
+            "translation": "여기서 북서로[END]"
         },
         {
             "offset": 78768,
             "string": "ここから西に[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "여기서 서쪽으로[END]"
+            "translation": "여기서 서쪽에[END]"
         },
         {
             "offset": 78784,
             "string": "ここから南西に[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "여기서 남서쪽으로[END]"
+            "translation": "여기서 남서로[END]"
         },
         {
             "offset": 78800,
             "string": "ここから南に[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "여기서 남쪽으로[END]"
+            "translation": "여기서 남쪽에[END]"
         },
         {
             "offset": 78816,
             "string": "ここから南東に[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "여기서 남동쪽으로[END]"
+            "translation": "여기서 남동에[END]"
         },
         {
             "offset": 78832,
             "string": "ここから東に[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "여기서 동쪽으로[END]"
+            "translation": "여기서 동쪽에[END]"
         },
         {
             "offset": 78848,
             "string": "ここから北東に[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "여기서 북동쪽으로[END]"
+            "translation": "여기서 북동에[END]"
         },
         {
             "offset": 78864,
             "string": "ここから北に[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "여기서 북쪽으로[END]"
+            "translation": "여기서 북쪽에[END]"
         },
         {
             "offset": 78880,
@@ -1041,14 +1041,14 @@
             "string": "街の人に話しを聞こう[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "마을 사람들에게 이야기를 들어보자[END]"
+            "translation": "마을 사람에게 물어보자[END]"
         },
         {
             "offset": 78968,
             "string": "今は他にやるべきことが[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "지금은 다른 할 일이 있어[END]"
+            "translation": "지금은 달리 할 일이[END]"
         },
         {
             "offset": 78992,
@@ -1076,7 +1076,7 @@
             "string": "何が起きているのか確かめよう[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "무슨 일이 일어나고 있는지 확인하자[END]"
+            "translation": "무슨 일이 일어나는지 확인하자[END]"
         },
         {
             "offset": 79096,
@@ -1090,7 +1090,7 @@
             "string": "他にやることが[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "다른 할 일이 있어[END]"
+            "translation": "달리 할 일이[END]"
         },
         {
             "offset": 79128,
@@ -1118,7 +1118,7 @@
             "string": "急ごう[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "서두르자[END]"
+            "translation": "서둘러[END]"
         },
         {
             "offset": 79184,
@@ -1139,7 +1139,7 @@
             "string": "地上を好きにはさせない[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "지상을 마음대로 하게 두지 않겠어[END]"
+            "translation": "지상을 멋대로 못 해[END]"
         },
         {
             "offset": 79240,
@@ -1167,7 +1167,7 @@
             "string": "神の眼の下へ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "신의 눈 아래로[END]"
+            "translation": "신의 눈 곁으로[END]"
         },
         {
             "offset": 79312,
@@ -1209,7 +1209,7 @@
             "string": "意外と司令塔向き？[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "의외로 지휘관 감?[END]"
+            "translation": "의외로 지휘관 체질?[END]"
         },
         {
             "offset": 79448,
@@ -1237,7 +1237,7 @@
             "string": "寝るの大好き[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "자는 거 정말 좋아해[END]"
+            "translation": "잠자는 게 좋아[END]"
         },
         {
             "offset": 79520,
@@ -1286,7 +1286,7 @@
             "string": "言っていい事、悪い事[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "해도 되는 말, 안 되는 말[END]"
+            "translation": "해도 될 말, 안 될 말[END]"
         },
         {
             "offset": 79672,
@@ -1321,7 +1321,7 @@
             "string": "あわてちゃダメよ[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "당황하면 안 돼요[END]"
+            "translation": "당황하면 안 돼[END]"
         },
         {
             "offset": 79752,
@@ -1412,7 +1412,7 @@
             "string": "熱い視線で[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "뜨거운 시선으로[END]"
+            "translation": "뜨거운 시선에[END]"
         },
         {
             "offset": 80008,
@@ -1447,7 +1447,7 @@
             "string": "光ある世界を取り戻せ[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "빛나는 세상을 되찾아라[END]"
+            "translation": "빛의 세계를 되찾아라[END]"
         },
         {
             "offset": 80104,
@@ -1510,7 +1510,7 @@
             "string": "急げ！[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "서둘러![END]"
+            "translation": "서둘러[END]"
         },
         {
             "offset": 80280,
@@ -1545,7 +1545,7 @@
             "string": "全ては明日に[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "모든 것은 내일로[END]"
+            "translation": "전부 내일로[END]"
         },
         {
             "offset": 80376,
@@ -1566,7 +1566,7 @@
             "string": "街の中にいよう[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "거리 안에 있자[END]"
+            "translation": "마을 안에 있자[END]"
         },
         {
             "offset": 80432,
@@ -1594,7 +1594,7 @@
             "string": "集積レンズ砲のところへ[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "집적 렌즈포가 있는 곳으로[END]"
+            "translation": "집적 렌즈포가 있는 곳[END]"
         },
         {
             "offset": 80528,
@@ -1608,7 +1608,7 @@
             "string": "今、やるべき事[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "지금, 해야 할 일[END]"
+            "translation": "지금 할 일[END]"
         },
         {
             "offset": 80568,
@@ -1629,7 +1629,7 @@
             "string": "話はダリルシェイドで[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "이야기는 다릴쉐이드에서[END]"
+            "translation": "얘기는 다릴쉐이드에서[END]"
         },
         {
             "offset": 80640,
@@ -1762,14 +1762,14 @@
             "string": "産業廃棄物の山へ行こう[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "산업 폐기물 더미로 가자[END]"
+            "translation": "산업폐기물 더미로 가자[END]"
         },
         {
             "offset": 81160,
             "string": "張り切る[Chelsea][END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "의욕 넘치는 [Chelsea][END]"
+            "translation": "의욕만점 [Chelsea][END]"
         },
         {
             "offset": 81176,
@@ -1804,7 +1804,7 @@
             "string": "今のままの君で[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "지금 그대로의 너로[END]"
+            "translation": "그대로의 너로[END]"
         },
         {
             "offset": 81272,
@@ -1825,7 +1825,7 @@
             "string": "いざ最終試練[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "자, 최종 시련으로[END]"
+            "translation": "최종 시험으로[END]"
         },
         {
             "offset": 81368,
@@ -1846,7 +1846,7 @@
             "string": "がんばる[Chelsea][END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "열심히 하는 [Chelsea][END]"
+            "translation": "힘내는 [Chelsea][END]"
         },
         {
             "offset": 81424,
@@ -1902,7 +1902,7 @@
             "string": "謁見の間へ急げ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "알현실로 서둘러[END]"
+            "translation": "알현실로 어서[END]"
         },
         {
             "offset": 81608,
@@ -1937,7 +1937,7 @@
             "string": "宿屋へ向かおう[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "여관으로 향하자[END]"
+            "translation": "여관에 가자[END]"
         },
         {
             "offset": 81728,
@@ -1965,7 +1965,7 @@
             "string": "孤児院へ急げ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "고아원으로 서둘러[END]"
+            "translation": "고아원에 어서[END]"
         },
         {
             "offset": 81832,
@@ -1979,7 +1979,7 @@
             "string": "クレスタへ急げ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "크레스타로 서둘러[END]"
+            "translation": "어서 크레스타[END]"
         },
         {
             "offset": 81880,
@@ -2196,7 +2196,7 @@
             "string": "一仕事終えて[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "한 일을 마치고[END]"
+            "translation": "한바탕 일하고[END]"
         },
         {
             "offset": 82696,
@@ -2231,7 +2231,7 @@
             "string": "まだ開かない[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "아직 열리지 않아[END]"
+            "translation": "아직 안 열려[END]"
         },
         {
             "offset": 82784,
@@ -2420,14 +2420,14 @@
             "string": "[Rutee]の様子を見に行こう[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "[Rutee]의 상태를 보러 가자[END]"
+            "translation": "[Rutee] 상태를 보러 가자[END]"
         },
         {
             "offset": 83496,
             "string": "急いで中枢部へ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "서둘러 중추부로[END]"
+            "translation": "어서 중추부로[END]"
         },
         {
             "offset": 83512,
@@ -2511,7 +2511,7 @@
             "string": "封印は厳重に[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "봉인은 철저하게[END]"
+            "translation": "봉인은 철저히[END]"
         },
         {
             "offset": 83768,
@@ -2637,14 +2637,14 @@
             "string": "船でオベロン社の工場へ[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "배로 오베론 사의 공장으로[END]"
+            "translation": "배로 오베론 사 공장에[END]"
         },
         {
             "offset": 84248,
             "string": "オベロン社の工場へは船に乗って[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "오베론 사의 공장으로는 배를 타고[END]"
+            "translation": "오베론 사 공장으로는 배를 타고[END]"
         },
         {
             "offset": 84280,
@@ -2686,7 +2686,7 @@
             "string": "クレスタの[Rutee]に会おう[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "크레스타의 [Rutee]를 만나자[END]"
+            "translation": "크레스타 [Rutee]를 만나자[END]"
         },
         {
             "offset": 84432,
@@ -2707,7 +2707,7 @@
             "string": "セインガルドを目指そう[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "세인가르드를 목표로 하자[END]"
+            "translation": "세인가르드로 향하자[END]"
         },
         {
             "offset": 84512,
@@ -2728,7 +2728,7 @@
             "string": "森を抜けて北へ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "숲을 지나 북쪽으로[END]"
+            "translation": "숲 지나 북쪽에[END]"
         },
         {
             "offset": 84568,
@@ -2868,7 +2868,7 @@
             "string": "家へ帰ろう[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "집으로 돌아가자[END]"
+            "translation": "집에 돌아가자[END]"
         },
         {
             "offset": 85040,
@@ -2882,7 +2882,7 @@
             "string": "憧れのあの人は[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "동경하는 그 사람은[END]"
+            "translation": "동경하는 이는[END]"
         },
         {
             "offset": 85080,
@@ -2917,28 +2917,28 @@
             "string": "忘れてるわよ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "잊고 있어요[END]"
+            "translation": "잊고 있잖아[END]"
         },
         {
             "offset": 85160,
             "string": "先には進めない[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "더 이상 나아갈 수 없어[END]"
+            "translation": "앞으로 못 가[END]"
         },
         {
             "offset": 85176,
             "string": "城の時計塔へ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "성의 시계탑으로[END]"
+            "translation": "성 시계탑으로[END]"
         },
         {
             "offset": 85192,
             "string": "決戦は時計塔で[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "결전은 시계탑에서[END]"
+            "translation": "결전은 시계탑[END]"
         },
         {
             "offset": 85208,
@@ -2952,21 +2952,21 @@
             "string": "非常通路を進んで城へ[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "비상 통로를 따라 성으로[END]"
+            "translation": "비상 통로 따라 성으로[END]"
         },
         {
             "offset": 85248,
             "string": "非常通路の奥の休憩所へ[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "비상 통로 안쪽의 휴게소로[END]"
+            "translation": "비상 통로 안 휴게소로[END]"
         },
         {
             "offset": 85272,
             "string": "非常通路からハイデルベルグ城へ[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "비상 통로에서 하이델베르그 성으로[END]"
+            "translation": "비상 통로로 하이델베르그 성에[END]"
         },
         {
             "offset": 85304,
@@ -3008,7 +3008,7 @@
             "string": "[Mary]の家は街の西に[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Mary]의 집은 마을 서쪽에[END]"
+            "translation": "[Mary] 집은 마을 서쪽에[END]"
         },
         {
             "offset": 85464,
@@ -3078,7 +3078,7 @@
             "string": "ティルソの森はスノーフリアの西[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "틸소의 숲은 스노우프리아의 서쪽[END]"
+            "translation": "틸소의 숲은 스노우프리아 서쪽[END]"
         },
         {
             "offset": 85672,
@@ -3120,7 +3120,7 @@
             "string": "皮算用[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "셈법[END]"
+            "translation": "헛계산[END]"
         },
         {
             "offset": 85816,
@@ -3134,7 +3134,7 @@
             "string": "お役に立ちます[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "도움이 됩니다[END]"
+            "translation": "도움이 되지요[END]"
         },
         {
             "offset": 85848,
@@ -3197,7 +3197,7 @@
             "string": "新曲のネタ探し[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "새 곡의 소재 찾기[END]"
+            "translation": "신곡 소재 찾기[END]"
         },
         {
             "offset": 86032,
@@ -3211,14 +3211,14 @@
             "string": "フェイトも凄い[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "페이트도 대단해[END]"
+            "translation": "대단한 페이트[END]"
         },
         {
             "offset": 86080,
             "string": "今はトウケイ城を目指せ[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "지금은 토케이 성을 목표로 해[END]"
+            "translation": "지금은 토케이 성으로[END]"
         },
         {
             "offset": 86104,
@@ -3274,14 +3274,14 @@
             "string": "トウケイ領へは黒十字艦隊の船で[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "토케이 영토로는 흑십자 함대의 배로[END]"
+            "translation": "토케이령에는 흑십자 함대 배로[END]"
         },
         {
             "offset": 86296,
             "string": "城を出て港へ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "성을 나와 항구로[END]"
+            "translation": "성 나와 항구에[END]"
         },
         {
             "offset": 86312,
@@ -3309,21 +3309,21 @@
             "string": "はじめは牢屋へ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "우선은 감옥으로[END]"
+            "translation": "우선 감옥으로[END]"
         },
         {
             "offset": 86400,
             "string": "クールに決めろ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "멋지게 결정해[END]"
+            "translation": "멋지게 해내라[END]"
         },
         {
             "offset": 86416,
             "string": "歌は人を表す[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "노래는 사람을 나타내[END]"
+            "translation": "노래는 그 사람[END]"
         },
         {
             "offset": 86432,
@@ -3344,14 +3344,14 @@
             "string": "[Johnny]の歌い方教室[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "[Johnny]의 노래 방법 교실[END]"
+            "translation": "[Johnny]의 노래 교실[END]"
         },
         {
             "offset": 86496,
             "string": "これで良かった[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "이렇게 해서 좋았어[END]"
+            "translation": "이래서 다행[END]"
         },
         {
             "offset": 86512,
@@ -3379,7 +3379,7 @@
             "string": "小船でモリュウ城へ[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "배로 모리유 성에[END]"
+            "translation": "작은 배로 모리유 성에[END]"
         },
         {
             "offset": 86600,
@@ -3393,7 +3393,7 @@
             "string": "[Johnny]さんに話を聞こう[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "[Johnny] 씨에게 이야기를 들어보자[END]"
+            "translation": "[Johnny] 씨께 물어보자[END]"
         },
         {
             "offset": 86656,
@@ -3463,21 +3463,21 @@
             "string": "モリュウ領へ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "모리유 영토로[END]"
+            "translation": "모리유 영지로[END]"
         },
         {
             "offset": 86848,
             "string": "モリュウ領へ行こう[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "모리유 영토로 가자[END]"
+            "translation": "모리유 영지로 가자[END]"
         },
         {
             "offset": 86872,
             "string": "海底洞窟を抜けてモリュウ領へ[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "해저 동굴을 지나 모리유 영토로[END]"
+            "translation": "해저 동굴을 지나 모리유 영지로[END]"
         },
         {
             "offset": 86904,
@@ -3533,14 +3533,14 @@
             "string": "洞窟はシデン領の南に[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "동굴은 시덴 영토의 남쪽에[END]"
+            "translation": "동굴은 시덴령 남쪽에[END]"
         },
         {
             "offset": 87112,
             "string": "洞窟の入り口はシデン領の南[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "동굴 입구는 시덴 영토의 남쪽[END]"
+            "translation": "동굴 입구는 시덴 영지의 남쪽[END]"
         },
         {
             "offset": 87144,
@@ -3652,14 +3652,14 @@
             "string": "向かうのは港だ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "향하는 곳은 항구다[END]"
+            "translation": "항구로 향해[END]"
         },
         {
             "offset": 87488,
             "string": "闘技場の外に出たら……[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "투기장 밖으로 나가면……[END]"
+            "translation": "투기장 밖에 나가면……[END]"
         },
         {
             "offset": 87512,
@@ -3708,7 +3708,7 @@
             "string": "闘技場は街の北[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "투기장은 마을 북쪽[END]"
+            "translation": "투기장:마을북[END]"
         },
         {
             "offset": 87680,
@@ -3743,21 +3743,21 @@
             "string": "今はあまり離れるな[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "지금은 너무 멀리 가지 말자[END]"
+            "translation": "지금은 멀리 가지 말자[END]"
         },
         {
             "offset": 87832,
             "string": "[Lion]に馴れた[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Lion]에게 익숙해졌어[END]"
+            "translation": "[Lion]에 익숙[END]"
         },
         {
             "offset": 87848,
             "string": "次回をお楽しみに[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "다음 회를 기대해 주세요[END]"
+            "translation": "다음 회를 기대하세요[END]"
         },
         {
             "offset": 87872,
@@ -3799,7 +3799,7 @@
             "string": "目指すは神殿だ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "목표는 신전이다[END]"
+            "translation": "목표는 신전[END]"
         },
         {
             "offset": 88000,
@@ -3841,7 +3841,7 @@
             "string": "奥へ進め[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "안쪽으로 나아가[END]"
+            "translation": "안으로 나아가[END]"
         },
         {
             "offset": 88184,
@@ -3876,14 +3876,14 @@
             "string": "待機は宿屋で[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "대기는 여관에서[END]"
+            "translation": "여관에서 대기[END]"
         },
         {
             "offset": 88288,
             "string": "神殿は街の中[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "신전은 마을 안에[END]"
+            "translation": "신전은 마을 안[END]"
         },
         {
             "offset": 88304,
@@ -3918,7 +3918,7 @@
             "string": "雪解けですか～？[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "눈 녹는 계절인가요~?[END]"
+            "translation": "마음이 풀렸나요~?[END]"
         },
         {
             "offset": 88408,
@@ -3974,7 +3974,7 @@
             "string": "友情を育むには[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "우정을 키우려면[END]"
+            "translation": "우정 키우려면[END]"
         },
         {
             "offset": 88608,
@@ -3988,14 +3988,14 @@
             "string": "カルバレイス人の事[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "칼바레이스 사람들의 일[END]"
+            "translation": "칼바레이스인 이야기[END]"
         },
         {
             "offset": 88656,
             "string": "[Mary]の不思議[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Mary]의 불가사의[END]"
+            "translation": "[Mary]의 신비[END]"
         },
         {
             "offset": 88672,
@@ -4079,7 +4079,7 @@
             "string": "港は街の東に[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "항구는 마을 동쪽에[END]"
+            "translation": "항구:마을 동쪽[END]"
         },
         {
             "offset": 88920,
@@ -4107,14 +4107,14 @@
             "string": "大聖堂の隠し通路から奥へ進め[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "대성당의 숨겨진 통로에서 안쪽으로 나아가[END]"
+            "translation": "대성당 비밀 통로로 안쪽으로[END]"
         },
         {
             "offset": 89040,
             "string": "大聖堂へ急げ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "대성당으로 서둘러[END]"
+            "translation": "어서 대성당에[END]"
         },
         {
             "offset": 89056,
@@ -4149,7 +4149,7 @@
             "string": "神殿で何が？[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "신전에서 무슨 일이?[END]"
+            "translation": "신전에 무슨 일[END]"
         },
         {
             "offset": 89152,
@@ -4184,7 +4184,7 @@
             "string": "結界石の謎[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "결계석의 수수께끼[END]"
+            "translation": "결계석의 비밀[END]"
         },
         {
             "offset": 89264,
@@ -4205,14 +4205,14 @@
             "string": "森を抜けてストレイライズ神殿へ[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "숲을 지나 스트레이라이즈 신전으로[END]"
+            "translation": "숲 지나 스트레이라이즈 신전행[END]"
         },
         {
             "offset": 89344,
             "string": "アルメイダの東の街道を進もう[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "알메이다의 동쪽 가도를 따라가자[END]"
+            "translation": "알메이다 동쪽 가도를 따라가자[END]"
         },
         {
             "offset": 89376,
@@ -4226,7 +4226,7 @@
             "string": "ストレイライズ神殿は東の方角[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "스트레이라이즈 신전은 동쪽 방향[END]"
+            "translation": "스트레이라이즈 신전은 동쪽[END]"
         },
         {
             "offset": 89448,
@@ -4254,7 +4254,7 @@
             "string": "ヒューゴ邸は街で一番のお屋敷[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "휴고의 저택은 마을에서 가장 큰 저택[END]"
+            "translation": "휴고 저택은 마을 제일 큰 저택[END]"
         },
         {
             "offset": 89568,
@@ -4275,7 +4275,7 @@
             "string": "親子で敬語？[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "부모와 자식 사이에 존댓말?[END]"
+            "translation": "부모자식 존대?[END]"
         },
         {
             "offset": 89640,
@@ -4331,7 +4331,7 @@
             "string": "初めてのセインガルド城[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "처음 가보는 세인가르드 성[END]"
+            "translation": "첫 세인가르드 성[END]"
         },
         {
             "offset": 89800,
@@ -4345,14 +4345,14 @@
             "string": "ウォルトの家へ行くのよ[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "월트의 집으로 갈 거야[END]"
+            "translation": "월트의 집으로 가자[END]"
         },
         {
             "offset": 89848,
             "string": "脱出するわよ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "탈출할 거야[END]"
+            "translation": "탈출하자[END]"
         },
         {
             "offset": 89864,
@@ -4366,7 +4366,7 @@
             "string": "ウォルトの家は村一番の屋敷[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "월트의 집은 마을에서 제일 큰 저택[END]"
+            "translation": "월트의 집은 마을 제일 큰 저택[END]"
         },
         {
             "offset": 89920,
@@ -4450,14 +4450,14 @@
             "string": "酒場は宿屋と同じ建物に[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "술집은 여관과 같은 건물에[END]"
+            "translation": "술집과 여관은 한 건물[END]"
         },
         {
             "offset": 90240,
             "string": "街は森を南に[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "마을은 숲의 남쪽[END]"
+            "translation": "마을은 숲 남쪽[END]"
         },
         {
             "offset": 90256,
@@ -4478,7 +4478,7 @@
             "string": "帰りは正面から[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "돌아갈 때는 정문으로[END]"
+            "translation": "돌아갈 땐 정문[END]"
         },
         {
             "offset": 90328,
@@ -4499,7 +4499,7 @@
             "string": "一緒にするな[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "한통속으로 취급하지 마[END]"
+            "translation": "같게 취급 마[END]"
         },
         {
             "offset": 90392,
@@ -4520,14 +4520,14 @@
             "string": "性ですから[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "성격이니까요[END]"
+            "translation": "천성이니까요[END]"
         },
         {
             "offset": 90448,
             "string": "念願の通行証[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "염원하던 통행증[END]"
+            "translation": "염원한 통행증[END]"
         },
         {
             "offset": 90464,
@@ -4569,7 +4569,7 @@
             "string": "神殿は隠し通路を抜けて[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "신전은 숨겨진 통로를 지나[END]"
+            "translation": "신전은 비밀 통로 지나[END]"
         },
         {
             "offset": 90584,
@@ -4618,7 +4618,7 @@
             "string": "神殿の隠し通路は森に[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "신전의 숨겨진 통로는 숲에[END]"
+            "translation": "신전 비밀 통로는 숲에[END]"
         },
         {
             "offset": 90712,
@@ -4660,14 +4660,14 @@
             "string": "自己問答？[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "혼잣말?[END]"
+            "translation": "자문자답?[END]"
         },
         {
             "offset": 90848,
             "string": "他人の空似？[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "남의 얼굴과 닮았나?[END]"
+            "translation": "우연히 닮았나?[END]"
         },
         {
             "offset": 90864,
@@ -4688,14 +4688,14 @@
             "string": "セインガルドまではもうすぐ[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "세인가르드까지는 얼마 안 남았어[END]"
+            "translation": "세인가르드까지 얼마 안 남았어[END]"
         },
         {
             "offset": 90936,
             "string": "ジェノスは反対[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "제노스는 반대야[END]"
+            "translation": "제노스는 반대[END]"
         },
         {
             "offset": 90952,
@@ -4716,21 +4716,21 @@
             "string": "ジェノスは小屋の南西[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "제노스는 오두막의 남서쪽[END]"
+            "translation": "제노스는 오두막 남서쪽[END]"
         },
         {
             "offset": 91024,
             "string": "早く家の中に入ろう[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "빨리 집 안으로 들어가자[END]"
+            "translation": "빨리 집 안에 들어가자[END]"
         },
         {
             "offset": 91048,
             "string": "来た道を戻ろう[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "왔던 길로 돌아가자[END]"
+            "translation": "온 길로 복귀[END]"
         },
         {
             "offset": 91064,
@@ -4765,7 +4765,7 @@
             "string": "どんなお仕事？[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "어떤 일을 하세요?[END]"
+            "translation": "무슨 일 해요?[END]"
         },
         {
             "offset": 91184,
@@ -4779,7 +4779,7 @@
             "string": "それは内緒です[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "그건 비밀이에요[END]"
+            "translation": "그건 비밀이죠[END]"
         },
         {
             "offset": 91208,
@@ -4814,7 +4814,7 @@
             "string": "厳しい財政事情[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "어려운 재정 사정[END]"
+            "translation": "어려운 재정난[END]"
         },
         {
             "offset": 91304,
@@ -4828,7 +4828,7 @@
             "string": "アルバ先生の事[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "알바 선생님의 일[END]"
+            "translation": "알바 선생 얘기[END]"
         },
         {
             "offset": 91336,
@@ -4842,7 +4842,7 @@
             "string": "慣れれば快適[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "익숙해지면 편해[END]"
+            "translation": "익숙하면 편해[END]"
         },
         {
             "offset": 91368,

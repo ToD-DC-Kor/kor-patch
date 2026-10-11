@@ -54,7 +54,7 @@
             "string": "完全球体の非常に珍しいレンズ。[LINE]\n富裕層のステータスとして扱われる。[LINE]\n[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "완전한 구형의 매우 희귀한 렌즈.[LINE]\n부유층의 자격으로 취급된다.[LINE]\n[END]"
+            "translation": "완전한 구형의 매우 희귀한 렌즈.[LINE]\n부유층의 지위를 상징한다.[LINE]\n[END]"
         },
         {
             "offset": 1811272,
@@ -82,7 +82,7 @@
             "string": "やや珍しい、濃い青色のレンズ。[LINE]\n高価な家具などの飾りに[LINE]\n用いることもある。[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79,
-            "translation": "꽤 희귀한 짙푸른 색 렌즈.[LINE]\n값비싼 가구 등에[LINE]\n장식으로 사용하기도 한다.[END]"
+            "translation": "조금 희귀한 짙푸른색 렌즈.[LINE]\n값비싼 가구 등에[LINE]\n장식으로 사용하기도 한다.[END]"
         },
         {
             "offset": 1811456,
@@ -194,7 +194,7 @@
             "string": "生体金属の原料の青い鉱石。[LINE]\n飛行竜を直すのに十分な量がある。[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "생체 금속의 원료인 푸른 광석.[LINE]\n비행룡을 수리할 수 있을 정도로 많다.[LINE]\n[END]"
+            "translation": "생체 금속 원료인 푸른 광석.[LINE]\n비행룡을 고치기에 충분한 양이다.[LINE]\n[END]"
         },
         {
             "offset": 1812192,
@@ -208,7 +208,7 @@
             "string": "生体金属の原料の青い鉱石。[LINE]\n飛行竜を直すのに必要。[LINE]\n[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "생체 금속의 원료인 푸른 광석.[LINE]\n비행룡을 수리하는 데에 필요하다.[LINE]\n[END]"
+            "translation": "생체 금속 원료인 푸른 광석.[LINE]\n비행룡 수리에 필요하다.[LINE]\n[END]"
         },
         {
             "offset": 1812272,
@@ -320,7 +320,7 @@
             "string": "動物の角で作ったラッパ。[LINE]\n海の近くで使うと海竜が呼べる。[LINE]\n[END]",
             "original_bytes_length": 57,
             "available_bytes_size": 63,
-            "translation": "동물의 뿔로 만든 나팔.[LINE]\n바다 근처에서 사용하면[LINE]\n해룡을 부를 수 있다.[END]"
+            "translation": "동물 뿔로 만든 나팔.[LINE]\n바다 근처에서 쓰면[LINE]\n해룡을 부를 수 있다.[END]"
         },
         {
             "offset": 1812904,
@@ -348,7 +348,7 @@
             "string": "セインガルドからファンダリアへ[LINE]\n入るために必要な通行証。[LINE]\nこれがないと大変……[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "세인가르드에서 팬더리아로[LINE]\n입국하기 위해 필요한 통행증.[LINE]\n이게 없으면 큰일나겠지…[END]"
+            "translation": "세인가르드에서 팬더리아로[LINE]\n입국할 때 필요한 통행증.[LINE]\n이게 없으면 큰일……[END]"
         },
         {
             "offset": 1813096,
@@ -362,7 +362,7 @@
             "string": "背負えるように改造された大型の箱。[LINE]\nフードストラップを１６個装着可能。[LINE]\n[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "메고 다닐 수 있게 개조된 대형 상자.[LINE]\n푸드 스트랩을 16개 장착할 수 있다.[LINE]\n[END]"
+            "translation": "등에 멜 수 있게 개조한 큰 상자.[LINE]\n푸드 스트랩 16개를 장착할 수 있다.[LINE]\n[END]"
         },
         {
             "offset": 1813184,
@@ -390,7 +390,7 @@
             "string": "買い物などにも便利な[LINE]\n肩掛けのバッグ。[LINE]\nフードストラップを６個装着可能。[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "쇼핑할 때도 유용하게 쓸 수 있는[LINE]\n어깨에 메는 가방.[LINE]\n푸드 스트랩을 6개 장착할 수 있다.[END]"
+            "translation": "쇼핑할 때도 편리한[LINE]\n어깨에 메는 가방.[LINE]\n푸드 스트랩 6개를 장착할 수 있다.[END]"
         },
         {
             "offset": 1813376,
@@ -404,7 +404,7 @@
             "string": "自動的に料理が出てくる不思議な袋。[LINE]\nフード補充し忘れに注意しよう！[LINE]\nフードストラップを４個装着可能。[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "자동으로 요리가 나오는 신기한 주머니.[LINE]\n푸드 보충을 잊지 않도록 주의하자![LINE]\n푸드 스트랩을 4개 장착할 수 있다.[END]"
+            "translation": "자동으로 요리가 나오는 신기한 주머니.[LINE]\n푸드 보충을 잊지 말자![LINE]\n푸드 스트랩 4개를 장착할 수 있다.[END]"
         },
         {
             "offset": 1813504,
@@ -432,7 +432,7 @@
             "string": "レンズの力で強い熱を発射する指輪。[LINE]\n[Square_ani]ボタンで発射する。[LINE]\n[END]",
             "original_bytes_length": 60,
             "available_bytes_size": 63,
-            "translation": "렌즈의 힘으로 강한 열을 발사하는 반지.[LINE]\n[Square_ani]를 눌러 발사할 수 있다.[LINE]\n[END]"
+            "translation": "렌즈 힘으로 강한 열을 쏘는 반지.[LINE]\n[Square_ani]를 눌러 발사한다.[LINE]\n[END]"
         },
         {
             "offset": 1813696,
@@ -460,21 +460,21 @@
             "string": "移動・攻撃を自分で行う操作[LINE]\n「マニュアル」が術技メニューから[LINE]\n選択可能になる戦術書。[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "이동・공격을 직접 할 수 있는 조작[LINE]\n「매뉴얼」을 기술 메뉴에서[LINE]\n선택할 수 있게 되는 전술서.[END]"
+            "translation": "이동·공격을 직접 하는 조작[LINE]\n「수동」을 술기 메뉴에서[LINE]\n선택할 수 있게 하는 전술서.[END]"
         },
         {
             "offset": 1813920,
             "string": "[Sign_Key]マニュアルの書[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Key]매뉴얼의 서[END]"
+            "translation": "[Sign_Key]수동의 서[END]"
         },
         {
             "offset": 1813944,
             "string": "ここまでの物語のあらすじを読む事[LINE]\nができる本。[LINE]\n[END]",
             "original_bytes_length": 47,
             "available_bytes_size": 47,
-            "translation": "지금까지 있었던 이야기의[LINE]\n개요를 읽을 수 있는 책.[END]"
+            "translation": "지금까지의 이야기[LINE]\n줄거리를 읽을 수 있는 책.[LINE]\n[END]"
         },
         {
             "offset": 1813992,
@@ -495,7 +495,7 @@
             "string": "[Sign_Key]コレクター図鑑[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Sign_Key]콜렉터 도감[END]"
+            "translation": "[Sign_Key]컬렉터 도감[END]"
         },
         {
             "offset": 1814128,
@@ -530,7 +530,7 @@
             "string": "今までの戦った敵をまとめた図鑑。[LINE]\n戦闘中[R1_copy]を押した状態で[LINE]\n[Circle_ani2]でも起動できる。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "지금까지 싸운 적을 정리한 도감.[LINE]\n전투 중 [R1_copy]를 누른 상태에서[LINE]\n[Circle_ani2]를 눌러도 볼 수 있다.[END]"
+            "translation": "지금까지 싸운 적의 도감.[LINE]\n전투 중 [R1_copy]를 누른 채[LINE]\n[Circle_ani2]를 눌러도 볼 수 있다.[END]"
         },
         {
             "offset": 1814376,
@@ -544,7 +544,7 @@
             "string": "世界を旅する者には欠かせない地図。[LINE]\nフィールドを移動中、[LINE]\n[R3_ani]ボタンで起動する。[END]",
             "original_bytes_length": 80,
             "available_bytes_size": 80,
-            "translation": "세계를 여행하는 사람의 필수품인 지도.[LINE]\n필드 이동 중 [R3_ani]를 눌러도 볼 수 있다.[END]"
+            "translation": "세계를 여행하는 사람의 필수품인 지도.[LINE]\n필드 이동 중,[LINE]\n[R3_ani]를 눌러 볼 수 있다.[END]"
         },
         {
             "offset": 1814480,

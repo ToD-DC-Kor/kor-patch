@@ -12,7 +12,7 @@
             "string": "[Circle_ani]換金 [Cross_ani]戻る [Square_Press]増減の単位を100にする [Left+Right_blink]増減[END]",
             "original_bytes_length": 57,
             "available_bytes_size": 63,
-            "translation": "[Circle_ani]교환 [Cross_ani]뒤로 [Square_Press]증감 단위를 100으로 변경 [Left+Right_blink]증감[END]"
+            "translation": "[Circle_ani]환전 [Cross_ani]뒤로 [Square_Press]증감 단위를 100으로 변경 [Left+Right_blink]증감[END]"
         },
         {
             "offset": 30192,
@@ -54,7 +54,7 @@
             "string": "選択されたアイテムを購入します。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "선택된 아이템을 구매합니다.[LINE]\n맞습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
+            "translation": "선택된 아이템을 구매합니다.[LINE]\n진행하시겠습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
         },
         {
             "offset": 33728,
@@ -68,7 +68,7 @@
             "string": "選択されたアイテムを売却します。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "선택된 아이템을 판매합니다.[LINE]\n맞습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
+            "translation": "선택된 아이템을 판매합니다.[LINE]\n진행하시겠습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
         },
         {
             "offset": 33800,
@@ -96,7 +96,7 @@
             "string": "ガルドで[PlaceHolderA]フード補充します。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[LINE]\n[END]",
             "original_bytes_length": 62,
             "available_bytes_size": 66,
-            "translation": "가르드로 [PlaceHolderA]음식 보충합니다.[LINE]\n맞습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
+            "translation": "가르드로 음식을 [PlaceHolderA] 보충합니다.[LINE]\n진행하시겠습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
         },
         {
             "offset": 33960,
@@ -110,7 +110,7 @@
             "string": "選択されたレンズを換金します。[LINE]\nよろしいですか？[LINE]\nはい[LINE]\nいいえ[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "선택된 렌즈를 환전합니다.[LINE]\n맞습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
+            "translation": "선택된 렌즈를 환전합니다.[LINE]\n진행하시겠습니까?[LINE]\n예[LINE]\n아니요[LINE]\n[END]"
         },
         {
             "offset": 34048,
@@ -292,7 +292,7 @@
             "string": "やめる[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "관두기[END]"
+            "translation": "취소[END]"
         }
     ]
 }

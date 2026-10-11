@@ -101,7 +101,7 @@
         {
             "offset": 1772720,
             "string": "無限を意味するギター。[LINE]\nその音色は銀河の彼方まで届く。[LINE]\n選ばれた者のみが手にできる。[END]",
-            "translation": "무한을 의미하는 기타.[LINE]\n그 음색은 은하의 저편까지 닿는다.[LINE]\n선택받은 자만이 손에 넣을 수 있다.[END]",
+            "translation": "무한을 뜻하는 기타.[LINE]\n그 음색은 은하 너머까지 닿는다.[LINE]\n선택받은 자만이 손에 넣을 수 있다.[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87
         },
@@ -115,7 +115,7 @@
         {
             "offset": 1772840,
             "string": "撥弦楽器のひとつ。[LINE]\n棹に貼った三弦を撥を用いて奏する。[LINE]\nぺんぺん。[END]",
-            "translation": "발현악기의 일종.[LINE]\n작은 삼각형 모양의 채로[LINE]\n세 개의 현을 튕겨서 연주한다. 빰빰.[END]",
+            "translation": "발현악기의 일종.[LINE]\n자루에 붙인 세 현을 채로 연주한다.[LINE]\n땡땡.[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71
         },
@@ -129,7 +129,7 @@
         {
             "offset": 1772928,
             "string": "撥弦楽器のひとつ。[LINE]\n左手の指で弦を押さえて音程を調え、[LINE]\n爪やピックで弦を弾く。[END]",
-            "translation": "발현악기의 일종.[LINE]\n왼손으로 현을 눌러 음정을 맞추고,[LINE]\n손톱이나 픽으로 현을 튕겨서 연주한다.[END]",
+            "translation": "발현악기의 일종.[LINE]\n왼손으로 현을 눌러 음정을 맞추고[LINE]\n손톱이나 픽으로 현을 튕긴다.[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79
         },
@@ -143,7 +143,7 @@
         {
             "offset": 1773024,
             "string": "撥弦楽器のひとつ。[LINE]\n二本一組みに張られた[LINE]\n多数の弦をもつ。[END]",
-            "translation": "발현악기의 일종.[LINE]\n두 개의 현이 한 코스를 이루는[LINE]\n복현 구조로 되어 있다.[END]",
+            "translation": "발현악기의 일종.[LINE]\n두 가닥씩 짝지어 맨[LINE]\n여러 현이 있다.[END]",
             "original_bytes_length": 57,
             "available_bytes_size": 63
         },
@@ -171,7 +171,7 @@
         {
             "offset": 1773200,
             "string": "撥弦楽器のひとつ。[LINE]\n鼈甲やセルロイド製の爪で弾いて[LINE]\n演奏する。[END]",
-            "translation": "발현악기의 일종. 거북이 등껍질이나[LINE]\n셀룰로이드로 만든 픽으로[LINE]\n현을 튕겨서 연주한다.[END]",
+            "translation": "발현악기의 일종.[LINE]\n귀갑·셀룰로이드 픽으로[LINE]\n현을 튕겨 연주한다.[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63
         },
@@ -185,7 +185,7 @@
         {
             "offset": 1773280,
             "string": "世界を意味するナックル。[LINE]\n望めば世界を牛耳る力を得る。[LINE]\n選ばれた者のみが手にできる。[END]",
-            "translation": "세계를 의미하는 너클.[LINE]\n바라면 세계를 지배하는 힘을 얻는다.[LINE]\n선택받은 자만이 손에 넣을 수 있다.[END]",
+            "translation": "세계를 뜻하는 너클.[LINE]\n바라면 세계를 지배할 힘을 얻는다.[LINE]\n선택받은 자만 손에 넣을 수 있다.[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87
         },
@@ -199,7 +199,7 @@
         {
             "offset": 1773392,
             "string": "神の兵器と名付けられたナックル。[LINE]\n輝く拳は全ての悪を打ち砕く。[LINE]\n[END]",
-            "translation": "신의 병기라는 이름이 붙은 너클.[LINE]\n빛나는 주먹은 모든 악을 부순다.[LINE]\n[END]",
+            "translation": "신의 병기란 이름의 너클.[LINE]\n빛나는 주먹은 모든 악을 부순다.[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },
@@ -311,7 +311,7 @@
         {
             "offset": 1774240,
             "string": "ダイヤを磨き刃にした美しい[LINE]\nナックル。鋭くて硬いため、[LINE]\nとてつもなく痛い。[END]",
-            "translation": "다이아몬드를 연마해 칼날로 만든[LINE]\n아름다운 너클. 날카롭고 단단해서,[LINE]\n엄청나게 아프다.[END]",
+            "translation": "다이아몬드를 갈아 날로 삼은[LINE]\n아름다운 너클. 날카롭고 단단해[LINE]\n엄청나게 아프다.[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79
         },
@@ -325,7 +325,7 @@
         {
             "offset": 1774344,
             "string": "殴るより刺すことに重点を置いた[LINE]\nナックル。針の分リーチが長いので[LINE]\n大振りな人にお勧め。[END]",
-            "translation": "때리기보다 찌르는 데 중점을 둔 너클.[LINE]\n바늘 길이만큼 리치가 늘어나서[LINE]\n키가 큰 사람에게 추천.[END]",
+            "translation": "때리기보다 찌르기에 중점을 둔 너클.[LINE]\n바늘만큼 사거리가 길어[LINE]\n크게 휘두르는 이에게 추천.[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87
         },
@@ -339,7 +339,7 @@
         {
             "offset": 1774456,
             "string": "拳の部分を厚く強化したナックル。[LINE]\n素の拳より３割増で強くなる。[LINE]\n[END]",
-            "translation": "주먹 부분을 두껍게 강화한 너클.[LINE]\n순수한 주먹보다 3할 더 강해진다.[LINE]\n[END]",
+            "translation": "주먹 부분을 두껍게 강화한 너클.[LINE]\n맨주먹보다 3할 강해진다.[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },
@@ -437,7 +437,7 @@
         {
             "offset": 1775032,
             "string": "運命を意味する小型弓。[LINE]\n手にした者の望む運命を呼び寄せる。[LINE]\n選ばれた者のみが手にできる。[END]",
-            "translation": "운명을 의미하는 단궁.[LINE]\n손에 든 자가 바라는 운명을 부른다.[LINE]\n선택받은 자만이 손에 넣을 수 있다.[END]",
+            "translation": "운명을 뜻하는 단궁.[LINE]\n소유자가 바라는 운명을 부른다.[LINE]\n선택받은 자만이 손에 넣을 수 있다.[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87
         },
@@ -458,7 +458,7 @@
         {
             "offset": 1775232,
             "string": "[Sign_Sword]セレスティアルスター[END]",
-            "translation": "[Sign_Sword]세레스티아 스타[END]",
+            "translation": "[Sign_Sword]셀레스티얼 스타[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31
         },
@@ -507,7 +507,7 @@
         {
             "offset": 1775568,
             "string": "伝説に登場する幻想の力を秘めた[LINE]\n小型弓。口伝を書物にまとめた[LINE]\n兄弟の名を冠する。[END]",
-            "translation": "전설에 나오는 환상의 힘이 깃든 단궁.[LINE]\n이야기를 책으로 엮은[LINE]\n형제의 이름이 붙었다.[END]",
+            "translation": "전설 속 환상의 힘을 품은 단궁.[LINE]\n구전을 책으로 엮은[LINE]\n형제의 이름을 땄다.[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79
         },
@@ -577,7 +577,7 @@
         {
             "offset": 1776064,
             "string": "名工ギースの魂がこもった[LINE]\n無二の傑作。きわめて希少価値が[LINE]\n高く、戦士たちの憧れの小型弓。[END]",
-            "translation": "명공 기스의 혼이 담긴[LINE]\n둘도 없는 걸작. 매우 희소가치가[LINE]\n높아서 많은 전사가 동경하는 단궁.[END]",
+            "translation": "명공 기스의 혼이 담긴[LINE]\n둘도 없는 걸작. 극히 희귀해[LINE]\n전사들이 동경하는 단궁.[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87
         },
@@ -612,14 +612,14 @@
         {
             "offset": 1776312,
             "string": "[Sign_Sword]キラーアロー[END]",
-            "translation": "[Sign_Sword]킬러 보우[END]",
+            "translation": "[Sign_Sword]킬러 애로[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
         {
             "offset": 1776336,
             "string": "その名の通り戦闘に特化した小型弓。[LINE]\n強度があり、敵の攻撃を受けても[LINE]\n歪みにくい。[END]",
-            "translation": "그 이름 그대로 전투에 특화된 단궁.[LINE]\n강도가 높아 적의 공격을 받아도[LINE]\n잘 뒤틀리지 않는다.[END]",
+            "translation": "그 이름처럼 전투에 특화된 단궁.[LINE]\n튼튼해 적의 공격에도[LINE]\n잘 뒤틀리지 않는다.[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79
         },
@@ -633,7 +633,7 @@
         {
             "offset": 1776440,
             "string": "猟師が好んで使う弓の小型版。[LINE]\n安価な割りに性能は高い。[LINE]\n[END]",
-            "translation": "사냥꾼이 애용하는 활의 소형판.[LINE]\n저렴한 가격에 비해 성능이 좋다.[LINE]\n[END]",
+            "translation": "사냥꾼이 즐겨 쓰는 활의 소형판.[LINE]\n값은 싸나 성능은 좋다[LINE]\n[END]",
             "original_bytes_length": 55,
             "available_bytes_size": 55
         },
@@ -745,7 +745,7 @@
         {
             "offset": 1777080,
             "string": "空想を意味する斧。[LINE]\n手にした者の想いを力に変える。[LINE]\n選ばれた者のみが手にできる。[END]",
-            "translation": "공상을 의미하는 도끼.[LINE]\n손에 든 자의 마음을 힘으로 바꾼다.[LINE]\n선택받은 자만이 손에 넣을 수 있다.[END]",
+            "translation": "공상을 뜻하는 도끼.[LINE]\n소유자의 생각을 힘으로 바꾼다.[LINE]\n선택받은 자만 얻을 수 있다.[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79
         },
@@ -759,7 +759,7 @@
         {
             "offset": 1777184,
             "string": "三日月型の幅広い斧頭を持つ戦斧。[LINE]\n敵を切断するのに特化している。[LINE]\n[END]",
-            "translation": "초승달 모양의[LINE]\n넓은 도끼머리를 가진 전투 도끼.[LINE]\n적을 절단하는 데 특화되어 있다.[END]",
+            "translation": "초승달 모양의[LINE]\n넓은 머리를 지닌 전투 도끼.[LINE]\n적을 절단하는 데 특화됐다.[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71
         },
@@ -773,7 +773,7 @@
         {
             "offset": 1777272,
             "string": "刃が上向きになっている斧。[LINE]\n透明感のある美しい刃は、[LINE]\n祭事用に使われていた時の名残。[END]",
-            "translation": "날이 위로 향하고 있는 도끼.[LINE]\n투명한 느낌의 아름다운 칼날은,[LINE]\n제사용으로 쓰이던 때의 흔적.[END]",
+            "translation": "날이 위로 향한 도끼.[LINE]\n투명하고 아름다운 날은[LINE]\n제사용이던 시절의 흔적.[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87
         },
@@ -787,7 +787,7 @@
         {
             "offset": 1777376,
             "string": "植物のような装飾をされた戦斧。[LINE]\n装飾のわりに軽量なため、[LINE]\n殴打武器としても優秀。[END]",
-            "translation": "식물 모양으로 장식된 전투 도끼.[LINE]\n장식에 비해 가볍기 때문에,[LINE]\n그냥 때리는 용도로도 우수하다.[END]",
+            "translation": "식물 모양 장식의 전투 도끼.[LINE]\n장식에 비해 가벼워[LINE]\n타격 무기로도 우수하다.[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79
         },
@@ -801,7 +801,7 @@
         {
             "offset": 1777472,
             "string": "タフレンズが埋め込まれた[LINE]\n半月型の斧。豪華な作りだが[LINE]\n切れ味は鋭い。[END]",
-            "translation": "터프 렌즈가 박혀 있는 반달 모양 도끼.[LINE]\n호화스러운 외형을 하고 있지만[LINE]\n매우 날카롭다.[END]",
+            "translation": "터프 렌즈가 박힌 반달형 도끼.[LINE]\n호화로운 만듦새에[LINE]\n날카로운 날을 지녔다.[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
@@ -815,7 +815,7 @@
         {
             "offset": 1777560,
             "string": "斧頭がノミのようになっている斧。[LINE]\n見た目の優美さと異なり、[LINE]\n刃先は鋭い。[END]",
-            "translation": "도끼머리가 끌처럼 되어 있는 도끼.[LINE]\n외관의 우아함과는 다르게,[LINE]\n날이 날카롭다.[END]",
+            "translation": "머리가 끌처럼 생긴 도끼.[LINE]\n우아한 외형과 달리[LINE]\n날 끝은 날카롭다.[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71
         },
@@ -843,7 +843,7 @@
         {
             "offset": 1777736,
             "string": "三日月型の斧頭が特徴の戦斧。[LINE]\n少ない金属で作ることが可能な斧。[LINE]\n[END]",
-            "translation": "초승달 모양의 도끼머리가[LINE]\n특징인 전투 도끼.[LINE]\n적은 금속으로 만들 수 있다.[END]",
+            "translation": "초승달 모양 머리가[LINE]\n특징인 전투 도끼.[LINE]\n적은 금속으로 제작 가능.[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },
@@ -857,7 +857,7 @@
         {
             "offset": 1777816,
             "string": "伝説に登場する幻想の力を秘めた斧。[LINE]\n口伝を書物にまとめた兄弟の名を[LINE]\n冠する。[END]",
-            "translation": "전설에 나오는 환상의 힘이 깃든 도끼.[LINE]\n이야기를 책으로 엮은[LINE]\n형제의 이름이 붙었다.[END]",
+            "translation": "전설 속 환상의 힘을 품은 도끼.[LINE]\n구전을 책으로 엮은[LINE]\n형제의 이름을 땄다.[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79
         },
@@ -871,7 +871,7 @@
         {
             "offset": 1777920,
             "string": "大地の名で呼ばれる斧。[LINE]\n華奢な形状からは想像できない[LINE]\n威力を持つ。[END]",
-            "translation": "대지의 이름으로 불리는 도끼.[LINE]\n연약한 외형에서 상상할 수 없을[LINE]\n정도의 위력이 나온다.[END]",
+            "translation": "대지의 이름을 딴 도끼.[LINE]\n가냘픈 모습에선 상상 못 할[LINE]\n위력을 지녔다.[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71
         },
@@ -913,7 +913,7 @@
         {
             "offset": 1778208,
             "string": "斧刃と鈎爪を併せ持つ斧。[LINE]\n馬上の敵を引きずり下ろすのに有効。[LINE]\n[END]",
-            "translation": "도끼날과 갈고리 발톱을 겸비한 도끼.[LINE]\n말 위의 적을 끌어내리는 데 유효하다.[LINE]\n[END]",
+            "translation": "도끼날과 갈고리를 겸한 도끼.[LINE]\n말 탄 적을 끌어내리기에 좋다.[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63
         },
@@ -927,7 +927,7 @@
         {
             "offset": 1778296,
             "string": "先端が槍状になっている斧。[LINE]\n斬るだけでなく[LINE]\n刺すこともできる優秀な斧。[END]",
-            "translation": "날 끝이 창 모양으로 되어 있어,[LINE]\n베기만이 아니라 찌르기도[LINE]\n할 수 있는 우수한 도끼.[END]",
+            "translation": "끝이 창 모양인 도끼.[LINE]\n베기뿐 아니라[LINE]\n찌르기도 가능한 우수한 도끼.[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71
         },
@@ -941,7 +941,7 @@
         {
             "offset": 1778400,
             "string": "非常に重く、鋭い切っ先を持つ斧。[LINE]\n重装備の鎧でさえ打ち砕ける。[LINE]\n[END]",
-            "translation": "매우 무겁고, 날카로운 칼날을 가진 도끼.[LINE]\n중장비 갑옷조차 부술 수 있다.[LINE]\n[END]",
+            "translation": "매우 무겁고 끝이 날카로운 도끼.[LINE]\n중무장 갑옷조차 부순다.[LINE]\n[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },
@@ -955,7 +955,7 @@
         {
             "offset": 1778488,
             "string": "「切るための道具」[LINE]\nという意味の名を持つ斧。[LINE]\n扱いが上手ければ投げることも可能。[END]",
-            "translation": "「자르기 위한 도구」[LINE]\n라는 의미의 이름을 가진 도끼.[LINE]\n능숙하게 다루면 던질 수도 있다.[END]",
+            "translation": "「베는 도구」라는[LINE]\n뜻의 이름을 지닌 도끼.[LINE]\n능숙하게 다루면 던질 수도 있다.[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79
         },
@@ -969,7 +969,7 @@
         {
             "offset": 1778592,
             "string": "名工ギースの魂がこもった[LINE]\n無二の傑作。きわめて希少価値が[LINE]\n高く、戦士たちの憧れの斧。[END]",
-            "translation": "명공 기스의 영혼이 담긴[LINE]\n둘도 없는 걸작. 매우 희소가치가[LINE]\n높아서 많은 전사가 동경하는 도끼.[END]",
+            "translation": "명공 기스의 혼이 담긴[LINE]\n둘도 없는 걸작. 극히 희귀해[LINE]\n전사들이 동경하는 도끼.[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87
         },
@@ -997,7 +997,7 @@
         {
             "offset": 1778816,
             "string": "対剣士用に作られた斧。[LINE]\n刃の隙間は剣を引っ掛け[LINE]\n折るためのもの。[END]",
-            "translation": "검사를 상대하기 위해 만들어진 도끼.[LINE]\n날의 틈새는 검을 걸어[LINE]\n부러뜨리기 위한 것이다.[END]",
+            "translation": "검사를 상대하기 위한 도끼.[LINE]\n날의 틈에 검을 걸어[LINE]\n부러뜨린다.[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63
         },
@@ -1025,7 +1025,7 @@
         {
             "offset": 1779016,
             "string": "三日月の形を模した斧。[LINE]\n乳白色の刃は闇で振るうと[LINE]\nより月のように見えるらしい。[END]",
-            "translation": "초승달 모양을 본뜬 도끼.[LINE]\n유백색의 칼날은 어두울 때 휘두르면[LINE]\n더욱 달처럼 보인다고 한다.[END]",
+            "translation": "초승달 모양의 도끼.[LINE]\n유백색 날을 어둠 속에서 휘두르면[LINE]\n더 달처럼 보인다고 한다.[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79
         },
@@ -1039,7 +1039,7 @@
         {
             "offset": 1779120,
             "string": "この斧を初めて見たキコリが、[LINE]\n「グレートだ！」と叫んだことから[LINE]\nこの名がついた。切れ味も抜 群。[END]",
-            "translation": "이 도끼를 처음 본 나무꾼이, 「그레이트다!」[LINE]\n라고 외쳐서 이런 이름이 붙었다.[LINE]\n날카로움도 그레이트다.[END]",
+            "translation": "처음 본 나무꾼이 「그레이트!」라고[LINE]\n외쳐 이런 이름이 붙은 도끼.[LINE]\n날카로움도 뛰어나다.[END]",
             "original_bytes_length": 93,
             "available_bytes_size": 95
         },
@@ -1053,7 +1053,7 @@
         {
             "offset": 1779240,
             "string": "切れ味鋭い肉厚の斧。[LINE]\nその名の通り、[LINE]\n戦闘用に特化されている。[END]",
-            "translation": "날카롭고 두꺼운 도끼.[LINE]\n그 이름 그대로,[LINE]\n전투용으로 특화되어 있다.[END]",
+            "translation": "날카롭고 두꺼운 도끼.[LINE]\n이름 그대로[LINE]\n전투에 특화됐다.[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63
         },
@@ -1067,7 +1067,7 @@
         {
             "offset": 1779328,
             "string": "非常に扱いやすい小型の斧。[LINE]\n少し力があれば片手でも軽々[LINE]\n扱うことが可能。[END]",
-            "translation": "매우 다루기 쉬운 소형 도끼.[LINE]\n조금만 힘이 있으면 한 손으로 가볍게[LINE]\n다룰 수 있다.[END]",
+            "translation": "다루기 쉬운 소형 도끼.[LINE]\n힘이 조금 있으면 한 손으로[LINE]\n가볍게 다룰 수 있다.[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71
         },
@@ -1151,7 +1151,7 @@
         {
             "offset": 1779848,
             "string": "さまざまな構造物に使われる[LINE]\n鉄製の斧。[LINE]\nもっとも身近な金属。[END]",
-            "translation": "다양한 구조물에 사용되는[LINE]\n철로 만든 도끼.[LINE]\n철은 사람과 가장 친한 금속이다.[END]",
+            "translation": "여러 구조물에 쓰이는[LINE]\n철로 만든 도끼.[LINE]\n철은 가장 흔한 금속이다.[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63
         },
@@ -1165,7 +1165,7 @@
         {
             "offset": 1779936,
             "string": "耐食性の優れた銅製の斧。[LINE]\n天地戦争時代から使われていた[LINE]\n優秀な金属。[END]",
-            "translation": "내식성이 뛰어난 구리로 만든 도끼.[LINE]\n천지 전쟁 시대부터 사용된[LINE]\n우수한 금속이다.[END]",
+            "translation": "내식성 좋은 구리로 만든 도끼.[LINE]\n천지 전쟁 때부터 쓰인[LINE]\n우수한 금속이다.[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
@@ -1179,7 +1179,7 @@
         {
             "offset": 1780032,
             "string": "石を削って作られた石製の斧。[LINE]\nすでに時代遅れの武器だが[LINE]\n人の進化の証。[END]",
-            "translation": "돌을 깎아 만든 도끼.[LINE]\n이미 시대에 뒤떨어진 무기지만[LINE]\n사람이 진화했다는 증거다.[END]",
+            "translation": "돌을 깎아 만든 도끼.[LINE]\n이미 낡은 무기지만[LINE]\n인류 진화의 증거다.[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71
         },
@@ -1193,7 +1193,7 @@
         {
             "offset": 1780128,
             "string": "飛行竜の船倉に厳重保管されていた、[LINE]\n変わった形の妙に手になじむ剣。[LINE]\n何か得体の知れない力を 感じる……[END]",
-            "translation": "비행룡의 선창에 엄격하게 보관되어 있던,[LINE]\n이상한 모양의 이상하게 손에 잘 맞는 검.[LINE]\n무언가 모르는 힘을 느낀다……[END]",
+            "translation": "비행룡 선창에 엄중히 보관되던 검.[LINE]\n특이한 모양인데 묘하게 손에 익는다.[LINE]\n정체 모를 힘이 느껴진다……[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103
         },
@@ -1207,7 +1207,7 @@
         {
             "offset": 1780248,
             "string": "ファンダリア王家に伝わる名剣。[LINE]\n見た目の豪華さとは裏腹に、[LINE]\n鋭い切れ味を持つ。[END]",
-            "translation": "팬더리아 왕가에 전해지는 명검.[LINE]\n외관의 화려함과는 반대로,[LINE]\n날카로운 칼날을 가진다.[END]",
+            "translation": "팬더리아 왕가에 전해지는 명검.[LINE]\n호화로운 외관과 달리[LINE]\n날카로운 날을 지녔다.[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79
         },
@@ -1221,7 +1221,7 @@
         {
             "offset": 1780352,
             "string": "各国の軍隊に採用されている剣。[LINE]\nシンプルな作りで非常に扱いやすい。[LINE]\n[END]",
-            "translation": "각국의 군대에서 채용되고 있는 검.[LINE]\n심플한 제작으로 매우 다루기 쉽다.[LINE]\n[END]",
+            "translation": "각국의 군대에서 채용되고 있는 검.[LINE]\n단순한 구조라 매우 다루기 쉽다.[LINE]\n[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71
         },
@@ -1291,7 +1291,7 @@
         {
             "offset": 1780864,
             "string": "火属性の知能ある剣。[LINE]\n人格は、熱血漢の切り込み隊長。[LINE]\nディムロス・ティンバー。[END]",
-            "translation": "불 속성의 지능을 가진 검.[LINE]\n성격은 열혈 칼질 대장.[LINE]\n딤로스 팀버.[END]",
+            "translation": "불 속성의 지능을 가진 검.[LINE]\n성격은 열혈 선봉대장.[LINE]\n딤로스 팀버.[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79
         },

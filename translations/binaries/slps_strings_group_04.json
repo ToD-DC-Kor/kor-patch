@@ -5,14 +5,14 @@
             "string": "個[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "個[END]"
+            "translation": "개[END]"
         },
         {
             "offset": 1683752,
             "string": "枚[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "枚[END]"
+            "translation": "장[END]"
         },
         {
             "offset": 1683760,
