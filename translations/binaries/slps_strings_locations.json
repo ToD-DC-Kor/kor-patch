@@ -12,7 +12,7 @@
             "string": "モリュウ城・対バティスタ戦[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "모리유 성・바티스타 전투[END]"
+            "translation": "모류 성・바티스타 전투[END]"
         },
         {
             "offset": 1714328,
@@ -47,7 +47,7 @@
             "string": "ハイデルベルグ城・対グレバム戦[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "하이델베르그 성・그레밤 전투[END]"
+            "translation": "하이델베르그 성・글레밤 전투[END]"
         },
         {
             "offset": 1714424,
@@ -488,14 +488,14 @@
             "string": "モリュウ城・通路2(水路・水あり）[END]",
             "original_bytes_length": 33,
             "available_bytes_size": 39,
-            "translation": "모리유 성・통로 2(수로・물 있음)[END]"
+            "translation": "모류 성・통로 2(수로・물 있음)[END]"
         },
         {
             "offset": 1716448,
             "string": "モリュウ城・通路1(水路・水なし）[END]",
             "original_bytes_length": 33,
             "available_bytes_size": 39,
-            "translation": "모리유 성・통로 1(수로・물 없음)[END]"
+            "translation": "모류 성・통로 1(수로・물 없음)[END]"
         },
         {
             "offset": 1716488,
@@ -747,28 +747,28 @@
             "string": "モリュウ・シデン・トウケイ各領街道3[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39,
-            "translation": "모리유・시덴・토케이 각 영지 도로 3[END]"
+            "translation": "모류・시덴・토케이 각 영지 도로 3[END]"
         },
         {
             "offset": 1717576,
             "string": "モリュウ・シデン・トウケイ各領街道2[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39,
-            "translation": "모리유・시덴・토케이 각 영지 도로 2[END]"
+            "translation": "모류・시덴・토케이 각 영지 도로 2[END]"
         },
         {
             "offset": 1717616,
             "string": "モリュウ・シデン・トウケイ各領街道1[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39,
-            "translation": "모리유・시덴・토케이 각 영지 도로 1[END]"
+            "translation": "모류・시덴・토케이 각 영지 도로 1[END]"
         },
         {
             "offset": 1717656,
             "string": "モリュウ・シデン・トウケイ各領街道0[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39,
-            "translation": "모리유・시덴・토케이 각 영지 도로 0[END]"
+            "translation": "모류・시덴・토케이 각 영지 도로 0[END]"
         },
         {
             "offset": 1717696,
@@ -915,28 +915,28 @@
             "string": "モリュウ・シデン・トウケイ各領森3[END]",
             "original_bytes_length": 34,
             "available_bytes_size": 39,
-            "translation": "모리유 시덴 토케이 각령 숲3[END]"
+            "translation": "모류 시덴 토케이 각령 숲3[END]"
         },
         {
             "offset": 1718312,
             "string": "モリュウ・シデン・トウケイ各領森2[END]",
             "original_bytes_length": 34,
             "available_bytes_size": 39,
-            "translation": "모리유 시덴 토케이 각령 숲2[END]"
+            "translation": "모류 시덴 토케이 각령 숲2[END]"
         },
         {
             "offset": 1718352,
             "string": "モリュウ・シデン・トウケイ各領森1[END]",
             "original_bytes_length": 34,
             "available_bytes_size": 39,
-            "translation": "모리유 시덴 토케이 각령 숲1[END]"
+            "translation": "모류 시덴 토케이 각령 숲1[END]"
         },
         {
             "offset": 1718392,
             "string": "モリュウ・シデン・トウケイ各領森0[END]",
             "original_bytes_length": 34,
             "available_bytes_size": 39,
-            "translation": "모리유 시덴 토케이 각령 숲0[END]"
+            "translation": "모류 시덴 토케이 각령 숲0[END]"
         },
         {
             "offset": 1718432,
@@ -1139,28 +1139,28 @@
             "string": "モリュウ・シデン・トウケイ各領草原3[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39,
-            "translation": "모리유 시덴 토케이 각 영토 초원3[END]"
+            "translation": "모류 시덴 토케이 각 영토 초원3[END]"
         },
         {
             "offset": 1719272,
             "string": "モリュウ・シデン・トウケイ各領草原2[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39,
-            "translation": "모리유 시덴 토케이 각 영토 초원2[END]"
+            "translation": "모류 시덴 토케이 각 영토 초원2[END]"
         },
         {
             "offset": 1719312,
             "string": "モリュウ・シデン・トウケイ各領草原1[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39,
-            "translation": "모리유 시덴 토케이 각 영토 초원1[END]"
+            "translation": "모류 시덴 토케이 각 영토 초원1[END]"
         },
         {
             "offset": 1719352,
             "string": "モリュウ・シデン・トウケイ各領草原0[END]",
             "original_bytes_length": 36,
             "available_bytes_size": 39,
-            "translation": "모리유 시덴 토케이 각 영토 초원0[END]"
+            "translation": "모류 시덴 토케이 각 영토 초원0[END]"
         },
         {
             "offset": 1719392,
@@ -2140,7 +2140,7 @@
             "string": "グレバム戦[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "그레밤 전투[END]"
+            "translation": "글레밤 전투[END]"
         },
         {
             "offset": 1722976,
@@ -2231,14 +2231,14 @@
             "string": "モリュウ城(後半)[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "모리유 성 (후반)[END]"
+            "translation": "모류 성 (후반)[END]"
         },
         {
             "offset": 1723240,
             "string": "モリュウ城(前半)[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "모리유 성 (전반)[END]"
+            "translation": "모류 성 (전반)[END]"
         },
         {
             "offset": 1723264,
@@ -2560,7 +2560,7 @@
             "string": "モリュウ領[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "모리유령[END]"
+            "translation": "모류령[END]"
         },
         {
             "offset": 1724264,

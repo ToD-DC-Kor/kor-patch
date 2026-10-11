@@ -285,7 +285,7 @@
             "string": "いざモリュウ城[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "자, 모리유 성[END]"
+            "translation": "자, 모류 성[END]"
         },
         {
             "offset": 1680528,
@@ -306,7 +306,7 @@
             "string": "モリュウへの道[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "모리유 가는 길[END]"
+            "translation": "모류 가는 길[END]"
         },
         {
             "offset": 1680576,

@@ -691,7 +691,7 @@
             "string": "術防御力[TAG_015][END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "술방[TAG_015][END]"
+            "translation": "정술방어[TAG_015][END]"
         },
         {
             "offset": 246472,
@@ -705,7 +705,7 @@
             "string": "術攻撃力[TAG_015][END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "술공[TAG_015][END]"
+            "translation": "정술공격[TAG_015][END]"
         },
         {
             "offset": 246504,

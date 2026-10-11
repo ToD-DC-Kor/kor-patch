@@ -978,14 +978,14 @@
             "string": "モリュウ城を守る番犬。[LINE]\n回避率が高く、ブラストになると使う[LINE]\nショックウェイブは必ずマヒになってしまう。[END]",
             "original_bytes_length": 101,
             "available_bytes_size": 103,
-            "translation": "모리유 성을 지키는 경비견.[LINE]\n회피율이 높고 블라스트 상태에서 쓰는[LINE]\n쇼크웨이브는 반드시 마비를 일으킨다.[END]"
+            "translation": "모류 성을 지키는 경비견.[LINE]\n회피율이 높고 블라스트 상태에서 쓰는[LINE]\n쇼크웨이브는 반드시 마비를 일으킨다.[END]"
         },
         {
             "offset": 31576,
             "string": "モリュウに雇われている傭兵。[LINE]\nナイフに痺れ毒をたっぷりと塗ってあり、[LINE]\n痺れている隙に、暗殺するのが得意。[END]",
             "original_bytes_length": 103,
             "available_bytes_size": 103,
-            "translation": "모리유에 고용된 용병.[LINE]\n칼에 마비독을 듬뿍 발라 놓고[LINE]\n상대가 마비된 틈에 암살한다.[END]"
+            "translation": "모류에 고용된 용병.[LINE]\n칼에 마비독을 듬뿍 발라 놓고[LINE]\n상대가 마비된 틈에 암살한다.[END]"
         },
         {
             "offset": 31680,
@@ -1370,7 +1370,7 @@
             "string": "モリュウに仕える正規兵。[LINE]\n長いリーチを誇る、槍での攻撃を得意とする。[LINE]\n後ろの仲間も巻き込まれないように注意。[END]",
             "original_bytes_length": 107,
             "available_bytes_size": 111,
-            "translation": "모리유를 섬기는 정규병.[LINE]\n사거리가 긴 창으로 공격한다.[LINE]\n뒤에 있는 동료까지 휘말리지 않도록 주의.[END]"
+            "translation": "모류를 섬기는 정규병.[LINE]\n사거리가 긴 창으로 공격한다.[LINE]\n뒤에 있는 동료까지 휘말리지 않도록 주의.[END]"
         },
         {
             "offset": 37280,
@@ -1664,7 +1664,7 @@
             "string": "グレバムの部下の神官。[LINE]\n爪による素早い攻撃を繰り出し、[LINE]\nHPが少ない者を常に狙ってくる。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "그레밤의 부하 신관.[LINE]\n발톱으로 재빠르게 공격하며,[LINE]\n늘 HP가 적은 상대를 노린다.[END]"
+            "translation": "글레밤의 부하 신관.[LINE]\n발톱으로 재빠르게 공격하며,[LINE]\n늘 HP가 적은 상대를 노린다.[END]"
         },
         {
             "offset": 41664,

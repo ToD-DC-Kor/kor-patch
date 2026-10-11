@@ -159,7 +159,7 @@
             "string": "シデン領とモリュウ領をつなぐ海底洞窟。[END]",
             "original_bytes_length": 39,
             "available_bytes_size": 39,
-            "translation": "시덴령과 모리유령을 잇는 해저 동굴.[END]"
+            "translation": "시덴령과 모류령을 잇는 해저 동굴.[END]"
         },
         {
             "offset": 1731496,
@@ -173,7 +173,7 @@
             "string": "海底洞窟(モリュウ領)[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "해저 동굴(모리유령)[END]"
+            "translation": "해저 동굴(모류령)[END]"
         },
         {
             "offset": 1731536,
@@ -201,7 +201,7 @@
             "string": "アクアヴェイルの西部にある[LINE]\nモリュウ家が治める領内の街。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "아쿠아베일 서부의 도시.[LINE]\n모리유 가문이 다스린다.[END]"
+            "translation": "아쿠아베일 서부의 도시.[LINE]\n모류 가문이 다스린다.[END]"
         },
         {
             "offset": 1731712,
@@ -215,7 +215,7 @@
             "string": "モリュウ領[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "모리유령[END]"
+            "translation": "모류령[END]"
         },
         {
             "offset": 1731736,

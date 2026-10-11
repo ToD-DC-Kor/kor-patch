@@ -957,7 +957,7 @@
             "string": "モリュウ城の外へ出た一行は[LINE]\n[Rihanna]の出迎えを受ける。[LINE]\n[Stahn]たちは[Fayte][LINE]\n率いる黒十字艦隊の船で[LINE]\nトウケイ領へ乗り込むべく、[LINE]\n港へと向かう。[END]",
             "original_bytes_length": 133,
             "available_bytes_size": 135,
-            "translation": "모리유 성을 나온 일행을[LINE]\n[Rihanna]가 맞이한다.[LINE]\n[Stahn] 일행은 [Fayte]가[LINE]\n이끄는 흑십자 함대의 배로[LINE]\n토케이령에 진입하기 위해[LINE]\n항구로 향한다.[END]"
+            "translation": "모류 성을 나온 일행을[LINE]\n[Rihanna]가 맞이한다.[LINE]\n[Stahn] 일행은 [Fayte]가[LINE]\n이끄는 흑십자 함대의 배로[LINE]\n토케이령에 진입하기 위해[LINE]\n항구로 향한다.[END]"
         },
         {
             "offset": 49648,
@@ -978,21 +978,21 @@
             "string": "[Stahn]たちはモリュウ[LINE]\n城の裏手で[Johnny]に[LINE]\n追いつき、共闘を申し出る。[LINE]\n[Johnny]を仲間に加え、[LINE]\n一行は城の中へ潜入。まずは[LINE]\n[Fayte]を救出するべく、[LINE]\n牢屋を目指す。[END]",
             "original_bytes_length": 149,
             "available_bytes_size": 151,
-            "translation": "[Stahn] 일행은 모리유[LINE]\n성 뒤편에서 [Johnny]를[LINE]\n따라잡고 협력을 제안한다.[LINE]\n[Johnny]를 동료로 맞아[LINE]\n성에 잠입한 일행은 우선[LINE]\n[Fayte]를 구하기 위해[LINE]\n감옥으로 향한다.[END]"
+            "translation": "[Stahn] 일행은 모류[LINE]\n성 뒤편에서 [Johnny]를[LINE]\n따라잡고 협력을 제안한다.[LINE]\n[Johnny]를 동료로 맞아[LINE]\n성에 잠입한 일행은 우선[LINE]\n[Fayte]를 구하기 위해[LINE]\n감옥으로 향한다.[END]"
         },
         {
             "offset": 50080,
             "string": "いざモリュウ城[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "모리유 성으로[END]"
+            "translation": "모류 성으로[END]"
         },
         {
             "offset": 50096,
             "string": "[Johnny]の正体は、[LINE]\nシデン領の王族だった。[LINE]\n親友の[Fayte]を救うため、[LINE]\n単身モリュウ城へと向かう[LINE]\n[Johnny]。[LINE]\n[Stahn]たちは[LINE]\n急いで[Johnny]の後を[LINE]\n追う。[END]",
             "original_bytes_length": 133,
             "available_bytes_size": 135,
-            "translation": "[Johnny]의 정체는[LINE]\n시덴령의 왕족이었다.[LINE]\n절친 [Fayte]를 구하러[LINE]\n홀로 모리유 성에 간[LINE]\n[Johnny].[LINE]\n[Stahn] 일행은[LINE]\n급히 [Johnny]의 뒤를[LINE]\n쫓는다.[END]"
+            "translation": "[Johnny]의 정체는[LINE]\n시덴령의 왕족이었다.[LINE]\n절친 [Fayte]를 구하러[LINE]\n홀로 모류 성에 간[LINE]\n[Johnny].[LINE]\n[Stahn] 일행은[LINE]\n급히 [Johnny]의 뒤를[LINE]\n쫓는다.[END]"
         },
         {
             "offset": 50232,
@@ -1013,7 +1013,7 @@
             "string": "モリュウ領へ到着した[LINE]\n[Stahn]たち。[LINE]\n本当にここに[Greybum]が[LINE]\nいるのだろうか？[LINE]\nまずは情報を集めるべく、[LINE]\n[Stahn]たちは、街の[LINE]\n住人に話を聞く事にする[END]",
             "original_bytes_length": 136,
             "available_bytes_size": 136,
-            "translation": "모리유령에 도착한[LINE]\n[Stahn] 일행.[LINE]\n정말 이곳에 [Greybum]이[LINE]\n있는 걸까?[LINE]\n정보를 얻기 위해[LINE]\n[Stahn] 일행은 마을[LINE]\n주민에게 말을 걸기로 한다.[END]"
+            "translation": "모류령에 도착한[LINE]\n[Stahn] 일행.[LINE]\n정말 이곳에 [Greybum]이[LINE]\n있는 걸까?[LINE]\n정보를 얻기 위해[LINE]\n[Stahn] 일행은 마을[LINE]\n주민에게 말을 걸기로 한다.[END]"
         },
         {
             "offset": 50672,
@@ -1027,7 +1027,7 @@
             "string": "海底洞窟の出口まで来た[LINE]\nところで、[Stahn]たちは[LINE]\n凶悪なモンスターに遭遇[LINE]\nする。[LINE]\nなんとかモンスターを退けた[LINE]\n一行は洞窟を出て、モリュウ[LINE]\n領を目指す。[LINE]\n[END]",
             "original_bytes_length": 143,
             "available_bytes_size": 143,
-            "translation": "해저 동굴 출구에서[LINE]\n[Stahn] 일행은[LINE]\n흉악한 몬스터와[LINE]\n맞닥뜨린다.[LINE]\n간신히 몬스터를 물리친[LINE]\n일행은 동굴을 나와[LINE]\n모리유령으로 향한다.[LINE]\n[END]"
+            "translation": "해저 동굴 출구에서[LINE]\n[Stahn] 일행은[LINE]\n흉악한 몬스터와[LINE]\n맞닥뜨린다.[LINE]\n간신히 몬스터를 물리친[LINE]\n일행은 동굴을 나와[LINE]\n모류령으로 향한다.[LINE]\n[END]"
         },
         {
             "offset": 50832,
@@ -1041,7 +1041,7 @@
             "string": "[Stahn]たちは[LINE]\nモリュウ領へ行くため、[LINE]\n海底洞窟に入っていく。[LINE]\n洞窟内は地盤の脆い所が多い[LINE]\nうえ、凶悪なモンスターも[LINE]\n生息しているらしい。[LINE]\n注意して進まなければ[LINE]\nならない。[END]",
             "original_bytes_length": 163,
             "available_bytes_size": 167,
-            "translation": "[Stahn] 일행은[LINE]\n모리유령으로 가기 위해[LINE]\n해저 동굴에 들어간다.[LINE]\n동굴은 지반이 약한 곳이 많고[LINE]\n흉악한 몬스터도[LINE]\n서식하는 듯하다.[LINE]\n주의하며 나아가야[LINE]\n한다.[END]"
+            "translation": "[Stahn] 일행은[LINE]\n모류령으로 가기 위해[LINE]\n해저 동굴에 들어간다.[LINE]\n동굴은 지반이 약한 곳이 많고[LINE]\n흉악한 몬스터도[LINE]\n서식하는 듯하다.[LINE]\n주의하며 나아가야[LINE]\n한다.[END]"
         },
         {
             "offset": 51152,
@@ -1055,7 +1055,7 @@
             "string": "[Stahn]たちは[LINE]\n[Greybum]がモリュウ領にいる[LINE]\nとの情報を得る。[LINE]\n[Lion]の機転により、[LINE]\nモリュウ領へ続く海底洞窟の[LINE]\n存在を知った一行は、街を[LINE]\n出て洞窟の入り口へ向かう。[END]",
             "original_bytes_length": 152,
             "available_bytes_size": 152,
-            "translation": "[Stahn] 일행은[LINE]\n[Greybum]이 모리유령에[LINE]\n있다는 정보를 얻는다.[LINE]\n[Lion]의 기지 덕분에[LINE]\n모리유령에 통하는 해저 동굴을[LINE]\n알게 된 일행은 마을을 나와[LINE]\n동굴 입구로 향한다.[END]"
+            "translation": "[Stahn] 일행은[LINE]\n[Greybum]이 모류령에[LINE]\n있다는 정보를 얻는다.[LINE]\n[Lion]의 기지 덕분에[LINE]\n모류령에 통하는 해저 동굴을[LINE]\n알게 된 일행은 마을을 나와[LINE]\n동굴 입구로 향한다.[END]"
         },
         {
             "offset": 51320,
@@ -1069,7 +1069,7 @@
             "string": "モリュウへの道[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "모리유행[END]"
+            "translation": "모류행[END]"
         },
         {
             "offset": 51528,
@@ -1867,14 +1867,14 @@
             "string": "[Lion]たちはモリュウ[LINE]\n城の裏手で[Johnny]に[LINE]\n追いつき、共闘を申し出る。[LINE]\n[Johnny]を仲間に加え、[LINE]\n一行は城の中へ潜入。まずは[LINE]\n[Fayte]を救出するべく、[LINE]\n牢屋を目指す。[END]",
             "original_bytes_length": 149,
             "available_bytes_size": 151,
-            "translation": "[Lion] 일행은 모리유[LINE]\n성 뒤에서 [Johnny]를[LINE]\n따라잡고, 함께 싸우자고 한다.[LINE]\n[Johnny]를 동료로 맞아,[LINE]\n일행은 성에 잠입한다. 먼저[LINE]\n[Fayte]를 구하러,[LINE]\n감옥으로 간다.[END]"
+            "translation": "[Lion] 일행은 모류[LINE]\n성 뒤에서 [Johnny]를[LINE]\n따라잡고, 함께 싸우자고 한다.[LINE]\n[Johnny]를 동료로 맞아,[LINE]\n일행은 성에 잠입한다. 먼저[LINE]\n[Fayte]를 구하러,[LINE]\n감옥으로 간다.[END]"
         },
         {
             "offset": 65960,
             "string": "[Johnny]の正体は、[LINE]\nシデン領の王族だった。[LINE]\n親友の[Fayte]を救うため、[LINE]\n単身モリュウ城へと向かう[LINE]\n[Johnny]。[LINE]\n[Lion]たちは[LINE]\n急いで[Johnny]の後を追う。[END]",
             "original_bytes_length": 132,
             "available_bytes_size": 135,
-            "translation": "[Johnny]의 정체는[LINE]\n시덴령의 왕족이었다.[LINE]\n절친 [Fayte]를 구하러[LINE]\n홀로 모리유 성에 간[LINE]\n[Johnny].[LINE]\n[Lion] 일행은[LINE]\n급히 [Johnny]의 뒤를 쫓는다.[END]"
+            "translation": "[Johnny]의 정체는[LINE]\n시덴령의 왕족이었다.[LINE]\n절친 [Fayte]를 구하러[LINE]\n홀로 모류 성에 간[LINE]\n[Johnny].[LINE]\n[Lion] 일행은[LINE]\n급히 [Johnny]의 뒤를 쫓는다.[END]"
         },
         {
             "offset": 66096,
@@ -1895,14 +1895,14 @@
             "string": "モリュウ領へ到着した[LINE]\n[Lion]たち。[LINE]\n本当にここに[Greybum]が[LINE]\nいるのだろうか？[LINE]\nまずは情報を集めるべく、[LINE]\n[Lion]たちは、街の[LINE]\n住人に話を聞く事にする。[END]",
             "original_bytes_length": 138,
             "available_bytes_size": 143,
-            "translation": "모리유령에 도착한[LINE]\n[Lion] 일행.[LINE]\n정말로 여기[Greybum]이[LINE]\n있을까?[LINE]\n우선 정보를 모으기 위해,[LINE]\n[Lion] 일행은, 마을의[LINE]\n주민에게 이야기를 듣기로 한다.[END]"
+            "translation": "모류령에 도착한[LINE]\n[Lion] 일행.[LINE]\n정말로 여기[Greybum]이[LINE]\n있을까?[LINE]\n우선 정보를 모으기 위해,[LINE]\n[Lion] 일행은, 마을의[LINE]\n주민에게 이야기를 듣기로 한다.[END]"
         },
         {
             "offset": 66496,
             "string": "海底洞窟の出口まで来た[LINE]\nところで、[Lion]たちは[LINE]\n凶悪なモンスターに遭遇する。[LINE]\nなんとかモンスターを退けた[LINE]\n一行は洞窟を出て、[LINE]\nモリュウ領を目指す。[LINE]\n[END]",
             "original_bytes_length": 142,
             "available_bytes_size": 143,
-            "translation": "해저 동굴의 출구에 이르렀을 때,[LINE]\n[Lion] 일행은[LINE]\n악랄한 괴물과 조우한다.[LINE]\n어떻게든 괴물을 물리친[LINE]\n일행은 동굴을 빠져나와,[LINE]\n모리유령을 목표로 한다.[LINE]\n[END]"
+            "translation": "해저 동굴의 출구에 이르렀을 때,[LINE]\n[Lion] 일행은[LINE]\n악랄한 괴물과 조우한다.[LINE]\n어떻게든 괴물을 물리친[LINE]\n일행은 동굴을 빠져나와,[LINE]\n모류령을 목표로 한다.[LINE]\n[END]"
         },
         {
             "offset": 66640,
@@ -1930,7 +1930,7 @@
             "string": "[Lion]たちは[LINE]\nモリュウ領へ行くため、[LINE]\n海底洞窟に入っていく。[LINE]\n洞窟内は地盤の脆い所が多い[LINE]\nうえ、凶悪なモンスターも[LINE]\n生息しているらしい。[LINE]\n注意して進まなければ[LINE]\nならない。[END]",
             "original_bytes_length": 163,
             "available_bytes_size": 167,
-            "translation": "[Lion] 일행은[LINE]\n모리유령으로 가기 위해,[LINE]\n해저 동굴에 들어간다.[LINE]\n동굴 내에는 지반이 약한 곳이 많고[LINE]\n흉악한 몬스터도[LINE]\n서식하고 있는 듯하다.[LINE]\n주의해서 나아가야[LINE]\n한다.[END]"
+            "translation": "[Lion] 일행은[LINE]\n모류령으로 가기 위해,[LINE]\n해저 동굴에 들어간다.[LINE]\n동굴 내에는 지반이 약한 곳이 많고[LINE]\n흉악한 몬스터도[LINE]\n서식하고 있는 듯하다.[LINE]\n주의해서 나아가야[LINE]\n한다.[END]"
         },
         {
             "offset": 67120,
@@ -1944,7 +1944,7 @@
             "string": "[Lion]たちは[LINE]\n[Greybum]がモリュウ領に[LINE]\nいるとの情報を得る。[LINE]\nモリュウ領へ続く海底洞窟の[LINE]\n存在を知った一行は、街を[LINE]\n出て洞窟の入り口へ向かう。[END]",
             "original_bytes_length": 132,
             "available_bytes_size": 135,
-            "translation": "[Lion] 일행은[LINE]\n[Greybum]이 모리유령에[LINE]\n있다는 정보를 얻는다.[LINE]\n모리유령으로 이어지는 해저 동굴을[LINE]\n알게 된 일행은 마을을[LINE]\n떠나 동굴 입구로 향한다.[END]"
+            "translation": "[Lion] 일행은[LINE]\n[Greybum]이 모류령에[LINE]\n있다는 정보를 얻는다.[LINE]\n모류령으로 이어지는 해저 동굴을[LINE]\n알게 된 일행은 마을을[LINE]\n떠나 동굴 입구로 향한다.[END]"
         },
         {
             "offset": 67272,

@@ -96,7 +96,7 @@
             "string": "モリュウの領地には騒いでうるさいが、[LINE]\n料理をするととてもおいしい、味な食材と[LINE]\nなる動物がいるそうだ。[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "모리유의 영토에는 시끄럽고 떠들썩하지만,[LINE]\n요리를 하면 매우 맛있는[LINE]\n동물이 있다고 한다.[END]"
+            "translation": "모류의 영토에는 시끄럽고 떠들썩하지만,[LINE]\n요리를 하면 매우 맛있는[LINE]\n동물이 있다고 한다.[END]"
         },
         {
             "offset": 1735792,
@@ -978,7 +978,7 @@
             "string": "モリュウの領地には不思議な伝説のある[LINE]\n神秘的な植物があるそうだ。[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "모리유의 영토에는 신비한 전설이 있는[LINE]\n신비로운 식물이 있다고.[LINE]\n[END]"
+            "translation": "모류의 영토에는 신비한 전설이 있는[LINE]\n신비로운 식물이 있다고.[LINE]\n[END]"
         },
         {
             "offset": 1744584,

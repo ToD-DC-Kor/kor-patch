@@ -439,28 +439,28 @@
             "string": "モリュウ城B[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "모리유 성B[END]"
+            "translation": "모류 성B[END]"
         },
         {
             "offset": 1729376,
             "string": "モリュウ城A[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "모리유 성A[END]"
+            "translation": "모류 성A[END]"
         },
         {
             "offset": 1729392,
             "string": "モリュウ領A(夜)[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "모리유령A(밤)[END]"
+            "translation": "모류령A(밤)[END]"
         },
         {
             "offset": 1729408,
             "string": "モリュウ領A[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "모리유 영지A[END]"
+            "translation": "모류 영지A[END]"
         },
         {
             "offset": 1729424,

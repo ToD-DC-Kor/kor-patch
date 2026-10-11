@@ -194,14 +194,14 @@
             "string": "グレバム男神官[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "그레밤 남신관[END]"
+            "translation": "글레밤 남신관[END]"
         },
         {
             "offset": 45984,
             "string": "グレバム女神官[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "그레밤 여신관[END]"
+            "translation": "글레밤 여신관[END]"
         },
         {
             "offset": 46000,
@@ -285,7 +285,7 @@
             "string": "グレバム[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "그레밤[END]"
+            "translation": "글레밤[END]"
         },
         {
             "offset": 46208,
