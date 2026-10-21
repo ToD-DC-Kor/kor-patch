@@ -1,24 +1,24 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Mary>와 다리스를 만나게 하는 것은
-위험할지도 모르겠어.
+<Mary>와 다리스를 만나게 하는 건
+위험할지도 몰라.
 [ENDBLOCK]
 왜?
 [ENDBLOCK]
-<Mary>가 다리스에 대해 알게 되면
-우리의 적이 될 가능성도 있어.
+<Mary>가 다리스 편에 서서
+우리의 적이 될 수도 있어.
 [ENDBLOCK]
-<Mary> 씨가 그런 짓을
-할 리가 없잖아!
+<Mary> 씨가 그럴 리
+없잖아!
 [ENDBLOCK]
-하지만 그 가능성이 전혀 없는 건 아니야.
+하지만 가능성이 없는 건 아니지.
 [ENDBLOCK]
-경계는 해두는 편이 좋겠죠.
+경계는 해 두는 게 좋겠군요.
 [ENDBLOCK]
 그런……
 [ENDBLOCK]

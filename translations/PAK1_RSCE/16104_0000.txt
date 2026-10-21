@@ -1,5 +1,5 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -7,14 +7,14 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 크크크…… 크크크크크……
 [ENDBLOCK]
-<Rutee> 씨, 무슨 일 있으세요?
+<Rutee> 씨, 왜 그러세요?
 [ENDBLOCK]
-우리도 꽤나 부자가 됐네.
-이 가르드 산을 봐!
+우리도 꽤 부자가 됐네.
+이 가르드 더미 좀 봐!
 [ENDBLOCK]
-……아아, 이 모든 게 내 거라니……
+……아아, 이게 전부 내 거라니……
 [ENDBLOCK]
 너무나 멋져……
 [ENDBLOCK]
-꼭 <Rutee> 씨 혼자만의 것은 아닌데요……
+<Rutee> 씨 혼자 것은 아닌데……
 [ENDBLOCK]

@@ -1,5 +1,5 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -15,7 +15,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 <S09>진지함
 [ENDBLOCK]
-<S09>졸음
+<S09>잠꼬대
 [ENDBLOCK]
 <S09>긁적긁적
 [ENDBLOCK]

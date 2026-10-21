@@ -1,24 +1,24 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-다리스 씨가 건강해 보여서 다행이야.
+다리스 씨가 건강해 보이셔서 다행이야.
 [ENDBLOCK]
-<Mary> 씨도 행복해 보였어요.
+<Mary> 씨도 행복해 보이셨어요.
 [ENDBLOCK]
-<Mary> 씨가 있어주면 든든하겠지만,
-무리해서 부탁할 순 없지.
+<Mary> 씨가 함께해 주시면 든든하겠지만
+무리한 부탁은 할 수 없지.
 [ENDBLOCK]
 <Mary> 씨에게는 다리스 씨가
-가장 소중한 사람이니까.
+가장 소중하니까.
 [ENDBLOCK]
-그렇네요.
+그렇죠.
 [ENDBLOCK]
 좋아. 그럼 우리는
 하이델베르그로 가자.
 [ENDBLOCK]
-<Woodrow> 씨를 만나야 해.
+<Woodrow> 씨를 만나야지.
 [ENDBLOCK]

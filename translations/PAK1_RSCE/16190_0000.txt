@@ -1,33 +1,33 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-안녕하세요, 여왕님.
+좋은 아침입니다, 여왕님.
 [ENDBLOCK]
-하아~암, 모두들 안녕.
+하아암~, 다들 좋은 아침.
 [ENDBLOCK]
-<Rutee>야, 갑작스럽지만 
-간식좀 준비해 줘.
+<Rutee>야, 미안하지만
+간식 좀 준비해 줘.
 [ENDBLOCK]
-<Philia>는 꽃을 좀 따와 주렴.
-하아~암.
+<Philia>는 꽃을 따 오고.
+하아암~.
 [ENDBLOCK]
-알겠습니다.
+분부대로 하겠습니다.
 [ENDBLOCK]
-알겠습니다.
+분부대로 하겠습니다.
 [ENDBLOCK]
-저는요?
+소인은요?
 [ENDBLOCK]
-하아~암. 그러게~.
+하아암~. 그러니까~.
 [ENDBLOCK]
-<Mary>는 늘 하던 대로 나랑 놀자.
+<Mary>는 늘 그렇듯 나와 놀아 줘.
 [ENDBLOCK]
-있잖아, <Mary>야 듣고 있어?
+저기, <Mary>, 듣고 있어?
 [ENDBLOCK]
-마리…… 야……
+마리…야……
 [ENDBLOCK]
-으아악!	방금 그 꿈은 뭐에요!
+으아앙!	방금 그 꿈은 뭐예요~!
 [ENDBLOCK]

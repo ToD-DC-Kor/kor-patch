@@ -1,19 +1,19 @@
-××××××공간 시작××××××
+××××××하늘 시작××××××
 
 [ENDBLOCK]
-×××××× 하늘 종료 ×××××××
+××××××하늘 종료××××××
 
 [ENDBLOCK]
-★★★★★★ 외각 시작 ★★★★★★
+◆◆◆◆◆◆외각 시작◆◆◆◆◆◆
 
 [ENDBLOCK]
-★★★★★★ 외각 종료 ★★★★★★
+◆◆◆◆◆◆외각 종료◆◆◆◆◆◆
 
 [ENDBLOCK]
-●●●●●● 구름 시작 ●●●●●●
+●●●●●●구름 시작●●●●●●
 
 [ENDBLOCK]
-●●●●●● 구름 종료 ●●●●●●
+●●●●●●구름 종료●●●●●●
 
 [ENDBLOCK]
 오브젝트 조작 모드 시작
@@ -23,13 +23,13 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 오브젝트 조작 시작
 
 [ENDBLOCK]
-인수로 주어진 파라미터→<TAG_047>, <TAG_048>, <TAG_049>
+인수로 전달된 매개변수→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
-인수로 주어진 파라미터→<TAG_047>, <TAG_048>, <TAG_049>
+인수로 전달된 매개변수→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
-인수로 주어진 파라미터→<TAG_047>, <TAG_048>, <TAG_049>
+인수로 전달된 매개변수→<TAG_047>, <TAG_048>, <TAG_049>
 
 [ENDBLOCK]
 오브젝트 조작 모드 종료
@@ -37,32 +37,32 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 오브젝트 조작 종료
 
 [ENDBLOCK]
-오브젝트 재선택
+오브젝트 다시 선택
 
 [ENDBLOCK]
-스테이터스 선택
+상태 선택
 
 [ENDBLOCK]
-안개 스테이터스
+안개 상태
 [ENDBLOCK]
-<TAG_007>안개 시작 거리: <D_FOG_START>
-안개 종료 거리: <D_FOG_END>
-시작점의 안개 비율: <D_FOG_RATE_START>
-종료점의 안개 비율: <D_FOG_RATE_END>
-안개 색상 빨강: <D_FOG_COLOR_R>
-안개 색상 초록: <D_FOG_COLOR_G>
-안개 색상 파랑: <D_FOG_COLOR_B>
+<TAG_007>안개 시작 거리：<D_FOG_START>
+안개 종료 거리：<D_FOG_END>
+시작점 안개 비율：<D_FOG_RATE_START>
+종료점 안개 비율：<D_FOG_RATE_END>
+안개 색상 빨강：<D_FOG_COLOR_R>
+안개 색상 초록：<D_FOG_COLOR_G>
+안개 색상 파랑：<D_FOG_COLOR_B>
 
 [ENDBLOCK]
-<TAG_069>의 스테이터스
+<TAG_069>의 상태
 [ENDBLOCK]
 좌표(x) = <D_COORD_X>
 좌표(y) = <D_COORD_Y>
 좌표(z) = <D_COORD_Z>
-색상(빨강) = <D_COLOR_R>
-색상(초록) = <D_COLOR_G>
-색상(파랑) = <D_COLOR_B>
-색상(α) = <D_COLOR_A>
+색상값(빨강) = <D_COLOR_R>
+색상값(초록) = <D_COLOR_G>
+색상값(파랑) = <D_COLOR_B>
+색상값(α) = <D_COLOR_A>
 확대율(x) = <D_ZOOM_X>
 확대율(y) = <D_ZOOM_Y>
 확대율(z) = <D_ZOOM_Z>
@@ -75,10 +75,10 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 좌표(x) = <D_COORD_X>
 좌표(y) = <D_COORD_Y>
 좌표(z) = <D_COORD_Z>
-색상(빨강) = <D_COLOR_R>
-색상(초록) = <D_COLOR_G>
-색상(파랑) = <D_COLOR_B>
-색상(α) = <D_COLOR_A>
+색상값(빨강) = <D_COLOR_R>
+색상값(초록) = <D_COLOR_G>
+색상값(파랑) = <D_COLOR_B>
+색상값(α) = <D_COLOR_A>
 확대율(x) = <D_ZOOM_X>
 확대율(y) = <D_ZOOM_Y>
 확대율(z) = <D_ZOOM_Z>
@@ -90,19 +90,19 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 하늘
 [ENDBLOCK]
-<grey1>하늘(존재하지 않음)</color>
+<grey1>하늘（없음）</color>
 [ENDBLOCK]
 외각
 [ENDBLOCK]
-<grey1>외각(존재하지 않음)</color>
+<grey1>외각（없음）</color>
 [ENDBLOCK]
 구름1
 [ENDBLOCK]
-<grey1>구름1(존재하지 않음)</color>
+<grey1>구름1（없음）</color>
 [ENDBLOCK]
 구름2
 [ENDBLOCK]
-<grey1>구름2(존재하지 않음)</color>
+<grey1>구름2（없음）</color>
 [ENDBLOCK]
 오브젝트 선택
 [ENDBLOCK]
@@ -115,10 +115,10 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 <TAG_070>(<TAG_071>, <TAG_072> x <TAG_074> + <TAG_033>)
 
 [ENDBLOCK]
-스테이터스 선택
+상태 선택
 [ENDBLOCK]
 좌표
-색상
+색상값
 확대율
 각도
 
@@ -136,223 +136,223 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 잘못된 오브젝트
 [ENDBLOCK]
-과거의 좌표(x)→<TAG_078>
+이전 좌표(x)→<TAG_078>
 
 [ENDBLOCK]
-현재의 좌표(x)→<TAG_078>
+현재 좌표(x)→<TAG_078>
 
 [ENDBLOCK]
-과거의 좌표(x)→<TAG_078>
+이전 좌표(x)→<TAG_078>
 
 [ENDBLOCK]
-현재의 좌표(x)→<TAG_078>
+현재 좌표(x)→<TAG_078>
 
 [ENDBLOCK]
-과거의 좌표(z)→<TAG_080>
+이전 좌표(z)→<TAG_080>
 
 [ENDBLOCK]
-현재의 좌표(z)→<TAG_080>
+현재 좌표(z)→<TAG_080>
 
 [ENDBLOCK]
-과거의 좌표(z)→<TAG_080>
+이전 좌표(z)→<TAG_080>
 
 [ENDBLOCK]
-현재의 좌표(z)→<TAG_080>
+현재 좌표(z)→<TAG_080>
 
 [ENDBLOCK]
-과거의 좌표(y)→<TAG_079>
+이전 좌표(y)→<TAG_079>
 
 [ENDBLOCK]
-현재의 좌표(y)→<TAG_079>
+현재 좌표(y)→<TAG_079>
 
 [ENDBLOCK]
-과거의 좌표(y)→<TAG_079>
+이전 좌표(y)→<TAG_079>
 
 [ENDBLOCK]
-현재의 좌표(y)→<TAG_079>
+현재 좌표(y)→<TAG_079>
 
 [ENDBLOCK]
 <TAG_054>의 좌표
 [ENDBLOCK]
-번호（<TAG_033>）, 인물 번호（<TAG_034>）
+번호（<TAG_033>）、인물 번호（<TAG_034>）
 좌표(x) = <TAG_078>
 좌표(y) = <TAG_079>
 좌표(z) = <TAG_080>
-가산 = <TAG_051>
+가산값 = <TAG_051>
 
 [ENDBLOCK]
-번호（<TAG_033>）: 좌표(x) = <TAG_078>
+번호（<TAG_033>）：좌표(x) = <TAG_078>
 좌표(y) = <TAG_079>
 좌표(z) = <TAG_080>
 
 [ENDBLOCK]
-가산 변경→<TAG_050>
+가산값 변경→<TAG_050>
 
 [ENDBLOCK]
-가산 변경→<TAG_050>
+가산값 변경→<TAG_050>
 
 [ENDBLOCK]
-과거의 색상(빨강)→<TAG_036>
+이전 색상값(빨강)→<TAG_036>
 
 [ENDBLOCK]
-현재의 색상(빨강)→<TAG_036>
+현재 색상값(빨강)→<TAG_036>
 
 [ENDBLOCK]
-과거의 색상(빨강)→<TAG_036>
+이전 색상값(빨강)→<TAG_036>
 
 [ENDBLOCK]
-현재의 색상(빨강)→<TAG_036>
+현재 색상값(빨강)→<TAG_036>
 
 [ENDBLOCK]
-과거의 색상(초록)→<TAG_037>
+이전 색상값(초록)→<TAG_037>
 
 [ENDBLOCK]
-현재의 색상(초록)→<TAG_037>
+현재 색상값(초록)→<TAG_037>
 
 [ENDBLOCK]
-과거의 색상(초록)→<TAG_037>
+이전 색상값(초록)→<TAG_037>
 
 [ENDBLOCK]
-현재의 색상(초록)→<TAG_037>
+현재 색상값(초록)→<TAG_037>
 
 [ENDBLOCK]
-과거의 색상(파랑)→<TAG_038>
+이전 색상값(파랑)→<TAG_038>
 
 [ENDBLOCK]
-현재의 색상(파랑)→<TAG_038>
+현재 색상값(파랑)→<TAG_038>
 
 [ENDBLOCK]
-과거의 색상(파랑)→<TAG_038>
+이전 색상값(파랑)→<TAG_038>
 
 [ENDBLOCK]
-현재의 색상(파랑)→<TAG_038>
+현재 색상값(파랑)→<TAG_038>
 
 [ENDBLOCK]
-과거의 색상(α)→<TAG_039>
+이전 색상값(α)→<TAG_039>
 
 [ENDBLOCK]
-현재의 색상(α)→<TAG_039>
+현재 색상값(α)→<TAG_039>
 
 [ENDBLOCK]
-과거의 색상(α)→<TAG_039>
+이전 색상값(α)→<TAG_039>
 
 [ENDBLOCK]
-현재의 색상(α)→<TAG_039>
+현재 색상값(α)→<TAG_039>
 
 [ENDBLOCK]
-<TAG_054>의 색상
+<TAG_054>의 색상값
 [ENDBLOCK]
-※128이 표준 색상입니다
-번호（<TAG_033>）, 인물 번호（<TAG_034>）
-색상(빨강) = <TAG_036>
-색상(초록) = <TAG_037>
-색상(파랑) = <TAG_038>
-색상(α) = <TAG_039>
+※128이 기본 색상값입니다
+번호（<TAG_033>）、인물 번호（<TAG_034>）
+색상값(빨강) = <TAG_036>
+색상값(초록) = <TAG_037>
+색상값(파랑) = <TAG_038>
+색상값(α) = <TAG_039>
 
 [ENDBLOCK]
-번호（<TAG_033>）, 인물 번호（<TAG_034>）
-색상(빨강) = <TAG_036>
-색상(초록) = <TAG_037>
-색상(파랑) = <TAG_038>
-색상(α) = <TAG_039>
+번호（<TAG_033>）、인물 번호（<TAG_034>）
+색상값(빨강) = <TAG_036>
+색상값(초록) = <TAG_037>
+색상값(파랑) = <TAG_038>
+색상값(α) = <TAG_039>
 
 [ENDBLOCK]
-과거의 확대율(x)→<TAG_040>
+이전 확대율(x)→<TAG_040>
 
 [ENDBLOCK]
-현재의 확대율(x)→<TAG_040>
+현재 확대율(x)→<TAG_040>
 
 [ENDBLOCK]
-과거의 확대율(x)→<TAG_040>
+이전 확대율(x)→<TAG_040>
 
 [ENDBLOCK]
-현재의 확대율(x)→<TAG_040>
+현재 확대율(x)→<TAG_040>
 
 [ENDBLOCK]
-과거의 확대율(y)→<TAG_041>
+이전 확대율(y)→<TAG_041>
 
 [ENDBLOCK]
-현재의 확대율(y)→<TAG_041>
+현재 확대율(y)→<TAG_041>
 
 [ENDBLOCK]
-과거의 확대율(y)→<TAG_041>
+이전 확대율(y)→<TAG_041>
 
 [ENDBLOCK]
-현재의 확대율(y)→<TAG_041>
+현재 확대율(y)→<TAG_041>
 
 [ENDBLOCK]
-과거의 확대율(z)→<TAG_042>
+이전 확대율(z)→<TAG_042>
 
 [ENDBLOCK]
-현재의 확대율(z)→<TAG_042>
+현재 확대율(z)→<TAG_042>
 
 [ENDBLOCK]
-과거의 확대율(z)→<TAG_042>
+이전 확대율(z)→<TAG_042>
 
 [ENDBLOCK]
-현재의 확대율(z)→<TAG_042>
+현재 확대율(z)→<TAG_042>
 
 [ENDBLOCK]
-과거의 확대율(a)→<TAG_043>
+이전 확대율(a)→<TAG_043>
 
 [ENDBLOCK]
-현재의 확대율(a)→<TAG_043>
+현재 확대율(a)→<TAG_043>
 
 [ENDBLOCK]
-과거의 확대율(a)→<TAG_043>
+이전 확대율(a)→<TAG_043>
 
 [ENDBLOCK]
-현재의 확대율(a)→<TAG_043>
+현재 확대율(a)→<TAG_043>
 
 [ENDBLOCK]
 <TAG_054>의 확대율
 [ENDBLOCK]
-※4096이 표준 크기입니다
-번호（<TAG_033>）, 인물 번호（<TAG_034>）
+※4096이 기본 크기입니다
+번호（<TAG_033>）、인물 번호（<TAG_034>）
 확대율(x) = <TAG_040>
 확대율(y) = <TAG_041>
 확대율(z) = <TAG_042>
 확대율(a) = <TAG_043>
 
 [ENDBLOCK]
-번호(<TAG_033>), 인물 번호(<TAG_034>)
+번호（<TAG_033>）、인물 번호（<TAG_034>）
 확대율(x) = <TAG_040>
 확대율(y) = <TAG_041>
 확대율(z) = <TAG_042>
 확대율(a) = <TAG_043>
 
 [ENDBLOCK]
-과거의 각도(x)→<TAG_044>
+이전 각도(x)→<TAG_044>
 
 [ENDBLOCK]
-현재의 각도(x)→<TAG_044>
+현재 각도(x)→<TAG_044>
 
 [ENDBLOCK]
-과거의 각도(x)→<TAG_044>
+이전 각도(x)→<TAG_044>
 
 [ENDBLOCK]
-현재의 각도(x)→<TAG_044>
+현재 각도(x)→<TAG_044>
 
 [ENDBLOCK]
-과거의 각도(y)→<TAG_045>
+이전 각도(y)→<TAG_045>
 
 [ENDBLOCK]
-현재의 각도(y)→<TAG_045>
+현재 각도(y)→<TAG_045>
 
 [ENDBLOCK]
-과거의 각도(y)→<TAG_045>
+이전 각도(y)→<TAG_045>
 
 [ENDBLOCK]
-현재의 각도(y)→<TAG_045>
+현재 각도(y)→<TAG_045>
 
 [ENDBLOCK]
-과거의 각도(z)→<TAG_046>
+이전 각도(z)→<TAG_046>
 
 [ENDBLOCK]
 현재 각도(z)→<TAG_046>
 
 [ENDBLOCK]
-과거의 각도(z)→<TAG_046>
+이전 각도(z)→<TAG_046>
 
 [ENDBLOCK]
 현재 각도(z)→<TAG_046>
@@ -367,7 +367,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 각도(z) = <TAG_046>
 
 [ENDBLOCK]
-번호(<TAG_033>), 인물번호(<TAG_034>)
+번호（<TAG_033>）、인물 번호（<TAG_034>）
 각도(x) = <TAG_044>
 각도(y) = <TAG_045>
 각도(z) = <TAG_046>
@@ -375,20 +375,21 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-저기, 형아?
+저기, 형?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-나를 말하는 거야?
+나 말이냐?
 [ENDBLOCK]
 select
 [ENDBLOCK]
 <TAG_007>무슨 일이지?
-애들한테 볼일 없어
+아이한테는 볼일 없다
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-형아는 음식을 가리지 않을 것 같아.
+형은 음식
+안 가릴 것 같네.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -400,31 +401,31 @@ select
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-그렇게 말하지 말고 들어봐.
+그렇게 말하지 말고 들어 봐.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-어제 내가 싫어하는 야채를 남겼더니
-어머니께서 화를 내셨어.
+어제 싫어하는 채소를
+남겼더니 엄마가 화냈어.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-「그러다가는
-크게 못 자랄 거예요」라고.
+「그러면
+크게 못 자라요」라고.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-그래서 형아한테
+그래서 형한테
 물어보고 싶은 게 있는데.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-형아는 싫어하는 음식이 있어?
+형은 싫어하는 음식 있어?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-특별히 가리는 건 없지만……
-단 것은 싫어해……
+딱히 가리는 건 없지만……
+단 건 싫어……
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
@@ -432,80 +433,80 @@ select
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-왜 의심하는 거야?
+왜 의심하지?
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-그치만 형아가 아이스캔디 가게를
-힐끔힐끔 쳐다보고 있던걸.
+형은 자꾸
+아이스캔디 가게를 봤잖아.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-싫어하는 게 눈에 띄었을 뿐이야!
+싫어하는 게 눈에 띄었을 뿐이다!
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-흐음, 그렇다면 단 것을
-먹으면 크게 자랄 수 있다는 거네.
+흐음, 그럼 단 걸
+먹으면 키가 큰다는 거네.
 [ENDBLOCK]
 <x17><x24><x0B><x14><x2F><x80>, <x17><x28><x44><x02><x14><x2F><x80>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그러고 보니 결국, 우리도 <Lion>도,
-아이스캔디를 먹지 못했었지.
+그러고 보니 결국 우리도 <Lion>도
+아이스캔디를 못 먹었네.
 [ENDBLOCK]
-아이스캔디 가게
+아이스캔디점 주인
 [ENDBLOCK]
 어서 오세요.
-어떤 걸로 하시겠어요?
+뭘로 드릴까요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아, 아니 저는
-특별히 먹고 싶은 건 아니……
+아, 아뇨. 전 딱히
+먹고 싶은 건……
 [ENDBLOCK]
-아이스캔디 가게
+아이스캔디점 주인
 [ENDBLOCK]
-어라? 지금 그 대사 어디서
-들은 것 같은데?
+어라?	방금 그 말은 어디서
+들어 본 것 같은데?
 [ENDBLOCK]
-아이스캔디 가게
+아이스캔디점 주인
 [ENDBLOCK]
-아, 기억났다! 마을이 몬스터에
+아, 생각났다!	마을이 몬스터에게
 습격당하기 직전에 왔던 손님이야.
 [ENDBLOCK]
-아이스캔디 가게
+아이스캔디점 주인
 [ENDBLOCK]
-좀 작은 체구였지만,
-예쁜 얼굴을 한 남자애였어.
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-…………..?
-[ENDBLOCK]
-아이스캔디 가게
-[ENDBLOCK]
-먹고 싶지 않다고 하면서,
-아이스캔디를 뚫어지게 쳐다보더라고.
+키는 좀 작았지만
+얼굴이 잘생긴 남자애였지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그게……!
+…………？
 [ENDBLOCK]
-아이스캔디 가게
+아이스캔디점 주인
 [ENDBLOCK]
-남자들 중에는 단 것을 좋아하는 걸
+먹고 싶진 않다면서
+아이스캔디를 빤히 보더라고.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+그거……!
+[ENDBLOCK]
+아이스캔디점 주인
+[ENDBLOCK]
+남자 중에는 단 걸 좋아하면
 멋없다고 생각하는 사람도 있으니까.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 네, 그런 걸
-신경 쓰는 녀석이었던 것 같습니다.
+신경 쓰는 녀석이었던 것 같아요.
 [ENDBLOCK]
-아이스캔디 가게
+아이스캔디점 주인
 [ENDBLOCK]
-…………..?
+…………？
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
@@ -513,23 +514,23 @@ select
 reset---------
 
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-누군가…… 멋진 몸매를 가지고 있고,
-상의를 벗은 녀석은 없을까……
+누구…… 멋진 몸에
+윗옷을 안 입은 사람 없을까……
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-오, 당신밖에 없군요!
+오, 당신밖에 없어요!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-응? 나한테 볼일이라도?
+응?	이 몸한테 볼일 있어?
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-갑작스럽지만,
-당신의 그 몸매에 반했어요.
+갑작스럽지만
+당신의 그 몸매에 반했습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -537,38 +538,38 @@ reset---------
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-사람마다 취향이 다르죠…… 네.
-다행이네요, <Kongman> 씨……
+취향은 사람마다 다르죠……
+잘됐네요, <Kongman> 씨……
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia> 씨까지,
-너무하잖아요.
+<Philia> 씨까지
+너무하시네요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-이봐, 나한테 그런 마음 없어!
+이봐, 이 몸은 그럴 마음 없어!
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-아, 아닙니다.
-오해하지 말아주세요.
+아, 그게 아닙니다.
+오해하지 마세요.
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-저는 무대 감독을 하고 있는 사람입니다.
+전 무대 연출가입니다.
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-사실, 배우가 아파서
+사실 배우가 병에 걸려서
 대역을 찾고 있었어요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-그렇다는 건…… <Kongman> 씨를
-그 대역으로?
+그럼…… <Kongman> 씨를
+그 대역으로요?
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
 네, 맞습니다.
 [ENDBLOCK]
@@ -579,114 +580,114 @@ reset---------
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-농담하지 마. 난 챔피언이라고.
-대역 같은 건 안 해!
+웃기지 마. 이 몸은 챔피언이야.
+대역 따윈 안 해!
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-그러지 마세요. 제 무대 감독으로서의
-앞날이 걸려있어요.
-[ENDBLOCK]
-<Philia>
-[ENDBLOCK]
-<Kongman> 씨, 대단하잖아요.
-저, 연극 좋아해요.
-[ENDBLOCK]
-<Kongman>
-[ENDBLOCK]
-뭐, 뭐, <Philia> 씨가
-내 연기를 보고 싶다고 한다면……
+그럴 수가. 무대 연출가로서
+제 앞날이 걸려 있어요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-아, 아니요, 그 정도까지는……
-[ENDBLOCK]
-신인 감독
-[ENDBLOCK]
-정말인가요!
-감사합니다.
-[ENDBLOCK]
-신인 감독
-[ENDBLOCK]
-그럼, 바로 가시죠!
+<Kongman> 씨, 대단하네요.
+전 연극을 좋아해요.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-뭐, 지금 하는 거야!?
+뭐, 뭐, <Philia> 씨께서
+이 몸이 연기하는 모습을 보고 싶으시다면……
 [ENDBLOCK]
-신인 감독
+<Philia>
 [ENDBLOCK]
-네! 공연장에는 이미
-관객들이 들어와 있거든요!
+아, 아뇨, 그렇게까지는……
+[ENDBLOCK]
+신인 연출가
+[ENDBLOCK]
+정말요!
+고맙습니다.
+[ENDBLOCK]
+신인 연출가
+[ENDBLOCK]
+그럼 바로 가시죠!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-……진짜…… 냐.
+뭐야, 지금 하자고!?
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-괜찮아요, 대사는 없습니다.
-제 지시대로만 연기해 주세요.
+그럼요!	벌써 관객들이
+들어와 있거든요!
 [ENDBLOCK]
-신인 감독
+<Kongman>
 [ENDBLOCK]
-자, 이제 곧 무대가 시작됩니다.
+……진짜……냐.
+[ENDBLOCK]
+신인 연출가
+[ENDBLOCK]
+괜찮아요. 대사는 없습니다.
+제 지시대로 연기해 주세요.
+[ENDBLOCK]
+신인 연출가
+[ENDBLOCK]
+자, 곧 공연이 시작됩니다.
 서두르죠.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-신인 감독의 지시에 따라
+신인 연출가의 지시에 따라
 연기해 주세요.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-신인 감독의 지시가 나온 후,
-시계 초침 소리가 울리는 동안
-올바른 연기 버튼을 누르면 성공입니다.
+신인 연출가의 지시가 나온 뒤
+시계가 똑딱거리는 동안
+맞는 연기 버튼을 누르면 성공입니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-연기는 다음과 같습니다.
+연기 동작은 다음과 같습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-	<Circle_ani>	양 주먹을 치켜든다
+	<Circle_ani>	두 주먹을 치켜든다
 	<Cross_ani>	크게 웃는다
-	<Triangle_ani>	멋진 포즈를 취한다
-	<Square_ani>	엉엉 운다
+	<Triangle_ani>	멋 부리는 포즈를 취한다
+	<Square_ani>	펑펑 운다
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 이상입니다.
-다시 한 번 설명을 보시겠습니까?
+설명을 다시 보시겠습니까?
 [ENDBLOCK]
 select
 [ENDBLOCK]
-네
+예
 아니요
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-저기를 나가면
-바로 무대가 됩니다.
+거기서 나가면
+바로 무대입니다.
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-저는 여기서 지시를 내리겠습니다.
+전 여기서 지시할게요.
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-그 지시에 따라 연기해 주세요.
-알겠죠?
+지시에 따라 연기해 주세요.
+아시겠죠?
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-뭘요, 괜찮아요.
-당신이라면 반드시 할 수 있어요.
+괜찮을 거예요.
+당신이라면 분명 할 수 있어요.
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-자, 출연할 차례예요!
+자, 나갈 차례입니다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -705,41 +706,41 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 공주 역
 [ENDBLOCK]
-아아, 백마 탄 왕자님.
-언제 나를 구해주실까?
+아, 백마 탄 왕자님.
+언제 저를 구하러 오실까요?
 [ENDBLOCK]
 공주 역
 [ENDBLOCK]
 어머, 당신은?
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-자, 그녀에게 구애하세요.
-[ENDBLOCK]
-공주 역
-[ENDBLOCK]
-당신이 나를 구해주실
-백마 탄 왕자님이신가요?
-[ENDBLOCK]
-신인 감독
-[ENDBLOCK]
-강한 남자임을 어필하세요!
+자, 그녀에게 구애하는 거야.
 [ENDBLOCK]
 공주 역
 [ENDBLOCK]
-아아! 정말 든든해요!
+당신이 저를 구해 주실
+백마 탄 왕자님이시군요?
+[ENDBLOCK]
+신인 연출가
+[ENDBLOCK]
+강한 남자라는 걸 보여 줘!
 [ENDBLOCK]
 공주 역
 [ENDBLOCK]
-자, 저를 데리고 나가주세요.
+아!	정말 듬직하셔라!
 [ENDBLOCK]
-신인 감독
+공주 역
 [ENDBLOCK]
-자, 다시 한 번. 멋있게 보이세요.
+자, 저를 데리고 나가 주세요.
+[ENDBLOCK]
+신인 연출가
+[ENDBLOCK]
+자, 다시 한번. 멋을 부리는 거야.
 [ENDBLOCK]
 남자 역
 [ENDBLOCK]
-네놈, 공주에게 손대지 마라!
+네놈, 공주님께 손대지 마라!
 [ENDBLOCK]
 공주 역
 [ENDBLOCK]
@@ -747,27 +748,27 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 남자 역
 [ENDBLOCK]
-저는 공주님을 진심으로 사모하는 자입니다.
-하지만 제 아버지는 초라한 농민……
+전 공주님을 진심으로 사모하는 자.
+하지만 아버지는 한낱 농민……
 [ENDBLOCK]
 남자 역
 [ENDBLOCK]
-머리로는 신분의 차이를 알고 있지만,
-이 마음이 공주님을 포기하게 하지 않습니다.
+머리로는 신분의 차이를 알아도
+이 마음은 공주님을 포기하지 못합니다.
 [ENDBLOCK]
 공주 역
 [ENDBLOCK]
-어머, 저를 그토록 사랑해 주시는 건가요?
+어머, 저를 그토록 사랑하시나요?
 [ENDBLOCK]
 공주 역
 [ENDBLOCK]
-신분을 초월한 관계.
-그것이야말로 제가 동경하던 순애!
+신분을 뛰어넘은 사랑.
+그것이야말로 제가 꿈꾸던 순애!
 [ENDBLOCK]
 공주 역
 [ENDBLOCK]
-제 몸과 마음,
-모두 구해주세요.
+제 몸과 마음
+모두를 구해 주세요.
 [ENDBLOCK]
 남자 역
 [ENDBLOCK]
@@ -778,435 +779,434 @@ ret <x17><x66><x14><x03><xE8><x80><x80>
 [ENDBLOCK]
 ……네.
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-이제 무슨 말인지 모르겠다! 하는 웃음이에요!
+이젠 뭐가 뭔지 모르겠다!	그런 웃음이야!
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-하지만 상황을 이해하게 되어
-울음이 나와버려요!
+하지만 상황이 이해되면서
+울어 버리는 거야!
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-와, 정말 훌륭했어요.
+이야, 멋졌어요.
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-당신이라면 톱스타도 꿈이 아니에요.
+당신이라면 최고 스타도 꿈이 아니에요.
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
 뭐, 첫 무대니까요.
 충분해요.
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-꼭 다시 참여해 주세요.
+꼭 다시 참가해 주세요.
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-다시 한 번
+한 번 더
 무대에 도전하시겠습니까?
-네
+예
 아니요
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-그럼, 다시 한 번 설명해 드릴게요.
+그럼 다시 설명해 드릴게요.
 [ENDBLOCK]
-신인 감독
+신인 연출가
 [ENDBLOCK]
-언제든 기다리고 있을게요.
+언제든 기다릴게요.
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-노이슈타트 명물,
-아이스캔디 어떠세요?
+노이슈타트 명물
+아이스캔디는 어떠세요?
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-얼마 전 습격으로
-가게가 큰 피해를 입었어요.
+지난번 습격으로
+가게 피해가 컸어요.
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-하지만 이런 일로 마을의 명물을
-잃을 순 없죠.
+그래도 이런 일로 마을 명물을
+잃을 순 없으니까요.
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
 어서 오세요.
-시원하고 맛있어요.
+차갑고 맛있어요.
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-최근에 매출이 좋지 않아서……
+요즘 매상이 좋지 않아서……
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-이제 아이스캔디 같은 걸
-팔 때가 아닌 걸까……
+이젠 아이스캔디 따위를
+팔고 있을 때가 아닌가……
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-결국 장사를 그만두지 못했어요.
-앞으로도 잘 부탁드려요!
+결국 장사를 그만둘 수 없었어요.
+앞으로도 잘 부탁해요!
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-노이슈타트 명물,
-아이스캔디 어떠세요?
-[ENDBLOCK]
-여행자
-[ENDBLOCK]
-투기장에서 전 재산을 다 날렸어.
-덕분에 밥값도 없는 신세가 됐지.
+노이슈타트 명물
+아이스캔디는 어떠세요?
 [ENDBLOCK]
 여행자
 [ENDBLOCK]
-먹을 걸 공짜로 구해야겠어.
-……오, 낚였나?
+투기장에서 가진 돈을 다 잃었어.
+덕분에 밥값도 없을 지경이야.
 [ENDBLOCK]
 여행자
 [ENDBLOCK]
-……낚였다고 생각했는데 착각인가.
+먹을 건 공짜로 구해야지.
+……오, 입질인가?
 [ENDBLOCK]
 여행자
 [ENDBLOCK]
-아, 여기가 빨리 복구돼서
-다행이야.
+……입질인 줄 알았는데 기분 탓인가.
+[ENDBLOCK]
+여행자
+[ENDBLOCK]
+이야, 여기가 금방 복구돼서
+살았어.
 [ENDBLOCK]
 여행자
 [ENDBLOCK]
 항구에서 낚시라도 하면
-어부들한테 눈총 받으니까.
+어부들이 눈치를 주거든.
 [ENDBLOCK]
 여행자
 [ENDBLOCK]
-너희들, 어디서 방송 들었어?
+너희는 어디서 방송을 들었어?
 정말 놀랐지.
 [ENDBLOCK]
 여행자
 [ENDBLOCK]
-언제 몬스터가 습격해 올지
-모르니까. 낚시도 목숨 걸어야 해.
+언제 몬스터가 덮칠지
+모르니 낚시도 목숨 걸어야 해.
 [ENDBLOCK]
 여행자
 [ENDBLOCK]
-너희들, 렌즈를 모으고 있다고?
-뭐에 쓰려고 그러는 거야?
+너희, 렌즈를 모은다며?
+어디에 쓸 건데?
 [ENDBLOCK]
-남성
+남자
 [ENDBLOCK]
-하층 마을에 정말 멋진 여성이 있어.
-어떻게든 가까워질 수 없을까……
+서민가에 정말 멋진 여자가 있어.
+어떻게 친해질 수 없을까……
 [ENDBLOCK]
-남성
+남자
 [ENDBLOCK]
-하층 마을의 그 사람이 이번 소동으로
-다치지 않았으면 좋겠는데……
+서민가의 그 사람이 이번 소동으로
+다치지 않았어야 할 텐데……
 [ENDBLOCK]
-남성
+남자
 [ENDBLOCK]
-얼마 전에 여동생이랑 같이 있는 걸
-하층 마을의 그 사람에게 들켜버렸어.
+얼마 전 여동생과 같이 있는 걸
+서민가의 그 사람한테 들켰어.
 [ENDBLOCK]
-남성
+남자
 [ENDBLOCK]
 오해하지 않았으면 좋겠는데……
 [ENDBLOCK]
-남성
+남자
 [ENDBLOCK]
 그 사람은 지금 어떤 기분일까.
-상황을 보러 가고 싶지만…… 음……
+보러 가고 싶지만…… 으음.
 [ENDBLOCK]
-남성
+남자
 [ENDBLOCK]
-나 같은 사람이 하층 마을에 가면
-무사하지 못할 거라고 들었고……
+나 같은 사람이 서민가에 가면
+무사하지 못하다고 하니……
 [ENDBLOCK]
-남성
+남자
 [ENDBLOCK]
-음…… 어떡하지……
-[ENDBLOCK]
-여자
-[ENDBLOCK]
-투기장 같은 건 없애버리면 좋겠어.
-불량한 사람들이 모여서 곤란해.
+으음…… 어떡하지……
 [ENDBLOCK]
 여자
 [ENDBLOCK]
-가장 큰 피해를 입은 곳은
+투기장 같은 건 없애면 좋겠어.
+질 나쁜 녀석들이 모여들잖아.
+[ENDBLOCK]
+여자
+[ENDBLOCK]
+피해가 가장 컸던 곳은
 이 광장이었어요.
 
-
 [ENDBLOCK]
 여자
 [ENDBLOCK]
-하지만 반대로 피해가 집중되었던 만큼,
-빨리 복구할 수 있었던 것은 불행 중 다행이었습니다.
+그래도 피해가 몰린 덕분에
+빨리 복구한 건 불행 중 다행이었죠.
 [ENDBLOCK]
 여자
 [ENDBLOCK]
-<Ilene> 님은 하층민들에게 너무 관대하십니다.
-한 마디 의견을 드리고 싶습니다.
+<Ilene> 님은 서민가 사람들에게 너무 무르세요.
+한마디 말씀드리고 싶네요.
 [ENDBLOCK]
 여자
 [ENDBLOCK]
-노이슈타트만 무사하다면,
-다른 건 이 기회에 어찌 되든 상관없어요.
+노이슈타트만 무사하면
+다른 곳이야 지금은 아무래도 좋아요.
 [ENDBLOCK]
 여자
 [ENDBLOCK]
-역시 좋지 않은 상황이네요……
+아무래도 상황이 좋지 않네요……
 [ENDBLOCK]
 여자
 [ENDBLOCK]
-렌즈만으로 충분한가요?
-군자금도 제공해 드리겠어요.
+렌즈만 있으면 되나요?
+군자금도 대드릴게요.
 [ENDBLOCK]
 여자
 [ENDBLOCK]
-그러니 제발, 제발!
-저희를 도와주세요.
+그러니 부디, 제발!
+우리를 구해 주세요.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-보고 있어도 안 줄 거야.
+구경해도 안 줄 거야.
 저리 가.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-아이스캔디를 먹을 수 있는 곳이
+아이스캔디 먹을 곳이
 돌아와서 안심했어.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-그 소동 때문에 먹지 못했으니까,
+그 소동 때문에 못 먹어서
 아이스캔디를 다시 샀어.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-최근에 이 근처를 돌아다니는
-하층민 애들이 늘었어.
+요즘 이 근처를 어슬렁거리는
+서민가 꼬마들이 늘었네.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
 노이슈타트에만은
-번개가 떨어지지 않았으면 좋겠어.
+번개를 안 떨어뜨렸으면 좋겠어.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
 아빠한테 부탁해서 어디 밝은 곳으로
-이사 가고 싶어.
+이사 가고 싶다.
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-아빠가 앞으로는 하층민들과도
-사이좋게 지내라고 하셨어. 왜일까?
+아빠가 이제는 서민가 녀석들과도
+사이좋게 지내래. 왜 그럴까?
 [ENDBLOCK]
 가난한 여자아이
 [ENDBLOCK]
-……
+…………
 [ENDBLOCK]
 가난한 여자아이
 [ENDBLOCK]
-그 언니,
-다친 거 괜찮을까……
+그 언니는
+다친 데 괜찮을까……
 [ENDBLOCK]
 가난한 여자아이
 [ENDBLOCK]
-그 언니,
-사라졌대……
+그 언니가
+사라져 버렸대……
 [ENDBLOCK]
 가난한 여자아이
 [ENDBLOCK]
-나도 새로운 세계에 가고 싶어.
-분명 행복해질 수 있을 것 같아.
+나도 새 세상에 가고 싶어.
+분명 행복해질 수 있을 테니까.
 [ENDBLOCK]
 가난한 여자아이
 [ENDBLOCK]
-저 하늘 천장 위는
-어떻게 되어 있을까……
+저 하늘의 천장 위는
+어떻게 돼 있을까……
 [ENDBLOCK]
 가난한 여자아이
 [ENDBLOCK]
 나도 렌즈를 모았어.
-도움이 되면 좋겠어.
+도움이 되면 좋겠다.
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-한 개에 60가르드입니다.
+하나에 ６０가르드입니다.
 
 [ENDBLOCK]
 select
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>현재 소지 가르드:<TAG_031>가르드
 [ENDBLOCK]
-<TAG_007>구매한다
+<TAG_007>산다
 필요 없다
-당첨봉을 교환한다
+당첨 막대를 교환한다
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-감사합니다.
+감사합니다~
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-더 이상 <ITEM_006>을
+더 이상 <ITEM_006>을(를)
 가질 수 없는 것 같네요.
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
 돈이 부족한 것 같네요.
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-당첨봉을 가지고 계시네요.
-<ITEM_006>과 교환해 드리겠습니다.
+당첨 막대를 갖고 계시군요.
+<ITEM_006>와(과) 교환해 드릴게요.
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-앞으로도 잘 부탁드립니다.
+앞으로도 잘 부탁해요.
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-더 이상 <ITEM_006>을
+더 이상 <ITEM_006>을(를)
 가질 수 없는 것 같네요.
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-<ITEM_070>을
-가지고 오시면 교환해 드리겠습니다.
+<ITEM_070>을(를)
+가져오시면 교환해 드릴게요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-여기가 <Mary> 씨가 말했던
+여기가 <Mary> 씨가 말한
 아이스캔디 가게군요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-저기요, 다섯 개 주세요.
+실례합니다~ 다섯 개 주세요.
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-어떤 맛으로 하시겠습니까?
+어떤 맛으로 드릴까요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-헤에, 여러 종류가 있구나.
+오, 종류가 다양하네.
 어디 보자.
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-음, 어떻게 하지.
+으음, 어떡하지.
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-기본 말차 맛이나 한정 벚꽃 맛이냐.
-어느 쪽으로 할지 고민되네.
+늘 먹던 말차 맛이냐, 한정 벚꽃 맛이냐.
+뭘 골라야 할지 고민되네.
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-있잖아, 너라면 어떻게 할래?
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-어, 제가요?
+저기, 당신이라면 뭘 고를래?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그렇군…… 과감하게 바닐라는 어때요?
-[ENDBLOCK]
-????
-[ENDBLOCK]
-왜 그렇게 되는 거야? 내가 물어본 건
-말차랑 벚꽃 중에 어느 쪽이냐고?
+네? 저요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-둘 중 하나로 결정할 수 없다면
-제3의 답을 내는 거죠…… 안 되나요?
+글쎄요…… 과감하게 바닐라라든가.
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-그렇군,
-그런 생각도 있구나……
+어떻게 그렇게 돼?	내가 물은 건
+말차랑 벚꽃 중에 어느 쪽이냐는 건데?
 [ENDBLOCK]
-????
+<Stahn>
 [ENDBLOCK]
-그럼 그렇게 하죠.
+둘 중 하나를 못 고르겠으면
+제삼의 답을 찾자는…… 안 될까요?
+[ENDBLOCK]
+？？？？
+[ENDBLOCK]
+그렇구나.
+그런 생각도 있네……
+[ENDBLOCK]
+？？？？
+[ENDBLOCK]
+그럼 그렇게 할게.
 아저씨, 바닐라 하나요!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 아, 저도요. 바닐라 다섯 개요!
 [ENDBLOCK]
-바닐라 다섯 개, 여기 있습니다.
+바닐라 다섯 개, 기다리셨습니다.
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-음~ 맛있어. 역시
-이곳의 바닐라는 최고야.
+으음, 맛있어. 역시
+여기 바닐라가 최고야.
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-여기서 한 번이라도 먹어보면
-다른 가게에선 만족할 수 없을 거야.
+여기서 한 번이라도 먹으면
+다른 가게 건 성에 안 찰 거야.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Stahn> 씨, 제가 들어드릴까요?
+<Stahn> 씨, 제가 들어 드릴까요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아니, 괜찮아.
+아냐, 괜찮아.
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-어머, 일행이 있었군요.
-귀여운 분들이 두 분이나.
+어머, 일행이 있었구나.
+귀여운 분이 두 분이나.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-과찬의 말씀 감사합니다.
+칭찬해 주셔서 참 고맙네요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-어머……? 저 아이들……
+어머……?	저 아이들……
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-뭐야? 모두들 먹고 싶은 거야?
+왜?	너희도 먹고 싶어?
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-아저씨, 여기 있는 아이들 몫도
-주세요. 전부요.
+아저씨, 여기 있는 아이들 것도
+주세요. 전부 다요.
 [ENDBLOCK]
-괜찮으시겠습니까, 아가씨.
+괜찮으시겠어요, 아가씨?
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-물론이죠. 다 같이 먹는 게
-더 맛있을 테니까요.
+물론이죠. 다 같이 먹어야
+더 맛있는 게 당연하잖아요.
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-얘들아, 이리 오렴.
+다들 이리 와.
 아이스캔디 사 줄게.
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-자, 자, 밀지 마. 
-모두의 몫이 있으니까.
+자, 밀지 마.
+모두 먹을 만큼 있으니까.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-좋은 분이시네요.
+좋은 분이네요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1214,88 +1214,88 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-흠, 글쎄요.
+흥, 글쎄.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 부잣집 아가씨가
-우월감에 빠지고 싶은 거 아냐?
+우월감에 젖고 싶은 것뿐 아냐?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>……?
+<Rutee>……？
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-빨리 돌아가요.
-아이스캔디가 녹으니까.
+어서 돌아가자.
+아이스캔디 녹겠어.
 [ENDBLOCK]
-측근 남자
+추종자
 [ENDBLOCK]
-챔피언님이 지나가십니다!
-모두 주목!
+챔피언님 나가신다!
+전원 주목!
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-아, <Kongman>이다!
+앗, <Kongman>이다!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Kongman>……?
+<Kongman>……？
 [ENDBLOCK]
 와아, <Kongman>!
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Kongman>!
+<Kongman>！
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-안녕, 꼬맹이들.
-오늘도 끈질기게 살아있나?
+어이, 꼬마들.
+오늘도 끈질기게 살아 있냐?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-가난한 자들에게 베푸는 건
-꽤나 기분 좋겠지.
+가난한 사람들한테 적선하니
+기분 참 좋겠군.
 [ENDBLOCK]
-????
+？？？？
 [ENDBLOCK]
-베푼다니, 그렇게 생각하지 않아요.
+적선이라고 생각하지 않아.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-돈으로 모든 걸 살 수 있다고 생각하지 마,
+돈으로 다 살 수 있다고 생각 마라,
 <Ilene> <Rembrandt>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-피츠가르드인의 영혼만큼은
-절대로 팔아넘기지 않을 거다!
+피츠가르드 사람의 영혼까지
+팔아넘기진 않을 거야!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 <Ilene> <Rembrandt>?
-<Stahn>, 그 이름은 확실히……
+<Stahn>, 그 이름은 분명……
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
 오베론 사의 이념은
-여러 번 설명했을 텐데요.
+몇 번이나 설명했을 텐데.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
 우리가 자본을 투자하는 건
-피츠가르드의 발전을 바라는 일이에요.
+피츠가르드의 발전을 바라서야.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-새로 온 놈들만 돈 벌고 있잖아.
-원래 있던 사람들은 여전히 가난하다고.
+새로 온 녀석들만 돈 벌고 있잖아.
+원래 살던 사람들은 여전히 가난해.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-그건…… 분명 언젠가는……
+그건…… 분명 머지않아……
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1304,27 +1304,27 @@ select
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-외지인이 끼어들 자리가 아니야.
-빨리 이 나라에서 꺼져!
+외지인이 나설 자리가 아니야.
+당장 이 나라에서 나가!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그건…… 아닌 것 같은데.
+그건…… 아니지 않아?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-태어난 곳으로 사람을 판단하는 건
-좋지 않다고 생각해.
+출신으로 사람을 단정하는 건
+좋지 않다고 생각하는데.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-뭐야, 꼬마야.
-나한테 설교하려는 거냐?
+뭐야, 꼬마.
+이 몸한테 설교하려는 거야?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 <Stahn> 씨……
-너무 끼어들지 않는 게 좋지 않을까요?
+너무 끼어들지 않는 편이 좋지 않을까요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1332,20 +1332,20 @@ select
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-이, 이건 어머!
+이, 이럴 수가!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-야, 거기 귀여운 안경 아가씨.
+안녕하세요, 거기 안경 쓴 어여쁜 아가씨.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-어, 저인가요?
+저, 저요?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-지금 내 심장이 쿵 했어요.
-당신이야말로 내 이상형이에요!
+방금 이 몸의 심장이 찌릿했어요.
+당신이야말로 이 몸의 이상형입니다!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1353,29 +1353,29 @@ select
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-같이 영양 드링크라도 어때요?
-아니면 힌두 스쿼트라도!
+같이 영양드링크라도 한 잔 어때요?
+아니면 힌두 스쿼트라든가!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-짜릿한 고백이구나.
+참으로 짜릿한 구애의 말이구먼.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-갑자기 성격이 바뀌었네……
+갑자기 성격이 달라졌네……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-아, 그, 그게, 저는……
+아, 저, 그게, 저는……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그만해, <Philia>가 무서워하잖아.
+그만해. <Philia>가 무서워하잖아.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-방해할 생각이냐, 꼬마야.
-넌 이 아름다운 사람의 뭐야?
+방해할 셈이냐, 꼬마.
+넌 이 아름다운 분의 뭐지?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1387,57 +1387,57 @@ select
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-어쩌면 너와 나는
-싸울 운명인 것 같군!
+아무래도 너와 이 몸은
+싸울 운명인가 보군!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
 결투다!
-오너라, 내 투기장으로!
+컴온, 이 몸의 투기장으로!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 왜 내가 너랑
-결투를 해야 하는 거야.
+결투해야 하는데.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>, 상대할 필요 없다.
-우리에겐 놀 시간이 없어.
+<Stahn>, 상대해 줄 필요 없다.
+놀고 있을 시간은 없어.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-겁먹은 거냐, 꼬마야.
-허리에 찬 검은 무딘 거냐?
+겁먹었냐, 꼬마.
+허리에 찬 검은 날도 안 서냐?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-뭐라고, 이 무례한 놈!
+뭐라고, 이 무례한 놈이!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-진정한 남자라면 신청받은 결투는
-받아들이는 법이지! 진정한 남자라면 말이야!
+진정한 사내라면 신청받은 결투는
+받는 법이지!	진정한 사내라면 말이야!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 알았어……
-그렇게 말한다면 해주지.
+그렇게까지 말하면 해 주겠어!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-나를 모욕한 걸 후회하게 해주마.
-<Stahn>, 본때를 보여줘라.
+날 모욕한 걸 후회하게 해 주마.
+<Stahn>, 본때를 보여 줘라.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
 <Philia> 씨, 지켜봐 주세요.
-승리한 후에 모시러 오겠습니다!
+승리한 뒤 모시러 가겠습니다!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
 <Dymlos>…… 당신이 <Stahn> 씨를
-말리지 않고 어쩌려고 하는 거예요.
+말리지 않으면 어떡해.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1445,32 +1445,32 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-마음대로 하게 해.
+좋을 대로 해.
 어차피 나랑은 상관없으니까.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-죄송해요, <Stahn> 씨.
+미안해요, <Stahn> 씨.
 저 때문에 이런 일에……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia> 탓이 아니야.
-결정한 건 어디까지나 나니까.
+<Philia> 탓은 아니야.
+어디까지나 내가 결정한 일이니까.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-투기장이 어디에 있을까?
+투기장은 어디에 있지?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-거리의 광장에서 북쪽으로 가면
-끝에 입구가 있어요.
+마을의 큰길을 따라 북쪽으로 가면
+막다른 곳에 입구가 있어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-감사합니다.
-바로 가보겠습니다.
+고맙습니다.
+바로 가 볼게요.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1478,41 +1478,41 @@ select
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……아, 녹고 있어.
+……아, 녹았네.
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
 어서 오세요.
-어떤 맛으로 하시겠습니까?
+어떤 맛으로 드릴까요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……
+…………
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
 손님……?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……
+…………
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
 손님!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-아, 아니 나는 별로 먹고 싶은 건 아니……
+아, 아니, 딱히 먹고 싶은 건……
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
 도련님, 부끄러워하지 말고
-사세요.
+사 먹죠.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-아, 그래…… 그러지.
+아, 그래…… 그래야지.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1521,44 +1521,44 @@ select
 [ENDBLOCK]
 젊은 여성
 [ENDBLOCK]
-꺄아아아아!
+꺄아아아악!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-무슨 일이지!
+무슨 일이냐!
 [ENDBLOCK]
-아이스캔디 가게 주인
+아이스캔디점 주인
 [ENDBLOCK]
-몬, 몬스터다!!
+모, 몬스터다!!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-도련님, 도와드리죠!
+도련님, 구하러 가죠!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-하아아앗!
+하아앗!
 [ENDBLOCK]
 젊은 여성
 [ENDBLOCK]
-감, 감사합니다.
+가, 감사합니다.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-거리 상황이 걱정됩니다.
-가보죠.
+마을 사정이 걱정돼요.
+가 보죠.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>현재 소지 가르드:<TAG_033>가르드
+<TAG_007>현재 소지 가르드: <TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-네
+예
 아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><xC8><x80></color>가
+<TAG_007><S03><turquoise><x19><x71><x49><xC8><x80></color>이(가)
 [ENDBLOCK]
-파티에 가입했습니다.
+파티에 합류했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
@@ -1570,54 +1570,54 @@ select
 [ENDBLOCK]
 <x18><x65><x59><xB8><x00><x80><x18><x65><x59><xBC><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><xC8><x80></color>가
+<TAG_007><S03><turquoise><x19><x71><x49><xC8><x80></color>이(가)
 [ENDBLOCK]
 파티에서 빠졌습니다.
 [ENDBLOCK]
 <x18><x65><x59><xB8><x00><x80><x18><x65><x59><xBC><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xEC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x59><xE8><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x49><xDC><x80>들은
+<x19><x69><x49><xDC><x80> 일행은
 [ENDBLOCK]
 <turquoise>교역 칭호
 [ENDBLOCK]
-<x19><x69><x49><xDC><x80>들은
+<x19><x69><x49><xDC><x80> 일행은
 [ENDBLOCK]
 <turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x49><xDC><x80>들은
+<x19><x69><x49><xDC><x80> 일행은
 [ENDBLOCK]
 <turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x49><xDC><x80>들은
+<x19><x69><x49><xDC><x80> 일행은
 [ENDBLOCK]
-칭호: <turquoise>네이처 레인저
+칭호: <turquoise>내추레인저
 [ENDBLOCK]
-<x19><x69><x49><xDC><x80>들은
+<x19><x69><x49><xDC><x80> 일행은
 [ENDBLOCK]
 칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x49><xDC><x80>들은
+<x19><x69><x49><xDC><x80> 일행은
 [ENDBLOCK]
 <turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x49><xDC><x80>들은
+<x19><x69><x49><xDC><x80> 일행은
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x49><xDC><x80>은
+<x19><x69><x49><xDC><x80>은(는)
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007><x18><x65><x59><xE0><x00><x80>
 <x18><x65><x59><xE4><x00><x80>
@@ -1625,152 +1625,151 @@ select
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
-이 ID와 패스워드를 연동 웹사이트에서
-입력하면, 데스티니의 세계가
+<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
+이 ID와 비밀번호를 연동 웹사이트에
+입력하면 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인하세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 비밀번호는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>게임 중의 이벤트나 미니게임을
-클리어하면 연동 ID와 게임 패스워드가
-발행되는 경우가 있습니다.
+<TAG_007>게임 속 이벤트나 미니게임을
+완료하면 연동 ID와 게임 비밀번호가
+발급될 때가 있습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>이 연동 ID와 게임 패스워드를
-웹사이트에 입력하면 데스티니
+<TAG_007>이 연동 ID와 게임 비밀번호를
+웹사이트에 입력하면 데스티니의
 세계가 더욱 넓어집니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 패스워드를 잊어버린 경우에는
+연동 ID와 게임 비밀번호를 잊었다면
 피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+외각이 없을 때 휘도 설정은 (RGBA)=(128, 128, 128, 128)입니다.
 
 [ENDBLOCK]
-첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+1단계 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다.
 
 [ENDBLOCK]
-두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+2단계 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다.
 
 [ENDBLOCK]
-세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+3단계 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다.
 
 [ENDBLOCK]
-최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다.
 
 [ENDBLOCK]
-설정이 없습니다! (tod=<TAG_059>)
+설정되지 않았습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-장치가 작동하고 있지 않습니다.
+장치는 가동하지 않고 있다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-워프 장치가 작동했습니다.
+워프 장치가 가동되었습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007><x19><x71><x49><xC8><x80>의 소디언 디바이스를
 사용할 수 있게 되었습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>「칭호의 설명」
-칭호란 캐릭터에 설정할 수 있는,
-캐릭터 파라미터의 하나입니다.
+<TAG_007>「칭호 설명」
+칭호는 캐릭터에게 설정할 수 있는
+캐릭터 매개변수의 하나입니다.
 구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>메인 메뉴를 연 후, 캐릭터의
-스테이터스를 표시합니다.
-그 화면에서 <Square_ani>을 누르면, 캐릭터의
-스테이터스 표시를 전환할 수 있습니다.
+<TAG_007>메인 메뉴를 연 다음 캐릭터의
+상태를 표시합니다.
+그 화면에서 <Square_ani>를 누르면 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
-페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
-획득한 칭호를 전환할 수 있습니다.
+<TAG_007>상태 화면 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면
+획득한 칭호를 바꿀 수 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+<TAG_007>칭호의 용도는 두 가지입니다.
 첫 번째는……
-「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
+「칭호를 설정하고 마을 사람에게 말을 걸자」
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
-당신에게 흥미를 보이는 사람이 있습니다.
-마을 사람들에게 여러 번 말을 걸었을 때,
-이상한 행동을 하는 경우가 있습니다.
-그때는 가지고 있는 칭호를 다시 설정한 후,
-다시 한 번 말을 걸어보세요.
+<TAG_007>마을 사람 중에는 칭호를 설정하고 말을 걸면
+관심을 보이는 사람이 있습니다. 마을 사람에게
+여러 번 말을 걸다 보면 이상한 반응을 보일 때가 있습니다.
+그럴 때는 가진 칭호를 바꿔 설정한 다음
+다시 말을 걸어 보세요.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
-머리 위에 「？」가 나타나는 경우가 있습니다.
-그때는 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 설정하고, 다시 말을 걸어보세요.
+<TAG_007>힌트: 마을 사람에게 말을 걸면 플레이어의
+머리 위에 「?」가 나타날 때가 있습니다.
+그럴 때는 마을 사람의 대사와 관련 있어 보이는
+칭호를 설정하고 다시 말을 걸어 보세요.
 뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>사용법의 두 번째는……
-「스테이터스 화면을 멋지게 꾸며보자」
-모은 칭호 중에서 마음에 드는 것이 있다면,
-설정해서 스테이터스 화면을 멋지게 연출해 보세요.
+<TAG_007>두 번째 용도는……
+「상태 화면을 멋지게 꾸미자」
+모은 칭호 중 마음에 드는 것이 있다면
+설정해서 상태 화면을 멋지게 꾸며 보세요.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>「돌차기 놀이」란,
-필드에 있는 돌을 차서,
-특정 조건을 클리어하는 놀이입니다.
+<TAG_007>「돌차기 놀이」는
+필드에 있는 돌을 차서
+특정 조건을 달성하는 놀이입니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+<TAG_007><x0E><x01><x00><x00><x00>기본 규칙을 설명합니다.
 1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는 돌차기 놀이의 클리어 조건에
+2: 전투는 돌차기 놀이의 완료 조건에
 		영향을 주지 않습니다.
 3: 마을이나 던전을 드나들면
-		돌은 원래 위치로 돌아갑니다.
+		돌이 원래 자리로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

@@ -1,14 +1,14 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-있잖아 <Stahn>, 
-너 뭐 점 봤어?
+있잖아, <Stahn>.
+넌 무슨 점을 봤어?
 [ENDBLOCK]
-나는 할아버지랑 <Lilith>의 가정 안전이야.
+난 할아버지와 <Lilith>의 가내 평안이지.
 [ENDBLOCK]
-그게 정말로…… 점이라고 할 수 있어?
+그건 점…… 맞아?
 [ENDBLOCK]

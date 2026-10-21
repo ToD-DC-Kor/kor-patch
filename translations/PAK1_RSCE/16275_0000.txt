@@ -1,12 +1,12 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 뒷문으로 가면 글레밤을
-놓치게 될 거야.
+놓치고 말아.
 [ENDBLOCK]
-정문으로 서둘러 가자.
+어서 정문으로 가자.
 [ENDBLOCK]

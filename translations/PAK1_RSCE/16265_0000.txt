@@ -1,9 +1,9 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-지금은 폐하께 보고드리는 게 우선이다.
+지금은 폐하께 보고하는 게 먼저야.
 [ENDBLOCK]

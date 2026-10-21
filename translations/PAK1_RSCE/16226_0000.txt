@@ -1,5 +1,5 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -7,24 +7,24 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 ……그 바보……
 [ENDBLOCK]
-왜 내가 이렇게 걱정을……
+왜 내가 이런 걱정을……
 [ENDBLOCK]
-……하고 있는 거지……
+…………해야 한단 말이냐……
 [ENDBLOCK]
-무슨 일이세요, <Lion> 님?
+왜 그러세요, <Lion> 씨?
 [ENDBLOCK]
-아까부터 좀 이상해 보이시는데요……
+아까부터 조금 이상하신데……
 [ENDBLOCK]
 아무것도 아니야!
 [ENDBLOCK]
 도련님, 분명 <Stahn>과
 <Rutee>는 괜찮을 거예요.
 [ENDBLOCK]
-그러니까 안심하세요……
+그러니 안심하고……
 [ENDBLOCK]
-누가 그 둘을
+누가 둘을
 걱정한다고 했어!
 [ENDBLOCK]
-별로 그런 거
+딱히 그런 건
 신경 쓰지 않아!
 [ENDBLOCK]

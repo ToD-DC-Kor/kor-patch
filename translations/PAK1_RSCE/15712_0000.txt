@@ -7,9 +7,9 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 글레밤을 쫓아가자!
 [ENDBLOCK]
-음. 
+그래.
 [ENDBLOCK]
-……그런데, 항구는 어느 쪽이지?
+……그런데 항구는 어느 쪽이야?
 [ENDBLOCK]
-다릴쉐이드 항구는 마을 동쪽에 있어.
+다릴쉐이드 항구는 마을 동쪽이야.
 [ENDBLOCK]
