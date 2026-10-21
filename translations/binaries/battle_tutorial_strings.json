@@ -1097,70 +1097,70 @@
             "string": "闇[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "어둠[END]"
+            "translation": "[Sign_Dark][END]"
         },
         {
             "offset": 247144,
             "string": "光[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "빛[END]"
+            "translation": "[Sign_Light][END]"
         },
         {
             "offset": 247152,
             "string": "水[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "물[END]"
+            "translation": "[Sign_Water][END]"
         },
         {
             "offset": 247160,
             "string": "火[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "불[END]"
+            "translation": "[Sign_Fire][END]"
         },
         {
             "offset": 247168,
             "string": "風[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "바람[END]"
+            "translation": "[Sign_Wind][END]"
         },
         {
             "offset": 247176,
             "string": "地[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "대지[END]"
+            "translation": "[Sign_Earth][END]"
         },
         {
             "offset": 247184,
             "string": "音[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "음파[END]"
+            "translation": "[Sign_Sonic][END]"
         },
         {
             "offset": 247192,
             "string": "射[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "사격[END]"
+            "translation": "[Sign_Shot][END]"
         },
         {
             "offset": 247200,
             "string": "打[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "타격[END]"
+            "translation": "[Sign_Strike][END]"
         },
         {
             "offset": 247208,
             "string": "斬[END]",
             "original_bytes_length": 3,
             "available_bytes_size": 7,
-            "translation": "참격[END]"
+            "translation": "[Sign_Slash][END]"
         },
         {
             "offset": 247216,
