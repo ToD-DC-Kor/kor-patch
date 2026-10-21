@@ -5,13 +5,13 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-해저 동굴을 빠져나와서,
-드디어 모류 영지네요.
+해저 동굴을 지나면
+드디어 모류령이네.
 [ENDBLOCK]
-모류 영지에 도착하면,
+모류령에 도착하면
 우선 마을로 가야겠어.
 [ENDBLOCK]
 그렇지, <Lion>?
 [ENDBLOCK]
-아아.
+그래.
 [ENDBLOCK]

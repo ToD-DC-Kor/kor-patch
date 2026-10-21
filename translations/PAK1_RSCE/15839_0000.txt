@@ -1,18 +1,18 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-음~ 이거 곤란하네.
+으음, 이거 난감한데.
 [ENDBLOCK]
-<Johnny> 씨, 고민거리라도 있으세요?
+<Johnny> 씨, 무슨 고민 있으세요?
 [ENDBLOCK]
-새 곡의 이미지가 잘 떠오르지 않아서 말이지……
+새 노래가 떠오르질 않아서 말이야……
 [ENDBLOCK]
-<Stahn>, <Rutee>, 부탁이 있어.
-뭔가 재미있는 걸 해줄 수 있겠어?
+<Stahn>, <Rutee>, 부탁 하나 하자.
+뭐 재미있는 일 좀 해 주지 않을래?
 [ENDBLOCK]
-……무리한 부탁 하지 마세요.
+……억지 좀 부리지 마.
 [ENDBLOCK]

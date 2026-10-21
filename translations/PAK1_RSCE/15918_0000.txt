@@ -1,19 +1,19 @@
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Lion>……도대체 무슨 일이……
+<Lion>…… 대체 무슨……
 [ENDBLOCK]
-<Lion> 씨의 진의를,
-확실히 확인해야겠네요.
+<Lion> 씨의 진심을
+확인해야겠어요.
 [ENDBLOCK]
-그래……
+그렇지……
 [ENDBLOCK]
-어쨌든, 현지에 가보지 않으면 시작할 수 없어.
+어쨌든 현장에 가 봐야 뭐라도 알겠지.
 [ENDBLOCK]
 항구로 가자.
-배 준비가 된 것 같으니까.
+배가 준비된 모양이니까.
 [ENDBLOCK]

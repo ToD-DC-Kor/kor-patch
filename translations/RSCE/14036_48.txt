@@ -1,116 +1,116 @@
 사회자
 [ENDBLOCK]
-자신의 영광과 강함을 증명하기 위해,
-목숨을 건 자가 또 한 명 나타났다.
+자신의 영광과 힘을 증명하고자
+목숨을 거는 자가 또 한 명 찾아왔다.
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-그 싸움의 끝에 있는 것을,
-우리에게 보여줘!
+그 싸움 끝에 무엇이 있는지
+우리에게 보여 다오!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-상대방의 준비도 끝난 것 같다.
-그럼, 콜로세움 배틀!
+상대도 준비를 마친 모양이다.
+그럼 콜로세우우움 배틀!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-레디 고오오!!
+레디  고오오!!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-끝없는 수라의 길을,
+끝없는 수라의 길을
 걷기 시작한 전사.
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-그의 머리 위에 빛나는 것은,
+그 머리 위에 빛나는 것은
 최강의 별인가, 죽음의 별인가!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-상대방의 준비도 끝난 것 같다.
-그럼, 콜로세움 배틀!
+상대도 준비를 마친 모양이다.
+그럼 콜로세우우움 배틀!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-레디 고오오!!
+레디  고오오!!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-멀리 아른거리던 정상이,
-새벽과 함께 맑아졌다.
+멀리 아득하던 정상이
+새벽과 함께 모습을 드러낸다.
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-새로운 시대의 도래는,
-다가오는 것인가!?
+새로운 시대가
+도래할 것인가!?
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-상대방의 준비도 끝난 것 같다.
-그럼, 콜로세움 배틀!
+상대도 준비를 마친 모양이다.
+그럼 콜로세우우움 배틀!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-레디 고오오!!
+레디  고오오!!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-이곳은 수라의 죽음의 영역,
+이곳은 수라의 죽음터.
 생사를 건 싸움만이 미덕이 된다.
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-개막하는 배틀 론도.
-마지막에 서 있는 자는 누구인가!
+막이 오르는 전투의 윤무곡.
+마지막까지 서 있는 자는 누구냐!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-상대방의 준비도 끝난 것 같다.
-그럼, 콜로세움 배틀!
+상대도 준비를 마친 모양이다.
+그럼 콜로세우우움 배틀!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-레디 고오오!!
+레디  고오오!!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-이제 말을 하는 것조차,
+이젠 말을 하는 것조차
 죄라 할 수 있겠지.
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-수라의 길의 최종 지점.
-여기가, 약속의 땅이 되는 것인가!?
+수라의 길 끝자락.
+이곳이 약속의 땅이 될 것인가!?
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-상대방의 준비도 끝난 것 같다.
-그럼, 콜로세움 배틀!
+상대도 준비를 마친 모양이다.
+그럼 콜로세우우움 배틀!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-레디 고오오!!
+레디  고오오!!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-도망치는 것 따위 허용된다고 생각하지 마라.
-네가 보낸 목숨의 수만큼 싸워라.
+도망칠 수 있다고 생각하지 마라.
+네가 저승으로 보낸 목숨의 수만큼 싸워라.
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-그리고, 발버둥 치며 저항해라!
-이것이야말로 진정한 최종 결전.
+그리고 발버둥 치며 맞서라!
+이것이 진정한 최종 결전.
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-황천의 길은 열렸다.
-그럼, 콜로세움 배틀!
+황천길이 열렸다.
+그럼 콜로세우우움 배틀!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-레디 고오오!!
+레디  고오오!!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
@@ -122,64 +122,64 @@ arena_result ---<x17><x71><x47><xAC><x80> >>> WIN(<x09><x00><x00><x00><x00>).LOS
 사회자
 [ENDBLOCK]
 이 정도로 포기하지 마라.
-다음 도전을 기다리고 있겠다.
+다음 도전을 기다리겠다!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
 축하한다!
-승자에게는 이것을 선물이다!
+승자에게는 이걸 증정하겠다!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-아쉽군요.
-다음에 또 오세요.
+아쉽게 됐군.
+다시 찾아 다오.
 
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-여기서부터가 본격적이다. 우리의 <Kongman> 등장!!!
+이제부터가 진짜다. 우리의 <Kongman> 등장!!!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-그 <Kongman>을 격파했다!!
+그 <Kongman>을 쓰러뜨렸다!!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-역시 형은 강했어!
-축하해 <Stahn>!
+역시 오빠는 강했다!
+축하한다, <Stahn>!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-여동생 상대로 본심을 내지 못했어.
-뭐, 변명은 없다고!
+여동생을 상대로 진심을 낼 수 없었다니
+그런 변명은 안 통한다!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-이번엔 <Kongman>의 리벤지다!
-이 진심을 막을 수 있을까!?
+이번엔 <Kongman>의 설욕전이다!
+이 진심을 막아 낼 수 있을까!?
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-부탁해 <Stahn>!
-막을 수 있는 건 너뿐이야.
+부탁한다, <Stahn>!
+막을 수 있는 건 너뿐이다.
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-자, 우리의 챔피언.
-<Kongman>의 등장이다!!
+자, 우리의 챔피언
+<Kongman>이 등장한다!!
 [ENDBLOCK]
 사회자
 [ENDBLOCK]
-이런 일이 있나.
-이쪽이 진짜였던 거야!
+이럴 수가.
+이쪽이 진짜였단 말인가!
 [ENDBLOCK]
 꽃 파는 소녀
 [ENDBLOCK]
-아!
+앗!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-으윽……!
+윽……!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -192,46 +192,46 @@ arena_result ---<x17><x71><x47><xAC><x80> >>> WIN(<x09><x00><x00><x00><x00>).LOS
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-좀 실수했네……
-괜찮아…… 대단한 부상은 아니야.
+좀 실수했네요……
+괜찮아요…… 심한 상처는 아니에요.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-이제 괜찮아…… 안심해.
+이제 괜찮아…… 안심하렴.
 [ENDBLOCK]
 언니……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Ilene>, 이 소동은 무슨 일이지?
+<Ilene>, 이 소동은 어떻게 된 거지?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-항구 앞바다에,
-정체불명의 무장 선단이 나타났어.
+항구 앞바다에
+정체불명의 무장 선단이 나타났어요.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-아마도, 그들의 소행이겠지……
+아마 그자들의 짓일 거예요……
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 무장 선단이라고?
-<Greybum>이 이끌고 있는 건가?
+<Greybum>이 이끄는 건가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그들을 물리치자!
-이대로 놔둘 수는 없어!
+그 녀석들을 물리치자!
+이대로 내버려 둘 순 없어!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Ilene>, 오베론 사의 배를 빌려줘.
+<Ilene>, 오베론 사의 배를 빌려 줘.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-……항구로 가봐.
-내 이름을 대면, 이야기가 통할 거야.
+……항구로 가 줘요.
+내 이름을 대면 통할 거예요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -239,19 +239,19 @@ arena_result ---<x17><x71><x47><xAC><x80> >>> WIN(<x09><x00><x00><x00><x00>).LOS
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-부탁해, 부디 조심해.
+부탁해요. 부디 조심해요.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>현재 소지 가르드:<TAG_033>가르드
+<TAG_007>현재 소지 가르드: <TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-네
+예
 아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xD0><x80></color>가
+<TAG_007><S03><turquoise><x19><x71><x47><xD0><x80></color>이(가)
 [ENDBLOCK]
-파티에 가입했습니다.
+파티에 합류했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
@@ -263,54 +263,54 @@ arena_result ---<x17><x71><x47><xAC><x80> >>> WIN(<x09><x00><x00><x00><x00>).LOS
 [ENDBLOCK]
 <x18><x65><x57><xC0><x00><x80><x18><x65><x57><xC4><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xD0><x80></color>가
+<TAG_007><S03><turquoise><x19><x71><x47><xD0><x80></color>이(가)
 [ENDBLOCK]
 파티에서 빠졌습니다.
 [ENDBLOCK]
 <x18><x65><x57><xC0><x00><x80><x18><x65><x57><xC4><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xF4><x98><x80>
 [ENDBLOCK]
-<x18><x65><x57><xF0><x00><x80></color>를 획득했습니다.
+<x18><x65><x57><xF0><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x47><xE4><x80>들은
+<x19><x69><x47><xE4><x80> 일행은
 [ENDBLOCK]
 <turquoise>교역 칭호
 [ENDBLOCK]
-<x19><x69><x47><xE4><x80>들은
+<x19><x69><x47><xE4><x80> 일행은
 [ENDBLOCK]
 <turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x47><xE4><x80>들은
+<x19><x69><x47><xE4><x80> 일행은
 [ENDBLOCK]
 <turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x47><xE4><x80>들은
+<x19><x69><x47><xE4><x80> 일행은
 [ENDBLOCK]
-칭호: <turquoise>네이처 레인저
+칭호: <turquoise>내추레인저
 [ENDBLOCK]
-<x19><x69><x47><xE4><x80>들은
+<x19><x69><x47><xE4><x80> 일행은
 [ENDBLOCK]
 칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x47><xE4><x80>들은
+<x19><x69><x47><xE4><x80> 일행은
 [ENDBLOCK]
 <turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x47><xE4><x80>들은
+<x19><x69><x47><xE4><x80> 일행은
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x47><xE4><x80>은
+<x19><x69><x47><xE4><x80>은(는)
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007><x18><x65><x57><xE8><x00><x80>
 <x18><x65><x57><xEC><x00><x80>
@@ -318,152 +318,151 @@ arena_result ---<x17><x71><x47><xAC><x80> >>> WIN(<x09><x00><x00><x00><x00>).LOS
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
-이 ID와 패스워드를 연동 웹사이트에서
-입력하면, 데스티니의 세계가
+<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
+이 ID와 비밀번호를 연동 웹사이트에
+입력하면 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인하세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 비밀번호는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>게임 중의 이벤트나 미니게임을
-클리어하면 연동 ID와 게임 패스워드가
-발행되는 경우가 있습니다.
+<TAG_007>게임 속 이벤트나 미니게임을
+완료하면 연동 ID와 게임 비밀번호가
+발급될 때가 있습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>이 연동 ID와 게임 패스워드를
-웹사이트에 입력하면 데스티니
+<TAG_007>이 연동 ID와 게임 비밀번호를
+웹사이트에 입력하면 데스티니의
 세계가 더욱 넓어집니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 패스워드를 잊어버린 경우에는
+연동 ID와 게임 비밀번호를 잊었다면
 피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+외각이 없을 때 휘도 설정은 (RGBA)=(128, 128, 128, 128)입니다.
 
 [ENDBLOCK]
-첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+1단계 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다.
 
 [ENDBLOCK]
-두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+2단계 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다.
 
 [ENDBLOCK]
-세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+3단계 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다.
 
 [ENDBLOCK]
-최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다.
 
 [ENDBLOCK]
-설정이 없습니다! (tod=<TAG_059>)
+설정되지 않았습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-장치가 작동하고 있지 않습니다.
+장치는 가동하지 않고 있다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-워프 장치가 작동했습니다.
+워프 장치가 가동되었습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x47><xD0><x80>의 소디언 디바이스가
- 사용 가능해졌습니다.
+<TAG_007><x19><x71><x47><xD0><x80>의 소디언 디바이스를
+사용할 수 있게 되었습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>「칭호의 설명」
-칭호란 캐릭터에 설정할 수 있는,
-캐릭터 파라미터의 하나입니다.
+<TAG_007>「칭호 설명」
+칭호는 캐릭터에게 설정할 수 있는
+캐릭터 매개변수의 하나입니다.
 구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>메인 메뉴를 연 후, 캐릭터의
-스테이터스를 표시합니다.
-그 화면에서 <Square_ani>을 누르면, 캐릭터의
-스테이터스 표시를 전환할 수 있습니다.
+<TAG_007>메인 메뉴를 연 다음 캐릭터의
+상태를 표시합니다.
+그 화면에서 <Square_ani>를 누르면 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
-페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
-획득한 칭호를 전환할 수 있습니다.
+<TAG_007>상태 화면 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면
+획득한 칭호를 바꿀 수 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+<TAG_007>칭호의 용도는 두 가지입니다.
 첫 번째는……
-「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
+「칭호를 설정하고 마을 사람에게 말을 걸자」
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
-당신에게 흥미를 보이는 사람이 있습니다.
-마을 사람들에게 여러 번 말을 걸었을 때,
-이상한 행동을 하는 경우가 있습니다.
-그때는 가지고 있는 칭호를 다시 설정한 후,
-다시 한 번 말을 걸어보세요.
+<TAG_007>마을 사람 중에는 칭호를 설정하고 말을 걸면
+관심을 보이는 사람이 있습니다. 마을 사람에게
+여러 번 말을 걸다 보면 이상한 반응을 보일 때가 있습니다.
+그럴 때는 가진 칭호를 바꿔 설정한 다음
+다시 말을 걸어 보세요.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
-머리 위에 「？」가 나타나는 경우가 있습니다.
-그때는 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 설정하고, 다시 말을 걸어보세요.
+<TAG_007>힌트: 마을 사람에게 말을 걸면 플레이어의
+머리 위에 「?」가 나타날 때가 있습니다.
+그럴 때는 마을 사람의 대사와 관련 있어 보이는
+칭호를 설정하고 다시 말을 걸어 보세요.
 뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>사용법의 두 번째는……
-「스테이터스 화면을 멋지게 꾸며보자」
-모은 칭호 중에서 마음에 드는 것이 있다면,
-설정해서 스테이터스 화면을 멋지게 연출해 보세요.
+<TAG_007>두 번째 용도는……
+「상태 화면을 멋지게 꾸미자」
+모은 칭호 중 마음에 드는 것이 있다면
+설정해서 상태 화면을 멋지게 꾸며 보세요.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>「돌차기 놀이」란,
-필드에 있는 돌을 차서,
-특정 조건을 클리어하는 놀이입니다.
+<TAG_007>「돌차기 놀이」는
+필드에 있는 돌을 차서
+특정 조건을 달성하는 놀이입니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명하겠습니다.
+<TAG_007><x0E><x01><x00><x00><x00>기본 규칙을 설명합니다.
 1: 마을 밖에 있는 특정 돌을 차면
 		게임이 시작됩니다.
-2: 전투는 돌차기 놀이의 클리어 조건에
+2: 전투는 돌차기 놀이의 완료 조건에
 		영향을 주지 않습니다.
 3: 마을이나 던전을 드나들면
-		돌은 원래 위치로 돌아갑니다.
+		돌이 원래 자리로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
