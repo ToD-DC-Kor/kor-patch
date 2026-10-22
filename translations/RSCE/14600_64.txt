@@ -50,7 +50,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-슈사이아는 미크하일로 가기 위한
+슈사이아는 믹하일로 가기 위한
 중간 거점이다.
 [ENDBLOCK]
 <Stahn>

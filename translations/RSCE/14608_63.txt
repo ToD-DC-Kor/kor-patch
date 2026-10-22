@@ -25,7 +25,7 @@
 <Dymlos>
 [ENDBLOCK]
 여기는 소디언 팀.
-지금부터 미크하일을 공략한다.
+지금부터 믹하일을 공략한다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]

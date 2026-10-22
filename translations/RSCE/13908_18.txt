@@ -103,7 +103,7 @@
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-마지막은 미크하일이다.
+마지막은 믹하일이다.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
@@ -112,7 +112,7 @@
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-미크하일에는 분명
+믹하일에는 분명
 부유 크루저가 남아 있었지.
 [ENDBLOCK]
 <Clemente>

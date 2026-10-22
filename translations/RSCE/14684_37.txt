@@ -121,7 +121,7 @@
 <Stahn>
 [ENDBLOCK]
 이 도시 어디로 가야
-벨세리움이라는 걸 구할 수 있지?
+베르셀리움이라는 걸 구할 수 있지?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -133,12 +133,12 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-벨세리움이 어디 있는지
+베르셀리움이 어디 있는지
 알려 주시겠어요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-벨세리움이라는 건, 그러니까……
+베르셀리움이라는 건, 그러니까……
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -185,7 +185,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그러려면 벨세리움이
+그러려면 베르셀리움이
 꼭 필요합니다!
 [ENDBLOCK]
 <Stahn>
