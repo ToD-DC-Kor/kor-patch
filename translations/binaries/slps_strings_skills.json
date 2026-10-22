@@ -227,7 +227,7 @@
         {
             "offset": 1693856,
             "string": "※敵用[LINE]\n[END]",
-            "translation": "적전용[LINE]\n[END]",
+            "translation": "※적용[LINE]\n[END]",
             "original_bytes_length": 8,
             "available_bytes_size": 8
         },

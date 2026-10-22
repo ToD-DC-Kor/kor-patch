@@ -1694,7 +1694,7 @@
             "string": "主人公は[Stahn]ですが、戦闘では[END]",
             "original_bytes_length": 30,
             "available_bytes_size": 31,
-            "translation": "주인공은[Stahn]이지만 전투에서는[END]"
+            "translation": "주인공은 [Stahn]이지만 전투에선[END]"
         },
         {
             "offset": 257304,
@@ -1743,7 +1743,7 @@
             "string": "フードサックは[yellow]街の食材屋[/color]でカンタン補充。[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "음식 주머니는 [yellow]마을 식재료점[/color]에서 쉽게 채워.[END]"
+            "translation": "음식 주머니는 [yellow]마을 식재료 가게[/color]에서 채워.[END]"
         },
         {
             "offset": 256992,

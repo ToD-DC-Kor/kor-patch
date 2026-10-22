@@ -1041,7 +1041,7 @@
             "string": "特技・術技による敵硬化時間を延ばす[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
-            "translation": "특기·기술로 적의 경직 시간을 늘린다[END]"
+            "translation": "기술로 적의 경직 시간을 늘린다[END]"
         },
         {
             "offset": 1712200,

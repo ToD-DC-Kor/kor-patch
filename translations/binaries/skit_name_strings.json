@@ -3708,7 +3708,7 @@
             "string": "闘技場は街の北[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "투기장:마을북[END]"
+            "translation": "투기장은 북쪽[END]"
         },
         {
             "offset": 87680,
@@ -4079,7 +4079,7 @@
             "string": "港は街の東に[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "항구:마을 동쪽[END]"
+            "translation": "항구는 동쪽에[END]"
         },
         {
             "offset": 88920,
