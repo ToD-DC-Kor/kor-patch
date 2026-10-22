@@ -9,11 +9,11 @@
 <Rutee>
 [ENDBLOCK]
 또 그 삭막한 외각을 지나서
-이번에는 미크하일로 들어가는 거네.
+이번에는 믹하일로 들어가는 거네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-미크하일도 공중도시 중에서
+믹하일도 공중도시 중에서
 중요한 곳인 거지?
 [ENDBLOCK]
 <Dymlos>

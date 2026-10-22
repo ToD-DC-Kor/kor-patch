@@ -5,6 +5,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-리트러는 중추부에 있을 거다.
+리트라는 중추부에 있을 거다.
 서두르자.
 [ENDBLOCK]

@@ -543,7 +543,7 @@ notice
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-자꾸 쓰레기라고 하지 마라. 벨세리움이 잠든
+자꾸 쓰레기라고 하지 마라. 베르셀리움이 잠든
 보물산일지도 모르지 않느냐.
 [ENDBLOCK]
 <Woodrow>
@@ -575,7 +575,7 @@ notice
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-벨세리움……
+베르셀리움……
 파란 금속이라……
 [ENDBLOCK]
 <Mary>
@@ -600,7 +600,7 @@ notice
 <Rutee>
 [ENDBLOCK]
 그래그래, 나중에 빨면 되잖아.
-지금은 벨세리움 좀 찾아 줄래?
+지금은 베르셀리움 좀 찾아 줄래?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -631,7 +631,7 @@ notice
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-벨세리움 같은 건
+베르셀리움 같은 건
 어디에도 보이지 않는군……
 [ENDBLOCK]
 <Woodrow>
@@ -645,7 +645,7 @@ notice
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-하지만 벨세리움은 못 찾았어요.
+하지만 베르셀리움은 못 찾았어요.
 그건 사실이에요.
 [ENDBLOCK]
 <Igtenos>
@@ -771,7 +771,7 @@ notice
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-……벨세리움!
+……베르셀리움!
 [ENDBLOCK]
 외지인은 찾는 법이 서툴러서 안 돼.
 가져가라.
@@ -797,7 +797,7 @@ notice
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-그럼 서둘러 벨세리움을
+그럼 서둘러 베르셀리움을
 가지고 돌아가자.
 [ENDBLOCK]
 <Stahn>

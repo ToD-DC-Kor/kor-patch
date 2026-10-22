@@ -109,7 +109,7 @@ select
 <Rutee>
 [ENDBLOCK]
 저기 떨어진 거
-벨세리움 아니야?	파랗잖아.
+베르셀리움 아니야?	파랗잖아.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
@@ -165,7 +165,7 @@ select
 <Clemente>
 [ENDBLOCK]
 그렇다. 비행룡을 완전히 고치려면
-훨씬 많은 벨세리움이 필요하다.
+훨씬 많은 베르셀리움이 필요하다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -191,7 +191,7 @@ select
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-아무튼 벨세리움은
+아무튼 베르셀리움은
 다른 곳을 알아보는 수밖에 없겠네.
 [ENDBLOCK]
 <Dymlos>
