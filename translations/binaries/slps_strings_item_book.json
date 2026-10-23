@@ -103,7 +103,7 @@
             "string": "篭手[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "장갑[END]"
+            "translation": "권갑[END]"
         },
         {
             "offset": 1831824,
@@ -159,7 +159,7 @@
             "string": "おたま[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "주걱[END]"
+            "translation": "국자[END]"
         },
         {
             "offset": 1831920,

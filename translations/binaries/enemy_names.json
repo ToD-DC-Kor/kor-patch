@@ -238,7 +238,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Claw Bear[END]",
-            "translation": "클로우 베어[END]"
+            "translation": "클로 베어[END]"
         },
         {
             "offset": 3848,
@@ -382,7 +382,7 @@
             "original_bytes_length": 9,
             "available_bytes_size": 23,
             "english": "Silurus[END]",
-            "translation": "시루루스[END]"
+            "translation": "실루루스[END]"
         },
         {
             "offset": 6080,
@@ -502,7 +502,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Oberon Employee[END]",
-            "translation": "오베론 직원[END]"
+            "translation": "오베론 사 직원[END]"
         },
         {
             "offset": 7940,
@@ -622,7 +622,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Bite Plant[END]",
-            "translation": "식육 식물[END]"
+            "translation": "바이트 플랜트[END]"
         },
         {
             "offset": 9800,
@@ -662,7 +662,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Tiamat[END]",
-            "translation": "티아매트[END]"
+            "translation": "티아마트[END]"
         },
         {
             "offset": 10420,
@@ -758,7 +758,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Drillfish[END]",
-            "translation": "드릴피쉬[END]"
+            "translation": "드릴 피시[END]"
         },
         {
             "offset": 11908,
@@ -1022,7 +1022,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Gentleman Luine[END]",
-            "translation": "젠틀맨 타이[END]"
+            "translation": "젠틀 멘타이[END]"
         },
         {
             "offset": 16000,
@@ -1030,7 +1030,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Gentleman Lester[END]",
-            "translation": "젠틀맨 와카메[END]"
+            "translation": "젠틀 와카메[END]"
         },
         {
             "offset": 16124,
@@ -1038,7 +1038,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Gentleman Rhambling[END]",
-            "translation": "젠틀맨 피단[END]"
+            "translation": "젠틀 피탄[END]"
         },
         {
             "offset": 16248,
@@ -1046,7 +1046,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Gentleman Valens[END]",
-            "translation": "젠틀맨 가즈노코[END]"
+            "translation": "젠틀 카즈노코[END]"
         },
         {
             "offset": 16372,
@@ -1142,7 +1142,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Assault Boar[END]",
-            "translation": "어설트보어[END]"
+            "translation": "어설트 보어[END]"
         },
         {
             "offset": 17860,
@@ -1150,7 +1150,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Rampage Lizard[END]",
-            "translation": "램페이지 리절드[END]"
+            "translation": "램페이지 리저드[END]"
         },
         {
             "offset": 17984,
@@ -1166,7 +1166,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Seal Snake[END]",
-            "translation": "씰 스네이크[END]"
+            "translation": "실 스네이크[END]"
         },
         {
             "offset": 18232,
@@ -1182,7 +1182,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Killamari[END]",
-            "translation": "델타카이트[END]"
+            "translation": "델타 카이트[END]"
         },
         {
             "offset": 18480,
@@ -1310,7 +1310,7 @@
             "original_bytes_length": 17,
             "available_bytes_size": 23,
             "english": "Deep Shark[END]",
-            "translation": "디스프 샤크[END]"
+            "translation": "딥스 샤크[END]"
         },
         {
             "offset": 20464,
@@ -1318,7 +1318,7 @@
             "original_bytes_length": 21,
             "available_bytes_size": 23,
             "english": "Fingerfish[END]",
-            "translation": "불가사리[END]"
+            "translation": "핑거 피시[END]"
         },
         {
             "offset": 20588,
@@ -1382,7 +1382,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Oberon Employee X[END]",
-            "translation": "오베론 직원 X[END]"
+            "translation": "오베론 사 직원 X[END]"
         },
         {
             "offset": 21580,
@@ -1550,7 +1550,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Finley[END]",
-            "translation": "핀리[END]"
+            "translation": "핀레이[END]"
         },
         {
             "offset": 24184,
@@ -1606,7 +1606,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Cleavage[END]",
-            "translation": "클리베지[END]"
+            "translation": "클리비지[END]"
         },
         {
             "offset": 25052,
@@ -1622,7 +1622,7 @@
             "original_bytes_length": 15,
             "available_bytes_size": 23,
             "english": "Felhound[END]",
-            "translation": "펠하운드[END]"
+            "translation": "펠 하운드[END]"
         },
         {
             "offset": 25300,
@@ -1654,7 +1654,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Balaclava[END]",
-            "translation": "바라클라바[END]"
+            "translation": "발라클라바[END]"
         },
         {
             "offset": 25796,
@@ -1686,7 +1686,7 @@
             "original_bytes_length": 11,
             "available_bytes_size": 23,
             "english": "Fiend[END]",
-            "translation": "피엔드[END]"
+            "translation": "핀드[END]"
         },
         {
             "offset": 26292,
@@ -1814,7 +1814,7 @@
             "original_bytes_length": 19,
             "available_bytes_size": 23,
             "english": "Carnival Plant[END]",
-            "translation": "카니발 플랜트[END]"
+            "translation": "캐니벌 플랜트[END]"
         },
         {
             "offset": 28276,
@@ -1822,7 +1822,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Maneuver[END]",
-            "translation": "메뉴버[END]"
+            "translation": "매뉴버[END]"
         },
         {
             "offset": 28400,
@@ -1950,7 +1950,7 @@
             "original_bytes_length": 13,
             "available_bytes_size": 23,
             "english": "Seafabos[END]",
-            "translation": "시퍼보스[END]"
+            "translation": "시 파보스[END]"
         },
         {
             "offset": 30384,

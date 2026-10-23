@@ -5,7 +5,7 @@
             "string": "フードサックから生まれた料理に、[LINE]\nさらに一工夫。[LINE]\nこんなにおいしくできるので、[LINE]\nＨＰ回復量がアップ。[END]",
             "original_bytes_length": 98,
             "available_bytes_size": 103,
-            "translation": "음식 주머니에서 태어난 요리에,[LINE]\n한 가지 더 공들인 요리법[LINE]\n이렇게 맛있게 만들 수 있으니,[LINE]\nHP 회복량이 증가.[END]"
+            "translation": "음식 주머니에서 나온 요리에[LINE]\n한 가지 더 공을 들입니다.[LINE]\n더욱 맛있어져서[LINE]\nHP 회복량이 증가합니다.[END]"
         },
         {
             "offset": 1684440,
@@ -89,7 +89,7 @@
             "string": "周囲の索敵を行い、[LINE]\nエンカウント率を下げることができ[LINE]\nます。[LINE]\n[END]",
             "original_bytes_length": 60,
             "available_bytes_size": 63,
-            "translation": "주변 탐색을 수행하여,[LINE]\n인카운트율을 낮출 수[LINE]있습니다.[LINE]\n[END]"
+            "translation": "주변 탐색을 수행하여,[LINE]\n조우율을 낮출 수[LINE]있습니다.[LINE]\n[END]"
         },
         {
             "offset": 1685008,
@@ -103,7 +103,7 @@
             "string": "拾った実と薬品をステキに調合し、[LINE]\n消費アイテムにしてくれます。[LINE]\nたまに、たま～に変なものも。[LINE]\n[END]",
             "original_bytes_length": 92,
             "available_bytes_size": 95,
-            "translation": "주은 열매와 약품을 멋지게 조합하여,[LINE]\n소비 아이템으로 만들어 줍니다.[LINE]\n가끔, 아주 가~끔 이상한 것도.[LINE]\n[END]"
+            "translation": "주운 열매와 약품을 잘 조합해[LINE]\n소비 아이템으로 만들어 줍니다.[LINE]\n가끔, 아주 가끔 이상한 것도.[LINE]\n[END]"
         },
         {
             "offset": 1685112,
@@ -117,7 +117,7 @@
             "string": "ガルドやレンズを探します。[LINE]\n勝手に所持金増え放題。[LINE]\n金目のものも拾ってきます。[LINE]\n[END]",
             "original_bytes_length": 78,
             "available_bytes_size": 79,
-            "translation": "가르드와 렌즈를 찾습니다.[LINE]\n알아서 소지금이 마구 늘어납니다.[LINE]\n값나가는 것도 주워옵니다.[LINE]\n[END]"
+            "translation": "가르드와 렌즈를 찾습니다.[LINE]\n소지금이 절로 늘어납니다.[LINE]\n값진 것도 주워 옵니다.[LINE]\n[END]"
         },
         {
             "offset": 1685200,

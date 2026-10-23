@@ -40,49 +40,49 @@
             "string": "後退を控え、前進しながら[LINE]\n防御重視で敵の突破を防ぎます。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "후퇴를 자제하고, 전진하면서[LINE]\n방어를 중시해 적의 돌파를 막습니다.[END]"
+            "translation": "후퇴를 삼가고 전진하며[LINE]\n방어 위주로 적 돌파를 막습니다.[END]"
         },
         {
             "offset": 1708112,
             "string": "巨大な壁となれ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "거대한 벽이 되어라[END]"
+            "translation": "거대 벽이 돼라[END]"
         },
         {
             "offset": 1708128,
             "string": "通常攻撃をあまり使わず、特技主体で[LINE]\n攻撃します。[END]",
             "original_bytes_length": 48,
             "available_bytes_size": 48,
-            "translation": "통상공격을 많이 사용하지 않고, 기술을 주로 사용하여[LINE]\n공격합니다.[END]"
+            "translation": "일반 공격은 적게 쓰고[LINE]\n특기 위주로 공격합니다.[END]"
         },
         {
             "offset": 1708176,
             "string": "大技でキメろ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "큰 기술로 끝내라[END]"
+            "translation": "큰 기술로 끝내[END]"
         },
         {
             "offset": 1708192,
             "string": "敵との距離があるときは支援技を使い、[LINE]\n敵との距離が近いときは攻撃をします。[END]",
             "original_bytes_length": 74,
             "available_bytes_size": 79,
-            "translation": "적과의 거리가 있을 때는 지원 기술을 사용하고,[LINE]\n적과의 거리가 가까울 때는 공격합니다.[END]"
+            "translation": "적과 멀 때는 지원 기술을 쓰고,[LINE]\n적과 가까울 때는 공격합니다.[END]"
         },
         {
             "offset": 1708272,
             "string": "間合いで戦え[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "거리를 유지하며 싸워라[END]"
+            "translation": "간격 맞춰 싸워[END]"
         },
         {
             "offset": 1708288,
             "string": "攻撃効果のある技を優先して使用[LINE]\nします。[END]",
             "original_bytes_length": 40,
             "available_bytes_size": 40,
-            "translation": "공격 효과가 있는 기술을 우선 사용[LINE]\n합니다.[END]"
+            "translation": "공격 효과 있는 기술을[LINE]\n우선 사용합니다.[END]"
         },
         {
             "offset": 1708328,
@@ -96,7 +96,7 @@
             "string": "支援効果のある技を優先して使用[LINE]\nします。[END]",
             "original_bytes_length": 40,
             "available_bytes_size": 40,
-            "translation": "지원 효과가 있는 기술을 우선 사용[LINE]\n합니다.[END]"
+            "translation": "지원 효과 있는 기술을[LINE]\n우선 사용합니다.[END]"
         },
         {
             "offset": 1708384,
@@ -117,14 +117,14 @@
             "string": "ちまちま攻めろ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "아기자기하게 공격하라[END]"
+            "translation": "조금씩 공격해[END]"
         },
         {
             "offset": 1708464,
             "string": "間接攻撃主体で、防御を考えずに[LINE]\nひたすら攻撃します。[END]",
             "original_bytes_length": 52,
             "available_bytes_size": 55,
-            "translation": "간접 공격을 주로 하여, 방어를 생각하지 않고[LINE]\n그저 공격합니다.[END]"
+            "translation": "방어는 생각하지 않고,[LINE]\n간접 공격 위주로 공격합니다.[END]"
         },
         {
             "offset": 1708520,
@@ -138,21 +138,21 @@
             "string": "レベルが高い敵を狙い、全力で攻撃を[LINE]\n行います。[END]",
             "original_bytes_length": 46,
             "available_bytes_size": 47,
-            "translation": "레벨이 높은 적을 노려, 전력을 다해 공격을[LINE]\n실행합니다.[END]"
+            "translation": "레벨이 높은 적을 노려[LINE]\n전력으로 공격합니다.[END]"
         },
         {
             "offset": 1708584,
             "string": "強敵をしとめろ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "강적을 처치하라[END]"
+            "translation": "강적을 처치해[END]"
         },
         {
             "offset": 1708600,
             "string": "敵の背後をつくように行動し、奥の敵を[LINE]\n狙います。[END]",
             "original_bytes_length": 48,
             "available_bytes_size": 48,
-            "translation": "적의 뒤를 노리듯 행동하며, 안쪽의 적을[LINE]\n노립니다.[END]"
+            "translation": "적의 뒤로 파고들며 안쪽의 적을[LINE]\n노립니다.[END]"
         },
         {
             "offset": 1708648,
@@ -187,7 +187,7 @@
             "string": "背中は預けた[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "등 뒤를 부탁한다[END]"
+            "translation": "등 뒤를 맡긴다[END]"
         },
         {
             "offset": 1708784,
@@ -201,21 +201,21 @@
             "string": "攻守の要となれ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "공수의 핵심이 되어라[END]"
+            "translation": "공수의 축이 돼[END]"
         },
         {
             "offset": 1708872,
             "string": "間接攻撃主体で、空中の敵を優先して[LINE]\n狙います。[END]",
             "original_bytes_length": 46,
             "available_bytes_size": 47,
-            "translation": "간접 공격을 주로 하여, 공중의 적을 우선하여[LINE]\n노립니다.[END]"
+            "translation": "간접 공격 위주로 싸우며[LINE]\n공중 적부터 노립니다.[END]"
         },
         {
             "offset": 1708920,
             "string": "空の敵を狙え[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "하늘의 적을 노려라[END]"
+            "translation": "공중 적을 노려[END]"
         },
         {
             "offset": 1708936,
@@ -236,21 +236,21 @@
             "string": "中衛・後衛に回り、弓矢攻撃主体で[LINE]\n戦います。[END]",
             "original_bytes_length": 44,
             "available_bytes_size": 47,
-            "translation": "중거리・원거리를 돌아가며, 활 공격을 주로 하여[LINE]\n전투합니다.[END]"
+            "translation": "중위·후위로 물러나 활 공격 위주로[LINE]\n싸웁니다.[END]"
         },
         {
             "offset": 1709064,
             "string": "援護につとめろ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "지원에 전념하라[END]"
+            "translation": "지원에 전념해[END]"
         },
         {
             "offset": 1709080,
             "string": "詠唱時間の短い晶術や近接攻撃で、[LINE]\n詠唱中・攻撃中の敵を狙います。[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64,
-            "translation": "영창 시간이 짧은 정술이나 근접 공격으로,[LINE]\n영창・공격 중인 적을 노립니다.[END]"
+            "translation": "영창이 짧은 정술과 근접 공격으로[LINE]\n영창·공격 중인 적을 노립니다.[END]"
         },
         {
             "offset": 1709144,
@@ -264,49 +264,49 @@
             "string": "攻撃晶術を一番近い敵に行いますが、[LINE]\n敵が近くに来れば近接攻撃を行います。[END]",
             "original_bytes_length": 72,
             "available_bytes_size": 72,
-            "translation": "공격 정술을 가장 가까운 적에게 사용하지만,[LINE]\n적이 가까이 오면 근접 공격을 합니다.[END]"
+            "translation": "가장 가까운 적에게 공격 정술을 쓰되,[LINE]\n적이 다가오면 근접 공격을 합니다.[END]"
         },
         {
             "offset": 1709232,
             "string": "防戦も頑張れ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "방어전도 힘내라[END]"
+            "translation": "방어전도 힘내[END]"
         },
         {
             "offset": 1709248,
             "string": "攻撃晶術優先で、高レベルの敵を狙い、[LINE]\nHPが半分を切ると防御主体になります。[END]",
             "original_bytes_length": 74,
             "available_bytes_size": 79,
-            "translation": "공격 정술을 우선으로 하여, 고레벨의 적을 노리고,[LINE]\nHP가 반 이하로 떨어지면 방어 중심이 됩니다.[END]"
+            "translation": "공격 정술 위주로 고레벨 적을 노리고,[LINE]\nHP가 절반 미만이면 방어를 중시합니다.[END]"
         },
         {
             "offset": 1709328,
             "string": "危険な敵を狙え[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "위험한 적을 노려라[END]"
+            "translation": "위험한 적 노려[END]"
         },
         {
             "offset": 1709344,
             "string": "攻撃晶術優先で、HPが少ない敵を狙い、[LINE]\nHPが１／４以下では防御主体になります。[END]",
             "original_bytes_length": 76,
             "available_bytes_size": 79,
-            "translation": "공격 정술을 우선으로 하여, HP가 적은 적을 노리고,[LINE]\nHP가 1/4 이하가 되면 방어 중심이 됩니다.[END]"
+            "translation": "공격 정술 위주로 HP가 적은 적을 노리고,[LINE]\nHP가 1/4 이하면 방어를 중시합니다.[END]"
         },
         {
             "offset": 1709424,
             "string": "敵の数を減らせ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "적의 수를 줄여라[END]"
+            "translation": "적 수를 줄여라[END]"
         },
         {
             "offset": 1709440,
             "string": "サーチガルドとかを優先して使い、[LINE]\n回復も気分で使います。[END]",
             "original_bytes_length": 56,
             "available_bytes_size": 56,
-            "translation": "서치 가르드 등을 우선 사용하고,[LINE]\n회복도 기분에 따라 사용합니다.[END]"
+            "translation": "서치 가르드 등을 먼저 쓰고,[LINE]\n회복도 기분에 따라 씁니다.[END]"
         },
         {
             "offset": 1709496,
@@ -334,28 +334,28 @@
             "string": "HPが半分を切った味方がいれば、回復技[LINE]\nを重視して使用します。[END]",
             "original_bytes_length": 60,
             "available_bytes_size": 63,
-            "translation": "HP가 반 이하로 떨어진 아군이 있다면, 회복 기술[LINE]\n을 중시하여 사용합니다.[END]"
+            "translation": "HP가 절반 미만인 아군이 있으면,[LINE]\n회복 기술을 중시해 사용합니다.[END]"
         },
         {
             "offset": 1709672,
             "string": "適度に回復せよ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "적절히 회복하라[END]"
+            "translation": "적절히 회복해[END]"
         },
         {
             "offset": 1709688,
             "string": "攻撃をせず、防御・回復技のみ行います。[LINE]\n[END]",
             "original_bytes_length": 40,
             "available_bytes_size": 40,
-            "translation": "공격을 하지 않고, 방어 및 회복 기술만 사용합니다.[LINE]\n[END]"
+            "translation": "공격 없이 방어·회복 기술만 씁니다.[LINE]\n[END]"
         },
         {
             "offset": 1709728,
             "string": "防御に専念しろ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "방어에 전념하라[END]"
+            "translation": "방어에 전념해[END]"
         },
         {
             "offset": 1709744,
@@ -369,14 +369,14 @@
             "string": "味方を護れ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "동료를 보호하라[END]"
+            "translation": "동료를 보호해[END]"
         },
         {
             "offset": 1709824,
             "string": "近接攻撃主体で戦い、HPが半分を切った[LINE]\n場合は防御と間接攻撃を使い分けます。[END]",
             "original_bytes_length": 74,
             "available_bytes_size": 79,
-            "translation": "근접 공격을 주로 하여 전투하고, HP가 반 이하로 떨어진[LINE]\n경우 방어와 간접 공격을 구분하여 사용합니다.[END]"
+            "translation": "근접 공격 위주로 싸우되 HP가 절반[LINE]\n미만이면 방어·간접 공격을 구분해 씁니다.[END]"
         },
         {
             "offset": 1709904,
@@ -397,14 +397,14 @@
             "string": "敵陣に切り込め[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "적진을 해집어라[END]"
+            "translation": "적진을 헤집어[END]"
         },
         {
             "offset": 1710008,
             "string": "防御は考えずに、ひたすら近接攻撃を[LINE]\nします。[END]",
             "original_bytes_length": 44,
             "available_bytes_size": 47,
-            "translation": "방어는 생각하지 않고, 오로지 근접 공격을[LINE]\n합니다.[END]"
+            "translation": "방어는 생각하지 않고 근접 공격만[LINE]\n합니다.[END]"
         },
         {
             "offset": 1710056,
@@ -453,7 +453,7 @@
             "string": "瀕死時にブラストゲージ増加[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "위험 상태일 때 블라스트 게이지 증가[END]"
+            "translation": "빈사 시 블라스트 게이지 증가[END]"
         },
         {
             "offset": 1710192,
@@ -467,7 +467,7 @@
             "string": "戦闘不能から確率で自動復活[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "전투 불능 상태에서 확률로 자동 부활[END]"
+            "translation": "전투 불능 시 확률로 자동 부활[END]"
         },
         {
             "offset": 1710240,
@@ -502,7 +502,7 @@
             "string": "CCを平均化する[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "CC를 평균화한다[END]"
+            "translation": "CC를 평균화함[END]"
         },
         {
             "offset": 1710360,
@@ -544,28 +544,28 @@
             "string": "ライフボトルで回復時、HPが全快する[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
-            "translation": "생명 병으로 회복할 때, HP가 완전 회복된다[END]"
+            "translation": "생명의 병으로 회복 시 HP 완전 회복[END]"
         },
         {
             "offset": 1710520,
             "string": "通常攻撃でダウンさせる[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "일반 공격으로 다운시킨다[END]"
+            "translation": "일반공격으로 다운 유발[END]"
         },
         {
             "offset": 1710544,
             "string": "敵の物理攻撃を[TAG_015]回耐える[END]",
             "original_bytes_length": 28,
             "available_bytes_size": 31,
-            "translation": "적의 물리 공격을 [TAG_015]회 견딘다[END]"
+            "translation": "적 물리 공격을 [TAG_015]회 견딤[END]"
         },
         {
             "offset": 1710576,
             "string": "全状態異常を防止[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "모든 상태 이상을 방지한다[END]"
+            "translation": "모든 상태이상 방지[END]"
         },
         {
             "offset": 1710600,
@@ -579,7 +579,7 @@
             "string": "チャージがサーチガルドに変化[END]",
             "original_bytes_length": 29,
             "available_bytes_size": 31,
-            "translation": "차지가 서치 가드로 변한다[END]"
+            "translation": "차지가 서치 가르드로 변한다[END]"
         },
         {
             "offset": 1710672,
@@ -593,14 +593,14 @@
             "string": "支援歌技の効果が上昇[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "지원가 기술의 효과가 상승한다[END]"
+            "translation": "지원 노래기술 효과상승[END]"
         },
         {
             "offset": 1710712,
             "string": "翔凰烈火：閃光裂破中に鳳凰天駆[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "창황열화: 섬광열파 중에 봉황천구[END]"
+            "translation": "상황열화:섬광열파 중 봉황천구[END]"
         },
         {
             "offset": 1710744,
@@ -614,35 +614,35 @@
             "string": "獅吼爆炎陣：紅蓮剣中に獅子戦吼[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "사후폭염진: 홍련검 중에 사자전후[END]"
+            "translation": "사후폭염진:홍련검 중 사자전후[END]"
         },
         {
             "offset": 1710816,
             "string": "真空裂斬：空中で烈空斬[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "진공열참: 공중에서 열공참[END]"
+            "translation": "진공열참:공중 열공참[END]"
         },
         {
             "offset": 1710840,
             "string": "魔神双破斬：魔神剣中に虎牙破斬[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "마신쌍파참: 마신검 중에 호가파참[END]"
+            "translation": "마신쌍파참:마신검 중 호아파참[END]"
         },
         {
             "offset": 1710872,
             "string": "チャージが剛招来に変化[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "차지가 강소환으로 변한다[END]"
+            "translation": "차지가 강초래로 변함[END]"
         },
         {
             "offset": 1710896,
             "string": "空牙昇竜脚：断空剣中に飛燕連脚[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "공가승룡각: 단공검 중에 비연연각[END]"
+            "translation": "공가승룡각:단공검 중 비연연각[END]"
         },
         {
             "offset": 1710928,
@@ -656,14 +656,14 @@
             "string": "紅蓮剣：空中で屠龍閃[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "홍련검: 공중에서 도룡섬[END]"
+            "translation": "홍련검:공중 도룡섬[END]"
         },
         {
             "offset": 1710984,
             "string": "蒼破刃：ダッシュ中に魔神剣[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "청파검: 대시 중에 마신검[END]"
+            "translation": "창파인: 대시 중에 마신검[END]"
         },
         {
             "offset": 1711016,
@@ -677,7 +677,7 @@
             "string": "一定時間でフードが回復する[END]",
             "original_bytes_length": 27,
             "available_bytes_size": 31,
-            "translation": "일정 시간이 지나면 음식이 회복된다[END]"
+            "translation": "일정 시간마다 음식 회복[END]"
         },
         {
             "offset": 1711064,
@@ -719,14 +719,14 @@
             "string": "回復晶術使用時に、術者もHP回復[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "회복 정술 사용 시, 시전자도 HP 회복[END]"
+            "translation": "회복 정술 시 술자도 HP 회복[END]"
         },
         {
             "offset": 1711184,
             "string": "攻撃毎にHP回復[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "공격할 때마다 HP 회복[END]"
+            "translation": "매공격 HP 회복[END]"
         },
         {
             "offset": 1711200,
@@ -740,7 +740,7 @@
             "string": "回避率低下攻撃[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "회피율 저하 공격[END]"
+            "translation": "회피율저하공격[END]"
         },
         {
             "offset": 1711232,
@@ -754,7 +754,7 @@
             "string": "命中率低下攻撃[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "명중률 저하 공격[END]"
+            "translation": "명중률저하공격[END]"
         },
         {
             "offset": 1711264,
@@ -796,7 +796,7 @@
             "string": "防御力低下攻撃[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "방어력 저하 공격[END]"
+            "translation": "방어력저하공격[END]"
         },
         {
             "offset": 1711376,
@@ -810,7 +810,7 @@
             "string": "攻撃力低下攻撃[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "공격력 저하 공격[END]"
+            "translation": "공격력저하공격[END]"
         },
         {
             "offset": 1711408,
@@ -824,7 +824,7 @@
             "string": "闇属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "어둠 속성 정술의 영창 시간 단축[END]"
+            "translation": "어둠 정술 영창 시간 단축[END]"
         },
         {
             "offset": 1711456,
@@ -880,7 +880,7 @@
             "string": "風属性晶術の詠唱時間短縮[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "바람 속성 정술의 영창 시간 단축[END]"
+            "translation": "바람 정술 영창 시간 단축[END]"
         },
         {
             "offset": 1711648,
@@ -999,7 +999,7 @@
             "string": "敵の術攻撃による硬化時間を縮める[END]",
             "original_bytes_length": 33,
             "available_bytes_size": 39,
-            "translation": "적의 정술 공격으로 인한 경직 시간을 줄인다[END]"
+            "translation": "적 정술 공격의 경직 시간을 줄인다[END]"
         },
         {
             "offset": 1712056,
@@ -1013,7 +1013,7 @@
             "string": "敵の物理攻撃による硬化時間を縮める[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
-            "translation": "적의 물리 공격으로 인한 경직 시간을 줄인다[END]"
+            "translation": "적 물리 공격의 경직 시간을 줄인다[END]"
         },
         {
             "offset": 1712112,
@@ -1041,7 +1041,7 @@
             "string": "特技・術技による敵硬化時間を延ばす[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
-            "translation": "기술・정술로 적의 경직 시간을 늘린다[END]"
+            "translation": "기술로 적의 경직 시간을 늘린다[END]"
         },
         {
             "offset": 1712200,
@@ -1132,7 +1132,7 @@
             "string": "CCを常に[TAG_015]にする[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "CC를 항상 [TAG_015]로 설정한다[END]"
+            "translation": "CC를 항상 [TAG_015]로 고정[END]"
         },
         {
             "offset": 1712488,
@@ -1153,7 +1153,7 @@
             "string": "与えるダメージが２倍に。ただし・・・[END]",
             "original_bytes_length": 37,
             "available_bytes_size": 39,
-            "translation": "주어지는 데미지가 2배가 된다. 단, ...[END]"
+            "translation": "주는 데미지가 2배가 된다. 단, ...[END]"
         },
         {
             "offset": 1712576,
@@ -1188,7 +1188,7 @@
             "string": "敵を倒したときにブラストゲージ加算[END]",
             "original_bytes_length": 35,
             "available_bytes_size": 39,
-            "translation": "적을 처치했을 때 블라스트 게이지가 추가된다[END]"
+            "translation": "적 처치 시 블라스트 게이지 증가[END]"
         },
         {
             "offset": 1712688,
@@ -1251,14 +1251,14 @@
             "string": "瀕死時に時々HPが[TAG_015]％回復[END]",
             "original_bytes_length": 28,
             "available_bytes_size": 31,
-            "translation": "빈사 상태에서 가끔 HP가 [TAG_015]％ 회복된다[END]"
+            "translation": "빈사 시 가끔 HP [TAG_015]％ 회복[END]"
         },
         {
             "offset": 1712856,
             "string": "一定時間毎にブラストゲージ加算[END]",
             "original_bytes_length": 31,
             "available_bytes_size": 31,
-            "translation": "일정 시간마다 블라스트 게이지가 추가된다[END]"
+            "translation": "정기적 블라스트 게이지 증가[END]"
         },
         {
             "offset": 1712888,
@@ -1272,7 +1272,7 @@
             "string": "一定時間毎にHPが微量回復[END]",
             "original_bytes_length": 25,
             "available_bytes_size": 31,
-            "translation": "일정 시간마다 HP가 미량 회복된다[END]"
+            "translation": "일정 시간마다 HP 미량 회복[END]"
         },
         {
             "offset": 1712936,
@@ -1748,7 +1748,7 @@
             "string": "術防御力＋[TAG_015][END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "정술 방어력＋[TAG_015][END]"
+            "translation": "정술방어＋[TAG_015][END]"
         },
         {
             "offset": 1714160,
@@ -1776,7 +1776,7 @@
             "string": "術攻撃力＋[TAG_015][END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "정술 공격력＋[TAG_015][END]"
+            "translation": "정술공격＋[TAG_015][END]"
         },
         {
             "offset": 1714224,
