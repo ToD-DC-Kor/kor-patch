@@ -1496,14 +1496,14 @@
             "string": "一夜漬けが出るストラップ。[LINE]\n一夜で漬けた漬物。[LINE]\nあっさりして食べやすい。[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "밤새 절임이 나오는 스트랩.[LINE]\n채소를 하룻밤 절인 요리.[LINE]\n담백해 먹기 쉽다.[END]"
+            "translation": "밤샘 절임이 나오는 스트랩.[LINE]\n채소를 하룻밤 절인 요리.[LINE]\n담백해 먹기 쉽다.[END]"
         },
         {
             "offset": 1809880,
             "string": "[Sign_3]一夜漬け[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "[Sign_3]밤새 절임[END]"
+            "translation": "[Sign_3]밤샘 절임[END]"
         },
         {
             "offset": 1809896,
