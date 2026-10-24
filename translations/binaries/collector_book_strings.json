@@ -12,7 +12,7 @@
             "string": "貴重品取得率[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "보물 획득률[END]"
+            "translation": "귀중품 획득률[END]"
         },
         {
             "offset": 12016,
@@ -68,7 +68,7 @@
             "string": "貴重品[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "보물[END]"
+            "translation": "귀중품[END]"
         },
         {
             "offset": 12144,
@@ -124,7 +124,7 @@
             "string": "バンダナ[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "두건[END]"
+            "translation": "반다나[END]"
         },
         {
             "offset": 12232,
@@ -159,14 +159,14 @@
             "string": "篭手[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "완갑[END]"
+            "translation": "권갑[END]"
         },
         {
             "offset": 12280,
             "string": "固有装備[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "고유장비[END]"
+            "translation": "고유 장비[END]"
         },
         {
             "offset": 12296,
@@ -208,7 +208,7 @@
             "string": "アーマー[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "아머[END]"
+            "translation": "갑옷[END]"
         },
         {
             "offset": 12368,

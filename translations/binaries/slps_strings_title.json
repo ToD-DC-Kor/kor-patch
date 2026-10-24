@@ -5,7 +5,7 @@
             "string": "商いの資質は人それぞれ。[LINE]\nみんなのハートをつかむ笑顔で、[LINE]\n今日も明日も頑張ります。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "장사의 재능은 사람마다 다르다.[LINE]\n모두의 마음을 사로잡는 미소로,[LINE]\n오늘도 내일도 열심히 하겠습니다.[END]"
+            "translation": "장사 재능은 제각각.[LINE]\n모두의 마음을 잡는 미소로,[LINE]\n오늘도 내일도 열심히 하겠습니다.[END]"
         },
         {
             "offset": 1817688,
@@ -19,7 +19,7 @@
             "string": "トリプルスターに輝くテクニックで[LINE]\n世界中の憧れを一身に纏う。[LINE]\n世界最高峰に相応しい最強の証。[END]",
             "original_bytes_length": 91,
             "available_bytes_size": 95,
-            "translation": "트리플 스타에 빛나는 테크닉으로[LINE]\n전 세계의 동경을 한 몸에 받는다.[LINE]\n세계 최고에 걸맞은 최강의 증거.[END]"
+            "translation": "트리플 스타에 빛나는 테크닉으로[LINE]\n세계의 동경을 한 몸에 받는다.[LINE]\n세계 최고에 걸맞은 최강의 증거.[END]"
         },
         {
             "offset": 1817792,
@@ -54,14 +54,14 @@
             "string": "妹キャラ代表[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "여동생 캐릭터 대표[END]"
+            "translation": "여동생 대표[END]"
         },
         {
             "offset": 1817984,
             "string": "ナチュレンジャーの妹分のセワヤキジャー。[LINE]\nだらしない毎日の寝起きを、[LINE]\nしっかりサポート？[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "자연의 수호자의 동생 자연의 돌보미.[LINE]\n칠칠치 못한 오빠가 매일 아침[LINE]\n잠에서 깰 수 있게 확실히 서포트?[END]"
+            "translation": "자연의 수호자의 동생 자연의 돌보미.[LINE]\n칠칠치 못한 매일 아침[LINE]\n기상을 확실히 지원?[END]"
         },
         {
             "offset": 1818072,
@@ -89,7 +89,7 @@
             "string": "家事手伝いは、[LINE]\nやってみて初めて分かる[LINE]\n大変な仕事です。[END]",
             "original_bytes_length": 55,
             "available_bytes_size": 55,
-            "translation": "가사 도우미는,[LINE]\n해 봐야 비로소 알 수 있는[LINE]\n힘든 일입니다.[END]"
+            "translation": "가사일 돕기는[LINE]\n해 봐야 알 수 있는[LINE]\n힘든 일입니다.[END]"
         },
         {
             "offset": 1818288,
@@ -103,7 +103,7 @@
             "string": "優しさでドラゴンを育む者。[LINE]\n命は繋がりを生み[LINE]\nやがて旅立ちを迎える。[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "다정함으로 드래곤을 기르는 자.[LINE]\n생명은 인연을 낳고[LINE]\n이윽고 여행을 떠나게 된다.[END]"
+            "translation": "다정히 드래곤을 기르는 자.[LINE]\n생명은 인연을 낳고[LINE]\n이윽고 떠날 때가 온다.[END]"
         },
         {
             "offset": 1818384,
@@ -117,7 +117,7 @@
             "string": "炎の使い手[Stahn]の妹に[LINE]\n相応しく、炎を操ったガール。[LINE]\nまあ、偶然ですが。[END]",
             "original_bytes_length": 70,
             "available_bytes_size": 71,
-            "translation": "불 속성 사용자인 [Stahn]의 [LINE]\n여동생답게 불을 다루는 소녀.[LINE]\n글쎄, 우연이지만.[END]"
+            "translation": "불꽃을 다루는 [Stahn]의[LINE]\n여동생답게 불을 다루는 소녀.[LINE]\n뭐, 우연이지만.[END]"
         },
         {
             "offset": 1818480,
@@ -145,7 +145,7 @@
             "string": "商いの資質は人それぞれ。[LINE]\n知名度を生かして、[LINE]\n[Kongman]グッズを展開予定。[END]",
             "original_bytes_length": 68,
             "available_bytes_size": 71,
-            "translation": "장사의 재능은 사람마다 다르다.[LINE]\n인지도를 살려,[LINE]\n[Kongman] 상품을 전개할 예정.[END]"
+            "translation": "장사의 재능은 사람마다 다르다.[LINE]\n인지도를 살려[LINE]\n[Kongman] 상품을 판매할 예정.[END]"
         },
         {
             "offset": 1818664,
@@ -159,7 +159,7 @@
             "string": "数多の伝説を残す神に由来する。[LINE]\nその両腕は栄光を掴みとるためのもの。[LINE]\n闘神という頂きに達した最強の証。[END]",
             "original_bytes_length": 101,
             "available_bytes_size": 103,
-            "translation": "수많은 전설을 남긴 신에게서 유래한 이름.[LINE]\n두 팔은 영광을 쟁취하기 위한 것.[LINE]\n투신이라는 정점에 도달한 최강의 증거.[END]"
+            "translation": "많은 전설을 남긴 신에서 유래한다.[LINE]\n두 팔은 영광을 쟁취할 것.[LINE]\n투신이라는 정점에 도달한 최강의 증거.[END]"
         },
         {
             "offset": 1818792,
@@ -173,7 +173,7 @@
             "string": "湯につかりすぎると[LINE]\n顔が真っ赤になるから。[LINE]\nというだけの理由。[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "탕에 너무 오래 있으면[LINE]\n얼굴이 새빨개지기 때문에.[LINE]\n그냥 그런 이유.[END]"
+            "translation": "탕에 오래 있으면[LINE]\n얼굴이 새빨개지기 때문에.[LINE]\n그냥 그런 이유.[END]"
         },
         {
             "offset": 1818880,
@@ -215,7 +215,7 @@
             "string": "実りすぎた筋肉が時としてアダとなる。[LINE]\n筋肉が重くて速く走れない。[LINE]\n[END]",
             "original_bytes_length": 65,
             "available_bytes_size": 71,
-            "translation": "너무 발달한 근육이 때로는 독이 된다.[LINE]\n근육이 무거워서 빠르게 달릴 수 없다.[LINE]\n[END]"
+            "translation": "너무 발달한 근육이 때로는 독이 된다.[LINE]\n근육이 무거워 빨리 달릴 수 없다.[LINE]\n[END]"
         },
         {
             "offset": 1819216,
@@ -243,21 +243,21 @@
             "string": "好きなあのひとのため、[LINE]\n男は愛に生きる事を誓う。[LINE]\n[END]",
             "original_bytes_length": 49,
             "available_bytes_size": 55,
-            "translation": "좋아하는 그 사람을 위해,[LINE]\n남자는 사랑으로 살겠다고 맹세한다.[LINE]\n[END]"
+            "translation": "좋아하는 이를 위해[LINE]\n남자는 사랑에 살겠다고 맹세한다.[LINE]\n[END]"
         },
         {
             "offset": 1819400,
             "string": "愛に生きる男[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "사랑으로 사는 남자[END]"
+            "translation": "순정남[END]"
         },
         {
             "offset": 1819416,
             "string": "己の欲望を満たすため、[LINE]\nその男は神に挑む。[LINE]\n[END]",
             "original_bytes_length": 43,
             "available_bytes_size": 47,
-            "translation": "자신의 욕망을 채우기 위해,[LINE]\n그 남자는 신에게 도전한다.[LINE]\n[END]"
+            "translation": "제 욕망을 채우려[LINE]\n그 남자는 신에게 도전한다.[LINE]\n[END]"
         },
         {
             "offset": 1819464,
@@ -271,7 +271,7 @@
             "string": "その拳に込めた想い、[LINE]\n時に、子供をなでるものとなり[LINE]\n時に、悪者を叩きのめすものとなれ。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "그 주먹에 담긴 마음은,[LINE]\n때로는 아이를 어루만지는 것이 되고[LINE]\n때로는 악당을 때려눕히는 것이 된다.[END]"
+            "translation": "그 주먹에 담긴 마음,[LINE]\n때로는 아이를 어루만지고[LINE]\n때로는 악당을 때려눕혀라.[END]"
         },
         {
             "offset": 1819576,
@@ -292,7 +292,7 @@
             "string": "街のヒーロー[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "거리의 히어로[END]"
+            "translation": "마을의 영웅[END]"
         },
         {
             "offset": 1819672,
@@ -306,14 +306,14 @@
             "string": "トップレスマン[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "상의 없음[END]"
+            "translation": "웃통 벗은 남자[END]"
         },
         {
             "offset": 1819760,
             "string": "闘技場のチャンピオン。[LINE]\n富める者も貧しい者も関係なく、[LINE]\n憧れをもって迎える。[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "투기장의 챔피언.[LINE]\n부유한 자든 가난한 자든 상관 없이,[LINE]\n동경하는 마음으로 맞이한다.[END]"
+            "translation": "투기장의 챔피언.[LINE]\n부유한 자든 가난한 자든 상관없이,[LINE]\n동경하는 마음으로 맞이한다.[END]"
         },
         {
             "offset": 1819840,
@@ -327,14 +327,14 @@
             "string": "商いの資質は人それぞれ。[LINE]\n諸外国への友好関係を築いた[LINE]\n初めての人物といえる。[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "장사의 재능은 사람마다 다르다.[LINE]\n여러 나라와의 우호 관계를 구축한[LINE]\n첫 번째 인물이라고 할 수 있지.[END]"
+            "translation": "장사의 재능은 사람마다 다르다.[LINE]\n여러 나라와 우호를 맺은[LINE]\n첫 인물이라 할 수 있다.[END]"
         },
         {
             "offset": 1819936,
             "string": "海外展開商人[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "해외 전개 상인[END]"
+            "translation": "해외 진출 상인[END]"
         },
         {
             "offset": 1819952,
@@ -355,14 +355,14 @@
             "string": "皆の騒動に無関心を装いながら、[LINE]\nしっかり横目で楽しむ事を忘れない。[LINE]\nこれは新種と言えるかもしれない。[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "모두의 소동에 무관심한 척하면서,[LINE]\n곁눈질로 즐기는 것을 잊지 않는다.[LINE]\n이건 신종이라고 할 수 있을지도 모른다.[END]"
+            "translation": "모두의 소동에 무관심한 척하면서,[LINE]\n곁눈질로 즐기기를 잊지 않는다.[LINE]\n신종이라 할 수 있을지도 모른다.[END]"
         },
         {
             "offset": 1820176,
             "string": "しっとりスケベ[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "촉촉한 호색가[END]"
+            "translation": "은근한 호색가[END]"
         },
         {
             "offset": 1820192,
@@ -425,7 +425,7 @@
             "string": "世界中の音と遊び、[LINE]\n人生を楽しむ人。[LINE]\nそれを音遊楽人と呼ぶ。[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63,
-            "translation": "세계의 소리와 놀며,[LINE]\n인생을 즐기는 사람.[LINE]\n그것을 음유락인이라고 부른다.[END]"
+            "translation": "세계 소리와 놀며[LINE]\n인생을 즐기는 사람.[LINE]\n그를 음유락인이라 부른다.[END]"
         },
         {
             "offset": 1820680,
@@ -453,28 +453,28 @@
             "string": "哀しみの戦いの中、[LINE]\n楽士は何思ふ……[LINE]\n[END]",
             "original_bytes_length": 37,
             "available_bytes_size": 39,
-            "translation": "슬픈 전투 속에서,[LINE]\n악사는 무엇을 생각하는가…[LINE]\n[END]"
+            "translation": "슬픈 싸움 속[LINE]\n악사는 무슨 생각을…[LINE]\n[END]"
         },
         {
             "offset": 1820808,
             "string": "哀闘楽士[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "비련의 악사[END]"
+            "translation": "슬픔 속의 악사[END]"
         },
         {
             "offset": 1820824,
             "string": "つかみ所のない道化は、[LINE]\nその心の奥に[LINE]\n何をしまっているのだろう。[END]",
             "original_bytes_length": 63,
             "available_bytes_size": 63,
-            "translation": "잡을 수 없는 광대는,[LINE]\n그 마음 깊숙한 곳에[LINE]\n무엇을 숨기고 있을까.[END]"
+            "translation": "종잡을 수 없는 광대는[LINE]\n마음 깊숙한 곳에[LINE]\n무엇을 숨기고 있을까.[END]"
         },
         {
             "offset": 1820888,
             "string": "封印男[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "봉인된 남자[END]"
+            "translation": "봉인남[END]"
         },
         {
             "offset": 1820896,
@@ -509,21 +509,21 @@
             "string": "商いの資質は人それぞれ。[LINE]\n一発逆転を狙って[LINE]\nいつかは大穴いただきます。[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71,
-            "translation": "장사의 재능은 사람마다 다르다.[LINE]\n일발역전을 노리고[LINE]\n언젠가 대박을 터뜨리겠습니다.[END]"
+            "translation": "장사 재능은 제각각.[LINE]\n일발역전을 노리고[LINE]\n언젠가 대박을 터뜨리겠습니다.[END]"
         },
         {
             "offset": 1821104,
             "string": "成り上がり商人[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "성장하는 상인[END]"
+            "translation": "출세 상인[END]"
         },
         {
             "offset": 1821120,
             "string": "女神を宿した視線の先に[LINE]\n見つめるは、対する者の破滅なのか。[LINE]\n弓と美を司る女神に愛された最強の証。[END]",
             "original_bytes_length": 95,
             "available_bytes_size": 95,
-            "translation": "여신을 품은 시선의 끝에[LINE]\n바라보는 것은, 상대의 파멸인가.[LINE]\n활과 아름다움의 여신에게 사랑받은 최강의 증거.[END]"
+            "translation": "여신을 품은 시선 끝에[LINE]\n바라보는 건 상대의 파멸인가.[LINE]\n활과 미의 여신에게 사랑받은 최강의 증거.[END]"
         },
         {
             "offset": 1821216,
@@ -551,7 +551,7 @@
             "string": "弓匠の孫の[Chelsea]・トーン（１４）。[LINE]\n１５１ｃｍ３９ｋｇ[LINE]\n外見離れした弓の腕前を持つ。[END]",
             "original_bytes_length": 84,
             "available_bytes_size": 87,
-            "translation": "활쏘기 장인의 손녀 [Chelsea]・톤(14세).[LINE]\n151cm 39kg[LINE]\n외모와는 다른 활솜씨를 가지고 있다.[END]"
+            "translation": "활 장인의 손녀 [Chelsea]・톤(14세).[LINE]\n151cm 39kg[LINE]\n외모로 짐작하기 힘든 활솜씨를 지녔다.[END]"
         },
         {
             "offset": 1821448,
@@ -593,7 +593,7 @@
             "string": "祖父譲りの才能で、[LINE]\n弓術界の新星となる。[LINE]\nどんな的でも射抜いてみせます[MUSIC][END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "할아버지에게 물려받은 재능으로,[LINE]\n궁술계의 신성이 된다.[LINE]\n어떤 목표든 꿰뚫겠습니다[MUSIC][END]"
+            "translation": "할아버지의 재능을 물려받아[LINE]\n궁술계의 신성이 된다.[LINE]\n어떤 과녁도 맞혀요[MUSIC][END]"
         },
         {
             "offset": 1821736,
@@ -607,7 +607,7 @@
             "string": "一度の過ちとはいえ、[LINE]\n弱音を吐けばこの人を悲しませるから。[LINE]\n私は再び仮面をかぶる。[END]",
             "original_bytes_length": 81,
             "available_bytes_size": 87,
-            "translation": "한 번의 실수라도 약한 소리를 하면[LINE]\n이 사람을 슬프게 하니까.[LINE]\n나는 다시 가면을 쓴다.[END]"
+            "translation": "한 번 실수했을 뿐이지만,[LINE]\n약한 소리를 하면 이분이 슬퍼하니까.[LINE]\n나는 다시 가면을 쓴다.[END]"
         },
         {
             "offset": 1821840,
@@ -663,14 +663,14 @@
             "string": "大人なこども？[LINE]\nこどもな大人？[LINE]\n難しい年頃です。[END]",
             "original_bytes_length": 47,
             "available_bytes_size": 47,
-            "translation": "어른 같은 아이?[LINE]\n아이 같은 어른?[LINE]\n어려운 나이입니다.[END]"
+            "translation": "어른 같은 아이?[LINE]\n아이 같은 어른?[LINE]\n어려운 나이죠.[END]"
         },
         {
             "offset": 1822184,
             "string": "こどな[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "어린이[END]"
+            "translation": "애어른[END]"
         },
         {
             "offset": 1822192,
@@ -691,7 +691,7 @@
             "string": "商いの資質は人それぞれ。[LINE]\n戦士として今日も、[LINE]\n戦いと商いに明け暮れる？[END]",
             "original_bytes_length": 69,
             "available_bytes_size": 71,
-            "translation": "장사의 재능은 사람마다 다르다.[LINE]\n전사로서 오늘도,[LINE]\n전투와 상업에 몰두하고 있나?[END]"
+            "translation": "장사 재능은 제각각.[LINE]\n전사로서 오늘도,[LINE]\n전투와 상업에 몰두하고 있나?[END]"
         },
         {
             "offset": 1822352,
@@ -705,7 +705,7 @@
             "string": "互いの引力で支えあう連星、[LINE]\nその身もその魂も決して離れない。[LINE]\nふたつでひとつの輝きを放つ最強の証。[END]",
             "original_bytes_length": 97,
             "available_bytes_size": 103,
-            "translation": "서로의 인력으로 서로를 지탱하는 쌍성,[LINE]\n그 몸도 그 영혼도 결코 떨어지지 않는다.[LINE]\n둘이서 하나의 빛을 발하는 최강의 증거.[END]"
+            "translation": "서로의 인력으로 지탱하는 쌍성,[LINE]\n몸도 영혼도 결코 떨어지지 않는다.[LINE]\n둘이 하나로 빛나는 최강의 증거.[END]"
         },
         {
             "offset": 1822472,
@@ -733,7 +733,7 @@
             "string": "サイリルの[Mary]・エージェント（２４）。[LINE]\n１７０ｃｍ５４ｋｇ[LINE]\nダリスの剣を肌身離さずに持ち歩いている。[END]",
             "original_bytes_length": 102,
             "available_bytes_size": 103,
-            "translation": "사이릴의 [Mary]・에이전트(24).[LINE]\n170cm 54kg[LINE]\n다리스의 검을 항상 지니고 다닌다.[END]"
+            "translation": "사이릴의 [Mary]・에이젠트(24).[LINE]\n170cm 54kg[LINE]\n다리스의 검을 항상 지니고 다닌다.[END]"
         },
         {
             "offset": 1822712,
@@ -775,7 +775,7 @@
             "string": "人々が「打ち破りし者」と呼ぶ存在。[LINE]\n眼前の敵や人生にそびえる困難、[LINE]\nそして微妙な空気さえも打ち破る。[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "사람들이 「부수는 자」라고 부르는 존재.[LINE]\n눈앞의 적과 인생에 닥치는 고난,[LINE]\n그리고 미묘한 분위기조차도 부순다.[END]"
+            "translation": "사람들이 「부수는 자」라 부르는 존재.[LINE]\n눈앞의 적과 인생에 닥친 고난,[LINE]\n미묘한 분위기조차도 부순다.[END]"
         },
         {
             "offset": 1823064,
@@ -817,14 +817,14 @@
             "string": "ねこを心から愛し尊ぶ。[LINE]\nその心に火がつけばもう誰も止められない。[LINE]\nねこ派のあなたならわかるはず！[END]",
             "original_bytes_length": 95,
             "available_bytes_size": 95,
-            "translation": "고양이를 진심으로 사랑하고 존중한다.[LINE]\n불붙은 마음은 이제 누구도 막을 수 없다.[LINE]\n고양이파인 당신이라면 알 수 있겠지![END]"
+            "translation": "고양이를 진심으로 사랑하고 존중한다.[LINE]\n마음에 불붙으면 누구도 못 막는다.[LINE]\n고양이파라면 알겠지![END]"
         },
         {
             "offset": 1823400,
             "string": "ねこバーニン[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "고양이 집사[END]"
+            "translation": "불타는 집사[END]"
         },
         {
             "offset": 1823416,
@@ -859,7 +859,7 @@
             "string": "右手に携えるその戦斧で[LINE]\nいったいどれだけの敵を倒してきたのか。[LINE]\n褐色の肌と赤髪の女戦士。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "오른손에 들고 있는 그 전투 도끼로[LINE]\n도대체 얼마나 많은 적을 처치해왔는가.[LINE]\n갈색 피부와 빨간 머리의 여전사.[END]"
+            "translation": "오른손의 전투 도끼로[LINE]\n대체 얼마나 많은 적을 쓰러뜨렸나.[LINE]\n갈색 피부와 빨간 머리의 여전사.[END]"
         },
         {
             "offset": 1823720,
@@ -873,7 +873,7 @@
             "string": "この世の最深部に達した剣士の称号。[LINE]\n史上最も凶暴凶悪な戦士を[LINE]\n倒した者だけに贈られる。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "세상에서 가장 깊은 곳에 도달한 검사의 칭호.[LINE]\n역사상 가장 잔혹하고 악랄한 전사를[LINE]\n처치한 자에게만 수여된다.[END]"
+            "translation": "세상 최심부에 도달한 검사의 칭호.[LINE]\n사상 가장 흉악한 전사를[LINE]\n처치한 자에게만 수여된다.[END]"
         },
         {
             "offset": 1823832,
@@ -894,7 +894,7 @@
             "string": "胸までタオル[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "가슴까지 타올[END]"
+            "translation": "가슴까지 수건[END]"
         },
         {
             "offset": 1823968,
@@ -915,14 +915,14 @@
             "string": "連絡もしないで突然現れる者。[LINE]\n大抵は迷惑だが、たまに嬉しい。[LINE]\n[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "연락도 없이 갑자기 나타나는 자.[LINE]\n대부분은 귀찮지만, 가끔은 기쁘다.[LINE]\n[END]"
+            "translation": "연락도 없이 갑자기 나타나는 자.[LINE]\n대개 귀찮지만 가끔 기쁘다.[LINE]\n[END]"
         },
         {
             "offset": 1824152,
             "string": "突然の訪問者[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "갑작스러운 방문자[END]"
+            "translation": "돌연한 방문자[END]"
         },
         {
             "offset": 1824168,
@@ -936,7 +936,7 @@
             "string": "道草剣士[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "딴짓검사[END]"
+            "translation": "곁길 검사[END]"
         },
         {
             "offset": 1824280,
@@ -957,7 +957,7 @@
             "string": "セインガルド国に舞う一輪の薔薇。[LINE]\nしてその正体は！[LINE]\n[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "세인가르드 왕국에 흩날리는 한 송이 장미.[LINE]\n그 정체는 무엇인가![LINE]\n[END]"
+            "translation": "세인가르드에 흩날리는 한 송이 장미.[LINE]\n그 정체는![LINE]\n[END]"
         },
         {
             "offset": 1824408,
@@ -985,7 +985,7 @@
             "string": "正式に王国軍には所属しない剣士。[LINE]\nその評価は非常に高く、国王をはじめ[LINE]\n民からの信頼も非常に厚い。[END]",
             "original_bytes_length": 95,
             "available_bytes_size": 95,
-            "translation": "정식으로 왕국 군에 소속되지 않은 검사.[LINE]\n그 평가는 매우 높고, 국왕을 비롯한[LINE]\n국민들의 신뢰도 매우 두텁다.[END]"
+            "translation": "왕국군에 정식 소속되지 않은 검사.[LINE]\n평가가 매우 높고 국왕과[LINE]\n백성의 신뢰도 두텁다.[END]"
         },
         {
             "offset": 1824640,
@@ -999,7 +999,7 @@
             "string": "商いの資質は人それぞれ。[LINE]\nどんな些細な商売も[LINE]\n国家事業に変えてみせます。[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "장사의 재능은 사람마다 다르다.[LINE]\n어떤 사소한 장사도[LINE]\n국가사업으로 만들어 보이겠습니다.[END]"
+            "translation": "장사 재능은 제각각.[LINE]\n어떤 사소한 장사도[LINE]\n국가사업으로 만들겠습니다.[END]"
         },
         {
             "offset": 1824728,
@@ -1013,14 +1013,14 @@
             "string": "身を刺す氷雪から皆を守り、[LINE]\nやがて来る暖かな春風を約束する者。[LINE]\n厳しさと優しさを備えし者の最強の証。[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "살을 에는 추위로부터 모두를 보호하고,[LINE]\n곧 올 따뜻한 봄바람을 약속하는 자.[LINE]\n엄격함과 다정함을 갖춘 최강의 증거.[END]"
+            "translation": "살 에는 빙설에서 모두를 지키고[LINE]\n다가올 봄바람의 온기를 약속하는 자.[LINE]\n엄격함과 다정함을 갖춘 최강의 증거.[END]"
         },
         {
             "offset": 1824848,
             "string": "氷雪と春風の守護者[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "얼음과 봄바람의 수호자[END]"
+            "translation": "빙설과 봄바람의 수호자[END]"
         },
         {
             "offset": 1824872,
@@ -1041,7 +1041,7 @@
             "string": "[Woodrow]・ケルヴィン王（２３）。[LINE]\n１８１ｃｍ６８ｋｇ[LINE]\nソーディアンイクティノスのマスター。[END]",
             "original_bytes_length": 88,
             "available_bytes_size": 88,
-            "translation": "[Woodrow]・켈빈 왕 (23세).[LINE]\n181cm 68kg[LINE]\n소디안 익티노스의 마스터.[END]"
+            "translation": "[Woodrow]・켈빈 왕 (23세).[LINE]\n181cm 68kg[LINE]\n소디언 익티노스의 마스터.[END]"
         },
         {
             "offset": 1825080,
@@ -1055,14 +1055,14 @@
             "string": "世界のあらゆる知識に触れてみたいと、[LINE]\n限りない知的欲求から設立された研究会。[LINE]\nその男子部長として奮闘する。[END]",
             "original_bytes_length": 105,
             "available_bytes_size": 111,
-            "translation": "세상의 모든 지식을 접하고 싶다는[LINE]\n끝없는 지적 욕구로 설립된 연구회.[LINE]\n그 남자 부장으로서 분투한다.[END]"
+            "translation": "세상의 모든 지식을 접하고 싶다는[LINE]\n끝없는 지적 욕구로 설립된 연구회.[LINE]\n그 남자부 부장으로서 분투한다.[END]"
         },
         {
             "offset": 1825208,
             "string": "クイズ研究会男子部長[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "퀴즈 연구회 남성 부장[END]"
+            "translation": "퀴즈 연구회 남자부장[END]"
         },
         {
             "offset": 1825232,
@@ -1090,7 +1090,7 @@
             "string": "兄気分？[LINE]\n兄貴分？[LINE]\nまあどっちでもいいが。[END]",
             "original_bytes_length": 41,
             "available_bytes_size": 47,
-            "translation": "형 기분인가?[LINE]\n형님 기분인가?[LINE]\n뭐 어느 쪽이든 상관없지만.[END]"
+            "translation": "형 기분?[LINE]\n형 노릇?[LINE]\n뭐 어느 쪽이든 상관없지만.[END]"
         },
         {
             "offset": 1825408,
@@ -1132,7 +1132,7 @@
             "string": "雪国ファンダリアの王。[LINE]\n賢王イザークの後を継ぎ、[LINE]\n国と国民の頂点に鎮座する。[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "눈의 나라 팬더리아의 왕.[LINE]\n현명한 왕 이자크의 뒤를 이어,[LINE]\n나라와 국민의 정점에 군림한다.[END]"
+            "translation": "설국 팬더리아의 왕.[LINE]\n현왕 이자크의 뒤를 이어,[LINE]\n나라와 국민의 정점에 군림한다.[END]"
         },
         {
             "offset": 1825720,
@@ -1146,7 +1146,7 @@
             "string": "ファンダリア王イザークの息子。[LINE]\n文武両道にくわえ眉目秀麗と、[LINE]\nまさに、国の象徴的な存在。[END]",
             "original_bytes_length": 87,
             "available_bytes_size": 87,
-            "translation": "팬더리아 왕 이자크의 아들.[LINE]\n문무를 겸비하고 용모도 빼어나,[LINE]\n말 그대로 나라의 상징적인 존재.[END]"
+            "translation": "팬더리아 왕 이자크의 아들.[LINE]\n문무를 겸비하고 용모도 빼어나,[LINE]\n말 그대로 나라의 상징.[END]"
         },
         {
             "offset": 1825824,
@@ -1174,7 +1174,7 @@
             "string": "商いの資質は人それぞれ。[LINE]\nみなさんが喜んでくれるならと[LINE]\n今日も格安商売です。[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "장사의 재능은 사람마다 다르다.[LINE]\n여러분의 기쁨을 위해[LINE]\n오늘도 저렴히 모시겠습니다.[END]"
+            "translation": "장사 재능은 제각각.[LINE]\n여러분의 기쁨을 위해[LINE]\n오늘도 저렴히 모시겠습니다.[END]"
         },
         {
             "offset": 1826000,
@@ -1195,14 +1195,14 @@
             "string": "六大元素の申し子[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "육대 원소의 자식[END]"
+            "translation": "육대 원소의 총아[END]"
         },
         {
             "offset": 1826144,
             "string": "お風呂の時だってメガネは外しません。[LINE]\nでも曇ってしまって前が見えません。[LINE]\nメガネ、メガネ……[END]",
             "original_bytes_length": 91,
             "available_bytes_size": 95,
-            "translation": "목욕할 때도 안경은 벗지 않습니다.[LINE]\n하지만 흐려서 앞이 보이지 않네요.[LINE]\n안경, 안경…[END]"
+            "translation": "목욕할 때도 안경은 벗지 않습니다.[LINE]\n하지만 김이 서려 앞이 안 보입니다.[LINE]\n안경, 안경……[END]"
         },
         {
             "offset": 1826240,
@@ -1216,7 +1216,7 @@
             "string": "[Philia]・フィリス司祭（１９）。[LINE]\n１６２ｃｍ４５ｋｇ[LINE]\nソーディアンクレメンテのマスター。[END]",
             "original_bytes_length": 86,
             "available_bytes_size": 87,
-            "translation": "[Philia]・필리스 사제(19세).[LINE]\n162cm 45kg[LINE]\n소디언 클레멘트의 마스터.[END]"
+            "translation": "[Philia]・필리스 사제(19세).[LINE]\n162cm 45kg[LINE]\n소디언 클레멘테의 마스터.[END]"
         },
         {
             "offset": 1826344,
@@ -1230,21 +1230,21 @@
             "string": "世界のあらゆる知識に触れてみたいと、[LINE]\n限りない知的欲求から設立された研究会。[LINE]\nその女子部長として以後、君臨する。[END]",
             "original_bytes_length": 111,
             "available_bytes_size": 111,
-            "translation": "세상의 모든 지식을 접하고 싶다는[LINE]\n끝없는 지적 욕구로 설립된 연구회.[LINE]\n그 여성 부장으로서 이후 군림한다.[END]"
+            "translation": "세상의 모든 지식을 접하고 싶다는[LINE]\n끝없는 지적 욕구로 설립된 연구회.[LINE]\n그 뒤 여자부 부장으로 군림한다.[END]"
         },
         {
             "offset": 1826480,
             "string": "クイズ研究会女子部長[END]",
             "original_bytes_length": 21,
             "available_bytes_size": 23,
-            "translation": "퀴즈 연구회 여성 부장[END]"
+            "translation": "퀴즈 연구회 여자부장[END]"
         },
         {
             "offset": 1826504,
             "string": "神より授かりし力で[LINE]\n神速の領域へと踏み始める。[LINE]\nそれがダッシュ神官。[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "신이 내린 힘으로[LINE]\n신속의 영역에 발을 내딛기 시작한다.[LINE]\n그것이 대시 신관이다.[END]"
+            "translation": "신이 내린 힘으로[LINE]\n신속의 영역에 첫발을 내딛는다.[LINE]\n그것이 대시 신관이다.[END]"
         },
         {
             "offset": 1826576,
@@ -1300,7 +1300,7 @@
             "string": "ストレイライズ神官として、[LINE]\n神との婚姻契約によりその恩寵を授かる。[LINE]\n[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "스트레이라이즈 신관으로서,[LINE]\n신과의 혼인 계약에 의해[LINE]\n그 은총을 받는다.[END]"
+            "translation": "스트레이라이즈 신관으로서,[LINE]\n신과의 혼인 계약에 의해 그 은총을 받는다.[LINE]\n[END]"
         },
         {
             "offset": 1826952,
@@ -1328,7 +1328,7 @@
             "string": "大空という自由を得た翼。[LINE]\nカゴを飛び出した鳥には、[LINE]\n無限の可能性が待っている。[END]",
             "original_bytes_length": 77,
             "available_bytes_size": 79,
-            "translation": "넓은 하늘이라는 자유를 얻은 날개.[LINE]\n새장 밖으로 날아간 새에게는,[LINE]\n무한한 가능성이 기다리고 있다.[END]"
+            "translation": "하늘이라는 자유를 얻은 날개.[LINE]\n새장 밖으로 난 새에게는[LINE]\n무한한 가능성이 기다린다.[END]"
         },
         {
             "offset": 1827160,
@@ -1342,7 +1342,7 @@
             "string": "メガネの奥の恋する乙女の瞳。[LINE]\nそんな瞳を見たら誰だって[LINE]\n勘違いするかも。[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "안경 너머의 사랑에 빠진 소녀의 눈.[LINE]\n그런 눈을 보면 누구든[LINE]\n착각할지도 모른다.[END]"
+            "translation": "안경 너머 사랑하는 소녀의 눈.[LINE]\n그런 눈을 보면 누구든[LINE]\n착각할지도 모른다.[END]"
         },
         {
             "offset": 1827256,
@@ -1370,7 +1370,7 @@
             "string": "ストレイライズ神殿の神の使いとして[LINE]\nその生涯を捧げる神職。[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63,
-            "translation": "스트레이라이즈 신전의 신의 사자로서[LINE]\n그 생애를 바치는 신직.[LINE]\n[END]"
+            "translation": "스트레이라이즈 신전에서 신의 사자로[LINE]\n일생을 바치는 성직자.[LINE]\n[END]"
         },
         {
             "offset": 1827424,
@@ -1405,14 +1405,14 @@
             "string": "守護慈愛の天使[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "수호 자애의 천사[END]"
+            "translation": "수호자애 천사[END]"
         },
         {
             "offset": 1827664,
             "string": "えーひとこと言っておきますけど、[LINE]\nあたしは昔からスレンダーに[LINE]\n憧れていたんだからね。[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "음, 한 마디 해두자면,[LINE]\n나는 예전부터 슬렌더를[LINE]\n동경해왔다는 거야.[END]"
+            "translation": "한마디만 해 둘게.[LINE]\n난 예전부터 날씬한 몸매를[LINE]\n동경해 왔다고.[END]"
         },
         {
             "offset": 1827752,
@@ -1426,7 +1426,7 @@
             "string": "孤児院育ちの[Rutee]・カトレット（１８）。[LINE]\n１５７ｃｍ４６ｋｇ[LINE]\nソーディアンアトワイトのマスター。[END]",
             "original_bytes_length": 96,
             "available_bytes_size": 96,
-            "translation": "고아원에서 자란 [Rutee]・커틀렛(18세).[LINE]\n157cm 46kg[LINE]\n소디언 아트와이트의 마스터.[END]"
+            "translation": "고아원에서 자란 [Rutee]・카틀릿(18세).[LINE]\n157cm 46kg[LINE]\n소디언 아트와이트의 마스터.[END]"
         },
         {
             "offset": 1827864,
@@ -1468,7 +1468,7 @@
             "string": "女は度胸！[LINE]\n兵どもが夢のあとよ……!?[LINE]\n[END]",
             "original_bytes_length": 37,
             "available_bytes_size": 39,
-            "translation": "여자는 배짱이야![LINE]\n영광은 꿈 속으로 사라졌다…!?[LINE]\n[END]"
+            "translation": "여자는 배짱![LINE]\n용사들 꿈의 옛터……!?[LINE]\n[END]"
         },
         {
             "offset": 1828096,
@@ -1482,21 +1482,21 @@
             "string": "素直で正直な女の子。[LINE]\n聞きにくい事だって聞けるかも？[LINE]\n[END]",
             "original_bytes_length": 53,
             "available_bytes_size": 55,
-            "translation": "솔직하고 정직한 여자아이.[LINE]\n듣기 거북한 말도 듣게 될지도?[LINE]\n[END]"
+            "translation": "솔직하고 정직한 여자아이.[LINE]\n어려운 질문도 할 수 있겠지?[LINE]\n[END]"
         },
         {
             "offset": 1828168,
             "string": "素直な女の子[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "솔직한 여자아이[END]"
+            "translation": "솔직한 소녀[END]"
         },
         {
             "offset": 1828184,
             "string": "永遠の若者の称号。[LINE]\nロックな魂を持ち続ける大人へ捧ぐ。[LINE]\n[END]",
             "original_bytes_length": 55,
             "available_bytes_size": 55,
-            "translation": "영원한 젊음의 칭호.[LINE]\n락의 영혼을 간직한 어른에게 바친다.[LINE]\n[END]"
+            "translation": "영원한 젊음의 칭호.[LINE]\n록 정신을 간직한 어른에게 바친다.[LINE]\n[END]"
         },
         {
             "offset": 1828240,
@@ -1510,7 +1510,7 @@
             "string": "どんな現実からも目をそらさない者。[LINE]\nそれが自らを傷つける事であっても、[LINE]\n事実だけを受け止める強さをもつ。[END]",
             "original_bytes_length": 103,
             "available_bytes_size": 103,
-            "translation": "어떤 현실에서도 눈을 돌리지 않는 자.[LINE]\n그것이 자신을 상처 입히는 일일지라도,[LINE]\n사실만을 받아들이는 강함을 가진다.[END]"
+            "translation": "어떤 현실에서도 눈을 돌리지 않는 자.[LINE]\n자신이 상처 입는 일이더라도,[LINE]\n사실만을 받아들이는 강함을 가진다.[END]"
         },
         {
             "offset": 1828368,
@@ -1552,7 +1552,7 @@
             "string": "世界経済を握るその諸手。[LINE]\n一番渡してはいけない人に、[LINE]\n渡してしまった称号……[END]",
             "original_bytes_length": 75,
             "available_bytes_size": 79,
-            "translation": "세계 경제를 쥐고 있는 두 손.[LINE]\n가장 주어서는 안 되는 사람에게,[LINE]\n주어져 버린 칭호…[END]"
+            "translation": "세계 경제를 쥔 두 손.[LINE]\n가장 주어서는 안 되는 사람에게,[LINE]\n주어져 버린 칭호…[END]"
         },
         {
             "offset": 1828664,
@@ -1566,7 +1566,7 @@
             "string": "クレスタ孤児院の長女。[LINE]\n幼い弟妹たちを全力で守りぬく。[LINE]\n[END]",
             "original_bytes_length": 55,
             "available_bytes_size": 55,
-            "translation": "크레스타 고아원의 장녀.[LINE]\n어린 동생들을 전력으로 지킨다.[LINE]\n[END]"
+            "translation": "크레스타 고아원의 장녀.[LINE]\n어린 동생들을 힘껏 지킨다.[LINE]\n[END]"
         },
         {
             "offset": 1828744,
@@ -1636,7 +1636,7 @@
             "string": "商いの資質は人それぞれ。[LINE]\n都で一旗上げようと、[LINE]\n今日も地道に依頼を受ける。[END]",
             "original_bytes_length": 73,
             "available_bytes_size": 79,
-            "translation": "장사의 재능은 사람마다 다르다.[LINE]\n도시에서 한 방을 터뜨기 위해,[LINE]\n오늘도 착실히 의뢰를 받자.[END]"
+            "translation": "장사의 재능은 사람마다 다르다.[LINE]\n도시에서 한몫 잡으려[LINE]\n오늘도 꾸준히 의뢰받는다.[END]"
         },
         {
             "offset": 1829240,
@@ -1664,7 +1664,7 @@
             "string": "[Kongman]と共に女湯を覗こうとした罪[LINE]\n許しがたし……！[LINE]\n「ちがう、俺は[Kongman]に……！」[END]",
             "original_bytes_length": 79,
             "available_bytes_size": 79,
-            "translation": "[Kongman]과 함께 여탕을 엿보려 한 죄[LINE]\n용서할 수 없다…![LINE]\n「아니, 나는 [Kongman]한테…！」[END]"
+            "translation": "[Kongman]과 함께 여탕을 엿보려 한 죄[LINE]\n용서할 수 없다…![LINE]\n「아니, 난 [Kongman]한테…！」[END]"
         },
         {
             "offset": 1829480,
@@ -1692,7 +1692,7 @@
             "string": "全ての自然と文明を愛し守り抜く、[LINE]\nそんな冒険家に贈られる名誉ある称号。[LINE]\n[END]",
             "original_bytes_length": 71,
             "available_bytes_size": 71,
-            "translation": "모든 자연과 문명을 사랑하고 지키는,[LINE]\n그런 모험가에게 주어지는[LINE]\n명예로운 칭호.[END]"
+            "translation": "모든 자연과 문명을 사랑하고 지키는[LINE]\n모험가에게 주는 명예로운 칭호.[LINE]\n[END]"
         },
         {
             "offset": 1829680,
@@ -1713,14 +1713,14 @@
             "string": "クイズ研究会員[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "퀴즈 연구회 회원[END]"
+            "translation": "퀴즈 연구회원[END]"
         },
         {
             "offset": 1829824,
             "string": "都会で夢を目指した少年が[LINE]\n故国で手にしたちょっとした栄光。[LINE]\n[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63,
-            "translation": "도시에서 꿈을 목표로 한 소년이[LINE]\n고향에서 손에 넣은 작은 영광.[LINE]\n[END]"
+            "translation": "도시에서 꿈을 좇던 소년이[LINE]\n고향에서 손에 넣은 작은 영광.[LINE]\n[END]"
         },
         {
             "offset": 1829888,
@@ -1762,7 +1762,7 @@
             "string": "事件が[Stahn]の新たな一面を開花させた。[LINE]\n人を見抜くその純粋さが[LINE]\n少年探偵の唯一無二の武器だ！[END]",
             "original_bytes_length": 90,
             "available_bytes_size": 95,
-            "translation": "사건이 [Stahn]의 새 면모를 꽃피웠다.[LINE]\n사람을 꿰뚫어보는 그 순수함이[LINE]\n소년 탐정의 유일무이한 무기다![END]"
+            "translation": "사건이 [Stahn]의 새 면모를 꽃피웠다.[LINE]\n사람을 꿰뚫어보는 순수함이[LINE]\n소년 탐정의 유일무이한 무기다![END]"
         },
         {
             "offset": 1830216,
@@ -1776,7 +1776,7 @@
             "string": "[Lilith]・エルロンの兄。[LINE]\nけど、未だに朝は起こしてもらってます。[LINE]\n[END]",
             "original_bytes_length": 62,
             "available_bytes_size": 63,
-            "translation": "[Lilith]・엘론의 오빠.[LINE]\n하지만, 아직도 아침에는[LINE]\n동생이 깨워주고 있다.[END]"
+            "translation": "[Lilith]・엘론의 오빠.[LINE]\n하지만 아직도 아침엔 동생이 깨워준다.[LINE]\n[END]"
         },
         {
             "offset": 1830296,
@@ -1818,7 +1818,7 @@
             "string": "闘技場を制した者に与えられる称号。[LINE]\nその強さは人々の憧れとともに[LINE]\n心に刻まれるだろう。[END]",
             "original_bytes_length": 85,
             "available_bytes_size": 87,
-            "translation": "투기장을 제패한 자에게 주어지는 칭호.[LINE]\n그 강함은 사람들의 동경과 함께[LINE]\n마음에 새겨질 것이다.[END]"
+            "translation": "투기장을 제패한 자에게 주는 칭호.[LINE]\n그 강함은 사람들의 동경과 함께[LINE]\n마음에 새겨질 것이다.[END]"
         },
         {
             "offset": 1830616,
@@ -1832,14 +1832,14 @@
             "string": "相手を守りたいからつく嘘もある。[LINE]\nその優しい嘘が時として[LINE]\n平和と安全を守る事も……？[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "상대를 지키기 위한 거짓말도 있다.[LINE]\n그 다정한 거짓말이 때로는[LINE]\n평화와 안전을 지키는 일도…?[END]"
+            "translation": "상대를 지키기 위한 거짓말도 있다.[LINE]\n그 다정한 거짓말이 때론[LINE]\n평화와 안전을 지키는 일도…?[END]"
         },
         {
             "offset": 1830720,
             "string": "優しい嘘つき[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "다정한 거짓말쟁이[END]"
+            "translation": "착한 거짓말꾼[END]"
         },
         {
             "offset": 1830736,
@@ -1860,7 +1860,7 @@
             "string": "不思議な剣を操る者に贈られる称号。[LINE]\nソーディアンもその存在を知らなければ、[LINE]\nただの妙な剣。[END]",
             "original_bytes_length": 89,
             "available_bytes_size": 95,
-            "translation": "희안한 검을 다루는 자의 칭호.[LINE]\n소디언이라도 정체를 모르는 사람에겐[LINE]\n그저 이상한 검일 뿐이다.[END]"
+            "translation": "신기한 검을 다루는 자의 칭호.[LINE]\n소디언도 그 정체를 모르는 사람에겐[LINE]\n그저 이상한 검일 뿐이다.[END]"
         },
         {
             "offset": 1830944,
@@ -1874,14 +1874,14 @@
             "string": "田舎育ちの正直者。[LINE]\nその正直さに[LINE]\n心開く人もいるかもしれない。[END]",
             "original_bytes_length": 61,
             "available_bytes_size": 63,
-            "translation": "시골에서 자란 정직한 사람.[LINE]\n그 정직함에 마음을 여는 사람이[LINE]\n있을지도 모른다.[END]"
+            "translation": "시골 출신 정직한 이.[LINE]\n그 정직함에 마음을 열 이도[LINE]\n있을지 모른다.[END]"
         },
         {
             "offset": 1831024,
             "string": "田舎の正直者[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "정직한 시골 사람[END]"
+            "translation": "시골 정직이[END]"
         },
         {
             "offset": 1831040,

@@ -5,7 +5,7 @@
             "string": "[Select_ani]カスタム [Circle_ani]決定 [Cross_ani]戻る[END]",
             "original_bytes_length": 34,
             "available_bytes_size": 47,
-            "translation": "[Select_ani]커스텀 [Circle_ani]결정 [Cross_ani]돌아가기[END]"
+            "translation": "[Select_ani]커스텀 [Circle_ani]확인 [Cross_ani]뒤로[END]"
         },
         {
             "offset": 1750944,
@@ -19,7 +19,7 @@
             "string": "[TAG_007]サポートタレントメンバーを[LINE]\n変更することはできません。[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63,
-            "translation": "[TAG_007]지원 재능 멤버는[LINE]\n변경할 수 없습니다.[END]"
+            "translation": "[TAG_007]서포트 탤런트 멤버는[LINE]\n변경할 수 없습니다.[END]"
         }
     ]
 }

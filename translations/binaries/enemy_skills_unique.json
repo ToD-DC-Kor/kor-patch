@@ -9,7 +9,7 @@
     },
     "火属性コンボ[END]": {
         "english": "Fire Element Combo[END]",
-        "translation": "불속성 콤보[END]"
+        "translation": "불 속성 콤보[END]"
     },
     "魔神双破斬コンボ[END]": {
         "english": "Demonic Tiger Blade Comb[END]",
@@ -157,7 +157,7 @@
     },
     "ビュリホジャンプ[END]": {
         "english": "Byuriho Jump[END]",
-        "translation": "부리호 점프[END]"
+        "translation": "뷰리호 점프[END]"
     },
     "飛び道具反対[END]": {
         "english": "Aerial Counter[END]",
@@ -165,7 +165,7 @@
     },
     "闘技場用紙芝居[END]": {
         "english": "Arena Entrance Form[END]",
-        "translation": "투기장용 종이놀이[END]"
+        "translation": "투기장용 그림 연극[END]"
     },
     "キックラック[END]": {
         "english": "Kick[END]",
@@ -177,7 +177,7 @@
     },
     "３連携[END]": {
         "english": "3 Combo[END]",
-        "translation": "3 연계[END]"
+        "translation": "3연계[END]"
     },
     "飛び込み[END]": {
         "english": "Plunge[END]",
@@ -189,7 +189,7 @@
     },
     "まんぼう戦吼[END]": {
         "english": "Sunfish Screech[END]",
-        "translation": "맨보우 전투 포효[END]"
+        "translation": "개복치전후[END]"
     },
     "ステイクフレアコンボ[END]": {
         "english": "Stake Flare Combo[END]",
@@ -201,7 +201,7 @@
     },
     "対空ターン[END]": {
         "english": "Counter-Air Turn[END]",
-        "translation": "대공턴[END]"
+        "translation": "대공 턴[END]"
     },
     "エアスラスト[END]": {
         "english": "Air Thrust[END]",
@@ -213,15 +213,15 @@
     },
     "裂破突き[END]": {
         "english": "Rupturing Thrust[END]",
-        "translation": "열파참[END]"
+        "translation": "열파 찌르기[END]"
     },
     "踏み込み突き[END]": {
         "english": "Trample[END]",
-        "translation": "밟기 참[END]"
+        "translation": "전진 찌르기[END]"
     },
     "重剛招来[END]": {
         "english": "Invoke Power[END]",
-        "translation": "중강소래[END]"
+        "translation": "중강초래[END]"
     },
     "衝波激突剣[END]": {
         "english": "Force Blade[END]",
@@ -229,7 +229,7 @@
     },
     "豪天砕破[END]": {
         "english": "Divine Pressure[END]",
-        "translation": "호천파파[END]"
+        "translation": "호천쇄파[END]"
     },
     "斬廻滅衝[END]": {
         "english": "Head Cutter[END]",
@@ -241,23 +241,23 @@
     },
     "スラッシュクロゥ[END]": {
         "english": "Slashing Claw[END]",
-        "translation": "슬래싱크로우[END]"
+        "translation": "슬래시 클로[END]"
     },
     "クレイジィクロゥ[END]": {
         "english": "Crazy Claw[END]",
-        "translation": "크레이지크로우[END]"
+        "translation": "크레이지 클로[END]"
     },
     "クロスブラッド[END]": {
         "english": "Cross Blade[END]",
-        "translation": "크로스블러드[END]"
+        "translation": "크로스 블러드[END]"
     },
     "クロスレイド[END]": {
         "english": "Cross Raid[END]",
-        "translation": "크로스레이드[END]"
+        "translation": "크로스 레이드[END]"
     },
     "低空クロスレイド[END]": {
         "english": "Low Cross Raid[END]",
-        "translation": "저공 크로스레이드[END]"
+        "translation": "저공 크로스 레이드[END]"
     },
     "エリアルクロゥ[END]": {
         "english": "Aerial Claw[END]",
@@ -265,19 +265,19 @@
     },
     "ステップスルー[END]": {
         "english": "Step-through[END]",
-        "translation": "스텝스루[END]"
+        "translation": "스텝 스루[END]"
     },
     "ハイビショップ召集[END]": {
         "english": "Summon High Bishop[END]",
-        "translation": "하이비숍 소집[END]"
+        "translation": "하이 비숍 소집[END]"
     },
     "正段突き[END]": {
         "english": "High Tsuki[END]",
-        "translation": "정단참[END]"
+        "translation": "정단 찌르기[END]"
     },
     "活心突き[END]": {
         "english": "Forceful Thrust[END]",
-        "translation": "활심참[END]"
+        "translation": "활심 찌르기[END]"
     },
     "裂衝剣[END]": {
         "english": "Splitting Blade[END]",
@@ -285,7 +285,7 @@
     },
     "下段突き[END]": {
         "english": "Low Tsuki[END]",
-        "translation": "하단참[END]"
+        "translation": "하단 찌르기[END]"
     },
     "袈裟斬り[END]": {
         "english": "Kesagiri[END]",
@@ -305,7 +305,7 @@
     },
     "中段突き[END]": {
         "english": "Mid Tsuki[END]",
-        "translation": "중단참[END]"
+        "translation": "중단 찌르기[END]"
     },
     "斬り払い[END]": {
         "english": "Sever Harai[END]",
@@ -313,11 +313,11 @@
     },
     "岩斬破[END]": {
         "english": "Decapitate Boulder[END]",
-        "translation": "암절파[END]"
+        "translation": "암참파[END]"
     },
     "連斬波[END]": {
         "english": "Cutting Wave[END]",
-        "translation": "연속참[END]"
+        "translation": "연참파[END]"
     },
     "昇竜斬波[END]": {
         "english": "Rising Dragon[END]",
@@ -397,15 +397,15 @@
     },
     "エアブースト[END]": {
         "english": "Air Boost[END]",
-        "translation": "에어부스트[END]"
+        "translation": "에어 부스트[END]"
     },
     "空中エナジーボール[END]": {
         "english": "Aerial Energy Ball[END]",
-        "translation": "공중 에너지볼[END]"
+        "translation": "공중 에너지 볼[END]"
     },
     "エリミネイトボール[END]": {
         "english": "Elimination Ball[END]",
-        "translation": "엘리미네이션 볼[END]"
+        "translation": "엘리미네이트 볼[END]"
     },
     "空中レーザー[END]": {
         "english": "Aerial Laser[END]",
@@ -521,7 +521,7 @@
     },
     "セラフィックフェザー[END]": {
         "english": "Seraphic Feather[END]",
-        "translation": "세라픽페더[END]"
+        "translation": "세라픽 페더[END]"
     },
     "メテオスォーム[END]": {
         "english": "Meteor Swarm[END]",
@@ -641,7 +641,7 @@
     },
     "バウンド[END]": {
         "english": "Bounce[END]",
-        "translation": "바운스[END]"
+        "translation": "바운드[END]"
     },
     "チャージ[END]": {
         "english": "Charge[END]",
@@ -749,7 +749,7 @@
     },
     "縛り上げ[END]": {
         "english": "Entangle[END]",
-        "translation": "묶어올리기[END]"
+        "translation": "묶어 올리기[END]"
     },
     "ドリルアタック[END]": {
         "english": "Drill Attack[END]",
@@ -765,7 +765,7 @@
     },
     "縛り投げ[END]": {
         "english": "Binding Throw[END]",
-        "translation": "묶어던지기[END]"
+        "translation": "묶어 던지기[END]"
     },
     "イカスミ[END]": {
         "english": "Squid Ink[END]",
@@ -781,7 +781,7 @@
     },
     "二段突き[END]": {
         "english": "Double Thrust[END]",
-        "translation": "이단찌르기[END]"
+        "translation": "2단 찌르기[END]"
     },
     "スマッシュ[END]": {
         "english": "Smash[END]",
@@ -849,11 +849,11 @@
     },
     "両手殴り[END]": {
         "english": "Two-handed Blow[END]",
-        "translation": "양손치기[END]"
+        "translation": "양손 치기[END]"
     },
     "ダッシュ両手殴り[END]": {
         "english": "Dashing Two-handed Blow[END]",
-        "translation": "대시 양손치기[END]"
+        "translation": "대시 양손 치기[END]"
     },
     "かかと落とし[END]": {
         "english": "Heel Drop[END]",
@@ -865,7 +865,7 @@
     },
     "ヘッドバット[END]": {
         "english": "Head Butt[END]",
-        "translation": "해드뱃[END]"
+        "translation": "헤드 버트[END]"
     },
     "胞子[END]": {
         "english": "Spore Attack[END]",
@@ -961,7 +961,7 @@
     },
     "同時かみつき[END]": {
         "english": "Simultaneous Maul[END]",
-        "translation": "동기 물기[END]"
+        "translation": "동시 물기[END]"
     },
     "２連携[END]": {
         "english": "2 Combo[END]",
@@ -989,7 +989,7 @@
     },
     "しっぽビンタ[END]": {
         "english": "Tail Slap[END]",
-        "translation": "꼬리 빈타[END]"
+        "translation": "꼬리 후려치기[END]"
     },
     "スプラッシャー[END]": {
         "english": "Splasher[END]",
@@ -1005,7 +1005,7 @@
     },
     "しっぽ足払い[END]": {
         "english": "Tail Sweep[END]",
-        "translation": "꼬리 다리걸기[END]"
+        "translation": "꼬리 다리 걸기[END]"
     },
     "しっぽ叩きつけ[END]": {
         "english": "Tail Slam[END]",
@@ -1037,7 +1037,7 @@
     },
     "翼ビンタ[END]": {
         "english": "Wing Flap[END]",
-        "translation": "날개 빈타[END]"
+        "translation": "날개 후려치기[END]"
     },
     "水平投げ[END]": {
         "english": "Horizontal Dive[END]",
@@ -1101,7 +1101,7 @@
     },
     "縦斬り[END]": {
         "english": "Vertical Slash[END]",
-        "translation": "세로베기[END]"
+        "translation": "세로 베기[END]"
     },
     "叩きつけ[END]": {
         "english": "Impale[END]",
@@ -1153,7 +1153,7 @@
     },
     "スウープスラッシュ[END]": {
         "english": "Swoop Slash[END]",
-        "translation": "스윕 슬래시[END]"
+        "translation": "스우프 슬래시[END]"
     },
     "ライトクロー[END]": {
         "english": "Right Claw[END]",
@@ -1181,7 +1181,7 @@
     },
     "打ち下ろし[END]": {
         "english": "Low Attack[END]",
-        "translation": "내려 치기[END]"
+        "translation": "내리치기[END]"
     },
     "フック[END]": {
         "english": "Hook[END]",
@@ -1197,15 +1197,15 @@
     },
     "両手斬り[END]": {
         "english": "Sweeping Slash[END]",
-        "translation": "양손베기[END]"
+        "translation": "양손 베기[END]"
     },
     "両手突き[END]": {
         "english": "Lunging Thrust[END]",
-        "translation": "양손찌르기[END]"
+        "translation": "양손 찌르기[END]"
     },
     "連続突き[END]": {
         "english": "Continual Thrust[END]",
-        "translation": "연속찌르기[END]"
+        "translation": "연속 찌르기[END]"
     },
     "スポイル・ウェポン[END]": {
         "english": "Suppress Weapon[END]",
@@ -1217,7 +1217,7 @@
     },
     "連続引っかき[END]": {
         "english": "Repetitive Scratch[END]",
-        "translation": "연속할퀴기[END]"
+        "translation": "연속 할퀴기[END]"
     },
     "前方裏拳[END]": {
         "english": "Back Fist[END]",
@@ -1229,7 +1229,7 @@
     },
     "前後攻撃[END]": {
         "english": "Multi-pronged Assault[END]",
-        "translation": "전후공격[END]"
+        "translation": "전후 공격[END]"
     },
     "機銃掃射[END]": {
         "english": "Machine Gun Firing[END]",
@@ -1237,7 +1237,7 @@
     },
     "応援要請[END]": {
         "english": "Requesting Backup[END]",
-        "translation": "지원요청[END]"
+        "translation": "지원 요청[END]"
     },
     "機銃[END]": {
         "english": "Machine Gun[END]",
@@ -1245,11 +1245,11 @@
     },
     "チェーンナックル[END]": {
         "english": "Chain Knuckle[END]",
-        "translation": "체인너클[END]"
+        "translation": "체인 너클[END]"
     },
     "暴走タックル[END]": {
         "english": "Wild Tackle[END]",
-        "translation": "폭주태클[END]"
+        "translation": "폭주 태클[END]"
     },
     "ミサイル[END]": {
         "english": "Missile[END]",
@@ -1257,15 +1257,15 @@
     },
     "連続チェーンナックル[END]": {
         "english": "Chain Knuckle Combo[END]",
-        "translation": "연속체인너클[END]"
+        "translation": "연속 체인 너클[END]"
     },
     "火炎放射[END]": {
         "english": "Flamethrower[END]",
-        "translation": "화염방사[END]"
+        "translation": "화염 방사[END]"
     },
     "衰弱ガス[END]": {
         "english": "Weak Gas[END]",
-        "translation": "쇠약가스[END]"
+        "translation": "쇠약 가스[END]"
     },
     "パンチ[END]": {
         "english": "Punch[END]",
@@ -1273,19 +1273,19 @@
     },
     "足払い[END]": {
         "english": "Sweep[END]",
-        "translation": "다리걸기[END]"
+        "translation": "다리 걸기[END]"
     },
     "兜割り[END]": {
         "english": "Helm Split[END]",
-        "translation": "투구깨기[END]"
+        "translation": "투구 깨기[END]"
     },
     "縦斬り突き[END]": {
         "english": "Aerial Vertical Slash[END]",
-        "translation": "종베기찌르기[END]"
+        "translation": "세로 베기 찌르기[END]"
     },
     "２段払い[END]": {
         "english": "Two-fold Attack[END]",
-        "translation": "2단치기[END]"
+        "translation": "2단 휘두르기[END]"
     },
     "ビーム[END]": {
         "english": "Beam[END]",
@@ -1305,7 +1305,7 @@
     },
     "一斉爆撃[END]": {
         "english": "All-out Bombing[END]",
-        "translation": "일제폭격[END]"
+        "translation": "일제 폭격[END]"
     },
     "殻断[END]": {
         "english": "Shelling[END]",
@@ -1317,7 +1317,7 @@
     },
     "アーム突き刺し[END]": {
         "english": "Arm Thrust[END]",
-        "translation": "팔찌르기[END]"
+        "translation": "팔 찌르기[END]"
     },
     "ヒール[END]": {
         "english": "Heal[END]",
@@ -1333,7 +1333,7 @@
     },
     "エナジーブレット[END]": {
         "english": "Energy Bullet[END]",
-        "translation": "에너지불릿[END]"
+        "translation": "에너지 불릿[END]"
     },
     "砲撃[END]": {
         "english": "Bombardment[END]",
@@ -1353,15 +1353,15 @@
     },
     "ポイズンキャニスター[END]": {
         "english": "Poison Canister[END]",
-        "translation": "포이즌캐니스터[END]"
+        "translation": "포이즌 캐니스터[END]"
     },
     "種飛ばし[END]": {
         "english": "Seed Skipping[END]",
-        "translation": "씨앗날리기[END]"
+        "translation": "씨앗 날리기[END]"
     },
     "連続種飛ばし[END]": {
         "english": "Rapid Seed Skipping[END]",
-        "translation": "연속씨앗날리기[END]"
+        "translation": "연속 씨앗 날리기[END]"
     },
     "吸引[END]": {
         "english": "Sucti[END]",
@@ -1369,11 +1369,11 @@
     },
     "拡散ボム[END]": {
         "english": "Bomb Barrage[END]",
-        "translation": "확산폭탄[END]"
+        "translation": "확산 폭탄[END]"
     },
     "羽カッター[END]": {
         "english": "Wing Cutter[END]",
-        "translation": "날개커터[END]"
+        "translation": "깃털 커터[END]"
     },
     "警報[END]": {
         "english": "Alarm[END]",
@@ -1397,7 +1397,7 @@
     },
     "バックウィップ[END]": {
         "english": "Back Whip[END]",
-        "translation": "백윕[END]"
+        "translation": "백 휩[END]"
     },
     "波動弾[END]": {
         "english": "Wave Bomb[END]",
@@ -1405,7 +1405,7 @@
     },
     "スピンカッター[END]": {
         "english": "Spin Cutter[END]",
-        "translation": "스핀커터[END]"
+        "translation": "스핀 커터[END]"
     },
     "踏み潰し[END]": {
         "english": "Stomp[END]",
@@ -1413,7 +1413,7 @@
     },
     "フットスタンプ[END]": {
         "english": "Foot Stomp[END]",
-        "translation": "풋스탬프[END]"
+        "translation": "풋 스탬프[END]"
     },
     "毒ガス[END]": {
         "english": "Poison Gas[END]",
@@ -1421,19 +1421,19 @@
     },
     "レンズビーム[END]": {
         "english": "Lens Beam[END]",
-        "translation": "렌즈빔[END]"
+        "translation": "렌즈 빔[END]"
     },
     "右手噛み[END]": {
         "english": "Bite Right Hand [END]",
-        "translation": "오른손물기[END]"
+        "translation": "오른손 물기[END]"
     },
     "左手噛み[END]": {
         "english": "Bite[END]",
-        "translation": "왼손물기[END]"
+        "translation": "왼손 물기[END]"
     },
     "本体噛み[END]": {
         "english": "Bite Body[END]",
-        "translation": "본체물기[END]"
+        "translation": "본체 물기[END]"
     },
     "毒霧[END]": {
         "english": "Toxic Mist[END]",
@@ -1441,27 +1441,27 @@
     },
     "ダブルバイト[END]": {
         "english": "Double Bite[END]",
-        "translation": "더블바이트[END]"
+        "translation": "더블 바이트[END]"
     },
     "トリプルバイト[END]": {
         "english": "Triple Bite[END]",
-        "translation": "트리플바이트[END]"
+        "translation": "트리플 바이트[END]"
     },
     "正面ファイアブレス[END]": {
         "english": "Frontal Fire Breath[END]",
-        "translation": "정면파이어브레스[END]"
+        "translation": "정면 파이어 브레스[END]"
     },
     "正面ファイアーボール[END]": {
         "english": "Frontal Fire Ball[END]",
-        "translation": "정면파이어볼[END]"
+        "translation": "정면 파이어 볼[END]"
     },
     "斜めファイアブレス[END]": {
         "english": "Oblique Fire Breath[END]",
-        "translation": "대각선파이어브레스[END]"
+        "translation": "대각선 파이어 브레스[END]"
     },
     "斜めファイアーボール[END]": {
         "english": "Oblique Fire Ball[END]",
-        "translation": "대각선파이어볼[END]"
+        "translation": "대각선 파이어 볼[END]"
     },
     "ガス[END]": {
         "english": "Gas[END]",
@@ -1477,15 +1477,15 @@
     },
     "スパイクニードル[END]": {
         "english": "Spike Needle[END]",
-        "translation": "스파이크니들[END]"
+        "translation": "스파이크 니들[END]"
     },
     "ウイップニードル[END]": {
         "english": "Whip Needle[END]",
-        "translation": "휩니들[END]"
+        "translation": "휩 니들[END]"
     },
     "アッパースラッシュ[END]": {
         "english": "Upper Slash[END]",
-        "translation": "어퍼슬래시[END]"
+        "translation": "어퍼 슬래시[END]"
     },
     "ディサーバー[END]": {
         "english": "Disserver[END]",
@@ -1493,7 +1493,7 @@
     },
     "回転アタック[END]": {
         "english": "Top Attack[END]",
-        "translation": "회전공격[END]"
+        "translation": "회전 공격[END]"
     },
     "サイレンス[END]": {
         "english": "Silence[END]",
@@ -1513,11 +1513,11 @@
     },
     "破壊光線[END]": {
         "english": "Destruction Ray[END]",
-        "translation": "파괴광선[END]"
+        "translation": "파괴 광선[END]"
     },
     "バックキック[END]": {
         "english": "Back Kick[END]",
-        "translation": "백킥[END]"
+        "translation": "백 킥[END]"
     },
     "２連斬[END]": {
         "english": "Two-Fold Attack[END]",
@@ -1525,7 +1525,7 @@
     },
     "トリプルスウィング[END]": {
         "english": "Triple Swing[END]",
-        "translation": "트리플스윙[END]"
+        "translation": "트리플 스윙[END]"
     },
     "たたきつけ[END]": {
         "english": "Hit[END]",
@@ -1545,27 +1545,27 @@
     },
     "ナパームファイア[END]": {
         "english": "Napalm Fire[END]",
-        "translation": "네이팜파이어[END]"
+        "translation": "네이팜 파이어[END]"
     },
     "ゲイルカッター[END]": {
         "english": "Gale Cutter[END]",
-        "translation": "게일커터[END]"
+        "translation": "게일 커터[END]"
     },
     "フレイムブレス[END]": {
         "english": "Flame Breath[END]",
-        "translation": "플레임브레스[END]"
+        "translation": "플레임 브레스[END]"
     },
     "右ひっかき[END]": {
         "english": "Right Scratch[END]",
-        "translation": "오른쪽할퀴기[END]"
+        "translation": "오른쪽 할퀴기[END]"
     },
     "左ひっかき[END]": {
         "english": "Left Scratch[END]",
-        "translation": "왼쪽할퀴기[END]"
+        "translation": "왼쪽 할퀴기[END]"
     },
     "誘導レーザー[END]": {
         "english": "Guided Laser[END]",
-        "translation": "유도레이저[END]"
+        "translation": "유도 레이저[END]"
     },
     "噛みつき[END]": {
         "english": "Bite[END]",
@@ -1577,39 +1577,39 @@
     },
     "薙ぎ払い[END]": {
         "english": "Mow Down[END]",
-        "translation": "휘둘러베기[END]"
+        "translation": "휘둘러 베기[END]"
     },
     "ヘルスライサー[END]": {
         "english": "Hell Slicer[END]",
-        "translation": "헬슬라이서[END]"
+        "translation": "헬 슬라이서[END]"
     },
     "デスライン[END]": {
         "english": "Death Line[END]",
-        "translation": "데스라인[END]"
+        "translation": "데스 라인[END]"
     },
     "前方集中砲[END]": {
         "english": "Frontal Firing[END]",
-        "translation": "전방집중포[END]"
+        "translation": "전방 집중포[END]"
     },
     "テラバースト[END]": {
         "english": "Tera Burst[END]",
-        "translation": "테라버스트[END]"
+        "translation": "테라 버스트[END]"
     },
     "バーストダッシュ[END]": {
         "english": "Burst Dash[END]",
-        "translation": "버스트대시[END]"
+        "translation": "버스트 대시[END]"
     },
     "ディープグラッジ[END]": {
         "english": "Deep Grudge[END]",
-        "translation": "딥그러지[END]"
+        "translation": "딥 그라지[END]"
     },
     "連続対空砲[END]": {
         "english": "Rapid Counter-Air[END]",
-        "translation": "연속대공포[END]"
+        "translation": "연속 대공포[END]"
     },
     "全方位拡散砲[END]": {
         "english": "Area Cannon[END]",
-        "translation": "전방위확산포[END]"
+        "translation": "전방위 확산포[END]"
     },
     "スパークウェーブ[END]": {
         "english": "Spark Web[END]",
@@ -1629,7 +1629,7 @@
     },
     "ブラックウィング[END]": {
         "english": "Black Wing[END]",
-        "translation": "블랙윙[END]"
+        "translation": "블랙 윙[END]"
     },
     "ブラックホール[END]": {
         "english": "Black Hole[END]",
@@ -1721,7 +1721,7 @@
     },
     "漢の振り上げ[END]": {
         "english": "Ares Fist[END]",
-        "translation": "사내의 휘두르기[END]"
+        "translation": "사내의 올려치기[END]"
     },
     "ジェノサイドブレイバー[END]": {
         "english": "Genocide Edict[END]",
@@ -1805,7 +1805,7 @@
     },
     "精神統一[END]": {
         "english": "Concentration[END]",
-        "translation": "정신통일[END]"
+        "translation": "정신 통일[END]"
     },
     "ストリームアロー[END]": {
         "english": "Arrow Stream[END]",
@@ -1845,11 +1845,11 @@
     },
     "燐粉吐き[END]": {
         "english": "Phosphorous Spit[END]",
-        "translation": "인분 토하기[END]"
+        "translation": "비늘가루 뿜기[END]"
     },
     "燐粉落とし[END]": {
         "english": "Phosphorous Dust[END]",
-        "translation": "인분 떨어뜨리기[END]"
+        "translation": "비늘가루 떨어뜨리기[END]"
     },
     "イヴィルグレイブ[END]": {
         "english": "Evil Grave[END]",
@@ -2057,11 +2057,11 @@
     },
     "月閃光連携[END]": {
         "english": "Moon Glare Combo[END]",
-        "translation": "월섬광연계[END]"
+        "translation": "월섬광 연계[END]"
     },
     "幻影刃連携[END]": {
         "english": "Phantom Edge Combo[END]",
-        "translation": "환영인연계[END]"
+        "translation": "환영인 연계[END]"
     },
     "浄破滅焼闇[END]": {
         "english": "Eternal Darkness[END]",
@@ -2097,7 +2097,7 @@
     },
     "ダッシュ砂掛け[END]": {
         "english": "Sand Dash[END]",
-        "translation": "대시 모래뿌리기[END]"
+        "translation": "대시 모래 뿌리기[END]"
     },
     "猛烈タックル[END]": {
         "english": "Fierce Tackle[END]",
@@ -2121,7 +2121,7 @@
     },
     "シールポイズン[END]": {
         "english": "Seal Poison[END]",
-        "translation": "실드 포이즌[END]"
+        "translation": "실 포이즌[END]"
     },
     "石化ガス[END]": {
         "english": "Petrifying Gas[END]",
@@ -2189,7 +2189,7 @@
     },
     "プリズムシャイン[END]": {
         "english": "Prism Shine[END]",
-        "translation": "프리즘샤인[END]"
+        "translation": "프리즘 샤인[END]"
     },
     "毒電波[END]": {
         "english": "Poison Wave[END]",
@@ -2197,7 +2197,7 @@
     },
     "十連突き[END]": {
         "english": "Deca-Thrust[END]",
-        "translation": "십연속 찌르기[END]"
+        "translation": "10연속 찌르기[END]"
     },
     "ウィングクラッシュ[END]": {
         "english": "Wing Crush[END]",
@@ -2229,11 +2229,11 @@
     },
     "グレイトアッパー[END]": {
         "english": "Great Upper[END]",
-        "translation": "그레이트어퍼[END]"
+        "translation": "그레이트 어퍼[END]"
     },
     "ファルコンフレッジ[END]": {
         "english": "Falcon Fledge[END]",
-        "translation": "팔콘플레지[END]"
+        "translation": "팔콘 플레지[END]"
     },
     "メタルボディ[END]": {
         "english": "Metal Body[END]",
@@ -2249,7 +2249,7 @@
     },
     "絶翔斬[END]": {
         "english": "Soaring Slash[END]",
-        "translation": "절초참[END]"
+        "translation": "절상참[END]"
     },
     "無影衝[END]": {
         "english": "Shadow Stock[END]",
@@ -2297,7 +2297,7 @@
     },
     "オキシリキッド[END]": {
         "english": "Oxy Liquid[END]",
-        "translation": "옥시리퀴드[END]"
+        "translation": "옥시 리퀴드[END]"
     },
     "ロールスラッシュ[END]": {
         "english": "Rolling Slash[END]",
@@ -2333,7 +2333,7 @@
     },
     "五連斬[END]": {
         "english": "Five-Fold Attack[END]",
-        "translation": "오연참[END]"
+        "translation": "5연참[END]"
     },
     "マジックカウンター[END]": {
         "english": "Magic Counter[END]",
@@ -2357,7 +2357,7 @@
     },
     "きこうとしよう[END]": {
         "english": "Try To Listen[END]",
-        "translation": "기공을하자[END]"
+        "translation": "기공을 하자[END]"
     },
     "れんこんバルカン[END]": {
         "english": "Lotus Vulcan[END]",
@@ -2365,6 +2365,6 @@
     },
     "どろのせてねりたいっす[END]": {
         "english": "Let's Throw Mud[END]",
-        "translation": "진흙실어반죽하고싶어요[END]"
+        "translation": "진흙 실어 반죽하고 싶어요[END]"
     }
 }

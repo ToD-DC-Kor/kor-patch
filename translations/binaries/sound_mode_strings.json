@@ -5,7 +5,7 @@
             "string": "[TAG_007]メモリーカード差込口１のメモリーカード（ＰＳ２）を[LINE]\nチェック中です。[LINE]\nメモリーカード（ＰＳ２）を抜いたり、電源を切ったり[LINE]\nしないでください。[END]",
             "original_bytes_length": 143,
             "available_bytes_size": 143,
-            "translation": "[TAG_007]메모리 카드 슬롯 1에 메모리 카드(PS2)를[LINE]\n확인 중입니다.[LINE]\n메모리 카드(PS2)를 빼거나 전원을 끄지 마십시오.[END]"
+            "translation": "[TAG_007]메모리 카드 슬롯 1의 메모리 카드(PS2)를[LINE]\n확인 중입니다.[LINE]\n메모리 카드(PS2)를 빼거나 전원을[LINE]\n끄지 마십시오.[END]"
         },
         {
             "offset": 43472,
@@ -40,7 +40,7 @@
             "string": "曲音量[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "볼륨[END]"
+            "translation": "곡음량[END]"
         },
         {
             "offset": 43688,
@@ -180,7 +180,7 @@
             "string": "オベロン社員・男[END]",
             "original_bytes_length": 17,
             "available_bytes_size": 23,
-            "translation": "오베론 직원 남성[END]"
+            "translation": "오베론 사 직원 남성[END]"
         },
         {
             "offset": 45952,
@@ -194,14 +194,14 @@
             "string": "グレバム男神官[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "남성 신관[END]"
+            "translation": "글레밤 남신관[END]"
         },
         {
             "offset": 45984,
             "string": "グレバム女神官[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "여성 신관[END]"
+            "translation": "글레밤 여신관[END]"
         },
         {
             "offset": 46000,
@@ -250,7 +250,7 @@
             "string": "イレーヌ[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "이레네[END]"
+            "translation": "일레느[END]"
         },
         {
             "offset": 46136,
@@ -264,7 +264,7 @@
             "string": "ダリス[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "달리스[END]"
+            "translation": "다리스[END]"
         },
         {
             "offset": 46160,
@@ -292,7 +292,7 @@
             "string": "シャルティエ[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "샤르띠에[END]"
+            "translation": "샤르티에[END]"
         },
         {
             "offset": 46224,
@@ -306,7 +306,7 @@
             "string": "クレメンテ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "클레멘트[END]"
+            "translation": "클레멘테[END]"
         },
         {
             "offset": 46256,
@@ -327,7 +327,7 @@
             "string": "リリス[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "릴리스[END]"
+            "translation": "리리스[END]"
         },
         {
             "offset": 46296,
@@ -390,7 +390,7 @@
             "string": "スタン[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "스탠[END]"
+            "translation": "스탄[END]"
         }
     ]
 }

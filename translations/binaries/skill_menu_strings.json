@@ -5,7 +5,7 @@
             "string": "[Circle_ani]決定[Cross_ani]戻る[Triangle_ani]はずす[L1_ani][R1_ani]キャラ変更[Select_ani]操作切替[END]",
             "original_bytes_length": 67,
             "available_bytes_size": 71,
-            "translation": "[Circle_ani]결정[Cross_ani]뒤로[Triangle_ani]해제하기[L1_ani][R1_ani]캐릭터 변경[Select_ani]조작 전환[END]"
+            "translation": "[Circle_ani]확인[Cross_ani]뒤로[Triangle_ani]해제[L1_ani][R1_ani]캐릭터 변경[Select_ani]조작 전환[END]"
         },
         {
             "offset": 25072,
@@ -26,7 +26,7 @@
             "string": "[Circle_ani]決定[Cross_ani]戻る[Triangle_ani]はずす[Select_ani]操作切替[END]",
             "original_bytes_length": 46,
             "available_bytes_size": 47,
-            "translation": "[Circle_ani]결정[Cross_ani]뒤로[Triangle_ani]해제하기[Select_ani]조작 전환[END]"
+            "translation": "[Circle_ani]확인[Cross_ani]뒤로[Triangle_ani]해제[Select_ani]조작 전환[END]"
         },
         {
             "offset": 25264,
@@ -47,7 +47,7 @@
             "string": "[Circle_ani]決定[Cross_ani]戻る[Triangle_ani]はずす[L1_ani][R1_ani]キャラ変更[END]",
             "original_bytes_length": 53,
             "available_bytes_size": 55,
-            "translation": "[Circle_ani]결정[Cross_ani]뒤로[Triangle_ani]해제하기[L1_ani][R1_ani]캐릭터 변경[END]"
+            "translation": "[Circle_ani]확인[Cross_ani]뒤로[Triangle_ani]해제[L1_ani][R1_ani]캐릭터 변경[END]"
         },
         {
             "offset": 25416,
@@ -68,7 +68,7 @@
             "string": "[Circle_ani]決定[Cross_ani]戻る[Triangle_ani]はずす[END]",
             "original_bytes_length": 32,
             "available_bytes_size": 32,
-            "translation": "[Circle_ani]결정[Cross_ani]뒤로[Triangle_ani]해제하기[END]"
+            "translation": "[Circle_ani]확인[Cross_ani]뒤로[Triangle_ani]해제[END]"
         },
         {
             "offset": 25560,
@@ -98,7 +98,7 @@
             "string": "[Circle_ani]決定[Cross_ani]戻る[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Circle_ani]결정[Cross_ani]뒤로[END]"
+            "translation": "[Circle_ani]확인[Cross_ani]뒤로[END]"
         },
 
         {

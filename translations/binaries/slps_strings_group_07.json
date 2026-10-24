@@ -12,21 +12,21 @@
             "string": "[Circle_ani]次の階層へ[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Circle_ani]다음 층으로[END]"
+            "translation": "[Circle_ani]다음 층[END]"
         },
         {
             "offset": 1687008,
             "string": "[Left]左 [Right]右 [Cross_ani]戻る[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Left]왼쪽 [Right]오른쪽 [Cross_ani]돌아가기[END]"
+            "translation": "[Left]왼쪽[Right]오른쪽[Cross_ani]뒤로[END]"
         },
         {
             "offset": 1687040,
             "string": "[Up]上 [Down]下 [Cross_ani]戻る[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Up]위 [Down]아래 [Cross_ani]돌아가기[END]"
+            "translation": "[Up]위 [Down]아래 [Cross_ani]뒤로[END]"
         },
         {
             "offset": 1687072,
@@ -40,7 +40,7 @@
             "string": "[Cross_ani]爆弾を蹴る[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Cross_ani]폭탄을 차다[END]"
+            "translation": "[Cross_ani]폭탄 차기[END]"
         },
         {
             "offset": 1687104,
@@ -68,7 +68,7 @@
             "string": "[Circle_ani]選択 [Cross_ani]戻る[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "[Circle_ani]선택 [Cross_ani]돌아가기[END]"
+            "translation": "[Circle_ani]선택 [Cross_ani]뒤로[END]"
         },
         {
             "offset": 1687184,
@@ -89,7 +89,7 @@
             "string": "[Circle_ani]海竜を呼ぶ[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "[Circle_ani]해룡 부르기[END]"
+            "translation": "[Circle_ani]해룡 호출[END]"
         },
         {
             "offset": 1687256,
@@ -110,14 +110,14 @@
             "string": "[Circle_ani]決定[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "[Circle_ani]결정[END]"
+            "translation": "[Circle_ani]확인[END]"
         },
         {
             "offset": 1687304,
             "string": "[Circle_ani]決定 [Cross_ani]キャンセル[END]",
             "original_bytes_length": 26,
             "available_bytes_size": 31,
-            "translation": "[Circle_ani]결정 [Cross_ani]취소[END]"
+            "translation": "[Circle_ani]확인 [Cross_ani]취소[END]"
         },
         {
             "offset": 1687336,
@@ -313,14 +313,14 @@
             "string": "[TAG_007]初めてプレイをする場合は、[LINE]\n[text_tag0]\"Stan's side\"[text_tag1] からプレイする事を[LINE]\n強く推奨します。[LINE]\n　[LINE]\n[text_tag0]\"Lion's side\"[text_tag1] で[LINE]\nゲームを開始しても[LINE]\nよろしいですか？[LINE]\n　[LINE]\nはい[LINE]\nいいえ[END]",
             "original_bytes_length": 173,
             "available_bytes_size": 175,
-            "translation": "[TAG_007]처음 플레이하시는 경우는,[LINE]\n[text_tag0]\"Stan's side\"[text_tag1]에서 플레이하는 것을[LINE]\n강력히 권장합니다.[LINE]\n　[LINE]\n[text_tag0]\"Lion's side\"[text_tag1]에서[LINE]\n게임을 시작해도[LINE]\n괜찮습니까?[LINE]\n　[LINE]\n예[LINE]\n아니오[END]"
+            "translation": "[TAG_007]처음 플레이하시는 경우는,[LINE]\n[text_tag0]\"Stan's side\"[text_tag1]에서 플레이하는 것을[LINE]\n강력히 권장합니다.[LINE]\n　[LINE]\n[text_tag0]\"Lion's side\"[text_tag1]에서[LINE]\n게임을 시작해도[LINE]\n괜찮습니까?[LINE]\n　[LINE]\n예[LINE]\n아니요[END]"
         },
         {
             "offset": 1687976,
             "string": "notice[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "알림[END]"
+            "translation": "notice[END]"
         },
         {
             "offset": 1687984,
@@ -341,7 +341,7 @@
             "string": "[TAG_007][TAG_002][text_tag1]リオン・マグナスの視点で[LINE]\n物語を進めるモードです。[LINE]\nスタン視点の物語を表だとすると、[LINE]\nこちらは裏の物語になります。[LINE]\nスタンの物語で全貌を知ってから[LINE]\nプレイすることで、より一層楽しめます。[END]",
             "original_bytes_length": 197,
             "available_bytes_size": 199,
-            "translation": "[TAG_007][TAG_002][text_tag1]리온・매그너스의 시점에서[LINE]\n이야기를 진행하는 모드입니다.[LINE]\n스탄 시점에서는 볼 수 없는 숨겨진,[LINE]\n이야기를 볼 수 있기 때문에,[LINE]\n스탄의 이야기로 전모를 알고 나서[LINE]\n플레이하면, 더욱 재밌습니다.[END]"
+            "translation": "[TAG_007][TAG_002][text_tag1]리온・매그너스의 시점에서[LINE]\n이야기를 진행하는 모드입니다.[LINE]\n스탄 시점에서는 볼 수 없는 숨겨진[LINE]\n이야기를 볼 수 있기 때문에,[LINE]\n스탄의 이야기로 전모를 알고 나서[LINE]\n플레이하면, 더욱 재밌습니다.[END]"
         }
     ]
 }

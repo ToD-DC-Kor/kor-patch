@@ -19,7 +19,7 @@
             "string": "ねこにん基地A[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "고양이맨 기지 A[END]"
+            "translation": "고양이맨 기지A[END]"
         },
         {
             "offset": 1728272,
@@ -33,7 +33,7 @@
             "string": "旅人の小屋A[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "여행자의 오두막 A[END]"
+            "translation": "여행자 오두막A[END]"
         },
         {
             "offset": 1728304,
@@ -159,14 +159,14 @@
             "string": "ヘルレイオスB[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "헬레오스 B[END]"
+            "translation": "헬레이오스 B[END]"
         },
         {
             "offset": 1728632,
             "string": "ヘルレイオスA[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "헬레오스 A[END]"
+            "translation": "헬레이오스 A[END]"
         },
         {
             "offset": 1728648,
@@ -264,14 +264,14 @@
             "string": "クレスタA(夜)[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "클레스타 A(밤)[END]"
+            "translation": "크레스타 A(밤)[END]"
         },
         {
             "offset": 1728888,
             "string": "クレスタA[END]",
             "original_bytes_length": 10,
             "available_bytes_size": 15,
-            "translation": "클레스타 A[END]"
+            "translation": "크레스타 A[END]"
         },
         {
             "offset": 1728904,
@@ -292,7 +292,7 @@
             "string": "飛行竜セインガルド周りA[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "비행룡 세인갈드 주변 A[END]"
+            "translation": "비행룡 세인가르드 주변A[END]"
         },
         {
             "offset": 1728952,
@@ -397,14 +397,14 @@
             "string": "スノーフリアA(夜)[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "스노우플리아A(밤)[END]"
+            "translation": "스노우프리아A(밤)[END]"
         },
         {
             "offset": 1729280,
             "string": "スノーフリアA[END]",
             "original_bytes_length": 14,
             "available_bytes_size": 15,
-            "translation": "스노우플리아A[END]"
+            "translation": "스노우프리아A[END]"
         },
         {
             "offset": 1729296,
@@ -425,7 +425,7 @@
             "string": "トウケイ領A(夜)[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "토케이 영지A(밤)[END]"
+            "translation": "토케이령A(밤)[END]"
         },
         {
             "offset": 1729344,
@@ -439,28 +439,28 @@
             "string": "モリュウ城B[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "모리우 성B[END]"
+            "translation": "모류 성B[END]"
         },
         {
             "offset": 1729376,
             "string": "モリュウ城A[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "모리우 성A[END]"
+            "translation": "모류 성A[END]"
         },
         {
             "offset": 1729392,
             "string": "モリュウ領A(夜)[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "모리우 영지A(밤)[END]"
+            "translation": "모류령A(밤)[END]"
         },
         {
             "offset": 1729408,
             "string": "モリュウ領A[END]",
             "original_bytes_length": 12,
             "available_bytes_size": 15,
-            "translation": "모리우 영지A[END]"
+            "translation": "모류 영지A[END]"
         },
         {
             "offset": 1729424,
@@ -551,14 +551,14 @@
             "string": "カルビオラ神殿B[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "까르비올라 신전B[END]"
+            "translation": "까르비올라신전B[END]"
         },
         {
             "offset": 1729632,
             "string": "カルビオラ神殿A[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "까르비올라 신전A[END]"
+            "translation": "까르비올라신전A[END]"
         },
         {
             "offset": 1729648,
@@ -572,7 +572,7 @@
             "string": "首都カルビオラA[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "수도 까르비올라A[END]"
+            "translation": "수도까르비올라A[END]"
         },
         {
             "offset": 1729688,
@@ -614,7 +614,7 @@
             "string": "ストレイライズ神殿B(夜)[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "스트레이라이즈 신전B(밤)[END]"
+            "translation": "스트레이라이즈신전B(밤)[END]"
         },
         {
             "offset": 1729784,
@@ -628,7 +628,7 @@
             "string": "ストレイライズ神殿A(夜)[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "스트레이라이즈 신전A(밤)[END]"
+            "translation": "스트레이라이즈신전A(밤)[END]"
         },
         {
             "offset": 1729832,
@@ -642,14 +642,14 @@
             "string": "ストレイライズの森B(夜)[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "스트레이라이즈의 숲B(밤)[END]"
+            "translation": "스트레이라이즈 숲B(밤)[END]"
         },
         {
             "offset": 1729880,
             "string": "ストレイライズの森A(夜)[END]",
             "original_bytes_length": 24,
             "available_bytes_size": 24,
-            "translation": "스트레이라이즈의 숲A(밤)[END]"
+            "translation": "스트레이라이즈 숲A(밤)[END]"
         },
         {
             "offset": 1729904,
@@ -698,14 +698,14 @@
             "string": "セインガルド城A(夜)[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23,
-            "translation": "세인갈드 성A(밤)[END]"
+            "translation": "세인가르드 성A(밤)[END]"
         },
         {
             "offset": 1730048,
             "string": "セインガルド城A[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16,
-            "translation": "세인갈드 성A[END]"
+            "translation": "세인가르드 성A[END]"
         },
         {
             "offset": 1730064,
@@ -740,14 +740,14 @@
             "string": "神殿へと続く洞窟A(夜)[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23,
-            "translation": "신전으로 이어지는 동굴A(밤)[END]"
+            "translation": "신전행 동굴A(밤)[END]"
         },
         {
             "offset": 1730144,
             "string": "神殿へと続く洞窟A[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23,
-            "translation": "신전으로 이어지는 동굴A[END]"
+            "translation": "신전행 동굴A[END]"
         },
         {
             "offset": 1730168,
