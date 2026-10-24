@@ -47,7 +47,7 @@
             "string": "術攻[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "정술공[END]"
+            "translation": "술공[END]"
         },
         {
             "offset": 28256,
@@ -61,7 +61,7 @@
             "string": "術防[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "정술방[END]"
+            "translation": "술방[END]"
         },
         {
             "offset": 28272,
