@@ -878,7 +878,7 @@
         {
             "offset": 1760760,
             "string": "[Sign_Box]エンネアスフィア[END]",
-            "translation": "[Sign_Box]에네아 스피어[END]",
+            "translation": "[Sign_Box]에니아 스피어[END]",
             "original_bytes_length": 22,
             "available_bytes_size": 23
         },
@@ -892,7 +892,7 @@
         {
             "offset": 1760864,
             "string": "[Sign_Box]オクトスフィア[END]",
-            "translation": "[Sign_Box]옥타 스피아[END]",
+            "translation": "[Sign_Box]옥타 스피어[END]",
             "original_bytes_length": 20,
             "available_bytes_size": 23
         },
@@ -1970,7 +1970,7 @@
         {
             "offset": 1767496,
             "string": "[Sign_Apple_Gel]アワーグラス[END]",
-            "translation": "[Sign_Apple_Gel]모래시계[END]",
+            "translation": "[Sign_Apple_Gel]시간의 병[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -1998,7 +1998,7 @@
         {
             "offset": 1767680,
             "string": "[Sign_Apple_Gel]エリクシール[END]",
-            "translation": "[Sign_Apple_Gel]엘릭서[END]",
+            "translation": "[Sign_Apple_Gel]기적의 물약[END]",
             "original_bytes_length": 18,
             "available_bytes_size": 23
         },
@@ -2138,7 +2138,7 @@
         {
             "offset": 1768600,
             "string": "[Sign_Apple_Gel]ピーチグミ[END]",
-            "translation": "[Sign_Apple_Gel]복숭아젤리[END]",
+            "translation": "[Sign_Apple_Gel]복숭아 젤리[END]",
             "original_bytes_length": 16,
             "available_bytes_size": 16
         },
