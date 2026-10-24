@@ -1,0 +1,25 @@
+{
+    "00052.bin_ui": [
+        {
+            "offset": 73776,
+            "string": "破損しています[END]",
+            "original_bytes_length": 15,
+            "available_bytes_size": 15,
+            "translation": "손상되었습니다[END]"
+        },
+        {
+            "offset": 73792,
+            "string": "互換性がありません[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 19,
+            "translation": "호환되지 않습니다[END]"
+        },
+        {
+            "offset": 73848,
+            "string": "クリア回数[END]",
+            "original_bytes_length": 11,
+            "available_bytes_size": 15,
+            "translation": "클리어 횟수[END]"
+        }
+    ]
+}
