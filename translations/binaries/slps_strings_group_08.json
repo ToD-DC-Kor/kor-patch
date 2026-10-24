@@ -236,7 +236,7 @@
             "string": "中衛・後衛に回り、弓矢攻撃主体で[LINE]\n戦います。[END]",
             "original_bytes_length": 44,
             "available_bytes_size": 47,
-            "translation": "중위·후위로 물러나 활 공격 위주로[LINE]\n싸웁니다.[END]"
+            "translation": "중위・후위로 물러나 활 공격 위주로[LINE]\n싸웁니다.[END]"
         },
         {
             "offset": 1709064,
@@ -250,7 +250,7 @@
             "string": "詠唱時間の短い晶術や近接攻撃で、[LINE]\n詠唱中・攻撃中の敵を狙います。[END]",
             "original_bytes_length": 64,
             "available_bytes_size": 64,
-            "translation": "영창이 짧은 정술과 근접 공격으로[LINE]\n영창·공격 중인 적을 노립니다.[END]"
+            "translation": "영창이 짧은 정술과 근접 공격으로[LINE]\n영창・공격 중인 적을 노립니다.[END]"
         },
         {
             "offset": 1709144,
@@ -348,7 +348,7 @@
             "string": "攻撃をせず、防御・回復技のみ行います。[LINE]\n[END]",
             "original_bytes_length": 40,
             "available_bytes_size": 40,
-            "translation": "공격 없이 방어·회복 기술만 씁니다.[LINE]\n[END]"
+            "translation": "공격 없이 방어・회복 기술만 씁니다.[LINE]\n[END]"
         },
         {
             "offset": 1709728,
@@ -376,7 +376,7 @@
             "string": "近接攻撃主体で戦い、HPが半分を切った[LINE]\n場合は防御と間接攻撃を使い分けます。[END]",
             "original_bytes_length": 74,
             "available_bytes_size": 79,
-            "translation": "근접 공격 위주로 싸우되 HP가 절반[LINE]\n미만이면 방어·간접 공격을 구분해 씁니다.[END]"
+            "translation": "근접 공격 위주로 싸우되 HP가 절반[LINE]\n미만이면 방어・간접 공격을 구분해 씁니다.[END]"
         },
         {
             "offset": 1709904,

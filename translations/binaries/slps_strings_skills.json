@@ -45,7 +45,7 @@
         {
             "offset": 1692824,
             "string": "敵一体の晶術・一部の特殊行動を[LINE]\n封印する晶術。[END]",
-            "translation": "적 하나의 정술·일부 특수 행동을[LINE]\n봉인하는 정술.[END]",
+            "translation": "적 하나의 정술・일부 특수 행동을[LINE]\n봉인하는 정술.[END]",
             "original_bytes_length": 46,
             "available_bytes_size": 47
         },
@@ -73,7 +73,7 @@
         {
             "offset": 1692992,
             "string": "周囲に霧を発生させ、敵の攻撃の[LINE]\n特殊効果・クリティカル率を下げる晶術。[END]",
-            "translation": "주위에 안개를 만들어 적 공격의[LINE]\n특수 효과·크리티컬률을 낮추는 정술.[END]",
+            "translation": "주위에 안개를 만들어 적 공격의[LINE]\n특수 효과・크리티컬률을 낮추는 정술.[END]",
             "original_bytes_length": 70,
             "available_bytes_size": 71
         },
@@ -1545,7 +1545,7 @@
             "string": "シン・ゴウライケン[END]",
             "original_bytes_length": 19,
             "available_bytes_size": 23,
-            "translation": "진·강뢰검[END]"
+            "translation": "진・강뢰검[END]"
         },
         {
             "offset": 1701256,
@@ -2742,7 +2742,7 @@
             "string": "高速突きが光となり敵を貫く術剣技。[LINE]\n属性が光と射撃になる特殊な技。[END]",
             "original_bytes_length": 66,
             "available_bytes_size": 71,
-            "translation": "고속 찌르기가 빛이 되어 꿰뚫는 술검기.[LINE]\n빛·사격 속성이 되는 특수 기술.[END]"
+            "translation": "고속 찌르기가 빛이 되어 꿰뚫는 술검기.[LINE]\n빛・사격 속성이 되는 특수 기술.[END]"
         },
         {
             "offset": 1706832,

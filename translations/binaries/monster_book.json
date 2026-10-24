@@ -432,7 +432,7 @@
             "string": "暗黒剣士の魂が乗り移った漆黒の鎧。[LINE]\n火水地風、それぞれの属性剣には[LINE]\n熱毒、睡眠、石化、衰弱の効果を持つ。[END]",
             "original_bytes_length": 103,
             "available_bytes_size": 103,
-            "translation": "암흑 검사의 영혼이 깃든 칠흑의 갑옷.[LINE]\n불·물·땅·바람의 속성 검은 각각[LINE]\n열독·수면·석화·쇠약 효과가 있다.[END]"
+            "translation": "암흑 검사의 영혼이 깃든 칠흑의 갑옷.[LINE]\n불・물・땅・바람의 속성 검은 각각[LINE]\n열독・수면・석화・쇠약 효과가 있다.[END]"
         },
         {
             "offset": 24016,
@@ -586,7 +586,7 @@
             "string": "風属性晶術を操る水槽生物。[LINE]\n距離に応じて使う晶術が変化する。[LINE]\n吐き出す水は、水属性と風属性の効果を持つ。[END]",
             "original_bytes_length": 103,
             "available_bytes_size": 103,
-            "translation": "바람 속성 정술을 쓰는 수생 생물.[LINE]\n거리에 따라 정술을 바꾼다.[LINE]\n뱉는 물은 물·바람 속성을 지닌다.[END]"
+            "translation": "바람 속성 정술을 쓰는 수생 생물.[LINE]\n거리에 따라 정술을 바꾼다.[LINE]\n뱉는 물은 물・바람 속성을 지닌다.[END]"
         },
         {
             "offset": 26112,
@@ -796,7 +796,7 @@
             "string": "Ｒキーを護る、鎧戦士。[LINE]\n火水地風、それぞれの属性を持つ剣を操る。[LINE]\nまた、剣の力を使い属性技も使ってくる。[END]",
             "original_bytes_length": 103,
             "available_bytes_size": 103,
-            "translation": "R 키를 지키는 갑옷 전사.[LINE]\n불·물·땅·바람 속성의 검을 다룬다.[LINE]\n검의 힘으로 속성 기술도 쓴다.[END]"
+            "translation": "R 키를 지키는 갑옷 전사.[LINE]\n불・물・땅・바람 속성의 검을 다룬다.[LINE]\n검의 힘으로 속성 기술도 쓴다.[END]"
         },
         {
             "offset": 28968,
@@ -1125,7 +1125,7 @@
             "string": "攻撃、晶術ともに凶悪で、[LINE]\n光・闇耐性をつけないとかなり厳しい。[LINE]\n詠唱を始めたら全力で阻止するしかない。[END]",
             "original_bytes_length": 101,
             "available_bytes_size": 103,
-            "translation": "공격과 정술 모두 흉악하다.[LINE]\n빛·어둠 내성 없이는 몹시 힘들다.[LINE]\n영창을 시작하면 전력으로 막자.[END]"
+            "translation": "공격과 정술 모두 흉악하다.[LINE]\n빛・어둠 내성 없이는 몹시 힘들다.[LINE]\n영창을 시작하면 전력으로 막자.[END]"
         },
         {
             "offset": 33672,
@@ -1244,7 +1244,7 @@
             "string": "巨大な盾を備えた機動生体兵器。[LINE]\n攻撃、補助などいろいろ行動が可能で、[LINE]\nちょっとした攻撃では傷つかない。[END]",
             "original_bytes_length": 101,
             "available_bytes_size": 103,
-            "translation": "거대 방패를 지닌 기동 생체 병기.[LINE]\n공격·보조 등 다양한 행동을 하며[LINE]\n어지간한 공격에는 상처 입지 않는다.[END]"
+            "translation": "거대 방패를 지닌 기동 생체 병기.[LINE]\n공격・보조 등 다양한 행동을 하며[LINE]\n어지간한 공격에는 상처 입지 않는다.[END]"
         },
         {
             "offset": 35288,
@@ -1615,7 +1615,7 @@
             "string": "光と闇を属性とするベルセリオスを操る。[LINE]\n攻撃力も高く、状態異常耐性、[LINE]\n属性軽減ができないと苦戦は必至。[END]",
             "original_bytes_length": 101,
             "available_bytes_size": 103,
-            "translation": "빛·어둠 속성의 벨세리오스를 다룬다.[LINE]\n공격력도 높아 상태 이상 내성과[LINE]\n속성 경감 없이는 고전이 불가피하다.[END]"
+            "translation": "빛・어둠 속성의 벨세리오스를 다룬다.[LINE]\n공격력도 높아 상태 이상 내성과[LINE]\n속성 경감 없이는 고전이 불가피하다.[END]"
         },
         {
             "offset": 40904,
@@ -1650,7 +1650,7 @@
             "string": "大剣による剣術は正統派なものだが、[LINE]\n決死の覚悟か、ダッシュ中・攻撃中には[LINE]\nのけぞらせる事ができない。[END]",
             "original_bytes_length": 99,
             "available_bytes_size": 103,
-            "translation": "대검 검술은 정통파지만[LINE]\n결사의 각오인지 대시·공격 중에는[LINE]\n경직시킬 수 없다.[END]"
+            "translation": "대검 검술은 정통파지만[LINE]\n결사의 각오인지 대시・공격 중에는[LINE]\n경직시킬 수 없다.[END]"
         },
         {
             "offset": 41456,

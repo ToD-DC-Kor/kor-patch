@@ -460,7 +460,7 @@
             "string": "移動・攻撃を自分で行う操作[LINE]\n「マニュアル」が術技メニューから[LINE]\n選択可能になる戦術書。[END]",
             "original_bytes_length": 83,
             "available_bytes_size": 87,
-            "translation": "이동·공격을 직접 하는 조작[LINE]\n「수동」을 기술 메뉴에서[LINE]\n선택할 수 있게 하는 전술서.[END]"
+            "translation": "이동・공격을 직접 하는 조작[LINE]\n「수동」을 기술 메뉴에서[LINE]\n선택할 수 있게 하는 전술서.[END]"
         },
         {
             "offset": 1813920,

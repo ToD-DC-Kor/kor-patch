@@ -1330,7 +1330,7 @@
             "string": "たいていの[turquoise]行動・攻撃が繋がる[/color]ステキぶり。[END]",
             "original_bytes_length": 51,
             "available_bytes_size": 55,
-            "translation": "대부분의 [turquoise]행동·공격이 이어지는[/color] 멋진 기능.[END]"
+            "translation": "대부분의 [turquoise]행동・공격이 이어지는[/color] 멋진 기능.[END]"
         },
         {
             "offset": 259592,
@@ -2072,7 +2072,7 @@
             "string": "移動、行動、詠唱時に、時々のけぞってしまう。[END]",
             "original_bytes_length": 45,
             "available_bytes_size": 47,
-            "translation": "이동·행동·영창 중에 가끔 경직돼.[END]"
+            "translation": "이동・행동・영창 중에 가끔 경직돼.[END]"
         },
         {
             "offset": 255072,
@@ -2233,7 +2233,7 @@
             "string": "[/color]ステータス画面で隣り合う[/color]メインとサブの関係とは？[END]",
             "original_bytes_length": 59,
             "available_bytes_size": 63,
-            "translation": "[/color]능력치 화면에서 이웃한[/color] 주요·보조 능력치의 관계는?[END]"
+            "translation": "[/color]능력치 화면에서 이웃한[/color] 주요・보조 능력치의 관계는?[END]"
         },
         {
             "offset": 254000,
@@ -2555,7 +2555,7 @@
             "string": "地上も空中も頼れる男。[END]",
             "original_bytes_length": 23,
             "available_bytes_size": 23,
-            "translation": "땅·공중의 든든한 사내[END]"
+            "translation": "땅・공중의 든든한 사내[END]"
         },
         {
             "offset": 252080,
@@ -2821,7 +2821,7 @@
             "string": "[turquoise]間に他の攻撃、移動、仲間の連携[/color][END]",
             "original_bytes_length": 41,
             "available_bytes_size": 47,
-            "translation": "[turquoise]중간에 다른 공격·이동·동료의 연계[/color][END]"
+            "translation": "[turquoise]중간에 다른 공격・이동・동료의 연계[/color][END]"
         },
         {
             "offset": 250416,
@@ -3080,7 +3080,7 @@
             "string": "・弱点のダメージは[turquoise]敵味方とも[/color]２倍だし[END]",
             "original_bytes_length": 47,
             "available_bytes_size": 47,
-            "translation": "・약점 피해가 [turquoise]적·아군 모두[/color] 2배에[END]"
+            "translation": "・약점 피해가 [turquoise]적・아군 모두[/color] 2배에[END]"
         },
         {
             "offset": 248848,
@@ -3220,7 +3220,7 @@
             "string": "[R1_copy]:ターゲット確認[LINE]\n敵の弱点・耐性を確認できる！[LINE]\n短く押すと近くの敵にターゲット選択。[LINE]\n[END]",
             "original_bytes_length": 90,
             "available_bytes_size": 95,
-            "translation": "[R1_copy]:타겟 확인[LINE]\n적의 약점·내성을 확인할 수 있어![LINE]\n짧게 누르면 가까운 적을 선택해.[LINE]\n[END]"
+            "translation": "[R1_copy]:타겟 확인[LINE]\n적의 약점・내성을 확인할 수 있어![LINE]\n짧게 누르면 가까운 적을 선택해.[LINE]\n[END]"
         },
         {
             "offset": 247792,
