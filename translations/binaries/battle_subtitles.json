@@ -1,0 +1,4747 @@
+{
+    "battle_subtitles": [
+        {
+            "id": "Line_226_1",
+            "voice_ids": [
+                "0x0226"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Now then, let's get moving![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 자, 이제 가 볼까![END]",
+            "japanese": "さて、行こうか!"
+        },
+        {
+            "id": "Line_5dc_1",
+            "voice_ids": [
+                "0x05DC"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Yahoo! Victory is ours![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 야호! 우리가 이겼다![END]",
+            "japanese": "イェーイ!勝利だぜ!"
+        },
+        {
+            "id": "Line_5dc_2",
+            "voice_ids": [
+                "0x05DC"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Gwahahahaha![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 우하하하하![END]",
+            "japanese": "うわっはっはっはー"
+        },
+        {
+            "id": "Line_5dc_3",
+            "voice_ids": [
+                "0x05DC"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: [CHELSEA]? What's wrong?[END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: [CHELSEA], 왜 그래?[END]",
+            "japanese": "どうした?チェルシー。"
+        },
+        {
+            "id": "Line_5dc_4",
+            "voice_ids": [
+                "0x05DC"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: I wanted to be on [WOODROW]'s team...[END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: [WOODROW]님 팀으로 가고 싶어요...[END]",
+            "japanese": "ウッドロウ様の方のチームに行きたいです。"
+        },
+        {
+            "id": "Line_020_1",
+            "voice_ids": [
+                "0x0020"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Haaaaaaah![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 하아아압![END]",
+            "japanese": "ああああああああああああああああああああああああ"
+        },
+        {
+            "id": "Line_061_1",
+            "voice_ids": [
+                "0x0061"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Sword of eternal flame... Unleash your power![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 진정한 모습을 드러내라, 겁화의 검이여![END]",
+            "japanese": "真の姿を現せ、ゴーエンの剣!"
+        },
+        {
+            "id": "Line_062_1",
+            "voice_ids": [
+                "0x0062"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Scorch my enemies down to their very souls![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 그 몸에 새겨라![END]",
+            "japanese": "その身に焼き付けろ!"
+        },
+        {
+            "id": "Line_063_1",
+            "voice_ids": [
+                "0x0063"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Unleash![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 오의![END]",
+            "japanese": "奥義!"
+        },
+        {
+            "id": "Line_064_1",
+            "voice_ids": [
+                "0x0064"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Burning strike![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 업마![END]",
+            "japanese": "ゴーマ、"
+        },
+        {
+            "id": "Line_064_2",
+            "voice_ids": [
+                "0x0064"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Blazing Apocalypse![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 회진검![END]",
+            "japanese": "怪人拳!"
+        },
+        {
+            "id": "Line_059_1",
+            "voice_ids": [
+                "0x0059"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: I'm not going down without a fight![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 질 수는 없어![END]",
+            "japanese": "負けられないんだ!"
+        },
+        {
+            "id": "Line_05B_1",
+            "voice_ids": [
+                "0x005B"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Regal Phoenix![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 황왕천상익![END]",
+            "japanese": "コー!テンショー役!"
+        },
+        {
+            "id": "Line_065_1",
+            "voice_ids": [
+                "0x0065"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Burning Phoenix![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 비황절염충![END]",
+            "japanese": "ヒロー絶縁賞!"
+        },
+        {
+            "id": "Line_06A",
+            "voice_ids": [
+                "0x006A"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: It's over, [MIKTRAN]![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 이걸로 끝이다, [MIKTRAN]![END]",
+            "japanese": "これで終わりだ!"
+        },
+        {
+            "id": "Line_06B",
+            "voice_ids": [
+                "0x006B"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: With this sword, I'll carve a path to the future![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 이것은 미래에 맡기는 영겁의 검이다![END]",
+            "japanese": "こいつは、未来へ託す永劫の剣だ!"
+        },
+        {
+            "id": "Line_06C_1",
+            "voice_ids": [
+                "0x006C"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Now![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 참![END]",
+            "japanese": "ザン、"
+        },
+        {
+            "id": "Line_06C_2",
+            "voice_ids": [
+                "0x006C"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Pierce![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 공![END]",
+            "japanese": "クー、"
+        },
+        {
+            "id": "Line_06C_3",
+            "voice_ids": [
+                "0x006C"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Heavenward Thrust![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 천상검![END]",
+            "japanese": "テンショウケーン!"
+        },
+        {
+            "id": "Line_050_1",
+            "voice_ids": [
+                "0x0050"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: BURN![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 모조리 불태워라![END]",
+            "japanese": "焼き尽くせー!"
+        },
+        {
+            "id": "Line_060_1",
+            "voice_ids": [
+                "0x0060"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Final Fury![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 살극무황검![END]",
+            "japanese": "殺撃無効件!"
+        },
+        {
+            "id": "Line_01B",
+            "voice_ids": [
+                "0x001B"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: I've got this![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 해 보겠어![END]",
+            "japanese": "やってやるぜ!"
+        },
+        {
+            "id": "Line_36B",
+            "voice_ids": [
+                "0x036B"
+            ],
+            "string": "[COLOR_START][DYMLOS][COLOR_END]: Now! Let's go![END]",
+            "translation": "[COLOR_START][DYMLOS][COLOR_END]: 자, 간다![END]",
+            "japanese": "さあ行くぞ!"
+        },
+        {
+            "id": "Line_01C",
+            "voice_ids": [
+                "0x001C"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Who's next!?[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 다음이다![END]",
+            "japanese": "次だ!"
+        },
+        {
+            "id": "Line_067_1",
+            "voice_ids": [
+                "0x0067"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Let me show you...[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 한순간이면 돼![END]",
+            "japanese": "一瞬でいい!"
+        },
+        {
+            "id": "Line_067_2",
+            "voice_ids": [
+                "0x0067"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: ...my devastating power![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 내게 힘을![END]",
+            "japanese": "俺に力を!"
+        },
+        {
+            "id": "Line_00E",
+            "voice_ids": [
+                "0x000E"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: This is your end![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 이걸로 마지막이다![END]",
+            "japanese": "これで最後だ!"
+        },
+        {
+            "id": "Line_069",
+            "voice_ids": [
+                "0x0069"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Burn to ashes![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 모두 먼지가 되어 버려라![END]",
+            "japanese": "全て塵になってしまえ!"
+        },
+        {
+            "id": "Line_025_1",
+            "voice_ids": [
+                "0x0025"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: The enemy![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 적이다![END]",
+            "japanese": "敵だ!"
+        },
+        {
+            "id": "Line_026_1",
+            "voice_ids": [
+                "0x0026"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Let's go![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 간다![END]",
+            "japanese": "いぞ!"
+        },
+        {
+            "id": "Line_027_1",
+            "voice_ids": [
+                "0x0027"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Let's go, everyone![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 다들, 간다![END]",
+            "japanese": "みんな、行くぞ!"
+        },
+        {
+            "id": "Line_028_1",
+            "voice_ids": [
+                "0x0028"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Behind us![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 뒤다![END]",
+            "japanese": "後ろだ!"
+        },
+        {
+            "id": "Line_029_1",
+            "voice_ids": [
+                "0x0029"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: This is bad![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 위험해![END]",
+            "japanese": "やばい!"
+        },
+        {
+            "id": "Line_01E_1",
+            "voice_ids": [
+                "0x001E"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Let's get outta here![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 도망치자![END]",
+            "japanese": "逃げるぞ!"
+        },
+        {
+            "id": "Line_09c_1",
+            "voice_ids": [
+                "0x009C"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Let's get this over with![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 얼른 해치우자![END]",
+            "japanese": "チャンスと片付けるわよ!"
+        },
+        {
+            "id": "Line_09d_1",
+            "voice_ids": [
+                "0x009D"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: I'll be taking that![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 보물은 내가 접수할게![END]",
+            "japanese": "お宝いただくわよ!"
+        },
+        {
+            "id": "Line_09f_1",
+            "voice_ids": [
+                "0x009F"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: They're behind us!?[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 뒤라고!?[END]",
+            "japanese": "後ろですって!?"
+        },
+        {
+            "id": "Line_0a0_1",
+            "voice_ids": [
+                "0x00A0"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: They're on...both sides?[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 위기라는 거네![END]",
+            "japanese": "ピンチってやつ!"
+        },
+        {
+            "id": "Line_09e_1",
+            "voice_ids": [
+                "0x009E"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: This is going to be fun![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 제법 재미있겠는걸.[END]",
+            "japanese": "これは楽しめそうね。"
+        },
+        {
+            "id": "Line_095_1",
+            "voice_ids": [
+                "0x0095"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: You'll pay for this![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 두고 보자![END]",
+            "japanese": "覚えてなさいよ!"
+        },
+        {
+            "id": "Line_097",
+            "voice_ids": [
+                "0x0097"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Time to get serious![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 날 진심으로 만들었겠다![END]",
+            "japanese": "本気にさせたわね!"
+        },
+        {
+            "id": "Line_0DF_1",
+            "voice_ids": [
+                "0x00DF"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Gonna show off a little![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 화끈하게 가 볼까![END]",
+            "japanese": "派手に行くわよ!"
+        },
+        {
+            "id": "Line_07F_1",
+            "voice_ids": [
+                "0x007F"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: You're not getting away![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 놓치지 않아![END]",
+            "japanese": "逃がさない!"
+        },
+        {
+            "id": "Line_0AD",
+            "voice_ids": [
+                "0x00AD"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: I'll be takin' this![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 잘 받아 갈게![END]",
+            "japanese": "いただき!"
+        },
+        {
+            "id": "Line_0D8",
+            "voice_ids": [
+                "0x00D8"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Guide us to the healing embrace....[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 모든 것을 치유할 길을 보이리라.[END]",
+            "japanese": "全てを癒す導きを示さん。"
+        },
+        {
+            "id": "Line_0D9_1",
+            "voice_ids": [
+                "0x00D9"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: From the eternal sea![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 유구한 바다에 모여라![END]",
+            "japanese": "悠久の海に集え!"
+        },
+        {
+            "id": "Line_0DA_1",
+            "voice_ids": [
+                "0x00DA"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Life Discharge![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 라이프 디스차지![END]",
+            "japanese": "ライフディスチャージ!"
+        },
+        {
+            "id": "Line_0DB_1",
+            "voice_ids": [
+                "0x00DB"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Adrift in the icy mist![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 얼음 안개 속을 헤매라![END]",
+            "japanese": "ヒョウムにさまよえ!"
+        },
+        {
+            "id": "Line_0DC_1",
+            "voice_ids": [
+                "0x00DC"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Trapped in a frozen river![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 얼어붙은 강에서 스러져라![END]",
+            "japanese": "動画に果てよ!"
+        },
+        {
+            "id": "Line_0DD_1",
+            "voice_ids": [
+                "0x00DD"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Instantly sink into its cold embrace![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 냉기에 안겨 찰나에 잠겨라![END]",
+            "japanese": "霊気に抱かれて刹那に沈め!"
+        },
+        {
+            "id": "Line_0DE_1",
+            "voice_ids": [
+                "0x00DE"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Embrace End![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 임브레이스 엔드![END]",
+            "japanese": "インブレスエンド!"
+        },
+        {
+            "id": "Line_3C6",
+            "voice_ids": [
+                "0x03C6"
+            ],
+            "string": "[COLOR_START][ATWIGHT][COLOR_END]: We need a miracle...[END]",
+            "translation": "[COLOR_START][ATWIGHT][COLOR_END]: 내게 기적을.[END]",
+            "japanese": "我に奇跡を。"
+        },
+        {
+            "id": "Line_3C3",
+            "voice_ids": [
+                "0x03C3"
+            ],
+            "string": "[COLOR_START][ATWIGHT][COLOR_END]: Engulf them![END]",
+            "translation": "[COLOR_START][ATWIGHT][COLOR_END]: 삼켜라![END]",
+            "japanese": "飲み込め!"
+        },
+        {
+            "id": "Line_3D0",
+            "voice_ids": [
+                "0x03D0"
+            ],
+            "string": "[COLOR_START][ATWIGHT][COLOR_END]: Make them pay![END]",
+            "translation": "[COLOR_START][ATWIGHT][COLOR_END]: 몰아붙이는 거야![END]",
+            "japanese": "畳みかけるのよ。"
+        },
+        {
+            "id": "Line_091",
+            "voice_ids": [
+                "0x0091"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: I got this![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 조급해하지 마![END]",
+            "japanese": "焦るんじゃないの!"
+        },
+        {
+            "id": "Line_0C8",
+            "voice_ids": [
+                "0x00C8"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Pierce![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 꿰뚫어라![END]",
+            "japanese": "貫け!"
+        },
+        {
+            "id": "Line_080",
+            "voice_ids": [
+                "0x0080"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Take this![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 받아라![END]",
+            "japanese": "くらえ!"
+        },
+        {
+            "id": "Line_0D0",
+            "voice_ids": [
+                "0x00D0"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: All returns to nothing![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 모든 흐름을 무로 돌리리라![END]",
+            "japanese": "全ての流れを無に返さん!"
+        },
+        {
+            "id": "Line_3C4",
+            "voice_ids": [
+                "0x03C4"
+            ],
+            "string": "[COLOR_START][ATWIGHT][COLOR_END]: I shall lend you my power.[END]",
+            "translation": "[COLOR_START][ATWIGHT][COLOR_END]: 힘을 줄게![END]",
+            "japanese": "力を与える!"
+        },
+        {
+            "id": "Line_0CE",
+            "voice_ids": [
+                "0x00CE"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Miracle of Life![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 생명의 기적이여![END]",
+            "japanese": "命の奇跡よ!"
+        },
+        {
+            "id": "Line_3C0",
+            "voice_ids": [
+                "0x03C0"
+            ],
+            "string": "[COLOR_START][ATWIGHT][COLOR_END]: Pierce![END]",
+            "translation": "[COLOR_START][ATWIGHT][COLOR_END]: 꿰뚫어라![END]",
+            "japanese": "貫け!"
+        },
+        {
+            "id": "Line_105_1",
+            "voice_ids": [
+                "0x0105"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Let's do our best, everyone.[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 여러분, 힘내요![END]",
+            "japanese": "みなさん、頑張りましょう!"
+        },
+        {
+            "id": "Line_104_1",
+            "voice_ids": [
+                "0x0104"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: A threat...[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 적이군요.[END]",
+            "japanese": "敵ですね。"
+        },
+        {
+            "id": "Line_107_1",
+            "voice_ids": [
+                "0x0107"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Enemy attack![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 적의 습격이에요![END]",
+            "japanese": "敵襲です!"
+        },
+        {
+            "id": "Line_108_1",
+            "voice_ids": [
+                "0x0108"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: They're coming from both sides![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 포위당했어요![END]",
+            "japanese": "挟まれてしまいました!"
+        },
+        {
+            "id": "Line_106_1",
+            "voice_ids": [
+                "0x0106"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Atamoni...[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 신이시여![END]",
+            "japanese": "神よ!"
+        },
+        {
+            "id": "Line_0fd_1",
+            "voice_ids": [
+                "0x00FD"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: We must escape, quickly![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 어서 도망쳐요![END]",
+            "japanese": "早く逃げましょう!"
+        },
+        {
+            "id": "Line_0FF",
+            "voice_ids": [
+                "0x00FF"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Unforgivable![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 용서하지 않겠어요![END]",
+            "japanese": "許しません!"
+        },
+        {
+            "id": "Line_13E",
+            "voice_ids": [
+                "0x013E"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Divine judgement for an evil soul![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 사악한 영혼에 신의 심판을![END]",
+            "japanese": "悪しき魂に神の裁きを!"
+        },
+        {
+            "id": "Line_13F",
+            "voice_ids": [
+                "0x013F"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Sacred Blame![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 세이크리드 블레임![END]",
+            "japanese": "セイクリットブレイム!"
+        },
+        {
+            "id": "Line_140",
+            "voice_ids": [
+                "0x0140"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Here I go, with all I've got![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 가겠어요, 온 힘을 다해![END]",
+            "japanese": "行きます、アリッタケ!"
+        },
+        {
+            "id": "Line_141",
+            "voice_ids": [
+                "0x0141"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Howl, O cleansing fire![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 울부짖어라, 불꽃이여![END]",
+            "japanese": "うなれ、炎よ!"
+        },
+        {
+            "id": "Line_142",
+            "voice_ids": [
+                "0x0142"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Dance, O humbling ice![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 춤추어라, 눈보라여![END]",
+            "japanese": "前、吹雪よ!"
+        },
+        {
+            "id": "Line_143",
+            "voice_ids": [
+                "0x0143"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Lash, O punishing wind![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 갈라 버려라, 바람이여![END]",
+            "japanese": "切り裂け、風よ!"
+        },
+        {
+            "id": "Line_144",
+            "voice_ids": [
+                "0x0144"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Repent now! Divine Power![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 마지막이에요! 디바인 파워![END]",
+            "japanese": "とどめ、ディバインパワー!"
+        },
+        {
+            "id": "Line_146",
+            "voice_ids": [
+                "0x0146"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Come forth, O bolt of life![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 오라, 탄생의 번개여![END]",
+            "japanese": "来たれ、聖誕の雷!"
+        },
+        {
+            "id": "Line_147",
+            "voice_ids": [
+                "0x0147"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Roar in fury, O earth of creation![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 분노하라, 창생의 대지여![END]",
+            "japanese": "行かれ、創生の大地!"
+        },
+        {
+            "id": "Line_148",
+            "voice_ids": [
+                "0x0148"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Rebirth Crusader![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 리버스 크루세이더![END]",
+            "japanese": "リバースクルセイダー!"
+        },
+        {
+            "id": "Line_EA",
+            "voice_ids": [
+                "0x00EA"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Divinite Punishment![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 천벌이에요.[END]",
+            "japanese": "天罰です。"
+        },
+        {
+            "id": "Line_3F4_1",
+            "voice_ids": [
+                "0x03F4"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: The will of Atamoni![END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 신의 뜻이여![END]",
+            "japanese": "神の御意志よ、"
+        },
+        {
+            "id": "Line_3F4_2",
+            "voice_ids": [
+                "0x03F4"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: Now behold her judgement![END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 지금이야말로 심판을![END]",
+            "japanese": "今こそ裁きよ。"
+        },
+        {
+            "id": "Line_F4",
+            "voice_ids": [
+                "0x00F4"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: What should I do...?[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 어쩌면 좋죠...?[END]",
+            "japanese": "どうしましょう!?"
+        },
+        {
+            "id": "Line_401",
+            "voice_ids": [
+                "0x0401"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: Defeat your enemies![END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 적을 무찌르거라![END]",
+            "japanese": "一望大神社"
+        },
+        {
+            "id": "Line_13A",
+            "voice_ids": [
+                "0x013A"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Lend me strength, [CLEMENTE]![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 부탁해요, [CLEMENTE]![END]",
+            "japanese": "お願い、クレメンテ!"
+        },
+        {
+            "id": "Line_3F3",
+            "voice_ids": [
+                "0x03F3"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: Unleash her will![END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 전력을 다하마![END]",
+            "japanese": "本気で行くぞ!"
+        },
+        {
+            "id": "Line_FC",
+            "voice_ids": [
+                "0x00FC"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Repent![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 참회하세요![END]",
+            "japanese": "懺悔なさい!"
+        },
+        {
+            "id": "Line_3EB",
+            "voice_ids": [
+                "0x03EB"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: O rumbling earth![END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 대지여![END]",
+            "japanese": "大地を!"
+        },
+        {
+            "id": "Line_132",
+            "voice_ids": [
+                "0x0132"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: O torrent of water![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 물이여![END]",
+            "japanese": "水よ!"
+        },
+        {
+            "id": "Line_3EC",
+            "voice_ids": [
+                "0x03EC"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: O lashing winds![END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 바람이여![END]",
+            "japanese": "風よ!"
+        },
+        {
+            "id": "Line_131",
+            "voice_ids": [
+                "0x0131"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: O raging pyre![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 불꽃이여![END]",
+            "japanese": "炎よ!"
+        },
+        {
+            "id": "Line_3EF",
+            "voice_ids": [
+                "0x03EF"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: O piercing ice![END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 얼음이여![END]",
+            "japanese": "ゴーリオ!"
+        },
+        {
+            "id": "Line_134",
+            "voice_ids": [
+                "0x0134"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: O blinding light![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 빛이여![END]",
+            "japanese": "光よ!"
+        },
+        {
+            "id": "Line_0FE",
+            "voice_ids": [
+                "0x00FE"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Atamoni's might...![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 신이시여![END]",
+            "japanese": "神よ!"
+        },
+        {
+            "id": "Line_1C0_1",
+            "voice_ids": [
+                "0x01C0"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Shall we begin?[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 시작할까.[END]",
+            "japanese": "始めるか。"
+        },
+        {
+            "id": "Line_1BF_1",
+            "voice_ids": [
+                "0x01BF"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Now, let's move![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 자, 간다![END]",
+            "japanese": "さあ、行くぞ!"
+        },
+        {
+            "id": "Line_1C2_1",
+            "voice_ids": [
+                "0x01C2"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Oh, is that their plan?[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 호오, 그렇게 나오는 건가.[END]",
+            "japanese": "ほう、そうきたか。"
+        },
+        {
+            "id": "Line_1C3_1",
+            "voice_ids": [
+                "0x01C3"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Looks like we're trapped.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 포위당한 모양이군.[END]",
+            "japanese": "挟まれたようだな。"
+        },
+        {
+            "id": "Line_1C1_BQ",
+            "voice_ids": [
+                "0x01C1"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Don't hold back![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 전력을 다하겠다![END]",
+            "japanese": "本気で行くぞ!"
+        },
+        {
+            "id": "Line_1C1_BC",
+            "voice_ids": [
+                "0x01C1"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Time to get serious![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 전력을 다하겠다![END]",
+            "japanese": "本気で行くぞ!"
+        },
+        {
+            "id": "Line_1B8_1",
+            "voice_ids": [
+                "0x01B8"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Let's regroup.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 일단 물러난다![END]",
+            "japanese": "一旦引くぞ!"
+        },
+        {
+            "id": "Line_1BA_1",
+            "voice_ids": [
+                "0x01BA"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Know your place![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 우쭐대지 마라![END]",
+            "japanese": "いい気になるな!"
+        },
+        {
+            "id": "Line_1ED_1",
+            "voice_ids": [
+                "0x01ED"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Time to be rid of this filth![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 티끌도 남기지 않겠다![END]",
+            "japanese": "尻も残さん!"
+        },
+        {
+            "id": "Line_1EE",
+            "voice_ids": [
+                "0x01EE"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Begone![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 오의![END]",
+            "japanese": "奥義!"
+        },
+        {
+            "id": "Line_1EF",
+            "voice_ids": [
+                "0x01EF"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Cleansing Inferno![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 정파멸소암![END]",
+            "japanese": "ジョウハメショウエン!"
+        },
+        {
+            "id": "Line_1F0",
+            "voice_ids": [
+                "0x01F0"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Be consumed by the flames of darkness![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 어둠의 불꽃에 안겨 사라져라![END]",
+            "japanese": "闇の炎に抱かれて消えろ!"
+        },
+        {
+            "id": "Line_1F1",
+            "voice_ids": [
+                "0x01F1"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: You eyesore![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 눈에 거슬린다![END]",
+            "japanese": "目障りなんだよ!"
+        },
+        {
+            "id": "Line_1F2",
+            "voice_ids": [
+                "0x01F2"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Begone...[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 내 눈앞에서...[END]",
+            "japanese": "僕の目の前から。"
+        },
+        {
+            "id": "Line_1F3_D7",
+            "voice_ids": [
+                "0x01F3"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: ...from my sight!![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 사라져 버려![END]",
+            "japanese": "消えてしまえ!"
+        },
+        {
+            "id": "Line_1F3_E5",
+            "voice_ids": [
+                "0x01F3"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Disappear![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 사라져 버려![END]",
+            "japanese": "消えてしまえ!"
+        },
+        {
+            "id": "Line_1F3_E6",
+            "voice_ids": [
+                "0x01F3"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Disappear![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 사라져 버려![END]",
+            "japanese": "消えてしまえ!"
+        },
+        {
+            "id": "Line_1F4",
+            "voice_ids": [
+                "0x01F4"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Infernal Suffering![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 마신연옥살![END]",
+            "japanese": "魔人煉獄殺!"
+        },
+        {
+            "id": "Line_1F5",
+            "voice_ids": [
+                "0x01F5"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: You understand nothing![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 너희가 뭘 알아![END]",
+            "japanese": "貴様らに何がわかる!"
+        },
+        {
+            "id": "Line_1EB",
+            "voice_ids": [
+                "0x01EB"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Have you made your peace?[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 각오는 됐나?[END]",
+            "japanese": "覚悟はできたか?"
+        },
+        {
+            "id": "Line_1F8",
+            "voice_ids": [
+                "0x01F8"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Infernal Demon Fang![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 마신검・찰아![END]",
+            "japanese": "魔人拳、雪蛾!"
+        },
+        {
+            "id": "Line_1F6",
+            "voice_ids": [
+                "0x01F6"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: I'll cut myself free from my past![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 과거를 끊어 내겠다![END]",
+            "japanese": "過去を断ち切る!"
+        },
+        {
+            "id": "Line_1A8",
+            "voice_ids": [
+                "0x01A8"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: I'll end this in one strike![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 단숨에 끝장을 내겠다![END]",
+            "japanese": "一気に蹴りをつけるぞ!"
+        },
+        {
+            "id": "Line_41D",
+            "voice_ids": [
+                "0x041D"
+            ],
+            "string": "[COLOR_START][CHALTIER][COLOR_END]: Crush them![END]",
+            "translation": "[COLOR_START][CHALTIER][COLOR_END]: 부서져라![END]",
+            "japanese": "砕け!"
+        },
+        {
+            "id": "Line_1A9",
+            "voice_ids": [
+                "0x01A9"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Shall we get serious?[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 그게 진심인가?[END]",
+            "japanese": "それで本気か。"
+        },
+        {
+            "id": "Line_420",
+            "voice_ids": [
+                "0x0420"
+            ],
+            "string": "[COLOR_START][CHALTIER][COLOR_END]: Hope you're ready for this![END]",
+            "translation": "[COLOR_START][CHALTIER][COLOR_END]: 각오는 되셨나요?[END]",
+            "japanese": "覚悟はできましたか?"
+        },
+        {
+            "id": "Line_41F",
+            "voice_ids": [
+                "0x041F"
+            ],
+            "string": "[COLOR_START][CHALTIER][COLOR_END]: Begone from our sight![END]",
+            "translation": "[COLOR_START][CHALTIER][COLOR_END]: 눈앞에서 사라져라![END]",
+            "japanese": "目の前から消えろ!"
+        },
+        {
+            "id": "Line_1F7",
+            "voice_ids": [
+                "0x01F7"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Remember this moment forever![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 그 눈에 새겨라![END]",
+            "japanese": "その目に焼き付けろ!"
+        },
+        {
+            "id": "Line_16C_1",
+            "voice_ids": [
+                "0x016C"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: They've come.[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 왔나![END]",
+            "japanese": "来たか!?"
+        },
+        {
+            "id": "Line_16B_1",
+            "voice_ids": [
+                "0x016B"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Looks hostile.[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 적인 모양이군.[END]",
+            "japanese": "敵のようだな。"
+        },
+        {
+            "id": "Line_16E_1",
+            "voice_ids": [
+                "0x016E"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Surprise attack, watch out![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 기습이다! 조심해라![END]",
+            "japanese": "奇襲だ!気をつけろ!"
+        },
+        {
+            "id": "Line_16F_1",
+            "voice_ids": [
+                "0x016F"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Pincer attack! Take your positions![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 협공이다! 태세를 정비해라![END]",
+            "japanese": "強撃だ!体勢を立て直せ!"
+        },
+        {
+            "id": "Line_16D_1",
+            "voice_ids": [
+                "0x016D"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: We must be on our guard![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 마음을 다잡아야겠군![END]",
+            "japanese": "気を引き締めればならんな!"
+        },
+        {
+            "id": "Line_164_1",
+            "voice_ids": [
+                "0x0164"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Retreat![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 철수한다![END]",
+            "japanese": "撤退だ!"
+        },
+        {
+            "id": "Line_153",
+            "voice_ids": [
+                "0x0153"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Release![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 놓치지 않겠다![END]",
+            "japanese": "逃がさん!"
+        },
+        {
+            "id": "Line_166",
+            "voice_ids": [
+                "0x0166"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Allow me to show you![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 보여 주마![END]",
+            "japanese": "見せてやろう!"
+        },
+        {
+            "id": "Line_192",
+            "voice_ids": [
+                "0x0192"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: I'm not finished with you![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 이대로 끝나진 않을 거다![END]",
+            "japanese": "ただでは済まさん!"
+        },
+        {
+            "id": "Line_193",
+            "voice_ids": [
+                "0x0193"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Tearing thrust! Azure Wave![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 열충창파진![END]",
+            "japanese": "レッショウソウハジン!"
+        },
+        {
+            "id": "Line_195",
+            "voice_ids": [
+                "0x0195"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Eternal gale, lend me your power![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 영겁의 바람이여, 내 몸에 모여라![END]",
+            "japanese": "永劫なる風よ、我が一心に集え!"
+        },
+        {
+            "id": "Line_196_1",
+            "voice_ids": [
+                "0x0196"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Dancing tempest![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 황무![END]",
+            "japanese": "後部、"
+        },
+        {
+            "id": "Line_196_2",
+            "voice_ids": [
+                "0x0196"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Radiant Vortex![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 선황섬![END]",
+            "japanese": "先行戦!"
+        },
+        {
+            "id": "Line_198",
+            "voice_ids": [
+                "0x0198"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: I'm holding nothing back![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 한계를 풀도록 하겠다.[END]",
+            "japanese": "リミッターを外させてもらう。"
+        },
+        {
+            "id": "Line_19A",
+            "voice_ids": [
+                "0x019A"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: It's up to you now...[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 뒷일은 맡기겠다.[END]",
+            "japanese": "あとは任せたぞ。"
+        },
+        {
+            "id": "Line_161",
+            "voice_ids": [
+                "0x0161"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Entrust this to me![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 맡겨 주게![END]",
+            "japanese": "任せたまえ!"
+        },
+        {
+            "id": "Line_40C",
+            "voice_ids": [
+                "0x040C"
+            ],
+            "string": "[COLOR_START][IGTENOS][COLOR_END]: Let's finish this![END]",
+            "translation": "[COLOR_START][IGTENOS][COLOR_END]: 단숨에 끝낸다![END]",
+            "japanese": "一気に決める!"
+        },
+        {
+            "id": "Line_150",
+            "voice_ids": [
+                "0x0150"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: You're mine![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 잡았다![END]",
+            "japanese": "捉えた!"
+        },
+        {
+            "id": "Line_40D",
+            "voice_ids": [
+                "0x040D"
+            ],
+            "string": "[COLOR_START][IGTENOS][COLOR_END]: A swift strike![END]",
+            "translation": "[COLOR_START][IGTENOS][COLOR_END]: 단숨에 몰아쳐라![END]",
+            "japanese": "一気に攻めろ!"
+        },
+        {
+            "id": "Line_16A",
+            "voice_ids": [
+                "0x016A"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: I will not yield![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 여기서 굴복할 수는 없다![END]",
+            "japanese": "ここで屈するわけにはいかん!"
+        },
+        {
+            "id": "Line_152",
+            "voice_ids": [
+                "0x0152"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Have at you![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 거기다![END]",
+            "japanese": "そこだ!"
+        },
+        {
+            "id": "Line_21F_1",
+            "voice_ids": [
+                "0x021F"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: They don't look like much trouble.[END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 그리 대단한 적은 아닌 것 같네.[END]",
+            "japanese": "大した敵じゃなさそうだね。"
+        },
+        {
+            "id": "Line_21E_1",
+            "voice_ids": [
+                "0x021E"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Well, let's get a move on.[END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 자, 가 볼까.[END]",
+            "japanese": "さて、行くとしようか。"
+        },
+        {
+            "id": "Line_221_1",
+            "voice_ids": [
+                "0x0221"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Here they come![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 적이 나왔군![END]",
+            "japanese": "敵さんのお出ましだ!"
+        },
+        {
+            "id": "Line_222_1",
+            "voice_ids": [
+                "0x0222"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: We're surrounded![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 포위당했네![END]",
+            "japanese": "囲まれたね!"
+        },
+        {
+            "id": "Line_220_BQ",
+            "voice_ids": [
+                "0x0220"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Time to go all out![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 전력을 다해 주겠어![END]",
+            "japanese": "本気で生かしてもらうよ!"
+        },
+        {
+            "id": "Line_220_BC",
+            "voice_ids": [
+                "0x0220"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Let me show you what I got![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 전력을 다해 주겠어![END]",
+            "japanese": "本気で生かしてもらうよ!"
+        },
+        {
+            "id": "Line_217_1",
+            "voice_ids": [
+                "0x0217"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Let's bail![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 일단 물러나자![END]",
+            "japanese": "ここは引くよ!"
+        },
+        {
+            "id": "Line_219",
+            "voice_ids": [
+                "0x0219"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: So persistent![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 끈질기네![END]",
+            "japanese": "しぶといね!"
+        },
+        {
+            "id": "Line_207",
+            "voice_ids": [
+                "0x0207"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: I'm taking you down![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 해치워 주겠어![END]",
+            "japanese": "仕留めてやるよ!"
+        },
+        {
+            "id": "Line_237",
+            "voice_ids": [
+                "0x0237"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Gaia's Fury![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 삼라폭쇄![END]",
+            "japanese": "シンラ、伐採!"
+        },
+        {
+            "id": "Line_23B",
+            "voice_ids": [
+                "0x023B"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: I'm not holding back anymore![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 지금 편하게 해 주겠어![END]",
+            "japanese": "今楽にしてやるよ!"
+        },
+        {
+            "id": "Line_23C",
+            "voice_ids": [
+                "0x023C"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Be gone![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 사라져![END]",
+            "japanese": "消えろ!"
+        },
+        {
+            "id": "Line_202",
+            "voice_ids": [
+                "0x0202"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Come on![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 받아 봐![END]",
+            "japanese": "受けてみな!"
+        },
+        {
+            "id": "Line_1FC",
+            "voice_ids": [
+                "0x01FC"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Take this![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 테얏![END]",
+            "japanese": "てやっ!"
+        },
+        {
+            "id": "Line_208_E5",
+            "voice_ids": [
+                "0x0208"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: And that![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 이거나 받아라![END]",
+            "japanese": "オラオラー!"
+        },
+        {
+            "id": "Line_208_E7",
+            "voice_ids": [
+                "0x0208"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Weakling![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 이거나 받아라![END]",
+            "japanese": "オラオラー!"
+        },
+        {
+            "id": "Line_20F",
+            "voice_ids": [
+                "0x020F"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: You're nothing to me![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 나도 아직 미숙하군.[END]",
+            "japanese": "私も未熟だな。"
+        },
+        {
+            "id": "Line_2F0_1",
+            "voice_ids": [
+                "0x02F0"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: I'mma knock you out![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 날려 버리겠어![END]",
+            "japanese": "ぶっ飛ばしてやるぜ!"
+        },
+        {
+            "id": "Line_2F1_1",
+            "voice_ids": [
+                "0x02F1"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Who wants a piece of this?[END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 한 대 맞고 싶은 놈은 누구냐![END]",
+            "japanese": "乗されたいのはドイツだ!"
+        },
+        {
+            "id": "Line_2F3_1",
+            "voice_ids": [
+                "0x02F3"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Fight fair and square![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 정정당당하게 덤벼라![END]",
+            "japanese": "正々堂々と今回!"
+        },
+        {
+            "id": "Line_2F4_1",
+            "voice_ids": [
+                "0x02F4"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: I'll take you on from any direction![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 어디서든 덤벼 봐라![END]",
+            "japanese": "どっからでもかかってこんかい!"
+        },
+        {
+            "id": "Line_2F2_BQ",
+            "voice_ids": [
+                "0x02F2"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: NEVER underestimate a CHAMPION![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 챔피언을 얕보지 마라![END]",
+            "japanese": "チャンピオンをなめるなよ!"
+        },
+        {
+            "id": "Line_2F2_BC",
+            "voice_ids": [
+                "0x02F2"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: NEVER underestimate a CHAMPION![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 챔피언을 얕보지 마라![END]",
+            "japanese": "チャンピオンをなめるなよ!"
+        },
+        {
+            "id": "Line_2E9_1",
+            "voice_ids": [
+                "0x02E9"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Let's get outta here![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 도망치자![END]",
+            "japanese": "ずらかるぞー!"
+        },
+        {
+            "id": "Line_2EB",
+            "voice_ids": [
+                "0x02EB"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Now![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 지금이다![END]",
+            "japanese": "今だぜ!"
+        },
+        {
+            "id": "Line_2D1",
+            "voice_ids": [
+                "0x02D1"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Hiyah![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 흐압![END]",
+            "japanese": "にゅーっ!"
+        },
+        {
+            "id": "Line_2D3",
+            "voice_ids": [
+                "0x02D3"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Fighting Spirit![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 기합이다![END]",
+            "japanese": "気合だ!"
+        },
+        {
+            "id": "Line_2D6_DC",
+            "voice_ids": [
+                "0x02D6"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: One more![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 한 번 더![END]",
+            "japanese": "もう一丁!"
+        },
+        {
+            "id": "Line_2D6_E7",
+            "voice_ids": [
+                "0x02D6"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: My final blow![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 한 번 더![END]",
+            "japanese": "もう一丁!"
+        },
+        {
+            "id": "Line_2D8",
+            "voice_ids": [
+                "0x02D8"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Uyah![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 우오오오![END]",
+            "japanese": "うおおおおおおおおおおお!"
+        },
+        {
+            "id": "Line_30A",
+            "voice_ids": [
+                "0x030A"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Tres Bien Hip![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 트레비안 힙![END]",
+            "japanese": "トレビアヒップ!"
+        },
+        {
+            "id": "Line_311",
+            "voice_ids": [
+                "0x0311"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: My muscles throb![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 약동하는 근육![END]",
+            "japanese": "筋肉の躍動!"
+        },
+        {
+            "id": "Line_312",
+            "voice_ids": [
+                "0x0312"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: This ends now![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 이걸로 끝이다![END]",
+            "japanese": "これで終わりだ!"
+        },
+        {
+            "id": "Line_2D5",
+            "voice_ids": [
+                "0x02D5"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Come get some![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 먹어 봐라![END]",
+            "japanese": "クライアグリー!"
+        },
+        {
+            "id": "Line_2D7",
+            "voice_ids": [
+                "0x02D7"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: MY MUSCLES UNLEASHED![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 머슬, 머슬![END]",
+            "japanese": "マッスルマッスル!"
+        },
+        {
+            "id": "Line_317",
+            "voice_ids": [
+                "0x0317"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Get outta here![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 이걸로 작별이다![END]",
+            "japanese": "これでさよならだ!"
+        },
+        {
+            "id": "Line_31F",
+            "voice_ids": [
+                "0x031F"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: You're still standing?[END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 아직도 버티냐![END]",
+            "japanese": "まだいるのかよ!"
+        },
+        {
+            "id": "Line_320",
+            "voice_ids": [
+                "0x0320"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: So it's come to this...[END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 이렇게 된 이상...[END]",
+            "japanese": "こうなったら、"
+        },
+        {
+            "id": "Line_321",
+            "voice_ids": [
+                "0x0321"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Get a load of this![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 이건 어떠냐![END]",
+            "japanese": "こいつでどうだ!"
+        },
+        {
+            "id": "Line_2AA_1",
+            "voice_ids": [
+                "0x02AA"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Let's get it on![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 시작하자고![END]",
+            "japanese": "始めるぜ!"
+        },
+        {
+            "id": "Line_2AB_1",
+            "voice_ids": [
+                "0x02AB"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Shall we dance?[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 자, 해 볼까![END]",
+            "japanese": "さーてやるかーい!"
+        },
+        {
+            "id": "Line_2AD_1",
+            "voice_ids": [
+                "0x02AD"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Hooligans have arrived![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 적이 등장했군![END]",
+            "japanese": "敵さんのお出ましだ!"
+        },
+        {
+            "id": "Line_2AE_1",
+            "voice_ids": [
+                "0x02AE"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: What do we do?[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 어떡할까![END]",
+            "japanese": "どうするよ!"
+        },
+        {
+            "id": "Line_2AC_BQ",
+            "voice_ids": [
+                "0x02AC"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Come on! I'm coming for you![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 컴온! 진심으로 간다![END]",
+            "japanese": "カモン!マジで行くぜ!"
+        },
+        {
+            "id": "Line_2AC_BC",
+            "voice_ids": [
+                "0x02AC"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: COME ON! Let's seriously party![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 컴온! 진심으로 간다![END]",
+            "japanese": "カモン!マジで行くぜ!"
+        },
+        {
+            "id": "Line_2A3_1",
+            "voice_ids": [
+                "0x02A3"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Run for your life![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 도망치는 게 이기는 거야![END]",
+            "japanese": "逃げるが勝ちだぜ!"
+        },
+        {
+            "id": "Line_292_E3",
+            "voice_ids": [
+                "0x0292"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Now it's getting heated![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 분위기가 달아오르는군![END]",
+            "japanese": "盛り上がってきたぜ!"
+        },
+        {
+            "id": "Line_292_E6",
+            "voice_ids": [
+                "0x0292"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: It's getting exciting, baby![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 분위기가 달아오르는군![END]",
+            "japanese": "盛り上がってきたぜ!"
+        },
+        {
+            "id": "Line_2A2",
+            "voice_ids": [
+                "0x02A2"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Yes![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 좋았어![END]",
+            "japanese": "イエス!"
+        },
+        {
+            "id": "Line_2A5",
+            "voice_ids": [
+                "0x02A5"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Are you ready?[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 따라올 수 있겠어?[END]",
+            "japanese": "ついてこれるか?"
+        },
+        {
+            "id": "Line_2C4",
+            "voice_ids": [
+                "0x02C4"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: What's the matter with you!?[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 왜 그래, 왜 그래?[END]",
+            "japanese": "どうしたどうした?"
+        },
+        {
+            "id": "Line_2C5",
+            "voice_ids": [
+                "0x02C5"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: You don't want to party?[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 흥이 안 나는 모양이군![END]",
+            "japanese": "ノリが悪いぜ!"
+        },
+        {
+            "id": "Line_2C7",
+            "voice_ids": [
+                "0x02C7"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Fine, get the hell out![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 얼른 사라져![END]",
+            "japanese": "とっとと消えな!"
+        },
+        {
+            "id": "Line_28E",
+            "voice_ids": [
+                "0x028E"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Leave this to me![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 맡겨 둬![END]",
+            "japanese": "任せろ!"
+        },
+        {
+            "id": "Line_2C1",
+            "voice_ids": [
+                "0x02C1"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Behold the glory of my voice![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 내 영혼을 들어라![END]",
+            "japanese": "俺の魂を聞け!"
+        },
+        {
+            "id": "Line_291",
+            "voice_ids": [
+                "0x0291"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: All okay![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 전부 문제없어![END]",
+            "japanese": "オールオッケー!"
+        },
+        {
+            "id": "Line_2C2",
+            "voice_ids": [
+                "0x02C2"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Listen to my glorious song![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 내 노래를 들어라![END]",
+            "japanese": "俺の歌を聴け!"
+        },
+        {
+            "id": "Line_2A9",
+            "voice_ids": [
+                "0x02A9"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: COME-BACK TOUR![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 부활의 리사이틀![END]",
+            "japanese": "復活のリサイタル!"
+        },
+        {
+            "id": "Line_2C3",
+            "voice_ids": [
+                "0x02C3"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: That was a blast![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 고마워.[END]",
+            "japanese": "ありがとう。"
+        },
+        {
+            "id": "Line_264_1",
+            "voice_ids": [
+                "0x0264"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: I'll do my best![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 한마음으로 집중해서, 갈게요![END]",
+            "japanese": "1位先進、いきますよ!"
+        },
+        {
+            "id": "Line_265_1",
+            "voice_ids": [
+                "0x0265"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: I'll bring up the rear.[END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 엄호는 맡겨 주세요![END]",
+            "japanese": "援護を任せてください!"
+        },
+        {
+            "id": "Line_267_1",
+            "voice_ids": [
+                "0x0267"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: What? When did they...[END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 어라? 어느 틈에?[END]",
+            "japanese": "あれ?いつの間に?"
+        },
+        {
+            "id": "Line_268_1",
+            "voice_ids": [
+                "0x0268"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: We're completely surrounded![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 포위당했어요.[END]",
+            "japanese": "囲まれちゃいました。"
+        },
+        {
+            "id": "Line_266_1",
+            "voice_ids": [
+                "0x0266"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: We won't lose to the likes of you![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 침착하게, 지지 않겠어요![END]",
+            "japanese": "対戦自虐で負けません!"
+        },
+        {
+            "id": "Line_25d_1",
+            "voice_ids": [
+                "0x025D"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: That was close...[END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 아슬아슬했어요.[END]",
+            "japanese": "危機一髪でした。"
+        },
+        {
+            "id": "Line_248_E2",
+            "voice_ids": [
+                "0x0248"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: How about this![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 이건 어때요![END]",
+            "japanese": "これでどうだ!"
+        },
+        {
+            "id": "Line_248_E5",
+            "voice_ids": [
+                "0x0248"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Try this on for size![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 이건 어때요![END]",
+            "japanese": "これでどうだ!"
+        },
+        {
+            "id": "Line_24B_D8",
+            "voice_ids": [
+                "0x024B"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Awesomeness incoming![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 대단한 게 나가요![END]",
+            "japanese": "すごいのいくよー!"
+        },
+        {
+            "id": "Line_24B_E7",
+            "voice_ids": [
+                "0x024B"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Here comes the big one![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 대단한 게 나가요![END]",
+            "japanese": "すごいのいくよー!"
+        },
+        {
+            "id": "Line_25F",
+            "voice_ids": [
+                "0x025F"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Leave it to me![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 맡겨 주세요![END]",
+            "japanese": "任せてください!"
+        },
+        {
+            "id": "Line_27E",
+            "voice_ids": [
+                "0x027E"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Icy Petal![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 동화![END]",
+            "japanese": "トウガ!"
+        },
+        {
+            "id": "Line_282",
+            "voice_ids": [
+                "0x0282"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Eyah![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 에에잇![END]",
+            "japanese": "えええええええい!"
+        },
+        {
+            "id": "Line_283",
+            "voice_ids": [
+                "0x0283"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Wild Geese![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 와일드 기스![END]",
+            "japanese": "ワイルドギース!"
+        },
+        {
+            "id": "Line_24A",
+            "voice_ids": [
+                "0x024A"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: That's it![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 여기예요![END]",
+            "japanese": "ここです!"
+        },
+        {
+            "id": "Line_286",
+            "voice_ids": [
+                "0x0286"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Wave attack![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 파상 공격![END]",
+            "japanese": "波状攻撃!"
+        },
+        {
+            "id": "Line_244",
+            "voice_ids": [
+                "0x0244"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Here you go![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 해치울 거예요![END]",
+            "japanese": "やっちゃうぞ!"
+        },
+        {
+            "id": "Line_246",
+            "voice_ids": [
+                "0x0246"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Let's do this![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 갈게요![END]",
+            "japanese": "いくよー!"
+        },
+        {
+            "id": "Line_24E",
+            "voice_ids": [
+                "0x024E"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Rain down from above![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 비 오듯 쏟아져라![END]",
+            "japanese": "雨あられー!"
+        },
+        {
+            "id": "Line_281",
+            "voice_ids": [
+                "0x0281"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Unbound wings, soar to the heavens![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 그 누구에게도 얽매이지 않는 날개여, 지금 날아올라라![END]",
+            "japanese": "何者にも縛られぬ翼、今、飛び立て!"
+        },
+        {
+            "id": "Line_347_1",
+            "voice_ids": [
+                "0x0347"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Let's do it![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 힘내자![END]",
+            "japanese": "頑張りましょ!"
+        },
+        {
+            "id": "Line_348_1",
+            "voice_ids": [
+                "0x0348"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Shall we?[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 가 볼까![END]",
+            "japanese": "行ってみますか!"
+        },
+        {
+            "id": "Line_34A_1",
+            "voice_ids": [
+                "0x034A"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: They seem to be behind us.[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 뒤에 있는 것 같아.[END]",
+            "japanese": "後ろにいるみたい。"
+        },
+        {
+            "id": "Line_34B_1",
+            "voice_ids": [
+                "0x034B"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: We're stuck.[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 포위당했네.[END]",
+            "japanese": "かさまれちゃった。"
+        },
+        {
+            "id": "Line_349_1",
+            "voice_ids": [
+                "0x0349"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Are you really that tough?[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 강해 보이는데, 기분 탓인가?[END]",
+            "japanese": "強そうに見えるけど気のせい?"
+        },
+        {
+            "id": "Line_340_1",
+            "voice_ids": [
+                "0x0340"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Retreat. Retreat![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 물러나자, 물러나![END]",
+            "japanese": "退散退散!"
+        },
+        {
+            "id": "Line_342",
+            "voice_ids": [
+                "0x0342"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: That's enough![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 그건 그렇고![END]",
+            "japanese": "それはそれとして!"
+        },
+        {
+            "id": "Line_361",
+            "voice_ids": [
+                "0x0361"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Now witness my super secret technique![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 일단은 초오의![END]",
+            "japanese": "とりあえず超奥義!"
+        },
+        {
+            "id": "Line_362",
+            "voice_ids": [
+                "0x0362"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Thunder Sword![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 썬더 소드![END]",
+            "japanese": "サンダーソード!"
+        },
+        {
+            "id": "Line_363",
+            "voice_ids": [
+                "0x0363"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Just kidding![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 그냥 해 본 말이야.[END]",
+            "japanese": "とか言ってみたりして。"
+        },
+        {
+            "id": "Line_33A",
+            "voice_ids": [
+                "0x033A"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: You gotta be kidding me![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 정말이지![END]",
+            "japanese": "まったくもう!"
+        },
+        {
+            "id": "Line_33B",
+            "voice_ids": [
+                "0x033B"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: What am I to do with you!?[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 어쩌면 좋아![END]",
+            "japanese": "どうしよう!"
+        },
+        {
+            "id": "Line_32C",
+            "voice_ids": [
+                "0x032C"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Get outta my way![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 거슬려, 거슬려![END]",
+            "japanese": "ジャマジャマ!"
+        },
+        {
+            "id": "Line_338",
+            "voice_ids": [
+                "0x0338"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: So sorry...[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 미안해.[END]",
+            "japanese": "ごめんね。"
+        },
+        {
+            "id": "Line_35F",
+            "voice_ids": [
+                "0x035F"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Take this![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 에잇![END]",
+            "japanese": "それっと。"
+        },
+        {
+            "id": "Line_33F",
+            "voice_ids": [
+                "0x033F"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Catch you later![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 또 보자![END]",
+            "japanese": "おったねー!"
+        },
+        {
+            "id": "Line_355",
+            "voice_ids": [
+                "0x0355"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Away with you![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 멀리 날아가 버려![END]",
+            "japanese": "どっか遠くへ!"
+        },
+        {
+            "id": "Line_32E",
+            "voice_ids": [
+                "0x032E"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: DING![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 땅![END]",
+            "japanese": "カッキーン!"
+        },
+        {
+            "id": "Line_02A_1",
+            "voice_ids": [
+                "0x002A"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Hooray![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 해냈다![END]",
+            "japanese": "やったぜ!"
+        },
+        {
+            "id": "Line_02B_1",
+            "voice_ids": [
+                "0x002B"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Yahoo![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 야호![END]",
+            "japanese": "イヤホー!"
+        },
+        {
+            "id": "Line_02C_1",
+            "voice_ids": [
+                "0x002C"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Alright, we won![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 좋았어! 이겼다![END]",
+            "japanese": "よっしゃ!勝ったぜ!"
+        },
+        {
+            "id": "Line_02D_1",
+            "voice_ids": [
+                "0x002D"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: We are unstoppable![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 질 수는 없지![END]",
+            "japanese": "負けるわけにはいかないぜ!"
+        },
+        {
+            "id": "Line_02E_1",
+            "voice_ids": [
+                "0x002E"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: That was a piece of cake.[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 낙승이었어![END]",
+            "japanese": "楽勝だったな!"
+        },
+        {
+            "id": "Line_02F_1",
+            "voice_ids": [
+                "0x002F"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: That was unexpected.[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 어떻게든 됐네.[END]",
+            "japanese": "なんとかなったな。"
+        },
+        {
+            "id": "Line_030_1",
+            "voice_ids": [
+                "0x0030"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: They were pretty tough.[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 만만찮은 녀석들이었어.[END]",
+            "japanese": "手強い奴らだったな。"
+        },
+        {
+            "id": "Line_031_1",
+            "voice_ids": [
+                "0x0031"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: That got me really fired up![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 이것이 작열하는 불꽃이다![END]",
+            "japanese": "これが灼熱の炎だ!"
+        },
+        {
+            "id": "Line_0A1_1",
+            "voice_ids": [
+                "0x00A1"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Okay![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 좋았어![END]",
+            "japanese": "オッケー!"
+        },
+        {
+            "id": "Line_0A2_1",
+            "voice_ids": [
+                "0x00A2"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: We did it![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 해냈네![END]",
+            "japanese": "やったわね!"
+        },
+        {
+            "id": "Line_0A3_1",
+            "voice_ids": [
+                "0x00A3"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: That was perfect![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 좋아, 완벽해![END]",
+            "japanese": "よーし、バッチリ!"
+        },
+        {
+            "id": "Line_0A4_1",
+            "voice_ids": [
+                "0x00A4"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Geez, what a waste of my time![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 정말이지, 방해만 된다니까![END]",
+            "japanese": "まったく邪魔よ邪魔!"
+        },
+        {
+            "id": "Line_0A5_1",
+            "voice_ids": [
+                "0x00A5"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: This pushover wasn't even worth the lens.[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 너무 약하잖아! 렌즈라도 챙겨서 다시 와![END]",
+            "japanese": "弱すぎよ!レンズ抱えて手直してらっしゃい!"
+        },
+        {
+            "id": "Line_0A6_1",
+            "voice_ids": [
+                "0x00A6"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Quit messing around![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 질질 끌지 말란 말이야![END]",
+            "japanese": "ダラダラやってんじゃないわよ!"
+        },
+        {
+            "id": "Line_0A7_1",
+            "voice_ids": [
+                "0x00A7"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Totally unprofitable.[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 정말 수지가 안 맞네.[END]",
+            "japanese": "まったく割に合わないよね。"
+        },
+        {
+            "id": "Line_0A8_1",
+            "voice_ids": [
+                "0x00A8"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: The more you borrow, the more you pay back![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 빚도 복수도 두 배로 갚는 게...[END]",
+            "japanese": "借金も仕返しも倍返しが原則よ!"
+        },
+        {
+            "id": "Line_0A8_2",
+            "voice_ids": [
+                "0x00A8"
+            ],
+            "string": "I don't make the rules![END]",
+            "translation": "기본 원칙이야![END]",
+            "japanese": "借金も仕返しも倍返しが原則よ!"
+        },
+        {
+            "id": "Line_109_1",
+            "voice_ids": [
+                "0x0109"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Phew, we did it...[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 휴, 해냈네요![END]",
+            "japanese": "ふぅ、やりましたね!"
+        },
+        {
+            "id": "Line_10a_1",
+            "voice_ids": [
+                "0x010A"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Did that hurt? My apologies.[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 장난이 지나치네요.[END]",
+            "japanese": "おいたが過ぎますよ。"
+        },
+        {
+            "id": "Line_10B_1",
+            "voice_ids": [
+                "0x010B"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Atamoni has protected us![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 신의 가호예요.[END]",
+            "japanese": "神のご加護です。"
+        },
+        {
+            "id": "Line_10C_1",
+            "voice_ids": [
+                "0x010C"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: I'm doing the best I can![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 저도 힘낼게요![END]",
+            "japanese": "私、頑張ります!"
+        },
+        {
+            "id": "Line_10D_1",
+            "voice_ids": [
+                "0x010D"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Was I of use?[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 도움이 됐나요?[END]",
+            "japanese": "お役に立てましたか?"
+        },
+        {
+            "id": "Line_10E_1",
+            "voice_ids": [
+                "0x010E"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: This, too, is part of my training.[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 이것도 수행의 일부겠죠.[END]",
+            "japanese": "これも修行の一環ですね。"
+        },
+        {
+            "id": "Line_10F_1",
+            "voice_ids": [
+                "0x010F"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Oh Atamoni, were you testing us?[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 이것도 신께서 내리신 시련이겠죠.[END]",
+            "japanese": "これも神の試練ですね。"
+        },
+        {
+            "id": "Line_110_1",
+            "voice_ids": [
+                "0x0110"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Reflect on your sins, and find salvation![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 반성하면 분명 구원받을 거예요.[END]",
+            "japanese": "反省すればきっと救われますよ。"
+        },
+        {
+            "id": "Line_1C4_1",
+            "voice_ids": [
+                "0x01C4"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: The outcome will always be the same, no matter what![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 결과는 변하지 않아. 몇 번을 해도 마찬가지다.[END]",
+            "japanese": "結果は変わらん。そう、何度やってもだ。"
+        },
+        {
+            "id": "Line_1C5_1",
+            "voice_ids": [
+                "0x01C5"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: They were foolish to face me.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 어리석은 녀석들.[END]",
+            "japanese": "愚かな奴らだ。"
+        },
+        {
+            "id": "Line_1C6_1",
+            "voice_ids": [
+                "0x01C6"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Not even worth words.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 말도 안 되는군.[END]",
+            "japanese": "話にならん。"
+        },
+        {
+            "id": "Line_1C7_VQ",
+            "voice_ids": [
+                "0x01C7"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: I doubt we'll run into the likes of you ever again.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 다시는 볼 일도 없겠지.[END]",
+            "japanese": "もう二度と会うこともないだろう。"
+        },
+        {
+            "id": "Line_1C7_BC",
+            "voice_ids": [
+                "0x01C7"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: We'll never see your face again![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 다시는 볼 일도 없겠지.[END]",
+            "japanese": "もう二度と会うこともないだろう。"
+        },
+        {
+            "id": "Line_1C8_1",
+            "voice_ids": [
+                "0x01C8"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Small fry should stick to the pond.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 잔챙이는 잔챙이답게 굴어라.[END]",
+            "japanese": "ザコはザコらしくしていろ。"
+        },
+        {
+            "id": "Line_1C9_1",
+            "voice_ids": [
+                "0x01C9"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: What a waste of time...[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 시간 낭비군.[END]",
+            "japanese": "時間の無駄だ。"
+        },
+        {
+            "id": "Line_1Ca_1",
+            "voice_ids": [
+                "0x01CA"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: I wasn't prepared for that... I'm getting sloppy.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 너무 방심한 모양이군.[END]",
+            "japanese": "油断しすぎたようだな。"
+        },
+        {
+            "id": "Line_1Cb_1",
+            "voice_ids": [
+                "0x01CB"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Did you really think you'd win!?[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 이길 수 있다고 생각했나?[END]",
+            "japanese": "勝てるとでも思ったのか?"
+        },
+        {
+            "id": "Line_170_1",
+            "voice_ids": [
+                "0x0170"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: A futile effort...[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 헛수고를...[END]",
+            "japanese": "無益な。"
+        },
+        {
+            "id": "Line_171_VQ",
+            "voice_ids": [
+                "0x0171"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: You were unlucky.[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 운이 나빴군.[END]",
+            "japanese": "運が悪かったな。"
+        },
+        {
+            "id": "Line_171_BC",
+            "voice_ids": [
+                "0x0171"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: How unfortunate.[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 운이 나빴군.[END]",
+            "japanese": "運が悪かったな。"
+        },
+        {
+            "id": "Line_172_VQ",
+            "voice_ids": [
+                "0x0172"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: I'll show no mercy to those who stand in my way![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 앞길을 막는다면 용서하지 않겠다.[END]",
+            "japanese": "行く手を塞ぐのならば、容赦はせん。"
+        },
+        {
+            "id": "Line_172_BC",
+            "voice_ids": [
+                "0x0172"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Impediments deserve no mercy![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 앞길을 막는다면 용서하지 않겠다.[END]",
+            "japanese": "行く手を塞ぐのならば、容赦はせん。"
+        },
+        {
+            "id": "Line_173_1",
+            "voice_ids": [
+                "0x0173"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Great. Let's keep this up.[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 좋아, 이 기세로 간다.[END]",
+            "japanese": "よし、この調子で行くぞ。"
+        },
+        {
+            "id": "Line_174_1",
+            "voice_ids": [
+                "0x0174"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Be more careful of who you attack next time.[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 다음엔 상대를 잘 골라라.[END]",
+            "japanese": "次は相手を選ぶことだな。"
+        },
+        {
+            "id": "Line_175_1",
+            "voice_ids": [
+                "0x0175"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: That battle felt more like a war...[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 앞길이 험난할 것 같군.[END]",
+            "japanese": "道のりは険しいようだな。"
+        },
+        {
+            "id": "Line_176_1",
+            "voice_ids": [
+                "0x0176"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: What a fierce opponent... We need to be more careful.[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 강적이었어. 앞으로도 방심할 수 없겠군.[END]",
+            "japanese": "強敵だった。これからも油断できんな。"
+        },
+        {
+            "id": "Line_177_VQ",
+            "voice_ids": [
+                "0x0177"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: There's a reason why I won't lose![END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 질 수 없는 이유가 있다네.[END]",
+            "japanese": "負けられない理由があるのだよ。"
+        },
+        {
+            "id": "Line_177_BC",
+            "voice_ids": [
+                "0x0177"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Others depend on my success.[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 질 수 없는 이유가 있다네.[END]",
+            "japanese": "負けられない理由があるのだよ。"
+        },
+        {
+            "id": "Line_223_VQ",
+            "voice_ids": [
+                "0x0223"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Hahaha![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 하하하![END]",
+            "japanese": "はははっ!"
+        },
+        {
+            "id": "Line_223_BC",
+            "voice_ids": [
+                "0x0223"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Hahaha![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 하하하![END]",
+            "japanese": "はははっ!"
+        },
+        {
+            "id": "Line_224_1",
+            "voice_ids": [
+                "0x0224"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: That was pretty fun![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 즐거웠어.[END]",
+            "japanese": "楽しかったよ。"
+        },
+        {
+            "id": "Line_225_1",
+            "voice_ids": [
+                "0x0225"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Huh? Over already?[END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 벌써 끝난 거야?[END]",
+            "japanese": "もう終わりかい?"
+        },
+        {
+            "id": "Line_227_VQ",
+            "voice_ids": [
+                "0x0227"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: They sure acted tough, huh?[END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 미숙한 주제에 허세를 부리니까 그렇지![END]",
+            "japanese": "未熟なくせに強がるからさ!"
+        },
+        {
+            "id": "Line_227_BC",
+            "voice_ids": [
+                "0x0227"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Nothing can save you now.[END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 미숙한 주제에 허세를 부리니까 그렇지![END]",
+            "japanese": "未熟なくせに強がるからさ!"
+        },
+        {
+            "id": "Line_228_1",
+            "voice_ids": [
+                "0x0228"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: That dragged on way too long...[END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 의외로 애먹었네.[END]",
+            "japanese": "何気に手こずったね。"
+        },
+        {
+            "id": "Line_229_1",
+            "voice_ids": [
+                "0x0229"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: That was a close one...[END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 위험할 뻔했네.[END]",
+            "japanese": "危ないところだったね。"
+        },
+        {
+            "id": "Line_22A_1",
+            "voice_ids": [
+                "0x022A"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Excessive? No. I put it out of its misery.[END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 단숨에 끝내 주는 게 자비라는 거야![END]",
+            "japanese": "一気に決めるのが慈悲ってもんさ!"
+        },
+        {
+            "id": "Line_2F5_1",
+            "voice_ids": [
+                "0x02F5"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: I AM THE CHAMPION!!![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 내가 바로 챔피언이다![END]",
+            "japanese": "俺様がチャンピオンよ!"
+        },
+        {
+            "id": "Line_2F6_1",
+            "voice_ids": [
+                "0x02F6"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: No problem![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 가뿐하구만![END]",
+            "japanese": "軽い軽い!"
+        },
+        {
+            "id": "Line_2F7_1",
+            "voice_ids": [
+                "0x02F7"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Now! Swear on my bicep that you'll never do evil again![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 다신 못된 짓 안 한다고 이 이두근에 맹세해라![END]",
+            "japanese": "もう悪さしないと、この上腕二頭筋に近い!"
+        },
+        {
+            "id": "Line_2F8_1",
+            "voice_ids": [
+                "0x02F8"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Behold, my glorious MUSCLES!!![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 보아라, 이 근육을![END]",
+            "japanese": "見よ、この筋肉!"
+        },
+        {
+            "id": "Line_2F9_1",
+            "voice_ids": [
+                "0x02F9"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: A Round One K.O.! That's how it's done![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 1라운드에 KO라니![END]",
+            "japanese": "1ラウンドKOとはな。"
+        },
+        {
+            "id": "Line_2FA_1",
+            "voice_ids": [
+                "0x02FA"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: That sure went the distance...[END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 진흙탕 싸움을 보여 주고 말았군.[END]",
+            "japanese": "泥試合を見せちまったな。"
+        },
+        {
+            "id": "Line_2FB_1",
+            "voice_ids": [
+                "0x02FB"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Whew, they even did a number on me. Not bad![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 이 근육에 상처를 내다니, 제법이군![END]",
+            "japanese": "この筋肉に傷をつけると、やるじゃねえか!"
+        },
+        {
+            "id": "Line_2FC_1",
+            "voice_ids": [
+                "0x02FC"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: This is my MUSCLE CIRCUS![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 이것이 머슬 카니발이다![END]",
+            "japanese": "これぞマッスルカーニバル!"
+        },
+        {
+            "id": "Line_2AF_1",
+            "voice_ids": [
+                "0x02AF"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Have you fallen for me yet?[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 나한테 반하지 마.[END]",
+            "japanese": "俺に惚れるなよ。"
+        },
+        {
+            "id": "Line_2B0_1",
+            "voice_ids": [
+                "0x02B0"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Be mesmerized![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 짜릿하구만![END]",
+            "japanese": "しびれるぜ!"
+        },
+        {
+            "id": "Line_2B1_VQ",
+            "voice_ids": [
+                "0x02B1"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Were they supposed to be tough?[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 너희, 흥이 없구만.[END]",
+            "japanese": "ノリが悪いぜ、あんたら。"
+        },
+        {
+            "id": "Line_2B1_BC",
+            "voice_ids": [
+                "0x02B1"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Perhaps it was too much for you...[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 너희, 흥이 없구만.[END]",
+            "japanese": "ノリが悪いぜ、あんたら。"
+        },
+        {
+            "id": "Line_2B2_1",
+            "voice_ids": [
+                "0x02B2"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Is it time to return already?[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 돌아가는 길은 저쪽이야.[END]",
+            "japanese": "おかえりはあちらだぜ。"
+        },
+        {
+            "id": "Line_2B3_1",
+            "voice_ids": [
+                "0x02B3"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Tsk tsk, quite lacking.[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 여유롭구만![END]",
+            "japanese": "余裕だぜ!"
+        },
+        {
+            "id": "Line_2B4_1",
+            "voice_ids": [
+                "0x02B4"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: I'm sorry, I don't do encores.[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 앙코르는 사절이야.[END]",
+            "japanese": "アンコールは受け付けないぜ"
+        },
+        {
+            "id": "Line_2B5_1",
+            "voice_ids": [
+                "0x02B5"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Maybe things got a little too heated...[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 좀 너무 달아올랐나.[END]",
+            "japanese": "チート、熱くなりすぎたか。"
+        },
+        {
+            "id": "Line_2B6_1",
+            "voice_ids": [
+                "0x02B6"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Were you not pleased? Will we meet again?[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 짜릿했지? 또 올 건가?[END]",
+            "japanese": "しびれたろ?また来るかい?"
+        },
+        {
+            "id": "Line_269_1",
+            "voice_ids": [
+                "0x0269"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: All criminals accounted for.[END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 적들은 모조리 일망타진이에요![END]",
+            "japanese": "敵さんなんて一網打尽です!"
+        },
+        {
+            "id": "Line_26A_1",
+            "voice_ids": [
+                "0x026A"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Karmatic justice![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 인과응보네요.[END]",
+            "japanese": "因果応報だね。"
+        },
+        {
+            "id": "Line_26B_1",
+            "voice_ids": [
+                "0x026B"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Love plus friendship equals victory![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 사랑, 우정, 승리예요![END]",
+            "japanese": "愛、友情、勝利、だね!"
+        },
+        {
+            "id": "Line_26C_1",
+            "voice_ids": [
+                "0x026C"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Such dummies, thinking that they could beat us.[END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 우리를 이기겠다니, 어림없는 소리예요![END]",
+            "japanese": "私たちに勝とうなんて、今後どうだん雨あられだね。"
+        },
+        {
+            "id": "Line_26D_1",
+            "voice_ids": [
+                "0x026D"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Great work, everyone![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 종횡무진 대활약이에요![END]",
+            "japanese": "中央無人の大活躍!"
+        },
+        {
+            "id": "Line_26E_1",
+            "voice_ids": [
+                "0x026E"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: That was a bit tricky...[END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 조금 애먹었네요.[END]",
+            "japanese": "手こずっちゃいましたね。"
+        },
+        {
+            "id": "Line_26F_1",
+            "voice_ids": [
+                "0x026F"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Woohoo! We did it![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 해냈어요, 해냈어![END]",
+            "japanese": "やったやったー!"
+        },
+        {
+            "id": "Line_270_1",
+            "voice_ids": [
+                "0x0270"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: I am a mighty warrior![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 일기당천의 실력이에요![END]",
+            "japanese": "一気当選の実力です!"
+        },
+        {
+            "id": "Line_34C_1",
+            "voice_ids": [
+                "0x034C"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: They had terrible taste.[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 변변찮았네.[END]",
+            "japanese": "おそ松様でした。"
+        },
+        {
+            "id": "Line_34D_1",
+            "voice_ids": [
+                "0x034D"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Whew... good work.[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 수고했어.[END]",
+            "japanese": "お疲れ様。"
+        },
+        {
+            "id": "Line_34E_1",
+            "voice_ids": [
+                "0x034E"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: What a mess to clean up.[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 나중에 빨래해야겠네![END]",
+            "japanese": "後で選択しなきゃ!"
+        },
+        {
+            "id": "Line_34F_1",
+            "voice_ids": [
+                "0x034F"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Bon voyage.[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 안녕히 가시길![END]",
+            "japanese": "ごきげんよう!"
+        },
+        {
+            "id": "Line_350_1",
+            "voice_ids": [
+                "0x0350"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: They needed some more time in the oven.[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 낙승이네, 낙승![END]",
+            "japanese": "楽勝楽勝!"
+        },
+        {
+            "id": "Line_351_1",
+            "voice_ids": [
+                "0x0351"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: That was not an easy fight.[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 싸움도 만만치 않네.[END]",
+            "japanese": "戦いも楽じゃないわね。"
+        },
+        {
+            "id": "Line_352_1",
+            "voice_ids": [
+                "0x0352"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Huh, maybe they had some skill...[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 너무 얕봤을지도.[END]",
+            "japanese": "甘く見すぎてたかも。"
+        },
+        {
+            "id": "Line_353_VQ",
+            "voice_ids": [
+                "0x0353"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Learn some responsibility, won't you?[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 적당히 좀 하지 그래.[END]",
+            "japanese": "いい加減にしなさいね。"
+        },
+        {
+            "id": "Line_353_BC",
+            "voice_ids": [
+                "0x0353"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: I've had enough![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 적당히 좀 하지 그래.[END]",
+            "japanese": "いい加減にしなさいね。"
+        },
+        {
+            "id": "Line_58f_1",
+            "voice_ids": [
+                "0x058F"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Zzzz...[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 쿨쿨...[END]",
+            "japanese": ""
+        },
+        {
+            "id": "Line_58f_2",
+            "voice_ids": [
+                "0x058F"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Hold on, now's not the time to sleep![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 저기, 언제까지 잘 거야?[END]",
+            "japanese": "ちょっと、いつまで寝てんの?"
+        },
+        {
+            "id": "Line_58f_3",
+            "voice_ids": [
+                "0x058F"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Forget it, leave him.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 됐어, 두고 간다.[END]",
+            "japanese": "もういい、置いていくぞ。"
+        },
+        {
+            "id": "Line_592_1",
+            "voice_ids": [
+                "0x0592"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: You couldn't even lay a finger on me![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 너희는 내게 손끝 하나 댈 수 없다.[END]",
+            "japanese": "貴様らには指一本触れることはできん。"
+        },
+        {
+            "id": "Line_592_2",
+            "voice_ids": [
+                "0x0592"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Well, that's not fair. Some of them don't even have fingers![END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 뭐, 그 모습으론 무리겠지.[END]",
+            "japanese": "まあ無理だと思うぜ。形が形だしな。"
+        },
+        {
+            "id": "Line_594_1",
+            "voice_ids": [
+                "0x0594"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: I'm a pretty strong fighter now.[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 나도 꽤 강해졌지?[END]",
+            "japanese": "俺も結構強くなったよな。"
+        },
+        {
+            "id": "Line_594_2",
+            "voice_ids": [
+                "0x0594"
+            ],
+            "string": "[COLOR_START][DYMLOS][COLOR_END]: Incorrect, you're still a rookie![END]",
+            "translation": "[COLOR_START][DYMLOS][COLOR_END]: 넌 아직도 햇병아리다.[END]",
+            "japanese": "お前などまだまだヒヨッコだ。"
+        },
+        {
+            "id": "Line_596_1",
+            "voice_ids": [
+                "0x0596"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Huh? Is it over already?[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 어라? 어느 틈에 끝난 거야?[END]",
+            "japanese": "あれ?いつの間に終わってんの?"
+        },
+        {
+            "id": "Line_596_2",
+            "voice_ids": [
+                "0x0596"
+            ],
+            "string": "[COLOR_START][ATWIGHT][COLOR_END]: You're the one who dealt the final blow...[END]",
+            "translation": "[COLOR_START][ATWIGHT][COLOR_END]: 마지막 일격은 네가 날렸잖아.[END]",
+            "japanese": "とどめさしたのはあなただけど。"
+        },
+        {
+            "id": "Line_598_1",
+            "voice_ids": [
+                "0x0598"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: So this is the swordian's power...[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 이것이 정술의 힘...[END]",
+            "japanese": "これが、小術の力。"
+        },
+        {
+            "id": "Line_598_2",
+            "voice_ids": [
+                "0x0598"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: A swordian's strength is reliant on their master's.[END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 소디언의 힘도 마스터가 있어야 발휘되는 게지.[END]",
+            "japanese": "ソーディアンの力は、マスターでこそじゃ。"
+        },
+        {
+            "id": "Line_59a_1",
+            "voice_ids": [
+                "0x059A"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: This blade strikes true.[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 이 검은 피할 수 없는 모양이군.[END]",
+            "japanese": "この剣、かわせぬようだな。"
+        },
+        {
+            "id": "Line_59a_2",
+            "voice_ids": [
+                "0x059A"
+            ],
+            "string": "[COLOR_START][IGTENOS][COLOR_END]: Your swift strikes always hit their mark.[END]",
+            "translation": "[COLOR_START][IGTENOS][COLOR_END]: 너희 따위는 간파할 수 없겠지.[END]",
+            "japanese": "貴様らごときでは見切れまい。"
+        },
+        {
+            "id": "Line_59c_1",
+            "voice_ids": [
+                "0x059C"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Pitiful! Wasn't worth the effort.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 잔챙이가, 전력을 다할 것도 없군.[END]",
+            "japanese": "ザコめ、本気を出すまでもない。"
+        },
+        {
+            "id": "Line_59c_2",
+            "voice_ids": [
+                "0x059C"
+            ],
+            "string": "[COLOR_START][CHALTIER][COLOR_END]: You're amazing, Young Master![END]",
+            "translation": "[COLOR_START][CHALTIER][COLOR_END]: 역시 도련님이세요.[END]",
+            "japanese": "さすが坊ちゃんですね。"
+        },
+        {
+            "id": "Line_59e_1",
+            "voice_ids": [
+                "0x059E"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: We won! Did you see that Lord - Hey! You're not [WOODROW]![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 해냈어요, [WOODROW]님! 어라, 안 계시잖아요![END]",
+            "japanese": "やりましたウッドロウさん!っていなーい!"
+        },
+        {
+            "id": "Line_59e_2",
+            "voice_ids": [
+                "0x059E"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: I've been here the whole time![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 처음부터 없었거든.[END]",
+            "japanese": "最初からいないって。"
+        },
+        {
+            "id": "Line_5a0_1",
+            "voice_ids": [
+                "0x05A0"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: They were so tough I had to unleash my inner beast.[END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 강적이었군. 분신술을 쓰다니.[END]",
+            "japanese": "手強かったな。分身の術を使うとは。"
+        },
+        {
+            "id": "Line_5a0_2",
+            "voice_ids": [
+                "0x05A0"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: I'm pretty sure that's how you always fight...[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 그냥 똑같은 녀석이 여럿 있었을 뿐이잖아.[END]",
+            "japanese": "同じのがいっぱいいただけだって。"
+        },
+        {
+            "id": "Line_5a2_1",
+            "voice_ids": [
+                "0x05A2"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Wasn't my singing mesmerizing?[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 들어 줬나? 내 노래를.[END]",
+            "japanese": "聞いてくれたかい?俺の歌を。"
+        },
+        {
+            "id": "Line_5a2_2",
+            "voice_ids": [
+                "0x05A2"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: I wouldn't call that a song...[END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 방금 그건 노래도 아니잖아.[END]",
+            "japanese": "つーか、歌じゃねえだろ今の。"
+        },
+        {
+            "id": "Line_5a4_1",
+            "voice_ids": [
+                "0x05A4"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: You're so careless, big brother![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 오빠, 너무 한심하잖아.[END]",
+            "japanese": "お兄ちゃんだらしないわね。"
+        },
+        {
+            "id": "Line_5a4_2",
+            "voice_ids": [
+                "0x05A4"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: *sigh* I have nothing to say...[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 할 말이 없네...[END]",
+            "japanese": "何も言い返せない。"
+        },
+        {
+            "id": "Line_5a6_1",
+            "voice_ids": [
+                "0x05A6"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: How're you able to fight so well in that getup?[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 그런 옷차림으로도 잘 싸우는군.[END]",
+            "japanese": "しかしその服装でよく戦えるね。"
+        },
+        {
+            "id": "Line_5a6_2",
+            "voice_ids": [
+                "0x05A6"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: You're one to talk, [JOHNNY]...[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: [JOHNNY]씨도 마찬가지잖아.[END]",
+            "japanese": "ジョニーさんもね。"
+        },
+        {
+            "id": "Line_5a8_1",
+            "voice_ids": [
+                "0x05A8"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Ya need to eat more meat! Yer underweight![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 너무 말랐어. 고기 좀 더 먹어라.[END]",
+            "japanese": "痩せすぎだぜ。もっと肉食いな。"
+        },
+        {
+            "id": "Line_5a8_2",
+            "voice_ids": [
+                "0x05A8"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: They're already nothing but bones...[END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 벌써 뼈만 남았는걸요.[END]",
+            "japanese": "もうすでに骨ですよ。"
+        },
+        {
+            "id": "Line_5aa_1",
+            "voice_ids": [
+                "0x05AA"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: That was tough... Don't think we'd survive a second round.[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 강했어. 다음에도 이긴다는 보장은 없겠네.[END]",
+            "japanese": "手強かった。次も勝てるとは限らないな。"
+        },
+        {
+            "id": "Line_5aa_2",
+            "voice_ids": [
+                "0x05AA"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: I never want to encounter him again.[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 난 두 번 다시 만나고 싶지 않아.[END]",
+            "japanese": "私は二度と会いたくないわね。"
+        },
+        {
+            "id": "Line_5ac_1",
+            "voice_ids": [
+                "0x05AC"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Weapons are evil! We don't need weapons! Gyahahaha![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 무기를 쓰다니 사도다! 무기 따윈 필요 없어![END]",
+            "japanese": "武器を使うなど邪道!武器など用はない!"
+        },
+        {
+            "id": "Line_5ac_2",
+            "voice_ids": [
+                "0x05AC"
+            ],
+            "string": "[COLOR_START][DYMLOS][COLOR_END]: He's not referring to me, is he...?[END]",
+            "translation": "[COLOR_START][DYMLOS][COLOR_END]: 그 말은 나에 대한 도전인가.[END]",
+            "japanese": "その言葉、我に対する挑戦か。"
+        },
+        {
+            "id": "Line_5ae_1",
+            "voice_ids": [
+                "0x05AE"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: [CHELSEA], what did that tree say just now?[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: [CHELSEA], 저 나무가 뭐라고 했어?[END]",
+            "japanese": "チェルシー、あの木は何か言ってたか?"
+        },
+        {
+            "id": "Line_5ae_2",
+            "voice_ids": [
+                "0x05AE"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Wha!? U-Uhm, n-nothing special...?[END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 네? 아니, 그게, 별말 안 했어요.[END]",
+            "japanese": "え?いや、あの、特に何も。"
+        },
+        {
+            "id": "Line_5b0_1",
+            "voice_ids": [
+                "0x05B0"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: Do bats have a strong or weak voice?[END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 박쥐는 음파에 강한가? 약한가?[END]",
+            "japanese": "コウモリは音波に強いのか?弱いのか?"
+        },
+        {
+            "id": "Line_5b0_2",
+            "voice_ids": [
+                "0x05B0"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: Why would you ask me such a question...?[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 그걸 왜 나한테 묻는 건데?[END]",
+            "japanese": "なんで俺にそれを聞くんだ?"
+        },
+        {
+            "id": "Line_5b2_1",
+            "voice_ids": [
+                "0x05B2"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Birds of prey strike again![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 나는 새도 떨어뜨릴 기세예요![END]",
+            "japanese": "飛ぶ鳥を落とす勢いです!"
+        },
+        {
+            "id": "Line_5b2_2",
+            "voice_ids": [
+                "0x05B2"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: ...Are you talking about us or them?[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 어느 쪽 의미로 하신 말씀이죠?[END]",
+            "japanese": "どちらの意味で言ってます?"
+        },
+        {
+            "id": "Line_5b7_1",
+            "voice_ids": [
+                "0x05B7"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: How do I say this? GET OUTTA THE WAY![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 뭔가 적이 거슬려요! 거슬린다고요![END]",
+            "japanese": "なんか敵邪魔!敵邪魔!"
+        },
+        {
+            "id": "Line_5b7_2",
+            "voice_ids": [
+                "0x05B7"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Seriously...[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 정말이지...[END]",
+            "japanese": "アッハー"
+        },
+        {
+            "id": "Line_5b9_1",
+            "voice_ids": [
+                "0x05B9"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: My body is flawless! The cold means nothing![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 단련한 이 몸에 추위 따윈 아무것도 아니지![END]",
+            "japanese": "鍛え抜かれたこの肉体、寒さなんぞは目じゃねえぜ!"
+        },
+        {
+            "id": "Line_5b9_2",
+            "voice_ids": [
+                "0x05B9"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Doesn't looking at him make you feel colder?[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 보는 사람은 춥다는 생각 안 해?[END]",
+            "japanese": "見てる方が寒いとか考えないわけ?"
+        },
+        {
+            "id": "Line_5b9_3",
+            "voice_ids": [
+                "0x05B9"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: [RUTEE], why would you say that?[END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: [RUTEE]씨가 그런 말씀을 하세요?[END]",
+            "japanese": "ルーティさんがそんなこと言います?"
+        },
+        {
+            "id": "Line_5b9_4",
+            "voice_ids": [
+                "0x05B9"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Mind over matter, girly.[END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 그건 너도 마찬가지야, 아가씨.[END]",
+            "japanese": "そういうジョーちゃんもな。"
+        },
+        {
+            "id": "Line_5bd_1",
+            "voice_ids": [
+                "0x05BD"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Are you seriously searching for gald DURING BATTLE?![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 전투 중에 돈을 찾지 마라![END]",
+            "japanese": "戦闘中に金を探すな!"
+        },
+        {
+            "id": "Line_5bd_2",
+            "voice_ids": [
+                "0x05BD"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: If I don't, how can I ever reach one million?[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 1억 가르드를 준다면 그만둬도 되는데?[END]",
+            "japanese": "1億ガルドくれるなら、やめてもいいけど?"
+        },
+        {
+            "id": "Line_5bf_1",
+            "voice_ids": [
+                "0x05BF"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: What are we?[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 우리는...[END]",
+            "japanese": "俺たちは、"
+        },
+        {
+            "id": "Line_5bf_2",
+            "voice_ids": [
+                "0x05BF"
+            ],
+            "string": "[COLOR_START]Everyone[COLOR_END]: UNBEATABLE![END]",
+            "translation": "[COLOR_START]모두[COLOR_END]: 지지 않아![END]",
+            "japanese": "負けない!"
+        },
+        {
+            "id": "Line_5c3_1",
+            "voice_ids": [
+                "0x05C3"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: Well done, everyone.[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 모두 잘했다.[END]",
+            "japanese": "みんな、よくやったな。"
+        },
+        {
+            "id": "Line_5c3_2",
+            "voice_ids": [
+                "0x05C3"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Even me, Lord [WOODROW]?[END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: [WOODROW]님, 저는요? 저는요?[END]",
+            "japanese": "ウッドロウ様、私は、私は。"
+        },
+        {
+            "id": "Line_5d1_1",
+            "voice_ids": [
+                "0x05D1"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Love![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 사랑![END]",
+            "japanese": "愛!"
+        },
+        {
+            "id": "Line_5d1_2",
+            "voice_ids": [
+                "0x05D1"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Friendship![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 우정![END]",
+            "japanese": "友情!"
+        },
+        {
+            "id": "Line_5d1_3",
+            "voice_ids": [
+                "0x05D1"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: VICTORY![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 승리![END]",
+            "japanese": "勝利!"
+        },
+        {
+            "id": "Line_5d1_4",
+            "voice_ids": [
+                "0x05D1"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Yeah!![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 맞아요![END]",
+            "japanese": "だね!"
+        },
+        {
+            "id": "Line_5d5_1",
+            "voice_ids": [
+                "0x05D5"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: I am VICTORIOUS... but why do I feel empty?[END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 이겼다! 그런데 이 허무함은 뭐지![END]",
+            "japanese": "勝ったぜ!しかし、このやるせなさはなんなんで!"
+        },
+        {
+            "id": "Line_5d6_1",
+            "voice_ids": [
+                "0x05D6"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Now that is how we do it![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 이게 우리 실력이지![END]",
+            "japanese": "これが俺たちの実力だ!"
+        },
+        {
+            "id": "Line_5d6_2",
+            "voice_ids": [
+                "0x05D6"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Well, that is how YOU do it.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 그래, 그게 네 실력이다.[END]",
+            "japanese": "ああ、それがお前の実力だ。"
+        },
+        {
+            "id": "Line_5d6_3",
+            "voice_ids": [
+                "0x05D6"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Seriously, that's all you...[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 그러게, 그게 네 실력이네.[END]",
+            "japanese": "確かに、それがあんたの実力ね。"
+        },
+        {
+            "id": "Line_5d6_4",
+            "voice_ids": [
+                "0x05D6"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: ...[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: ...[END]",
+            "japanese": ""
+        },
+        {
+            "id": "Line_5d9_1",
+            "voice_ids": [
+                "0x05D9"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: What a satisfying victory.[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 흠잡을 데 없는 승리네요.[END]",
+            "japanese": "会心の勝利ですね。"
+        },
+        {
+            "id": "Line_5d9_2",
+            "voice_ids": [
+                "0x05D9"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Minus one person.[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 한 사람만 빼면.[END]",
+            "japanese": "一人を除いてね。"
+        },
+        {
+            "id": "Line_5d9_3",
+            "voice_ids": [
+                "0x05D9"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Yes, please forgive us, [STAHN].[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 네? [STAHN]씨, 죄송해요.[END]",
+            "japanese": "え?スタンさん、ごめんなさい。"
+        },
+        {
+            "id": "Line_5e0_1",
+            "voice_ids": [
+                "0x05E0"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Big bro, we won![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 남매의 멋진 승리![END]",
+            "japanese": "兄弟のナイス勝利!"
+        },
+        {
+            "id": "Line_5e0_2",
+            "voice_ids": [
+                "0x05E0"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Hey... How long're you gonna follow me around, anyway?[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 저기, 언제까지 따라올 셈이야?[END]",
+            "japanese": "なあ、いつまでついてくる気だ?"
+        },
+        {
+            "id": "Line_5e0_3",
+            "voice_ids": [
+                "0x05E0"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: How long until you come back home!?[END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 언제쯤 집에 돌아올 건데?[END]",
+            "japanese": "いつになったら帰ってくるの?"
+        },
+        {
+            "id": "Line_5e3_1",
+            "voice_ids": [
+                "0x05E3"
+            ],
+            "string": "[COLOR_START][MARY][COLOR_END]: It's over![END]",
+            "translation": "[COLOR_START][MARY][COLOR_END]: 끝났다![END]",
+            "japanese": "終わりだ!"
+        },
+        {
+            "id": "Line_5e3_2",
+            "voice_ids": [
+                "0x05E3"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Girl power achieved victory![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 여성 팀의 승리예요![END]",
+            "japanese": "女性軍の勝利です!"
+        },
+        {
+            "id": "Line_5e3_3",
+            "voice_ids": [
+                "0x05E3"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Hmm, perhaps we don't need the guys?[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 뭐, 남자들이 미덥지 않다고 할까.[END]",
+            "japanese": "ま、男どもが頼りないっていうか。"
+        },
+        {
+            "id": "Line_5e3_4",
+            "voice_ids": [
+                "0x05E3"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Well...[END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 자자, 진정하세요.[END]",
+            "japanese": "まあまあ。"
+        },
+        {
+            "id": "Line_5e7_1",
+            "voice_ids": [
+                "0x05E7"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: We are invincible![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 우리는 무적이다![END]",
+            "japanese": "俺たちは無敵だ!"
+        },
+        {
+            "id": "Line_5e7_2",
+            "voice_ids": [
+                "0x05E7"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: Nothing can withstand the might of our muscles![END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: 이 근육에 맞설 자는 없다![END]",
+            "japanese": "この筋肉にかなうものなし!"
+        },
+        {
+            "id": "Line_5e7_3",
+            "voice_ids": [
+                "0x05E7"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: This party might be a little too macho for me...[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 이런 남자 냄새 나는 일행은 사양하겠어.[END]",
+            "japanese": "俺はこんな男臭いパーティーは遠慮したいね。"
+        },
+        {
+            "id": "Line_5e7_4",
+            "voice_ids": [],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: ...[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: ...[END]",
+            "japanese": ""
+        },
+        {
+            "id": "Line_5ea_1",
+            "voice_ids": [
+                "0x05EA"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: It's pretty quiet when [STAHN]'s not around.[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: [STAHN]이 없으니 조용해서 좋네.[END]",
+            "japanese": "スタンがいないと騒がしくなくていいわね。"
+        },
+        {
+            "id": "Line_5ea_2",
+            "voice_ids": [
+                "0x05EA"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Without Lord [WOODROW], I don't think I can win...[END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: [WOODROW]님이 안 계시니 싸울 보람이 없어요.[END]",
+            "japanese": "ウッドロウ様がいないと倒しがいがないです。"
+        },
+        {
+            "id": "Line_5ea_3",
+            "voice_ids": [
+                "0x05EA"
+            ],
+            "string": "[COLOR_START][KONGMAN][COLOR_END]: My muscles ache without [PHILIA].[END]",
+            "translation": "[COLOR_START][KONGMAN][COLOR_END]: [PHILIA]가 없으니 근육도 슬퍼하는군.[END]",
+            "japanese": "フィリアさんがいないと筋肉も悲しむぜ。"
+        },
+        {
+            "id": "Line_5ea_4",
+            "voice_ids": [
+                "0x05EA"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: Wait, what are you two going on about?[END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 얘기가 이상한 쪽으로 흐르는 거 아냐?[END]",
+            "japanese": "話が間違った方向に行ってない?"
+        },
+        {
+            "id": "Line_5ee_1",
+            "voice_ids": [
+                "0x05EE"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: What is it, [STAHN]?[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 왜 그러나, [STAHN]군?[END]",
+            "japanese": "どうした、スタン君?"
+        },
+        {
+            "id": "Line_5ee_2",
+            "voice_ids": [
+                "0x05EE"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: I feel like I've been going around in circles.[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 같은 곳을 빙빙 도는 기분이 들어서요.[END]",
+            "japanese": "同じところをぐるぐる回っている気がして。"
+        },
+        {
+            "id": "Line_5ee_3",
+            "voice_ids": [
+                "0x05EE"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: I have also felt like that before...[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 나도 그렇게 생각하던 참이네.[END]",
+            "japanese": "私もそう思っていたところだ。"
+        },
+        {
+            "id": "Line_5ee_4",
+            "voice_ids": [
+                "0x05EE"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: I wonder what causes that feeling...[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 뭔가 짚이는 건 없을까요?[END]",
+            "japanese": "何か思い当たることはないかな?"
+        },
+        {
+            "id": "Line_5f2_1",
+            "voice_ids": [
+                "0x05F2"
+            ],
+            "string": "[COLOR_START][WOODROW][COLOR_END]: The hourglass is quite effective.[END]",
+            "translation": "[COLOR_START][WOODROW][COLOR_END]: 시간의 병, 효과가 대단하군.[END]",
+            "japanese": "アワーグラス、効果は絶大だな。"
+        },
+        {
+            "id": "Line_5f2_2",
+            "voice_ids": [
+                "0x05F2"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: I could sleep as much as I want with this.[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 이걸 쓰면 오래 잘 수 있겠네.[END]",
+            "japanese": "これを使えば長い間寝ていられるな。"
+        },
+        {
+            "id": "Line_5f2_3",
+            "voice_ids": [
+                "0x05F2"
+            ],
+            "string": "[COLOR_START][JOHNNY][COLOR_END]: That would be the worst use of it ever.[END]",
+            "translation": "[COLOR_START][JOHNNY][COLOR_END]: 세상에서 가장 아까운 사용법이군.[END]",
+            "japanese": "この世で一番もったいない使い方だな。"
+        },
+        {
+            "id": "Line_5f5_1",
+            "voice_ids": [
+                "0x05F5"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Love![END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 사랑![END]",
+            "japanese": "愛!"
+        },
+        {
+            "id": "Line_5f5_2",
+            "voice_ids": [
+                "0x05F5"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Friendship![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 우정![END]",
+            "japanese": "友情!"
+        },
+        {
+            "id": "Line_5f5_3",
+            "voice_ids": [
+                "0x05F5"
+            ],
+            "string": "[COLOR_START][LILITH][COLOR_END]: Cooking![END]",
+            "translation": "[COLOR_START][LILITH][COLOR_END]: 요리![END]",
+            "japanese": "料理!"
+        },
+        {
+            "id": "Line_5f5_4",
+            "voice_ids": [
+                "0x05F5"
+            ],
+            "string": "[COLOR_START][CHELSEA][COLOR_END]: Yeah! Wait, what?[END]",
+            "translation": "[COLOR_START][CHELSEA][COLOR_END]: 맞아요! 어, 어라?[END]",
+            "japanese": "だね!あ、あれ?"
+        },
+        {
+            "id": "Line_609_1",
+            "voice_ids": [
+                "0x0609"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Get out of my way if you want to live![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 죽고 싶지 않으면 비켜라![END]",
+            "japanese": "死にたくなければそこをどけ。"
+        },
+        {
+            "id": "Line_60a_1",
+            "voice_ids": [
+                "0x060A"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Don't push your luck, weakling![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 잔챙이가 우쭐대지 마라![END]",
+            "japanese": "雑魚が頭に乗るな!"
+        },
+        {
+            "id": "Line_60b_1",
+            "voice_ids": [
+                "0x060B"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: I'll cut down anyone in my way.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 방해하는 자는 모두 베겠다.[END]",
+            "japanese": "邪魔する者は全て斬る。"
+        },
+        {
+            "id": "Line_60c_1",
+            "voice_ids": [
+                "0x060C"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: What a pushover.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 낙승이군.[END]",
+            "japanese": "楽勝だな。"
+        },
+        {
+            "id": "Line_60c_2",
+            "voice_ids": [
+                "0x060C"
+            ],
+            "string": "[COLOR_START][CHALTIER][COLOR_END]: Would be nice if all of them were like that.[END]",
+            "translation": "[COLOR_START][CHALTIER][COLOR_END]: 언제나 이러면 좋겠네요.[END]",
+            "japanese": "常にこうありたいものですね。"
+        },
+        {
+            "id": "Line_60e_1",
+            "voice_ids": [
+                "0x060E"
+            ],
+            "string": "[COLOR_START][CHALTIER][COLOR_END]: Amazing as always, Young Master![END]",
+            "translation": "[COLOR_START][CHALTIER][COLOR_END]: 역시 도련님이세요![END]",
+            "japanese": "さすがですね、ぼっちゃん!"
+        },
+        {
+            "id": "Line_60e_2",
+            "voice_ids": [
+                "0x060E"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Didn't even require much effort.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 전력을 다할 것도 없군.[END]",
+            "japanese": "全力を出すまでもない。"
+        },
+        {
+            "id": "Line_56B_1",
+            "voice_ids": [
+                "0x056B"
+            ],
+            "string": "[COLOR_START]Barbatos[COLOR_END]: The beast within screams![END]",
+            "translation": "[COLOR_START]바르바토스[COLOR_END]: 내 본능이 외치는군![END]",
+            "japanese": "俺の本能が叫ぶのさ、"
+        },
+        {
+            "id": "Line_56B_2",
+            "voice_ids": [
+                "0x056B"
+            ],
+            "string": "[COLOR_START]Barbatos[COLOR_END]: YOU MUST ALL DIE![END]",
+            "translation": "[COLOR_START]바르바토스[COLOR_END]: 너희를 죽이라고![END]",
+            "japanese": "貴様らを殺せと!"
+        },
+        {
+            "id": "Line_54C",
+            "voice_ids": [
+                "0x054C"
+            ],
+            "string": "[COLOR_START]Barbatos[COLOR_END]: Nonsense! This is impossible. Impossible![END]",
+            "translation": "[COLOR_START]바르바토스[COLOR_END]: 말도 안 돼! 있을 수 없어! 있을 수 없다고![END]",
+            "japanese": "バカな!ありえん!ありえんぞ!"
+        },
+        {
+            "id": "Line_54B",
+            "voice_ids": [
+                "0x054B"
+            ],
+            "string": "[COLOR_START]Barbatos[COLOR_END]: Hehehe, congratulations are in order![END]",
+            "translation": "[COLOR_START]바르바토스[COLOR_END]: 참으로 태평한 놈들이군.[END]",
+            "japanese": "おめでたい奴らだ。"
+        },
+        {
+            "id": "Line_53F",
+            "voice_ids": [
+                "0x053F"
+            ],
+            "string": "[COLOR_START]Barbatos[COLOR_END]: You don't deserve to live![END]",
+            "translation": "[COLOR_START]바르바토스[COLOR_END]: 살려 보낼 수는 없다![END]",
+            "japanese": "生かして返せん!"
+        },
+        {
+            "id": "Line_565",
+            "voice_ids": [
+                "0x0565"
+            ],
+            "string": "[COLOR_START]Barbatos[COLOR_END]: NO![END]",
+            "translation": "[COLOR_START]바르바토스[COLOR_END]: 아이템 따위![END]",
+            "japanese": "アイテム謎!"
+        },
+        {
+            "id": "Line_566",
+            "voice_ids": [
+                "0x0566"
+            ],
+            "string": "[COLOR_START]Barbatos[COLOR_END]: ITEMS![END]",
+            "translation": "[COLOR_START]바르바토스[COLOR_END]: 쓰고 있지![END]",
+            "japanese": "スカッティンジャー!"
+        },
+        {
+            "id": "Line_567",
+            "voice_ids": [
+                "0x0567"
+            ],
+            "string": "[COLOR_START]Barbatos[COLOR_END]: EVER!!![END]",
+            "translation": "[COLOR_START]바르바토스[COLOR_END]: 마라아아![END]",
+            "japanese": "ニー!"
+        },
+        {
+            "id": "Line_508_1",
+            "voice_ids": [
+                "0x0508"
+            ],
+            "string": "[COLOR_START]Seinegald Soldier[COLOR_END]: Get them![END]",
+            "translation": "[COLOR_START]세인가르드 병사[COLOR_END]: 덤벼라![END]",
+            "japanese": "かかれ!"
+        },
+        {
+            "id": "Line_511_1",
+            "voice_ids": [
+                "0x0511"
+            ],
+            "string": "[COLOR_START]Soldier[COLOR_END]: Get them![END]",
+            "translation": "[COLOR_START]병사[COLOR_END]: 덤벼라![END]",
+            "japanese": "かかれ!"
+        },
+        {
+            "id": "Line_512_1",
+            "voice_ids": [
+                "0x0512"
+            ],
+            "string": "[COLOR_START]Soldier[COLOR_END]: They must be captured at all costs![END]",
+            "translation": "[COLOR_START]병사[COLOR_END]: 무슨 수를 써서라도 잡아라![END]",
+            "japanese": "何としても捉えるんだ!"
+        },
+        {
+            "id": "Line_7b7_1",
+            "voice_ids": [
+                "0x07B7"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: What the hell is going on!?[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 대체 어떻게 된 거야!?[END]",
+            "japanese": "何がどうなってるんだ!?"
+        },
+        {
+            "id": "Line_7b8_1",
+            "voice_ids": [
+                "0x07B8"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: No time for questions! We gotta defend ourselves![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 시끄러워! 날아드는 불똥은 털어 내면 그만이야![END]",
+            "japanese": "ごちゃごちゃ言わない!降りかかる火の粉は払うまでよ!"
+        },
+        {
+            "id": "Line_06E",
+            "voice_ids": [
+                "0x006E"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Damn! We can't deal with much more of this![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 젠장! 이래선 끝이 없잖아![END]",
+            "japanese": "クソ!これじゃ拉致が開かない!"
+        },
+        {
+            "id": "Line_8e3_1",
+            "voice_ids": [
+                "0x08E3"
+            ],
+            "string": "[COLOR_START][RUTEE][COLOR_END]: I'mma wipe that smug look off your face![END]",
+            "translation": "[COLOR_START][RUTEE][COLOR_END]: 건방진 얼굴을 보니 열받네.[END]",
+            "japanese": "生意気そうな顔して腹立つわね。喧嘩を売ったこと、後悔させてやるわ。"
+        },
+        {
+            "id": "Line_8e3_2",
+            "voice_ids": [
+                "0x08E3"
+            ],
+            "string": "You'll regret pick a fight with us![END]",
+            "translation": "싸움을 건 걸 후회하게 해 주겠어![END]",
+            "japanese": "生意気そうな顔して腹立つわね。喧嘩を売ったこと、後悔させてやるわ。"
+        },
+        {
+            "id": "Line_903_1",
+            "voice_ids": [
+                "0x0903"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Now, let me show you the true power of the Swordians.[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 자, 너희 소디언의 힘을 보여 봐라.[END]",
+            "japanese": "さあ、見せてもらうぞ、お前たちのソーディアンの力!"
+        },
+        {
+            "id": "Line_c83_1",
+            "voice_ids": [
+                "0x0C83"
+            ],
+            "string": "[COLOR_START][PHILIA][COLOR_END]: Those monsters...! They're the ones that petrified me![END]",
+            "translation": "[COLOR_START][PHILIA][COLOR_END]: 저 몬스터예요! 저를...[END]",
+            "japanese": "あのモンスター、私を石に変えたのもあいつですわ!"
+        },
+        {
+            "id": "Line_c83_2",
+            "voice_ids": [],
+            "string": "turned me into stone![END]",
+            "translation": "돌로 만든 것도 저 녀석이에요![END]",
+            "japanese": "あのモンスター、私を石に変えたのもあいつですわ!"
+        },
+        {
+            "id": "Line_c84_1",
+            "voice_ids": [
+                "0x0C84"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: No matter the odds, we won't lose![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 상대가 누구든 지지 않아![END]",
+            "japanese": "何が相手だろうと負けるか!"
+        },
+        {
+            "id": "Line_eac_1",
+            "voice_ids": [
+                "0x0EAC"
+            ],
+            "string": "[COLOR_START][BATISTA][COLOR_END]: You damn brats![END]",
+            "translation": "[COLOR_START][BATISTA][COLOR_END]: 분수도 모르는 꼬맹이들이![END]",
+            "japanese": "身の程知らずの崖どもが!"
+        },
+        {
+            "id": "Line_44f_1",
+            "voice_ids": [],
+            "string": "[COLOR_START][BATISTA][COLOR_END]: Enough![END]",
+            "translation": "[COLOR_START][BATISTA][COLOR_END]: 샤아압![END]",
+            "japanese": "シャーッ!"
+        },
+        {
+            "id": "Line_450_1",
+            "voice_ids": [
+                "0x0450"
+            ],
+            "string": "[COLOR_START][BATISTA][COLOR_END]: Such weaklings. Ending you was a mercy![END]",
+            "translation": "[COLOR_START][BATISTA][COLOR_END]: 너무 약해서 힘 조절을 못 했군![END]",
+            "japanese": "弱すぎて手加減し損なっちまったぜ!"
+        },
+        {
+            "id": "Line_451_1",
+            "voice_ids": [
+                "0x0451"
+            ],
+            "string": "[COLOR_START][BATISTA][COLOR_END]: Damn you![END]",
+            "translation": "[COLOR_START][BATISTA][COLOR_END]: 감히 이런 짓을![END]",
+            "japanese": "やりやがったな!"
+        },
+        {
+            "id": "Line_101a_1",
+            "voice_ids": [
+                "0x101A"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: Could this be the monster?[END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 이 녀석이 그 흉악한 몬스터인가.[END]",
+            "japanese": "こいつが例の凶悪なモンスターか。"
+        },
+        {
+            "id": "Line_101b_1",
+            "voice_ids": [
+                "0x101B"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: We've come too far to give up! Let's do this![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 여기까지 와서 질 수는 없어! 다들 조금만 더 힘내![END]",
+            "japanese": "ここまで来て負けられるか!みんな!もうひと踏ん張りだ!"
+        },
+        {
+            "id": "Line_1134_1",
+            "voice_ids": [
+                "0x1134"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: What IS this thing?! An octopus!?[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 뭐야, 이 녀석! 문어!?[END]",
+            "japanese": "なんだこいつ!タコ!?"
+        },
+        {
+            "id": "Line_1135_1",
+            "voice_ids": [
+                "0x1135"
+            ],
+            "string": "[COLOR_START][DYMLOS][COLOR_END]: A Kraken! This monster is feared as a devil of the sea![END]",
+            "translation": "[COLOR_START][DYMLOS][COLOR_END]: 얕보지 마라! 바다의 악마로 두려움을 사는 괴물이다![END]",
+            "japanese": "侮ってはいかん!相手は海の悪魔と恐れられる怪物だぞ!"
+        },
+        {
+            "id": "Line_11A5_1",
+            "voice_ids": [
+                "0x11A5"
+            ],
+            "string": "[COLOR_START][TIBERIUS][COLOR_END]: I am the king of Aquaveil![END]",
+            "translation": "[COLOR_START][TIBERIUS][COLOR_END]: 짐은 아쿠아베일의 대왕이다![END]",
+            "japanese": "世はアクアベイルの大王なり。"
+        },
+        {
+            "id": "Line_11A5_2",
+            "voice_ids": [
+                "0x11A5"
+            ],
+            "string": "[COLOR_START][TIBERIUS][COLOR_END]: Kneel, or I'll cut you down![END]",
+            "translation": "[COLOR_START][TIBERIUS][COLOR_END]: 짐의 위광 앞에 무릎 꿇어라![END]",
+            "japanese": "世の威光に跪くがいい。"
+        },
+        {
+            "id": "Line_460_1",
+            "voice_ids": [
+                "0x0460"
+            ],
+            "string": "[COLOR_START][TIBERIUS][COLOR_END]: Ugh, impossible...[END]",
+            "translation": "[COLOR_START][TIBERIUS][COLOR_END]: 으, 원통하다![END]",
+            "japanese": "め、めんだ。"
+        },
+        {
+            "id": "Line_45e_1",
+            "voice_ids": [],
+            "string": "[COLOR_START][TIBERIUS][COLOR_END]: I see your weakness![END]",
+            "translation": "[COLOR_START][TIBERIUS][COLOR_END]: 빈틈이다![END]",
+            "japanese": "隙あり!"
+        },
+        {
+            "id": "Line_45f_1",
+            "voice_ids": [
+                "0x045F"
+            ],
+            "string": "[COLOR_START][TIBERIUS][COLOR_END]: You're 100 years too early![END]",
+            "translation": "[COLOR_START][TIBERIUS][COLOR_END]: 백 년은 이르다![END]",
+            "japanese": "100年早いわ!"
+        },
+        {
+            "id": "Line_1395",
+            "voice_ids": [
+                "0x1395"
+            ],
+            "string": "[COLOR_START][DALIS][COLOR_END]: Now that you've come this far, there will be no mercy![END]",
+            "translation": "[COLOR_START][DALIS][COLOR_END]: 여기까지 온 이상 봐주지 않겠다![END]",
+            "japanese": "ここまで来たからには容赦はしない!"
+        },
+        {
+            "id": "Line_46f_1",
+            "voice_ids": [
+                "0x046F"
+            ],
+            "string": "[COLOR_START][DALIS][COLOR_END]: It ends now![END]",
+            "translation": "[COLOR_START][DALIS][COLOR_END]: 여기까지인가![END]",
+            "japanese": "ここまでか!"
+        },
+        {
+            "id": "Line_13F4_1",
+            "voice_ids": [
+                "0x13F4"
+            ],
+            "string": "[COLOR_START][GREYBUM][COLOR_END]: Hahahaha. Tremble in despair[END]",
+            "translation": "[COLOR_START][GREYBUM][COLOR_END]: 후후후, 절망에 몸을 떨며...[END]",
+            "japanese": "フフフフフフ、絶望に打ち震え、最悪の死を迎えるがいい。"
+        },
+        {
+            "id": "Line_13F4_2",
+            "voice_ids": [
+                "0x13F4"
+            ],
+            "string": "as I deliver onto you a horrific death![END]",
+            "translation": "최악의 죽음을 맞이하거라![END]",
+            "japanese": "フフフフフフ、絶望に打ち震え、最悪の死を迎えるがいい。"
+        },
+        {
+            "id": "Line_437_1",
+            "voice_ids": [],
+            "string": "[COLOR_START][GREYBUM][COLOR_END]: You won't take me down![END]",
+            "translation": "[COLOR_START][GREYBUM][COLOR_END]: 그렇게 두진 않겠다![END]",
+            "japanese": "やらせはせんぞ!"
+        },
+        {
+            "id": "Line_1792_1",
+            "voice_ids": [
+                "0x1792"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Stop, Leon! Why are you doing this!?[END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 그만둬, 리온! 왜 우리가 싸워야 해!?[END]",
+            "japanese": "やめろリオン!どうして俺たちが!"
+        },
+        {
+            "id": "Line_1793_1",
+            "voice_ids": [
+                "0x1793"
+            ],
+            "string": "[COLOR_START][LEON][COLOR_END]: You shall not go any further![END]",
+            "translation": "[COLOR_START][LEON][COLOR_END]: 여기서부터는 지나갈 수 없다![END]",
+            "japanese": "ここから先へは行かせない!"
+        },
+        {
+            "id": "Line_1a10_1",
+            "voice_ids": [
+                "0x1A10"
+            ],
+            "string": "[COLOR_START][BARUK][COLOR_END]: From now on, you'll learn the true meaning of war![END]",
+            "translation": "[COLOR_START][BARUK][COLOR_END]: 이 앞에는 싸움뿐이다. 이것은 전쟁이니까![END]",
+            "japanese": "ここから先は戦いあるのみだ。これは戦争なのだからな!"
+        },
+        {
+            "id": "Line_47E",
+            "voice_ids": [],
+            "string": "[COLOR_START][BARUK][COLOR_END]: Swarm![END]",
+            "translation": "[COLOR_START][BARUK][COLOR_END]: 벌레들이여![END]",
+            "japanese": "虫よ!"
+        },
+        {
+            "id": "Line_47D",
+            "voice_ids": [],
+            "string": "[COLOR_START][BARUK][COLOR_END]: This will be your end![END]",
+            "translation": "[COLOR_START][BARUK][COLOR_END]: 끝내 주마![END]",
+            "japanese": "終わりにしてくれる!"
+        },
+        {
+            "id": "Line_482",
+            "voice_ids": [
+                "0x0482"
+            ],
+            "string": "[COLOR_START][BARUK][COLOR_END]: In the end I remain victorious![END]",
+            "translation": "[COLOR_START][BARUK][COLOR_END]: 멋대로 하게 두진 않겠다![END]",
+            "japanese": "好きにはさせんぞ!"
+        },
+        {
+            "id": "Line_483",
+            "voice_ids": [
+                "0x0483"
+            ],
+            "string": "[COLOR_START][BARUK][COLOR_END]: You shall pay for your hubris![END]",
+            "translation": "[COLOR_START][BARUK][COLOR_END]: 그 정도로는 나를 이길 수 없다![END]",
+            "japanese": "そんなことでは、私には勝てぬぞ!"
+        },
+        {
+            "id": "Line_484_1",
+            "voice_ids": [
+                "0x0484"
+            ],
+            "string": "[COLOR_START][BARUK][COLOR_END]: So this is your true strength...[END]",
+            "translation": "[COLOR_START][BARUK][COLOR_END]: 강해졌구나.[END]",
+            "japanese": "強くなったものだ。"
+        },
+        {
+            "id": "Line_1a7f_1",
+            "voice_ids": [
+                "0x1A7F"
+            ],
+            "string": "[COLOR_START][ILENE][COLOR_END]: I will not allow YOU to stop me![END]",
+            "translation": "[COLOR_START][ILENE][COLOR_END]: 너희가 나를 막을 수는 없어![END]",
+            "japanese": "あなたたちに私は止められない!"
+        },
+        {
+            "id": "Line_48D",
+            "voice_ids": [],
+            "string": "[COLOR_START][ILENE][COLOR_END]: It's time to get serious![END]",
+            "translation": "[COLOR_START][ILENE][COLOR_END]: 전력을 다하겠어.[END]",
+            "japanese": "本気を出すわよ。"
+        },
+        {
+            "id": "Line_48E",
+            "voice_ids": [
+                "0x048E"
+            ],
+            "string": "[COLOR_START][ILENE][COLOR_END]: Please, forgive me....[END]",
+            "translation": "[COLOR_START][ILENE][COLOR_END]: 미안해요.[END]",
+            "japanese": "ごめんなさいね。"
+        },
+        {
+            "id": "Line_48F",
+            "voice_ids": [
+                "0x048F"
+            ],
+            "string": "[COLOR_START][ILENE][COLOR_END]: Kyaaah![END]",
+            "translation": "[COLOR_START][ILENE][COLOR_END]: 꺄아악![END]",
+            "japanese": "アーッ!"
+        },
+        {
+            "id": "Line_1b1c_1",
+            "voice_ids": [
+                "0x1B1C"
+            ],
+            "string": "[COLOR_START][REMBRANDT][COLOR_END]: Behold the pinacle of innovation![END]",
+            "translation": "[COLOR_START][REMBRANDT][COLOR_END]: 천상군의 기술을 집약한 특수 장비의 위력![END]",
+            "japanese": "天上軍の技術の推移を極めた特殊装備の威力、"
+        },
+        {
+            "id": "Line_1b1c_2",
+            "voice_ids": [
+                "0x1B1C"
+            ],
+            "string": "[COLOR_START][REMBRANDT][COLOR_END]: Prepare to face it's terrible power![END]",
+            "translation": "[COLOR_START][REMBRANDT][COLOR_END]: 보여 드리겠습니다.[END]",
+            "japanese": "ご覧いただきましょう。"
+        },
+        {
+            "id": "Line_49d_1",
+            "voice_ids": [],
+            "string": "[COLOR_START][REMBRANDT][COLOR_END]: Go no further![END]",
+            "translation": "[COLOR_START][REMBRANDT][COLOR_END]: 거기까지입니다![END]",
+            "japanese": "そこまでですぞ!"
+        },
+        {
+            "id": "Line_49f_1",
+            "voice_ids": [
+                "0x049F"
+            ],
+            "string": "[COLOR_START][REMBRANDT][COLOR_END]: Master Hugo![END]",
+            "translation": "[COLOR_START][REMBRANDT][COLOR_END]: 휴고님![END]",
+            "japanese": "ヒューゴ様!"
+        },
+        {
+            "id": "Line_49e_1",
+            "voice_ids": [
+                "0x049E"
+            ],
+            "string": "[COLOR_START][REMBRANDT][COLOR_END]: Farewell![END]",
+            "translation": "[COLOR_START][REMBRANDT][COLOR_END]: 잘 가십시오.[END]",
+            "japanese": "さらばです。"
+        },
+        {
+            "id": "Line_4a9_1",
+            "voice_ids": [],
+            "string": "[COLOR_START][HUGO][COLOR_END]: Know your place![END]",
+            "translation": "[COLOR_START][HUGO][COLOR_END]: 우쭐대지 마라![END]",
+            "japanese": "調子に乗るな!"
+        },
+        {
+            "id": "Line_4ab_1",
+            "voice_ids": [
+                "0x04AB"
+            ],
+            "string": "[COLOR_START][HUGO][COLOR_END]: Is this...where it ends?[END]",
+            "translation": "[COLOR_START][HUGO][COLOR_END]: 여기서 끝나는 건가?[END]",
+            "japanese": "ここで終わるのか?"
+        },
+        {
+            "id": "Line_4aa_1",
+            "voice_ids": [
+                "0x04AA"
+            ],
+            "string": "[COLOR_START][HUGO][COLOR_END]: It's finished! Slip into nothingness...[END]",
+            "translation": "[COLOR_START][HUGO][COLOR_END]: 끝이다. 곧 편하게 해 주마.[END]",
+            "japanese": "終わりだ。すぐ楽にしてやろう。"
+        },
+        {
+            "id": "Line_36F_1",
+            "voice_ids": [],
+            "string": "[COLOR_START][DYMLOS][COLOR_END]: You've left yourself open![END]",
+            "translation": "[COLOR_START][DYMLOS][COLOR_END]: 빈틈을 보이지 마라![END]",
+            "japanese": "隙を見せるぞ!"
+        },
+        {
+            "id": "Line_36F_2",
+            "voice_ids": [
+                "0x036F"
+            ],
+            "string": "[COLOR_START][DYMLOS][COLOR_END]: Don't be so overconfident![END]",
+            "translation": "[COLOR_START][DYMLOS][COLOR_END]: 빈틈을 보이지 마라![END]",
+            "japanese": "隙を見せるぞ!"
+        },
+        {
+            "id": "Line_371_1",
+            "voice_ids": [
+                "0x0371"
+            ],
+            "string": "[COLOR_START][DYMLOS][COLOR_END]: You've done well...to have bested me...[END]",
+            "translation": "[COLOR_START][DYMLOS][COLOR_END]: 용케도 나를 넘어섰구나.[END]",
+            "japanese": "よくぞ、我を変えた。"
+        },
+        {
+            "id": "Line_370_1",
+            "voice_ids": [
+                "0x0370"
+            ],
+            "string": "[COLOR_START][DYMLOS][COLOR_END]: I had hoped for a different outcome...[END]",
+            "translation": "[COLOR_START][DYMLOS][COLOR_END]: 이런 결과가 될 줄이야.[END]",
+            "japanese": "こんな結果になろうとは。"
+        },
+        {
+            "id": "Line_39A",
+            "voice_ids": [
+                "0x039A"
+            ],
+            "string": "[COLOR_START][DYMLOS][COLOR_END]: Flames seem to work well![END]",
+            "translation": "[COLOR_START][DYMLOS][COLOR_END]: 불꽃이 잘 통하는 모양이다.[END]",
+            "japanese": "炎がよく効くようだ。"
+        },
+        {
+            "id": "Line_39B",
+            "voice_ids": [
+                "0x039B"
+            ],
+            "string": "[COLOR_START][DYMLOS][COLOR_END]: They're unaffected by fire![END]",
+            "translation": "[COLOR_START][DYMLOS][COLOR_END]: 이 녀석은 불꽃에 내성이 있다.[END]",
+            "japanese": "こいつは炎に耐性を持っている。"
+        },
+        {
+            "id": "Line_3D2",
+            "voice_ids": [
+                "0x03D2"
+            ],
+            "string": "[COLOR_START][ATWIGHT][COLOR_END]: Water artes are quite effective![END]",
+            "translation": "[COLOR_START][ATWIGHT][COLOR_END]: 물 정술이 효과적이야.[END]",
+            "japanese": "水の小術が効果的よ。"
+        },
+        {
+            "id": "Line_3D3",
+            "voice_ids": [
+                "0x03D3"
+            ],
+            "string": "[COLOR_START][ATWIGHT][COLOR_END]: It seems water is ineffective.[END]",
+            "translation": "[COLOR_START][ATWIGHT][COLOR_END]: 물 정술은 통하지 않는 모양이네.[END]",
+            "japanese": "水の小術は効かないようね。"
+        },
+        {
+            "id": "Line_3FA",
+            "voice_ids": [
+                "0x03FA"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: Water artes are effective![END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 물 계열이 잘 통한다![END]",
+            "japanese": "水系が効くぞ!"
+        },
+        {
+            "id": "Line_3F7",
+            "voice_ids": [
+                "0x03F7"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: Earth artes are effective![END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 땅 계열이 잘 통한다![END]",
+            "japanese": "地形が効くぞ!"
+        },
+        {
+            "id": "Line_3F8",
+            "voice_ids": [
+                "0x03F8"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: Wind artes are effective![END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 바람 계열이 잘 통한다![END]",
+            "japanese": "風系が効くぞ!"
+        },
+        {
+            "id": "Line_3F9",
+            "voice_ids": [
+                "0x03F9"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: Fire artes are effective![END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 불꽃 계열이 잘 통한다![END]",
+            "japanese": "否定が効くぞ!"
+        },
+        {
+            "id": "Line_3FB",
+            "voice_ids": [
+                "0x03FB"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: Light artes are effective![END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 빛 계열이 잘 통한다![END]",
+            "japanese": "光系が効くぞ!"
+        },
+        {
+            "id": "Line_3FC",
+            "voice_ids": [
+                "0x03FC"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: Dark artes are effective![END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 어둠 계열이 잘 통한다![END]",
+            "japanese": "闇系が効くぞ!"
+        },
+        {
+            "id": "Line_3FD",
+            "voice_ids": [
+                "0x03FD"
+            ],
+            "string": "[COLOR_START][CLEMENTE][COLOR_END]: Hmm, that didn't work.[END]",
+            "translation": "[COLOR_START][CLEMENTE][COLOR_END]: 흐음, 통하지 않는가.[END]",
+            "japanese": "うーん、効かんか。"
+        },
+        {
+            "id": "Line_422",
+            "voice_ids": [
+                "0x0422"
+            ],
+            "string": "[COLOR_START][CHALTIER][COLOR_END]: Magic is useless against them![END]",
+            "translation": "[COLOR_START][CHALTIER][COLOR_END]: 정술에 강한 모양이에요.[END]",
+            "japanese": "小術に強いようですよ。"
+        },
+        {
+            "id": "Line_424",
+            "voice_ids": [
+                "0x0424"
+            ],
+            "string": "[COLOR_START][CHALTIER][COLOR_END]: Your blade didn't scratch 'em![END]",
+            "translation": "[COLOR_START][CHALTIER][COLOR_END]: 검이 별로 통하지 않는 모양이에요.[END]",
+            "japanese": "剣があまり効かないようですよ。"
+        },
+        {
+            "id": "Line_421",
+            "voice_ids": [
+                "0x0421"
+            ],
+            "string": "[COLOR_START][CHALTIER][COLOR_END]: They seem weak to your blade![END]",
+            "translation": "[COLOR_START][CHALTIER][COLOR_END]: 정술에 약한 모양이에요.[END]",
+            "japanese": "小術に弱いようですよ。"
+        },
+        {
+            "id": "Line_423",
+            "voice_ids": [
+                "0x0423"
+            ],
+            "string": "[COLOR_START][CHALTIER][COLOR_END]: They seem weak to your magic![END]",
+            "translation": "[COLOR_START][CHALTIER][COLOR_END]: 검에 약한 모양이에요.[END]",
+            "japanese": "剣に弱いようですよ。"
+        },
+        {
+            "id": "Line_411",
+            "voice_ids": [
+                "0x0411"
+            ],
+            "string": "[COLOR_START][IGTENOS][COLOR_END]: Wind skills don't work on these guys.[END]",
+            "translation": "[COLOR_START][IGTENOS][COLOR_END]: 저 녀석에겐 바람 계열 정술이 잘 통하지 않는군.[END]",
+            "japanese": "奴には風系の小術は聞きづらいようだ。"
+        },
+        {
+            "id": "Line_412",
+            "voice_ids": [
+                "0x0412"
+            ],
+            "string": "[COLOR_START][IGTENOS][COLOR_END]: They're vulnerable to your bow attacks![END]",
+            "translation": "[COLOR_START][IGTENOS][COLOR_END]: 저 녀석은 활 공격에 약하다.[END]",
+            "japanese": "奴は弓矢の攻撃に弱いぞ。"
+        },
+        {
+            "id": "Line_413",
+            "voice_ids": [
+                "0x0413"
+            ],
+            "string": "[COLOR_START][IGTENOS][COLOR_END]: They're vulnerable to your sword attacks![END]",
+            "translation": "[COLOR_START][IGTENOS][COLOR_END]: 저 녀석은 검 공격에 약하다.[END]",
+            "japanese": "奴は剣の攻撃に弱いぞ。"
+        },
+        {
+            "id": "Line_410",
+            "voice_ids": [
+                "0x0410"
+            ],
+            "string": "[COLOR_START][IGTENOS][COLOR_END]: They seem to be weak to wind artes![END]",
+            "translation": "[COLOR_START][IGTENOS][COLOR_END]: 저 녀석은 바람 계열 정술에 약한 모양이군.[END]",
+            "japanese": "やつは風系の小術に弱いようだな。"
+        },
+        {
+            "id": "Line_2060_1",
+            "voice_ids": [
+                "0x2060"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: You insects are no match for a god![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 지극히 높은 천상왕인 나를 너희 따위가 당해 낼 성싶으냐![END]",
+            "japanese": "至高の天上をたる私にお前たちごときがかなうものか。"
+        },
+        {
+            "id": "Line_4c2_1",
+            "voice_ids": [],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Know your place![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 분수를 알아라![END]",
+            "japanese": "身の程をわきまえよう!"
+        },
+        {
+            "id": "Line_4c4",
+            "voice_ids": [
+                "0x04C4"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Did I miscalculate!?[END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 내가 잘못 봤다고?[END]",
+            "japanese": "見誤っただと?"
+        },
+        {
+            "id": "Line_4c3",
+            "voice_ids": [
+                "0x04C3"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: As expected, you were not worthy.[END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 역시 전력을 다할 것도 없었군.[END]",
+            "japanese": "やはり本気を出すまでもなかったか。"
+        },
+        {
+            "id": "Line_207D_1",
+            "voice_ids": [
+                "0x207D"
+            ],
+            "string": "[COLOR_START][DYMLOS][COLOR_END]: He's no god, just a thousand-year-old[END]",
+            "translation": "[COLOR_START][DYMLOS][COLOR_END]: 저기 있는 건 신 따위가 아니다.[END]",
+            "japanese": "あそこにいるのは神などではない。盲衆に取り憑かれた千年前の亡霊だ。"
+        },
+        {
+            "id": "Line_207D_2",
+            "voice_ids": [
+                "0x207D"
+            ],
+            "string": "ghost driven mad by delusion![END]",
+            "translation": "망집에 사로잡힌 천 년 전의 망령이다![END]",
+            "japanese": "あそこにいるのは神などではない。盲衆に取り憑かれた千年前の亡霊だ。"
+        },
+        {
+            "id": "Line_207E",
+            "voice_ids": [
+                "0x207E"
+            ],
+            "string": "[COLOR_START][DYMLOS][COLOR_END]: Thus, by our hand, we shall end this![END]",
+            "translation": "[COLOR_START][DYMLOS][COLOR_END]: 그러니 우리 손으로 그 속박을 풀어 주겠다![END]",
+            "japanese": "故にその字幕を我らの手で解き放つ!"
+        },
+        {
+            "id": "Line_207F",
+            "voice_ids": [
+                "0x207F"
+            ],
+            "string": "[COLOR_START][STAHN][COLOR_END]: Yeah![END]",
+            "translation": "[COLOR_START][STAHN][COLOR_END]: 그래![END]",
+            "japanese": "ああっ!"
+        },
+        {
+            "id": "Line_4D9_BQ",
+            "voice_ids": [],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Heh heh heh![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 흐흐흐![END]",
+            "japanese": "アトワイト"
+        },
+        {
+            "id": "Line_4D9_BC",
+            "voice_ids": [
+                "0x04D9"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Heh heh heh![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 흐흐흐![END]",
+            "japanese": "アトワイト"
+        },
+        {
+            "id": "Line_4FC_BQ",
+            "voice_ids": [],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Wallow in dispair![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 절망은 바로 눈앞이다![END]",
+            "japanese": "絶望はすぐそこだ!"
+        },
+        {
+            "id": "Line_4FC_BC",
+            "voice_ids": [
+                "0x04FC"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: And sink into despair![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 절망은 바로 눈앞이다![END]",
+            "japanese": "絶望はすぐそこだ!"
+        },
+        {
+            "id": "Line_4ED",
+            "voice_ids": [],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Fade into the chasm between light and dark![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 빛과 어둠의 틈새로 사라져라![END]",
+            "japanese": "光と闇の狭間に消えろ!"
+        },
+        {
+            "id": "Line_4EA",
+            "voice_ids": [
+                "0x04EA"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Be consumed by death![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 오라, 죽음의 날개여![END]",
+            "japanese": "来たれ、死の翼よ!"
+        },
+        {
+            "id": "Line_4FB",
+            "voice_ids": [],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: It's your end![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 이것으로 끝이다![END]",
+            "japanese": "ジェンドだ!"
+        },
+        {
+            "id": "Line_4F7_BQ",
+            "voice_ids": [],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Begone![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 사라져라![END]",
+            "japanese": "消え去れ!"
+        },
+        {
+            "id": "Line_4F7_BC",
+            "voice_ids": [
+                "0x04F7"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Begone![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 사라져라![END]",
+            "japanese": "消え去れ!"
+        },
+        {
+            "id": "Line_4E3_BQ",
+            "voice_ids": [],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Playtime is over![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 놀이는 끝이다![END]",
+            "japanese": "遊びは終わりだ!"
+        },
+        {
+            "id": "Line_4E3_BC",
+            "voice_ids": [
+                "0x04E3"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Playtime is over![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 놀이는 끝이다![END]",
+            "japanese": "遊びは終わりだ!"
+        },
+        {
+            "id": "Line_4E8",
+            "voice_ids": [
+                "0x04E8"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: That's impossible![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 그런 말도 안 되는 일이![END]",
+            "japanese": "そんな馬鹿なことが!"
+        },
+        {
+            "id": "Line_4E7_BQ",
+            "voice_ids": [
+                "0x04E7"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: DIE! DIE! DIE! DIE! DIE!!![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 죽어, 죽어, 죽어, 죽어, 죽어라![END]",
+            "japanese": "死ね死ね死ね死ね死ね死んだー!"
+        },
+        {
+            "id": "Line_4E7_BC",
+            "voice_ids": [
+                "0x04E7"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: DIE! DIE! DIE! DIE! DIE!!![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 죽어, 죽어, 죽어, 죽어, 죽어라![END]",
+            "japanese": "死ね死ね死ね死ね死ね死んだー!"
+        },
+        {
+            "id": "Line_4DE",
+            "voice_ids": [
+                "0x04DE"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: You eye sore![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 눈에 거슬린다![END]",
+            "japanese": "目覚まれた!"
+        },
+        {
+            "id": "Line_4F3",
+            "voice_ids": [
+                "0x04F3"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Fall into ruin![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 산산이 부서져라![END]",
+            "japanese": "砕け散れ!"
+        },
+        {
+            "id": "Line_4F8",
+            "voice_ids": [
+                "0x04F8"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Grovel before a god...[END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 바닥을 기어라![END]",
+            "japanese": "ハイズガイ!"
+        },
+        {
+            "id": "Line_4F0",
+            "voice_ids": [
+                "0x04F0"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Into the void of your own despair...[END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 절망의 심연에서 스러져라! 허공의 푸른빛![END]",
+            "japanese": "絶望の口に果てよ! 虚空の青!"
+        },
+        {
+            "id": "Line_4F4",
+            "voice_ids": [
+                "0x04F4"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Your flesh torn asunder![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 갈기갈기 찢겨라![END]",
+            "japanese": "引き裂いてしまえ!"
+        },
+        {
+            "id": "Line_4FD",
+            "voice_ids": [
+                "0x04FD"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: I tire of you whelps![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 슬슬 너희에게 질리는군![END]",
+            "japanese": "そろそろお前らに負けてきた!"
+        },
+        {
+            "id": "Line_4FE",
+            "voice_ids": [
+                "0x04FE"
+            ],
+            "string": "[COLOR_START][MIKTRAN][COLOR_END]: Behold! The eradication of all![END]",
+            "translation": "[COLOR_START][MIKTRAN][COLOR_END]: 똑똑히 보아라, 모든 것을 지워 주마![END]",
+            "japanese": "しかとみよ、すべてを消し去ってくれるわ!"
+        }
+    ]
+}
