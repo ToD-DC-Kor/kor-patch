@@ -120,7 +120,7 @@ WALL_2이다!!
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-<Fayte>！
+<Fayte>!
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]

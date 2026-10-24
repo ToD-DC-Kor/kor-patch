@@ -100,7 +100,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>！
+<Lion>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -133,7 +133,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>！
+<Stahn>!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -227,7 +227,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……！
+……!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

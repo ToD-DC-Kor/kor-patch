@@ -140,7 +140,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Dalis>……！
+<Dalis>……!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -166,7 +166,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Dalis>！
+<Dalis>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -279,7 +279,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-…………！
+…………!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -301,7 +301,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Dalis>……<Dalis>！
+<Dalis>……<Dalis>!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -380,7 +380,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Woodrow>。
+<Woodrow>.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]

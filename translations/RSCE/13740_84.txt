@@ -1115,7 +1115,7 @@ notice
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-……！
+……!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

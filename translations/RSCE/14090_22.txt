@@ -62,7 +62,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……！
+……!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -235,7 +235,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……！
+……!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

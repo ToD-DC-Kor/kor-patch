@@ -395,7 +395,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 한계<D_FOG_COLOR_B>
 
 [ENDBLOCK]
-각도！<D_FOG_COLOR_G>
+각도!<D_FOG_COLOR_G>
 
 [ENDBLOCK]
 한계<x17><x72><x40><x3C><x80>
@@ -410,7 +410,7 @@ zzzzzzzzzzzzzzzzzzzzzz<x1D><x76><x40><x10><x80>
 한계<D_FOG_COLOR_B>
 
 [ENDBLOCK]
-각도！<D_FOG_COLOR_G>
+각도!<D_FOG_COLOR_G>
 
 [ENDBLOCK]
 한계<x17><x72><x40><x3C><x80>

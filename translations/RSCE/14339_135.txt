@@ -218,7 +218,7 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Chelsea>！
+<Chelsea>!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]

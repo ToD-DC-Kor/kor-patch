@@ -378,7 +378,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>……！
+<Lion>……!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]

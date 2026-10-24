@@ -32,7 +32,7 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Igtenos>！
+<Igtenos>!
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]

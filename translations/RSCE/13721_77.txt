@@ -1121,7 +1121,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ritora>！
+<Ritora>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

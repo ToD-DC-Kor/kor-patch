@@ -31,7 +31,7 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……！
+……!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]

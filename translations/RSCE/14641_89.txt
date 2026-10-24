@@ -24,7 +24,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Hugo>！
+<Hugo>!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -116,7 +116,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-……<Belserius>！
+……<Belserius>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -159,7 +159,7 @@
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-<Belserius>！
+<Belserius>!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -265,7 +265,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Hugo>！
+<Hugo>!
 [ENDBLOCK]
 ----1------
 
@@ -293,7 +293,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Miktran>！
+<Miktran>!
 [ENDBLOCK]
 <Miktran>
 [ENDBLOCK]
@@ -329,7 +329,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Miktran>！
+<Miktran>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -556,7 +556,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>……！
+<Rutee>……!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

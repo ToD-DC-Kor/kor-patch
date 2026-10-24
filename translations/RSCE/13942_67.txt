@@ -873,7 +873,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>……！
+<Lion>……!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

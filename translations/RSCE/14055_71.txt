@@ -34,7 +34,7 @@
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Batista>！
+<Batista>!
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]

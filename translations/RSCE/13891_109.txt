@@ -870,7 +870,7 @@ notice
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>！
+<Rutee>!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

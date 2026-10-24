@@ -764,7 +764,7 @@
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……！
+……!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]

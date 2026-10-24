@@ -415,7 +415,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Ritora>……！
+<Ritora>……!
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]

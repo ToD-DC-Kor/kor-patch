@@ -938,7 +938,7 @@ notice
 ◎◎사용이면OK：i <TAG_034> == no <TAG_075> && j <TAG_035> >= max_candle <x17><x66><x18><x2B><x68><x01><xAB><x80>	사용
 
 [ENDBLOCK]
-<TAG_034> == <x17><x66><x18><x2B><x68><x01><xAB><x80>, j = <TAG_035>	＝	완료！
+<TAG_034> == <x17><x66><x18><x2B><x68><x01><xAB><x80>, j = <TAG_035>	＝	완료!
 
 [ENDBLOCK]
 aaaa:<x17><x6A><x08><x80>

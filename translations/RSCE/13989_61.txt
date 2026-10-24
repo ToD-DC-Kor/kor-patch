@@ -1247,7 +1247,7 @@ notice
 [ENDBLOCK]
 여자아이
 [ENDBLOCK]
-<Kongman>！
+<Kongman>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]

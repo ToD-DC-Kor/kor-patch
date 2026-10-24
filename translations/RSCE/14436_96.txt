@@ -49,7 +49,7 @@ notice
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Hugo>！
+<Hugo>!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]

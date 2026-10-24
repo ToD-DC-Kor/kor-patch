@@ -813,7 +813,7 @@ sdiff -><x1D><x76><x40><x10><x80>
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-……！
+……!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

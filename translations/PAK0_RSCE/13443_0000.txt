@@ -183,33 +183,33 @@ select
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Stahn>	「왼쪽에서 배 한 척이 온다！」
+<TAG_009><Stahn>	「왼쪽에서 배 한 척이 온다!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009>선장	「알겠습니다! 회피하겠습니다！」
+<TAG_009>선장	「알겠습니다! 회피하겠습니다!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Lion>	「우현을 조심해! 두 척이다！」
+<TAG_009><Lion>	「우현을 조심해! 두 척이다!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009>선장	「맡겨 주십시오！」
+<TAG_009>선장	「맡겨 주십시오!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xD0><x00><x00><x40><TAG_009><Kongman>	「앞에 큰 배가 있다! 저게 기함이야. 틀림없어！」
+<x06><xD0><x00><x00><x40><TAG_009><Kongman>	「앞에 큰 배가 있다! 저게 기함이야. 틀림없어!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_009><Stahn>	「좋아, 올라타자！」
+<TAG_009><Stahn>	「좋아, 올라타자!」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<x06><xC0><x00><x00><x40><TAG_009><Dymlos>	「꾸물거리다간 지원군이 온다. 목표는 적장 한 명뿐이다。」
+<x06><xC0><x00><x00><x40><TAG_009><Dymlos>	「꾸물거리다간 지원군이 온다. 목표는 적장 한 명뿐이다.」
 [ENDBLOCK]
 
 [ENDBLOCK]
-<Stahn><TAG_009>	「기다려라, <Greybum>！」
+<Stahn><TAG_009>	「기다려라, <Greybum>!」
 [ENDBLOCK]

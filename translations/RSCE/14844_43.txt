@@ -9,7 +9,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>！
+<Philia>!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]

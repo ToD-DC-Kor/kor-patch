@@ -1061,11 +1061,11 @@ notice
 [ENDBLOCK]
 아이
 [ENDBLOCK]
-<Kongman>！
+<Kongman>!
 [ENDBLOCK]
 청년
 [ENDBLOCK]
-<Kongman>！
+<Kongman>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
