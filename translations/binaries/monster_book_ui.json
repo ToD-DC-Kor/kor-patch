@@ -5,7 +5,7 @@
             "string": "謎の影？[LINE]\n[LINE]\n[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "의문의 그림자?[LINE]\n[LINE]\n[END]"
+            "translation": "의문 그림자?[LINE]\n[LINE]\n[END]"
         },
         {
             "offset": 42104,
@@ -33,7 +33,7 @@
             "string": "エンカウント数[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "인카운트 수[END]"
+            "translation": "조우 수[END]"
         },
         {
             "offset": 42248,
@@ -103,7 +103,7 @@
             "string": "耐性属性[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "저항 속성[END]"
+            "translation": "내성 속성[END]"
         },
         {
             "offset": 42408,

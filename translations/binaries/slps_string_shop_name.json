@@ -33,7 +33,7 @@
             "string": "コレクター[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "콜렉터[END]"
+            "translation": "컬렉터[END]"
         },
         {
             "offset": 1814760,
@@ -54,7 +54,7 @@
             "string": "変美畏女多留[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "변미위여다류[END]"
+            "translation": "헤비 메탈[END]"
         },
         {
             "offset": 1814800,
@@ -138,14 +138,14 @@
             "string": "ディスリガード[END]",
             "original_bytes_length": 15,
             "available_bytes_size": 15,
-            "translation": "디스리 가드[END]"
+            "translation": "디스리가드[END]"
         },
         {
             "offset": 1814984,
             "string": "サザンクロス[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "사잔 크로스[END]"
+            "translation": "서던 크로스[END]"
         },
         {
             "offset": 1815000,
@@ -159,7 +159,7 @@
             "string": "氷大河[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "얼음 대하[END]"
+            "translation": "빙대하[END]"
         },
         {
             "offset": 1815024,
@@ -173,14 +173,14 @@
             "string": "雪解け水[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "눈녹은 물[END]"
+            "translation": "눈 녹은 물[END]"
         },
         {
             "offset": 1815056,
             "string": "雪景色[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "눈경치[END]"
+            "translation": "설경[END]"
         },
         {
             "offset": 1815064,
@@ -257,14 +257,14 @@
             "string": "彩の色[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "다양한 색[END]"
+            "translation": "다채색[END]"
         },
         {
             "offset": 1815200,
             "string": "海神[END]",
             "original_bytes_length": 5,
             "available_bytes_size": 7,
-            "translation": "바다의 신[END]"
+            "translation": "해신[END]"
         },
         {
             "offset": 1815208,
@@ -278,7 +278,7 @@
             "string": "やどかり堂[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "게 하우스[END]"
+            "translation": "소라게당[END]"
         },
         {
             "offset": 1815232,
@@ -292,7 +292,7 @@
             "string": "黄金郷[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "황금의 고향[END]"
+            "translation": "황금향[END]"
         },
         {
             "offset": 1815256,
@@ -327,7 +327,7 @@
             "string": "銀の糸[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "은의 실[END]"
+            "translation": "은실[END]"
         },
         {
             "offset": 1815328,
@@ -376,7 +376,7 @@
             "string": "月夜道[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "달밤 길[END]"
+            "translation": "달밤길[END]"
         },
         {
             "offset": 1815432,
@@ -411,7 +411,7 @@
             "string": "バラライカ[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "바라라이카[END]"
+            "translation": "발랄라이카[END]"
         },
         {
             "offset": 1815504,
@@ -495,7 +495,7 @@
             "string": "いっぷく[END]",
             "original_bytes_length": 9,
             "available_bytes_size": 15,
-            "translation": "일푸크[END]"
+            "translation": "한숨 돌리기[END]"
         },
         {
             "offset": 1815672,
@@ -544,7 +544,7 @@
             "string": "武具屋[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "무기점[END]"
+            "translation": "무구점[END]"
         },
         {
             "offset": 1815760,
@@ -572,7 +572,7 @@
             "string": "食材屋[END]",
             "original_bytes_length": 7,
             "available_bytes_size": 7,
-            "translation": "식자재점[END]"
+            "translation": "식료점[END]"
         },
         {
             "offset": 1815792,
@@ -600,7 +600,7 @@
             "string": "オベロン社[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "오베론사[END]"
+            "translation": "오베론 사[END]"
         },
         {
             "offset": 1815840,
@@ -649,21 +649,21 @@
             "string": "スノーフリア[END]",
             "original_bytes_length": 13,
             "available_bytes_size": 15,
-            "translation": "스노우플리아[END]"
+            "translation": "스노우프리아[END]"
         },
         {
             "offset": 1815944,
             "string": "トウケイ領[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "도케이령[END]"
+            "translation": "토케이령[END]"
         },
         {
             "offset": 1815960,
             "string": "モリュウ領[END]",
             "original_bytes_length": 11,
             "available_bytes_size": 15,
-            "translation": "모리유령[END]"
+            "translation": "모류령[END]"
         },
         {
             "offset": 1815976,
