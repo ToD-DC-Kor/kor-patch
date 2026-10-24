@@ -1,0 +1,95 @@
+{
+    "00016_0002d.unknown": [
+        {
+            "offset": 260536,
+            "string": "メモリーカード差込口１のメモリーカード（ＰＳ２）をチェック中です。[LINE]\nメモリーカード（ＰＳ２）を抜いたり、電源を切ったりしないでください。[END]",
+            "original_bytes_length": 136,
+            "available_bytes_size": 136,
+            "translation": "메모리 카드 슬롯 1의 메모리 카드(PS2)를 확인 중입니다.[LINE]\n메모리 카드(PS2)를 빼거나 전원을 끄지 마십시오.[END]"
+        },
+        {
+            "offset": 261536,
+            "string": "ファンダリア地方[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 17,
+            "translation": "팬더리아 지방[END]"
+        },
+        {
+            "offset": 261560,
+            "string": "フィッツガルド北部[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 19,
+            "translation": "피츠가르드 북부[END]"
+        },
+        {
+            "offset": 261584,
+            "string": "セインガルド南東部[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 19,
+            "translation": "세인가르드 남동부[END]"
+        },
+        {
+            "offset": 261608,
+            "string": "セインガルド北西部[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 19,
+            "translation": "세인가르드 북서부[END]"
+        },
+        {
+            "offset": 261632,
+            "string": "アクアヴェイル地方[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 19,
+            "translation": "아쿠아베일 지방[END]"
+        },
+        {
+            "offset": 261656,
+            "string": "カルバレイス地方[END]",
+            "original_bytes_length": 17,
+            "available_bytes_size": 17,
+            "translation": "칼바레이스 지방[END]"
+        },
+        {
+            "offset": 261680,
+            "string": "フィッツガルド南部[END]",
+            "original_bytes_length": 19,
+            "available_bytes_size": 19,
+            "translation": "피츠가르드 남부[END]"
+        },
+        {
+            "offset": 261704,
+            "string": "海上[END]",
+            "original_bytes_length": 5,
+            "available_bytes_size": 5,
+            "translation": "해상[END]"
+        },
+        {
+            "offset": 261712,
+            "string": "外殻・イグナシー周辺[END]",
+            "original_bytes_length": 21,
+            "available_bytes_size": 21,
+            "translation": "외각・이그나시 주변[END]"
+        },
+        {
+            "offset": 261736,
+            "string": "外殻・クラウディス周辺[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "외각・클라우디스 주변[END]"
+        },
+        {
+            "offset": 261760,
+            "string": "外殻・ヘルレイオス周辺[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "외각・헬레이오스 주변[END]"
+        },
+        {
+            "offset": 261784,
+            "string": "外殻・ミックハイル周辺[END]",
+            "original_bytes_length": 23,
+            "available_bytes_size": 23,
+            "translation": "외각・믹하일 주변[END]"
+        }
+    ]
+}
