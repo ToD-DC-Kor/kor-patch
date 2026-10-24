@@ -38,7 +38,7 @@ notice
 <Ilene>
 [ENDBLOCK]
 기억하니?
-나야…… <Ilene>·<Rembrandt>.
+나야…… <Ilene>・<Rembrandt>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -156,11 +156,11 @@ notice
 [ENDBLOCK]
 초록
 [ENDBLOCK]
-빨강·초록
+빨강・초록
 [ENDBLOCK]
-파랑·초록
+파랑・초록
 [ENDBLOCK]
-노랑·초록
+노랑・초록
 [ENDBLOCK]
 
 [ENDBLOCK]

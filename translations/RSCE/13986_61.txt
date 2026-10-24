@@ -560,43 +560,43 @@ select
 [ENDBLOCK]
 자, 정해도 돼.
 [ENDBLOCK]
-	·코스 데이터 설정
+	・코스 데이터 설정
 
 [ENDBLOCK]
-	·달리기 전체 관리 초기화
+	・달리기 전체 관리 초기화
 
 [ENDBLOCK]
-	·플레이어 초기화
+	・플레이어 초기화
 
 [ENDBLOCK]
-	·마하 소년 초기화
+	・마하 소년 초기화
 
 [ENDBLOCK]
-	·부호 초기화
+	・부호 초기화
 
 [ENDBLOCK]
-	·풍선 소녀 초기화
+	・풍선 소녀 초기화
 
 [ENDBLOCK]
-	·풍선 초기화
+	・풍선 초기화
 
 [ENDBLOCK]
-	·주민 초기화
+	・주민 초기화
 
 [ENDBLOCK]
-	·데모 플래그 초기화
+	・데모 플래그 초기화
 
 [ENDBLOCK]
-	·플레이어 초기화
+	・플레이어 초기화
 
 [ENDBLOCK]
-	·마하 소년 초기화
+	・마하 소년 초기화
 
 [ENDBLOCK]
-	·부호 초기화
+	・부호 초기화
 
 [ENDBLOCK]
-	·마하 소년 초기화
+	・마하 소년 초기화
 
 [ENDBLOCK]
 select

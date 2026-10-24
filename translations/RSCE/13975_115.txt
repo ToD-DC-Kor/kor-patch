@@ -223,7 +223,7 @@ select
 
 [ENDBLOCK]
 <TAG_005>읽다 만 소설
-「별의 달력·２」가 있다.
+「별의 달력・２」가 있다.
 [ENDBLOCK]
 select
 [ENDBLOCK]

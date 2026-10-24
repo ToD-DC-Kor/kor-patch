@@ -472,7 +472,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>「<yellow>이모셔널 카드·챗</color>(이하 챗)」은
+<TAG_007>「<yellow>이모셔널 카드・챗</color>(이하 챗)」은
 동료 캐릭터들이 나누는 대화를
 볼 수 있는 시스템입니다.
 

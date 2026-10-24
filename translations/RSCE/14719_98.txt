@@ -102,7 +102,7 @@ select
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<green>녹색 가스 장치·찰리</color> 파괴
+<green>녹색 가스 장치・찰리</color> 파괴
 [ENDBLOCK]
 notice
 [ENDBLOCK]

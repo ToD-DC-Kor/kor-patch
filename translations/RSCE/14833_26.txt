@@ -1177,7 +1177,7 @@ number <x17><x45><x5A><xDC><x07><x72><x08><x72><x00><x8B><x21><x8C><x8B><xE8><xC
 [ENDBLOCK]
 은거한 고양이맨
 [ENDBLOCK]
-……비·밀이다냥♪
+……비・밀이다냥♪
 [ENDBLOCK]
 notice
 [ENDBLOCK]

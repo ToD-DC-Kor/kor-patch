@@ -17,7 +17,7 @@
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-샤인·<Rembrandt>라고 합니다.
+샤인・<Rembrandt>라고 합니다.
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]

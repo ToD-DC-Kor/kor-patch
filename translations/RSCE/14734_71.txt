@@ -38,13 +38,13 @@ select
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-다이크로프트·중층
+다이크로프트・중층
 
 [ENDBLOCK]
-다이크로프트·중층 안쪽
+다이크로프트・중층 안쪽
 
 [ENDBLOCK]
-다이크로프트·최심부
+다이크로프트・최심부
 
 [ENDBLOCK]
 select

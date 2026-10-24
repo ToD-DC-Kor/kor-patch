@@ -740,7 +740,7 @@ notice
 [ENDBLOCK]
 웹사이트에 입력할 연동 ID와
 게임 비밀번호를 잊으셨다면 커뮤니 할아버지에게
-말을 걸고 연동 ID·게임 비밀번호
+말을 걸고 연동 ID・게임 비밀번호
 확인 항목을 선택해 주세요.
 [ENDBLOCK]
 커뮤니 할아버지
@@ -839,7 +839,7 @@ notice
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-제·게·맡·겨·요!
+제・게・맡・겨・요!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

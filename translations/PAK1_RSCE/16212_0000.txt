@@ -5,7 +5,7 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<S09>보통·웃음
+<S09>보통・웃음
 [ENDBLOCK]
 <S09>분노
 [ENDBLOCK]

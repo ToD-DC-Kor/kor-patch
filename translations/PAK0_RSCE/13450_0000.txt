@@ -142,7 +142,7 @@ notice
 	<Circle_ani>	전진
 	<Square_ani>	후진
 	<Left+Right_blink>	선회 (<L1_ani><R1_ani>로도 가능)
-	<Up+Down_blink>	상승·하강
+	<Up+Down_blink>	상승・하강
 	<R_stick_Press>	시점 변경
 	<Cross_ani>	비행룡에서 내리기
 			※언덕 위나 저지대처럼 걸을 수 없는 곳에는

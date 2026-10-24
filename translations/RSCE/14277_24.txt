@@ -255,7 +255,7 @@ select
 소년
 [ENDBLOCK]
 힘내라!	힘내라!
-폐·하!
+폐・하!
 [ENDBLOCK]
 소년
 [ENDBLOCK]

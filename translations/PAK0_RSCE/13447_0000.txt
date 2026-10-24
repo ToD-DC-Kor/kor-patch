@@ -107,7 +107,7 @@ select
 이정표
 [ENDBLOCK]
 북동: 다릴쉐이드 방면
-북서: 알메이다·하멘츠 방면
+북서: 알메이다・하멘츠 방면
  남 : 크레스타 방면
 [ENDBLOCK]
 이정표
@@ -174,11 +174,11 @@ select
 이정표
 [ENDBLOCK]
  북 : 사이릴
-북서: 하이델베르그·제노스 방면
+북서: 하이델베르그・제노스 방면
 [ENDBLOCK]
 이정표
 [ENDBLOCK]
- 북 : 하이델베르그·제노스 방면
+ 북 : 하이델베르그・제노스 방면
 북동: 사이릴 방면
 [ENDBLOCK]
 
@@ -220,7 +220,7 @@ notice
 	<Circle_ani>	전진
 	<Square_ani>	후진
 	<Left+Right_blink>	선회 (<L1_ani><R1_ani>로도 가능)
-	<Up+Down_blink>	상승·하강
+	<Up+Down_blink>	상승・하강
 	<R_stick_Press>	시점 변경
 	<Cross_ani>	시조룡에서 내리기
 			※산 위나 바다 위처럼 걸을 수 없는 곳에는

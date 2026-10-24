@@ -102,7 +102,7 @@ select
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-<red>적색 가스 장치·에코</color> 파괴
+<red>적색 가스 장치・에코</color> 파괴
 [ENDBLOCK]
 notice
 [ENDBLOCK]
