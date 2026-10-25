@@ -26,7 +26,7 @@
 
 ### 스크린샷
 
-<img src="./screenshots/select_story.png" width="23%"></img> <img src="./screenshots/main_menu.png" width="23%"></img> <img src="./screenshots/scenario.png" width="23%"></img> <img src="./screenshots/item.png" width="23%"></img> <img src="./screenshots/weapon.png" width="23%"></img> <img src="./screenshots/skill.png" width="23%"></img> <img src="./screenshots/skit_subtitle.png" width="23%"></img> 
+<img src="./screenshots/select_story.png" width="23%"></img> <img src="./screenshots/main_menu.png" width="23%"></img> <img src="./screenshots/scenario.png" width="23%"></img> <img src="./screenshots/item.png" width="23%"></img> <img src="./screenshots/weapon.png" width="23%"></img> <img src="./screenshots/skill.png" width="23%"></img> <img src="./screenshots/skit_subtitle.png" width="23%"></img>  <img src="./screenshots/battle_subtitle.png" width="23%"></img> 
 
 ### 상세
 
