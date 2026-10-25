@@ -2,8 +2,6 @@
 
 ## 공지
 
-검수 제보 또는 검수 참여자를 모집합니다. 디스코드 또는 제보를 작성해주세요.
-
 이 프로젝트는 1인 개발 및 소수의 검수 참여자로 진행되고 있습니다. 매 변경점마다 공개 검수 버전을 배포합니다.
 
 매 변경점을 배포하는 이유는 혼자서 검수할 수 있는 양에 한계가 있고, 공개 검수를 통해 더 빠른 완성을 목표로 하기 때문입니다.
@@ -24,7 +22,7 @@
 
 ### 요약
 
-모든 시나리오, 아이템, 스킬, 스킷 자막 AI를 통한 번역 완료. 실제 플레이하면서 캐릭터의 말투 등이 이상하게 번역된 부분을 교정해야 함. 검수 참여자 모집 중.
+모든 시나리오, 아이템, 스킬, 스킷 자막 AI를 통한 번역 완료. 실제 플레이하면서 나타나는 문제들은 제보를 통해 수정 중.
 
 ### 스크린샷
 
@@ -32,23 +30,22 @@
 
 ### 상세
 
-추출된 모든 문자열에 대해서는 초벌 AI기계 번역 완료. 검수에 참여할수록 완성에 더 빠르게 도달할 수 있습니다.
-
 번역:
 
 | | 번역 | 검수 |
 | - | - | - |
-| 시나리오 대사 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/10) |
-| 전투 튜토리얼 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/80) |
-| 스킷 자막 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/12) |
-| 스킷 제목 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/0) |
+| 시나리오 대사 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/80) |
+| 전투 튜토리얼 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/95) |
+| 스킷 자막 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/90) |
+| 스킷 제목 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/100) |
 | 영상 자막 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/33) |
-| 지명 | ![](https://geps.dev/progress/90) | ![](https://geps.dev/progress/0) |
-| 아이템 설명 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/80) |
-| 스킬 설명 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/80) |
-| 몬스터 도감 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/0) |
-| 몬스터 스킬 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/0) |
-| 몬스터 이름 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/0) |
+| 지명 | ![](https://geps.dev/progress/90) | ![](https://geps.dev/progress/60) |
+| 아이템 설명 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/95) |
+| 스킬 설명 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/95) |
+| 몬스터 도감 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/90) |
+| 몬스터 스킬 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/90) |
+| 몬스터 이름 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/90) |
+| 줄거리 책 | ![](https://geps.dev/progress/100) | ![](https://geps.dev/progress/100) |
 | UI 메뉴 | ![](https://geps.dev/progress/95) | ![](https://geps.dev/progress/100) |
 
 그래픽:
@@ -75,18 +72,12 @@
 
 상세한 것은 [CONTRIBUTING.md](./CONTRIBUTING.md)을 참고하세요.
 
-다음과 같은 방법으로 프로젝트에 기여할 수 있습니다.
-
-- 게임 플레이 후 화면에 잘못 표기되는 번역 문자열 [이슈](https://github.com/ToD-DC-Kor/kor-patch/issues/new/choose) 제보
-- 번역 오류/교정 Pull Request(PR) 작성
-- 그 외 기여
-  - 이슈에서 [🐤 help wanted](https://github.com/ToD-DC-Kor/kor-patch/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%A4+help+wanted%22) Label이 달린 항목을 클릭하여 도움이 필요한 이슈를 확인하고 기여해보세요.
-
 ## 제보
 
-제보는 이슈를 이용하세요.
+제보는 이슈나 디스코드를 이용하세요.
 
 - 버그 제보, 번역 오류 제보: <https://github.com/ToD-DC-Kor/kor-patch/issues/new/choose>
+- 디스코드 제보: https://discord.gg/aaZA9avVEz
 
 ## Tools
 
