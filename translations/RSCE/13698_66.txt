@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 b7902d0eb947fab53b212f666eb1a16cc43276c093247fbf201f093b7c3ebf75
 수녀
 [ENDBLOCK]
-세인
-[ENDBLOCK]
-가르드는 전 세계에서 가장
+세인가르드는 전 세계에서 가장
 독실한 신자들이 있는 나라입니다.
 [ENDBLOCK]
 수녀

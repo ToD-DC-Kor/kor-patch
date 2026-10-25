@@ -1,6 +1,5 @@
-<x17>r
-[ENDBLOCK]
-<x80>
+// RSCE_NATIVE_V1 6442c5152f61d52d80ad362c65f15b017bd9180700b2b8e3f2a2fdc6c29f2e93
+<x17>r<x00><x80>
 
 [ENDBLOCK]
 호출 중인가?

@@ -1,9 +1,8 @@
+// RSCE_NATIVE_V1 d5b5838960bde08ad15e6089433136994c0e5b7f11300bbe257ce569da99ea85
 여행자
 [ENDBLOCK]
 이야, 오랜만이야!
 세인가르드는 어땠어?
-[ENDBLOCK]
-<IGNORE>
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]

@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 ccf2003e4e912a87ccf9ab98d4fb17c221085e292fa719c67bbc7b81e4a8e915
 
 [ENDBLOCK]
-<x00>
-[ENDBLOCK]
-<x00>「누구나 알 수 있는 렌즈 이야기」라는
+<TAG_005>「누구나 알 수 있는 렌즈 이야기」라는
 책이 있다.
 [ENDBLOCK]
 select

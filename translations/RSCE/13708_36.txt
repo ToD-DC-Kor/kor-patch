@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 395c97242e14fe82254895612e8fdb8f78ed0f7e41905d2b7673e05d69cba745
 기술자
 [ENDBLOCK]
-성 안에
-[ENDBLOCK]
-는 연구소가 있어
+성 안에는 연구소가 있어
 우리나라 최고의 두뇌들이 모여 있습니다.
 [ENDBLOCK]
 기술자

@@ -1,5 +1,4 @@
-
-[ENDBLOCK]
+// RSCE_NATIVE_V1 bf83ee7a4c8a567dae79c049d30cff95a5876d31ee723e4278d13ecdad71a04f
 
 [ENDBLOCK]
 <TAG_005>어딘가 그리운 느낌이 드는

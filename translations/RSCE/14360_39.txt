@@ -1,8 +1,5 @@
- mset_person_
-[ENDBLOCK]
-
-[ENDBLOCK]
-fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+// RSCE_NATIVE_V1 96f666bff1af46588ab9b37dd793d0aa851f2811487e0b71b72b9d81ce1d5999
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x08><xAA><x80>

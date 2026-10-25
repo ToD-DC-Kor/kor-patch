@@ -1,9 +1,8 @@
+// RSCE_NATIVE_V1 1feadbd1225018e8708409816b9315941f9f89cb74b32502443492773dd6fa2b
 <Lion>
 [ENDBLOCK]
 본 적 없는 녀석들이다.
 이놈들이 정체불명의 몬스터인가!
-[ENDBLOCK]
-<IGNORE>
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 738d5f889b8804b2e8413f21bd48f1d5d2e6e49d555b297716af5e982ea7807f
 select
 [ENDBLOCK]
-
-[ENDBLOCK]
-<x00><x00>합류하시겠습니까?
+<TAG_007>합류하시겠습니까?
 예
 아니요
 

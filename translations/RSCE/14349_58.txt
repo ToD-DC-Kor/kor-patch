@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 26dc7daadfc5eba650e3608a255aca42c36d2e6c4b2f8241a4a4a0e324e9815e
 <Stahn>
 [ENDBLOCK]
 <Greybum>!	이번에야말로 끝이다!

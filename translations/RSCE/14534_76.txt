@@ -1,5 +1,4 @@
-
-[ENDBLOCK]
+// RSCE_NATIVE_V1 6ab468e45badb70ff2f30fe08bfd87dcc150ad7b286e6ffac1d6e473b9f269c9
 <Dymlos>
 [ENDBLOCK]
 여기는 소디언 팀.

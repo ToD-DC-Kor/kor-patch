@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 75e462b30fef79d9513b327b6d94630219c6b7bf88c63441ed015b67ad5e6de2
 <Rutee>
 [ENDBLOCK]
 어라?	이 근처는……

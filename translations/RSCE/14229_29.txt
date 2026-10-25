@@ -1,10 +1,7 @@
+// RSCE_NATIVE_V1 d969421e965f0b2b6d7044bff92ce228ac658f961660f48fd96fd7f66d094d99
 
 [ENDBLOCK]
-<x00>
-[ENDBLOCK]
-
-[ENDBLOCK]
-<x00>탄생 ５０주년 축제 기념 모형
+<TAG_005>탄생 ５０주년 축제 기념 모형
 왕립선 퀸 마사호
 [ENDBLOCK]
 글라스

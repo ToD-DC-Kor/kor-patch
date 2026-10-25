@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 361298e0ee4971c3c55de62adf19a76b1d2813d8eccd26b49b8b3ef85f4d9181
 select
 [ENDBLOCK]
-<x19><x6A><x00><x80>
-[ENDBLOCK]
-을(를) 파티에 복귀시키겠습니까?
+<x19><x6A><x00><x80>을(를) 파티에 복귀시키겠습니까?
 예
 아니요
 [ENDBLOCK]

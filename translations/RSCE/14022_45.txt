@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 db10831d57e060b9035eeb4692b73d8add5b0b116b21dc711f1e5cc06b0aed56
 선장
 [ENDBLOCK]
 피츠가르드는 독립국입니다.

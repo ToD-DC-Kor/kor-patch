@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 bd294bdcf974cc7016d0965c1aed054e805f3d5d0b0d4b69608d4571305db7e1
 <Lion>
 [ENDBLOCK]
 <Marian>을…… 만날 수 있는 건가.

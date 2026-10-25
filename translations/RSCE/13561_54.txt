@@ -1,10 +1,7 @@
+// RSCE_NATIVE_V1 9c34e21bb93a6e1d31367fd1145968f69e221a9aeb2bf929f3c7af197ac89bb5
 
 [ENDBLOCK]
-<x00><x00>
-[ENDBLOCK]
-
-[ENDBLOCK]
-반응이 없다……
+<TAG_005>반응이 없다……
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]

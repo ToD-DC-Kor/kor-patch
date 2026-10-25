@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 27cec0e5be85c991e109083f2450599fa6038cab255c3b5a704dc284fc6fdf0d
 여관 주인
 [ENDBLOCK]
 어서 오세요, 여행자님.
-[ENDBLOCK]
-<IGNORE>
 [ENDBLOCK]
 여관 주인
 [ENDBLOCK]

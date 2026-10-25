@@ -1,6 +1,5 @@
-×××××<x9A>
-[ENDBLOCK]
-<xD4>하늘 시작××××××
+// RSCE_NATIVE_V1 04a6af4e19f478165e87790217fa6795f9a4c0ccfe9e4d69fecdc342eadff25d
+×××××<x9A><xD4>하늘 시작××××××
 
 [ENDBLOCK]
 단계 없음：D1R_EPI001START 	～	D1R_032_030_000

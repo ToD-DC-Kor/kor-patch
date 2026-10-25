@@ -1,7 +1,5 @@
+// RSCE_NATIVE_V1 e24c2094368ebfe6bd18caa874cb323a4078046b3f5376faca7f4580003ebbac
     hight : <x1D><x76><x40><x40><x80>    h : <x1D><x76><x40><x44><x80>
-[ENDBLOCK]
-<IGNORE>
-
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -240,8 +238,6 @@ notice
 그럴 때는 마을 사람의 대사와 관련 있어 보이는
 칭호를 설정하고 다시 말을 걸어 보세요.
 뭔가 좋은 일이 일어날지도 모릅니다.
-[ENDBLOCK]
-<IGNORE>
 [ENDBLOCK]
 notice
 [ENDBLOCK]

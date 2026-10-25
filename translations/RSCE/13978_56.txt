@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 61bdfd683a914712bfac4d0ba4857644a46a103a3be61284d89d07ed2d04b830
 <x19><x72><x00><x80>=>x,y,z(<x1D><x72><x00><x20><x14><x6D><x80>,<x1D><x72><x00><x21><x14><x6D><x80>,<x1D><x72><x00><x24><x02><x14><x6D><x80>)
 
 [ENDBLOCK]

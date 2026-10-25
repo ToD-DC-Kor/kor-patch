@@ -1,6 +1,5 @@
- mset_perso
-[ENDBLOCK]
-n_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+// RSCE_NATIVE_V1 92e6b67eaf051be78ec489bdb4add3e81702bef56bdd6d488c5ea8b71e809df0
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 reset_camera_homing!!!   <x17><x75><x48><x54><x75><x48><x58><x8C><x80>

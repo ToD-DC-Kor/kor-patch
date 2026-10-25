@@ -1,6 +1,5 @@
-××××××하늘
-[ENDBLOCK]
-시작××××××
+// RSCE_NATIVE_V1 8eb87b6d0f83c3dd221eefcb82201052a41c233c66a545ab27f1e5c5198f5913
+××××××하늘시작××××××
 
 [ENDBLOCK]
 ××××××하늘 종료××××××

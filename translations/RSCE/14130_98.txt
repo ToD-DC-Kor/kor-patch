@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 6fd76545ffbf24fcfcccccc722b158ed52b54e82ec12166d82b8ec532756d830
 <Fayte>
 [ENDBLOCK]
-그래서 
-[ENDBLOCK]
-사건의 진상은 밝혀냈나?
+그래서 사건의 진상은 밝혀냈나?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]

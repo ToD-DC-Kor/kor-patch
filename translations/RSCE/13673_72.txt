@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 14bc2050125af9d67ea6a4f3264d029fda2b6770beddbf0661c4c8e426fc61ac
 여행자
 [ENDBLOCK]
 이야, 오랜만이야!

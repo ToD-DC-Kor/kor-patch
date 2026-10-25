@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 89e266f9bea46b7616088d650facc253651b63a6e5965e812ce80cc4ac2bdec4
 주인
 [ENDBLOCK]
 <Tiberius>는 자신에게 거역하거나

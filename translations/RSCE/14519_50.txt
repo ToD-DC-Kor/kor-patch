@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 5f6062d5313951ae4fe0f16189ed8c1092bef9c85915090f7da14ae1f65bfe8e
 notice
 [ENDBLOCK]
 쥐에게 에너지 유닛을 빼앗겼습니다.

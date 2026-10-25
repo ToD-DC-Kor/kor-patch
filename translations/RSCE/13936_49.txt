@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 658df155931e002fa63b01e6a1c2dfce67dcd86cd3656fe3680c2dd4c91cf19b
 
 [ENDBLOCK]
 <TAG_005>일기
-[ENDBLOCK]
-
 계속 １０대이고 싶었다.
 어른 따위 되고 싶지 않아……
 [ENDBLOCK]

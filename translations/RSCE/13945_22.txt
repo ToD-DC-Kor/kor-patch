@@ -1,8 +1,5 @@
+// RSCE_NATIVE_V1 abaa7b3c71f85c1f823abaad2640e847163c2c31bc26c9fce0012e92d9aa316a
 여관
-[ENDBLOCK]
-
-[ENDBLOCK]
-
 [ENDBLOCK]
 어서 오세요, 여행자님.
 [ENDBLOCK]

@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 532a877eba34a1e057827a2986c1a0fa053aa78b44e461b0c1636f46be0ea946
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]

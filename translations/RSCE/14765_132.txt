@@ -1,6 +1,5 @@
-sele
-[ENDBLOCK]
-ct
+// RSCE_NATIVE_V1 47d1316630d9eb34c89ccf17c2feb635b3fb99b830796219a87b6377f961d7e1
+select
 [ENDBLOCK]
 <TAG_007>입구로 돌아가시겠습니까?
 예

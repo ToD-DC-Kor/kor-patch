@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 24309ece47c4f1b550b574e92d779a42721078f52dbf5289d1194eefc8d916e1
 세인가르드 병사
 [ENDBLOCK]
 크레스타 주둔 명령을 받았을 때는

@@ -1,8 +1,5 @@
- m
-[ENDBLOCK]
-
-[ENDBLOCK]
-set_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+// RSCE_NATIVE_V1 0a0c6c3f4d7aca0c36dff326218d85ed4b9b44b33df1157dbe48dd9ecfb82bc0
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 반지름이다<x1D><x76><x40><x4C><x80> ,<x1D><x76><x40><x50><x80>

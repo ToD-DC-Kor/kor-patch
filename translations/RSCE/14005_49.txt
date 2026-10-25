@@ -1,10 +1,5 @@
-<x9A>
-[ENDBLOCK]
-<xD4>××<x9A>
-[ENDBLOCK]
-
-[ENDBLOCK]
-<xD4>××하늘 시작××××××
+// RSCE_NATIVE_V1 981a61bb5cdf9ee52cf5766e4cff3e343ae7431926e4ceb047d29964700c555d
+<x9A><xD4>××<x9A><xD4>××하늘 시작××××××
 
 [ENDBLOCK]
 ××××××하늘 종료××××××
@@ -436,13 +431,13 @@ select
 플레이어----->
 
 [ENDBLOCK]
-현재 상태：<x17><x71><x80> <x80>
+현재 상태：<x17><x71><x80> <x15><x80>
 
 [ENDBLOCK]
-현재 바퀴 수：<x17><x71><x80>$<x80>
+현재 바퀴 수：<x17><x71><x80>$<x15><x80>
 
 [ENDBLOCK]
-현재 플래그：<x17><x71><x80>(<x80>
+현재 플래그：<x17><x71><x80>(<x15><x80>
 
 [ENDBLOCK]
 목표 좌표：<x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
@@ -451,13 +446,13 @@ select
 마하 소년----->
 
 [ENDBLOCK]
-현재 상태：<x17><x71><x80><xCC><x80>
+현재 상태：<x17><x71><x80><xCC><x14><x80>
 
 [ENDBLOCK]
-현재 바퀴 수：<x17><x71><x80><xD0><x80>
+현재 바퀴 수：<x17><x71><x80><xD0><x14><x80>
 
 [ENDBLOCK]
-현재 플래그：<x17><x71><x80><xD4><x80>
+현재 플래그：<x17><x71><x80><xD4><x14><x80>
 
 [ENDBLOCK]
 목표 좌표：<x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
@@ -522,7 +517,7 @@ select
 설명 완료：<x17><x24><x81><x14><x2F><x80>
 
 [ENDBLOCK]
-전송 대상：<x1D><x75><x80><xB4><x14><x80><x2C><x20><x1D>u<x80><xB8><x14><x80><x2C><x20><x1D>u<x80><xBC><x80>
+전송 대상：<x1D><x75><x80><xB4><x14><x80><x2C><x20><x1D>u<x80><xB8><x14><x80><x2C><x20><x1D>u<x80><xBC><x14><x80>
 
 [ENDBLOCK]
 <Philia>
@@ -738,7 +733,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x18><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x08><x18><x98><x80>
 [ENDBLOCK]
 <x18><x65><x90><x04><x18><x00><x80></color>을(를) 획득했습니다.
 

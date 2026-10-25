@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 315dc15f9d12db1b3d787264d2abc61a4ea965c8048a1700f5afef291b709679
 파티 변경
 [ENDBLOCK]
 <TAG_007>파티를 교체하시겠습니까?

@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 f009546942b6f04aaaac49f5356c6e6c39fe9337af8861f08bc4eaf02b711be7
 notice
 [ENDBLOCK]
-쥐
-[ENDBLOCK]
-에게 에너지 유닛을 빼앗겼습니다.
+쥐에게 에너지 유닛을 빼앗겼습니다.
 
 [ENDBLOCK]
 쥐에게서 에너지 유닛을

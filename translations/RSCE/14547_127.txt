@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 28fba52dc1186f046fff436050ea7858a063844d211810ac934c9f557ca58e31
 ・RBOMB_STATE_WAKEUP→→→RBOMB_STATE_STOP
 
 [ENDBLOCK]
@@ -225,7 +226,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><xA8><x98><x80>
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><xA8><x12><x98><x80>
 [ENDBLOCK]
 <x18><x65><x90><xA4><x12><x00><x80></color>을(를) 획득했습니다.
 
@@ -258,7 +259,7 @@ notice
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x80><x98><x80>은(는)
+<x19><x69><x80><x98><x12><x80>은(는)
 [ENDBLOCK]
 notice
 [ENDBLOCK]

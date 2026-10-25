@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 0b4a3eafa9933edaa4d23bd7302c28640c80a20911316ca08d0b010291478b9c
 
 [ENDBLOCK]
-
-[ENDBLOCK]
-<x00><x00><x00><x00><Stahn>이 어렸을 때 무서워하던
+<TAG_005><Stahn>이 어렸을 때 무서워하던
 새 장식품이 있다.
 [ENDBLOCK]
 촌장

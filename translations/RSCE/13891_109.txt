@@ -1,14 +1,8 @@
-<x00>
-[ENDBLOCK]
+// RSCE_NATIVE_V1 ff3c11eeca1459d70556cebcc13f285caa3b4025579bb21d498c85420b4ff66a
 
+<TAG_005>
 [ENDBLOCK]
-너
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-의 무식한 힘으로 어떻게든 해 봐.
+너의 무식한 힘으로 어떻게든 해 봐.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 e963d562baf8edde612b85b9c6a01e8d37ece432065ea662426f961cf8fc790a
 <Clemente>
 [ENDBLOCK]
-이
-[ENDBLOCK]
-대로는 목적지에
+이대로는 목적지에
 갈 수 없구나.
 [ENDBLOCK]
 <Clemente>

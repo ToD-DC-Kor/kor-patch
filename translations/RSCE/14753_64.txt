@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 bde045106a806cc11c32d9151834f7e36d332e4bef14cc42e0ed8b9114863c68
 select
 [ENDBLOCK]
 <TAG_007>입구로 돌아가시겠습니까?

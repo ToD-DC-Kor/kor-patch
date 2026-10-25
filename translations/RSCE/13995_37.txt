@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 4296db5f9913d1f0df81f5bb97a2610058c373abbbb4bdc917c9fb8155e3618f
 
 [ENDBLOCK]
 <TAG_005>상자 안에는 아무것도 없었다.

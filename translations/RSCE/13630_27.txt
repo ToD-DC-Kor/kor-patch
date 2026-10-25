@@ -1,9 +1,8 @@
+// RSCE_NATIVE_V1 4a5a1286c32790c43485090fd466e89b28fd734b37083deae7fc21b0861df5c1
 여행자
 [ENDBLOCK]
 하하하, 여행하는데
 아이까지 데리고 다니면 힘들겠지?
-[ENDBLOCK]
-<IGNORE>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

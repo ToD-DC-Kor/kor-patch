@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 2196ea055d70a5f77922ab7379642c1ae617055876bd653ac044e9b83162fba4
 select
 [ENDBLOCK]
-<TAG_007>입
-[ENDBLOCK]
-구로 돌아가시겠습니까?
+<TAG_007>입구로 돌아가시겠습니까?
 예
 아니요
 [ENDBLOCK]

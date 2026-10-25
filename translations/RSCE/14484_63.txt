@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 b0dcdbc4d69de9f408077acc911e06ad38b861925ff3bc077e108f76470c33a9
 select
 [ENDBLOCK]
 <x19><x6A><x00><x80>을(를) 파티에 복귀시키겠습니까?

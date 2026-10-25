@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 7130ffb40ae27ec480c780f1c7b68ab6c3004a1e2a765809bdaa0e1c16b3757a
 몬스터 연구자
 [ENDBLOCK]
 여기서는 세계 곳곳의 몬스터를

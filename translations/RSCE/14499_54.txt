@@ -1,6 +1,5 @@
-n
-[ENDBLOCK]
-otice
+// RSCE_NATIVE_V1 ded179312af36203bde1a2d8080dc0d71d2d1540fb06a28e2a63cd93ce881988
+notice
 [ENDBLOCK]
 <TAG_007>현재 소지 가르드: <TAG_033>가르드
 [ENDBLOCK]

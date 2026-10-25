@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 0486d6dcfc05279f9197cd4de8428fcf4b557337683f925523cf147bf124413e
 오브젝트 조작 모드 시작
 Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 

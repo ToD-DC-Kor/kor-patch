@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 48dbd7db5bbe156b494d1bdb938251b538fbe25fc363d278660ea9e564872b9a
 여관 주인
 [ENDBLOCK]
 오늘 식재료를 잘못 들여서

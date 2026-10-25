@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 6991b6a8b8d4571a6907ef0d2e374fb10598cfae75b9d6d5c6ade6d24abbb871
 【BGM : no=<TAG_031> - vol=<TAG_032>】
 [ENDBLOCK]
 

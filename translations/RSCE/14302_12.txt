@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 b8ac796d19e8b75b2d2a52e8eb9252580af4d64c5a4f5a9e90c4ded11592df76
 술집 주인
 [ENDBLOCK]
 여긴 반란군도 자주 옵니다.

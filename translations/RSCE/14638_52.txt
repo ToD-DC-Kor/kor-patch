@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 92dc5d179a2cc2f1720118cb966dc993a7129fd0fa06eea7f545880d3d6314a1
 reset_camera_honimg!!!!!!!!!!!!!!!
 
 [ENDBLOCK]

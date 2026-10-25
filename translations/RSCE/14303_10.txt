@@ -1,9 +1,8 @@
+// RSCE_NATIVE_V1 15c7163a3b659c94b43117b2bbb682b5c44ea541c4ddf648e70b92fd38d8fc92
 여성
 [ENDBLOCK]
 이 차림을 해 줄 테니
 눈을 치우라고 남편한테 말했어.
-[ENDBLOCK]
-<IGNORE>
 [ENDBLOCK]
 여성
 [ENDBLOCK]

@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 8423240f49154be917ef0a9c61db14ea83363a73f5d57ee7382fe67e1e9394fd
 여관 주인
 [ENDBLOCK]
 숙박하시려는 건 아니군요.

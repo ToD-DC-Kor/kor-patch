@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 b95282c6682da4758cb063f3e49fcb2f99332a32d987a836ccabd4dfd0f71d44
 <Leader>
 [ENDBLOCK]
 사람 목소리가 들려.

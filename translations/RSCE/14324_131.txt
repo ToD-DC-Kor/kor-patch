@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 1b1cb32a5450bade670e35629ce3785cfff0b43fc0cb500c8fe9e0aa222ef3c7
 <Darzen>
 [ENDBLOCK]
 전하, 쉬시겠습니까?

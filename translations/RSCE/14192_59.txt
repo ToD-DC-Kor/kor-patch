@@ -1,10 +1,7 @@
+// RSCE_NATIVE_V1 ec32354afe0eedd0e9b73918a1d7f001e1524965a8d93f4faf38ae7a9298ad23
 
 [ENDBLOCK]
-<TAG_005>아무것도 들어
-[ENDBLOCK]
-
-[ENDBLOCK]
- 있지 않다.
+<TAG_005>아무것도 들어 있지 않다.
 
 [ENDBLOCK]
 

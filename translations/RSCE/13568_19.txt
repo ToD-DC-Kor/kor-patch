@@ -1,10 +1,7 @@
+// RSCE_NATIVE_V1 be047edfbcea23dc24d459ce0298a7ab376952fbd14bcb6d3c0e04dca6f36740
 
 [ENDBLOCK]
-<x00><x00>
-[ENDBLOCK]
-
-[ENDBLOCK]
-반응이 없다……
+<TAG_005>반응이 없다……
 [ENDBLOCK]
 notice
 [ENDBLOCK]

@@ -1,8 +1,5 @@
-□SafePac
-[ENDBLOCK]
-
-[ENDBLOCK]
-k Level 1 Get
+// RSCE_NATIVE_V1 3d98cc001d567d46ce0daaf8ce7a0652c7ccf586bfd7ed881ea59113c0904b66
+□SafePack Level 1 Get
 
 [ENDBLOCK]
 □SafePack Level 2 Get

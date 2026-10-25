@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 fa5bdb13f76aec3cd2129ee8f7405eb47bfbe61b7f88f3179fac670376a65ab8
 notice
 [ENDBLOCK]
 <TAG_007>현재 소지 가르드: <TAG_033>가르드

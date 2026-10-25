@@ -1,28 +1,7 @@
+// RSCE_NATIVE_V1 a583f6ddf49fae909ed9819f864f8fd15e1e2d428ea85a3b083a9a5cdcc9a10e
 <King>
 [ENDBLOCK]
-<Lion>,
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
- 스트레이라이즈 신전 조사를
+<Lion>, 스트레이라이즈 신전 조사를
 확실히 부탁하네.
 [ENDBLOCK]
 <King>

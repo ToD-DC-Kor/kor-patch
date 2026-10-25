@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 49d24019060310e7bea59412dc6160e0e6b75b1105ab6b2809ab51fd5925e6b1
 ×××××××××××××××××××××
 
 [ENDBLOCK]

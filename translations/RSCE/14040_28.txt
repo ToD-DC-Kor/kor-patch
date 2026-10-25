@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 44c9b56534e312f07d3102b2a2566ebb6ab71d2c1345b15e28e8f1a3ccf07ce2
 남자
 [ENDBLOCK]
-요즘은 
-[ENDBLOCK]
-정신 차려 보면 여기에
+요즘은 정신 차려 보면 여기에
 와 있곤 합니다.
 [ENDBLOCK]
 남자

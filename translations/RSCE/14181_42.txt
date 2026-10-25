@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 cc911518bee3619e3975eda2d859fb82ad1f069b1f47f3f5fec0e41c9c9806a3
 여관 주인
 [ENDBLOCK]
 어서 와. 우리 여관은

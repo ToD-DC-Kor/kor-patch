@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 6c6ec7243048b433fee4eee3d13b81004b0d4f1ae85504ca465fdccba62880f7
 notice
 [ENDBLOCK]
-<TAG_007>현
-[ENDBLOCK]
-재 소지 가르드:<TAG_033>가르드
+<TAG_007>현재 소지 가르드:<TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 예

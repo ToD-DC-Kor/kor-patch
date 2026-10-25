@@ -1,7 +1,7 @@
-
+// RSCE_NATIVE_V1 b35d871b0875c111bc6664d6dafe167f0c33e9e214cf15ad8c3748ff6dbb9ece
 
-[ENDBLOCK]
-<x00><x00>
+
+
 [ENDBLOCK]
 여기가 이그나시인가……
 [ENDBLOCK]

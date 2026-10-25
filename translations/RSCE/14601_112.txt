@@ -1,6 +1,5 @@
-잘못된 애니
-[ENDBLOCK]
-메이션입니다＝state→<x17><x66><x14><xEF><x70><x40><x5C><xAB><x80>
+// RSCE_NATIVE_V1 6a7e20a0aa01c2cd459708c4a016b2a3cd0a3bc94a68fba4e9e714317bf949ce
+잘못된 애니메이션입니다＝state→<x17><x66><x14><xEF><x70><x40><x5C><xAB><x80>
 
 [ENDBLOCK]
 잘못된 애니메이션입니다＝state→<x17><x66><x14><xEF><x70><x40><x5C><xAB><x80>

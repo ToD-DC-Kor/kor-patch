@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 468d6067aede07f592d70fc5ad7129698e23499204f4b8983c25bce92f4856a2
 <Stahn>
 [ENDBLOCK]
 여기가 해저 동굴 입구구나.

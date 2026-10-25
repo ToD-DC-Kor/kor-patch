@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 879e487ea2ae78c13be59bc82304283f1350858ff0f67fa4c1d2dcc37f6ba08a
 <Lion>
 [ENDBLOCK]
 고집 센 녀석.

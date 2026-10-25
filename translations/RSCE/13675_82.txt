@@ -1,8 +1,7 @@
+// RSCE_NATIVE_V1 ab084aecea81ee181cc10ad58a3d4202978dd2059507ec814d9f1d7fe0503ccd
 
 [ENDBLOCK]
-
-[ENDBLOCK]
-<x00><x00>방 안 가득 취향이 나쁜
+<TAG_005>방 안 가득 취향이 나쁜
 물건들이 장식되어 있다.
 [ENDBLOCK]
 비서

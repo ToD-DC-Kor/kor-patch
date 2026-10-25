@@ -1,5 +1,4 @@
-
-[ENDBLOCK]
+// RSCE_NATIVE_V1 f6bf294ff8b2a3cbc0c210beff12dc50a67c86b39b8578adddb93d811abbef6a
 <Stahn>
 [ENDBLOCK]
 이야~ 바다는 참 넓고

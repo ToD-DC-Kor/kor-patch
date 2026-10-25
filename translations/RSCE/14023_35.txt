@@ -1,12 +1,7 @@
+// RSCE_NATIVE_V1 37cfcf932c4c6781541327a837d7f8dbd55190b99f3c6a5263022d2ce59362d5
 어머니
 [ENDBLOCK]
-오랜만에
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-아들을 보러 왔는데
+오랜만에아들을 보러 왔는데
 내가 드러눕고 말다니.
 [ENDBLOCK]
 어머니

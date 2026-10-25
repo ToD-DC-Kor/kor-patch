@@ -1,18 +1,7 @@
+// RSCE_NATIVE_V1 5619098b0023f068ecdfd15cdc4576a7a42903b9d2ef21d6de0af276dd0e615e
 
 [ENDBLOCK]
-<TAG_005>종이에
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
- 무언가 문자가 줄지어 있다.
+<TAG_005>종이에 무언가 문자가 줄지어 있다.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

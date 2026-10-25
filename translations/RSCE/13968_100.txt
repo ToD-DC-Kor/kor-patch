@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 ad9d17061341356aae8bbe1de612823b7d409fa8252e004eea5be0bd64ddc188
 
 [ENDBLOCK]
 <TAG_005>조서에는 글레밤과의 관계를

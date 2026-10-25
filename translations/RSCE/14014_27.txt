@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 cc4da4f9b4319dede38b27691be76acc5c2966ecc27f437d9a15f10aafed79f8
 프런트 직원
 [ENDBLOCK]
 어서 오세요. 저희 호텔에 오신 걸 환영합니다.

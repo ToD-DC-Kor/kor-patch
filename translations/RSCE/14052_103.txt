@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 bb72c63983c71528766305dc14a259cf55b0ce61869d0aac5ad98efd3e86b2db
 잘못된 애니메이션입니다＝state→<x17><x66><x14><xEF><x70><x40><x5C><xAB><x80>
 
 [ENDBLOCK]

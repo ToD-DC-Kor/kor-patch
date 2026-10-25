@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 c032ff4ebfe98113bd7c48a00c5379e549a3cca12a2f98482b08634946a0cb3b
 ××××××하늘 시작××××××
 
 [ENDBLOCK]

@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 180feb37a86caf7006a3102fd756703ea03549b05c0195d8512a4d5f8398bcac
 □SafePack Level 1 Get
 
 [ENDBLOCK]
@@ -864,7 +865,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80>0<x98><x80>
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80>0<x12><x98><x80>
 [ENDBLOCK]
 <x18><x65><x90><x2C><x12><x00><x80></color>을(를) 획득했습니다.
 
@@ -897,7 +898,7 @@ notice
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x80> <x80>은(는)
+<x19><x69><x80> <x12><x80>은(는)
 [ENDBLOCK]
 notice
 [ENDBLOCK]

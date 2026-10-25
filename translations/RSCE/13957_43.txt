@@ -1,10 +1,5 @@
-××<x9A>
-[ENDBLOCK]
-
-[ENDBLOCK]
-<xD4>×<x9A>
-[ENDBLOCK]
-<xD4>×하늘 시작××××××
+// RSCE_NATIVE_V1 bfbb7462b9dbfb5cbcb053bad023edd1e0e4f3e7d62426c5504f75c8d5f86316
+××<x9A><xD4>×<x9A><xD4>×하늘 시작××××××
 
 [ENDBLOCK]
 ××××××하늘 종료××××××

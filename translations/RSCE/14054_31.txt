@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 b7c4dea68f52c480c731bb21c2fd3c676852e283e677bfe39f720e39c63f8109
 잘못된 애니메이션입니다＝state→<x17><x66><x14><xEF><x70><x40><x5C><xAB><x80>
 
 [ENDBLOCK]
@@ -60,7 +61,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><xF8><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><xF8><x10><x98><x80>
 [ENDBLOCK]
 <x18><x65><x90><xF4><x10><x00><x80></color>을(를) 획득했습니다.
 

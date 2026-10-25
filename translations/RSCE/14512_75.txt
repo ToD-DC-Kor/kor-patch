@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 a3dc12eb1353582a48796d486627a24ffc672c6131d49297ceb6fcad2904fb6f
 <Clemente>
 [ENDBLOCK]
 이대로는 목적지에
