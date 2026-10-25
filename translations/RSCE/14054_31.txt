@@ -35,7 +35,7 @@ notice
 예
 아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><xD4><x10><x80><x3C><x2F><x63>olor>이(가)
+<TAG_007><S03><turquoise><x19><x71><x80><xD4><x10><x80></color>이(가)
 [ENDBLOCK]
 파티에 합류했습니다.
 [ENDBLOCK]
@@ -53,7 +53,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><xD4><x10><x80><x3C><x2F><x63>olor>이(가)
+<TAG_007><S03><turquoise><x19><x71><x80><xD4><x10><x80></color>이(가)
 [ENDBLOCK]
 파티에서 빠졌습니다.
 [ENDBLOCK]
@@ -66,35 +66,35 @@ notice
 <x18><x65><x90><xF4><x10><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x80>藩<x80> 일행은
+<x19><x69><x80><xE8><x10><x80> 일행은
 [ENDBLOCK]
 <turquoise>교역 칭호
 [ENDBLOCK]
-<x19><x69><x80>藩<x80> 일행은
+<x19><x69><x80><xE8><x10><x80> 일행은
 [ENDBLOCK]
 <turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x80>藩<x80> 일행은
+<x19><x69><x80><xE8><x10><x80> 일행은
 [ENDBLOCK]
 <turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x80>藩<x80> 일행은
+<x19><x69><x80><xE8><x10><x80> 일행은
 [ENDBLOCK]
 칭호: <turquoise>내추레인저
 [ENDBLOCK]
-<x19><x69><x80>藩<x80> 일행은
+<x19><x69><x80><xE8><x10><x80> 일행은
 [ENDBLOCK]
 칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x80>藩<x80> 일행은
+<x19><x69><x80><xE8><x10><x80> 일행은
 [ENDBLOCK]
 <turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x80>藩<x80> 일행은
+<x19><x69><x80><xE8><x10><x80> 일행은
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x80>藩<x80>은(는)
+<x19><x69><x80><xE8><x10><x80>은(는)
 [ENDBLOCK]
 notice
 [ENDBLOCK]

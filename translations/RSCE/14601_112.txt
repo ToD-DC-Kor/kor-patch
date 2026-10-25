@@ -123,7 +123,7 @@ notice
 예
 아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80> <x17><x80></color>이(가)
+<TAG_007><S03><turquoise><x19><x71><x80><x20><x17><x80></color>이(가)
 [ENDBLOCK]
 파티에 합류했습니다.
 [ENDBLOCK]
@@ -141,7 +141,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80> <x17><x80></color>이(가)
+<TAG_007><S03><turquoise><x19><x71><x80><x20><x17><x80></color>이(가)
 [ENDBLOCK]
 파티에서 빠졌습니다.
 [ENDBLOCK]
@@ -149,40 +149,40 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80>D<x17><x98><x80>
+칭호：<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x44><x17><x98><x80>
 [ENDBLOCK]
 <x18><x65><x90><x40><x17><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x80>4<x17><x80> 일행은
+<x19><x69><x80><x34><x17><x80> 일행은
 [ENDBLOCK]
 <turquoise>교역 칭호
 [ENDBLOCK]
-<x19><x69><x80>4<x17><x80> 일행은
+<x19><x69><x80><x34><x17><x80> 일행은
 [ENDBLOCK]
 <turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x80>4<x17><x80> 일행은
+<x19><x69><x80><x34><x17><x80> 일행은
 [ENDBLOCK]
 <turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x80>4<x17><x80> 일행은
+<x19><x69><x80><x34><x17><x80> 일행은
 [ENDBLOCK]
 칭호: <turquoise>내추레인저
 [ENDBLOCK]
-<x19><x69><x80>4<x17><x80> 일행은
+<x19><x69><x80><x34><x17><x80> 일행은
 [ENDBLOCK]
 칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x80>4<x17><x80> 일행은
+<x19><x69><x80><x34><x17><x80> 일행은
 [ENDBLOCK]
 <turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x80>4<x17><x80> 일행은
+<x19><x69><x80><x34><x17><x80> 일행은
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x80>4<x17><x80>은(는)
+<x19><x69><x80><x34><x17><x80>은(는)
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -267,7 +267,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x80> <x17><x80>의 소디언 디바이스를
+<TAG_007><x19><x71><x80><x20><x17><x80>의 소디언 디바이스를
 사용할 수 있게 되었습니다.
 [ENDBLOCK]
 notice

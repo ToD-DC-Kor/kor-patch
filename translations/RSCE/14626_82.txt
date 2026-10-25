@@ -1,5 +1,5 @@
 // RSCE_NATIVE_V1 10a4473b4803ec99381f01d01c24461616b04450cd3cf04f4a95847a65dc5782
-set_disp_off(<x17><x45><x5B><x8C><x03><x46><x50><x14><x03><x72><x04><x8B><xE8><x80><x8B>浮<x80>)
+set_disp_off(<x17><x45><x5B><x8C><x03><x46><x50><x14><x03><x72><x04><x8B><xE8><x80><x8B><xE8><x80><x80>)
 
 [ENDBLOCK]
 notice

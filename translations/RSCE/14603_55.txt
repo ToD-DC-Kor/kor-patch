@@ -1,6 +1,5 @@
 // RSCE_NATIVE_V1 98c1c5d98c3dc3f0c3d5baefc99d7476d8f0dc490ddcdd4f757fa722c514217d
-
-<x0F>
+<Clemente>
 [ENDBLOCK]
 여기가 슈사이아의 정문이다.
 [ENDBLOCK]

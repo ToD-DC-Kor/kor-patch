@@ -330,6 +330,7 @@
 [ENDBLOCK]
 <Chelsea>!	어이!
 ……없구먼. 또 뒷산에 갔나.
+
 [ENDBLOCK]
 ？？？
 [ENDBLOCK]

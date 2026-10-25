@@ -431,13 +431,13 @@ select
 플레이어----->
 
 [ENDBLOCK]
-현재 상태：<x17><x71><x80> <x15><x80>
+현재 상태：<x17><x71><x80><x20><x15><x80>
 
 [ENDBLOCK]
-현재 바퀴 수：<x17><x71><x80>$<x15><x80>
+현재 바퀴 수：<x17><x71><x80><x24><x15><x80>
 
 [ENDBLOCK]
-현재 플래그：<x17><x71><x80>(<x15><x80>
+현재 플래그：<x17><x71><x80><x28><x15><x80>
 
 [ENDBLOCK]
 목표 좌표：<x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
@@ -1503,40 +1503,40 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><<x18><x98><x80>
+칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x3C><x18><x98><x80>
 [ENDBLOCK]
 <x18><x65><x90><x38><x18><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80> 일행은
+<x19><x69><x80><x2C><x18><x80> 일행은
 [ENDBLOCK]
 <turquoise>교역 칭호
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80> 일행은
+<x19><x69><x80><x2C><x18><x80> 일행은
 [ENDBLOCK]
 <turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80> 일행은
+<x19><x69><x80><x2C><x18><x80> 일행은
 [ENDBLOCK]
 <turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80> 일행은
+<x19><x69><x80><x2C><x18><x80> 일행은
 [ENDBLOCK]
 칭호: <turquoise>내추레인저
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80> 일행은
+<x19><x69><x80><x2C><x18><x80> 일행은
 [ENDBLOCK]
 칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80> 일행은
+<x19><x69><x80><x2C><x18><x80> 일행은
 [ENDBLOCK]
 <turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80> 일행은
+<x19><x69><x80><x2C><x18><x80> 일행은
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x80>,<x18><x80>은(는)
+<x19><x69><x80><x2C><x18><x80>은(는)
 [ENDBLOCK]
 notice
 [ENDBLOCK]

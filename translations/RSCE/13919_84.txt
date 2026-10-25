@@ -1,6 +1,5 @@
 // RSCE_NATIVE_V1 9b4ba28d5abc86ecd5af17b2ed5e67a5125a5b187e24048a72acd9aec6a0e2d8
-
-<TAG_005>
+<Lion>
 [ENDBLOCK]
 네 무식한 힘으로 어떻게든 해 봐.
 [ENDBLOCK]

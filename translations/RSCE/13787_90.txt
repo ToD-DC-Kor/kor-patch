@@ -1,5 +1,5 @@
 // RSCE_NATIVE_V1 925d42cd4e007da5c31d16aabf1894db19eaaaf638422b4a7ac60f55c12751e5
-<x17>r<x00><x80>
+<TAG_031>
 
 [ENDBLOCK]
 호출 중인가?

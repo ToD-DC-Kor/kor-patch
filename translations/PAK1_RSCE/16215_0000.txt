@@ -17,7 +17,7 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 글쎄……
 [ENDBLOCK]
-훔친 물건을 팔아 치우려다
+도굴한 물건을 팔아 치우려다
 거꾸로 신고당했다.
 [ENDBLOCK]
 그런 게 아니겠어?

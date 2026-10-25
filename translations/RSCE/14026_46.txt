@@ -431,13 +431,13 @@ select
 플레이어----->
 
 [ENDBLOCK]
-현재 상태：<x17><x71><x80> <x15><x80>
+현재 상태：<x17><x71><x80><x20><x15><x80>
 
 [ENDBLOCK]
-현재 바퀴 수：<x17><x71><x80>$<x15><x80>
+현재 바퀴 수：<x17><x71><x80><x24><x15><x80>
 
 [ENDBLOCK]
-현재 플래그：<x17><x71><x80>(<x15><x80>
+현재 플래그：<x17><x71><x80><x28><x15><x80>
 
 [ENDBLOCK]
 목표 좌표：<x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
@@ -517,7 +517,7 @@ select
 설명 완료：<x17><x24><x81><x14><x2F><x80>
 
 [ENDBLOCK]
-전송 대상：<x1D><x75><x80><xB4><x14><x80><x2C><x20><x1D>u<x80><xB8><x14><x80><x2C><x20><x1D>u<x80><xBC><x14><x80>
+전송 대상：<x1D><x75><x80><xB4><x14><x80><x2C><x20><x1D><x75><x80><xB8><x14><x80><x2C><x20><x1D><x75><x80><xBC><x14><x80>
 
 [ENDBLOCK]
 notice
@@ -528,7 +528,7 @@ notice
 예
 아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80>衿<x80></color>이(가)
+<TAG_007><S03><turquoise><x19><x71><x80><xE0><x17><x80></color>이(가)
 [ENDBLOCK]
 파티에 합류했습니다.
 [ENDBLOCK]
@@ -546,7 +546,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80>衿<x80></color>이(가)
+<TAG_007><S03><turquoise><x19><x71><x80><xE0><x17><x80></color>이(가)
 [ENDBLOCK]
 파티에서 빠졌습니다.
 [ENDBLOCK]
@@ -672,7 +672,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x80>衿<x80>의 소디언 디바이스를
+<TAG_007><x19><x71><x80><xE0><x17><x80>의 소디언 디바이스를
 사용할 수 있게 되었습니다.
 [ENDBLOCK]
 notice

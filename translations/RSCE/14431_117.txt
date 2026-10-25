@@ -18,7 +18,7 @@ notice
 <x0E><x01><x00><x00><x00>리프트 이동：<L+U+R+D_blink>・<L_stick_Press>
 조작 종료  ：<Cross_ani>
 [ENDBLOCK]
-<x1D><x3C><x5C><x8F><x3A><x41><x3C><x00><x00><x80>@EX頭mHt<x8B>歩Kl<x04><xAA><x88><x8C><x80>
+<x1D><x3C><x5C><x8F><x3A><x41><x3C><x00><x00><x80><x40><x45><x58><x9C><x4B><x6D><x48><x74><x8B><xE8><xD0><x4B><x6C><x04><xAA><x88><x8C><x80>
 
 [ENDBLOCK]
 select
