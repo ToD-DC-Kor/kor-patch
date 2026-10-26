@@ -890,8 +890,8 @@ notice
 [ENDBLOCK]
 남자아이
 [ENDBLOCK]
-대단한 오빠네요.
-오빠 이름은 뭐예요?
+대단한 형이네요.
+형 이름은 뭐예요?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

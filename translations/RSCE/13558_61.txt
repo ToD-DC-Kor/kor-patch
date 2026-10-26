@@ -33,7 +33,7 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-네 무모함은 뿌리 깊군.
+네 무모함도 보통이 아니군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

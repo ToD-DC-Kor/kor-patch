@@ -541,7 +541,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-오빠들은
+형들은
 같이 안 왔어?
 [ENDBLOCK]
 소년
@@ -556,12 +556,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-오빠들, 배 타고 왔어?
+형들, 배 타고 왔어?
 눈이 많아서 놀랐지?
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-언니들, 배 타고 왔어?
+누나들, 배 타고 왔어?
 눈이 많아서 놀랐지?
 [ENDBLOCK]
 소년
@@ -576,12 +576,12 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-오빠들, 렌즈 없어?
+형들, 렌즈 없어?
 지금 모으고 있대.
 [ENDBLOCK]
 소년
 [ENDBLOCK]
-언니, 렌즈 없어?
+누나, 렌즈 없어?
 지금 모으고 있대.
 [ENDBLOCK]
 소년

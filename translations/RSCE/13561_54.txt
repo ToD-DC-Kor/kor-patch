@@ -200,7 +200,7 @@
 <Lion>
 [ENDBLOCK]
 임무 때문에
-뻔히 죽을 필요는 없잖아.
+뻔히 죽을 길로 갈 필요는 없잖아.
 [ENDBLOCK]
 윌
 [ENDBLOCK]
@@ -283,7 +283,7 @@
 <Chaltier>
 [ENDBLOCK]
 그렇잖아요.
-비관하고, 그게 화가 나고.
+비관하다가, 화를 내고.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
