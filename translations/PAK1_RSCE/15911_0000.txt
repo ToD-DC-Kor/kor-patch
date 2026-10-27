@@ -1,17 +1,18 @@
+// RSCE_NATIVE_V1 f20226317288cfdec33edc116270691134b7ecb46ec4c0f12d7d0d1eeadab666
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-세인가르드 국왕 폐하를 뵙기 전에,
-크레스타 마을에 가서……
+세인가르드 국왕 폐하를 뵙기 전에
+크레스타 마을로 가서……
 [ENDBLOCK]
 <Rutee>와 합류하자.
 [ENDBLOCK]
-<Rutee>, 화낼까……
+<Rutee>, 화내려나……
 [ENDBLOCK]
 크레스타 마을은
-다릴쉐이드의 동쪽 방향에 있다.
+다릴쉐이드에서 동쪽에 있어.
 [ENDBLOCK]

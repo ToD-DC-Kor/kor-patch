@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 2b6db10ff49884ad1692426dba1f72be90aec868f8b9b8d59fec839c2d50ac2a
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-스노우 프리아의 서쪽에 있는 틸소 숲을
-지나 하이델베르그를 향해 갑시다.
+스노우프리아 서쪽에 있는 틸소의 숲을
+지나 하이델베르그로 가죠.
 [ENDBLOCK]

@@ -1,5 +1,6 @@
+// RSCE_NATIVE_V1 0b6511ca598bb1494d984f53234f1e8efb1f2e9acb9289811fd14b011017c237
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -15,11 +16,11 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 <S09>설명
 [ENDBLOCK]
-<S09>수줍음
+<S09>부끄러움
 [ENDBLOCK]
 <S09>미소
 [ENDBLOCK]
-<S09>황당
+<S09>어이없음
 [ENDBLOCK]
 <S09>불만
 [ENDBLOCK]

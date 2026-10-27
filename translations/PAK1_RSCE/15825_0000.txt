@@ -1,15 +1,16 @@
+// RSCE_NATIVE_V1 b85997c8eb97b6176a1c70cb554eb86df0ba4fca9757d6baa5ac19d8fcb03885
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-이대로 바티스타를 찾아보자.
+이대로 바티스타를 찾으러 가자고.
 [ENDBLOCK]
-페이트 씨의 일은 괜찮은 건가요?
+페이트 씨는 괜찮은 건가요?
 [ENDBLOCK]
-그 녀석한테 알아내는 게 더 빠를 것 같아서 말이야.
+그 자식한테 물어보는 게 더 빠를 것 같거든.
 [ENDBLOCK]
-좋아, 바티스타에게로 가자.
+좋아, 바티스타에게 가자.
 [ENDBLOCK]

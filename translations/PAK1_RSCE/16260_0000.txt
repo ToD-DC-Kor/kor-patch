@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 68709ff1c4656c83ecfdc60fbd749ad84e243c781f43a3036f9584b7c972ceaf
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-이대로 숨겨진 통로 안쪽으로 나아가자.
-거기에 신의 눈이 있을 거야.
+이대로 비밀 통로 안쪽으로 가자.
+그곳에 신의 눈이 있을 거야.
 [ENDBLOCK]

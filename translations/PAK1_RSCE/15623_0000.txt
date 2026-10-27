@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 94025643126587e77db84043d3a0788f3d66bc45309384de999f8bd9c6c63047
 
 보너스
 
@@ -6,5 +7,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 제노스 마을은
-숲을 지나면 있다.
+숲을 지나면 나온다네.
 [ENDBLOCK]

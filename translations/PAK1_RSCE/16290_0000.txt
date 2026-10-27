@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 988572b19cea49a6dea0bf0d729b1a1b1daae7da5387f2cb996e587ae54266b5
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-새로운 임무다.
+새 임무다.
 폐하께 가자.
 [ENDBLOCK]

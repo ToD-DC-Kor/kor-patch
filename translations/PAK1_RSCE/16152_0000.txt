@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 07cac8948aa0540e3e9b82496d7fd014f9eee1b85b0483201ad7c6b61b2edf6b
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-아직은 여기 있어야겠어.
+지금은 아직 여기 있어야겠군.
 [ENDBLOCK]

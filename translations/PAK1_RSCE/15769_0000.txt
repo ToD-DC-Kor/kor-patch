@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 f6ab6b5d59b59656c1ec554b1f79d23aeec83fb37496d070ffa28d6c2e5f954c
 
 보너스
 
@@ -5,6 +6,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-일레느는 경기장으로 향했다.
-우리도 뒤를 따르자!
+일레느는 투기장으로 갔다.
+우리도 뒤쫓는다!
 [ENDBLOCK]

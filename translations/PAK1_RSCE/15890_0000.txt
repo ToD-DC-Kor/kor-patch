@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 70583985e0f81a717355d40c1015214ca070572202c35e50b78f2f1f9143c36e
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 저녁 반찬을 사야 해.
-<Lilith>에게 혼날 거야.
+안 그러면 <Lilith>에게 혼날 거야.
 [ENDBLOCK]

@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 23955b37682b9f03d46fb69e4d3f7b7702d4a1691dba489151dbfdf51f5dafd5
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-비행룡에 타고,
-다이크로프트를 향해 가자!
+비행룡을 타고
+다이크로프트로 가는 거야!
 [ENDBLOCK]

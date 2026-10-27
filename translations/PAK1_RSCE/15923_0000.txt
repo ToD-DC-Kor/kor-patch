@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 5348d5bcdaecf27c22d50cb9deb36ef7ee5517d57a3f49ad4e2d24cf13a4927e
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-세인가르드 항구에 있는 병사에게 가보자.
-다시 한 번 오베론사의 공장으로 돌아가는 거지?
+세인가르드 항구의 병사에게 가자.
+오베론 사 공장으로 다시 돌아갈 거지?
 [ENDBLOCK]

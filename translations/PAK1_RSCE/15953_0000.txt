@@ -1,12 +1,13 @@
+// RSCE_NATIVE_V1 78f42ccc4c8b91f97341505998a19011efb7b4571af5b5d2a24f40d429dd202a
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-라디슬로우로 들어온 입구에서
-외각으로 나갈 수 있다.
+라디슬로우에 들어올 때 쓴 입구로
+외각에 나갈 수 있다.
 [ENDBLOCK]
-거기서 이그나시로 향하면 된다.
+거기서 이그나시로 가거라.
 [ENDBLOCK]

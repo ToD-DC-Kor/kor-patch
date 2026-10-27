@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 16811c2bd7112dd7d34baa9aeb46b82d31ea15e63a9e49283c18e09a518aadfe
 
 보너스
 
@@ -5,13 +6,13 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-빨리 용무를 마치고,
-<Philia>에게 돌아가야 해.
+어서 볼일을 마치고
+<Philia>에게 돌아가야 한다.
 [ENDBLOCK]
 네.
 [ENDBLOCK]
-도련님, 클레멘트가 있는 곳은,
-라디슬로우 안쪽입니다.
+도련님, 클레멘테가 있는 곳은
+라디슬로우 안쪽이에요.
 [ENDBLOCK]
 좋아.
 [ENDBLOCK]

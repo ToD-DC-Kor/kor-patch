@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 0417135c3a60f8bfaeff73ba44746d1c4e8bc2b52f876614f2c718f70190c2a8
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Rutee>에게도 인사하고 싶네.
-<Rutee>를 찾아보자.
+<Rutee>에게도 인사하고 싶어.
+<Rutee>를 찾자.
 [ENDBLOCK]

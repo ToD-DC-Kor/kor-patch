@@ -1,5 +1,6 @@
+// RSCE_NATIVE_V1 1eab18c57215d1b208c57eb4feceab750747c86cb0f173b8472b0b5ec7af1c72
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -7,6 +8,6 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 서둘러 다릴쉐이드로 돌아가자.
 [ENDBLOCK]
-여기서 해안선을 우회한
-남쪽 방향입니다.
+여기서 해안선을 돌아
+남쪽으로 가면 돼요.
 [ENDBLOCK]

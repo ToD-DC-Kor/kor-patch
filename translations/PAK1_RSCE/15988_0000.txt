@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 272f124ada401e6cc5c516aa4406cd2e55674963a1e161a204de17fee16abb32
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-외각으로 나가서 헬레이오스로 가는 거일세.
+외각으로 나가서 헬레이오스로 가거라.
 [ENDBLOCK]

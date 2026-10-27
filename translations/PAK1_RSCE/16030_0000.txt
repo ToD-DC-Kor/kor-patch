@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 0baf3deef6c6c17890c0f2a8a911404bd1f13ccbc000631ca48bbaad343bffe1
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-소디언 연구소는 다릴쉐이드의 서쪽에 있네.
-드래곤이 아니면 갈 수 없다네.
+소디언 연구소는 다릴쉐이드 서쪽이다.
+드래곤을 타야만 갈 수 있네.
 [ENDBLOCK]

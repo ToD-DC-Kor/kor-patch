@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 2aa273377ba7853d08078f9e2a1714a448518a2871a4f74a8f13e8fc73052e1f
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-내 노래 소리로 믹트란을 날려버리겠어!
+내 노랫소리로 믹트란을 날려 버리겠어!
 [ENDBLOCK]

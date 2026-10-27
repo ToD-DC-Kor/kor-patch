@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 2de9236e48899078e69fa1510cea8d21a244ef85cf5e2a146253e39538896258
 
 보너스
 
@@ -5,5 +6,5 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-라디슬로우의 입구로 돌아가죠.
+라디슬로우 입구로 돌아가요.
 [ENDBLOCK]

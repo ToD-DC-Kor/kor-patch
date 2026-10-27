@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 d44a4251ef742c6f520ba2269f828e040c27d75a28e920eb62e5d1e3396e3b6e
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-크레스타 마을은 다릴쉐이드의 동쪽에 있어.
-거기에 <Rutee>가 있는 거겠지?
+크레스타 마을은 다릴쉐이드 동쪽이야.
+그곳에 <Rutee>가 있는 거지?
 [ENDBLOCK]

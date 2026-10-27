@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 3fd84517ba13762ce6e5202d2c26de4d4a5845ebe250c85da926b9a36d9a295d
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-벨크란트의 최상부로 가는 거다.
+벨크란트 맨 위로 가거라.
 [ENDBLOCK]

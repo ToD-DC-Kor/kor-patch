@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 e87d9b0673064a95d6dbb812e252e91ab00b95fd619795d89b0271248e04970b
 
 보너스
 
@@ -5,5 +6,5 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-통로 앞으로 나아가.
+통로 안쪽으로 가라.
 [ENDBLOCK]

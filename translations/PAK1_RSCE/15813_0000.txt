@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 2de4f7cef9f3afb6c8f841d1e7469efed29eefdf0646d6721f298db9fa20a806
 
 보너스
 
@@ -5,6 +6,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-작은 배를 타고,
-모류 성에 침입합시다.
+작은 배를 타고
+모류 성으로 들어가죠.
 [ENDBLOCK]

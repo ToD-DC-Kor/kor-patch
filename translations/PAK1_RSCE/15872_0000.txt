@@ -1,12 +1,13 @@
+// RSCE_NATIVE_V1 f2b23b673c4badbcf7c9b07302bb9266adfb1d296fd9c60a551499a6c3b0d000
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-하이델베르그 성에 들어가려면,
-비상 통로를 이용하는 것이 좋을 거야.
+하이델베르그 성에 들어가려면
+비상 통로를 쓰는 게 좋겠군.
 [ENDBLOCK]
-우선 하이델베르그 거리로 들어가야 해.
+우선 하이델베르그 시내로 들어가자.
 [ENDBLOCK]

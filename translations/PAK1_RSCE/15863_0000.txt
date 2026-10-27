@@ -1,23 +1,24 @@
+// RSCE_NATIVE_V1 ce5b4d1197c4a7f8b04d51ea4e706627dede5efbebbae3a1434a88b5286b33d7
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Mary>, 이 도시의 풍경을
-본 기억이 있어?
+<Mary>, 이 마을 풍경이
+낯익어?
 [ENDBLOCK]
 모르겠어……
-기억나는 것 같기도 하고, 아닌 것 같기도 하고……
+그런 것 같기도 하고, 아닌 것 같기도 하고……
 [ENDBLOCK]
-<Rutee>, 서두르면 안 돼.
-<Mary>의 마음에 부담을 줄 수 있어.
+<Rutee>, 재촉하면 안 돼.
+<Mary>에게 부담이 될 거야.
 [ENDBLOCK]
-그렇구나…… 미안해, <Mary>.
-내가 조급해해봤자 소용없지.
+그렇네…… 미안해, <Mary>.
+내가 조급해한다고 될 일도 아닌데.
 [ENDBLOCK]
-아니…… 걱정해줘서 고마워.
+아니…… 걱정해 주는 건 기뻐.
 [ENDBLOCK]
 고마워, <Rutee>.
 [ENDBLOCK]

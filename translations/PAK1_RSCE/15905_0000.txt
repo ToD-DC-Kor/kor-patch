@@ -1,18 +1,19 @@
+// RSCE_NATIVE_V1 04f9b170403cb788cbdcbc7c6f147628cfda08ffd17482122b2d51213c4da352
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Woodrow> 씨한테 가야 해.
+<Woodrow> 씨에게 가야겠어.
 [ENDBLOCK]
-하이델베르그로 가는 방법은
+하이델베르그로 가는 길은
 기억하고 있나?
 [ENDBLOCK]
-먼저 스노우프리아 서쪽에 있는
+우선 스노우프리아 서쪽에 있는
 틸소의 숲으로 가는 거죠.
 [ENDBLOCK]
-그래. 숲을 지나면 그 다음은 북쪽이다.
+그래. 숲을 지나면 그다음은 북쪽이다.
 쉬고 싶다면 도중에 사이릴도 있어.
 [ENDBLOCK]

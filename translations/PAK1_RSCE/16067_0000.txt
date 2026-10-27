@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 6abf9d239814fa2ea9179dfd6cad1225f906ba3444c3ac1ddb02dd16f92b367f
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-쉬고 싶어지면 숙소로 가라.
+쉬고 싶어지면 여관으로 가라.
 [ENDBLOCK]

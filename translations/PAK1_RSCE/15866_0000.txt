@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 cc5c88747572972204651f2de7e34ac9645aa075ac7232bd393f7224952e9c1b
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Mary>의 집에 가보자.
-마을 서쪽에 있는 벽이 초록색인 집이야.
+<Mary>네 집으로 가자.
+마을 서쪽에 있는 초록색 벽의 집이야.
 [ENDBLOCK]

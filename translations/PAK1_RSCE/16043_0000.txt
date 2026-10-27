@@ -1,14 +1,15 @@
+// RSCE_NATIVE_V1 2ada0471cb6a5ddb59a44fe9a263a2ff17ebdcb67229db3d437a97d2627b4475
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-저기, 여러분은 좋아하는 사람이 있나요?
+저기, 다들 좋아하는 사람 있으세요?
 [ENDBLOCK]
-나에겐 다리스가 있으니까.
-<Chelsea>는 <Woodrow>겠지?
+내게는 다리스가 있으니까.
+<Chelsea>는 <Woodrow>지?
 [ENDBLOCK]
 물론이죠♪
 [ENDBLOCK]
@@ -16,11 +17,11 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 저, 저는 그런 분은……
 [ENDBLOCK]
-그, 그래, 뭐야 갑자기.
+그, 그래. 갑자기 무슨 소리야.
 [ENDBLOCK]
 두 분은 아직 어린아이 같네요.
 [ENDBLOCK]
-그렇게 말하고 있잖아. 어린아이라고.
+들었지, 어린아이래.
 [ENDBLOCK]
 시끄러워!
 [ENDBLOCK]

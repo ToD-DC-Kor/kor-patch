@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 d6709680d4ddbb8a947e8d6b82787e9def0f480b19a44e73046ba07dc7c5814a
 
 보너스
 
@@ -5,6 +6,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Stahn>, 우리가 향할 곳은 신전이야.
-마을 밖이 아니라.
+<Stahn>, 갈 곳은 신전이다.
+마을 밖이 아니야.
 [ENDBLOCK]

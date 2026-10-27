@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 1b912236b653b5b130ab9ff4b97a61b10caceaf8f03c70c5555b9b85e658dfd7
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-안쪽에 있는 봉인 장치로 가야 해……
+안쪽의 봉인 장치로 가야 해……
 [ENDBLOCK]

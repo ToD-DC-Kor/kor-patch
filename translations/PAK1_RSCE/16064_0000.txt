@@ -1,35 +1,36 @@
+// RSCE_NATIVE_V1 2631ae7d38fbc02e1dbbe7426982aef96b3e7bbf586b168fe9c67c81cc9145af
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-휴……
+후우……
 [ENDBLOCK]
-눈이 좀 피곤해졌네요.
+눈이 좀 피곤하네요.
 [ENDBLOCK]
-민낯의 <Philia> 씨도 아름답군요.
+안경을 벗은 <Philia> 씨도 어여쁘군.
 [ENDBLOCK]
-여성은 작은 소품 하나로도
-이미지가 바뀌는 법이지.
+여성은 소품 하나만으로도
+분위기가 달라지는 법이지.
 [ENDBLOCK]
-여기서 바로 이 몸의 차례로군.
+지금이 바로 이 몸이 나설 때로군.
 [ENDBLOCK]
-<Philia> 씨, 오늘도 한층 더 아름다우십니다.
+<Philia> 씨, 오늘은 한층 더 아름다우십니다.
 [ENDBLOCK]
-어머? <Kongman> 씨,
-많이 마르신 것 같은데요……
+어머?	<Kongman> 씨,
+많이 야위신 것 같은데……
 [ENDBLOCK]
 ……난 <Kongman>이 아닌데.
 [ENDBLOCK]
-죄, 죄송합니다. <Johnny> 씨였나요?
+죄, 죄송해요. <Johnny> 씨였군요.
 [ENDBLOCK]
-으아아~!! <Johnny>와 헷갈리다니,
-충격이야~~!
+으오오~!!	<Johnny>와 헷갈리다니
+충격이다아~~!
 [ENDBLOCK]
-그 말, 그대로 너한테 돌려주고 싶군.
+그 말, 그대로 네게 돌려주마.
 [ENDBLOCK]
-이런 식으로 데미지를 입게 될 줄이야,
-여자란 정말, 죄 많은 생물이군.
+이런 식으로 상처를 입히다니
+여자는 정말 죄 많은 존재로군.
 [ENDBLOCK]

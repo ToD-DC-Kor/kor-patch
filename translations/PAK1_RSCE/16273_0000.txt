@@ -1,12 +1,13 @@
+// RSCE_NATIVE_V1 55e405bfbb63f8672f5ba78cbaacfcf27bebb47d69c00cd84014b84f74e7e34c
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Philia>가 신전의 뒷문에서
-기다리고 있을 겁니다.
+<Philia>가 신전 뒷문에서
+기다리고 있을 거예요.
 [ENDBLOCK]
 신전 뒷문으로 가자.
 [ENDBLOCK]

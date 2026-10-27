@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 726730260c76b35f80d52d0d2da2b6998fa40794a9a10c824feed5f6a28ad8fa
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 하이델베르그는
-사이릴에서 북쪽 방향에 있다.
+사이릴에서 북쪽에 있어.
 [ENDBLOCK]

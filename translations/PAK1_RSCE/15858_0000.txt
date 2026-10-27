@@ -1,19 +1,20 @@
+// RSCE_NATIVE_V1 75fd93b41ca27b51335f582cd364cd02a1c8847132f9b35b8b6ca93deec2e6eb
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 <Lion> 씨. 다시는 저를
-어린애 취급하지 말아주세요.
+어린애 취급하지 마세요.
 [ENDBLOCK]
-……
+…………
 [ENDBLOCK]
-<Chelsea>, 저기 가서 같이
+<Chelsea>, 저쪽에서 같이
 눈사람 만들지 않을래?
 [ENDBLOCK]
-만들래요!	와, 재밌겠다♪
+만들래요!	와, 재미있겠다♪
 [ENDBLOCK]
 역시…… 어린애네요.
 [ENDBLOCK]

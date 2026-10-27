@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 817a2b4ff8e1c1197f03dba26d534b2e8a9ddec42f5321f3e70a647444e40076
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-오늘은 이미 늦었어, 저택으로 돌아가자.
+오늘은 이제 늦었어. 저택으로 돌아가자.
 [ENDBLOCK]

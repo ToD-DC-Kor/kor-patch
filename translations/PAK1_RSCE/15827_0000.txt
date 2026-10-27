@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 5b2d73104a717f683760e589f4e6434f6667c927b674a891b587f415c7fff13a
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-항구로 가겠지?
-그렇다면 성을 나가야겠네.
+항구에 가는 거지?
+그럼 성 밖으로 나가야지.
 [ENDBLOCK]

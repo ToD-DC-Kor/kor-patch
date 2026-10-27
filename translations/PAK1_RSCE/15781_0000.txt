@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 bd6f49fc208c7c24e5fb07582052fe1aae83c0d8006951a6dffcc2c4e975bce2
 
 보너스
 
@@ -5,6 +6,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-바티스타는 아쿠아베일로 향했습니다.
-우리도 항구로 가죠.
+바티스타는 아쿠아베일로 향했어요.
+우리도 항구로 가요.
 [ENDBLOCK]

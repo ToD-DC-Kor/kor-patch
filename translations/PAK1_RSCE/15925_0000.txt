@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 98b068d2be5fb9690f7321e516abad9b1b842869c7c06c570630f2189a01fc46
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-일단 다릴쉐이드로 돌아가자.
-태세를 재정비할 필요가 있으니까.
+일단 다릴쉐이드 시내로 돌아가자.
+태세를 정비할 필요가 있어.
 [ENDBLOCK]

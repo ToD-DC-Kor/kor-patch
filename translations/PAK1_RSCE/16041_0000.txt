@@ -1,24 +1,25 @@
+// RSCE_NATIVE_V1 b0422cf9d89df072940fd20f55a6a7db3e939f445c8fa43891d07920535cdcd3
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Woodrow> 님의 꿈은 무엇인가요?
+<Woodrow> 씨의 꿈은 뭐예요?
 [ENDBLOCK]
-팬더리아를 훌륭한 나라로 만드는 거야.
-꿈이라기보다는 이건 내 의무지.
+팬더리아를 훌륭한 나라로 만드는 것.
+꿈이라기보다는 내 의무지.
 [ENDBLOCK]
-괜찮아요. <Woodrow> 님이라면,
-절~대로 훌륭한 왕이 되실 거예요.
+걱정 마세요. <Woodrow> 님이라면
+반~드시 훌륭한 왕이 되실 거예요.
 [ENDBLOCK]
 고마워.
 [ENDBLOCK]
-그리고 <Woodrow> 님 옆에는,
-항상 제가…… 꺄아아악!
+그리고 <Woodrow> 님 곁에는
+계속 제가…… 꺄아아!
 [ENDBLOCK]
-<Chelsea>, 무슨 일이야?
+<Chelsea>, 왜 그러지?
 [ENDBLOCK]
-젊음의 패기로 인한 일탈이겠지.
+젊음이 넘쳐 폭주하는 거겠지.
 [ENDBLOCK]

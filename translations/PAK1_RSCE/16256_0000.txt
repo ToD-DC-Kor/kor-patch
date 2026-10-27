@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 f87b00bc60f4b69c26648e46aec1218b2b8ce13a6d3afc55cf6363cffe1f770a
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-도련님. 저택으로 돌아오라고
-휴고 님께서 말씀하셨습니다.
+도련님. 휴고 님께서
+저택으로 돌아오라고 하셨어요.
 [ENDBLOCK]

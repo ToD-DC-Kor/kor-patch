@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 97bb2c7d6053f1bab5b40be8ff198952183211f7a23bd44c0a7153aa971585eb
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-그쪽이 아니야.
+그쪽은 아니야.
 [ENDBLOCK]

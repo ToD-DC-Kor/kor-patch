@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 22bdec9de02f0a8bd26c65dcdaf710d7bba20715bd055a4f727609da8f6ea18c
 
 보너스
 
@@ -5,9 +6,9 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-역시 비밀 통로가 존재했군요.
+역시 비밀 통로가 있었네요.
 [ENDBLOCK]
 그래. 그렇다면 통로 안쪽에……
 [ENDBLOCK]
-쓸데없는 말은 그만. 조용히 앞으로 나아가.
+잡담은 됐다. 조용히 앞으로 가라.
 [ENDBLOCK]

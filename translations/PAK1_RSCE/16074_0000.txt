@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 55f2829ed0b9eca8716d13063aa64f23c15cd68819ed434a6de6e46913e6f3a6
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-내일 일도 있으니까.
-거리 밖으로 나가지 않는 게 좋겠어.
+내일 일도 있으니
+도시 밖을 돌아다니지는 않는 게 좋겠어.
 [ENDBLOCK]

@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 c5d3d8dd7a8de85517e85d4560bec825b586b8ce243006785f7da1857586c6ee
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-분명 크레스타는 다릴쉐이드의
-동쪽에 있었을 거야.
+분명 크레스타는 다릴쉐이드에서
+동쪽에 있었지.
 [ENDBLOCK]

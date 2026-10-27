@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 664fad0c5c4ea8fe62fd4183f12a83e851ce2808cdbb909d840e710d6a4451c7
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-슈사이아를 빠져나오면,
-외각을 통해 믹하일을 향해 가자.
+슈사이아를 빠져나가면
+외각을 지나 믹하일로 가자.
 [ENDBLOCK]

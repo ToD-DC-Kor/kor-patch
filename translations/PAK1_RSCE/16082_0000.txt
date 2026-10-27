@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 4ee26b8c1b2a776166b84e64a30e6b53dc3e6352fe27e8be59b06f6e65b1db37
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-믹트란에게 빨리 가자!
+어서 믹트란에게 가요!
 [ENDBLOCK]

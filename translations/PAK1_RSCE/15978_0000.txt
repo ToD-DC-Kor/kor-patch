@@ -1,11 +1,12 @@
+// RSCE_NATIVE_V1 60ee479c989838d25d8aad437d243e28c22aaae29bc24997bd109be9ff1ece1c
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-어라?	아직 열리지 않네.
+어?	아직 안 열려.
 [ENDBLOCK]
-더 많은 에너지를 충전 하는거다.
+에너지를 더 충전해라.
 [ENDBLOCK]

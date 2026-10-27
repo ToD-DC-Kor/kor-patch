@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 9be6e97866b08207d331dbdd6c5bca04e3c4251574d4eabc69dba828f1d5e9b7
 
 보너스
 
@@ -5,6 +6,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-어째서 몬스터가 거리에!?
-어쨌든, 투기장 밖으로 나가야 해!
+어째서 마을에 몬스터가!?
+아무튼 투기장 밖으로 나가야 해!
 [ENDBLOCK]

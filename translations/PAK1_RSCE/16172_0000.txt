@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 f86b7afcfc3be1240d99c09cbae92976406db6e3663a68db7bc9c18021fc7db7
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-이 도시에 볼일은 없겠지.
+이 마을에는 볼일 없잖아.
 [ENDBLOCK]

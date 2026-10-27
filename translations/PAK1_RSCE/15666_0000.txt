@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 fa47a93cc43ac4933468e59eb5d788c2d7f306dba16785b22c940b0733c0ea38
 
 보너스
 
@@ -6,5 +7,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 어서 술집으로 가자.
-여관과 같은 건물이야.
+여관이랑 같은 건물이야.
 [ENDBLOCK]

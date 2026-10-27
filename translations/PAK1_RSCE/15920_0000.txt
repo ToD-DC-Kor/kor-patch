@@ -1,26 +1,27 @@
+// RSCE_NATIVE_V1 a52c11c4a4b211789bee6fb2fac522daaf51b4b440b1b56c1ff26da5051ee2e2
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Rutee> 씨는 이번 <Lion> 씨의 일에 대해
+<Rutee> 씨는 이번 <Lion> 씨 일을
 어떻게 생각하세요?
 [ENDBLOCK]
-나는 <Stahn>의 말처럼
-뭔가 사정이 있다고 믿고 싶은 마음도 있지만.
+저는 <Stahn> 씨 말대로
+무슨 사정이 있을 거라고 믿고 싶기도 해요.
 [ENDBLOCK]
-정보가 너무 적어서 뭐라고 말하기 어렵네.
+정보가 너무 적어서 뭐라고 못 하겠네.
 [ENDBLOCK]
-다만 한 가지, 확실한 건……
+단 하나 확실한 건……
 [ENDBLOCK]
 확실한 건……?
 [ENDBLOCK]
-긴장을 늦추면 안 된다는 거야.
+정신 바짝 차리지 않으면 큰일 난다는 거야.
 [ENDBLOCK]
-정말로 그 녀석과 싸우게 된다면,
-진심을 다하지 않으면 우리가 당할 거야.
+정말 그 녀석과 싸우게 된다면
+진심으로 덤비지 않으면 우리가 당해.
 [ENDBLOCK]
-그렇네요……
+그렇겠죠……
 [ENDBLOCK]

@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 c21ae73069497b08b9af421e15912cf2ae0746a43d8456b94b6220c659a6c4f1
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-우선 해룡에 타자.
+우선 해룡을 타자.
 [ENDBLOCK]

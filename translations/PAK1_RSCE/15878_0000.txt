@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 0f96c59c4f3680dedbdeeb25e276e7ed6b0488f49f950258c67c9a475542c6e2
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-동료들을 두고
-앞으로 갈 수 없어. 돌아가야 해.
+동료를 두고
+먼저 갈 수는 없어. 돌아가야겠어.
 [ENDBLOCK]

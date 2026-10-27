@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 67b7ccc1ea97733c60319a379b9b3dcc38682f901f91656bf210a8bacebc728b
 
 보너스
 
@@ -5,10 +6,10 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Mary> 씨의 동료들을,
-빨리 구해야겠네요.
+<Mary> 씨 동료분을
+어서 구해야겠네요.
 [ENDBLOCK]
-고마워. 동료들이 있는 곳은 마을 근처에 있는 신전이야.
+고마워. 내 동료는 마을 근처 신전에 있어.
 [ENDBLOCK]
-우선 동쪽 문을 향해 가보자.
+우선 동문으로 가자.
 [ENDBLOCK]

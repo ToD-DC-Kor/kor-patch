@@ -1,13 +1,14 @@
+// RSCE_NATIVE_V1 7cc2a30770d67393fdc38ec00004e320872321c5bea856f9b29586cff78d2276
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-밤까지 아직 시간이 있다.
+밤까지는 아직 시간이 있어.
 [ENDBLOCK]
-거리의 모습을 살펴볼까.
+도시를 둘러볼까.
 [ENDBLOCK]
-그렇네요.
+그러죠.
 [ENDBLOCK]

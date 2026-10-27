@@ -1,29 +1,30 @@
+// RSCE_NATIVE_V1 b5c702e5cdc6ce951aaa2332af97c197ee08202f5cad72c194acfdabd978c363
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-저기, <Stahn> 님의 소중한 사람이란……
+저기, <Stahn> 씨의 소중한 사람은……
 [ENDBLOCK]
 <Stahn>!
 [ENDBLOCK]
-무슨 일이세요, <Mary> 씨?
+왜 그러세요, <Mary> 씨?
 [ENDBLOCK]
-<Stahn>, 솔직하게 대답해줘.
-그 점쟁이와 무슨 얘기를 했지?
+<Stahn>, 솔직히 대답해 줘.
+그 점쟁이와 무슨 이야기를 했어?
 [ENDBLOCK]
-저, 저도 그걸 듣고 싶었어요.
+저, 저도 그걸 여쭤보고 싶었어요.
 [ENDBLOCK]
-가내안전이요?
+가내 평안인데요?
 [ENDBLOCK]
+……뭐?
 ……네?
-……엥?
 [ENDBLOCK]
-아니, 그러니까. 가내안전이라고요.
+아니, 그러니까 가내 평안이라고요.
 [ENDBLOCK]
-<Stahn>, 그건……점이 아니라 기원이야.
+<Stahn>, 그건…… 점이 아니라 기원이야.
 [ENDBLOCK]
 <Woodrow>!
 <Rutee> 씨!

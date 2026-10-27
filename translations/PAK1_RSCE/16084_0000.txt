@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 bfa25784aa4e2b152f284857955d07e5bc48e6f2de8bc912f574ff01625431f0
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-믹트란에게 온 힘을 다한 일격을 가한다!
+믹트란에게 혼신의 일격을 날리겠어!
 [ENDBLOCK]

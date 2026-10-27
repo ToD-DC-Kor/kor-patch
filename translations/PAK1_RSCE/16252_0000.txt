@@ -1,12 +1,13 @@
+// RSCE_NATIVE_V1 0e1332f2b92c60b7d8527d3a43daa462a5c9d96f9742cea7b20d946c666dae7f
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-다릴쉐이드는 여기서 동쪽입니다.
+다릴쉐이드는 여기서 동쪽이에요.
 [ENDBLOCK]
-자, 다릴쉐이드로 돌아가서
-폐하께 임무 보고를 드리죠.
+자, 다릴쉐이드로 돌아가
+폐하께 임무를 보고하죠.
 [ENDBLOCK]

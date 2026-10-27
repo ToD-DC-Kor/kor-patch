@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 a2c2edfd6172d291a97a2e641f855dbc86fe7ea9afc1b2805273ef1254f41b9b
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 임무도 끝났어.
-빨리 집에 돌아가자.
+어서 저택으로 돌아가자.
 [ENDBLOCK]

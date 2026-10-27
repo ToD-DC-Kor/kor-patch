@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 3cd2c980e561106f63a6ebeed548251550ae7e15bb1c61a6c395f39b451f1238
 
 보너스
 
@@ -5,5 +6,5 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-우선 모류 영지의 마을로 가야겠어.
+우선 모류령의 마을로 가야겠어.
 [ENDBLOCK]

@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 1fb6bc2cb561b605ae056d83f4717a1d0439cbbe5aefe4dcdc69c8572f770f44
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 항구로 가죠.
-페이트 씨가 기다리고 계십니다.
+페이트 씨가 기다리고 계세요.
 [ENDBLOCK]

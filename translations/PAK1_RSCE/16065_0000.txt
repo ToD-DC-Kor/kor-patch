@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 e48484a039fb0285ecc97c07b7d4dbe3955fb04011df4f89a5fcde00bf6a3a78
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-마을에 가볼까?
-숙소도 예약해 주었으니 말이야.
+시내로 가 볼까.
+숙소도 잡아 줬으니.
 [ENDBLOCK]

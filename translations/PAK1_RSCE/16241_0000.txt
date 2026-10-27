@@ -1,5 +1,6 @@
+// RSCE_NATIVE_V1 a3e8d17cdff379928e995c3fe084eb287a0fc2af90f7ab7497da3b0ec8a87877
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -7,18 +8,18 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 어디로 갔을까……
 [ENDBLOCK]
-<Lion> 님? 
-제 안경 보신 적 없으세요?
+<Lion> 씨?
+제 안경 못 보셨어요?
 [ENDBLOCK]
-또 잃어버린 거냐.
+또 잃어버렸나.
 [ENDBLOCK]
 ……!
 [ENDBLOCK]
-<Lion> 님, 혹시 제 안경……
+<Lion> 씨, 혹시 제 안경……
 [ENDBLOCK]
-안심해라.
+안심해.
 [ENDBLOCK]
-렌즈를 밟았을 뿐이다.
+렌즈만 밟았을 뿐이야.
 [ENDBLOCK]
-내 렌즈~!
+제 렌즈~!
 [ENDBLOCK]

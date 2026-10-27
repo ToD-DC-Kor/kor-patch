@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 011ddecae0cca6719268bc53b3057acd3f966feaa7e84adf4ee47d22e7293edc
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-아주 오래전의 산업 폐기물이 쌓인 산이
-있을 거야. 그곳에 가보자……
+아주 오래된 산업 폐기물이 쌓인 산이
+있을 거다. 그곳으로 가 보자……
 [ENDBLOCK]

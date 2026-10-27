@@ -1,28 +1,29 @@
+// RSCE_NATIVE_V1 ee3f62422f106a880834b5b89822b3fb5df18665f6d17c5fc5331eef6b9dfaee
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-전투가 끝나면 배가 고프네.
+싸움이 끝나니 배가 고프네.
 [ENDBLOCK]
 오빠, 여러분, 수고하셨어요.
-자, 음식 주머니를 드세요.
+자, 음식 주머니 받으세요.
 [ENDBLOCK]
 고마워.
 [ENDBLOCK]
-냠냠……
+우물, 우물……
 [ENDBLOCK]
 오, 이거 맛있네.
 [ENDBLOCK]
-평소와 맛이 다른 것 같은데?
+평소랑 맛이 다르지 않아?
 [ENDBLOCK]
-알겠어?	조금 나만의 방식으로
-공들여 봤어.
+알겠어?	내 나름대로
+좀 궁리해 봤어.
 [ENDBLOCK]
 역시 <Lilith> 씨네요.
-더욱더 효과가 있을 것 같아요.
+효과도 한층 좋을 것 같아요.
 [ENDBLOCK]
-요리는 저한테 맡겨주세요!
+요리는 제게 맡겨 주세요!
 [ENDBLOCK]

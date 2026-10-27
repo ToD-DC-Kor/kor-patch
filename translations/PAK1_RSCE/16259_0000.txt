@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 6e2b4924d095b42d625a329c34d0eaa45ea6b414fd36871d52da734d6f9468d5
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-대성당에 가요.
+대성당으로 가죠.
 [ENDBLOCK]

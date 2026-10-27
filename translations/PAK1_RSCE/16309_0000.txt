@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 5336bb49846a95e5030f7a8bfc94e6e06a826628366626fc6a901e85e4bdaa85
 
 보너스
 
@@ -5,5 +6,5 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-꾸물거릴 시간이 없어!
+꾸물거릴 수 없어!
 [ENDBLOCK]

@@ -1,12 +1,13 @@
+// RSCE_NATIVE_V1 03944e894dc46863250487f025d1f884669ef04f37174ce5490d07ecfc1fbcf3
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-노이슈타트는 리네를 나와 남동쪽 방향에 있습니다.
+노이슈타트는 리네에서 나와 남동쪽에 있어요.
 [ENDBLOCK]
-왕님께 돌아가기 전에 팬더리아에 있는
-<Woodrow> 씨를 만나러 가봅시다.
+왕님께 돌아가기 전에 팬더리아에 계신
+<Woodrow> 씨를 만나러 가요.
 [ENDBLOCK]

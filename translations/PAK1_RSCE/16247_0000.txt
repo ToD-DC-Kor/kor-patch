@@ -1,12 +1,13 @@
+// RSCE_NATIVE_V1 394d1572516fd5a6d0a16c19ec33ddfcf536a754796cf87eff5d1ef98630e597
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Rutee>・카틀릿과 그 일행인가……
+<Rutee> 카틀릿과 그 동료들이라……
 [ENDBLOCK]
-선발대도 출발한 것 같고
-서둘러 하멘츠 마을로 향합시다.
+선발대도 출발한 것 같으니
+어서 하멘츠 마을로 가죠.
 [ENDBLOCK]

@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 649b6187b054b9410d068dbffb18e1d8f10f6979b18019c276e06987d91bd76a
 【BGM : no=<TAG_031> - vol=<TAG_032>】
 [ENDBLOCK]
 
 [ENDBLOCK]
 <TAG_007><S06><yellow>Lock-On !!
 [ENDBLOCK]
-<S03><yellow>록온 수: <x17><x71><x46><xDC><x80>마리
+<S03><yellow>조준 대상: <x17><x71><x46><xDC><x80>마리
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -18,96 +19,96 @@ select
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>지상으로 내려가시겠습니까?
+<TAG_007>지상에 내리시겠습니까?
 예
 아니요
 [ENDBLOCK]
 Hole Select
 [ENDBLOCK]
-<TAG_007>홀 01 (파 <x17><x71><x48><x38><x80>)
-홀 02 (파 <x17><x71><x48><x3C><x80>)
+<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
+Hole 02 (Par <x17><x71><x48><x3C><x80>)
 [ENDBLOCK]
 Hole Select
 [ENDBLOCK]
-<TAG_007>홀 01 (파 <x17><x71><x48><x38><x80>)
-홀 02 (파 <x17><x71><x48><x3C><x80>)
-홀 03 (파 <x17><x71><x48><x40><x80>)
+<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
+Hole 02 (Par <x17><x71><x48><x3C><x80>)
+Hole 03 (Par <x17><x71><x48><x40><x80>)
 [ENDBLOCK]
 Hole Select
 [ENDBLOCK]
-<TAG_007>홀 01 (파 <x17><x71><x48><x38><x80>)
-홀 02 (파 <x17><x71><x48><x3C><x80>)
-홀 03 (파 <x17><x71><x48><x40><x80>)
-홀 04 (파 <x17><x71><x48><x44><x80>)
+<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
+Hole 02 (Par <x17><x71><x48><x3C><x80>)
+Hole 03 (Par <x17><x71><x48><x40><x80>)
+Hole 04 (Par <x17><x71><x48><x44><x80>)
 [ENDBLOCK]
 Hole Select
 [ENDBLOCK]
-<TAG_007>홀 01 (파 <x17><x71><x48><x38><x80>)
-홀 02 (파 <x17><x71><x48><x3C><x80>)
-홀 03 (파 <x17><x71><x48><x40><x80>)
-홀 04 (파 <x17><x71><x48><x44><x80>)
-홀 05 (파 <x17><x71><x48><x48><x80>)
+<TAG_007>Hole 01 (Par <x17><x71><x48><x38><x80>)
+Hole 02 (Par <x17><x71><x48><x3C><x80>)
+Hole 03 (Par <x17><x71><x48><x40><x80>)
+Hole 04 (Par <x17><x71><x48><x44><x80>)
+Hole 05 (Par <x17><x71><x48><x48><x80>)
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><TAG_001><yellow>홀 <x17><x71><x46><xF8><x80>
- 파 <x17><x71><x47><x08><x80>
+<TAG_007><TAG_001><yellow>Hole <x17><x71><x46><xF8><x80>
+ Par <x17><x71><x47><x08><x80>
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><TAG_001><yellow>시작!!
+<TAG_007><TAG_001><yellow>Start !!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><TAG_001><yellow>클리어!!
+<TAG_007><TAG_001><yellow>ＣＬＥＡＲ!!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><x06><x80><x02><x00><x00><yellow>언더파!!
+<TAG_007><x06><x80><x02><x00><x00><yellow>Under par!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 1의 상품 획득!!
+<TAG_007>1번 홀의 상품을 획득했습니다!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 2의 상품 획득!!
+<TAG_007>2번 홀의 상품을 획득했습니다!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 3의 상품 획득!!
+<TAG_007>3번 홀의 상품을 획득했습니다!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 4의 상품 획득!!
+<TAG_007>4번 홀의 상품을 획득했습니다!!
 [ENDBLOCK]
 debug
 [ENDBLOCK]
-<TAG_007>홀 5의 상품 획득!!
+<TAG_007>5번 홀의 상품을 획득했습니다!!
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>선택할 수 있는 홀이 추가되었습니다!!
+<TAG_007>선택할 수 있는 홀이 추가됐습니다!!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><x06><xE0><x01><x00><x00><yellow>나이스 샷!!
+<TAG_007><x06><xE0><x01><x00><x00><yellow>Nice Shot!!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007><x06><xE0><x01><x00><x00><red>아웃 오브 바운즈...
+<TAG_007><x06><xE0><x01><x00><x00><red>Out of Bounds...
 [ENDBLOCK]
 Main Menu
 [ENDBLOCK]
 <TAG_007>플레이어 선택
-위치 변경
-첫 번째 샷부터 다시 시작
+서 있는 위치 바꾸기
+첫 타부터 다시 시작하기
 홀 선택으로 돌아가기
-게임 종료
+게임 종료하기
 [ENDBLOCK]
 Select
 [ENDBLOCK]
-<TAG_007><x06><xC0><x00><x00><x40>야드 플레이어     
+<TAG_007><x06><xC0><x00><x00><x40>Yard Player     
 150 <Lilith>
 120 <Kongman>
  90 <Stahn>
@@ -120,12 +121,12 @@ Select
 [ENDBLOCK]
 Re-try
 [ENDBLOCK]
-<TAG_007>현재 플레이 중인 홀을
-첫 번째 샷부터 다시 시작하시겠습니까?
+<TAG_007>지금 플레이 중인 홀을
+첫 타부터 다시 시작하시겠습니까?
 예
 아니요
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>선택할 수 있는 다른 홀이 없습니다.
 [ENDBLOCK]
@@ -135,26 +136,26 @@ Exit
 예
 아니요
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>				「비행룡	조작 설명 1」				
 	
 	<Circle_ani>	전진
 	<Square_ani>	후진
-	<Left+Right_blink>	회전 (<L1_ani><R1_ani>로도 가능)
+	<Left+Right_blink>	선회 (<L1_ani><R1_ani>로도 가능)
 	<Up+Down_blink>	상승・하강
 	<R_stick_Press>	시점 변경
 	<Cross_ani>	비행룡에서 내리기
-			※언덕 위나 저지대 등 걸을 수 없는 곳에서는
+			※언덕 위나 저지대처럼 걸을 수 없는 곳에는
 				내릴 수 없습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>			「비행룡	조작 설명 2」			
 	
-	최고 속도는 커스텀 메뉴의
-	「이동 속도」에서 설정할 수 있습니다.
-	(고속) 1 ←(표준)→ 8 (저속)	
-	※초기 설정은 6(느린 편)으로
-		되어 있습니다.
+	최고 속도는 설정 메뉴의
+	「이동 속도」에서 정할 수 있습니다.
+	(빠름) 1 ←(보통)→ 8 (느림)	
+	※기본값은 6(조금 느림)으로
+		설정되어 있습니다.
 [ENDBLOCK]

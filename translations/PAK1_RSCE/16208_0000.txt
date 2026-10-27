@@ -1,11 +1,12 @@
+// RSCE_NATIVE_V1 c9c0442d8c25c830fd19ace7ac9710ee849a35dfd1289ffa3febd62df982b948
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<S09>通常・笑い
+<S09>보통・웃음
 [ENDBLOCK]
 <S09>분노
 [ENDBLOCK]

@@ -1,17 +1,18 @@
+// RSCE_NATIVE_V1 e2f0a1421bcab364c4ccbde1f239ff59e05947229d567bf702fe7e8300d6aa4a
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-해룡을 타고 이동하는 것도,
-꽤 괜찮은 거구나.
+해룡을 타고 다니는 것도
+꽤 괜찮은걸.
 [ENDBLOCK]
-저, 해룡의 노래를 만들어봤어요.
-들어보시겠어요?
+제가 해룡 노래를 만들어 봤어요.
+들어 주실래요?
 [ENDBLOCK]
-좋아, 어디 한번 들어보자.
+좋지.
 [ENDBLOCK]
 오~오~오~ 해룡~♪
 [ENDBLOCK]
@@ -21,12 +22,12 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 ……어떠세요?
 [ENDBLOCK]
-0점.
+빵점.
 [ENDBLOCK]
 뭐라고!
 [ENDBLOCK]
-자, 자, 그렇게 나쁘지만은 않아.
-<Stahn>의 솔직한 마음이 전해졌어.
+뭐, 뭐, 그렇게 나쁘지만은 않아.
+<Stahn>의 솔직한 마음이 전해졌는걸.
 [ENDBLOCK]
-<Johnny>, 당신 어른이네요.
+<Johnny>, 어른스럽네.
 [ENDBLOCK]

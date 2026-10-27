@@ -1,13 +1,14 @@
+// RSCE_NATIVE_V1 e018cc6805980e698be4923395c19a151ad61558045f83f6c56a3bb2b8b64ff5
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 서둘러 라디슬로우로
-돌아가야겠네요.
+돌아가야겠어요.
 [ENDBLOCK]
-라디슬로우는 칼바레이스의
+라디슬로우는 칼바레이스
 동쪽에 있었지.
 [ENDBLOCK]

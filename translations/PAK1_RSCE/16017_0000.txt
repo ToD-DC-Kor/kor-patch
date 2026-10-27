@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 2991a44287c5e3bcf725843b2fb78e122822120c8bf7ddef670f686b9cbaba18
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-빨리, 빨리 고아원으로!!
+어서, 어서 고아원으로!!
 [ENDBLOCK]

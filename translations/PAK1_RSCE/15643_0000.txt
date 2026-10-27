@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 6cd8e2212c001ea6b1932edc02a52b39604093ef76d47a0dc56be8f2b738b6c3
 
 보너스
 
@@ -5,8 +6,8 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-빨리 친구들을 구하고 싶어.
-숨겨진 통로를 통해 신전으로 가자.
+어서 동료를 구하고 싶어.
+비밀 통로를 지나 신전으로 가자.
 [ENDBLOCK]
 네.
 [ENDBLOCK]

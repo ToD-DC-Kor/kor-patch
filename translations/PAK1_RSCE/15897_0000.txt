@@ -1,5 +1,6 @@
+// RSCE_NATIVE_V1 db9dfea9b09788fb4421dfe9c075f9eb67706ec6cfc55004286fa2bed2fabea9
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -7,19 +8,19 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 있잖아, <Rutee>의 꿈은 뭐야?
 [ENDBLOCK]
-음……
+으음……
 [ENDBLOCK]
-귀여운 신부가 되는 거.
+귀여운 신부가 되는 것.
 [ENDBLOCK]
 귀……!
 [ENDBLOCK]
-뭐……뭐 때문에 말문이 막힌 거야, 딤로스.
+뭐…… 뭘 말을 잃고 그래, 딤로스.
 [ENDBLOCK]
 ……뭐, 당연히 농담이지만.
 [ENDBLOCK]
 그렇구나……
 [ENDBLOCK]
-꿈이 이루어지면 좋겠다!
+꿈을 이루면 좋겠다!
 [ENDBLOCK]
-……순순히 믿고 있는 것 같네?
+……그대로 믿어 버린 것 같은데?
 [ENDBLOCK]

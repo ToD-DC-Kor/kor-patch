@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 a7cad1437cf00f571c9954b47258c6ea0791075980b9d9d5e3d2a2ddda906b14
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 분명 안쪽에 봉인 시설로 가는
-장치가 있었을 텐데.
+장치가 있었을 거야.
 [ENDBLOCK]

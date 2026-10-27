@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 f9e1c599d9b25868290632db19cee3817ec9c5dc50995754729c537d127c2a2d
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-분명 이 최심부에 신의 눈을
-봉인했었을 텐데.
+분명 이곳 가장 깊은 곳에 신의 눈을
+봉인했을 텐데.
 [ENDBLOCK]

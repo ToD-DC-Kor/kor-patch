@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 d038ed9f156b011867b6c00a80e81decbb0b784fb23d5980ebb5cc7be596e4a0
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-부유 크루저를 찾는 것이
-최우선이 아닐까요?
+부유 크루저를 찾는 게
+가장 급하지 않을까?
 [ENDBLOCK]

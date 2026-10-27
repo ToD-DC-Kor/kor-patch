@@ -1,19 +1,20 @@
+// RSCE_NATIVE_V1 eb6b91a311410ddf51fb50a345bff74fee51b50082146e42cd15022d1cbf76f8
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-……
+…………
 [ENDBLOCK]
-<Mary> 씨가 쓰러진 채로 있어요.
-빨리 회복시켜 드려야겠어요.
+<Mary> 씨가 계속 쓰러져 계세요.
+어서 회복시켜 드려야 해요.
 [ENDBLOCK]
-그렇군. 이런 녀석이라도,
-쓸 수 없으면 전력이 떨어져서 곤란해.
+그렇군. 이런 녀석이라도
+쓸 수 없으면 전력이 줄어 곤란해.
 [ENDBLOCK]
-잠깐 너. 그게 무슨 말버릇이야.
+잠깐, 너. 말이 그게 뭐야.
 [ENDBLOCK]
-<Rutee>, 지금은 <Mary>의 일이 먼저야.
+<Rutee>, 지금은 <Mary>가 먼저야.
 [ENDBLOCK]

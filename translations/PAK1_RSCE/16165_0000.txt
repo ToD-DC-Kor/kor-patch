@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 8cc07a4626b8a14b3b0f8b4dc8c10721817a79d4a1e85ec4632b302713fde0cb
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-항구로 향하자.
+항구로 가자.
 [ENDBLOCK]

@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 d26d58549f21bb2b354e1c5a1502008b43c8f6a9e4f531adae978e3a000f27f2
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-모두가 있는 곳으로 돌아가자.
-틀림없이 술집 같은 데 모여 있을 거야.
+다들 있는 곳으로 돌아가자.
+분명 술집 같은 데 모여 있을 거야.
 [ENDBLOCK]

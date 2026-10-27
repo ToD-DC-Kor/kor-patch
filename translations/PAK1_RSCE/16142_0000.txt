@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 42576da5ee5a9369a91e2e0229d6000f18cd60fb51b0a093a2ad9031c61d6658
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-지금은 다른 할 일이 있을 텐데.
+지금은 달리 할 일이 있을 텐데.
 [ENDBLOCK]

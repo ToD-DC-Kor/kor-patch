@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 f0d96a0374ce4ebb2b3bd49738c8f2110ad007b2f60409d7201d801066087df4
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 비행룡은……
-세인가르드 성에 있을 거다.
+세인가르드 성에 있을 거야.
 [ENDBLOCK]

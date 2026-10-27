@@ -1,12 +1,13 @@
+// RSCE_NATIVE_V1 df9b50ab85498d47d47479ef4d2ba54d8c80b1e84c09c96408d85290511f2750
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 정크랜드는
-칼바레이스의 서쪽에 있습니다.
+칼바레이스 서쪽에 있어요.
 [ENDBLOCK]
-베르셀리움이 발견되기를 기도합시다……
+베르셀리움이 발견되길 기도해요……
 [ENDBLOCK]

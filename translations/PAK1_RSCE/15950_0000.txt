@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 05f1bd55f3e34cc9f3eec352c4117944879dec53ca359fb62c96153b3710488c
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-리트라는 중심부에 있을 거야.
+리트라는 중추부에 있을 거다.
 서두르자.
 [ENDBLOCK]

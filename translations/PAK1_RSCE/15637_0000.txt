@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 de0f8bf5ae04e2cb33c612258c28049672b3fcae8f4c68506c548510137937d1
 
 보너스
 
@@ -5,5 +6,5 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-북쪽 문을 향해 가려고 하지 않았나?
+북문으로 가려던 것 아니었느냐?
 [ENDBLOCK]

@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 7a7c37fc66908e13b9e37ceb576ece19a007d612c1473587fee465b208c9bdb7
 
 보너스
 
@@ -5,20 +6,20 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-아직 자기소개를 안 했었지.
-나는 <Stahn> 엘론이야.
+아직 자기소개를 안 했네.
+난 <Stahn> 엘론이야.
 [ENDBLOCK]
-<Stahn> 씨, 맞죠.
+<Stahn> 씨시군요.
 [ENDBLOCK]
-여자 두 분의 이름이,
-<Mary> 씨와 <Rutee>.
+여자 두 분의 이름은
+<Mary> 씨랑 <Rutee>야.
 [ENDBLOCK]
-<Mary> 씨랑 <Rutee> 씨.
-네.
+<Mary> 씨에 <Rutee> 씨.
+네, 알겠어요.
 [ENDBLOCK]
-나머지는 <Lion>이야. 체구는 작지만,
-엄청 강하다고!
+그리고 <Lion>. 몸집은 작아도
+엄청 강해!
 [ENDBLOCK]
-너, 그런 말 <Lion>한테 들리면,
-분명 가만히 안 있을 거야.
+너, 그런 말을 <Lion>한테 들키면
+절대 무사하지 못할걸.
 [ENDBLOCK]

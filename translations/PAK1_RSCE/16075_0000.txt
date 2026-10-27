@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 13ba26b3548ab42679df5950162b792fde8fd66e1db9051879b9a5fb28c07fb1
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-지금 가야 할 곳은 다른 데야.
+지금 가야 할 곳은 다른 곳이야.
 [ENDBLOCK]

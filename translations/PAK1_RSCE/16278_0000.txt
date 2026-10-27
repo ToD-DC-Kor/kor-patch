@@ -1,11 +1,12 @@
+// RSCE_NATIVE_V1 d783430a62515b7566a1126e1866d711391382391aa242ec46b62de366f80a28
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-외해에 나타난 무장 선단을 격파하자.
+앞바다에 나타난 무장 선단을 치자.
 [ENDBLOCK]
-항구에서 배를 타고 출발합시다.
+항구에서 배를 타고 나가죠.
 [ENDBLOCK]

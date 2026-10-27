@@ -1,12 +1,13 @@
+// RSCE_NATIVE_V1 f9c1b3a136fae97827520dd753ab68c4a9f6549d86bfe049bbdc7fb110f796ed
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 여기서는
-토케이가 가장 가까울 것 같아.
+토케이가 제일 가까울 것 같은데.
 [ENDBLOCK]
-렌즈를 받으러 가볼까?
+렌즈를 받으러 가 볼까.
 [ENDBLOCK]

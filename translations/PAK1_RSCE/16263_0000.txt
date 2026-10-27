@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 e04901a45e8b99e7f69d84b6e2e59fb9713cbf33a411064caf635963e9150a5e
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-도련님, 폐하께 보고드리는 것보다
-서둘러 항구로 가는 게 좋겠어요.
+도련님, 폐하께 보고하는 것보다
+어서 항구로 가죠.
 [ENDBLOCK]

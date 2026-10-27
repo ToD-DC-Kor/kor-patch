@@ -1,12 +1,13 @@
+// RSCE_NATIVE_V1 a3e610b3a0f6054524957b5a2889ce17126d79b17d812d6ad6b57734ac398a4a
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 여기서는
-노이슈타트가 제일 가까운 거 아냐?
+노이슈타트가 제일 가깝지 않나?
 [ENDBLOCK]
 렌즈를 받으러 가자고.
 [ENDBLOCK]

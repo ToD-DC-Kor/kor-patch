@@ -1,21 +1,22 @@
+// RSCE_NATIVE_V1 7ee55fdca19dac663a8c47bc2321136b5399ca195a921a36f6933a254c55753b
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Chelsea>의 장래 꿈은 뭐야?
+<Chelsea>의 장래 희망은 뭐야?
 [ENDBLOCK]
-그건 물어볼 필요도 없을 것 같은데.
+그건 안 물어봐도 알겠는데.
 [ENDBLOCK]
-신부가 되는 거죠, 당연히!
-물론 상대는 <Woodrow> 님이에요.
+신부가 되는 게 당연하죠!
+물론 상대는 <Woodrow> 님이고요.
 [ENDBLOCK]
-봤지?
+거봐.
 [ENDBLOCK]
 <Chelsea>는 대단하네.
-그렇게 확실한 꿈이 있다니 말이야.
+그렇게 뚜렷한 꿈이 있고.
 [ENDBLOCK]
-꿈이라기보다는 이루지 못할 야망이지.
+꿈이라기보다는 끝없는 야망이군.
 [ENDBLOCK]

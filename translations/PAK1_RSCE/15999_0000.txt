@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 e058e1e88921519085acd18ad105b1e173f99db8de22602add1d25fec3bfde9d
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-여보세요? 다들 놔두고
-둘이서만 어디 갈 생각이야~?
+여보세요~. 다들 두고
+둘이서만 어디 가려고~?
 [ENDBLOCK]

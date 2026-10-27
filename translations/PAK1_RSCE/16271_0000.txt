@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 a92945c9ba83d675e951574022430ef2b2ad2d70bb62855971a8f7e0b1158f76
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-우리끼리만 마을 밖으로 나가는 건
+우리끼리만 도시 밖에 나가는 건
 위험해요.
 [ENDBLOCK]

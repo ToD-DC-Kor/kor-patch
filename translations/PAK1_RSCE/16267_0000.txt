@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 d1dc0c2cdf5f1423e3b6d09e2af343e32a67acb524d15858d5a44697ac17874a
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-출항하기 전에, 제대로
-만나고 싶어……
+출항하기 전에 제대로
+만나 두고 싶군……
 [ENDBLOCK]

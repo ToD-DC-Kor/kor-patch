@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 4ee2350a4471e01fc0c655fb6a4fbe61aa730c8f5c33e391d9d3c152541b3c79
 
 보너스
 
@@ -5,31 +6,31 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-눈길도 처음엔 재밌었는데,
-점점 추워져서 싫어지기 시작했어……
+눈길도 처음에는 즐거웠는데
+점점 추워서 싫어진다……
 [ENDBLOCK]
-나태하구나. <Mary>를 봐라.
-태연하지 않나.
+엄살 부리지 마라. <Mary>를 봐라.
+아무렇지도 않지 않느냐.
 [ENDBLOCK]
-<Mary> 씨,
-추운 것 정도는 아무렇지도 않으신가요?
+<Mary> 씨는
+춥지 않으세요?
 [ENDBLOCK]
-이 정도라면 괜찮아.
-어쩌면 내게 맞는 기후인 것 같군.
+이 정도쯤이야.
+아무래도 나한테 잘 맞는 날씨인가 봐.
 [ENDBLOCK]
-부럽습니다……
+부럽네요……
 [ENDBLOCK]
-에
+이
 [ENDBLOCK]
-에
+로
 [ENDBLOCK]
 <S13>에……
 [ENDBLOCK]
-에
+하
 [ENDBLOCK]
-에
+니
 [ENDBLOCK]
 <S11>에취!<S15>
 [ENDBLOCK]
-에
+호
 [ENDBLOCK]

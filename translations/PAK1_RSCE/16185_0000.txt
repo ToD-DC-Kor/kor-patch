@@ -1,31 +1,34 @@
+// RSCE_NATIVE_V1 2b2f276b73a24d4d5065c55925c746e385aaa134fa0412213d5be0c0112927e0
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Woodrow> 님~ 들어보세요~!
+<Woodrow> 님~, 들어 보세요~!
 [ENDBLOCK]
 무슨 일이야, <Chelsea>?
 [ENDBLOCK]
-사실은 말이죠……
+실은요……
 [ENDBLOCK]
-<Stahn> 씨가 자기 신부를 산다고 해요.
+<Stahn> 씨가
+자기 신부를 사려나 봐요.
 [ENDBLOCK]
-아까 <Philia> 씨가 신부를 팔지 말지 얘기하고 있었대요.
+아까 <Philia> 씨가 신부를
+판다느니 안 판다느니 하셨대요.
 [ENDBLOCK]
 하하하…… 그럴 리가 없잖아.
 [ENDBLOCK]
-신부는 사고팔 수 있는 게 아니야.
-뭔가 오해가 있었던 거 아닐까?
+신부는 사고파는 게 아니야.
+뭔가 오해가 있는 게 아닐까.
 [ENDBLOCK]
-부우. 웃을 것 까진 아니잖아요.
+쳇. 웃으실 것까진 없잖아요.
 [ENDBLOCK]
-……하지만 그렇겠죠,
-틀림없이 제가 성급하게 판단했나 봐요.
+……하지만 그렇겠죠.
+분명 제가 성급하게 짐작했나 봐요.
 [ENDBLOCK]
-화룡점정을 찍지 못한 격이네요!
+화룡점정을 빠뜨린다는 게 이런 거군요!
 [ENDBLOCK]
-음……
+으음……
 [ENDBLOCK]

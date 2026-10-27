@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 5165e48c4262ae272fd75a164fb1398c7209f3be7f7cd921edb343737af97c75
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-신의 눈은 항구로 운반되었을 가능성이 높아.
+신의 눈은 항구로 옮겨졌을 가능성이 높아.
 서둘러 항구로 가자.
 [ENDBLOCK]

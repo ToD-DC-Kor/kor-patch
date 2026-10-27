@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 b9df4ac2d575fa3cc5651a50b2544bcaa4e6abec331e8eb1ebe926be71993ebf
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-다음 목적지는 여기서 서쪽이로군.
+다음 목적지는 여기서 서쪽이군.
 [ENDBLOCK]

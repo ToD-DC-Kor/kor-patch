@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 8ded4d3d3e684b101f2274697e25a5461277a1e559ef79dc3355a24b5de95fba
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 이그나시에서 슈사이아를 거쳐
-믹하일로 향합시다.
+믹하일로 가죠.
 [ENDBLOCK]

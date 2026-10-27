@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 db124ea3bf1c489a3a062356fcfc8947b9379b4b749eaa77cffb2e87e4dd2299
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-지금은 들를 시간이 없어.
-어쨌든 라디슬로우로 가자.
+지금은 한눈팔 시간이 없어.
+일단 라디슬로우로 가자.
 [ENDBLOCK]

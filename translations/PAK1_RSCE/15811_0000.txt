@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 76c60c614c9758f732809107a0290ad93b7cbd86232bf324c1ac5dbce21e5b79
 
 보너스
 
@@ -5,8 +6,8 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-지금 우리가 의지할 수 있는 분은
-저 <Johnny> 씨 뿐입니다.
+지금 우리가 의지할 수 있는 사람은
+그 <Johnny> 씨뿐이에요.
 [ENDBLOCK]
-자세한 이야기를 들어봅시다.
+자세히 이야기를 들어 봐요.
 [ENDBLOCK]

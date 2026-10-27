@@ -1,19 +1,20 @@
+// RSCE_NATIVE_V1 2d41a896983e4a227c486b72a3a612324d3962f9761d4abd6cbcbd3c652ee7c7
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-해야 할 때 해야 할 일을 말인가……
+해야 할 때 해야 할 일을 하라……
 [ENDBLOCK]
-<Johnny> 씨는 무슨 생각으로
-그렇게 말한 걸까.
+<Johnny> 씨는 무슨 뜻으로
+한 말씀이실까.
 [ENDBLOCK]
-……
+…………
 [ENDBLOCK]
-음……
+으음……
 [ENDBLOCK]
-……쉬고 싶어지면 숙소로 향해.
-내일을 위해 준비하는 거다.
+……쉬고 싶어지면 여관으로 가라.
+내일을 대비해야지.
 [ENDBLOCK]

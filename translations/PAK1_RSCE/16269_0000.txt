@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 44fd2506ce71bf9e777b306e85092614907fb2f0c34a13f4df67ecd2da5e3f61
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-도련님, 일단 여관으로 가시죠.
+도련님, 우선 여관으로 가죠.
 [ENDBLOCK]

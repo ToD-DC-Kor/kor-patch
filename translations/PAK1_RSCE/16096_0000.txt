@@ -1,22 +1,23 @@
+// RSCE_NATIVE_V1 5e24f6574816136a4ef6e452a033ae61f3dc88a02839efe7c84fb660165428c6
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-(뚫어져라 쳐다보는 중)
+빤히……
 [ENDBLOCK]
-왜 나를 그렇게 쳐다보는 거야?
-내가 뭐 잘못했어?
+왜 나를 쳐다봐?
+나한테 뭐 묻었어?
 [ENDBLOCK]
-아니요, 아무것도 아닙니다.
-죄송합니다.
+아뇨, 아무것도 아니에요.
+죄송해요.
 [ENDBLOCK]
-(뚫어져라 쳐다보는 중)
+빤히……
 [ENDBLOCK]
-무, 무슨 일이세요?
+왜, 왜 그러세요?
 <Lilith> 씨?
 [ENDBLOCK]
-그러니까, 뭐냐고.
+그러니까 왜 그러냐고.
 [ENDBLOCK]

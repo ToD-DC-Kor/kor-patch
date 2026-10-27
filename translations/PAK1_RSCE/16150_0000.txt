@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 c58731425a4d6f66e81abb7056c9a8440a9b4dc4544e6f2223a36d9b8cc37301
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-주변을 빠짐없이 조사해보게. 반드시 무언가 있을 거야.
+주변을 샅샅이 살펴봐라. 분명 뭔가 있다.
 [ENDBLOCK]

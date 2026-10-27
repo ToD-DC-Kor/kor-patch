@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 9c8cd237e4564d29a25d16fffac5c4fd614195ecc5fc2d436d32d8a9f39db761
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-우리가 목표로 하는 중추부에
-일레느도 있을 거야. 방심은 금물이다.
+우리가 가려는 중추부에
+일레느도 있을 거다. 방심하지 마라.
 [ENDBLOCK]

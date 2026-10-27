@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 fc8818cc0b529c653a5bec6e37482e43d2acddb11893797e128fca56e4987704
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-잠깐, 잠깐,
-<Stahn>을 잊고 있었어.
+잠깐, 잠깐.
+<Stahn>을 잊었잖아.
 [ENDBLOCK]

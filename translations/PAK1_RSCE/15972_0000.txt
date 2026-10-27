@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 4557344f3e4a5f2c33d1dbb7643614a36c1d1f9c2d68b766fed9a0cb78ee58fd
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-수호룡의 제어장치는
-클라우디스 안에 있을 걸세.
+수호룡 제어 장치는
+클라우디스 안에 있을 게야.
 [ENDBLOCK]

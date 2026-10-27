@@ -1,23 +1,24 @@
+// RSCE_NATIVE_V1 861bb6b145db63100ba093df504c2f8319f6ba02a2df8566de1ae0c3d17c44cf
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-여기가 하이델베르그군……
+여기가 하이델베르그……
 [ENDBLOCK]
-<Mary>는 전에도 와본 적 있지?
+<Mary>는 전에도 와 봤지?
 어때, 그리워?
 [ENDBLOCK]
-아니…… 다리스에게서 자주 들었지만……
+아니…… 다리스에게 이야기는 많이 들었지만……
 [ENDBLOCK]
-실제로 보는 건 처음이야.
+직접 보는 건 처음이야.
 [ENDBLOCK]
-아름다운 거리 풍경이네.
+아름다운 거리네.
 [ENDBLOCK]
-그래. 이곳이 불길에 휩싸이는 걸
-보고 싶진 않아……
+그래. 이곳이 불길에 휩싸이는 모습은
+보고 싶지 않아……
 [ENDBLOCK]
-……
+…………
 [ENDBLOCK]

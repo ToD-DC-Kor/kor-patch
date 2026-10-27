@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 b755cbb0c92c540638f083c8e17edc8d3610b4003896c64ba219b575465afc7e
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-저녁 식사 반찬이라. 뭘 사야 할까.
+저녁 반찬이라. 뭘 사면 좋을까.
 [ENDBLOCK]

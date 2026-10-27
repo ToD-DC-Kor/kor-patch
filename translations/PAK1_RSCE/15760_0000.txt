@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 ca9a8dc0cae523ec63a95dae63649e881cfdb4d8fa4434ead3479dc2b076a5bf
 
 보너스
 
@@ -5,18 +6,18 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Stahn> 씨, 최근에 <Lion> 씨와
-자주 대화하시는 것 같아요.
+<Stahn> 씨, 요즘 <Lion> 씨하고
+이야기를 자주 나누시네요.
 [ENDBLOCK]
-그런가?	별로 전이나 지금이나
-특별히 달라진 게 없다고 생각하는데.
+그런가?	난 딱히 전이랑
+달라진 건 없는 것 같은데.
 [ENDBLOCK]
-<Stahn> 씨가 아니라,
-<Lion> 씨 쪽이 변한 거예요.
+<Stahn> 씨가 아니라
+<Lion> 씨가 달라지신 거예요.
 [ENDBLOCK]
 아주 조금이지만요.
 [ENDBLOCK]
 음…… 잘 모르겠네.
 [ENDBLOCK]
-뭐, 잘 되고 있다면 그걸로 됐지.
+뭐, 잘 지내고 있다면 됐지.
 [ENDBLOCK]

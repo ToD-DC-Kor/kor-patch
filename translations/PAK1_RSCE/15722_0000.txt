@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 2699a9facca35fdaf8837dd5c7dc3495b043b88c5592eee67be12e9a0f3f2370
 
 보너스
 
@@ -5,6 +6,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-클레멘트가 있는 곳은
-라디슬로우의 안쪽입니다.
+클레멘테는
+라디슬로우 안쪽에 있어요.
 [ENDBLOCK]

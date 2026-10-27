@@ -1,23 +1,24 @@
+// RSCE_NATIVE_V1 10cddfa1dd1140a8ed5eb352e6b6a258acbb2131499d2c3ac03d97083c8bba87
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-……
+…………
 [ENDBLOCK]
 <Rutee>, 정신 차려, <Rutee>!
 [ENDBLOCK]
-당황하지 마. 생명의 병을 사용해.
+당황하지 마라. 라이프 보틀을 써.
 [ENDBLOCK]
-그래. 좋아.
+그렇지. 좋아.
 [ENDBLOCK]
-……자, 이거 먹어 <Rutee>.
+……자, 이거 먹어, <Rutee>.
 [ENDBLOCK]
-누가 사과 젤리를 꺼내라고 했어.
-생명의 병이야.
+누가 애플 구미를 꺼내라고 했나.
+라이프 보틀이다.
 [ENDBLOCK]
-걱정해주는 건 고맙지만,
-좀 더 침착해졌으면 좋겠는데.
+걱정해 주는 건 고맙지만
+좀 더 침착했으면 좋겠네.
 [ENDBLOCK]

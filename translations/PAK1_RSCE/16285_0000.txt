@@ -1,17 +1,18 @@
+// RSCE_NATIVE_V1 da431ec1c2d53932bb6b2d2d3cd8aafe4f33d81028168aea32ce30b4d3815627
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-임무로 하멘츠 마을에 가는 것은
+임무로 하멘츠 마을에 가는 건
 이번이 두 번째네요.
 [ENDBLOCK]
-아아, 그렇군……
+그래, 그렇지……
 [ENDBLOCK]
 그때는……
 [ENDBLOCK]
 아니, 잡담은 그만두자.
-하멘츠 마을로 향하자.
+하멘츠 마을로 가자.
 [ENDBLOCK]

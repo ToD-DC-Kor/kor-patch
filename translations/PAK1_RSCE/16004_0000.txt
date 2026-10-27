@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 0402a0cbaed1e86fd1bd9255e2379284a94b62b2814ef8f74acbb4ad8bd4435b
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-외각 위를 걸어서 믹하일을 향해 가자.
-부유 크루저를 반드시 얻어야 해.
+외각 위를 걸어서 믹하일로 가자.
+부유 크루저를 구해야 해.
 [ENDBLOCK]

@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 c99bdf821a63d2f9affe01a278e8706a9aa8bca6ce24be5a3dd0f66d98dafc63
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-병사가 말했던
-고아를 찾아볼까.
+병사가 말한
+고아원을 찾아볼까.
 [ENDBLOCK]

@@ -1,198 +1,177 @@
+// RSCE_NATIVE_V1 a583f6ddf49fae909ed9819f864f8fd15e1e2d428ea85a3b083a9a5cdcc9a10e
 <King>
 [ENDBLOCK]
-<Lion>여<x99>
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-
-[ENDBLOCK]
-<xA5>스트레이라이즈 신전 조사,
-잘 부탁한다.
+<Lion>, 스트레이라이즈 신전 조사를
+확실히 부탁하네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
 서둘러 스트레이라이즈 신전으로
-향하거라.
+향하게.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-무슨 일이 있어도 신의 눈을 되찾아야 한다.
-부탁하마.
+무슨 수를 써서라도 신의 눈을 되찾게.
+부탁하네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-수고했다.
-다음 일도 부탁한다.
+수고 많았네.
+다음에도 부탁하네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-부탁한다, <Lion>.
+부탁하네, <Lion>.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-<Lion>이여, 스트레이라이즈 신전 조사를
-부탁한다.
+<Lion>, 스트레이라이즈 신전 조사를
+확실히 부탁하네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
 서둘러 스트레이라이즈 신전으로
-향하거라.
+향하게.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-무슨 일이 있어도 신의 눈을 되찾아야 한다.
-부탁하마.
+무슨 수를 써서라도 신의 눈을 되찾게.
+부탁하네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-신의 눈을 되찾는 것이 최우선이다.
-그것만은 잊지 말아라.
+신의 눈을 되찾는 것이 최우선이네.
+그것만은 잊지 말게.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-<Hugo>…… 지금까지 나를
-계속 속이고 있었던 거냐.
+<Hugo> 놈…… 지금까지 짐을
+계속 속여 왔단 말인가.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-소디언 마스터들이여,
-크레스타를 구해다오.
+소디언 마스터 제군,
+크레스타를 구해 주게.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-여러분, 피곤한 와중에 미안하지만,
+제군, 피곤한데 미안하지만
 <Reynolds>에게 가 주게.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-우리나라는 총력을 다해
-여러분의 행동을 지원하겠소.
+우리나라는 총력을 기울여
+제군의 행동을 지원하겠네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-마을의 여관에 방을 잡아두었소.
-부디 몸을 쉬시기 바라오.
+마을 여관에 방을 잡아 두었네.
+부디 몸을 쉬게 하게.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-우리가 할 수 있는 일은 모두 했소.
-나머지는 부탁하오, 여러분.
+우리가 할 수 있는 일은 다 했네.
+뒷일은 부탁하네, 제군.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-폐하의 기대에 어긋나는 일은
-절대로 있어서는 안되오.
+폐하의 기대를 저버리는 일은
+만에 하나라도 있어선 안 된다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-크레스타는 왕도에서 동쪽으로 간 마을이오.
+크레스타는 왕도에서 동쪽으로 가면 나오는 마을이다.
 
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-마을에 도착하면 우리 군의
-주둔병을 찾으시오.
+마을에 도착하면 아군의
+주둔 병사를 찾아라.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-폐하의 기대에 어긋나는 일은
-절대로 있어서는 안되오.
+폐하의 기대를 저버리는 일은
+만에 하나라도 있어선 안 된다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-적어도 칠장군이 성에 모여 있었다면,
+적어도 칠장군이 성에 다 모여 있었다면
 이런 일은 없었을 텐데.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-각지에 칠장군이 분산된 것도,
-지금 생각해보면 <Hugo>의 계략이었나……
+칠장군이 각지로 흩어진 것도
+지금 생각하면 <Hugo>의 계략이었나……
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-<Hugo>놈, 우리나라를 적으로 돌린 것을
-후회하게 해주겠다.
+<Hugo> 놈, 우리나라를 적으로 돌린 걸
+후회하게 해 주마.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-군의 구원병도 곧 보내겠소.
-그때까지 버텨주시오.
+군의 지원도 곧 보내겠다.
+그때까지 버텨 주게.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-<Reynolds>가 여러분에게 할 말이 있다고 하오.
+<Reynolds>가 제군에게 할 말이 있다더군.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-성의 안뜰에 연구실 입구가 있소.
-착각하지 마시오.
+성 안뜰에 연구실 입구가 있다.
+착각하지 마라.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-국내 모든 시군에 지령을 내려
-렌즈를 모으고 있소.
+나라 안 모든 도시와 마을에 지시를 내려
+렌즈를 모으고 있다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-계속해서 일을 떠맡기게 되어
-정말 죄송하오.
+계속해서 일만 떠맡기게 되어
+정말 미안하군.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-작전 개시는 내일 아침으로 예정하고 있소.
+작전 결행은 내일 아침으로 예정되어 있다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-소디언 팀 여러분의 승리를
-믿고 있소.
+소디언 팀 제군의 승리를
+믿고 있다.
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-여기는 알현실입니다.
+이곳은 알현실입니다.
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-자, 여러분도 빨리 안뜰로.
+자, 여러분도 어서 안뜰로 가십시오.
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-폐하 앞으로 나아가 주십시오.
+부디 폐하 앞으로 나아가십시오.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-준비한 배는 다릴쉐이드 항구에
-입항할 예정이다.
+수배한 배는 다릴쉐이드 항구에
+들어올 예정이다.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-조심히 다녀와, <Mary>.
+조심해서 다녀와, <Mary>.
 
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Mary>를 잘 부탁한다
+<Mary>를 잘 부탁한다,
 <Woodrow>.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Mary>를 잘 부탁한다.
-팬더리아의 일은 나에게 맡겨 달라.
+<Mary>를 잘 부탁해.
+팬더리아는 내게 맡겨 줘.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -200,8 +179,8 @@
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-네. 과거 천상계를 다스렸던 인물로,
-이번 소동의 주범이기도 합니다.
+예. 과거 천상계를 다스렸던 인물로
+이번 사태의 장본인이기도 합니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -211,84 +190,84 @@
 <King>
 [ENDBLOCK]
 하늘이 외각으로 덮인 것도……
-심지어 <Greybum>의 난까지도……
+애초에 <Greybum>의 난조차도……
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-모두 <Miktran>의,
+모두 <Miktran>의
 계략이었다는 말인가……
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-고대의 천상왕……
-어떤 인물이었던 거지?
+옛 천상왕이라……
+어떤 인물이었는가?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-한마디로 표현하자면, 압도적입니다.
+한마디로 압도적이었습니다.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-온몸에서 뿜어져 나오는 폭풍 같은 위압감.
-<Belserius>를 손쉽게 다루는 실력.
+온몸에서 폭풍처럼 뿜어져 나오는 위압감.
+<Belserius>를 가볍게 다루는 실력.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-모든 게 차원이 달랐습니다.
+모든 게 차원이 달랐어요.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-도망치기 바빴죠.
-저건, 상대가 너무 강했어……
+달아나는 게 고작이었어.
+상대가 너무 나빴지……
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-적어도 신의 눈을 되찾았더라면……
-제 무력함을 뼈저리게 느낍니다.
+하다못해 신의 눈이라도 되찾았다면……
+제 무력함을 통감하고 있습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-아니, 책임을 물어야 할 것은
-오히려 우리나라 쪽입니다.
+아닙니다. 책임을 물어야 한다면
+오히려 우리나라 쪽이지요.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-우리나라가 <Hugo>의 정체를 알아채지 못하고
-중용한 탓에, 이런 사태가 벌어졌으니까요.
+우리나라가 <Hugo>의 정체를 모르고
+중용한 탓에 이런 사태가 벌어졌습니다.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-지난 일을 후회하기보다는
-앞으로의 일을 생각합시다.
+지나간 일을 후회하기보다
+앞으로의 일을 생각하지요.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-우연이긴 하지만, 지금 이 자리에는
-세 나라의 수뇌부가 모여 있습니다.
+우연이긴 하지만 지금 이곳에는
+세 나라의 정상이 모여 있습니다.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-신속히 국가 간 연계 체제를 정비하고
-대응책을 내놓아야 할 것 같습니다.
+서둘러 국가 간 협력 체제를 갖추고
+대응책을 내놓아야 합니다.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-지상 연합군 대 천상군.
-말 그대로 천지전쟁이군.
+지상 연합군 대 천상군이라.
+그야말로 천지 전쟁이군.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-소디언 마스터 여러분도
-의견이 있다면 들려주길 바란다.
+소디언 마스터 제군도
+생각이 있다면 들려주게.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-우리는 다시 한 번 위로 올라갑니다.
+저흰 다시 위로 올라가겠습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아니, 한 번이 아니라 몇 번이라도.
-<Miktran>을 물리칠 때까지 포기하지 않겠습니다.
+아니, 한 번이 아니라 몇 번이라도요.
+<Miktran>을 쓰러뜨릴 때까지 포기 안 합니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -297,7 +276,7 @@
 <Dymlos>
 [ENDBLOCK]
 아, 그래……
-물론이지만……
+물론 그렇지만……
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -309,8 +288,8 @@
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-상처투성이잖아.
-무슨 일이야!?
+온몸이 상처투성이잖아.
+대체 무슨 일이야!?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -323,13 +302,13 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-우리도 필사적으로 방어했지만,
-천상 측의 맹공을 견디지 못하고……
+저희도 필사적으로 막았지만
+천상 측의 맹공을 버티지 못해서……
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
 이제…… 무중력 엘리베이터도
-사용할 수 없게 됐습니다……
+쓸 수 없습니다……
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -337,16 +316,16 @@
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-사령관은……
+사령관님은……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-빨리 치료를!
+어서 치료를!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
 라디슬로우를 잃었다면
-우리가 위로 올라갈 방법이 없어.
+우리가 위로 올라갈 방법은 없어.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -354,57 +333,57 @@
 [ENDBLOCK]
 세인가르드 병사
 [ENDBLOCK]
-또, 또 보고드립니다!
+아, 아뢰옵니다!
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-이번엔 무슨 일이냐!?
+이번엔 또 무슨 일이냐!?
 [ENDBLOCK]
-크레스타 주둔 부대에서 지원 요청이 왔습니다!
+크레스타 주둔 부대의 지원 요청입니다!
 [ENDBLOCK]
-하늘에서 내려온 몬스터 대군에 의해
+하늘에서 내려온 몬스터 무리에게
 마을이 공격받고 있다고 합니다!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-크레스타라고요!?
+크레스타라고!?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Miktran> 놈……
+<Miktran> 놈……!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-지상을 어둠으로 가두는 것만으로는 성에 차지 않아
-우리를 서서히 괴롭혀 죽일 작정인가.
+지상을 어둠에 가두는 것만으론 부족해서
+우리를 괴롭히다 죽일 셈이군.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-이런, 일부러 우리 군의 방비가
-허술한 곳을 노려왔군?
+이놈들, 일부러 아군 방비가
+허술한 곳을 노린 건가?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-어째서……!
-농담이 아니라고!
+왜……!
+그만해, 말도 안 돼!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-이대로 있을 순 없어.
+이러고 있을 때가 아니야.
 당장 돌아가야 해!
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
 그럴 필요 없다.
-곧 우리 군의 구원 부대를 보낼 테니.
+즉시 아군 구원 부대를 보낼 테니.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그런 걸 믿을 리가 없잖아요!
+그런 말을 믿을 수 있을 리 없잖아!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-기다려 <Rutee>! 나도 갈게!
+기다려, <Rutee>!	나도 갈게!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -412,25 +391,25 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아니…… 우리도 가자.
+아니…… 우리도, 라고 해야겠네.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-상황이 급박한 것 같습니다.
+상황이 급박한 것 같아요.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-바로 움직일 수 있는 우리가
+바로 움직일 수 있는 저희가
 가는 게 좋겠어요.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-……알겠다. 여러분에게 맡기지.
-구원 부대도 준비되는 대로 파견하겠다.
+……알겠네. 제군에게 맡기지.
+구원 부대도 준비되는 대로 파견하겠네.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-나도 같이 가겠어.
+나도 함께 가지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -438,26 +417,26 @@
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-지금은 조금이라도 더 많은 손이 필요할 거야.
-이런 나라도 전력에 보탬이 될 수 있을 거야.
+지금은 일손이 조금이라도 더 필요하겠지.
+나라도 전력에는 보탬이 될 거야.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-게다가 아쿠아베일의 대표 선수가
-팀에 없는 것도 이상하잖아?
+게다가 팀에 아쿠아베일 대표 선수가
+없어도 이상하잖아?
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-우리 사이에선 이미 이야기가 끝났습니다.
-부디 거리낌 없이 부려먹어 주세요.
+저희끼리는 이미 이야기가 끝났습니다.
+부디 사양 말고 부려 주세요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-감사합니다, 도움이 됩니다.
+감사합니다. 큰 도움이 되겠어요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-좋아, 바로 크레스타로 향하자.
+좋아, 당장 크레스타로 가자.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -465,41 +444,41 @@
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-무사해서 다행이다. 걱정했어.
+무사해서 다행이야. 걱정했어.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Mary>도 건강해 보이는구나.
+<Mary>도 잘 지내는 것 같네.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Dalis>, 네가 올 줄은 몰랐어.
-나라에 무슨 일이라도 있었나?
+<Dalis>, 자네가 올 줄은 몰랐네.
+본국에 무슨 일이라도 있었나?
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-국내 각지에 습격한 몬스터는
-지금으로서는 모두 저지하고 있어.
+국내 곳곳을 습격한 몬스터는
+지금까지 전부 막아 내고 있다.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-그렇군……
-그 말을 들으니 안심이 되는군.
+그런가……
+그 말을 들으니 안심이야.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-내가 여기 온 이유는
-<Darzen> 님께서 전해달라고 부탁하신 물건 때문이야.
+내가 여기에 온 건
+<Darzen> 경이 전해 달라는 물건이 있어서야.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-지난번 <Greybum>의 난 때
-성을 습격한 드래곤을 기억하지?
+지난 <Greybum>의 난 때
+성을 습격했던 드래곤을 기억하겠지?
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-그 드래곤을 개조해서
-탑승 가능하게 만들었어. 그게 전해줄 물건이야.
+그 드래곤을 개조해
+탈 수 있게 만들었어. 그걸 전하러 왔다.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -508,8 +487,8 @@
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-구조적으로는 비행룡과 같다더군.
-고도는 그리 높이 올리지 못한다고 하지만.
+구조상으로는 비행룡과 같다더군.
+높이 올라가지는 못하는 모양이지만.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -519,37 +498,37 @@
 <Dalis>
 [ENDBLOCK]
 ……이건
-<Darzen> 님의 전언이야.
+<Darzen> 경이 전하는 말이다.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-지금은 마을 밖에 세워뒀어.
-가서 직접 확인해 보는 게 좋을 거야.
+지금 마을 밖에 세워 두었어.
+가서 직접 확인해 봐.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-……알겠다.
-감사히 사용하도록 하지.
+……알겠네.
+고맙게 쓰도록 하지.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-그 드래곤으로 이동할 수 있다면
-이보다 효율적인 건 없겠네요.
+그 드래곤으로 다닐 수 있다면
+이보다 편할 수가 없겠구먼.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 소디언 연구소에도
-그대로 타고 갈 수 있겠어.
+바로 타고 갈 수 있겠군.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-뭔가 분위기가
-바뀌어 가는 것 같아요.
+왠지 바람의 흐름이
+바뀌기 시작한 것 같네요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-운이 돌아오는 때는
-대체로 그런 법이지.
+운이 돌아올 때는
+대개 그런 법이야.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -557,85 +536,85 @@
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Mary>를 잘 부탁한다.
-팬더리아의 일은 나에게 맡겨 달라.
+<Mary>를 잘 부탁해.
+팬더리아는 내게 맡겨 줘.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<Woodrow>. 나는 네가 한 말을
-잊지 않고 있다.
+<Woodrow>, 네가 내게 했던 말을
+난 잊지 않았어.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
 그러니까…… 무사히 돌아와라.
-우리의 조국, 팬더리아로.
+우리 조국 팬더리아로.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-……약속하지.
+……약속하겠네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-그래서, 소디언 팀 여러분.
-앞으로의 작전은 정해졌나?
+그래서 소디언 팀 제군,
+앞으로의 작전은 정했는가?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-우선 소디언 연구소로 가서
+먼저 소디언 연구소에 가서
 전력을 강화하겠습니다.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-그 후 정크랜드로 가서
+그다음 정크랜드에 가서
 베르셀리움을 가져오겠습니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-저는 그 동안 성의 중정에서
-집적 렌즈포의 제작을 진행하겠습니다.
+전 그동안 성 안뜰에서
+집적 렌즈포 제작을 진행하겠습니다.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-<Dryden> 각하의 협조를 받아
-렌즈 조달도 동시에 진행할 예정입니다.
+<Dryden> 각하의 협력을 받아
+렌즈 조달도 함께 진행할 예정입니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
 이미 국내 모든 도시와 마을에
-렌즈 제공을 요청했습니다.
+렌즈를 내놓아 달라고 요청했습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-알겠다. 우리나라는 총력을 다해
-여러분의 행동을 지원하겠다.
+알겠네. 우리나라는 총력을 기울여
+제군의 행동을 지원하겠네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-내 자신이 아무것도 할 수 없다는 게 안타깝지만
-그만큼 협력은 아끼지 않을 생각이다.
+짐이 직접 아무것도 못 해 답답하지만
+그만큼 협력은 아끼지 않겠네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-부탁하네, 여러분.
+부탁하네, 제군.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-좋아. 그럼 우리는
-소디언 연구소로 향하자!
+좋아. 그럼 우린
+소디언 연구소로 가자!
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-소디언 팀 여러분,
-지금까지 수고 많았소.
+소디언 팀 제군,
+지금까지 수고 많았네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-집적 렌즈포도 완성되어
-드디어 모든 준비가 끝난 것 같소.
+집적 렌즈포도 완성되고
+드디어 모든 준비가 갖춰진 모양이군.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-내일 아침, 작전을 개시하겠소.
+내일 아침 작전을 결행하겠네.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -643,22 +622,22 @@
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-내일이라고……!
+내일인가……!
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-그래서 여러분들은 오늘 하룻밤
-편히 쉬었으면 하오.
+그러니 제군은 오늘 하룻밤
+푹 쉬어 주게.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-여러분을 위해 마을의 여관을 통째로 빌려두었소.
-마음껏 이용하시오.
+제군을 위해 마을 여관을 통째로 빌렸네.
+마음껏 쓰게.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-사실은 조국으로 돌아가고 싶겠지만……
-그럴 시간은 없소. 미안하오.
+사실은 조국에 돌아가고 싶겠지만……
+그럴 시간까지는 없네. 미안하네.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -667,28 +646,28 @@
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-자, 일단 마을로 이동하자.
-옥좌 앞에서 이야기하는 것도 실례니까.
+자, 일단 마을로 가자.
+옥좌 앞에 서서 떠드는 것도 황송하잖아.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-오, <Lion>인가. 너치고는
-시간이 꽤 걸렸구나.
+오, <Lion>. 너답지 않게
+시간이 걸렸구나.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-왕은 이미 취침하셨다.
-그래서, 조사는 어땠나?
+폐하께서는 이미 주무신다.
+그래서 조사는 어땠나?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-네. 확실히 정체불명의, 그것도
+예. 정체불명인 데다
 강력한 몬스터를 발견했습니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-그렇군. 그럼 급히 부대를
-보내야겠군.
+그런가. 그럼 급히 부대를
+보내도록 하지.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -696,32 +675,32 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-주변에 있던 몬스터는 모두
-소탕했다고 생각합니다.
+근처에 있던 몬스터는 모두
+소탕한 것으로 생각합니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-호오, 혼자서 말이냐.
+허어, 혼자서 해냈다니.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-아니요, <Chaltier>가
-있어 주었기에 가능했습니다.
+아닙니다. <Chaltier>가
+있어 준 덕분입니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-음. 그랬지.
-역시 소디언이군.
+음, 그렇지.
+역시 소디언이로군.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-그 훌륭한 활약, 반드시
+그 훌륭한 활약은 반드시
 폐하께도 보고하겠다.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-왠지 이 사람에게
-칭찬받으니 굉장히 부끄럽네요.
+왠지 이분께
+칭찬받으니 정말 쑥스럽네요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -729,88 +708,88 @@
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-그런데 <Lion>. 왜 그런
+그래서 <Lion>, 왜 그런
 몬스터가 나타났는지 알겠나?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……몬스터는 모두
+……몬스터는 전부
 바다에서 나타났습니다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-어쩌면 바다 밑에서
-무슨 일이 있었는지도 모릅니다.
+어쩌면 해저에서
+무슨 일이 생긴 건지도 모릅니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-그렇군. 추가 조사를 해야겠군.
+그런가. 추후에 조사시켜야겠군.
 수고했다, <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그럼, 이만 물러가겠습니다.
+그럼 이만 물러가겠습니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-잠깐, 기다려 <Lion>.
+잠깐 기다려라, <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-무엇입니까?
+무슨 일입니까?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-조만간 칠장군이 모이는 자리가
-있는데…… 어떠냐?
+곧 칠장군이 모이는 자리가
+있는데…… 어떤가?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-어떠냐, 라니요?
+어떠냐고 하시면?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-너는 객원 검사라 내부
-사람들과의 관계가 적을 테니.
+넌 객원 검사라 내부 사람들과는
+교류가 적을 테지.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-다시 한 번, 모두에게 소개하고 싶구나.
+정식으로 모두에게 소개하고 싶다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-……제가 같이 참석해도
-괜찮을까요?
+……저 같은 사람이 함께해도
+괜찮겠습니까?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-그 대답은 승낙으로
+그 대답은 수락으로
 받아들여도 되겠나?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-네, 물론입니다.
+예, 물론입니다.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-그렇군. 오늘은 이미 늦었으니
-그 이야기는 내일 하도록 하지.
+그런가. 오늘은 이미 늦었으니
+그 얘기는 내일 하도록 하지.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그럼, 실례하겠습니다.
+그럼 이만 물러가겠습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>현재 소지 가르드:<TAG_033>가르드
+<TAG_007>현재 소지 가르드: <TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-네
+예
 아니요
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>이(가)
 [ENDBLOCK]
-파티에 가입했습니다.
+파티에 합류했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
@@ -822,9 +801,9 @@
 [ENDBLOCK]
 <x18><x65><x58><x74><x00><x80><x18><x65><x58><x78><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color>이(가)
 [ENDBLOCK]
@@ -832,44 +811,44 @@
 [ENDBLOCK]
 <x18><x65><x58><x74><x00><x80><x18><x65><x58><x78><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
 [ENDBLOCK]
 <x18><x65><x58><xA4><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>일행은
+<x19><x69><x48><x98><x80> 일행은
 [ENDBLOCK]
 <turquoise>교역 칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>일행은
+<x19><x69><x48><x98><x80> 일행은
 [ENDBLOCK]
 <turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>일행은
+<x19><x69><x48><x98><x80> 일행은
 [ENDBLOCK]
 <turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>일행은
+<x19><x69><x48><x98><x80> 일행은
 [ENDBLOCK]
-칭호: <turquoise>네이처 레인저
+칭호: <turquoise>내추레인저
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>일행은
+<x19><x69><x48><x98><x80> 일행은
 [ENDBLOCK]
 칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>일행은
+<x19><x69><x48><x98><x80> 일행은
 [ENDBLOCK]
 <turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x48><x98><x80>일행은
+<x19><x69><x48><x98><x80> 일행은
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
 <x19><x69><x48><x98><x80>은(는)
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007><x18><x65><x58><x9C><x00><x80>
 <x18><x65><x58><xA0><x00><x80>
@@ -877,152 +856,151 @@
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
-이 ID와 패스워드를 연동 웹사이트에서
-입력하면, 데스티니의 세계가
+<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
+이 ID와 비밀번호를 연동 웹사이트에
+입력하면 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인하세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 비밀번호는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>게임 중의 이벤트나 미니게임을
-클리어하면 연동 ID와 게임 패스워드가
-발행되는 경우가 있습니다.
+<TAG_007>게임 속 이벤트나 미니게임을
+완료하면 연동 ID와 게임 비밀번호가
+발급될 때가 있습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>이 연동 ID와 게임 패스워드를
-웹사이트에 입력하면 데스티니
+<TAG_007>이 연동 ID와 게임 비밀번호를
+웹사이트에 입력하면 데스티니의
 세계가 더욱 넓어집니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 패스워드를 잊어버린 경우에는
+연동 ID와 게임 비밀번호를 잊었다면
 피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외각 없는 휘도 설정은 (RGBA)=(128, 128, 128, 128)입니다
+외각이 없을 때 휘도 설정은 (RGBA)=(128, 128, 128, 128)입니다.
 
 [ENDBLOCK]
-첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+1단계 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다.
 
 [ENDBLOCK]
-두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+2단계 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다.
 
 [ENDBLOCK]
-세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+3단계 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다.
 
 [ENDBLOCK]
-최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다.
 
 [ENDBLOCK]
-설정이 없습니다! (tod=<TAG_059>)
+설정되지 않았습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-장치가 작동하고 있지 않습니다.
+장치는 가동하지 않고 있다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-워프 장치가 작동했습니다.
+워프 장치가 가동되었습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007><x19><x71><x48><x84><x80>의 소디언 디바이스를
 사용할 수 있게 되었습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>「칭호의 설명」
-칭호란 캐릭터에 설정할 수 있는,
-캐릭터 파라미터의 하나입니다.
+<TAG_007>「칭호 설명」
+칭호는 캐릭터에게 설정할 수 있는
+캐릭터 매개변수의 하나입니다.
 구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>메인 메뉴를 연 후, 캐릭터의
-스테이터스를 표시합니다.
-그 화면에서 <Square_ani>을 누르면, 캐릭터의
-스테이터스 표시를 전환할 수 있습니다.
+<TAG_007>메인 메뉴를 연 다음 캐릭터의
+상태를 표시합니다.
+그 화면에서 <Square_ani>를 누르면 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
-페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
-획득한 칭호를 전환할 수 있습니다.
+<TAG_007>상태 화면 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면
+획득한 칭호를 바꿀 수 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+<TAG_007>칭호의 용도는 두 가지입니다.
 첫 번째는……
-「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
+「칭호를 설정하고 마을 사람에게 말을 걸자」
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
-당신에게 흥미를 보이는 사람이 있습니다.
-마을 사람들에게 여러 번 말을 걸었을 때,
-이상한 행동을 하는 경우가 있습니다.
-그때는 가지고 있는 칭호를 다시 설정한 후,
-다시 한 번 말을 걸어보세요.
+<TAG_007>마을 사람 중에는 칭호를 설정하고 말을 걸면
+관심을 보이는 사람이 있습니다. 마을 사람에게
+여러 번 말을 걸다 보면 이상한 반응을 보일 때가 있습니다.
+그럴 때는 가진 칭호를 바꿔 설정한 다음
+다시 말을 걸어 보세요.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
-머리 위에 「？」가 나타나는 경우가 있습니다.
-그때는 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 설정하고, 다시 말을 걸어보세요.
+<TAG_007>힌트: 마을 사람에게 말을 걸면 플레이어의
+머리 위에 「?」가 나타날 때가 있습니다.
+그럴 때는 마을 사람의 대사와 관련 있어 보이는
+칭호를 설정하고 다시 말을 걸어 보세요.
 뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>사용법의 두 번째는……
-「스테이터스 화면을 멋지게 꾸며보자」
-모은 칭호 중에서 마음에 드는 것이 있다면,
-설정해서 스테이터스 화면을 멋지게 연출해 보세요.
+<TAG_007>두 번째 용도는……
+「상태 화면을 멋지게 꾸미자」
+모은 칭호 중 마음에 드는 것이 있다면
+설정해서 상태 화면을 멋지게 꾸며 보세요.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>「돌차기 놀이」란,
-필드에 있는 돌을 차서,
-특정 조건을 클리어하는 놀이입니다.
+<TAG_007>「돌차기 놀이」는
+필드에 있는 돌을 차서
+특정 조건을 달성하는 놀이입니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
-		게임 스타트가 됩니다.
-2: 전투는 돌차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 출입하면,
-		돌은 원래 위치로 돌아갑니다.
+<TAG_007><x0E><x01><x00><x00><x00>기본 규칙을 설명합니다.
+1: 마을 밖에 있는 특정 돌을 차면
+		게임이 시작됩니다.
+2: 전투는 돌차기 놀이의 완료 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
+		돌이 원래 자리로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
@@ -1037,94 +1015,95 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-폐하, 칠장군이 여기에
+폐하, 칠장군이 이곳에
 모두 모였습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-음. 몇 달 만이더라.
-이렇게 모두가 모인 게.
+그래. 이렇게 모두 모인 게
+몇 달 만인지 모르겠구나.
 [ENDBLOCK]
-리온
+린
 [ENDBLOCK]
-그래서, 폐하?\n이번엔 무슨 일로 부르신 거죠?
+그래서, 폐하?
+이번엔 무슨 일로 부르셨지?
 [ENDBLOCK]
 루웨인
 [ENDBLOCK]
-리온, 폐하께
-무슨 말투예요.
+린, 폐하께
+그게 무슨 말투입니까.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-하하하. 신경 쓰지 마라.
-리온, 변함없구나.
+하하하, 신경 쓰지 않아도 되네.
+린은 여전하구나.
 [ENDBLOCK]
 <Melina>
 [ENDBLOCK]
-폐하. 그렇게 리온을
-응석받이로 키우시는 건 어떨까 싶습니다만.
+폐하, 그렇게 린을
+감싸 주시는 건 어떨지 싶습니다만.
 [ENDBLOCK]
-리온
+린
 [ENDBLOCK]
-오~ <Melina>짱.
-폐하께 의견을 내다니, 너도 제법이네.
+오～, <Melina>.
+폐하께 의견까지 내다니, 너도 제법인데.
 [ENDBLOCK]
 <Melina>
 [ENDBLOCK]
-바보 같은……! 그런 게 아니라……!
+무슨 소리야!	그런 뜻이 아니……!
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 자자, 그만하자.
-분명 리온은 <Melina>를
+분명 린은 <Melina>를
 좋아하는 거야.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-그래서 저렇게
-시비를 거는 거라고.
+그래서 그렇게
+시비를 거는 거지.
 [ENDBLOCK]
 <Melina>
 [ENDBLOCK]
-그만해 줘.
-이 녀석에게 사랑받는다니, 소름 돋아.
+그만해.
+저 녀석한테 사랑받는다니 소름 끼쳐.
 [ENDBLOCK]
 <Ascus>
 [ENDBLOCK]
-하지만 세상의 여자들은
-이 녀석에게 사랑받고 싶어 하잖아?
+하지만 세상 여자들은
+이 녀석한테 사랑받고 싶어 하지 않나?
 [ENDBLOCK]
-리온
+린
 [ENDBLOCK]
-잘 말했어 <Ascus>.
-음~~ 대단해!
+잘 말했어, <Ascus>.
+음～～, 훌륭해!
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-이봐, 너희들 폐하 앞이야.
-적당히 좀 해.
+이놈들, 폐하 앞이다.
+적당히 하지 못하겠느냐.
 [ENDBLOCK]
 루웨인
 [ENDBLOCK]
-그래서 폐하. 리온도 여쭤봤지만,
-왜 저희를 소집하신 겁니까?
+그래서 폐하, 린도 여쭈었습니다만
+어찌하여 저희를 소집하셨습니까?
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-특별한 이유가 없으면 안 되나?
+꼭 이유가 있어야 하는가?
 [ENDBLOCK]
 루웨인
 [ENDBLOCK]
-아니, 그런 건……
+아닙니다, 그런 뜻은……
 [ENDBLOCK]
-리온
+린
 [ENDBLOCK]
-안 돼에~
+안 돼요～.
 [ENDBLOCK]
 <Melina>
 [ENDBLOCK]
-이봐, 리온!
-자, <Ascus>도 뭐라고 좀 해봐.
+이봐, 린!
+<Ascus>, 너도 뭐라고 좀 해 봐.
 [ENDBLOCK]
 <Ascus>
 [ENDBLOCK]
@@ -1133,7 +1112,7 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <Melina>
 [ENDBLOCK]
-정말이지, <Ascus>까지!
+정말, <Ascus>까지!
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
@@ -1142,12 +1121,12 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-하하하! 그렇구나.
-너희들의 입장도 고려해야겠구나.
+하하하!	그렇지.
+자네들 처지도 생각해 줘야겠군.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-그럼, 다음에는 너희가
+그럼 다음에도 제군이
 바쁠 때 소집하도록 하지.
 [ENDBLOCK]
 <Dryden>
@@ -1156,46 +1135,46 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-미안했다,
-해산해라.
+미안했네.
+해산하게.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-이런 세상이
-되어버리다니……
+세상이 이렇게
+되어 버릴 줄이야……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-반드시, 우리가
-어떻게든 해보겠습니다.
+반드시 저희가
+어떻게든 해내겠습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-아니, 그게 아니다……
+아니, 그게 아니라……
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-나에게 후계자가 없다는 것을
-걱정하고 있는 것이다.
+짐에게 대를 이을 자식이 없다는 게
+걱정이란 말일세.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-후계자……?
+대를 이을 자식……?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-뒤를 이을 사람 말이야,
-즉 폐하의 후계자 말이지.
+뒤를 이을 사람을 말하지.
+즉 폐하의 후계자란다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-너희가 원래 세계를
-되찾아줄 것이라 믿고 있다……
+제군이 원래의 세상을
+되찾아 주리라는 건 믿고 있네……
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-하지만 다시 내 눈으로
-평화로운 이 나라를 볼 수 있을지는 모르겠구나.
+하지만 짐이 다시 평화로운 이 나라를
+두 눈으로 볼 수 있을지는 모르겠구나.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -1203,32 +1182,32 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-누구 있나! <Queen>과 <Ashley>를
-여기로 불러오너라.
+누구 없느냐!	<Queen>와 <Ashley>를
+이리 불러오너라.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-<Ashley>, 지금 알현했습니다.
+<Ashley>, 지금 왔습니다.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-음, 불러내서
-미안했구나.
+그래, 불러내서
+미안하구나.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-<Ashley>. 여기 오라고 한 것은
-다름이 아니다.
+<Ashley>, 여기로 부른 건
+다름이 아니네.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-<Queen>과는 이전부터
-이야기해왔던 것인데……
+<Queen>와는 예전부터
+이야기했네만……
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-단도직입적으로 말하마. 우리의
-아들이 되어주지 않겠나?
+단도직입적으로 말하지. 우리
+아들이 되어 주지 않겠는가?
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
@@ -1236,51 +1215,51 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-우리 부부에게는 자식이 없습니다.
-그래서……
+우리 부부에게는 아이가 없답니다.
+그러니……
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-정말로…… 저 같은 사람이 괜찮으신가요?
+정말…… 저 같은 사람으로 괜찮으십니까?
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-물론이지. 원래는
-<Finlay>에게 말해두었던 거니까.
+물론이네. 원래는
+<Finlay>에게 꺼냈던 이야기니까.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
 <Finlay>의 동생이라면
-신상에 흠잡을 데가 없지.
+더 바랄 게 없지.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-<S12>……또 형님인가……
+<S12>……또 형인가……
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-뭐라고 했나?
+뭐라고 했는가?
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-어떠냐, <Ashley>?
+어떤가, <Ashley>?
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-<S12>……난…… 대체품이 아니야……
+<S12>……난…… 대신이 아니야……
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-자, 대답을 들려다오.
+자, 답을 들려주게.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
 죄송합니다, 폐하.
-이 제안은 사양하겠습니다.
+이 말씀은 거절하겠습니다.
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-왜 그러는 거야, <Ashley>!
+어째서니, <Ashley>!
 
 [ENDBLOCK]
 <Ashley>
@@ -1293,41 +1272,41 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-이런 세상이
-되어버리다니.
-그 녀석의 형이 있었다면……
+세상이 이렇게
+되어 버릴 줄이야.
+저 아이의 형이 있었다면……
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-그 녀석의 차가운 내면에 있는
-불꽃 같은 강한 의지에 기대를
-걸고 있었는데……
+그 냉정한 속에 품은
+불꽃 같은 강한 의지를
+기대했건만……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Dryden> 님, 대체
-누구 얘기인가요?
+<Dryden> 씨, 대체
+누구 말씀이세요?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-<Lion>의 일이다.
+<Lion> 말이다.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-<Lion>이라면,
-오빠의 친구 아닌가요?
+<Lion> 씨라면
+오빠 친구잖아?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아, 응……
+어, 응……
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-<Hugo>는 믿을 수 없는 녀석이었지만……
+<Hugo>는 속을 알 수 없는 사람이었지만……
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-나는 <Lion>을 믿고 있었다.
+난 <Lion>을 높이 평가했네.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -1335,35 +1314,35 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-저는 분명 <Dryden> 님이
-<Lion>을 싫어한다고 생각했어요.
+전 당연히 <Dryden> 씨가
+<Lion>을 싫어하시는 줄 알았어요.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-그런 건 아니다.
+그렇지 않네.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-그 녀석이 조금 더 성장했을 때,
-그때가 내가 은퇴할 때라고 생각했었지.
+그 아이가 좀 더 자라면
+그때가 내가 은퇴할 때라고 생각했지.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-<Lion>에게 새로운 칠장군을
-맡길 생각이었다.
+<Lion>에게 새로운 칠장군이
+되어 달라고 할 생각이었네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>에게요!?
+<Lion>이요!?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-그래. 하지만 그것도 이제는
-꿈처럼 사라져버렸구나……
+그래. 하지만 이젠 그것도
+꿈으로 사라져 버렸어……
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-그 녀석의 차가운 내면에 있는
-불꽃 같은 강한 의지에 기대를
-걸고 있었는데……
+그 냉정한 속에 품은
+불꽃 같은 강한 의지를
+기대했건만……
 [ENDBLOCK]

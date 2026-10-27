@@ -1,24 +1,25 @@
+// RSCE_NATIVE_V1 cd3810d8115a3c27f1fdf6f84ba75c33fd6a3db383eb0c85941c7011ab97223f
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 그러고 보니 <Philia>,
-왜 기술 이름을 말하지 않게 됐어?
+왜 기술 이름을 안 부르게 됐어?
 [ENDBLOCK]
-있잖아, 자기 이름을 붙인 그거……
+있잖아, 자기 이름을 붙인 거……
 [ENDBLOCK]
-아……
+아아……
 [ENDBLOCK]
-특별한 이유는 없어요.
+별다른 이유는 없어요.
 그냥요.
 [ENDBLOCK]
-흠, 그래?
+흐음, 그렇구나.
 [ENDBLOCK]
-<Philia>ㅡ혹시……
+<Philia>도 참……
 [ENDBLOCK]
-전에 내가 말했던 거,
-혹시 듣고 있었던 걸까?
+전에 내가 한 말을
+혹시 들었던 걸까?
 [ENDBLOCK]

@@ -1,20 +1,21 @@
+// RSCE_NATIVE_V1 f865d584a272066a7bca90e1d3e879640f7caad4aca7fcf180d449db7d5ca49f
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-……
+…………
 [ENDBLOCK]
-휴, 끝났다 끝났어.
-자, 가볼까.
+후우, 끝났다, 끝났어.
+자, 가자.
 [ENDBLOCK]
-그 전에, <Stahn>을 회복시켜라.
-이대로는 아무것도 할 수 없어.
+그 전에 <Stahn>을 회복시켜라.
+이대로는 아무것도 못 해.
 [ENDBLOCK]
-……그냥 내버려 두면,
-의외로 혼자 살아날지도 모르잖아?
+……내버려 두면
+의외로 혼자 살아나지 않을까?
 [ENDBLOCK]
-그럴 리가 없잖아.
+그럴 리 없잖아.
 [ENDBLOCK]

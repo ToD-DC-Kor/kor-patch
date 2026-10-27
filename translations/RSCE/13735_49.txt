@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 a72fcc30a872cda9830a44de14a72324deea22d98e4c851d2f85afa2e916263e
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-어라, 나?
+어라, 나……?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -11,17 +12,17 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-야, 언니!
+누나!
 내 가방 못 봤어?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭐?	왜 <Lion>,
-네가 여기 있는 거야!?
+뭐?	<Lion>, 네가
+왜 여기 있어!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-무슨 소리야, 언니?
+무슨 소리야, 누나?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -29,16 +30,16 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-엄마아아아!
-언니가 이상해졌어요.
+어엄마아!
+누나가 이상해졌어.
 [ENDBLOCK]
 크리스
 [ENDBLOCK]
-언니가 왜 그러니?
+누나가 왜 그러니?
 [ENDBLOCK]
 크리스
 [ENDBLOCK]
-무슨 일이야, <Rutee>?
+왜 그래, <Rutee>?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -46,87 +47,87 @@
 [ENDBLOCK]
 크리스
 [ENDBLOCK]
-확실히 좀 이상하네, 이 아이.
-그보다, 준비는 다 됐어?
+정말 좀 이상하네, 얘가.
+그보다 준비는 다 했니?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-준, 준비? 대체 뭘 위해서?
+주, 준비?	대체 무슨 준비?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-아이고, 뭐라는 거야.
-아빠가 오랜만에 휴가를 내셨잖아.
+정말, 무슨 소리야.
+아빠가 모처럼 휴가를 내셨잖아.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 다 같이 스노우프리아 온천으로
-여행 가는 거잖아!
+여행 가기로 했지!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-여행!? 아빠!?
+여행!?	아빠!?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-왜 그러니?
+무슨 일이니?
 [ENDBLOCK]
 크리스
 [ENDBLOCK]
-자, 당신도 느긋하게 있지 말고,
-빨리 준비해요.
+여보도 느긋하게 있지 말고
+어서 준비하세요.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-뭐야. 나만 따돌리는 거야?
-아빠, 좀 삐졌어.
+뭐야, 나만 따돌리는 거야?
+아빠, 조금 삐치려고 하네.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-아하하하하.
+아하하하.
 [ENDBLOCK]
 크리스
 [ENDBLOCK]
-아하하하하.
+아하하하.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭐, 뭐야 이거!?
-나, 꿈을 꾸고 있는 거지!
+뭐, 뭐야, 이게!?
+나 꿈을 꾸는구나!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 그래, 이건 꿈이야.
-아하, 하하하하하.
+아하, 하하하하.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-뭐래, 이상한 언니.
-근데 난 그런 이상한 언니도
+무슨 소리야, 이상한 누나.
+그래도 난 그런 이상한 누나도
 정말 좋아해.
 [ENDBLOCK]
 크리스
 [ENDBLOCK]
-<Rutee>도 이제 훌륭한 숙녀가 됐구나.
-이번에 같이 쇼핑 가자.
+<Rutee>도 이젠 어엿한 아가씨구나.
+다음엔 같이 쇼핑하러 가자.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-<Rutee>는 아빠의 자랑스러운 딸이야.
-어디에도 시집보내지 않을 거야.
-계속 함께 있어 줘, <Rutee>.
+<Rutee>는 아빠의 자랑스러운 딸이다.
+어디에도 시집 안 보낼 거야.
+같이 있어 주렴, <Rutee>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그만해! 그만해!
+그만해!	그만해!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-나에겐……
+나한텐……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-나에겐 고아원의 꼬마들이 있어!
+나한텐 고아원의 꼬마들이 있어!
 수녀님도 계셔!
 [ENDBLOCK]
 <Rutee>
@@ -136,21 +137,21 @@
 [ENDBLOCK]
 
 [ENDBLOCK]
-……괜찮아?
+……찮아!
 ……<Rutee>……!!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-그래…… 그리고……
-그 녀석도!!
+그래…… 게다가……
+그 녀석도 있다고!!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-어라, 나는……?
+어라, 난……?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-멍하니 자고 있는 것처럼,
+잠든 것처럼 멍하니
 여기 서 있었어.
 [ENDBLOCK]
 프란츠
@@ -160,188 +161,202 @@
 <Rutee>
 [ENDBLOCK]
 ……응.
-아마도 약자가 꾸는 꿈……
+아마 약한 사람이 꾸는 꿈……
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-어서 오세요, <Lion> 님.
+어서 오십시오, <Lion> 님.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-여기는 휴고님의
+여기는 휴고 님의
 저택입니다.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-안녕하세요, <Lion> 님.
+안녕히 주무셨습니까, <Lion> 님.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-조심히 다녀오세요, <Lion> 님.
+조심히 다녀오십시오, <Lion> 님.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-어서 오세요, <Lion> 님.
+어서 오십시오, <Lion> 님.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-여기는 휴고님의
+여기는 휴고 님의
 저택입니다.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-어서 오세요. 주인님은 지금
+어서 오십시오. 주인님은 지금
 외출 중이십니다.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-어째서 주인님께서,
-그런 끔찍한 일을……
+주인님이 왜
+그런 끔찍한 짓을……?
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-이제 이 저택에 있어봤자 소용없겠네.
-하지만 달리 갈 곳도 없고……
+이제 이 저택에 있어 봐야 소용없겠네.
+그렇다고 달리 갈 곳도 없고……
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
 <Marian>이 불쑥 돌아왔어.
-어디 갔다 온 걸까?
+어디 갔던 걸까?
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-어서 오세요. 무슨 일이신가요?
+어서 오십시오. 무슨 일이십니까?
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-……제대로 하지 않으면,
-<Marian>이 시끄러워서 말이야. 놀랐어?
+……제대로 안 하면
+<Marian>이 잔소리를 하거든. 놀랐어?
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-다녀오세요.
-승리를 기원하겠습니다.
+안녕히 다녀오십시오.
+승리하시길 기원하겠습니다.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-……힘내. 응원할게.
+……힘내. 응원하고 있을게.
 [ENDBLOCK]
-오베론 직원
+오베론 사 직원
 [ENDBLOCK]
-<Lion> 님은 장래에 아버님의
-뒤를 이으시지 않나요?
+<Lion> 님은 장차 아버님의
+뒤를 잇지 않으십니까?
 [ENDBLOCK]
-오베론 직원
+오베론 사 직원
 [ENDBLOCK]
-조금 전에 성의 병사가 왔었죠.
-오늘도 임무인가요?
+아까 성에서 병사가 왔었지요.
+오늘도 임무가 있으십니까?
 [ENDBLOCK]
-오베론 직원
+오베론 사 직원
 [ENDBLOCK]
-휴고님은 바쁘신 분이에요.
-좀처럼 뵙기 힘들죠.
+휴고 님은 바쁘신 분이지요.
+좀처럼 뵐 수가 없습니다.
 [ENDBLOCK]
-오베론 직원
+오베론 사 직원
 [ENDBLOCK]
-저희 회사의 이념은 고객님의 일상생활의
-좋은 파트너가 되는 것입니다.
+저희 회사의 이념은 고객 여러분의 일상에
+좋은 동반자가 되는 것입니다.
 [ENDBLOCK]
-오베론 직원
+오베론 사 직원
 [ENDBLOCK]
-회사에 군의 조사가 들어왔습니다.
-무슨 일이 있었던 걸까요?
+군이 회사를 조사하러 왔습니다.
+대체 무슨 일이 있었던 걸까요?
 [ENDBLOCK]
-오베론 직원
+오베론 사 직원
 [ENDBLOCK]
-저, 저는 총수와는 무관합니다!
-정말로 아무것도 몰랐어요!
+저, 저는 총수와 상관없습니다!
+정말 아무것도 몰랐습니다!
 [ENDBLOCK]
-오베론 직원
+오베론 사 직원
 [ENDBLOCK]
-오베론사 관계자라고 알려지면,
-어떤 일을 당할지 모릅니다.
+오베론 사 관계자라는 게 알려지면
+무슨 일을 당할지 모릅니다.
 [ENDBLOCK]
-오베론 직원
+오베론 사 직원
 [ENDBLOCK]
-밖에 나가는 것도 쉽지 않아서,
+밖에 나가지도 못하고
 저택 안에 있을 수밖에 없어요.
 [ENDBLOCK]
-오베론 직원
+오베론 사 직원
 [ENDBLOCK]
-성의 중정에 쌓인 렌즈는,
+성 안뜰에 쌓인 렌즈는
 대부분 저희 회사가 제공한 것입니다.
 [ENDBLOCK]
-오베론 직원
+오베론 사 직원
 [ENDBLOCK]
-이제 와서 그런 일을 해봤자,
-나빠진 이미지는 바뀌지 않겠지만요.
+이제 와서 그런다고
+나빠진 평판이 달라지진 않겠지만요.
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-어서 오세요, 도련님.
+어서 오십시오, 도련님.
+
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-렘브란트 할아버지군. 휴고님은?
+렘브란트 영감이군. 휴고 님은?
+
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-주인님이라면,
+주인님이시라면
 2층에 계십니다.
+
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그래, 알겠어.
+그런가, 좋아.
+
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-새로운 임무를 맡으셨다고 들었습니다.
-요즘 많이 활약하시는군요, 도련님.
+새로운 임무를 받으셨다지요.
+요즘 더욱 활약이 대단하시군요, 도련님.
+
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-도련님은 그만둬.
+도련님이라고 부르지 마라.
 난 이제 어린애가 아니야.
+
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-흐음, 도련님이라……
+흐음, 도련님이시라.
+
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-역시 오베론사의 도련님은
-교육을 잘 받으셨군요.
+역시 오베론 사 귀공자께선
+귀하게 자라셨네요.
+
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-으악!
+끼에에엑!
+
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-쓸데없는 말은 하지 마.
+쓸데없는 소리 하지 마라.
+
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 <Rutee>, 괜찮아?
+
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-손님, 부디 마음 상하지 않으시길.
+손님, 부디 언짢게 생각하지 마십시오.
+
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
-<Lion> 님은 일부러 다른 사람을,
-멀리하려는 버릇이 있으시거든요.
+<Lion> 님은 일부러 다른 사람을
+멀리하려는 성향이 있으시답니다.
+
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-왔구나. 여기서 이야기하기도 그렇고.
-응접실로 가자.
+왔느냐. 여기서 서서 얘기하기도 뭣하니
+홀로 가자.
+
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-어서 오세요.
-빨리 돌아오셨네요.
+어서 오십시오.
+일찍 돌아오셨군요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -349,73 +364,73 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그렇습니까. 그럼,
-차라도 내 올까요?
+그러셨군요. 그럼
+차라도 드릴까요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 고마워. 하지만 곧
-나가야 해서……
+나가 봐야 해서……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-자세히는 말할 수 없지만, 당분간
+자세히 말할 순 없지만 당분간
 저택에 돌아오지 못할 것 같아.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-알겠습니다. 그럼, 기간은
-얼마나 될까요?
+알겠습니다. 기간은
+얼마나 걸리나요?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 모르겠어. 금방 끝날 수도
-있고, 길어질 수도 있어.
+있고 오래 걸릴 수도 있어.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-고개를 들고 기운 내,
+고개 들고 기운 내렴,
 에밀리오.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-엥?
+응?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-뭔가 싫은 일이 있었구나.
-……그것도, 아버님 때문이지?.
+기분 나쁜 일이라도 있었구나.
+……그것도 아버님 때문이지?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-뭐, 뭐라는 거야…… 그런 게 아니야.
+무, 무슨 소리야…… 그런 게 아니야.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-너는, 어릴 때부터 그랬어.
-아버님 이야기만 나오면, 그런 표정을 짓곤 했지.
+넌 어릴 때부터 그랬어.
+아버님 일만 나오면 그런 표정을 지었지.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-<Hugo> 님…… 아버님의 이름이 너무 커서,
-힘든 일도 많이 겪었겠지만……
+<Hugo> 님…… 아버님의 이름이 워낙 커서
+속상한 일도 많았겠지만……
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그렇더라도, 너는 너야.
+그래도 넌 너란다.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Marian>…… 하지만 난……
+<Marian>…… 하지만 나는……
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-……
+…………
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-……에밀리오, 만약 힘든 일이
-더 많다면…… 이름을 되돌리는 건 어때?
+……에밀리오, 만약 괴로운 일이
+더 많다면…… 이름을 되돌리는 건 어떠니?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -428,22 +443,22 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-저기, 에밀리오. 난 네가 이름을
-바꾸기로 결심한 날도 기억하고 있어.
+에밀리오, 네가 이름을 바꾸기로
+결심한 날도 난 기억해.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
 그때까지 네가 얼마나
-고통받아 왔는지도……
+괴로워했는지도……
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-넌 잘 해냈다고 생각해.
-그러니 이제……
+넌 정말 잘해 왔다고 생각해.
+그러니 이젠……
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Marian>, 더 이상 말하지 마.
+<Marian>, 더는 말하지 말아 줘.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -451,70 +466,70 @@
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-괜찮아…… 아무래도 난 내가
-뭘 하고 싶은지 잊고 있었던 것 같아.
+괜찮아…… 아무래도 내가
+뭘 하고 싶은지 잊고 있었나 봐.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Hugo>의 아들이 아닌, 내가 나로서
-있다는 걸 모두에게 인정받겠어.
+<Hugo>의 아들이 아니라 나 자신을
+모두에게 인정받고 말겠어.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그러기 위한……
+그걸 위한……
 <Lion> 매그너스야!
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-알겠어. 그건 누가 정한 것도 아닌,
-너의 결심이구나.
+알았어. 누구도 아닌
+네가 스스로 내린 결심이구나.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그렇다면, 더 이상 고개 숙이면 안 돼.
-에밀리오, 힘내.
+그렇다면 이젠 고개 숙이지 마.
+에밀리오, 힘내렴.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그리고 힘들어질 때는, 언제든 울어.
-그러면, 분명 다시 힘이 날 거야.
+그리고 힘들 땐 언제든 울어도 돼.
+그러면 분명 다시 기운이 날 거야.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-내가, 울 리가 없잖아……
+내가 울 리가 없잖아……
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-우후후후.
+후후후.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-에밀리오. 시간은 괜찮아?
+에밀리오, 시간은 괜찮니?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-응. 이제 갈게.
+응. 슬슬 갈게.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-조심히 다녀와.
+조심해서 다녀오렴.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-다녀올게, <Marian>. 그리고 곧 임무를
-마치고 돌아올게.
+다녀올게, <Marian>. 임무도 빨리
+끝내고 돌아올게.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-그나저나, 많이 컸네……
+그나저나 정말 많이 컸구나……
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-시간이 흐르는 건, 정말 빠르구나.
+시간은 참 빨리도 흐르네.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-어서 오렴, 에밀리오.
+어서 와, 에밀리오.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -523,27 +538,27 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-저녁 식사 준비 중이니,
-조금만 더 기다려줘.
+저녁 준비를 하고 있으니
+조금만 더 기다리렴.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 그럼 이번에야말로 <Marian>도
-함께 식사하자.
+같이 식사하자.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-또 그런 말을 하네.
-아침에도 안 된다고 말했잖아.
+또 그런 말씀을 하시네요.
+아침에도 안 된다고 말씀드렸잖아요.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-농담이야. 그럼,
+농담이야. 그럼
 난 방에 있을게.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-네. 준비되면
+네. 준비가 되면
 부르겠습니다.
 [ENDBLOCK]
 <Lion>
@@ -557,34 +572,34 @@
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-아침에 끝내려고
-했던 일이 끝나지 않아서.
+아침에 끝내려고 했던 일이
+끝나질 않아서.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-신경 쓰지 마.
-그리고 그리 오래 기다리지도 않았어.
+신경 쓰지 않아.
+그렇게 오래 기다리지도 않았고.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-그럼, 어디부터
+그럼 어디부터
 갈까?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-우선, 도구점부터 가자.
+먼저 도구점으로 가자.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>현재 소지 가르드:<TAG_033>가르드
+<TAG_007>현재 소지 가르드: <TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-네
+예
 아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x0C><x80></color>가
+<TAG_007><S03><turquoise><x19><x71><x49><x0C><x80></color>이(가)
 [ENDBLOCK]
-파티에 가입했습니다.
+파티에 합류했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
@@ -596,54 +611,54 @@
 [ENDBLOCK]
 <x18><x65><x58><xFC><x00><x80><x18><x65><x59><x00><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x49><x0C><x80></color>가
+<TAG_007><S03><turquoise><x19><x71><x49><x0C><x80></color>이(가)
 [ENDBLOCK]
 파티에서 빠졌습니다.
 [ENDBLOCK]
 <x18><x65><x58><xFC><x00><x80><x18><x65><x59><x00><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x30><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x2C><x00><x80></color>를 획득했습니다.
+<x18><x65><x59><x2C><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x49><x20><x80>들은
+<x19><x69><x49><x20><x80> 일행은
 [ENDBLOCK]
 <turquoise>교역 칭호
 [ENDBLOCK]
-<x19><x69><x49><x20><x80>들은
+<x19><x69><x49><x20><x80> 일행은
 [ENDBLOCK]
 <turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x49><x20><x80>들은
+<x19><x69><x49><x20><x80> 일행은
 [ENDBLOCK]
 <turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x49><x20><x80>들은
+<x19><x69><x49><x20><x80> 일행은
 [ENDBLOCK]
-칭호: <turquoise>네이처 레인저
+칭호: <turquoise>내추레인저
 [ENDBLOCK]
-<x19><x69><x49><x20><x80>들은
+<x19><x69><x49><x20><x80> 일행은
 [ENDBLOCK]
 칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x49><x20><x80>들은
+<x19><x69><x49><x20><x80> 일행은
 [ENDBLOCK]
 <turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x49><x20><x80>들은
+<x19><x69><x49><x20><x80> 일행은
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
-<x19><x69><x49><x20><x80>은
+<x19><x69><x49><x20><x80>은(는)
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007><x18><x65><x59><x24><x00><x80>
 <x18><x65><x59><x28><x00><x80>
@@ -651,152 +666,151 @@
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
-이 ID와 패스워드를 연동 웹사이트에서
-입력하면, 데스티니의 세계가
+<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
+이 ID와 비밀번호를 연동 웹사이트에
+입력하면 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인하세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 비밀번호는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>게임 중의 이벤트나 미니게임을
-클리어하면 연동 ID와 게임 패스워드가
-발행되는 경우가 있습니다.
+<TAG_007>게임 속 이벤트나 미니게임을
+완료하면 연동 ID와 게임 비밀번호가
+발급될 때가 있습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>이 연동 ID와 게임 패스워드를
-웹사이트에 입력하면 데스티니
+<TAG_007>이 연동 ID와 게임 비밀번호를
+웹사이트에 입력하면 데스티니의
 세계가 더욱 넓어집니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 패스워드를 잊어버린 경우에는
+연동 ID와 게임 비밀번호를 잊었다면
 피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외각 없는 휘도 설정은 (RGBA)=(128, 128, 128, 128)입니다
+외각이 없을 때 휘도 설정은 (RGBA)=(128, 128, 128, 128)입니다.
 
 [ENDBLOCK]
-첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+1단계 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다.
 
 [ENDBLOCK]
-두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+2단계 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다.
 
 [ENDBLOCK]
-세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+3단계 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다.
 
 [ENDBLOCK]
-최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다.
 
 [ENDBLOCK]
-설정이 없습니다! (tod=<TAG_059>)
+설정되지 않았습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-장치가 작동하고 있지 않습니다.
+장치는 가동하지 않고 있다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-워프 장치가 작동했습니다.
+워프 장치가 가동되었습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007><x19><x71><x49><x0C><x80>의 소디언 디바이스를
 사용할 수 있게 되었습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>「칭호의 설명」
-칭호란 캐릭터에 설정할 수 있는,
-캐릭터 파라미터의 하나입니다.
+<TAG_007>「칭호 설명」
+칭호는 캐릭터에게 설정할 수 있는
+캐릭터 매개변수의 하나입니다.
 구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>메인 메뉴를 연 후, 캐릭터의
-스테이터스를 표시합니다.
-그 화면에서 <Square_ani>을 누르면, 캐릭터의
-스테이터스 표시를 전환할 수 있습니다.
+<TAG_007>메인 메뉴를 연 다음 캐릭터의
+상태를 표시합니다.
+그 화면에서 <Square_ani>를 누르면 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
-페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
-획득한 칭호를 전환할 수 있습니다.
+<TAG_007>상태 화면 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면
+획득한 칭호를 바꿀 수 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+<TAG_007>칭호의 용도는 두 가지입니다.
 첫 번째는……
-「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
+「칭호를 설정하고 마을 사람에게 말을 걸자」
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
-당신에게 흥미를 보이는 사람이 있습니다.
-마을 사람들에게 여러 번 말을 걸었을 때,
-이상한 행동을 하는 경우가 있습니다.
-그때는 가지고 있는 칭호를 다시 설정한 후,
-다시 한 번 말을 걸어보세요.
+<TAG_007>마을 사람 중에는 칭호를 설정하고 말을 걸면
+관심을 보이는 사람이 있습니다. 마을 사람에게
+여러 번 말을 걸다 보면 이상한 반응을 보일 때가 있습니다.
+그럴 때는 가진 칭호를 바꿔 설정한 다음
+다시 말을 걸어 보세요.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
-머리 위에 「？」가 나타나는 경우가 있습니다.
-그때는 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 설정하고, 다시 말을 걸어보세요.
+<TAG_007>힌트: 마을 사람에게 말을 걸면 플레이어의
+머리 위에 「?」가 나타날 때가 있습니다.
+그럴 때는 마을 사람의 대사와 관련 있어 보이는
+칭호를 설정하고 다시 말을 걸어 보세요.
 뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>사용법의 두 번째는……
-「스테이터스 화면을 멋지게 꾸며보자」
-모은 칭호 중에서 마음에 드는 것이 있다면,
-설정해서 스테이터스 화면을 멋지게 연출해 보세요.
+<TAG_007>두 번째 용도는……
+「상태 화면을 멋지게 꾸미자」
+모은 칭호 중 마음에 드는 것이 있다면
+설정해서 상태 화면을 멋지게 꾸며 보세요.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>「돌차기 놀이」란,
-필드에 있는 돌을 차서,
-특정 조건을 클리어하는 놀이입니다.
+<TAG_007>「돌차기 놀이」는
+필드에 있는 돌을 차서
+특정 조건을 달성하는 놀이입니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
-		게임 스타트가 됩니다.
-2: 전투는 돌차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 출입하면,
-		돌은 원래 위치로 돌아갑니다.
+<TAG_007><x0E><x01><x00><x00><x00>기본 규칙을 설명합니다.
+1: 마을 밖에 있는 특정 돌을 차면
+		게임이 시작됩니다.
+2: 전투는 돌차기 놀이의 완료 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
+		돌이 원래 자리로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】

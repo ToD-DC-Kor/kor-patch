@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 a2b491daca900d7836ba72e4d9b6bf0db620ea59df4721657562e52a57782062
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-시덴 영내에서 로프가
-있을 만한 곳을 찾아보자.
+시덴령 안에서 밧줄이
+있을 만한 곳을 찾자.
 [ENDBLOCK]

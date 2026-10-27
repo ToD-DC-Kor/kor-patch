@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 98de79544a650614bb1bde9c01c571172d97d9090d1e03d0eff24fcfebac6444
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 잠깐, 어디 가려고~?
-마을 밖에 볼일 없잖아~.
+도시 밖에는 볼일 없잖아~.
 [ENDBLOCK]

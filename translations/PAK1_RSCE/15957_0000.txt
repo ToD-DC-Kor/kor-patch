@@ -1,20 +1,21 @@
+// RSCE_NATIVE_V1 780c10887fe2c24b0d6e776cb54be117afabebe5d5c24b7e623b7d701edf01f1
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-있잖아, 전송장치가 뭐야?
+있잖아, 전송 장치가 뭐야?
 [ENDBLOCK]
-떨어진 장소와 장소를 연결해서,
-신속하게 이동할 수 있는 장치를 말해.
+멀리 떨어진 장소를 연결해서
+빠르게 이동하게 해 주는 장치다.
 [ENDBLOCK]
-헤에, 편리하네.
+오, 편리하네.
 [ENDBLOCK]
-그래, 정말 편리하지.
+그래, 편리하고말고.
 [ENDBLOCK]
-성의 없구나……
+대충 대답하네……
 [ENDBLOCK]
-시간이 없어서 그래.
+시간이 없으니까.
 [ENDBLOCK]

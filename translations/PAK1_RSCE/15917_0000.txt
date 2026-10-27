@@ -1,5 +1,6 @@
+// RSCE_NATIVE_V1 2f6df41f863a3b9852b0c5f4913d7b4587fc4b21e90bb88d9361439030fcd3e0
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>

@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 560b08d28e809300499786771dc31a923254ab1cf810ca4f603aa278014fc9db
 
 보너스
 
@@ -7,5 +8,5 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 신의 눈이 무사한지 드디어 알 수 있겠네.
 [ENDBLOCK]
-대성당으로 서둘러야 해, <Stahn>.
+대성당으로 서둘러라, <Stahn>.
 [ENDBLOCK]

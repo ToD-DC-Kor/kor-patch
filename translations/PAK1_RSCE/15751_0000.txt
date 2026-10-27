@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 55fd2b1f6ae72d549ca2fd4af4f131ff08185c06cd98b7f0eadc140073261a8f
 
 보너스
 
@@ -5,8 +6,8 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-서둘러 체리크 마을에 있는
-칼바레이스 항구로 돌아가자.
+서둘러 체리크 마을의
+칼바레이스 항구로 돌아간다.
 [ENDBLOCK]
-이 대륙에 왔을 때 들렀던 항구야.
+이 대륙에 올 때 들렀던 항구다.
 [ENDBLOCK]

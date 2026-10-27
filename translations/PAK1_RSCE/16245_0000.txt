@@ -1,5 +1,6 @@
+// RSCE_NATIVE_V1 139ce5ebb7c8e6f593ab77cabe45f4f983243307f5788e333bbf4e4df44ec8ad
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
@@ -7,23 +8,23 @@ get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 [ENDBLOCK]
 오늘은 주먹밥을 만들어 봤어요.
 [ENDBLOCK]
-흠, 맛있어 보이네. 하나 먹어볼게.
+오, 맛있겠다. 하나 먹을게.
 [ENDBLOCK]
-맛이 어떠세요?
+맛이 어떤가요?
 [ENDBLOCK]
-특제 약품에 담가뒀으니까
+특제 약품에 담가 뒀으니까
 괜찮겠죠?
 [ENDBLOCK]
-콜록! 콜록! 야!!
+콜록!	콜록!	이봐!
 [ENDBLOCK]
 ……입에 안 맞으셨나요?
 [ENDBLOCK]
-『……괜찮겠죠?』라니……
+「……괜찮겠죠?」라니……
 [ENDBLOCK]
-너, 맛을 보지도 않았구나!
+너, 맛 안 봤지!
 [ENDBLOCK]
-죄, 죄송합니다!
+죄, 죄송해요!
 [ENDBLOCK]
-다른 지적할 문제가
-있다고 생각하는데……
+따져야 할 문제는
+따로 있는 것 같은데……
 [ENDBLOCK]

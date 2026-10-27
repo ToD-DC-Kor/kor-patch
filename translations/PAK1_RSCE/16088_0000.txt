@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 4f1e4bf0b62a7d0bc504040874d340b8eb39d9a4855d8c5b8f1dd2de5a856c3e
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-우리 손으로 믹트란을 물리치자!
+우리 손으로 믹트란을 쓰러뜨리는 거야!
 비행룡을 타고 다이크로프트로 쳐들어가자!
 [ENDBLOCK]

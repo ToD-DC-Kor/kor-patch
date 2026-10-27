@@ -1,16 +1,17 @@
+// RSCE_NATIVE_V1 7a7971171e496b529c381a2135b72e5a061cbccb2017814604aa1c67b3d762a1
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Lion>, 피코한을 많이
-꺼낼 수 없어?
+<Lion>, 뿅망치를 잔뜩
+꺼낼 수는 없어?
 [ENDBLOCK]
-꺼내서 뭐하게?
+꺼내서 뭘 하게?
 [ENDBLOCK]
-잡화점에 팔면 돈이 될까 해서.
+도구점에 팔면 돈이 될까 해서.
 [ENDBLOCK]
 이거라면 많이 있어요.
 [ENDBLOCK]

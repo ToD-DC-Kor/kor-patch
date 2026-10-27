@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 0e7537a1193e3c1986e3431ff343d0f8b4fd7ddb7c246c9549b987f6496dd2cd
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-라디슬로우는 칼바레이스의 동쪽에 있어.
-다릴쉐이드에서는 북서쪽 방향이야.
+라디슬로우는 칼바레이스 동쪽에 있어.
+다릴쉐이드에서는 북서쪽이지.
 [ENDBLOCK]

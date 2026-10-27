@@ -1,29 +1,30 @@
+// RSCE_NATIVE_V1 e359e9c3182d4f2a7af12c59d7aa98bad2bd6438bf820f3197f80042ac4164f5
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-나, <Stahn> 엘론이,
-의지를 가진 검 딤로스를 만나고……
+나, <Stahn> 엘론이
+의지를 지닌 검 딤로스를 만나……
 [ENDBLOCK]
-……운명의 큰 소용돌이에 휘말리게 된다.
+……거대한 운명의 소용돌이에 휘말린다.
 [ENDBLOCK]
 세계의 이변, 암약하는 수수께끼의 존재……
 [ENDBLOCK]
-많은 동료들과의 만남, 그리고 이별.
+수많은 동료와의 만남, 그리고 이별.
 [ENDBLOCK]
-나…… 아니 우리들의……
+나의…… 아니, 우리들의……
 [ENDBLOCK]
 우리들의……
 [ENDBLOCK]
-운명의 이야기가, 지금 여기에 되살아난다.
+운명 이야기가 지금 여기 되살아난다.
 [ENDBLOCK]
-"PlayStation 2" 용 소프트웨어,
-『Tales of Destiny』
+“플레이스테이션 2”용 소프트웨어,
+「테일즈	오브	데스티니」
 [ENDBLOCK]
-줄여서 『테이데스』!
+줄여서 「테데」!
 [ENDBLOCK]
-그렇게 말하지 않을 거야.
+그렇게 안 불러.
 [ENDBLOCK]

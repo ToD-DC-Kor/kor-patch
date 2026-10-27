@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 bd6abbeed58b4612c4159bb781abe325aa490435bc6fc55085f3689cdc162172
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-크레스타는 다릴쉐이드를 나와서,
-동쪽 방향이야. 서두르자.
+크레스타는 다릴쉐이드를 나와
+동쪽에 있어. 서두르자.
 [ENDBLOCK]

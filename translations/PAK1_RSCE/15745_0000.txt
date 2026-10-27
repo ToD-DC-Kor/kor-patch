@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 18a982c66bc722569e95de91c38ec520ed3aac48ff9bdb8ae53739d090bce38d
 
 보너스
 
@@ -5,6 +6,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-경비병들을 조심하면서,
-대성당을 향해 가봅시다.
+감시병들을 조심하면서
+대성당으로 가요.
 [ENDBLOCK]

@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 ecff76918808475f2fcf2cfcc384faea4c590aae83c1eec4d0f07230c7c22514
 
 보너스
 
@@ -5,6 +6,6 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-하멘츠 마을은 제노스에서 북서쪽 방향에 있어.
-호위를 잘 부탁해.
+하멘츠 마을은 제노스에서 북서쪽이야.
+호위 잘 부탁해.
 [ENDBLOCK]

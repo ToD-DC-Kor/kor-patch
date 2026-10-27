@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 dd2b2a0675fec35fbfb387644237e2bec422e33ff8ab64ef6c8b994a7aa653e0
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-지금은 다른 곳에 갈 때가 아니야!
-무슨 일이 일어나고 있는지 확인해보자.
+지금은 다른 데 갈 때가 아니야!
+무슨 일이 일어나는지 확인하자.
 [ENDBLOCK]

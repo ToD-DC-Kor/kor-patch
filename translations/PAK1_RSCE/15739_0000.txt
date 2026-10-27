@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 c3022d4f6dde461cb26b77e63f61bd14a12db091c7fa5aaa665fad0f6741f2bd
 
 보너스
 
@@ -5,15 +6,15 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-곤란하네, 어떻게 해야 할까.
+곤란하네요. 어떻게 하면 좋죠?
 [ENDBLOCK]
 ……아, <Mary> 씨.
-안경 보지 못하셨나요?
+안경 못 보셨나요?
 [ENDBLOCK]
-나는 <Stahn>이야.
+난 <Stahn>이야.
 [ENDBLOCK]
 죄, 죄송해요.
 안경이 없으면 정말 아무것도 안 보여서요.
 [ENDBLOCK]
-안경을 찾는데 안경이 필요하다니.
+안경을 찾는 데 안경이 필요하겠구먼.
 [ENDBLOCK]

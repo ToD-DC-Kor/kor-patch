@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 c0a400edde52319994a1ddf31f530396363a6db7a1836672c5d7eec2fdf28324
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-어디로 가는 거야?	해야 할 일이 있을 텐데.
+어디 가는 거야?	해야 할 일이 있잖아.
 [ENDBLOCK]

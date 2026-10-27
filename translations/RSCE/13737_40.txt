@@ -1,74 +1,75 @@
+// RSCE_NATIVE_V1 b951ed540a86225baffc99166eb970775ee509c4e5589069c8fbc992412ec558
 
 [ENDBLOCK]
 <TAG_005>변기 안에는 아무것도 없다.
 
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
 무슨 일이십니까,
 <Lion> 님.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
 지금은 손을 뗄 수 없습니다.
-나중에 와 주십시오.
+나중에 말씀해 주세요.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
 무슨 일이십니까,
 <Lion> 님.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
 지금은 손을 뗄 수 없습니다.
-나중에 와 주십시오.
+나중에 말씀해 주세요.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-저택에 병사들이 많이 와서,
-도련님과 주인님에 대해 물어봤어요.
+저택에 병사들이 잔뜩 와서
+도련님이랑 주인님 얘기를 묻더라.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-도련님과 주인님이 <King>폐하에게
-반란을 일으켰다는 소문이 사실이군요.
+도련님과 주인님이 <King> 폐하께
+반란을 일으켰다는 소문, 사실이구나.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-이럴 줄 알았다면 도련님과 주인님에게
-더 잘 보여둘 걸 그랬어요.
+이럴 줄 알았으면 도련님이나 주인님께
+더 잘 보여 둘걸 그랬네.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-있잖아, 도련님은 죽었다면서요?
-그렇게 들었어요.
+있잖아, 도련님은 죽었다며?
+난 그렇게 들었어.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-그런데도 <Marian>은,
-어떻게 저렇게 태연할 수 있는 거야.
+그런데도 <Marian>은
+어떻게 저렇게 태연할 수 있는지.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-왠지 몸에 힘이 들어가지 않아요.
-대체 어떻게 된 걸까요.
+왠지 몸에 힘이 안 들어가.
+대체 왜 이러는 걸까.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-부탁이에요…… 원래 세계를
-되찾아 주세요……
+부탁이야…… 세상을
+원래대로 되돌려 줘……
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>현재 소지 가르드:<TAG_033>가르드
+<TAG_007>현재 소지 가르드: <TAG_033>가르드
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
-네
+예
 아니요
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>가
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>이(가)
 [ENDBLOCK]
-파티에 가입했습니다.
+파티에 합류했습니다.
 [ENDBLOCK]
 동료가 되었습니다.
 [ENDBLOCK]
@@ -80,54 +81,54 @@
 [ENDBLOCK]
 <x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>가
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color>이(가)
 [ENDBLOCK]
 파티에서 빠졌습니다.
 [ENDBLOCK]
 <x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 칭호: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
 [ENDBLOCK]
 <x18><x65><x57><xE8><x00><x80></color>을(를) 획득했습니다.
 
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>들은
+<x19><x69><x47><xDC><x80> 일행은
 [ENDBLOCK]
 <turquoise>교역 칭호
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>들은
+<x19><x69><x47><xDC><x80> 일행은
 [ENDBLOCK]
 <turquoise>온천 칭호
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>들은
+<x19><x69><x47><xDC><x80> 일행은
 [ENDBLOCK]
 <turquoise>자유 칭호
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>들은
+<x19><x69><x47><xDC><x80> 일행은
 [ENDBLOCK]
-칭호: <turquoise>네이처 레인저
+칭호: <turquoise>내추레인저
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>들은
+<x19><x69><x47><xDC><x80> 일행은
 [ENDBLOCK]
 칭호: <turquoise>대시 시리즈
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>들은
+<x19><x69><x47><xDC><x80> 일행은
 [ENDBLOCK]
 <turquoise>최강의 칭호
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80>들은
+<x19><x69><x47><xDC><x80> 일행은
 [ENDBLOCK]
 <turquoise>퀴즈 칭호
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80>은(는)
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007><x18><x65><x57><xE0><x00><x80>
 <x18><x65><x57><xE4><x00><x80>
@@ -135,152 +136,151 @@
 camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <x1A><x20><x72><x0C><x98><x80>은(는)
 이미 가지고 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>연동 ID와 게임 패스워드를 발행합니다.
-이 ID와 패스워드를 연동 웹사이트에서
-입력하면, 데스티니의 세계가
+<TAG_007>연동 ID와 게임 비밀번호를 발급합니다.
+이 ID와 비밀번호를 연동 웹사이트에
+입력하면 데스티니의 세계가
 더욱 넓어집니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>자세한 내용은 아래 URL에서 확인해 주세요.
+<TAG_007>자세한 내용은 아래 URL에서 확인하세요.
 <x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>연동 ID는 <turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
-</color>게임 패스워드는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>게임 비밀번호는 <turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
 </color>입니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>게임 중의 이벤트나 미니게임을
-클리어하면 연동 ID와 게임 패스워드가
-발행되는 경우가 있습니다.
+<TAG_007>게임 속 이벤트나 미니게임을
+완료하면 연동 ID와 게임 비밀번호가
+발급될 때가 있습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>이 연동 ID와 게임 패스워드를
-웹사이트에 입력하면 데스티니
+<TAG_007>이 연동 ID와 게임 비밀번호를
+웹사이트에 입력하면 데스티니의
 세계가 더욱 넓어집니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <TAG_007>웹사이트에 입력할
-연동 ID와 게임 패스워드를 잊어버린 경우에는
+연동 ID와 게임 비밀번호를 잊었다면
 피츠가르드에 있는 여행자의 오두막에서
 확인할 수 있습니다.
 [ENDBLOCK]
-외각 없는 휘도 설정은 (RGBA)=(128, 128, 128, 128)입니다
+외각이 없을 때 휘도 설정은 (RGBA)=(128, 128, 128, 128)입니다.
 
 [ENDBLOCK]
-첫 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+1단계 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다.
 
 [ENDBLOCK]
-두 번째 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+2단계 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다.
 
 [ENDBLOCK]
-세 번째 단계의 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다
+3단계 휘도 설정은 (RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)입니다.
 
 [ENDBLOCK]
-최종 단계의 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다
+최종 단계 휘도 설정은 (RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)입니다.
 
 [ENDBLOCK]
-설정이 없습니다! (tod=<TAG_059>)
+설정되지 않았습니다! (tod=<TAG_059>)
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-장치가 작동하고 있지 않습니다.
+장치는 가동하지 않고 있다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-워프 장치가 작동했습니다.
+워프 장치가 가동되었습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
 <x18><x66><x10><x00><x80>
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007><x19><x71><x47><xC8><x80>의 소디언 디바이스가
- 사용 가능해졌습니다.
+<TAG_007><x19><x71><x47><xC8><x80>의 소디언 디바이스를
+사용할 수 있게 되었습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>「칭호의 설명」
-칭호란 캐릭터에 설정할 수 있는,
-캐릭터 파라미터의 하나입니다.
+<TAG_007>「칭호 설명」
+칭호는 캐릭터에게 설정할 수 있는
+캐릭터 매개변수의 하나입니다.
 구체적인 설정 방법은 다음과 같습니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>메인 메뉴를 연 후, 캐릭터의
-스테이터스를 표시합니다.
-그 화면에서 <Square_ani>을 누르면, 캐릭터의
-스테이터스 표시를 전환할 수 있습니다.
+<TAG_007>메인 메뉴를 연 다음 캐릭터의
+상태를 표시합니다.
+그 화면에서 <Square_ani>를 누르면 캐릭터의
+상태 표시를 전환할 수 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>스테이터스의 맨 위에 「칭호」라고 쓰인
-페이지가 있습니다. 그 화면에서 <Triangle_ani>을 누르면,
-획득한 칭호를 전환할 수 있습니다.
+<TAG_007>상태 화면 맨 위에 「칭호」라고 쓰인
+페이지가 있습니다. 그 화면에서 <Triangle_ani>를 누르면
+획득한 칭호를 바꿀 수 있습니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>칭호의 사용법에는 두 가지가 있습니다.
+<TAG_007>칭호의 용도는 두 가지입니다.
 첫 번째는……
-「칭호를 설정하고, 마을 사람들에게 말을 걸어보자」
+「칭호를 설정하고 마을 사람에게 말을 걸자」
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>마을 사람들 중에는 칭호를 설정하고 말을 걸면,
-당신에게 흥미를 보이는 사람이 있습니다.
-마을 사람들에게 여러 번 말을 걸었을 때,
-이상한 행동을 하는 경우가 있습니다.
-그때는 가지고 있는 칭호를 다시 설정한 후,
-다시 한 번 말을 걸어보세요.
+<TAG_007>마을 사람 중에는 칭호를 설정하고 말을 걸면
+관심을 보이는 사람이 있습니다. 마을 사람에게
+여러 번 말을 걸다 보면 이상한 반응을 보일 때가 있습니다.
+그럴 때는 가진 칭호를 바꿔 설정한 다음
+다시 말을 걸어 보세요.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>힌트: 마을 사람에게 말을 걸었을 때, 플레이어의
-머리 위에 「？」가 나타나는 경우가 있습니다.
-그때는 마을 사람의 대사와 관련이 있을 것 같은
-칭호를 설정하고, 다시 말을 걸어보세요.
+<TAG_007>힌트: 마을 사람에게 말을 걸면 플레이어의
+머리 위에 「?」가 나타날 때가 있습니다.
+그럴 때는 마을 사람의 대사와 관련 있어 보이는
+칭호를 설정하고 다시 말을 걸어 보세요.
 뭔가 좋은 일이 일어날지도 모릅니다.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>사용법의 두 번째는……
-「스테이터스 화면을 멋지게 꾸며보자」
-모은 칭호 중에서 마음에 드는 것이 있다면,
-설정해서 스테이터스 화면을 멋지게 연출해 보세요.
+<TAG_007>두 번째 용도는……
+「상태 화면을 멋지게 꾸미자」
+모은 칭호 중 마음에 드는 것이 있다면
+설정해서 상태 화면을 멋지게 꾸며 보세요.
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007>「돌차기 놀이」란,
-필드에 있는 돌을 차서,
-특정 조건을 클리어하는 놀이입니다.
+<TAG_007>「돌차기 놀이」는
+필드에 있는 돌을 차서
+특정 조건을 달성하는 놀이입니다.
 
 [ENDBLOCK]
-알림
+notice
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00>기본적인 규칙을 설명합니다.
-1: 마을 밖에 있는 특정 돌을 차면,
-		게임 스타트가 됩니다.
-2: 전투는 돌차기 놀이의 클리어 조건에
-		영향을 미치지 않습니다.
-3: 마을이나 던전을 출입하면,
-		돌은 원래 위치로 돌아갑니다.
+<TAG_007><x0E><x01><x00><x00><x00>기본 규칙을 설명합니다.
+1: 마을 밖에 있는 특정 돌을 차면
+		게임이 시작됩니다.
+2: 전투는 돌차기 놀이의 완료 조건에
+		영향을 주지 않습니다.
+3: 마을이나 던전을 드나들면
+		돌이 원래 자리로 돌아갑니다.
 
 [ENDBLOCK]
 【BGM : no=<TAG_031> - vol=<TAG_032>】
@@ -293,244 +293,244 @@ camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
 [ENDBLOCK]
 <TAG_008><S06>Now Loading...
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-오늘 식단을 어떻게 할까요.
-당신이라면 어떻게 하겠어요?
+오늘은 무슨 요리를 할까.
+당신이라면 뭘 하겠어?
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-오늘 식단을 어떻게 하면 좋을까요?
+오늘은 무슨 요리를 하면 좋을까?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-그렇군, 캄발라 베어의
-허브 구이는 어떠냐?
+그러게, 캄바라 베어
+허브구이는 어때?
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-네, 그거 좋네요.
+네, 그거 좋겠네요.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-그럼, 요리책을 찾아와야겠어요!
+그럼 요리책을 찾아와야겠다!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-어머, <Mary>가 알려줬으면
+어머, <Mary>가 가르쳐 주면
 좋았을 텐데.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-하지만 이미 가버렸으니까.
+하지만 이미 가 버렸는걸.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-돌아온 것 같아요.
+다시 돌아온 것 같아요.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-이게 뭘까?
+이게 뭐지?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-무슨 일이에요?
+왜 그러세요?
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
 요리책에 이런 메모가
 끼워져 있었어요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-보여줄 수 있어?
+보여 주겠어요?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-요리 재료가 메모되어 있는 것 같네요.
+요리 재료를 적어 놓은 것 같네.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 그런데 이건 또
-달콤한 것들뿐이군.
+온통 단것뿐이네.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-확실히 그렇네요.
-저도 이 정도로 달콤한 건 좀……
+정말 그렇네요.
+저도 이렇게 단 건 좀……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-한가한 메이드가
-과자라도 만들려고 했겠지?
+한가한 하녀가
+과자라도 만들려고 한 거겠지.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-이 이중 동그라미가 쳐진 부분.
-들어본 적 없는 과자네.
+여기 동그라미를 두 개 친 부분.
+처음 듣는 과자 이름이네.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-나도 모르겠어.
-푸…… 딩, 이라고 하는 것 같군.
+나도 모르겠네.
+푸……딩이라고 하는 모양이야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭔가 맛있어 보이는 과자네요.
+왠지 맛있어 보이는 과자인데.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>는 과자 이름만 보고
-맛을 알 수 있나?
+<Rutee>는 과자 이름만 듣고도
+맛이 어떤지 알아?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭐랄까, 알 수 있어.
+그냥 감으로 알지.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
 어머, 당신들은 분명
-<Lion> 님의.
+<Lion> 님의……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-네. 맞습니다만……
-저희가 뭐 잘못했나요?
+네, 그런데요……
+저희가 왜요?
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-실은…… 그…… 
-아무에게도 말하지 않으실 거죠?
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-무슨 일인지 모르겠지만……
+실은…… 저……
+아무한테도 말 안 하실 거죠?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-괜찮아요, 우리 이렇게 보여도
-약속은 안 깨고, 거짓말도 안 해요.
-[ENDBLOCK]
-메이드
-[ENDBLOCK]
-그럼, 보여드릴게요.
+무슨 얘긴지 모르겠지만……
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-일기인가요?
+괜찮아요. 우리가 이래 봬도
+약속은 지키고 거짓말도 안 해요.
 [ENDBLOCK]
-메이드
+하녀
+[ENDBLOCK]
+그럼 보여 드릴게요.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+일기인가?
+[ENDBLOCK]
+하녀
 [ENDBLOCK]
 누군가의 일기 같아요.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 제목은……
-「비밀 일기…… 우후」?
+「은밀한 일기…… 우후」?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-이게 뭐지?
+이게 뭐야?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-자, 한번 읽어볼까요.
+뭐, 한번 읽어 보자.
 [ENDBLOCK]
-비밀 일기…… 우후
+은밀한 일기…… 우후
 [ENDBLOCK]
-꺄아, 달콤한 거 먹고 싶어~
+꺄아, 단 게 먹고 싶어～.
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-……
+…………
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……달콤한 걸 좋아하는 것 같네요……
+……단 걸 좋아하나 보네……
 [ENDBLOCK]
-비밀 일기…… 우후
+은밀한 일기…… 우후
 [ENDBLOCK]
-어떻게 말했더니, 그 사람이 나에게 푸딩이라는
-과자를 만들어줬어~
+그렇게 말했더니 그이가 나한테 푸딩이라는
+과자를 만들어 줬지 뭐야～.
 [ENDBLOCK]
-비밀 일기…… 우후
+은밀한 일기…… 우후
 [ENDBLOCK]
-나는 여왕님 타입인 걸까?
+난 여왕님 체질인가 봐?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-게다가 자랑 일기네……
+게다가 연애 자랑 일기네……
 [ENDBLOCK]
-비밀 일기…… 우후
+은밀한 일기…… 우후
 [ENDBLOCK]
-그 사람이 갑자기 나에게 반지를 선물
-해줬어. 정말, 돈도 없으면서!
+그이가 갑자기 나한테 반지를
+선물해 줬어. 정말, 돈도 없으면서!
 
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아직 자랑이 계속되는 것 같네.
+연애 자랑이 아직 더 있나 봐.
 [ENDBLOCK]
-비밀 일기…… 우후
+은밀한 일기…… 우후
 [ENDBLOCK]
-이렇게 훌륭한 보석……
-얼마 정도에 팔 수 있을까?
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-사랑보다 돈이 중요한 여자. 최악이네……
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-……
+이렇게 근사한 보석이라니……
+팔면 얼마나 받을 수 있을까?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-뭘 보는 거야.
+사랑보다 돈인 여자네. 최악이야……
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-아니에요……
+…………
 [ENDBLOCK]
-비밀 일기…… 우후
+<Rutee>
 [ENDBLOCK]
-그 사람과 미래 얘기도 했어.
+뭘 봐.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+아뇨……
+[ENDBLOCK]
+은밀한 일기…… 우후
+[ENDBLOCK]
+그이랑 장래 이야기까지 해 버렸어.
 
 [ENDBLOCK]
-비밀 일기…… 우후
+은밀한 일기…… 우후
 [ENDBLOCK]
-난 여자아이가 갖고 싶은데,
-그 사람은 남자아이가 좋대.
+난 딸이 좋은데
+그이는 아들이 좋다는 거야.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-이게 무슨 일기야?
+뭐야, 이 일기는?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-음, <Rutee>랑 좀 비슷한 사람이네.
+조금 <Rutee> 같은 사람이네.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-전혀 닮지 않았어.
+전혀 안 닮았거든.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 자, 돌려줄게요.
 [ENDBLOCK]
-메이드
+하녀
 [ENDBLOCK]
-누구의 일기인지 궁금하지 않나요?
-궁금하죠?
+누구 일기인지 안 궁금하세요?
+궁금하시죠?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-됐어요. 달콤한 걸 좋아하고,
-돈에 욕심 많은 어떤 여자의 일기겠죠.
+됐어요. 단 걸 좋아하고
+돈에 눈이 먼 어떤 여자 일기잖아요.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 <S12>뭐야……
-나랑 그 녀석이랑 똑같잖아.
+나랑 그 녀석하고 똑같잖아.
 [ENDBLOCK]

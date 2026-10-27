@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 ae7a4c85da4883a3748ed7ff859f8ce7c3d32fe592e1af4c28e2bd7436b003be
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 소디언을 강화하는 장치는
-연구소의 가장 안쪽에 있어……
+연구소 가장 안쪽에 있다……
 [ENDBLOCK]

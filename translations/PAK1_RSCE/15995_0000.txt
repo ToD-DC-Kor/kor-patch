@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 943eafe77c9cb06d59e28b6a6cb2c8a15a80ceb34dac31bf6e8641c90bedab8a
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-다음 슈사이아로 향하기 전에,
-일단 라디슬로우로 돌아가는 거다..
+다음 목적지인 슈사이아로 가기 전에
+일단 라디슬로우로 돌아가는 거다.
 [ENDBLOCK]

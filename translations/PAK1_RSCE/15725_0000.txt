@@ -1,3 +1,4 @@
+// RSCE_NATIVE_V1 ebc9504a769e402dcbcbb9772795d4fa0b052614da351c3cde83ed514d303a4a
 
 보너스
 
@@ -5,20 +6,20 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-……
+…………
 [ENDBLOCK]
 <Mary>, 무슨 일 있어?
 [ENDBLOCK]
-앗!	……나는 뭘
-하고 있었던 거지?
+핫!	……내가 뭘
+하고 있었지?
 [ENDBLOCK]
-그거, 내가 묻고 싶은 건데.
+그건 내가 묻고 싶은데.
 [ENDBLOCK]
-기억이 돌아올 것 같아서……
+기억이 돌아올 것 같으면서……
 [ENDBLOCK]
-정말인가요, <Mary> 씨!
+정말이에요, <Mary> 씨!
 [ENDBLOCK]
-전혀 돌아오지 않은 것 같은데……
+전혀 돌아오지 않은 것 같기도 하고……
 [ENDBLOCK]
-……헛된 기대 주지 마.
+……괜히 기대하게 만들지 마.
 [ENDBLOCK]

@@ -1,19 +1,20 @@
+// RSCE_NATIVE_V1 2eb99fb168c50543910e205d6cc7061b535a80366ff387eab5ad3093ce6b6e23
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-스코…… 스카……
+쿠울…… 쿨……
 [ENDBLOCK]
-<Stahn>이란 녀석, 참 잘도 자는구나.
+<Stahn>은 참 잘도 자네.
 [ENDBLOCK]
-지금은 이게 <Stahn> 씨의 역할이니까,
-별로 상관없지 않을까?
+지금은 그게 <Stahn> 씨 역할이니까
+괜찮지 않을까.
 [ENDBLOCK]
-그야 그렇지만……
+그거야 그렇지만……
 [ENDBLOCK]
-우리가 필사적으로 싸우고 있는 옆에서,
-행복한 듯이 자고 있는 걸 보면, 좀 그렇네.
+우리가 필사적으로 싸우는 옆에서
+행복하게 자고 있나 싶으면 좀 그렇지.
 [ENDBLOCK]

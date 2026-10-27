@@ -1,9 +1,10 @@
+// RSCE_NATIVE_V1 6b2ce9cff7e605c8298c3e480bd84a8b547b37c4ba01f45a2f9e462d9af4bb7a
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-일단 이야기를 들어보자.
+일단 이야기를 들어 보자.
 [ENDBLOCK]

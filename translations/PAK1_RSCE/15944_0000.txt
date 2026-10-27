@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 b34332a5d9f59bc9cebb976ab59492ee204836cdf94df27e1af8722cc41fcd7d
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 라디슬로우는
-칼바레이스의 동쪽에 있어. 서두르자.
+칼바레이스 동쪽에 있다. 서두르자.
 [ENDBLOCK]

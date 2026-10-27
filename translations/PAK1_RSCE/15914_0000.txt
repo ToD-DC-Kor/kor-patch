@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 9c8b9d1284650dc0c755bcb4f94de49adbe0a047e7f7e93ebfdbab5aebabc0d9
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-광장에 가야겠네.
-다들 기다리고 있겠지?
+광장으로 가야지.
+다들 기다리고 있다며?
 [ENDBLOCK]

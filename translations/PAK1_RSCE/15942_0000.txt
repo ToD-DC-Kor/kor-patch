@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 915e167501f61218f45ac2433782d4ee3ca42b3ef2d9d4537805801a1ce18788
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-R키도 얻었다.
-이제 신전에 볼일은 없어. 밖으로 나가자.
+Ｒ키도 손에 넣었다.
+이제 신전에는 볼일이 없어. 밖으로 나가자.
 [ENDBLOCK]

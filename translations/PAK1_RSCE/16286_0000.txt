@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 80d4811806bcfd2aac13c0c3a41d9c1abcebf93c12e2353d5aeeb9d2c791bacc
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-두 사람은 이미 하멘츠 마을로 향했어.
+두 사람은 이미 하멘츠 마을로 갔다.
 우리도 서두르자.
 [ENDBLOCK]

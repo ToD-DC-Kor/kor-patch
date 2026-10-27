@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 def838848c2e5ad3b253f8a464b1ac0a18ab53761d4ce94c0460d3559f6e01f2
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-레이놀즈 씨의 이야기가 뭘까?
-세인가르드성에 가보자.
+레이놀즈 씨가 하실 말씀이 뭘까?
+세인가르드 성으로 가 보자.
 [ENDBLOCK]

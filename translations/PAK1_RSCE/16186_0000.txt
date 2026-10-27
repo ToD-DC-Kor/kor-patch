@@ -1,23 +1,24 @@
+// RSCE_NATIVE_V1 e868cbd13c6771f94401f3eecd0ca94ce473a72118a341b98d1f176c1c88f187
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-무슨 일이야, <Woodrow>?
+왜 그래, <Woodrow>?
 [ENDBLOCK]
-<Mary> 씨, 지난 동란 때 암약했던
-유괴단에 대해 알고 있나?
+<Mary> 씨, 지난 소동 때 암약했던
+납치단을 알고 있나?
 [ENDBLOCK]
-잊을 리가 없지. 우리의 뜻에
-먹칠을 한 최악의 놈들이었어.
+잊을 리가. 우리 뜻을
+더럽힌 최악의 녀석들이었지.
 [ENDBLOCK]
-그 녀석들이 뭐라도 했나?
+그 녀석들이 왜?
 [ENDBLOCK]
-여기서만 하는 얘기지만…… 어쩌면,
-<Stahn>이 접촉했던 것 같아.
+여기서만 하는 얘기지만…… 아무래도
+<Stahn>이 접촉한 모양이야.
 [ENDBLOCK]
 뭐라고, <Stahn>이!
-혹시…… 그 점쟁이인가?
+설마…… 그 점쟁이인가?
 [ENDBLOCK]

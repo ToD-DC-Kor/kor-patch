@@ -1,14 +1,15 @@
+// RSCE_NATIVE_V1 d95d2b4bdc95804b89caab6f58ce9f814dd95268849dbc039c02f885a1f74166
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-레이놀즈 씨로부터
-무언가 이야기를 들을 수 있을지도 모르겠어.
+레이놀즈 씨에게
+뭔가 들을 수 있을지도 몰라.
 [ENDBLOCK]
-연구실에 가보자.
+연구실에 가 보자.
 [ENDBLOCK]
 연구실은 성 안에 있었지.
 [ENDBLOCK]

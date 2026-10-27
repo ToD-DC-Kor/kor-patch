@@ -1,28 +1,29 @@
+// RSCE_NATIVE_V1 463f51c26112a08f352acb58a67ffe6af580155df15b7a23f15e635ab40a5c4c
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-스코……
-스카……
+쿠울……
+쿨……
 [ENDBLOCK]
-비기  『사자의 각성』！
+비기 「죽은 자의 기상」!
 [ENDBLOCK]
-으어어어어어ーー！
+크아아아악!
 [ENDBLOCK]
-안녕, 좋은 아침 <Lilith>.
+안녕, 좋은 아침이야, <Lilith>.
 [ENDBLOCK]
-대단한 기술이군, 아가씨.
+굉장한 기술이군, 아가씨.
 [ENDBLOCK]
-잠꾸러기 오빠를 깨우기 위해
-만들어낸 거예요～.
+잠꾸러기 오빠를 깨우려고
+만들어 냈어요~.
 [ENDBLOCK]
-아가씨의 강함의 비결이 그거였군.
-좋아!	이것도 수련이다.
+아가씨가 강한 비결이 그거로군.
+좋아!	이것도 단련이지.
 [ENDBLOCK]
-이제부터는 이 몸이 <Stahn>을 깨우겠어！
+이제부터 이 몸이 <Stahn>을 깨우겠어!
 [ENDBLOCK]
-……싫어요.
+……싫어.
 [ENDBLOCK]

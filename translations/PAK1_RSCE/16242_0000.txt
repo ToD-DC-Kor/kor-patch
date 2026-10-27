@@ -1,13 +1,14 @@
+// RSCE_NATIVE_V1 9d7861676ffa80a0d8aa8e566d2333c071ddf6b0b3544d944d6da61277c4598e
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-목 마르네.
+목마르네.
 [ENDBLOCK]
-네가 말을 많이 하니까 그렇지.
+넌 말을 많이 하니까.
 [ENDBLOCK]
-이거라도 드시겠어요?
+이거라도 드실래요?
 [ENDBLOCK]

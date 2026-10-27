@@ -1,12 +1,13 @@
+// RSCE_NATIVE_V1 96298039c4e7c2cf48b5596f83d5373de22be1f259e8c72f6a23cb9937820226
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
 그 에너지 유닛이 없으면
-어떻게 할 수가 없다고.
+아무것도 못 한다.
 [ENDBLOCK]
-쥐를 잡도록 하게.
+쥐를 잡는 게야.
 [ENDBLOCK]

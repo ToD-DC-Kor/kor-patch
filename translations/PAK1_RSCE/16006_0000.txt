@@ -1,10 +1,11 @@
+// RSCE_NATIVE_V1 5ef667a583bf40e0b9697487723caf8c7baed0f4773aab4f93a5d9b011cb0a2c
 
-おまけ
+보너스
 
 [ENDBLOCK]
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-부유 크루저가 있는 곳은
-믹하일의 최심부였을 텐데……
+부유 크루저는
+믹하일 가장 깊은 곳에 있었을 거야……
 [ENDBLOCK]
